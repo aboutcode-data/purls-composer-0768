@@ -1,0 +1,2 @@
+- pkg:composer/composer-fallback/php-80.symfony-polyfill@1.0
+- pkg:composer/composer-fallback/php-80.symfony-polyfill@1.1

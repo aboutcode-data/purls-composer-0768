@@ -1,0 +1,14 @@
+- pkg:composer/daanra/laravel-lets-encrypt@v0.1
+- pkg:composer/daanra/laravel-lets-encrypt@v0.2
+- pkg:composer/daanra/laravel-lets-encrypt@v0.2.1
+- pkg:composer/daanra/laravel-lets-encrypt@v0.2.2
+- pkg:composer/daanra/laravel-lets-encrypt@v0.2.3
+- pkg:composer/daanra/laravel-lets-encrypt@v0.2.4
+- pkg:composer/daanra/laravel-lets-encrypt@v0.3.0-beta
+- pkg:composer/daanra/laravel-lets-encrypt@v0.4.0
+- pkg:composer/daanra/laravel-lets-encrypt@v0.5.1
+- pkg:composer/daanra/laravel-lets-encrypt@v0.5.2
+- pkg:composer/daanra/laravel-lets-encrypt@v0.5.3
+- pkg:composer/daanra/laravel-lets-encrypt@v0.5.4
+- pkg:composer/daanra/laravel-lets-encrypt@v0.5.5
+- pkg:composer/daanra/laravel-lets-encrypt@v0.5.6

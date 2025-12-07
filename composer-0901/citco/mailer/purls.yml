@@ -1,0 +1,3 @@
+- pkg:composer/citco/mailer@1.1.0
+- pkg:composer/citco/mailer@2.0.0
+- pkg:composer/citco/mailer@v1.0.0

@@ -1,0 +1,6 @@
+- pkg:composer/couchbase/couchbase-encryption@0.0.1
+- pkg:composer/couchbase/couchbase-encryption@0.0.2
+- pkg:composer/couchbase/couchbase-encryption@0.7.0
+- pkg:composer/couchbase/couchbase-encryption@0.7.1
+- pkg:composer/couchbase/couchbase-encryption@0.7.2
+- pkg:composer/couchbase/couchbase-encryption@0.8.0

@@ -1,0 +1,5 @@
+- pkg:composer/corepos/composer-installer@1.0.0
+- pkg:composer/corepos/composer-installer@2.0.0
+- pkg:composer/corepos/composer-installer@3.0.1
+- pkg:composer/corepos/composer-installer@3.0.2
+- pkg:composer/corepos/composer-installer@3.0.3

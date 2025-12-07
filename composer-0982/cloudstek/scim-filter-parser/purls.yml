@@ -1,0 +1,4 @@
+- pkg:composer/cloudstek/scim-filter-parser@v1.0.0
+- pkg:composer/cloudstek/scim-filter-parser@v2.0.0
+- pkg:composer/cloudstek/scim-filter-parser@v3.0.0
+- pkg:composer/cloudstek/scim-filter-parser@v3.0.1

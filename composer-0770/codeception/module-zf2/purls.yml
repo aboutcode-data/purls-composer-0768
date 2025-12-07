@@ -1,0 +1,4 @@
+- pkg:composer/codeception/module-zf2@1.0.0
+- pkg:composer/codeception/module-zf2@1.0.1
+- pkg:composer/codeception/module-zf2@1.0.2
+- pkg:composer/codeception/module-zf2@1.0.3

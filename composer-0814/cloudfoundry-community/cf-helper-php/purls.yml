@@ -1,0 +1,17 @@
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.4.2
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.4.5
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.4.6
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.4.7
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.4.8
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.4.9
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.5.0
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.5.1
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.6.0
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.6.1
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.6.2
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.6.3
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.6.4
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.6.5
+- pkg:composer/cloudfoundry-community/cf-helper-php@1.7.0
+- pkg:composer/cloudfoundry-community/cf-helper-php@2.0.0
+- pkg:composer/cloudfoundry-community/cf-helper-php@2.0.1

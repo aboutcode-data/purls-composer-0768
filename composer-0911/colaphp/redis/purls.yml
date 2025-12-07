@@ -1,0 +1,3 @@
+- pkg:composer/colaphp/redis@1.0.0
+- pkg:composer/colaphp/redis@1.0.1
+- pkg:composer/colaphp/redis@1.0.2

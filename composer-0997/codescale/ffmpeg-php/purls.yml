@@ -1,0 +1,7 @@
+- pkg:composer/codescale/ffmpeg-php@2.7.0
+- pkg:composer/codescale/ffmpeg-php@2.9.0
+- pkg:composer/codescale/ffmpeg-php@3.0.0
+- pkg:composer/codescale/ffmpeg-php@3.1.0
+- pkg:composer/codescale/ffmpeg-php@3.2.0
+- pkg:composer/codescale/ffmpeg-php@3.2.1
+- pkg:composer/codescale/ffmpeg-php@3.2.2

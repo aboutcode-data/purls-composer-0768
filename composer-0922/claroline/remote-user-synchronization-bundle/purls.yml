@@ -1,0 +1,5 @@
+- pkg:composer/claroline/remote-user-synchronization-bundle@1.0.0
+- pkg:composer/claroline/remote-user-synchronization-bundle@2.0.0
+- pkg:composer/claroline/remote-user-synchronization-bundle@5.0.0
+- pkg:composer/claroline/remote-user-synchronization-bundle@6.0.0
+- pkg:composer/claroline/remote-user-synchronization-bundle@6.0.1

@@ -1,0 +1,4 @@
+- pkg:composer/codegym/laravel-slack-output@1.0
+- pkg:composer/codegym/laravel-slack-output@v1.1.0
+- pkg:composer/codegym/laravel-slack-output@v1.2.0
+- pkg:composer/codegym/laravel-slack-output@v1.2.1

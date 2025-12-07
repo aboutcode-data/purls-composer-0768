@@ -1,0 +1,6 @@
+- pkg:composer/compwright/swoole-psr7-compat@1.0.0
+- pkg:composer/compwright/swoole-psr7-compat@1.0.1
+- pkg:composer/compwright/swoole-psr7-compat@1.0.2
+- pkg:composer/compwright/swoole-psr7-compat@1.0.3
+- pkg:composer/compwright/swoole-psr7-compat@2.0.0
+- pkg:composer/compwright/swoole-psr7-compat@2.1.0

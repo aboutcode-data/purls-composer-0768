@@ -1,0 +1,9 @@
+- pkg:composer/codecov/laravel-codecov-opentelemetry@v0.0.1
+- pkg:composer/codecov/laravel-codecov-opentelemetry@v0.0.2-alpha
+- pkg:composer/codecov/laravel-codecov-opentelemetry@v0.1.0-alpha
+- pkg:composer/codecov/laravel-codecov-opentelemetry@v0.1.1-alpha
+- pkg:composer/codecov/laravel-codecov-opentelemetry@v0.1.2-alpha
+- pkg:composer/codecov/laravel-codecov-opentelemetry@v0.1.3-alpha
+- pkg:composer/codecov/laravel-codecov-opentelemetry@v0.1.4
+- pkg:composer/codecov/laravel-codecov-opentelemetry@v0.1.5
+- pkg:composer/codecov/laravel-codecov-opentelemetry@v0.1.6

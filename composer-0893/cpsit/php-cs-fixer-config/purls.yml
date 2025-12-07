@@ -1,0 +1,4 @@
+- pkg:composer/cpsit/php-cs-fixer-config@1.0.0
+- pkg:composer/cpsit/php-cs-fixer-config@1.1.0
+- pkg:composer/cpsit/php-cs-fixer-config@1.2.0
+- pkg:composer/cpsit/php-cs-fixer-config@1.3.0

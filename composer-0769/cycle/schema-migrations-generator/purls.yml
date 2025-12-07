@@ -1,0 +1,6 @@
+- pkg:composer/cycle/schema-migrations-generator@1.0.0
+- pkg:composer/cycle/schema-migrations-generator@2.0.0
+- pkg:composer/cycle/schema-migrations-generator@2.1.0
+- pkg:composer/cycle/schema-migrations-generator@2.1.1
+- pkg:composer/cycle/schema-migrations-generator@2.2.0
+- pkg:composer/cycle/schema-migrations-generator@2.3.0

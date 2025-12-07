@@ -1,0 +1,12 @@
+- pkg:composer/codeception/module-phpbrowser@1.0.0
+- pkg:composer/codeception/module-phpbrowser@1.0.1
+- pkg:composer/codeception/module-phpbrowser@1.0.2
+- pkg:composer/codeception/module-phpbrowser@1.0.3
+- pkg:composer/codeception/module-phpbrowser@2.0.0
+- pkg:composer/codeception/module-phpbrowser@2.0.1
+- pkg:composer/codeception/module-phpbrowser@2.0.2
+- pkg:composer/codeception/module-phpbrowser@2.0.3
+- pkg:composer/codeception/module-phpbrowser@2.5.0
+- pkg:composer/codeception/module-phpbrowser@3.0.0
+- pkg:composer/codeception/module-phpbrowser@3.0.1
+- pkg:composer/codeception/module-phpbrowser@3.0.2

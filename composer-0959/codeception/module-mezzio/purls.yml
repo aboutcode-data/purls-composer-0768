@@ -1,0 +1,9 @@
+- pkg:composer/codeception/module-mezzio@2.0.0
+- pkg:composer/codeception/module-mezzio@2.0.1
+- pkg:composer/codeception/module-mezzio@2.0.2
+- pkg:composer/codeception/module-mezzio@3.0.0
+- pkg:composer/codeception/module-mezzio@3.0.1
+- pkg:composer/codeception/module-mezzio@3.0.2
+- pkg:composer/codeception/module-mezzio@4.0.0
+- pkg:composer/codeception/module-mezzio@4.0.1
+- pkg:composer/codeception/module-mezzio@4.0.2

@@ -1,0 +1,5 @@
+- pkg:composer/connectors/ssl@1.0.0
+- pkg:composer/connectors/ssl@1.1.0
+- pkg:composer/connectors/ssl@2.0.0
+- pkg:composer/connectors/ssl@2.0.1
+- pkg:composer/connectors/ssl@2.0.2

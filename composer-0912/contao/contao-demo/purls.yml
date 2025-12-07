@@ -1,0 +1,6 @@
+- pkg:composer/contao/contao-demo@4.13
+- pkg:composer/contao/contao-demo@5.2
+- pkg:composer/contao/contao-demo@5.3
+- pkg:composer/contao/contao-demo@5.4
+- pkg:composer/contao/contao-demo@5.5
+- pkg:composer/contao/contao-demo@5.6

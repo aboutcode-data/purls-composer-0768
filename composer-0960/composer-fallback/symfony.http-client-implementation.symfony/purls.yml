@@ -1,0 +1,2 @@
+- pkg:composer/composer-fallback/symfony.http-client-implementation.symfony@1.0
+- pkg:composer/composer-fallback/symfony.http-client-implementation.symfony@1.1

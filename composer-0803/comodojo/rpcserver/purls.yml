@@ -1,0 +1,5 @@
+- pkg:composer/comodojo/rpcserver@1.0.0
+- pkg:composer/comodojo/rpcserver@1.0.0-beta1
+- pkg:composer/comodojo/rpcserver@2.0.0
+- pkg:composer/comodojo/rpcserver@2.0.0-beta
+- pkg:composer/comodojo/rpcserver@2.0.0-beta2

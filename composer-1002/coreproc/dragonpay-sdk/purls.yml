@@ -1,0 +1,4 @@
+- pkg:composer/coreproc/dragonpay-sdk@1.0.0
+- pkg:composer/coreproc/dragonpay-sdk@2.0.0
+- pkg:composer/coreproc/dragonpay-sdk@2.0.1
+- pkg:composer/coreproc/dragonpay-sdk@2.0.2

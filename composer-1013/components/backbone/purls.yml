@@ -1,0 +1,5 @@
+- pkg:composer/components/backbone@0.9.10-alpha1
+- pkg:composer/components/backbone@1.0.0
+- pkg:composer/components/backbone@1.1.0
+- pkg:composer/components/backbone@1.1.2
+- pkg:composer/components/backbone@1.2.0

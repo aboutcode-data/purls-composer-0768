@@ -1,0 +1,4 @@
+- pkg:composer/danhunsaker/php-resque@v1.2
+- pkg:composer/danhunsaker/php-resque@v1.2.1
+- pkg:composer/danhunsaker/php-resque@v1.3.2
+- pkg:composer/danhunsaker/php-resque@v1.3.3

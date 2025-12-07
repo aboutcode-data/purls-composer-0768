@@ -1,0 +1,3 @@
+- pkg:composer/cometcast/openapi-php-sdk@v20251117-beta
+- pkg:composer/cometcast/openapi-php-sdk@v20251118-beta
+- pkg:composer/cometcast/openapi-php-sdk@v20251127-beta

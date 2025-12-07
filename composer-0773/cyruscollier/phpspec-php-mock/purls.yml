@@ -1,0 +1,5 @@
+- pkg:composer/cyruscollier/phpspec-php-mock@1.0.0
+- pkg:composer/cyruscollier/phpspec-php-mock@2.0
+- pkg:composer/cyruscollier/phpspec-php-mock@2.1
+- pkg:composer/cyruscollier/phpspec-php-mock@2.1.1
+- pkg:composer/cyruscollier/phpspec-php-mock@2.1.2

@@ -1,0 +1,4 @@
+- pkg:composer/comyoo/laravel-elastic-email@0.1
+- pkg:composer/comyoo/laravel-elastic-email@0.2
+- pkg:composer/comyoo/laravel-elastic-email@v5.5
+- pkg:composer/comyoo/laravel-elastic-email@v6.0

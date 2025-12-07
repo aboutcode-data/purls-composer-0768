@@ -1,0 +1,6 @@
+- pkg:composer/cjs/redis@1.0.0
+- pkg:composer/cjs/redis@1.0.1
+- pkg:composer/cjs/redis@1.0.2
+- pkg:composer/cjs/redis@1.0.3
+- pkg:composer/cjs/redis@1.0.4
+- pkg:composer/cjs/redis@1.0.5

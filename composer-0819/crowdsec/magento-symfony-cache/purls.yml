@@ -1,0 +1,6 @@
+- pkg:composer/crowdsec/magento-symfony-cache@v1.0.0
+- pkg:composer/crowdsec/magento-symfony-cache@v1.1.0
+- pkg:composer/crowdsec/magento-symfony-cache@v2.0.0
+- pkg:composer/crowdsec/magento-symfony-cache@v2.1.0
+- pkg:composer/crowdsec/magento-symfony-cache@v2.2.0
+- pkg:composer/crowdsec/magento-symfony-cache@v3.0.0

@@ -1,0 +1,11 @@
+- pkg:composer/cirrusidentity/simplesamlphp-module-cirrusgeneral@v1.16
+- pkg:composer/cirrusidentity/simplesamlphp-module-cirrusgeneral@v1.18
+- pkg:composer/cirrusidentity/simplesamlphp-module-cirrusgeneral@v2.0.0
+- pkg:composer/cirrusidentity/simplesamlphp-module-cirrusgeneral@v2.0.1
+- pkg:composer/cirrusidentity/simplesamlphp-module-cirrusgeneral@v2.0.2
+- pkg:composer/cirrusidentity/simplesamlphp-module-cirrusgeneral@v2.0.3
+- pkg:composer/cirrusidentity/simplesamlphp-module-cirrusgeneral@v2.0.4
+- pkg:composer/cirrusidentity/simplesamlphp-module-cirrusgeneral@v3.0.0-alpha.1
+- pkg:composer/cirrusidentity/simplesamlphp-module-cirrusgeneral@v3.0.0-alpha.2
+- pkg:composer/cirrusidentity/simplesamlphp-module-cirrusgeneral@v3.0.0-alpha.3
+- pkg:composer/cirrusidentity/simplesamlphp-module-cirrusgeneral@v3.0.0-alpha.4

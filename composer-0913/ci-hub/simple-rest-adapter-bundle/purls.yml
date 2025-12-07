@@ -1,0 +1,5 @@
+- pkg:composer/ci-hub/simple-rest-adapter-bundle@v1.0.0
+- pkg:composer/ci-hub/simple-rest-adapter-bundle@v2.0.0
+- pkg:composer/ci-hub/simple-rest-adapter-bundle@v2.0.1
+- pkg:composer/ci-hub/simple-rest-adapter-bundle@v2.0.2
+- pkg:composer/ci-hub/simple-rest-adapter-bundle@v2.0.3

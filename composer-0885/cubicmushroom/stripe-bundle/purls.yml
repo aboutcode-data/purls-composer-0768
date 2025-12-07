@@ -1,0 +1,5 @@
+- pkg:composer/cubicmushroom/stripe-bundle@1.0.0
+- pkg:composer/cubicmushroom/stripe-bundle@2.7.0
+- pkg:composer/cubicmushroom/stripe-bundle@2.7.1
+- pkg:composer/cubicmushroom/stripe-bundle@2.7.2
+- pkg:composer/cubicmushroom/stripe-bundle@v2.7.3

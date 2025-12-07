@@ -1,0 +1,5 @@
+- pkg:composer/cytopia/check_git@0.2
+- pkg:composer/cytopia/check_git@0.3
+- pkg:composer/cytopia/check_git@0.4
+- pkg:composer/cytopia/check_git@0.5
+- pkg:composer/cytopia/check_git@0.6

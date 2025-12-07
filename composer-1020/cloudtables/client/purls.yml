@@ -1,0 +1,4 @@
+- pkg:composer/cloudtables/client@0.0.1
+- pkg:composer/cloudtables/client@0.0.2
+- pkg:composer/cloudtables/client@1.0.0
+- pkg:composer/cloudtables/client@1.1.0

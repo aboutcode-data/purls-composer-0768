@@ -1,0 +1,4 @@
+- pkg:composer/chimerarocks/behat-lumen-extension@v1.0.0
+- pkg:composer/chimerarocks/behat-lumen-extension@v2.0.0
+- pkg:composer/chimerarocks/behat-lumen-extension@v2.0.1
+- pkg:composer/chimerarocks/behat-lumen-extension@v3.0.0

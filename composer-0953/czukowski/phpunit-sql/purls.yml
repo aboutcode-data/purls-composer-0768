@@ -1,0 +1,16 @@
+- pkg:composer/czukowski/phpunit-sql@4.0
+- pkg:composer/czukowski/phpunit-sql@4.0.1
+- pkg:composer/czukowski/phpunit-sql@4.0.2
+- pkg:composer/czukowski/phpunit-sql@5.0
+- pkg:composer/czukowski/phpunit-sql@5.0.1
+- pkg:composer/czukowski/phpunit-sql@5.0.2
+- pkg:composer/czukowski/phpunit-sql@6.0
+- pkg:composer/czukowski/phpunit-sql@6.0.1
+- pkg:composer/czukowski/phpunit-sql@6.0.2
+- pkg:composer/czukowski/phpunit-sql@6.0.3
+- pkg:composer/czukowski/phpunit-sql@7.0
+- pkg:composer/czukowski/phpunit-sql@7.0.1
+- pkg:composer/czukowski/phpunit-sql@7.0.2
+- pkg:composer/czukowski/phpunit-sql@7.0.3
+- pkg:composer/czukowski/phpunit-sql@8.0
+- pkg:composer/czukowski/phpunit-sql@9.0

@@ -1,0 +1,6 @@
+- pkg:composer/consistence/consistence-jms-serializer-symfony@0.4
+- pkg:composer/consistence/consistence-jms-serializer-symfony@1.0
+- pkg:composer/consistence/consistence-jms-serializer-symfony@1.1
+- pkg:composer/consistence/consistence-jms-serializer-symfony@1.2
+- pkg:composer/consistence/consistence-jms-serializer-symfony@2.0
+- pkg:composer/consistence/consistence-jms-serializer-symfony@2.1

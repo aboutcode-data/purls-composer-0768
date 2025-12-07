@@ -1,0 +1,8 @@
+- pkg:composer/clearcode/wordpress-plugin@v1.0.0
+- pkg:composer/clearcode/wordpress-plugin@v3.0.0
+- pkg:composer/clearcode/wordpress-plugin@v5.0.0
+- pkg:composer/clearcode/wordpress-plugin@v5.0.1
+- pkg:composer/clearcode/wordpress-plugin@v6.0.0
+- pkg:composer/clearcode/wordpress-plugin@v6.0.1
+- pkg:composer/clearcode/wordpress-plugin@v6.0.2
+- pkg:composer/clearcode/wordpress-plugin@v6.0.3

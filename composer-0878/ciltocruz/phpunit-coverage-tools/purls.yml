@@ -1,0 +1,12 @@
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.0.0
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.1.0
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.2.0
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.2.1
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.3.0
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.4.0
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.5.0
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.5.1
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.6.0
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.6.1
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.7.0
+- pkg:composer/ciltocruz/phpunit-coverage-tools@v1.8.0

@@ -1,0 +1,8 @@
+- pkg:composer/cryptoman0/elastic-apm-php@v1.0
+- pkg:composer/cryptoman0/elastic-apm-php@v1.1
+- pkg:composer/cryptoman0/elastic-apm-php@v1.2
+- pkg:composer/cryptoman0/elastic-apm-php@v1.3
+- pkg:composer/cryptoman0/elastic-apm-php@v2.0
+- pkg:composer/cryptoman0/elastic-apm-php@v2.1
+- pkg:composer/cryptoman0/elastic-apm-php@v2.1.1
+- pkg:composer/cryptoman0/elastic-apm-php@v2.1.2

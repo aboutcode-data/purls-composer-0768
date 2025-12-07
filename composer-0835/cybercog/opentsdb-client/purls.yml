@@ -1,0 +1,3 @@
+- pkg:composer/cybercog/opentsdb-client@0.1.0
+- pkg:composer/cybercog/opentsdb-client@0.1.1
+- pkg:composer/cybercog/opentsdb-client@0.2.0
