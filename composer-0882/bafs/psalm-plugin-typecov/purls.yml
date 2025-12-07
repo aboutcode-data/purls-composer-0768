@@ -1,0 +1,2 @@
+- pkg:composer/bafs/psalm-plugin-typecov@v0.1
+- pkg:composer/bafs/psalm-plugin-typecov@v1.0.0

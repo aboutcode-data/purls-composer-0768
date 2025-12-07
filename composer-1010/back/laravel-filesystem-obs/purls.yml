@@ -1,0 +1,7 @@
+- pkg:composer/back/laravel-filesystem-obs@0.0.5
+- pkg:composer/back/laravel-filesystem-obs@0.0.5-beta
+- pkg:composer/back/laravel-filesystem-obs@1.0.0
+- pkg:composer/back/laravel-filesystem-obs@1.0.1
+- pkg:composer/back/laravel-filesystem-obs@2.0.0-beta
+- pkg:composer/back/laravel-filesystem-obs@2.0.1-beta
+- pkg:composer/back/laravel-filesystem-obs@2.0.2-beta

@@ -1,0 +1,5 @@
+- pkg:composer/artisan-build/agent-os-installer@0.1.0
+- pkg:composer/artisan-build/agent-os-installer@0.1.1
+- pkg:composer/artisan-build/agent-os-installer@0.1.2
+- pkg:composer/artisan-build/agent-os-installer@0.2.0
+- pkg:composer/artisan-build/agent-os-installer@0.2.1

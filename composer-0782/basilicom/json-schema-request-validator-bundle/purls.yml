@@ -1,0 +1,5 @@
+- pkg:composer/basilicom/json-schema-request-validator-bundle@v1.0.0
+- pkg:composer/basilicom/json-schema-request-validator-bundle@v2.0.0
+- pkg:composer/basilicom/json-schema-request-validator-bundle@v2.0.0-beta
+- pkg:composer/basilicom/json-schema-request-validator-bundle@v2.0.1
+- pkg:composer/basilicom/json-schema-request-validator-bundle@v3.0.0

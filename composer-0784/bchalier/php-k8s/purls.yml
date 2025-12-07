@@ -1,0 +1,5 @@
+- pkg:composer/bchalier/php-k8s@1.0.0
+- pkg:composer/bchalier/php-k8s@3.10.0
+- pkg:composer/bchalier/php-k8s@3.10.1
+- pkg:composer/bchalier/php-k8s@3.11.0
+- pkg:composer/bchalier/php-k8s@3.9.0

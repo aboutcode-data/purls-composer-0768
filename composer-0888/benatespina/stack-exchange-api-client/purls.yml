@@ -1,0 +1,5 @@
+- pkg:composer/benatespina/stack-exchange-api-client@0.2.0
+- pkg:composer/benatespina/stack-exchange-api-client@0.5.0
+- pkg:composer/benatespina/stack-exchange-api-client@0.6.0
+- pkg:composer/benatespina/stack-exchange-api-client@v0.7.0
+- pkg:composer/benatespina/stack-exchange-api-client@v0.7.1

@@ -1,0 +1,15 @@
+- pkg:composer/bagisto/graphql-api@v1.1.0
+- pkg:composer/bagisto/graphql-api@v1.3.0
+- pkg:composer/bagisto/graphql-api@v1.3.3
+- pkg:composer/bagisto/graphql-api@v1.4.3
+- pkg:composer/bagisto/graphql-api@v1.4.4
+- pkg:composer/bagisto/graphql-api@v1.4.5
+- pkg:composer/bagisto/graphql-api@v1.4.6
+- pkg:composer/bagisto/graphql-api@v1.4.7
+- pkg:composer/bagisto/graphql-api@v2.0.0
+- pkg:composer/bagisto/graphql-api@v2.0.1
+- pkg:composer/bagisto/graphql-api@v2.0.2
+- pkg:composer/bagisto/graphql-api@v2.2.2
+- pkg:composer/bagisto/graphql-api@v2.3.0
+- pkg:composer/bagisto/graphql-api@v2.3.1
+- pkg:composer/bagisto/graphql-api@v2.3.2

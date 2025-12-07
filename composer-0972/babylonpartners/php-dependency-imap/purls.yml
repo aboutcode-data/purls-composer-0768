@@ -1,0 +1,11 @@
+- pkg:composer/babylonpartners/php-dependency-imap@0.1
+- pkg:composer/babylonpartners/php-dependency-imap@0.2
+- pkg:composer/babylonpartners/php-dependency-imap@0.3.0
+- pkg:composer/babylonpartners/php-dependency-imap@0.3.1
+- pkg:composer/babylonpartners/php-dependency-imap@0.4.0
+- pkg:composer/babylonpartners/php-dependency-imap@0.5.0
+- pkg:composer/babylonpartners/php-dependency-imap@0.5.1
+- pkg:composer/babylonpartners/php-dependency-imap@0.9.10
+- pkg:composer/babylonpartners/php-dependency-imap@0.9.12
+- pkg:composer/babylonpartners/php-dependency-imap@0.9.13
+- pkg:composer/babylonpartners/php-dependency-imap@0.9.9

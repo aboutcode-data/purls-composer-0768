@@ -1,0 +1,5 @@
+- pkg:composer/bchalier/laravel-php-k8s@1.0.0
+- pkg:composer/bchalier/laravel-php-k8s@3.5.0
+- pkg:composer/bchalier/laravel-php-k8s@3.6.0
+- pkg:composer/bchalier/laravel-php-k8s@3.6.1
+- pkg:composer/bchalier/laravel-php-k8s@3.7.0

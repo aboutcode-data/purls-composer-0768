@@ -1,0 +1,4 @@
+- pkg:composer/azurre/php-shell@2.0
+- pkg:composer/azurre/php-shell@2.1
+- pkg:composer/azurre/php-shell@v1.1
+- pkg:composer/azurre/php-shell@v1.2

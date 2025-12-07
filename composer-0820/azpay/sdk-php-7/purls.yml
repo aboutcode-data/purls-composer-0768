@@ -1,0 +1,12 @@
+- pkg:composer/azpay/sdk-php-7@v1.0
+- pkg:composer/azpay/sdk-php-7@v1.1
+- pkg:composer/azpay/sdk-php-7@v1.2
+- pkg:composer/azpay/sdk-php-7@v1.3
+- pkg:composer/azpay/sdk-php-7@v1.4
+- pkg:composer/azpay/sdk-php-7@v1.5
+- pkg:composer/azpay/sdk-php-7@v1.5.1
+- pkg:composer/azpay/sdk-php-7@v1.5.2
+- pkg:composer/azpay/sdk-php-7@v1.6.0
+- pkg:composer/azpay/sdk-php-7@v1.7.0
+- pkg:composer/azpay/sdk-php-7@v1.7.1
+- pkg:composer/azpay/sdk-php-7@v1.8.0
