@@ -1,0 +1,3 @@
+- pkg:composer/edsi-tech/redis-guzzle-cache@0.1
+- pkg:composer/edsi-tech/redis-guzzle-cache@0.2
+- pkg:composer/edsi-tech/redis-guzzle-cache@0.3

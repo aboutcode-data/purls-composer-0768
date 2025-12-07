@@ -1,0 +1,13 @@
+- pkg:composer/erichard/elasticsearch-query-builder@3.0.0-beta
+- pkg:composer/erichard/elasticsearch-query-builder@3.0.1-beta
+- pkg:composer/erichard/elasticsearch-query-builder@3.0.2-beta
+- pkg:composer/erichard/elasticsearch-query-builder@3.0.3-beta
+- pkg:composer/erichard/elasticsearch-query-builder@3.0.4-beta
+- pkg:composer/erichard/elasticsearch-query-builder@3.0.5-beta
+- pkg:composer/erichard/elasticsearch-query-builder@3.1
+- pkg:composer/erichard/elasticsearch-query-builder@3.1.1
+- pkg:composer/erichard/elasticsearch-query-builder@3.2.0
+- pkg:composer/erichard/elasticsearch-query-builder@v1.0.0
+- pkg:composer/erichard/elasticsearch-query-builder@v1.0.1
+- pkg:composer/erichard/elasticsearch-query-builder@v2.0.0
+- pkg:composer/erichard/elasticsearch-query-builder@v2.1

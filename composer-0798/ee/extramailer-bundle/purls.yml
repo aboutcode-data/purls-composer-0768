@@ -1,0 +1,3 @@
+- pkg:composer/ee/extramailer-bundle@v0.1
+- pkg:composer/ee/extramailer-bundle@v0.2
+- pkg:composer/ee/extramailer-bundle@v0.3

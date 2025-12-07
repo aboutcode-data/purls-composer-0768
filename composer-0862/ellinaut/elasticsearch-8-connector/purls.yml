@@ -1,0 +1,4 @@
+- pkg:composer/ellinaut/elasticsearch-8-connector@1.0.0
+- pkg:composer/ellinaut/elasticsearch-8-connector@1.0.1
+- pkg:composer/ellinaut/elasticsearch-8-connector@1.0.2
+- pkg:composer/ellinaut/elasticsearch-8-connector@1.0.3

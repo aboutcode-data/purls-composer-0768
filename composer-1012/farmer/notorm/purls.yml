@@ -1,0 +1,3 @@
+- pkg:composer/farmer/notorm@2.2.1
+- pkg:composer/farmer/notorm@v2.0.0
+- pkg:composer/farmer/notorm@v3.0.0

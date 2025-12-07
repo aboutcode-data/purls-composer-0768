@@ -1,0 +1,17 @@
+- pkg:composer/ericliucn/jieba-php@0.16
+- pkg:composer/ericliucn/jieba-php@0.17
+- pkg:composer/ericliucn/jieba-php@0.18
+- pkg:composer/ericliucn/jieba-php@0.19
+- pkg:composer/ericliucn/jieba-php@0.20
+- pkg:composer/ericliucn/jieba-php@0.21
+- pkg:composer/ericliucn/jieba-php@0.22
+- pkg:composer/ericliucn/jieba-php@0.24
+- pkg:composer/ericliucn/jieba-php@0.25
+- pkg:composer/ericliucn/jieba-php@0.26
+- pkg:composer/ericliucn/jieba-php@0.27
+- pkg:composer/ericliucn/jieba-php@0.28
+- pkg:composer/ericliucn/jieba-php@0.29
+- pkg:composer/ericliucn/jieba-php@0.31
+- pkg:composer/ericliucn/jieba-php@0.32
+- pkg:composer/ericliucn/jieba-php@0.33
+- pkg:composer/ericliucn/jieba-php@0.33.1

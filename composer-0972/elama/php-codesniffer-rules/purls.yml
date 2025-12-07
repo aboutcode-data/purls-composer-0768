@@ -1,0 +1,4 @@
+- pkg:composer/elama/php-codesniffer-rules@v1.0
+- pkg:composer/elama/php-codesniffer-rules@v1.0.1
+- pkg:composer/elama/php-codesniffer-rules@v1.0.2
+- pkg:composer/elama/php-codesniffer-rules@v1.0.3

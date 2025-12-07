@@ -1,0 +1,11 @@
+- pkg:composer/easyconn/phalcon-cron@v0.1
+- pkg:composer/easyconn/phalcon-cron@v0.2
+- pkg:composer/easyconn/phalcon-cron@v1.0.0
+- pkg:composer/easyconn/phalcon-cron@v2.0.0
+- pkg:composer/easyconn/phalcon-cron@v2.0.1
+- pkg:composer/easyconn/phalcon-cron@v2.0.2
+- pkg:composer/easyconn/phalcon-cron@v3.0.1
+- pkg:composer/easyconn/phalcon-cron@v3.0.2
+- pkg:composer/easyconn/phalcon-cron@v5.0.0
+- pkg:composer/easyconn/phalcon-cron@v5.0.1
+- pkg:composer/easyconn/phalcon-cron@v5.0.2

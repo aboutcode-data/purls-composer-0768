@@ -1,0 +1,4 @@
+- pkg:composer/dwr/openweather-bundle@0.1
+- pkg:composer/dwr/openweather-bundle@0.9
+- pkg:composer/dwr/openweather-bundle@1.0
+- pkg:composer/dwr/openweather-bundle@2.0

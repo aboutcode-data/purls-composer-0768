@@ -1,0 +1,3 @@
+- pkg:composer/elektro-potkan/backups-job-mysql@v0.1.0
+- pkg:composer/elektro-potkan/backups-job-mysql@v1.0.0
+- pkg:composer/elektro-potkan/backups-job-mysql@v1.0.1

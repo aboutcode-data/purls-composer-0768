@@ -1,0 +1,10 @@
+- pkg:composer/elephox/web@0.3.27
+- pkg:composer/elephox/web@0.4.0-alpha1
+- pkg:composer/elephox/web@0.4.0-alpha2
+- pkg:composer/elephox/web@0.4.0-alpha3
+- pkg:composer/elephox/web@0.4.0-alpha4
+- pkg:composer/elephox/web@0.4.0-alpha5
+- pkg:composer/elephox/web@v0.4.3
+- pkg:composer/elephox/web@v0.5.0
+- pkg:composer/elephox/web@v0.6.0
+- pkg:composer/elephox/web@v0.7.0

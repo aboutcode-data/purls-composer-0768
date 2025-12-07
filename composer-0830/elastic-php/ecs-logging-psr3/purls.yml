@@ -1,0 +1,2 @@
+- pkg:composer/elastic-php/ecs-logging-psr3@v1.0.0
+- pkg:composer/elastic-php/ecs-logging-psr3@v1.0.1

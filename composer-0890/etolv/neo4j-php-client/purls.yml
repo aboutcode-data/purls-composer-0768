@@ -1,0 +1,4 @@
+- pkg:composer/etolv/neo4j-php-client@2.3.0
+- pkg:composer/etolv/neo4j-php-client@2.8.3
+- pkg:composer/etolv/neo4j-php-client@3.2
+- pkg:composer/etolv/neo4j-php-client@4.0.0

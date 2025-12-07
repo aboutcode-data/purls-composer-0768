@@ -1,0 +1,11 @@
+- pkg:composer/ejunker/laravel-cachebuster@1.0
+- pkg:composer/ejunker/laravel-cachebuster@1.0.1
+- pkg:composer/ejunker/laravel-cachebuster@2.0
+- pkg:composer/ejunker/laravel-cachebuster@2.0.1
+- pkg:composer/ejunker/laravel-cachebuster@v2.0.2
+- pkg:composer/ejunker/laravel-cachebuster@v2.0.3
+- pkg:composer/ejunker/laravel-cachebuster@v2.0.5
+- pkg:composer/ejunker/laravel-cachebuster@v2.0.6
+- pkg:composer/ejunker/laravel-cachebuster@v2.0.7
+- pkg:composer/ejunker/laravel-cachebuster@v2.0.8
+- pkg:composer/ejunker/laravel-cachebuster@v2.0.9

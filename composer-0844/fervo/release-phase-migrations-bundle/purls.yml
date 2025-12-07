@@ -1,0 +1,4 @@
+- pkg:composer/fervo/release-phase-migrations-bundle@1.0.1
+- pkg:composer/fervo/release-phase-migrations-bundle@1.1.0
+- pkg:composer/fervo/release-phase-migrations-bundle@1.2.0
+- pkg:composer/fervo/release-phase-migrations-bundle@v1.0.0

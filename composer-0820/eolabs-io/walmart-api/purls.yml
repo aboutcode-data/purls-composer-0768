@@ -1,0 +1,16 @@
+- pkg:composer/eolabs-io/walmart-api@v0.1
+- pkg:composer/eolabs-io/walmart-api@v0.1-alpha
+- pkg:composer/eolabs-io/walmart-api@v0.2-alpha
+- pkg:composer/eolabs-io/walmart-api@v1.0
+- pkg:composer/eolabs-io/walmart-api@v1.0.1
+- pkg:composer/eolabs-io/walmart-api@v1.0.2
+- pkg:composer/eolabs-io/walmart-api@v1.0.3
+- pkg:composer/eolabs-io/walmart-api@v1.1.0
+- pkg:composer/eolabs-io/walmart-api@v1.2.0
+- pkg:composer/eolabs-io/walmart-api@v1.2.1
+- pkg:composer/eolabs-io/walmart-api@v1.2.2
+- pkg:composer/eolabs-io/walmart-api@v1.2.3
+- pkg:composer/eolabs-io/walmart-api@v1.2.4
+- pkg:composer/eolabs-io/walmart-api@v1.2.5
+- pkg:composer/eolabs-io/walmart-api@v1.2.6
+- pkg:composer/eolabs-io/walmart-api@v1.3.0

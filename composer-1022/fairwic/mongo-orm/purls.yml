@@ -1,0 +1,7 @@
+- pkg:composer/fairwic/mongo-orm@0.10.3
+- pkg:composer/fairwic/mongo-orm@0.10.4
+- pkg:composer/fairwic/mongo-orm@0.10.5
+- pkg:composer/fairwic/mongo-orm@0.10.6
+- pkg:composer/fairwic/mongo-orm@1.0.0
+- pkg:composer/fairwic/mongo-orm@1.0.1
+- pkg:composer/fairwic/mongo-orm@1.0.2

@@ -1,0 +1,4 @@
+- pkg:composer/ebethus/mongodb-laravel-session@0.0.4
+- pkg:composer/ebethus/mongodb-laravel-session@v0.0.2
+- pkg:composer/ebethus/mongodb-laravel-session@v0.0.3
+- pkg:composer/ebethus/mongodb-laravel-session@v0.1.0

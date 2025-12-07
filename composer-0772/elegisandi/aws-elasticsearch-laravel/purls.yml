@@ -1,0 +1,15 @@
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.0
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.1
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.2
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.3
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.3.1
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.4
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.4.1
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.4.2
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.4.3
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.4.4
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.4.5
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.4.6
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.4.7
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.5.0
+- pkg:composer/elegisandi/aws-elasticsearch-laravel@v1.5.1

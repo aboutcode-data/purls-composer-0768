@@ -1,0 +1,4 @@
+- pkg:composer/elandlord/nats-php-bundle@v1.0.0
+- pkg:composer/elandlord/nats-php-bundle@v1.0.1
+- pkg:composer/elandlord/nats-php-bundle@v1.0.2
+- pkg:composer/elandlord/nats-php-bundle@v1.0.3

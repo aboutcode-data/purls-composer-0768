@@ -1,0 +1,3 @@
+- pkg:composer/ecomdev/testcontainers-magento-data@v1.0.0
+- pkg:composer/ecomdev/testcontainers-magento-data@v1.1.0
+- pkg:composer/ecomdev/testcontainers-magento-data@v1.2.0

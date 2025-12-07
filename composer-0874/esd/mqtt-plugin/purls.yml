@@ -1,0 +1,3 @@
+- pkg:composer/esd/mqtt-plugin@0.1
+- pkg:composer/esd/mqtt-plugin@0.2
+- pkg:composer/esd/mqtt-plugin@0.3

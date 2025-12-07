@@ -1,0 +1,4 @@
+- pkg:composer/eta/laravel-query-watcher@v1.0.0
+- pkg:composer/eta/laravel-query-watcher@v1.1.0
+- pkg:composer/eta/laravel-query-watcher@v1.2.0
+- pkg:composer/eta/laravel-query-watcher@v1.3.0

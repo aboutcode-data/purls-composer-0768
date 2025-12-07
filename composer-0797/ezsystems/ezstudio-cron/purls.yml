@@ -1,0 +1,4 @@
+- pkg:composer/ezsystems/ezstudio-cron@v1.0.0
+- pkg:composer/ezsystems/ezstudio-cron@v1.0.0-beta1
+- pkg:composer/ezsystems/ezstudio-cron@v1.0.0-rc1
+- pkg:composer/ezsystems/ezstudio-cron@v1.0.1

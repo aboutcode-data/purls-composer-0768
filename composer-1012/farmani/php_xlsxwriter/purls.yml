@@ -1,0 +1,4 @@
+- pkg:composer/farmani/php_xlsxwriter@0.20
+- pkg:composer/farmani/php_xlsxwriter@0.21
+- pkg:composer/farmani/php_xlsxwriter@0.22
+- pkg:composer/farmani/php_xlsxwriter@0.23

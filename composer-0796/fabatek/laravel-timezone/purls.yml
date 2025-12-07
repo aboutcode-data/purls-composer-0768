@@ -1,0 +1,3 @@
+- pkg:composer/fabatek/laravel-timezone@0.1
+- pkg:composer/fabatek/laravel-timezone@1.0.0
+- pkg:composer/fabatek/laravel-timezone@2.0.0

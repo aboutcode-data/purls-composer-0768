@@ -1,0 +1,17 @@
+- pkg:composer/ezyang/htmlpurifier@v4.10.0
+- pkg:composer/ezyang/htmlpurifier@v4.11.0
+- pkg:composer/ezyang/htmlpurifier@v4.12.0
+- pkg:composer/ezyang/htmlpurifier@v4.13.0
+- pkg:composer/ezyang/htmlpurifier@v4.14.0
+- pkg:composer/ezyang/htmlpurifier@v4.15.0
+- pkg:composer/ezyang/htmlpurifier@v4.16.0
+- pkg:composer/ezyang/htmlpurifier@v4.17.0
+- pkg:composer/ezyang/htmlpurifier@v4.18.0
+- pkg:composer/ezyang/htmlpurifier@v4.19.0
+- pkg:composer/ezyang/htmlpurifier@v4.5.0
+- pkg:composer/ezyang/htmlpurifier@v4.6.0
+- pkg:composer/ezyang/htmlpurifier@v4.7.0
+- pkg:composer/ezyang/htmlpurifier@v4.8.0
+- pkg:composer/ezyang/htmlpurifier@v4.9.1
+- pkg:composer/ezyang/htmlpurifier@v4.9.2
+- pkg:composer/ezyang/htmlpurifier@v4.9.3

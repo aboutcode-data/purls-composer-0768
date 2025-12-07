@@ -1,0 +1,4 @@
+- pkg:composer/egorkluch/mysql-query-builder@0.1
+- pkg:composer/egorkluch/mysql-query-builder@0.3
+- pkg:composer/egorkluch/mysql-query-builder@0.3.2
+- pkg:composer/egorkluch/mysql-query-builder@1.0b

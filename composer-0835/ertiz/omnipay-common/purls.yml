@@ -1,0 +1,14 @@
+- pkg:composer/ertiz/omnipay-common@2.3.2
+- pkg:composer/ertiz/omnipay-common@2.4.0
+- pkg:composer/ertiz/omnipay-common@2.5.2
+- pkg:composer/ertiz/omnipay-common@v2.0.0
+- pkg:composer/ertiz/omnipay-common@v2.1.0
+- pkg:composer/ertiz/omnipay-common@v2.2.0
+- pkg:composer/ertiz/omnipay-common@v2.3.0
+- pkg:composer/ertiz/omnipay-common@v2.3.1
+- pkg:composer/ertiz/omnipay-common@v2.3.3
+- pkg:composer/ertiz/omnipay-common@v2.3.4
+- pkg:composer/ertiz/omnipay-common@v2.4.1
+- pkg:composer/ertiz/omnipay-common@v2.5.0
+- pkg:composer/ertiz/omnipay-common@v2.5.1
+- pkg:composer/ertiz/omnipay-common@v3.0-alpha.1

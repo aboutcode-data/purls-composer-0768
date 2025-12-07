@@ -1,0 +1,5 @@
+- pkg:composer/fastbolt/connector@1.0
+- pkg:composer/fastbolt/connector@2.0
+- pkg:composer/fastbolt/connector@2.0.1
+- pkg:composer/fastbolt/connector@2.0.2
+- pkg:composer/fastbolt/connector@v1.0.1
