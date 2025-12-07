@@ -1,0 +1,4 @@
+- pkg:composer/bepark/flysystem-fallback-to-read-only-adapter@0.1.0
+- pkg:composer/bepark/flysystem-fallback-to-read-only-adapter@1.0.0
+- pkg:composer/bepark/flysystem-fallback-to-read-only-adapter@1.0.1
+- pkg:composer/bepark/flysystem-fallback-to-read-only-adapter@1.0.2

@@ -1,0 +1,4 @@
+- pkg:composer/booosta/kubernetes@v1.0.0
+- pkg:composer/booosta/kubernetes@v1.0.1
+- pkg:composer/booosta/kubernetes@v4.0.2
+- pkg:composer/booosta/kubernetes@v4.0.3

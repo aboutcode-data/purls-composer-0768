@@ -1,0 +1,13 @@
+- pkg:composer/bokt/flarum-redis@0.1.0
+- pkg:composer/bokt/flarum-redis@0.2.0
+- pkg:composer/bokt/flarum-redis@0.2.1
+- pkg:composer/bokt/flarum-redis@0.2.2
+- pkg:composer/bokt/flarum-redis@0.2.3
+- pkg:composer/bokt/flarum-redis@0.2.4-beta
+- pkg:composer/bokt/flarum-redis@0.3.0-beta
+- pkg:composer/bokt/flarum-redis@0.4.0
+- pkg:composer/bokt/flarum-redis@0.4.0-beta
+- pkg:composer/bokt/flarum-redis@0.4.0-beta.2
+- pkg:composer/bokt/flarum-redis@0.4.0-beta.3
+- pkg:composer/bokt/flarum-redis@0.4.1-beta
+- pkg:composer/bokt/flarum-redis@0.4.2

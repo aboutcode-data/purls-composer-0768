@@ -1,0 +1,4 @@
+- pkg:composer/caradvice/consul-php-sdk@v1.0.0
+- pkg:composer/caradvice/consul-php-sdk@v1.1
+- pkg:composer/caradvice/consul-php-sdk@v1.2
+- pkg:composer/caradvice/consul-php-sdk@v1.2.1

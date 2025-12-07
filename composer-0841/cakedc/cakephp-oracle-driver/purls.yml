@@ -1,0 +1,4 @@
+- pkg:composer/cakedc/cakephp-oracle-driver@1.0.0
+- pkg:composer/cakedc/cakephp-oracle-driver@1.0.1
+- pkg:composer/cakedc/cakephp-oracle-driver@4.0.0
+- pkg:composer/cakedc/cakephp-oracle-driver@5.0.0

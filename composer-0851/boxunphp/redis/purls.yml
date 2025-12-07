@@ -1,0 +1,8 @@
+- pkg:composer/boxunphp/redis@v1.0.0
+- pkg:composer/boxunphp/redis@v1.0.1
+- pkg:composer/boxunphp/redis@v1.2
+- pkg:composer/boxunphp/redis@v1.3
+- pkg:composer/boxunphp/redis@v1.4
+- pkg:composer/boxunphp/redis@v2.0
+- pkg:composer/boxunphp/redis@v2.1.1
+- pkg:composer/boxunphp/redis@v2.1.2

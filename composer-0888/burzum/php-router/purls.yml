@@ -1,0 +1,13 @@
+- pkg:composer/burzum/php-router@1.0.0
+- pkg:composer/burzum/php-router@1.0.1
+- pkg:composer/burzum/php-router@2.0.0
+- pkg:composer/burzum/php-router@2.0.1
+- pkg:composer/burzum/php-router@3.0.0
+- pkg:composer/burzum/php-router@3.0.1
+- pkg:composer/burzum/php-router@3.0.2
+- pkg:composer/burzum/php-router@3.0.3
+- pkg:composer/burzum/php-router@3.0.4
+- pkg:composer/burzum/php-router@3.0.5
+- pkg:composer/burzum/php-router@3.0.6
+- pkg:composer/burzum/php-router@4.0.0-alpha
+- pkg:composer/burzum/php-router@4.0.1-alpha

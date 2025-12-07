@@ -1,0 +1,3 @@
+- pkg:composer/bitexpert/oauth2-server-storage-dbal@0.1.0
+- pkg:composer/bitexpert/oauth2-server-storage-dbal@0.1.1
+- pkg:composer/bitexpert/oauth2-server-storage-dbal@0.1.2

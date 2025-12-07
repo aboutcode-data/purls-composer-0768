@@ -1,0 +1,4 @@
+- pkg:composer/bencoderus/laravel-webhook@0.5
+- pkg:composer/bencoderus/laravel-webhook@0.7
+- pkg:composer/bencoderus/laravel-webhook@1.0
+- pkg:composer/bencoderus/laravel-webhook@1.1

@@ -1,0 +1,2 @@
+- pkg:composer/casbin/laminas-db-adapter@v1.0.0
+- pkg:composer/casbin/laminas-db-adapter@v2.0.0

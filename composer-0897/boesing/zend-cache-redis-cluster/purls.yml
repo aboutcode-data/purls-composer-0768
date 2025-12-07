@@ -1,0 +1,3 @@
+- pkg:composer/boesing/zend-cache-redis-cluster@v0.1.0
+- pkg:composer/boesing/zend-cache-redis-cluster@v0.2.0
+- pkg:composer/boesing/zend-cache-redis-cluster@v0.2.1

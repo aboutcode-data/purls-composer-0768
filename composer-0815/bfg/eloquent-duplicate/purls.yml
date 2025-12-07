@@ -1,0 +1,9 @@
+- pkg:composer/bfg/eloquent-duplicate@1.0.0
+- pkg:composer/bfg/eloquent-duplicate@2.0.0
+- pkg:composer/bfg/eloquent-duplicate@2.1.0
+- pkg:composer/bfg/eloquent-duplicate@3.0.0
+- pkg:composer/bfg/eloquent-duplicate@4.0.0
+- pkg:composer/bfg/eloquent-duplicate@5.0.0
+- pkg:composer/bfg/eloquent-duplicate@5.0.1
+- pkg:composer/bfg/eloquent-duplicate@5.1.0
+- pkg:composer/bfg/eloquent-duplicate@6.0.0

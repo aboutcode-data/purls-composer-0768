@@ -1,0 +1,5 @@
+- pkg:composer/bnf/phpstan-psr-container@0.11.0
+- pkg:composer/bnf/phpstan-psr-container@0.12.0
+- pkg:composer/bnf/phpstan-psr-container@1.0.0
+- pkg:composer/bnf/phpstan-psr-container@1.0.1
+- pkg:composer/bnf/phpstan-psr-container@1.1.0

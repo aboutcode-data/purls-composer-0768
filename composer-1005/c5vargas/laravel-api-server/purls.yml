@@ -1,0 +1,5 @@
+- pkg:composer/c5vargas/laravel-api-server@10.10
+- pkg:composer/c5vargas/laravel-api-server@9.0
+- pkg:composer/c5vargas/laravel-api-server@9.1
+- pkg:composer/c5vargas/laravel-api-server@9.2
+- pkg:composer/c5vargas/laravel-api-server@9.3

@@ -1,0 +1,4 @@
+- pkg:composer/cakephp/repl@0.1.0
+- pkg:composer/cakephp/repl@1.0.0
+- pkg:composer/cakephp/repl@2.0.0
+- pkg:composer/cakephp/repl@2.0.1

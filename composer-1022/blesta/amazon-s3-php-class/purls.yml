@@ -1,0 +1,4 @@
+- pkg:composer/blesta/amazon-s3-php-class@0.5.2
+- pkg:composer/blesta/amazon-s3-php-class@0.6.0
+- pkg:composer/blesta/amazon-s3-php-class@v0.5.0
+- pkg:composer/blesta/amazon-s3-php-class@v0.5.1

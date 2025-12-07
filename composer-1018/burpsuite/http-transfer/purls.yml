@@ -1,0 +1,2 @@
+- pkg:composer/burpsuite/http-transfer@0.7.0
+- pkg:composer/burpsuite/http-transfer@0.8.0

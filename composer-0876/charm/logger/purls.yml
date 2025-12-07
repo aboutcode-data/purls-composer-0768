@@ -1,0 +1,4 @@
+- pkg:composer/charm/logger@0.0.1
+- pkg:composer/charm/logger@1.0.0
+- pkg:composer/charm/logger@1.0.1
+- pkg:composer/charm/logger@1.0.2

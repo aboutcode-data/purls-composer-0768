@@ -1,0 +1,3 @@
+- pkg:composer/bin/composer@V1.0.1
+- pkg:composer/bin/composer@V8.0.0
+- pkg:composer/bin/composer@v1.0.0

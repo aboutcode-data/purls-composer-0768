@@ -1,0 +1,5 @@
+- pkg:composer/busyphp/queue@v1.0.0
+- pkg:composer/busyphp/queue@v2.0.0
+- pkg:composer/busyphp/queue@v2.0.1
+- pkg:composer/busyphp/queue@v2.0.2
+- pkg:composer/busyphp/queue@v3.0.0

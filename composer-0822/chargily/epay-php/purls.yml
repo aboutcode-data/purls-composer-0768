@@ -1,0 +1,4 @@
+- pkg:composer/chargily/epay-php@1.0.1
+- pkg:composer/chargily/epay-php@2.0.1
+- pkg:composer/chargily/epay-php@2.0.2
+- pkg:composer/chargily/epay-php@3.0.0

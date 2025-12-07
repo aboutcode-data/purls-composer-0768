@@ -1,0 +1,4 @@
+- pkg:composer/cache/illuminate-adapter@0.1.0
+- pkg:composer/cache/illuminate-adapter@0.2.0
+- pkg:composer/cache/illuminate-adapter@0.3.0
+- pkg:composer/cache/illuminate-adapter@0.4.0

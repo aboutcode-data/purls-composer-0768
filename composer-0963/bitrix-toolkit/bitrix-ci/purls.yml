@@ -1,0 +1,6 @@
+- pkg:composer/bitrix-toolkit/bitrix-ci@v18.5
+- pkg:composer/bitrix-toolkit/bitrix-ci@v19.0
+- pkg:composer/bitrix-toolkit/bitrix-ci@v20.0
+- pkg:composer/bitrix-toolkit/bitrix-ci@v20.5
+- pkg:composer/bitrix-toolkit/bitrix-ci@v21.400
+- pkg:composer/bitrix-toolkit/bitrix-ci@v22.600

@@ -1,0 +1,9 @@
+- pkg:composer/cashier-provider/tinkoff-online@v1.0.0
+- pkg:composer/cashier-provider/tinkoff-online@v1.1.0
+- pkg:composer/cashier-provider/tinkoff-online@v1.31.0
+- pkg:composer/cashier-provider/tinkoff-online@v2.0.0
+- pkg:composer/cashier-provider/tinkoff-online@v2.6.1
+- pkg:composer/cashier-provider/tinkoff-online@v2.6.2
+- pkg:composer/cashier-provider/tinkoff-online@v2.6.3
+- pkg:composer/cashier-provider/tinkoff-online@v2.6.4
+- pkg:composer/cashier-provider/tinkoff-online@v3.6.0

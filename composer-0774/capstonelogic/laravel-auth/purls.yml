@@ -1,0 +1,10 @@
+- pkg:composer/capstonelogic/laravel-auth@1.0.0
+- pkg:composer/capstonelogic/laravel-auth@2.0.0
+- pkg:composer/capstonelogic/laravel-auth@2.0.1
+- pkg:composer/capstonelogic/laravel-auth@2.0.2
+- pkg:composer/capstonelogic/laravel-auth@3.0.0
+- pkg:composer/capstonelogic/laravel-auth@3.0.1
+- pkg:composer/capstonelogic/laravel-auth@v0.1.0
+- pkg:composer/capstonelogic/laravel-auth@v0.1.1
+- pkg:composer/capstonelogic/laravel-auth@v0.1.2
+- pkg:composer/capstonelogic/laravel-auth@v0.1.3

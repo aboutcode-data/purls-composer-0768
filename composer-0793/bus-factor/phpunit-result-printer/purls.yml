@@ -1,0 +1,5 @@
+- pkg:composer/bus-factor/phpunit-result-printer@0.1.0
+- pkg:composer/bus-factor/phpunit-result-printer@0.2.0
+- pkg:composer/bus-factor/phpunit-result-printer@0.3.0
+- pkg:composer/bus-factor/phpunit-result-printer@0.4.0
+- pkg:composer/bus-factor/phpunit-result-printer@0.5.0

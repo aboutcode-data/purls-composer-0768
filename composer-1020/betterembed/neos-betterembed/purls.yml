@@ -1,0 +1,10 @@
+- pkg:composer/betterembed/neos-betterembed@0.2
+- pkg:composer/betterembed/neos-betterembed@0.4-beta
+- pkg:composer/betterembed/neos-betterembed@0.5-beta
+- pkg:composer/betterembed/neos-betterembed@0.6-beta
+- pkg:composer/betterembed/neos-betterembed@1.0.0
+- pkg:composer/betterembed/neos-betterembed@1.0.1
+- pkg:composer/betterembed/neos-betterembed@1.0.2
+- pkg:composer/betterembed/neos-betterembed@2.0.0
+- pkg:composer/betterembed/neos-betterembed@2.0.1
+- pkg:composer/betterembed/neos-betterembed@v0.3-beta
