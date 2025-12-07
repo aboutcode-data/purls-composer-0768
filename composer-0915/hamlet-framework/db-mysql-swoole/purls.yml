@@ -1,0 +1,2 @@
+- pkg:composer/hamlet-framework/db-mysql-swoole@0.0.1
+- pkg:composer/hamlet-framework/db-mysql-swoole@0.0.2

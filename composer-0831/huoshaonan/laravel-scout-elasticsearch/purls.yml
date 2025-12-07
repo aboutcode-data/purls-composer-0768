@@ -1,0 +1,14 @@
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v1.0.0
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v1.0.1
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v1.0.2
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v2.0.0
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v2.0.1
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v2.1.0
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v3.0.0
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v3.0.1
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v4.0.0
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v4.0.1
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v5.0.0
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v5.0.1
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v5.0.2
+- pkg:composer/huoshaonan/laravel-scout-elasticsearch@v6.0.0

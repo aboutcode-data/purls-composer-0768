@@ -1,0 +1,8 @@
+- pkg:composer/horde/scheduler@2.0.2
+- pkg:composer/horde/scheduler@2.0.3
+- pkg:composer/horde/scheduler@3.0.0alpha1
+- pkg:composer/horde/scheduler@3.0.0alpha2
+- pkg:composer/horde/scheduler@v1.0.0alpha1
+- pkg:composer/horde/scheduler@v3.0.0alpha3
+- pkg:composer/horde/scheduler@v3.0.0alpha4
+- pkg:composer/horde/scheduler@v3.0.0alpha5

@@ -1,0 +1,4 @@
+- pkg:composer/iamport/rest-client@0.9.0
+- pkg:composer/iamport/rest-client@2.0.0
+- pkg:composer/iamport/rest-client@2.0.1
+- pkg:composer/iamport/rest-client@2.0.2

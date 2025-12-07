@@ -1,0 +1,5 @@
+- pkg:composer/ifedorov_testing/dummy_testing@1.0
+- pkg:composer/ifedorov_testing/dummy_testing@1.1
+- pkg:composer/ifedorov_testing/dummy_testing@1.2
+- pkg:composer/ifedorov_testing/dummy_testing@5.4
+- pkg:composer/ifedorov_testing/dummy_testing@v5.5

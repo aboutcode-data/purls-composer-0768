@@ -1,0 +1,4 @@
+- pkg:composer/ilanco/zcredit-client-php@1.8
+- pkg:composer/ilanco/zcredit-client-php@1.9
+- pkg:composer/ilanco/zcredit-client-php@1.9.1
+- pkg:composer/ilanco/zcredit-client-php@1.9.2

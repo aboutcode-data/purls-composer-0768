@@ -1,0 +1,14 @@
+- pkg:composer/hhpack/typechecker-client@0.1.0
+- pkg:composer/hhpack/typechecker-client@0.2.0
+- pkg:composer/hhpack/typechecker-client@0.2.1
+- pkg:composer/hhpack/typechecker-client@0.2.2
+- pkg:composer/hhpack/typechecker-client@0.2.3
+- pkg:composer/hhpack/typechecker-client@0.2.4
+- pkg:composer/hhpack/typechecker-client@0.3.0
+- pkg:composer/hhpack/typechecker-client@0.3.1
+- pkg:composer/hhpack/typechecker-client@0.3.2
+- pkg:composer/hhpack/typechecker-client@0.4.0
+- pkg:composer/hhpack/typechecker-client@0.5.0
+- pkg:composer/hhpack/typechecker-client@0.6.0
+- pkg:composer/hhpack/typechecker-client@0.6.1
+- pkg:composer/hhpack/typechecker-client@1.0.0

@@ -1,0 +1,6 @@
+- pkg:composer/h4cc/wkhtmltopdf-amd64@0.11.0-RC1
+- pkg:composer/h4cc/wkhtmltopdf-amd64@0.12.0
+- pkg:composer/h4cc/wkhtmltopdf-amd64@0.12.1
+- pkg:composer/h4cc/wkhtmltopdf-amd64@0.12.2.1
+- pkg:composer/h4cc/wkhtmltopdf-amd64@0.12.3
+- pkg:composer/h4cc/wkhtmltopdf-amd64@0.12.4

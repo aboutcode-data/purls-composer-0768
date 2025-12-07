@@ -1,0 +1,3 @@
+- pkg:composer/horde/service_urlshortener@2.0.2
+- pkg:composer/horde/service_urlshortener@2.0.3
+- pkg:composer/horde/service_urlshortener@v3.0.0alpha1

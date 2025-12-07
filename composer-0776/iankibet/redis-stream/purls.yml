@@ -1,0 +1,4 @@
+- pkg:composer/iankibet/redis-stream@1.0.0
+- pkg:composer/iankibet/redis-stream@1.0.1
+- pkg:composer/iankibet/redis-stream@1.0.2
+- pkg:composer/iankibet/redis-stream@1.0.3

@@ -1,0 +1,6 @@
+- pkg:composer/helmutschneider/swish-php@v1.0.0
+- pkg:composer/helmutschneider/swish-php@v2.0.0
+- pkg:composer/helmutschneider/swish-php@v2.0.1
+- pkg:composer/helmutschneider/swish-php@v3.0.0
+- pkg:composer/helmutschneider/swish-php@v3.0.1
+- pkg:composer/helmutschneider/swish-php@v3.0.2

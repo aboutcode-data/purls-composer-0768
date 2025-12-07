@@ -1,0 +1,14 @@
+- pkg:composer/hyperf/pipeline@v3.0.0
+- pkg:composer/hyperf/pipeline@v3.0.16
+- pkg:composer/hyperf/pipeline@v3.0.37
+- pkg:composer/hyperf/pipeline@v3.1.0
+- pkg:composer/hyperf/pipeline@v3.1.0-alpha.1
+- pkg:composer/hyperf/pipeline@v3.1.0-rc.4
+- pkg:composer/hyperf/pipeline@v3.1.15
+- pkg:composer/hyperf/pipeline@v3.1.27
+- pkg:composer/hyperf/pipeline@v3.1.42
+- pkg:composer/hyperf/pipeline@v3.1.61
+- pkg:composer/hyperf/pipeline@v3.1.63
+- pkg:composer/hyperf/pipeline@v3.2.0-alpha.1
+- pkg:composer/hyperf/pipeline@v3.2.0-alpha.2
+- pkg:composer/hyperf/pipeline@v3.2.0-alpha.3

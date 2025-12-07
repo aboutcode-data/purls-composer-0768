@@ -1,0 +1,17 @@
+- pkg:composer/helper-network/omnipay-tests@v2.0.0
+- pkg:composer/helper-network/omnipay-tests@v2.0.1
+- pkg:composer/helper-network/omnipay-tests@v2.0.2
+- pkg:composer/helper-network/omnipay-tests@v2.1.0
+- pkg:composer/helper-network/omnipay-tests@v2.1.1
+- pkg:composer/helper-network/omnipay-tests@v3.0-alpha.1
+- pkg:composer/helper-network/omnipay-tests@v3.0-beta.1
+- pkg:composer/helper-network/omnipay-tests@v3.0-beta.2
+- pkg:composer/helper-network/omnipay-tests@v3.0.0
+- pkg:composer/helper-network/omnipay-tests@v3.0.1
+- pkg:composer/helper-network/omnipay-tests@v3.0.2
+- pkg:composer/helper-network/omnipay-tests@v3.0.3
+- pkg:composer/helper-network/omnipay-tests@v3.1.0
+- pkg:composer/helper-network/omnipay-tests@v3.1.1
+- pkg:composer/helper-network/omnipay-tests@v4.0.0
+- pkg:composer/helper-network/omnipay-tests@v4.0.1
+- pkg:composer/helper-network/omnipay-tests@v4.0.2

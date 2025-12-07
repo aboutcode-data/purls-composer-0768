@@ -1,0 +1,5 @@
+- pkg:composer/hiqdev/omnipay-robokassa@2.0
+- pkg:composer/hiqdev/omnipay-robokassa@3.0
+- pkg:composer/hiqdev/omnipay-robokassa@3.1.0
+- pkg:composer/hiqdev/omnipay-robokassa@3.2.0
+- pkg:composer/hiqdev/omnipay-robokassa@3.3.0

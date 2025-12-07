@@ -1,0 +1,3 @@
+- pkg:composer/halloverden/symfony-scheduled-task-bundle@0.1.0
+- pkg:composer/halloverden/symfony-scheduled-task-bundle@1.0.0
+- pkg:composer/halloverden/symfony-scheduled-task-bundle@2.0.0

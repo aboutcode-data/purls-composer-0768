@@ -1,0 +1,4 @@
+- pkg:composer/http-interop/http-factory-diactoros@0.1.0
+- pkg:composer/http-interop/http-factory-diactoros@0.2.0
+- pkg:composer/http-interop/http-factory-diactoros@0.3.0
+- pkg:composer/http-interop/http-factory-diactoros@1.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/hakito/cakephp-mailqueue-plugin@v1.2
+- pkg:composer/hakito/cakephp-mailqueue-plugin@v2.0
+- pkg:composer/hakito/cakephp-mailqueue-plugin@v3.0
+- pkg:composer/hakito/cakephp-mailqueue-plugin@v5.0

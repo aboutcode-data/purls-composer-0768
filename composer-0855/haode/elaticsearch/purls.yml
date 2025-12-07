@@ -1,0 +1,3 @@
+- pkg:composer/haode/elaticsearch@1.0.0
+- pkg:composer/haode/elaticsearch@3.0
+- pkg:composer/haode/elaticsearch@v2.0

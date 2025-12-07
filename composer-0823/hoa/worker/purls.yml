@@ -1,0 +1,10 @@
+- pkg:composer/hoa/worker@1.14.09.16
+- pkg:composer/hoa/worker@2.14.09.17
+- pkg:composer/hoa/worker@2.14.09.23
+- pkg:composer/hoa/worker@2.14.12.10
+- pkg:composer/hoa/worker@2.15.02.26
+- pkg:composer/hoa/worker@2.15.05.29
+- pkg:composer/hoa/worker@2.15.08.17
+- pkg:composer/hoa/worker@3.16.01.11
+- pkg:composer/hoa/worker@3.16.01.14
+- pkg:composer/hoa/worker@3.17.01.16

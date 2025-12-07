@@ -1,0 +1,16 @@
+- pkg:composer/guyanpay/php-wxpay@v8.0
+- pkg:composer/guyanpay/php-wxpay@v8.1
+- pkg:composer/guyanpay/php-wxpay@v8.2
+- pkg:composer/guyanpay/php-wxpay@v8.3
+- pkg:composer/guyanpay/php-wxpay@v8.4
+- pkg:composer/guyanpay/php-wxpay@v8.5
+- pkg:composer/guyanpay/php-wxpay@v8.6
+- pkg:composer/guyanpay/php-wxpay@v8.7
+- pkg:composer/guyanpay/php-wxpay@v8.9
+- pkg:composer/guyanpay/php-wxpay@v9.0
+- pkg:composer/guyanpay/php-wxpay@v9.1
+- pkg:composer/guyanpay/php-wxpay@v9.12
+- pkg:composer/guyanpay/php-wxpay@v9.13
+- pkg:composer/guyanpay/php-wxpay@v9.14
+- pkg:composer/guyanpay/php-wxpay@v9.15
+- pkg:composer/guyanpay/php-wxpay@v9.16
