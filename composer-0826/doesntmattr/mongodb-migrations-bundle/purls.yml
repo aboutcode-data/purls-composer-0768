@@ -1,0 +1,9 @@
+- pkg:composer/doesntmattr/mongodb-migrations-bundle@1.1.0
+- pkg:composer/doesntmattr/mongodb-migrations-bundle@1.1.0-beta
+- pkg:composer/doesntmattr/mongodb-migrations-bundle@1.2.0
+- pkg:composer/doesntmattr/mongodb-migrations-bundle@2.0
+- pkg:composer/doesntmattr/mongodb-migrations-bundle@3.0.0
+- pkg:composer/doesntmattr/mongodb-migrations-bundle@v1.0.0
+- pkg:composer/doesntmattr/mongodb-migrations-bundle@v1.0.1
+- pkg:composer/doesntmattr/mongodb-migrations-bundle@v2.0.1
+- pkg:composer/doesntmattr/mongodb-migrations-bundle@v3.0.1

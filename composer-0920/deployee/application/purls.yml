@@ -1,0 +1,4 @@
+- pkg:composer/deployee/application@v1.0.0
+- pkg:composer/deployee/application@v2.0.0
+- pkg:composer/deployee/application@v2.0.1
+- pkg:composer/deployee/application@v3.0.0

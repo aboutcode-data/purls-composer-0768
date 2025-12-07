@@ -1,0 +1,4 @@
+- pkg:composer/denisgold/laravel-generator@2.0
+- pkg:composer/denisgold/laravel-generator@6.0
+- pkg:composer/denisgold/laravel-generator@6.1
+- pkg:composer/denisgold/laravel-generator@6.2

@@ -1,0 +1,5 @@
+- pkg:composer/db1-fpp/laravel-elasticache@v1.0.0
+- pkg:composer/db1-fpp/laravel-elasticache@v1.0.1
+- pkg:composer/db1-fpp/laravel-elasticache@v1.0.2
+- pkg:composer/db1-fpp/laravel-elasticache@v1.0.3
+- pkg:composer/db1-fpp/laravel-elasticache@v1.0.4

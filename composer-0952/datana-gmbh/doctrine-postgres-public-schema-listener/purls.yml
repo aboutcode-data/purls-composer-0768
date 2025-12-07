@@ -1,0 +1,5 @@
+- pkg:composer/datana-gmbh/doctrine-postgres-public-schema-listener@1.0.0
+- pkg:composer/datana-gmbh/doctrine-postgres-public-schema-listener@1.0.1
+- pkg:composer/datana-gmbh/doctrine-postgres-public-schema-listener@1.1.0
+- pkg:composer/datana-gmbh/doctrine-postgres-public-schema-listener@1.1.1
+- pkg:composer/datana-gmbh/doctrine-postgres-public-schema-listener@1.2.0

@@ -1,0 +1,2 @@
+- pkg:composer/devfrey/rector-eloquent-generics@v0.1.0
+- pkg:composer/devfrey/rector-eloquent-generics@v0.1.1

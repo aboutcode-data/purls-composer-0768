@@ -1,0 +1,4 @@
+- pkg:composer/dev-nanny/connector-php-lint@0.1.0
+- pkg:composer/dev-nanny/connector-php-lint@0.1.1
+- pkg:composer/dev-nanny/connector-php-lint@0.2.0
+- pkg:composer/dev-nanny/connector-php-lint@v0.2.1

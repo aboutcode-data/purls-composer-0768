@@ -1,0 +1,4 @@
+- pkg:composer/dg/php-extensions-finder@v0.1
+- pkg:composer/dg/php-extensions-finder@v1.0
+- pkg:composer/dg/php-extensions-finder@v2.0
+- pkg:composer/dg/php-extensions-finder@v2.1

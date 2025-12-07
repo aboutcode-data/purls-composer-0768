@@ -1,0 +1,2 @@
+- pkg:composer/deployfy/nova-dependent-filter@1.0.1
+- pkg:composer/deployfy/nova-dependent-filter@v1.0.0

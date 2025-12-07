@@ -1,0 +1,12 @@
+- pkg:composer/dominionenterprises/mongo-queue-php@v1.0.0
+- pkg:composer/dominionenterprises/mongo-queue-php@v1.0.1
+- pkg:composer/dominionenterprises/mongo-queue-php@v1.1.0
+- pkg:composer/dominionenterprises/mongo-queue-php@v1.2.0
+- pkg:composer/dominionenterprises/mongo-queue-php@v2.0.1
+- pkg:composer/dominionenterprises/mongo-queue-php@v2.0.3
+- pkg:composer/dominionenterprises/mongo-queue-php@v2.0.4
+- pkg:composer/dominionenterprises/mongo-queue-php@v3.0.0-alpha1
+- pkg:composer/dominionenterprises/mongo-queue-php@v3.0.1
+- pkg:composer/dominionenterprises/mongo-queue-php@v4.0.0
+- pkg:composer/dominionenterprises/mongo-queue-php@v4.0.1
+- pkg:composer/dominionenterprises/mongo-queue-php@v4.1.0

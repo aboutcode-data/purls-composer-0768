@@ -1,0 +1,5 @@
+- pkg:composer/dhii/wp-events@0.1
+- pkg:composer/dhii/wp-events@0.2
+- pkg:composer/dhii/wp-events@v0.3-alpha1
+- pkg:composer/dhii/wp-events@v0.3-alpha2
+- pkg:composer/dhii/wp-events@v0.3.0

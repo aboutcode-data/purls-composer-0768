@@ -1,0 +1,14 @@
+- pkg:composer/digitickets/omnipay-stripe-checkout@v0.0.1
+- pkg:composer/digitickets/omnipay-stripe-checkout@v0.1.0
+- pkg:composer/digitickets/omnipay-stripe-checkout@v1.0.0
+- pkg:composer/digitickets/omnipay-stripe-checkout@v1.0.1
+- pkg:composer/digitickets/omnipay-stripe-checkout@v1.0.2
+- pkg:composer/digitickets/omnipay-stripe-checkout@v1.0.3
+- pkg:composer/digitickets/omnipay-stripe-checkout@v1.1
+- pkg:composer/digitickets/omnipay-stripe-checkout@v1.1.1
+- pkg:composer/digitickets/omnipay-stripe-checkout@v1.2.0
+- pkg:composer/digitickets/omnipay-stripe-checkout@v1.3.0
+- pkg:composer/digitickets/omnipay-stripe-checkout@v1.3.1
+- pkg:composer/digitickets/omnipay-stripe-checkout@v1.4.0
+- pkg:composer/digitickets/omnipay-stripe-checkout@v1.5.0
+- pkg:composer/digitickets/omnipay-stripe-checkout@v3.0.0

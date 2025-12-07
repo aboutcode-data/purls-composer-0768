@@ -1,0 +1,4 @@
+- pkg:composer/digistorm/omnipay-rdp@1.0
+- pkg:composer/digistorm/omnipay-rdp@1.1
+- pkg:composer/digistorm/omnipay-rdp@1.2
+- pkg:composer/digistorm/omnipay-rdp@2.0.0

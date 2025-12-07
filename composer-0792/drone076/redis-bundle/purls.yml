@@ -1,0 +1,7 @@
+- pkg:composer/drone076/redis-bundle@2.1.0
+- pkg:composer/drone076/redis-bundle@2.2.0
+- pkg:composer/drone076/redis-bundle@2.2.1
+- pkg:composer/drone076/redis-bundle@v1.0.0
+- pkg:composer/drone076/redis-bundle@v1.0.1
+- pkg:composer/drone076/redis-bundle@v2.0.0
+- pkg:composer/drone076/redis-bundle@v2.0.1

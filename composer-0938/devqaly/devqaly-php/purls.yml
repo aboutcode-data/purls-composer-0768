@@ -1,0 +1,13 @@
+- pkg:composer/devqaly/devqaly-php@v0.0.1-beta
+- pkg:composer/devqaly/devqaly-php@v0.0.2-beta
+- pkg:composer/devqaly/devqaly-php@v0.0.3-beta
+- pkg:composer/devqaly/devqaly-php@v0.0.4-beta
+- pkg:composer/devqaly/devqaly-php@v0.0.5-beta
+- pkg:composer/devqaly/devqaly-php@v0.0.6-beta
+- pkg:composer/devqaly/devqaly-php@v0.0.7-beta
+- pkg:composer/devqaly/devqaly-php@v0.0.8-beta
+- pkg:composer/devqaly/devqaly-php@v0.1.0
+- pkg:composer/devqaly/devqaly-php@v0.1.0-alpha
+- pkg:composer/devqaly/devqaly-php@v0.1.1
+- pkg:composer/devqaly/devqaly-php@v0.1.2
+- pkg:composer/devqaly/devqaly-php@v0.1.2-alpha

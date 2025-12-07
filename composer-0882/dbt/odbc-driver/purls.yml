@@ -1,0 +1,16 @@
+- pkg:composer/dbt/odbc-driver@0.1.0
+- pkg:composer/dbt/odbc-driver@0.1.1
+- pkg:composer/dbt/odbc-driver@0.1.2
+- pkg:composer/dbt/odbc-driver@0.1.3
+- pkg:composer/dbt/odbc-driver@0.2.0
+- pkg:composer/dbt/odbc-driver@0.3.0
+- pkg:composer/dbt/odbc-driver@0.4.0
+- pkg:composer/dbt/odbc-driver@1.0.0
+- pkg:composer/dbt/odbc-driver@2.0.0
+- pkg:composer/dbt/odbc-driver@2.1.0
+- pkg:composer/dbt/odbc-driver@3.0.0
+- pkg:composer/dbt/odbc-driver@3.0.1
+- pkg:composer/dbt/odbc-driver@4.0.0
+- pkg:composer/dbt/odbc-driver@4.0.1
+- pkg:composer/dbt/odbc-driver@4.1.0
+- pkg:composer/dbt/odbc-driver@5.0.0

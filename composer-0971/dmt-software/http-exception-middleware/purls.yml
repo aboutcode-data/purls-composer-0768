@@ -1,0 +1,5 @@
+- pkg:composer/dmt-software/http-exception-middleware@1.0.1
+- pkg:composer/dmt-software/http-exception-middleware@1.0.2
+- pkg:composer/dmt-software/http-exception-middleware@1.0.3
+- pkg:composer/dmt-software/http-exception-middleware@1.1.0
+- pkg:composer/dmt-software/http-exception-middleware@v1.0.0

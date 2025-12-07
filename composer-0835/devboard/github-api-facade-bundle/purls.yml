@@ -1,0 +1,9 @@
+- pkg:composer/devboard/github-api-facade-bundle@0.1.0
+- pkg:composer/devboard/github-api-facade-bundle@0.1.1
+- pkg:composer/devboard/github-api-facade-bundle@0.1.2
+- pkg:composer/devboard/github-api-facade-bundle@v0.1.3
+- pkg:composer/devboard/github-api-facade-bundle@v0.2.0
+- pkg:composer/devboard/github-api-facade-bundle@v0.2.1
+- pkg:composer/devboard/github-api-facade-bundle@v0.2.2
+- pkg:composer/devboard/github-api-facade-bundle@v0.3.0
+- pkg:composer/devboard/github-api-facade-bundle@v0.4.0

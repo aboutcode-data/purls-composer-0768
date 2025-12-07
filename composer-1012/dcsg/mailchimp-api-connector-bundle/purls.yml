@@ -1,0 +1,3 @@
+- pkg:composer/dcsg/mailchimp-api-connector-bundle@v1.0.0
+- pkg:composer/dcsg/mailchimp-api-connector-bundle@v2.0.0
+- pkg:composer/dcsg/mailchimp-api-connector-bundle@v2.0.1

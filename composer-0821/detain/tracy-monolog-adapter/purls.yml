@@ -1,0 +1,3 @@
+- pkg:composer/detain/tracy-monolog-adapter@v0.1.0
+- pkg:composer/detain/tracy-monolog-adapter@v1.0.0
+- pkg:composer/detain/tracy-monolog-adapter@v2.0.0

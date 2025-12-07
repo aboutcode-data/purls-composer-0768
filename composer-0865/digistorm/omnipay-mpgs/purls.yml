@@ -1,0 +1,3 @@
+- pkg:composer/digistorm/omnipay-mpgs@0.1
+- pkg:composer/digistorm/omnipay-mpgs@1.0
+- pkg:composer/digistorm/omnipay-mpgs@2.0.0

@@ -1,0 +1,5 @@
+- pkg:composer/dragos-roua/php-steem-tools@v0.0.1-alpha
+- pkg:composer/dragos-roua/php-steem-tools@v0.0.2-alpha
+- pkg:composer/dragos-roua/php-steem-tools@v0.0.3-alpha
+- pkg:composer/dragos-roua/php-steem-tools@v0.0.4-alpha
+- pkg:composer/dragos-roua/php-steem-tools@v1.0.0

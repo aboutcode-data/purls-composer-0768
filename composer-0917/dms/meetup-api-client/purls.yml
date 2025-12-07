@@ -1,0 +1,12 @@
+- pkg:composer/dms/meetup-api-client@1.0.0
+- pkg:composer/dms/meetup-api-client@1.1.1
+- pkg:composer/dms/meetup-api-client@2.2
+- pkg:composer/dms/meetup-api-client@v1.1
+- pkg:composer/dms/meetup-api-client@v1.2.0
+- pkg:composer/dms/meetup-api-client@v1.3.0
+- pkg:composer/dms/meetup-api-client@v2.0.0
+- pkg:composer/dms/meetup-api-client@v2.0.1
+- pkg:composer/dms/meetup-api-client@v2.1
+- pkg:composer/dms/meetup-api-client@v2.3
+- pkg:composer/dms/meetup-api-client@v2.3.1
+- pkg:composer/dms/meetup-api-client@v2.4.0

@@ -1,0 +1,16 @@
+- pkg:composer/dotkernel/dot-authentication-web@0.1.0
+- pkg:composer/dotkernel/dot-authentication-web@0.1.1
+- pkg:composer/dotkernel/dot-authentication-web@0.2.0
+- pkg:composer/dotkernel/dot-authentication-web@0.2.1
+- pkg:composer/dotkernel/dot-authentication-web@0.2.2
+- pkg:composer/dotkernel/dot-authentication-web@0.2.3
+- pkg:composer/dotkernel/dot-authentication-web@0.2.4
+- pkg:composer/dotkernel/dot-authentication-web@2.0.1
+- pkg:composer/dotkernel/dot-authentication-web@2.9.0
+- pkg:composer/dotkernel/dot-authentication-web@2.9.1
+- pkg:composer/dotkernel/dot-authentication-web@2.9.2
+- pkg:composer/dotkernel/dot-authentication-web@2.9.3
+- pkg:composer/dotkernel/dot-authentication-web@2.9.4
+- pkg:composer/dotkernel/dot-authentication-web@v1.0.0
+- pkg:composer/dotkernel/dot-authentication-web@v1.0.1
+- pkg:composer/dotkernel/dot-authentication-web@v2.0.0

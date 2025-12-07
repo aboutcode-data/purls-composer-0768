@@ -1,0 +1,12 @@
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@0.1.0
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@0.1.1
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@0.2.0
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@0.2.1
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@1.0.0
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@2.0.1
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@2.0.2
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@2.0.3
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@2.9.0
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@2.9.1
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@2.9.2
+- pkg:composer/dotkernel/dot-controller-plugin-authentication@v2.0.0

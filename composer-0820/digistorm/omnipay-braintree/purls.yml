@@ -1,0 +1,5 @@
+- pkg:composer/digistorm/omnipay-braintree@1.0.0
+- pkg:composer/digistorm/omnipay-braintree@v1.1.0
+- pkg:composer/digistorm/omnipay-braintree@v1.1.1
+- pkg:composer/digistorm/omnipay-braintree@v1.1.2
+- pkg:composer/digistorm/omnipay-braintree@v2.0-beta

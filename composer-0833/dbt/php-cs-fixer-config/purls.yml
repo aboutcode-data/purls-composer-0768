@@ -1,0 +1,4 @@
+- pkg:composer/dbt/php-cs-fixer-config@1.0.0
+- pkg:composer/dbt/php-cs-fixer-config@2.0.0
+- pkg:composer/dbt/php-cs-fixer-config@3.0.0
+- pkg:composer/dbt/php-cs-fixer-config@3.0.1

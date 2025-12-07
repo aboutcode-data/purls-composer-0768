@@ -1,0 +1,4 @@
+- pkg:composer/dawidmazurek/php-jsonrpc-server@1.0.0
+- pkg:composer/dawidmazurek/php-jsonrpc-server@1.1.0
+- pkg:composer/dawidmazurek/php-jsonrpc-server@1.1.1
+- pkg:composer/dawidmazurek/php-jsonrpc-server@2.0.0

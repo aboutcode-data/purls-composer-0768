@@ -1,0 +1,3 @@
+- pkg:composer/deployee/persistence@v1.0.1
+- pkg:composer/deployee/persistence@v2.0.0
+- pkg:composer/deployee/persistence@v3.0.0

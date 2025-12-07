@@ -1,0 +1,4 @@
+- pkg:composer/dnsoft/laravel-omnipay@v1.0.0
+- pkg:composer/dnsoft/laravel-omnipay@v1.0.1
+- pkg:composer/dnsoft/laravel-omnipay@v1.0.2
+- pkg:composer/dnsoft/laravel-omnipay@v1.0.3
