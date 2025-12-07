@@ -1,0 +1,4 @@
+- pkg:composer/firework-php/http@v1.0
+- pkg:composer/firework-php/http@v1.1.0
+- pkg:composer/firework-php/http@v1.2.0
+- pkg:composer/firework-php/http@v1.3.0

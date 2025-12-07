@@ -1,0 +1,4 @@
+- pkg:composer/gravitywiz/phpstan-gwiz@1.0.0
+- pkg:composer/gravitywiz/phpstan-gwiz@1.0.1
+- pkg:composer/gravitywiz/phpstan-gwiz@1.0.2
+- pkg:composer/gravitywiz/phpstan-gwiz@1.3.0

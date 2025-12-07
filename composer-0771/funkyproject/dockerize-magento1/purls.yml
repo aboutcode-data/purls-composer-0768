@@ -1,0 +1,3 @@
+- pkg:composer/funkyproject/dockerize-magento1@v0.1.0
+- pkg:composer/funkyproject/dockerize-magento1@v0.1.1
+- pkg:composer/funkyproject/dockerize-magento1@v0.1.2

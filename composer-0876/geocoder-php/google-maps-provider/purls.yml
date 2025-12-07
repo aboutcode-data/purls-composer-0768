@@ -1,0 +1,12 @@
+- pkg:composer/geocoder-php/google-maps-provider@4.0.0
+- pkg:composer/geocoder-php/google-maps-provider@4.0.0-beta1
+- pkg:composer/geocoder-php/google-maps-provider@4.0.0-beta2
+- pkg:composer/geocoder-php/google-maps-provider@4.1.0
+- pkg:composer/geocoder-php/google-maps-provider@4.2.0
+- pkg:composer/geocoder-php/google-maps-provider@4.3.0
+- pkg:composer/geocoder-php/google-maps-provider@4.4.0
+- pkg:composer/geocoder-php/google-maps-provider@4.5.0
+- pkg:composer/geocoder-php/google-maps-provider@4.6.0
+- pkg:composer/geocoder-php/google-maps-provider@4.7.0
+- pkg:composer/geocoder-php/google-maps-provider@4.7.1
+- pkg:composer/geocoder-php/google-maps-provider@4.8.0

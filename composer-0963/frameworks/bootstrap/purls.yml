@@ -1,0 +1,9 @@
+- pkg:composer/frameworks/bootstrap@2.3.1
+- pkg:composer/frameworks/bootstrap@2.3.2
+- pkg:composer/frameworks/bootstrap@3.0.0
+- pkg:composer/frameworks/bootstrap@3.0.1
+- pkg:composer/frameworks/bootstrap@3.0.2
+- pkg:composer/frameworks/bootstrap@3.0.3
+- pkg:composer/frameworks/bootstrap@3.1.0
+- pkg:composer/frameworks/bootstrap@3.1.1
+- pkg:composer/frameworks/bootstrap@3.2.0

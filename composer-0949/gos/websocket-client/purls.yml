@@ -1,0 +1,14 @@
+- pkg:composer/gos/websocket-client@v0.1.0
+- pkg:composer/gos/websocket-client@v0.1.1
+- pkg:composer/gos/websocket-client@v0.1.2
+- pkg:composer/gos/websocket-client@v0.3.0
+- pkg:composer/gos/websocket-client@v0.3.1
+- pkg:composer/gos/websocket-client@v1.0.0
+- pkg:composer/gos/websocket-client@v1.0.0-beta
+- pkg:composer/gos/websocket-client@v1.1.0
+- pkg:composer/gos/websocket-client@v1.1.1
+- pkg:composer/gos/websocket-client@v1.2.0
+- pkg:composer/gos/websocket-client@v1.2.1
+- pkg:composer/gos/websocket-client@v1.3.0
+- pkg:composer/gos/websocket-client@v1.4.0
+- pkg:composer/gos/websocket-client@v1.5.0

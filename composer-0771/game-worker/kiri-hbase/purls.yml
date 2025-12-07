@@ -1,0 +1,4 @@
+- pkg:composer/game-worker/kiri-hbase@v1.0
+- pkg:composer/game-worker/kiri-hbase@v2.0
+- pkg:composer/game-worker/kiri-hbase@v2.1
+- pkg:composer/game-worker/kiri-hbase@v2.2

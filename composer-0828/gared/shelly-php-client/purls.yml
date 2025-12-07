@@ -1,0 +1,4 @@
+- pkg:composer/gared/shelly-php-client@1.0.0
+- pkg:composer/gared/shelly-php-client@2.0.0
+- pkg:composer/gared/shelly-php-client@2.0.1
+- pkg:composer/gared/shelly-php-client@2.1.0

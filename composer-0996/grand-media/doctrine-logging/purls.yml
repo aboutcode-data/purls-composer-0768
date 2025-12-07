@@ -1,0 +1,5 @@
+- pkg:composer/grand-media/doctrine-logging@v1.0
+- pkg:composer/grand-media/doctrine-logging@v2.0
+- pkg:composer/grand-media/doctrine-logging@v2.1
+- pkg:composer/grand-media/doctrine-logging@v3.0
+- pkg:composer/grand-media/doctrine-logging@v3.1

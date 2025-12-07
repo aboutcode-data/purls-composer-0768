@@ -1,0 +1,11 @@
+- pkg:composer/firaga/first-package@1.0.0
+- pkg:composer/firaga/first-package@2.0.1
+- pkg:composer/firaga/first-package@2.1.1
+- pkg:composer/firaga/first-package@2.3.1
+- pkg:composer/firaga/first-package@3.0.0
+- pkg:composer/firaga/first-package@3.0.1
+- pkg:composer/firaga/first-package@3.0.1-RC5
+- pkg:composer/firaga/first-package@3.0.1-alpha
+- pkg:composer/firaga/first-package@3.0.1-alpha.1
+- pkg:composer/firaga/first-package@3.0.1-alpha2
+- pkg:composer/firaga/first-package@3.0.1-rc

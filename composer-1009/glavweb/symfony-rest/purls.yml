@@ -1,0 +1,5 @@
+- pkg:composer/glavweb/symfony-rest@0.1.1
+- pkg:composer/glavweb/symfony-rest@0.1.2
+- pkg:composer/glavweb/symfony-rest@v1.0
+- pkg:composer/glavweb/symfony-rest@v1.1
+- pkg:composer/glavweb/symfony-rest@v1.1.1

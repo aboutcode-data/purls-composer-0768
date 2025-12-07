@@ -1,0 +1,4 @@
+- pkg:composer/fqapps/swoole-gin@v0.0.1
+- pkg:composer/fqapps/swoole-gin@v1.0.0
+- pkg:composer/fqapps/swoole-gin@v1.0.1
+- pkg:composer/fqapps/swoole-gin@v1.0.2

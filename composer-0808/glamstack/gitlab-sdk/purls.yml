@@ -1,0 +1,6 @@
+- pkg:composer/glamstack/gitlab-sdk@2.1.14
+- pkg:composer/glamstack/gitlab-sdk@3.0
+- pkg:composer/glamstack/gitlab-sdk@4.0
+- pkg:composer/glamstack/gitlab-sdk@4.0-rc1
+- pkg:composer/glamstack/gitlab-sdk@4.1
+- pkg:composer/glamstack/gitlab-sdk@4.2

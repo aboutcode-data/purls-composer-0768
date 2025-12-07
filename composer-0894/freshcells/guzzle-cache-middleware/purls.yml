@@ -1,0 +1,3 @@
+- pkg:composer/freshcells/guzzle-cache-middleware@2.0.0
+- pkg:composer/freshcells/guzzle-cache-middleware@v1.0.0
+- pkg:composer/freshcells/guzzle-cache-middleware@v1.0.1

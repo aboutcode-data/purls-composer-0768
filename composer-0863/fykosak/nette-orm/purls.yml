@@ -1,0 +1,14 @@
+- pkg:composer/fykosak/nette-orm@0.1.0-beta
+- pkg:composer/fykosak/nette-orm@0.1.1
+- pkg:composer/fykosak/nette-orm@0.1.2
+- pkg:composer/fykosak/nette-orm@0.2.0
+- pkg:composer/fykosak/nette-orm@0.2.1
+- pkg:composer/fykosak/nette-orm@0.2.2
+- pkg:composer/fykosak/nette-orm@v0.3.0
+- pkg:composer/fykosak/nette-orm@v0.4.0
+- pkg:composer/fykosak/nette-orm@v0.4.1
+- pkg:composer/fykosak/nette-orm@v0.4.2
+- pkg:composer/fykosak/nette-orm@v0.4.3
+- pkg:composer/fykosak/nette-orm@v0.4.4
+- pkg:composer/fykosak/nette-orm@v0.5.0
+- pkg:composer/fykosak/nette-orm@v0.5.0RC1

@@ -1,0 +1,4 @@
+- pkg:composer/graviton/mongodb-migrations-bundle@v1.0.0
+- pkg:composer/graviton/mongodb-migrations-bundle@v2.0.0
+- pkg:composer/graviton/mongodb-migrations-bundle@v2.0.1
+- pkg:composer/graviton/mongodb-migrations-bundle@v2.0.2

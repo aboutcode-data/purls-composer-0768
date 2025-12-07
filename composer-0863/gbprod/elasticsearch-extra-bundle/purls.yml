@@ -1,0 +1,3 @@
+- pkg:composer/gbprod/elasticsearch-extra-bundle@v0.1-alpha.0
+- pkg:composer/gbprod/elasticsearch-extra-bundle@v0.1-alpha.1
+- pkg:composer/gbprod/elasticsearch-extra-bundle@v0.1.0

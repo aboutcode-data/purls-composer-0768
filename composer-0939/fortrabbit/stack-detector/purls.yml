@@ -1,0 +1,13 @@
+- pkg:composer/fortrabbit/stack-detector@1.0.0
+- pkg:composer/fortrabbit/stack-detector@1.1.0
+- pkg:composer/fortrabbit/stack-detector@2.0.0
+- pkg:composer/fortrabbit/stack-detector@2.0.1
+- pkg:composer/fortrabbit/stack-detector@2.1.0
+- pkg:composer/fortrabbit/stack-detector@3.0.0
+- pkg:composer/fortrabbit/stack-detector@4.0.0
+- pkg:composer/fortrabbit/stack-detector@5.0.0
+- pkg:composer/fortrabbit/stack-detector@5.0.1
+- pkg:composer/fortrabbit/stack-detector@5.1.0
+- pkg:composer/fortrabbit/stack-detector@5.1.1
+- pkg:composer/fortrabbit/stack-detector@5.2.0
+- pkg:composer/fortrabbit/stack-detector@5.3.0

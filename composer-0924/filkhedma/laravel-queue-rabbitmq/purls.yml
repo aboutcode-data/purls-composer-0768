@@ -1,0 +1,16 @@
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@4.0
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@4.1
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@4.2
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@5.0
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@5.1
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@5.2
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@5.3
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@5.4
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@5.5
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@v6.0.0
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@v6.0.1
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@v6.0.2
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@v6.0.3
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@v7.0.0
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@v7.0.1
+- pkg:composer/filkhedma/laravel-queue-rabbitmq@v7.0.2

@@ -1,0 +1,16 @@
+- pkg:composer/giadc/doctrine-json-api@1.0.0
+- pkg:composer/giadc/doctrine-json-api@1.0.1
+- pkg:composer/giadc/doctrine-json-api@1.0.2
+- pkg:composer/giadc/doctrine-json-api@1.1.0
+- pkg:composer/giadc/doctrine-json-api@2.0.0
+- pkg:composer/giadc/doctrine-json-api@2.0.1
+- pkg:composer/giadc/doctrine-json-api@2.1.0
+- pkg:composer/giadc/doctrine-json-api@2.1.2
+- pkg:composer/giadc/doctrine-json-api@2.1.3
+- pkg:composer/giadc/doctrine-json-api@3.0.0
+- pkg:composer/giadc/doctrine-json-api@4.0.0
+- pkg:composer/giadc/doctrine-json-api@4.0.1
+- pkg:composer/giadc/doctrine-json-api@4.0.2
+- pkg:composer/giadc/doctrine-json-api@4.1.0
+- pkg:composer/giadc/doctrine-json-api@5.0.0
+- pkg:composer/giadc/doctrine-json-api@6.0.0

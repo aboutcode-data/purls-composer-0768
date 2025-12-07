@@ -1,0 +1,5 @@
+- pkg:composer/foxel/liquibase@1.0.0
+- pkg:composer/foxel/liquibase@2.0.5
+- pkg:composer/foxel/liquibase@3.0.2
+- pkg:composer/foxel/liquibase@3.3.2
+- pkg:composer/foxel/liquibase@3.3.3

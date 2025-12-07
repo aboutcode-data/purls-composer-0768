@@ -1,0 +1,5 @@
+- pkg:composer/geeksquad/ldap@2.0
+- pkg:composer/geeksquad/ldap@2.1
+- pkg:composer/geeksquad/ldap@v1.0
+- pkg:composer/geeksquad/ldap@v1.1
+- pkg:composer/geeksquad/ldap@v1.2

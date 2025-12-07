@@ -1,0 +1,8 @@
+- pkg:composer/getoxs/wkhtmltopdf-buster-amd64@0.11.0-RC1
+- pkg:composer/getoxs/wkhtmltopdf-buster-amd64@0.12.0
+- pkg:composer/getoxs/wkhtmltopdf-buster-amd64@0.12.1
+- pkg:composer/getoxs/wkhtmltopdf-buster-amd64@0.12.2.1
+- pkg:composer/getoxs/wkhtmltopdf-buster-amd64@0.12.3
+- pkg:composer/getoxs/wkhtmltopdf-buster-amd64@0.12.4
+- pkg:composer/getoxs/wkhtmltopdf-buster-amd64@0.12.6
+- pkg:composer/getoxs/wkhtmltopdf-buster-amd64@0.12.6.1

@@ -1,0 +1,8 @@
+- pkg:composer/gecko-packages/gecko-silex-caching-service@1.0
+- pkg:composer/gecko-packages/gecko-silex-caching-service@v1.1
+- pkg:composer/gecko-packages/gecko-silex-caching-service@v1.2
+- pkg:composer/gecko-packages/gecko-silex-caching-service@v2.0
+- pkg:composer/gecko-packages/gecko-silex-caching-service@v3.0
+- pkg:composer/gecko-packages/gecko-silex-caching-service@v3.1
+- pkg:composer/gecko-packages/gecko-silex-caching-service@v3.2
+- pkg:composer/gecko-packages/gecko-silex-caching-service@v4.0

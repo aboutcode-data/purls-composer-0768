@@ -1,0 +1,4 @@
+- pkg:composer/freshbitsweb/slack-error-notifier@v1.0.0
+- pkg:composer/freshbitsweb/slack-error-notifier@v1.0.1
+- pkg:composer/freshbitsweb/slack-error-notifier@v1.0.2
+- pkg:composer/freshbitsweb/slack-error-notifier@v1.0.3

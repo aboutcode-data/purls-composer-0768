@@ -1,0 +1,4 @@
+- pkg:composer/friendsofsymfony/rest@0.7.0
+- pkg:composer/friendsofsymfony/rest@0.8.0
+- pkg:composer/friendsofsymfony/rest@1.0.0
+- pkg:composer/friendsofsymfony/rest@1.0.0-RC1

@@ -1,0 +1,6 @@
+- pkg:composer/geocoder-php/geoip2-provider@4.0.0
+- pkg:composer/geocoder-php/geoip2-provider@4.0.1
+- pkg:composer/geocoder-php/geoip2-provider@4.1.0
+- pkg:composer/geocoder-php/geoip2-provider@4.2.0
+- pkg:composer/geocoder-php/geoip2-provider@4.3.0
+- pkg:composer/geocoder-php/geoip2-provider@4.4.0

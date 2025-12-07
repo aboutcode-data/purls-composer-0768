@@ -1,0 +1,13 @@
+- pkg:composer/getsolaris/laravel-make-service@v0.1
+- pkg:composer/getsolaris/laravel-make-service@v0.2
+- pkg:composer/getsolaris/laravel-make-service@v0.3
+- pkg:composer/getsolaris/laravel-make-service@v0.4
+- pkg:composer/getsolaris/laravel-make-service@v0.5
+- pkg:composer/getsolaris/laravel-make-service@v1.0.0
+- pkg:composer/getsolaris/laravel-make-service@v1.0.1
+- pkg:composer/getsolaris/laravel-make-service@v1.0.2
+- pkg:composer/getsolaris/laravel-make-service@v1.0.3
+- pkg:composer/getsolaris/laravel-make-service@v1.1.0
+- pkg:composer/getsolaris/laravel-make-service@v1.1.1
+- pkg:composer/getsolaris/laravel-make-service@v1.1.2
+- pkg:composer/getsolaris/laravel-make-service@v1.1.3

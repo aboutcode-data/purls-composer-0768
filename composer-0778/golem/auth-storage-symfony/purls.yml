@@ -1,0 +1,6 @@
+- pkg:composer/golem/auth-storage-symfony@1.0.0
+- pkg:composer/golem/auth-storage-symfony@1.0.1
+- pkg:composer/golem/auth-storage-symfony@2.0.0
+- pkg:composer/golem/auth-storage-symfony@5.0.0
+- pkg:composer/golem/auth-storage-symfony@v3.0.0
+- pkg:composer/golem/auth-storage-symfony@v4.0.0

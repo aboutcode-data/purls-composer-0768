@@ -1,0 +1,4 @@
+- pkg:composer/gaillard/mongo-lock@v1.0.0
+- pkg:composer/gaillard/mongo-lock@v1.0.1
+- pkg:composer/gaillard/mongo-lock@v2.0.0
+- pkg:composer/gaillard/mongo-lock@v2.0.1

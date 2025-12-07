@@ -1,0 +1,5 @@
+- pkg:composer/foostart/package-api@1.0.0
+- pkg:composer/foostart/package-api@2.0.0
+- pkg:composer/foostart/package-api@2.0.1
+- pkg:composer/foostart/package-api@5.0.0
+- pkg:composer/foostart/package-api@7.0.0

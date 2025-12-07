@@ -1,0 +1,4 @@
+- pkg:composer/gavroche/git@v0.1
+- pkg:composer/gavroche/git@v0.2
+- pkg:composer/gavroche/git@v0.3
+- pkg:composer/gavroche/git@v0.4

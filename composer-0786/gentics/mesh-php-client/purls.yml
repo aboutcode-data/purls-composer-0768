@@ -1,0 +1,15 @@
+- pkg:composer/gentics/mesh-php-client@0.1
+- pkg:composer/gentics/mesh-php-client@0.10.0
+- pkg:composer/gentics/mesh-php-client@0.10.1
+- pkg:composer/gentics/mesh-php-client@0.2
+- pkg:composer/gentics/mesh-php-client@0.20.0
+- pkg:composer/gentics/mesh-php-client@0.20.1
+- pkg:composer/gentics/mesh-php-client@0.20.2
+- pkg:composer/gentics/mesh-php-client@0.20.3
+- pkg:composer/gentics/mesh-php-client@0.20.4
+- pkg:composer/gentics/mesh-php-client@0.3
+- pkg:composer/gentics/mesh-php-client@0.4
+- pkg:composer/gentics/mesh-php-client@0.5
+- pkg:composer/gentics/mesh-php-client@0.6
+- pkg:composer/gentics/mesh-php-client@0.7
+- pkg:composer/gentics/mesh-php-client@0.8

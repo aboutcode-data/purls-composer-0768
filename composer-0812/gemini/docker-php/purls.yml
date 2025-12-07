@@ -1,0 +1,2 @@
+- pkg:composer/gemini/docker-php@v3.0.0-alpha
+- pkg:composer/gemini/docker-php@v3.0.0-beta.1

@@ -1,0 +1,6 @@
+- pkg:composer/flownative/azure-blobstorage@v0.1.0
+- pkg:composer/flownative/azure-blobstorage@v0.1.1
+- pkg:composer/flownative/azure-blobstorage@v0.1.2
+- pkg:composer/flownative/azure-blobstorage@v1.0.0
+- pkg:composer/flownative/azure-blobstorage@v1.1.0
+- pkg:composer/flownative/azure-blobstorage@v1.2.0

@@ -1,0 +1,15 @@
+- pkg:composer/friendsofsymfony1/doctrine1@v1.3.0
+- pkg:composer/friendsofsymfony1/doctrine1@v1.3.1
+- pkg:composer/friendsofsymfony1/doctrine1@v1.3.2
+- pkg:composer/friendsofsymfony1/doctrine1@v1.3.3
+- pkg:composer/friendsofsymfony1/doctrine1@v1.3.4
+- pkg:composer/friendsofsymfony1/doctrine1@v1.3.5
+- pkg:composer/friendsofsymfony1/doctrine1@v1.3.6
+- pkg:composer/friendsofsymfony1/doctrine1@v1.3.7
+- pkg:composer/friendsofsymfony1/doctrine1@v1.3.8
+- pkg:composer/friendsofsymfony1/doctrine1@v1.4.0
+- pkg:composer/friendsofsymfony1/doctrine1@v1.4.0-RC1
+- pkg:composer/friendsofsymfony1/doctrine1@v1.4.0-RC2
+- pkg:composer/friendsofsymfony1/doctrine1@v1.4.1
+- pkg:composer/friendsofsymfony1/doctrine1@v1.4.2
+- pkg:composer/friendsofsymfony1/doctrine1@v1.4.3

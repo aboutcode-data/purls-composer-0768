@@ -1,0 +1,4 @@
+- pkg:composer/forknetwork/strict-phpunit@v1.0.0
+- pkg:composer/forknetwork/strict-phpunit@v2.0.0
+- pkg:composer/forknetwork/strict-phpunit@v2.1.0
+- pkg:composer/forknetwork/strict-phpunit@v2.2.0
