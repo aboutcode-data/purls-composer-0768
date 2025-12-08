@@ -15,6 +15,7 @@
 - pkg:composer/ekapusta/oauth2-esia@1.4.1
 - pkg:composer/ekapusta/oauth2-esia@1.4.10
 - pkg:composer/ekapusta/oauth2-esia@1.4.11
+- pkg:composer/ekapusta/oauth2-esia@1.4.12
 - pkg:composer/ekapusta/oauth2-esia@1.4.2
 - pkg:composer/ekapusta/oauth2-esia@1.4.3
 - pkg:composer/ekapusta/oauth2-esia@1.4.4
@@ -23,3 +24,4 @@
 - pkg:composer/ekapusta/oauth2-esia@1.4.7
 - pkg:composer/ekapusta/oauth2-esia@1.4.8
 - pkg:composer/ekapusta/oauth2-esia@1.4.9
+- pkg:composer/ekapusta/oauth2-esia@1.5.0
