@@ -1,0 +1,12 @@
+- pkg:composer/mediawiki/semantic-bundle@1.0.0
+- pkg:composer/mediawiki/semantic-bundle@2.0.0
+- pkg:composer/mediawiki/semantic-bundle@3.0.0
+- pkg:composer/mediawiki/semantic-bundle@3.0.1
+- pkg:composer/mediawiki/semantic-bundle@3.1.0
+- pkg:composer/mediawiki/semantic-bundle@3.1.2
+- pkg:composer/mediawiki/semantic-bundle@3.2.0
+- pkg:composer/mediawiki/semantic-bundle@4.0.0
+- pkg:composer/mediawiki/semantic-bundle@5.0.0
+- pkg:composer/mediawiki/semantic-bundle@6.0.0
+- pkg:composer/mediawiki/semantic-bundle@6.0.1
+- pkg:composer/mediawiki/semantic-bundle@6.1.0

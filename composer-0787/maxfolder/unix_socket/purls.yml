@@ -1,0 +1,4 @@
+- pkg:composer/maxfolder/unix_socket@1.0.0
+- pkg:composer/maxfolder/unix_socket@2.0.1
+- pkg:composer/maxfolder/unix_socket@v1.0.1
+- pkg:composer/maxfolder/unix_socket@v2.0.0

@@ -1,0 +1,5 @@
+- pkg:composer/micro/kernel-boot-configuration@1.1
+- pkg:composer/micro/kernel-boot-configuration@1.2
+- pkg:composer/micro/kernel-boot-configuration@1.3
+- pkg:composer/micro/kernel-boot-configuration@2.0.0-alpha
+- pkg:composer/micro/kernel-boot-configuration@v1.6.0

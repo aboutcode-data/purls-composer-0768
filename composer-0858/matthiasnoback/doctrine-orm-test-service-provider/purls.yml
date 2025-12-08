@@ -1,0 +1,8 @@
+- pkg:composer/matthiasnoback/doctrine-orm-test-service-provider@v1.0.0
+- pkg:composer/matthiasnoback/doctrine-orm-test-service-provider@v2.0.0
+- pkg:composer/matthiasnoback/doctrine-orm-test-service-provider@v3.0.0
+- pkg:composer/matthiasnoback/doctrine-orm-test-service-provider@v3.0.1
+- pkg:composer/matthiasnoback/doctrine-orm-test-service-provider@v3.0.2
+- pkg:composer/matthiasnoback/doctrine-orm-test-service-provider@v3.0.3
+- pkg:composer/matthiasnoback/doctrine-orm-test-service-provider@v3.0.4
+- pkg:composer/matthiasnoback/doctrine-orm-test-service-provider@v3.0.5

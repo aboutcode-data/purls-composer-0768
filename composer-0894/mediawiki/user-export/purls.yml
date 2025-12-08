@@ -1,0 +1,5 @@
+- pkg:composer/mediawiki/user-export@1.2.1
+- pkg:composer/mediawiki/user-export@1.3.0
+- pkg:composer/mediawiki/user-export@2.0.0
+- pkg:composer/mediawiki/user-export@2.1.0
+- pkg:composer/mediawiki/user-export@2.1.1

@@ -1,0 +1,5 @@
+- pkg:composer/mix/websocket-daemon@v2.0.1
+- pkg:composer/mix/websocket-daemon@v2.0.1-RC5
+- pkg:composer/mix/websocket-daemon@v2.0.2
+- pkg:composer/mix/websocket-daemon@v2.0.3
+- pkg:composer/mix/websocket-daemon@v2.0.4

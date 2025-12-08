@@ -1,0 +1,10 @@
+- pkg:composer/middlewares/geolocation@v0.1.0
+- pkg:composer/middlewares/geolocation@v0.2.0
+- pkg:composer/middlewares/geolocation@v0.3.0
+- pkg:composer/middlewares/geolocation@v0.4.0
+- pkg:composer/middlewares/geolocation@v0.5.0
+- pkg:composer/middlewares/geolocation@v1.0.0
+- pkg:composer/middlewares/geolocation@v2.0.0
+- pkg:composer/middlewares/geolocation@v3.0.0
+- pkg:composer/middlewares/geolocation@v3.1.0
+- pkg:composer/middlewares/geolocation@v3.2.0

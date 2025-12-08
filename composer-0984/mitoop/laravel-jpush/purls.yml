@@ -1,0 +1,4 @@
+- pkg:composer/mitoop/laravel-jpush@v2.0.8
+- pkg:composer/mitoop/laravel-jpush@v3.0.1
+- pkg:composer/mitoop/laravel-jpush@v8.0.0
+- pkg:composer/mitoop/laravel-jpush@v9.0.0

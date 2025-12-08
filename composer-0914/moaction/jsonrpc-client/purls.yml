@@ -1,0 +1,4 @@
+- pkg:composer/moaction/jsonrpc-client@v1.0
+- pkg:composer/moaction/jsonrpc-client@v1.1
+- pkg:composer/moaction/jsonrpc-client@v1.2
+- pkg:composer/moaction/jsonrpc-client@v1.4

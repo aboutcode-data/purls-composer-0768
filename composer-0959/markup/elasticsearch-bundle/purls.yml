@@ -1,0 +1,12 @@
+- pkg:composer/markup/elasticsearch-bundle@0.1.0
+- pkg:composer/markup/elasticsearch-bundle@0.1.1
+- pkg:composer/markup/elasticsearch-bundle@0.1.2
+- pkg:composer/markup/elasticsearch-bundle@0.2.0
+- pkg:composer/markup/elasticsearch-bundle@0.3.0
+- pkg:composer/markup/elasticsearch-bundle@0.3.1
+- pkg:composer/markup/elasticsearch-bundle@1.0.0
+- pkg:composer/markup/elasticsearch-bundle@1.0.0-beta1
+- pkg:composer/markup/elasticsearch-bundle@1.0.1
+- pkg:composer/markup/elasticsearch-bundle@2.0.0
+- pkg:composer/markup/elasticsearch-bundle@2.0.0-alpha
+- pkg:composer/markup/elasticsearch-bundle@2.0.0-alpha-2

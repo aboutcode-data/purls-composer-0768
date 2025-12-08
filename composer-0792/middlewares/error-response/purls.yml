@@ -1,0 +1,4 @@
+- pkg:composer/middlewares/error-response@v1.0.0
+- pkg:composer/middlewares/error-response@v1.0.1
+- pkg:composer/middlewares/error-response@v1.0.2
+- pkg:composer/middlewares/error-response@v1.1.0

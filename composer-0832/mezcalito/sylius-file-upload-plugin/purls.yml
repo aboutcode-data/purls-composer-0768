@@ -1,0 +1,4 @@
+- pkg:composer/mezcalito/sylius-file-upload-plugin@0.2.1
+- pkg:composer/mezcalito/sylius-file-upload-plugin@0.3.0
+- pkg:composer/mezcalito/sylius-file-upload-plugin@0.4.0
+- pkg:composer/mezcalito/sylius-file-upload-plugin@0.5.0

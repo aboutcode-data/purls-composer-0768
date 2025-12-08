@@ -1,0 +1,16 @@
+- pkg:composer/midtrans/midtrans-php@2.0.0
+- pkg:composer/midtrans/midtrans-php@2.0.1
+- pkg:composer/midtrans/midtrans-php@2.1.0
+- pkg:composer/midtrans/midtrans-php@2.2.0
+- pkg:composer/midtrans/midtrans-php@2.3.0
+- pkg:composer/midtrans/midtrans-php@2.3.1
+- pkg:composer/midtrans/midtrans-php@2.3.2
+- pkg:composer/midtrans/midtrans-php@2.4.2
+- pkg:composer/midtrans/midtrans-php@2.4.3
+- pkg:composer/midtrans/midtrans-php@2.4.4
+- pkg:composer/midtrans/midtrans-php@2.5.0
+- pkg:composer/midtrans/midtrans-php@2.5.1
+- pkg:composer/midtrans/midtrans-php@2.5.2
+- pkg:composer/midtrans/midtrans-php@2.6.0
+- pkg:composer/midtrans/midtrans-php@2.6.1
+- pkg:composer/midtrans/midtrans-php@2.6.2

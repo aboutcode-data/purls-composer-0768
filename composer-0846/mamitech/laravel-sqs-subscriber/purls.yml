@@ -1,0 +1,8 @@
+- pkg:composer/mamitech/laravel-sqs-subscriber@v1.0
+- pkg:composer/mamitech/laravel-sqs-subscriber@v2.0
+- pkg:composer/mamitech/laravel-sqs-subscriber@v2.1
+- pkg:composer/mamitech/laravel-sqs-subscriber@v2.2
+- pkg:composer/mamitech/laravel-sqs-subscriber@v2.3
+- pkg:composer/mamitech/laravel-sqs-subscriber@v3.0
+- pkg:composer/mamitech/laravel-sqs-subscriber@v3.1
+- pkg:composer/mamitech/laravel-sqs-subscriber@v3.2

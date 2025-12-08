@@ -1,0 +1,12 @@
+- pkg:composer/micro/dependency-injection@0.1
+- pkg:composer/micro/dependency-injection@0.2
+- pkg:composer/micro/dependency-injection@1.0
+- pkg:composer/micro/dependency-injection@1.7.0
+- pkg:composer/micro/dependency-injection@1.7.0.1
+- pkg:composer/micro/dependency-injection@2.0.0-alpha
+- pkg:composer/micro/dependency-injection@v1.0.1
+- pkg:composer/micro/dependency-injection@v1.0.2
+- pkg:composer/micro/dependency-injection@v1.6.0
+- pkg:composer/micro/dependency-injection@v1.6.1
+- pkg:composer/micro/dependency-injection@v1.6.3
+- pkg:composer/micro/dependency-injection@v1.6.4

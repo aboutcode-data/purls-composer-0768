@@ -1,0 +1,14 @@
+- pkg:composer/mix/concurrent@v2.0.1
+- pkg:composer/mix/concurrent@v2.0.1-Beta2
+- pkg:composer/mix/concurrent@v2.0.1-RC
+- pkg:composer/mix/concurrent@v2.0.1-RC5
+- pkg:composer/mix/concurrent@v2.0.2
+- pkg:composer/mix/concurrent@v2.1.0
+- pkg:composer/mix/concurrent@v2.1.0-RC
+- pkg:composer/mix/concurrent@v2.1.0-RC2
+- pkg:composer/mix/concurrent@v2.1.0-beta
+- pkg:composer/mix/concurrent@v2.1.15
+- pkg:composer/mix/concurrent@v2.2.1
+- pkg:composer/mix/concurrent@v2.2.14
+- pkg:composer/mix/concurrent@v2.2.2
+- pkg:composer/mix/concurrent@v2.2.5

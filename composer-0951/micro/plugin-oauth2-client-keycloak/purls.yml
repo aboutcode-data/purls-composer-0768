@@ -1,0 +1,4 @@
+- pkg:composer/micro/plugin-oauth2-client-keycloak@1.0
+- pkg:composer/micro/plugin-oauth2-client-keycloak@2.0.0-alpha
+- pkg:composer/micro/plugin-oauth2-client-keycloak@v1.1
+- pkg:composer/micro/plugin-oauth2-client-keycloak@v1.1.1

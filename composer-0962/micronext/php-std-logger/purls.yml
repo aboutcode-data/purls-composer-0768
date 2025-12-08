@@ -1,0 +1,3 @@
+- pkg:composer/micronext/php-std-logger@1.0.1
+- pkg:composer/micronext/php-std-logger@1.0.2
+- pkg:composer/micronext/php-std-logger@1.0.4

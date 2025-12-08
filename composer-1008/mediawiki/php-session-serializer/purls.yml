@@ -1,0 +1,13 @@
+- pkg:composer/mediawiki/php-session-serializer@3.0.1
+- pkg:composer/mediawiki/php-session-serializer@v1.0.0
+- pkg:composer/mediawiki/php-session-serializer@v1.0.1
+- pkg:composer/mediawiki/php-session-serializer@v1.0.2
+- pkg:composer/mediawiki/php-session-serializer@v1.0.3
+- pkg:composer/mediawiki/php-session-serializer@v1.0.4
+- pkg:composer/mediawiki/php-session-serializer@v1.0.5
+- pkg:composer/mediawiki/php-session-serializer@v1.0.6
+- pkg:composer/mediawiki/php-session-serializer@v1.0.7
+- pkg:composer/mediawiki/php-session-serializer@v2.0.0
+- pkg:composer/mediawiki/php-session-serializer@v2.0.1
+- pkg:composer/mediawiki/php-session-serializer@v3.0.0
+- pkg:composer/mediawiki/php-session-serializer@v3.0.2

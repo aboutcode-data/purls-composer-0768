@@ -1,0 +1,5 @@
+- pkg:composer/mez/queuejitsu-scheduler@0.1
+- pkg:composer/mez/queuejitsu-scheduler@0.2.0
+- pkg:composer/mez/queuejitsu-scheduler@0.2.1
+- pkg:composer/mez/queuejitsu-scheduler@0.2.2
+- pkg:composer/mez/queuejitsu-scheduler@0.3.0

@@ -1,0 +1,12 @@
+- pkg:composer/micro/autowire@0.1
+- pkg:composer/micro/autowire@1.0
+- pkg:composer/micro/autowire@1.1
+- pkg:composer/micro/autowire@1.7.0
+- pkg:composer/micro/autowire@v1.2
+- pkg:composer/micro/autowire@v1.3
+- pkg:composer/micro/autowire@v1.3.1
+- pkg:composer/micro/autowire@v1.6.0
+- pkg:composer/micro/autowire@v1.6.0-rc1
+- pkg:composer/micro/autowire@v1.6.0-rc2
+- pkg:composer/micro/autowire@v1.6.0-rc3
+- pkg:composer/micro/autowire@v1.6.4

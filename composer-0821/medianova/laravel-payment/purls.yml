@@ -1,0 +1,4 @@
+- pkg:composer/medianova/laravel-payment@v1.0
+- pkg:composer/medianova/laravel-payment@v1.1
+- pkg:composer/medianova/laravel-payment@v1.2
+- pkg:composer/medianova/laravel-payment@v1.3

@@ -1,0 +1,5 @@
+- pkg:composer/mhujer/rabbit-mq-database-transaction-producer-bundle@1.0
+- pkg:composer/mhujer/rabbit-mq-database-transaction-producer-bundle@1.0.1
+- pkg:composer/mhujer/rabbit-mq-database-transaction-producer-bundle@2.0
+- pkg:composer/mhujer/rabbit-mq-database-transaction-producer-bundle@2.1
+- pkg:composer/mhujer/rabbit-mq-database-transaction-producer-bundle@2.1.1

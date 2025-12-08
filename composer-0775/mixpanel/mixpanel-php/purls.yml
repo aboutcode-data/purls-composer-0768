@@ -1,0 +1,13 @@
+- pkg:composer/mixpanel/mixpanel-php@1.0
+- pkg:composer/mixpanel/mixpanel-php@2.0
+- pkg:composer/mixpanel/mixpanel-php@2.10.0
+- pkg:composer/mixpanel/mixpanel-php@2.11.0
+- pkg:composer/mixpanel/mixpanel-php@2.4
+- pkg:composer/mixpanel/mixpanel-php@2.5
+- pkg:composer/mixpanel/mixpanel-php@2.6
+- pkg:composer/mixpanel/mixpanel-php@2.6.1
+- pkg:composer/mixpanel/mixpanel-php@2.6.2
+- pkg:composer/mixpanel/mixpanel-php@2.7.0
+- pkg:composer/mixpanel/mixpanel-php@2.8.0
+- pkg:composer/mixpanel/mixpanel-php@2.8.1
+- pkg:composer/mixpanel/mixpanel-php@2.9.0

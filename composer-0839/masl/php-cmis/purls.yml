@@ -1,0 +1,4 @@
+- pkg:composer/masl/php-cmis@1.0.1
+- pkg:composer/masl/php-cmis@2.0.0
+- pkg:composer/masl/php-cmis@v0.1
+- pkg:composer/masl/php-cmis@v1.0.0

@@ -1,0 +1,5 @@
+- pkg:composer/mcfedr/memcached-bundle@1.0.0
+- pkg:composer/mcfedr/memcached-bundle@1.0.1
+- pkg:composer/mcfedr/memcached-bundle@2.0.0
+- pkg:composer/mcfedr/memcached-bundle@2.1.0
+- pkg:composer/mcfedr/memcached-bundle@2.1.1

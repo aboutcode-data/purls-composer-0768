@@ -1,0 +1,7 @@
+- pkg:composer/micro/plugin-http-core@2.0.0-alpha
+- pkg:composer/micro/plugin-http-core@v1.0
+- pkg:composer/micro/plugin-http-core@v1.0-rc
+- pkg:composer/micro/plugin-http-core@v1.0.1
+- pkg:composer/micro/plugin-http-core@v1.0.2
+- pkg:composer/micro/plugin-http-core@v1.6.0
+- pkg:composer/micro/plugin-http-core@v1.6.1

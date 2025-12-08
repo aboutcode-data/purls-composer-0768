@@ -1,0 +1,8 @@
+- pkg:composer/middlewares/proxy@v0.1.0
+- pkg:composer/middlewares/proxy@v0.2.0
+- pkg:composer/middlewares/proxy@v0.3.0
+- pkg:composer/middlewares/proxy@v1.0.0
+- pkg:composer/middlewares/proxy@v1.1.0
+- pkg:composer/middlewares/proxy@v1.1.1
+- pkg:composer/middlewares/proxy@v2.0.0
+- pkg:composer/middlewares/proxy@v2.1.0

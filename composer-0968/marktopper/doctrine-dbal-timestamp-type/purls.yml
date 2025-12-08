@@ -1,0 +1,5 @@
+- pkg:composer/marktopper/doctrine-dbal-timestamp-type@v1.0.0
+- pkg:composer/marktopper/doctrine-dbal-timestamp-type@v1.0.1
+- pkg:composer/marktopper/doctrine-dbal-timestamp-type@v1.0.2
+- pkg:composer/marktopper/doctrine-dbal-timestamp-type@v1.0.3
+- pkg:composer/marktopper/doctrine-dbal-timestamp-type@v1.1.0

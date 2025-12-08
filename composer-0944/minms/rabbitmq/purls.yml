@@ -1,0 +1,2 @@
+- pkg:composer/minms/rabbitmq@v1.0
+- pkg:composer/minms/rabbitmq@v1.1

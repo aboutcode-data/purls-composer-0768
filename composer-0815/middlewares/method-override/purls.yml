@@ -1,0 +1,11 @@
+- pkg:composer/middlewares/method-override@v0.1.0
+- pkg:composer/middlewares/method-override@v0.1.1
+- pkg:composer/middlewares/method-override@v0.2.0
+- pkg:composer/middlewares/method-override@v0.3.0
+- pkg:composer/middlewares/method-override@v0.4.0
+- pkg:composer/middlewares/method-override@v0.5.0
+- pkg:composer/middlewares/method-override@v1.0.0
+- pkg:composer/middlewares/method-override@v1.1.0
+- pkg:composer/middlewares/method-override@v2.0.0
+- pkg:composer/middlewares/method-override@v2.0.1
+- pkg:composer/middlewares/method-override@v2.1.0

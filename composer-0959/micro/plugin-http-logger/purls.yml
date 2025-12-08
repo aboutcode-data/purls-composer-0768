@@ -1,0 +1,9 @@
+- pkg:composer/micro/plugin-http-logger@2.0.0-alpha
+- pkg:composer/micro/plugin-http-logger@v1.0
+- pkg:composer/micro/plugin-http-logger@v1.0.1
+- pkg:composer/micro/plugin-http-logger@v1.0.2
+- pkg:composer/micro/plugin-http-logger@v1.0.3
+- pkg:composer/micro/plugin-http-logger@v1.0.4
+- pkg:composer/micro/plugin-http-logger@v1.0.5
+- pkg:composer/micro/plugin-http-logger@v1.0.6
+- pkg:composer/micro/plugin-http-logger@v1.6.0

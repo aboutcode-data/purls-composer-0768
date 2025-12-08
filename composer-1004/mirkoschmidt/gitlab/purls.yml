@@ -1,0 +1,16 @@
+- pkg:composer/mirkoschmidt/gitlab@1.0.0
+- pkg:composer/mirkoschmidt/gitlab@1.1.0
+- pkg:composer/mirkoschmidt/gitlab@2.0.0
+- pkg:composer/mirkoschmidt/gitlab@2.1.0
+- pkg:composer/mirkoschmidt/gitlab@2.2.0
+- pkg:composer/mirkoschmidt/gitlab@2.3.0
+- pkg:composer/mirkoschmidt/gitlab@2.3.1
+- pkg:composer/mirkoschmidt/gitlab@2.3.2
+- pkg:composer/mirkoschmidt/gitlab@2.4.0
+- pkg:composer/mirkoschmidt/gitlab@2.5.0
+- pkg:composer/mirkoschmidt/gitlab@2.6.0
+- pkg:composer/mirkoschmidt/gitlab@3.0.0
+- pkg:composer/mirkoschmidt/gitlab@4.0.0
+- pkg:composer/mirkoschmidt/gitlab@4.1.0
+- pkg:composer/mirkoschmidt/gitlab@4.1.1
+- pkg:composer/mirkoschmidt/gitlab@4.2.0
