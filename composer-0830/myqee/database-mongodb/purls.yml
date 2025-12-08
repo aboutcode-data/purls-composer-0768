@@ -1,0 +1,6 @@
+- pkg:composer/myqee/database-mongodb@4.2.1
+- pkg:composer/myqee/database-mongodb@v3.1.0
+- pkg:composer/myqee/database-mongodb@v4.1.1
+- pkg:composer/myqee/database-mongodb@v4.1.2
+- pkg:composer/myqee/database-mongodb@v4.2.2
+- pkg:composer/myqee/database-mongodb@v4.2.4

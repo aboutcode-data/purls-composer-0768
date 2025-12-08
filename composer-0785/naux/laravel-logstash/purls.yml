@@ -1,0 +1,5 @@
+- pkg:composer/naux/laravel-logstash@0.1
+- pkg:composer/naux/laravel-logstash@0.1.4
+- pkg:composer/naux/laravel-logstash@v0.1.1
+- pkg:composer/naux/laravel-logstash@v0.1.2
+- pkg:composer/naux/laravel-logstash@v0.1.3

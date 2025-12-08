@@ -1,0 +1,3 @@
+- pkg:composer/modulework/http@v0.1
+- pkg:composer/modulework/http@v0.2
+- pkg:composer/modulework/http@v0.3

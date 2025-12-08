@@ -1,0 +1,16 @@
+- pkg:composer/nish/phpstan-safestring-rule@v0.0.1
+- pkg:composer/nish/phpstan-safestring-rule@v0.0.2
+- pkg:composer/nish/phpstan-safestring-rule@v0.0.3
+- pkg:composer/nish/phpstan-safestring-rule@v0.0.4
+- pkg:composer/nish/phpstan-safestring-rule@v0.0.5
+- pkg:composer/nish/phpstan-safestring-rule@v0.0.6
+- pkg:composer/nish/phpstan-safestring-rule@v0.0.7
+- pkg:composer/nish/phpstan-safestring-rule@v0.0.8
+- pkg:composer/nish/phpstan-safestring-rule@v0.0.9
+- pkg:composer/nish/phpstan-safestring-rule@v0.1.0
+- pkg:composer/nish/phpstan-safestring-rule@v0.1.1
+- pkg:composer/nish/phpstan-safestring-rule@v0.2.0
+- pkg:composer/nish/phpstan-safestring-rule@v0.2.1
+- pkg:composer/nish/phpstan-safestring-rule@v0.2.2
+- pkg:composer/nish/phpstan-safestring-rule@v0.2.3
+- pkg:composer/nish/phpstan-safestring-rule@v0.2.4

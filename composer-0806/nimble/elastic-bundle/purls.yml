@@ -1,0 +1,9 @@
+- pkg:composer/nimble/elastic-bundle@v0.1
+- pkg:composer/nimble/elastic-bundle@v0.2
+- pkg:composer/nimble/elastic-bundle@v0.25
+- pkg:composer/nimble/elastic-bundle@v0.26
+- pkg:composer/nimble/elastic-bundle@v0.27
+- pkg:composer/nimble/elastic-bundle@v0.30
+- pkg:composer/nimble/elastic-bundle@v0.31
+- pkg:composer/nimble/elastic-bundle@v0.32
+- pkg:composer/nimble/elastic-bundle@v0.50

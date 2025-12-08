@@ -1,0 +1,5 @@
+- pkg:composer/mothership/headless-shopware-varnish-cache@1.1.1
+- pkg:composer/mothership/headless-shopware-varnish-cache@1.2.0
+- pkg:composer/mothership/headless-shopware-varnish-cache@2.0.0
+- pkg:composer/mothership/headless-shopware-varnish-cache@2.0.1
+- pkg:composer/mothership/headless-shopware-varnish-cache@3.0.0

@@ -1,0 +1,7 @@
+- pkg:composer/moon-php/http-middleware@v0.1
+- pkg:composer/moon-php/http-middleware@v0.1.1
+- pkg:composer/moon-php/http-middleware@v0.2
+- pkg:composer/moon-php/http-middleware@v0.2.1
+- pkg:composer/moon-php/http-middleware@v1.0.0
+- pkg:composer/moon-php/http-middleware@v2.0.0
+- pkg:composer/moon-php/http-middleware@v3.0.0

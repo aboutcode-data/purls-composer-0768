@@ -1,0 +1,11 @@
+- pkg:composer/mrm-commerce/magento-coding-standard-phpcs@2.0.0
+- pkg:composer/mrm-commerce/magento-coding-standard-phpcs@2.1.0
+- pkg:composer/mrm-commerce/magento-coding-standard-phpcs@2.1.1
+- pkg:composer/mrm-commerce/magento-coding-standard-phpcs@2.2.1
+- pkg:composer/mrm-commerce/magento-coding-standard-phpcs@2.2.2
+- pkg:composer/mrm-commerce/magento-coding-standard-phpcs@3.0.0
+- pkg:composer/mrm-commerce/magento-coding-standard-phpcs@3.0.0-RC1
+- pkg:composer/mrm-commerce/magento-coding-standard-phpcs@3.0.1
+- pkg:composer/mrm-commerce/magento-coding-standard-phpcs@3.0.1-RC1
+- pkg:composer/mrm-commerce/magento-coding-standard-phpcs@3.0.2
+- pkg:composer/mrm-commerce/magento-coding-standard-phpcs@3.1.0-RC1

@@ -1,0 +1,5 @@
+- pkg:composer/nestboxphp/magpie@v0.0.1-alpha
+- pkg:composer/nestboxphp/magpie@v0.0.2
+- pkg:composer/nestboxphp/magpie@v0.0.3-alpha
+- pkg:composer/nestboxphp/magpie@v0.0.3-beta
+- pkg:composer/nestboxphp/magpie@v0.0.4-alpha

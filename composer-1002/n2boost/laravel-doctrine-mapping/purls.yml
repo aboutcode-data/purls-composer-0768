@@ -1,0 +1,6 @@
+- pkg:composer/n2boost/laravel-doctrine-mapping@0.01
+- pkg:composer/n2boost/laravel-doctrine-mapping@1.0.0-beta
+- pkg:composer/n2boost/laravel-doctrine-mapping@1.0.1
+- pkg:composer/n2boost/laravel-doctrine-mapping@1.0.2
+- pkg:composer/n2boost/laravel-doctrine-mapping@2.0.0
+- pkg:composer/n2boost/laravel-doctrine-mapping@2.0.1

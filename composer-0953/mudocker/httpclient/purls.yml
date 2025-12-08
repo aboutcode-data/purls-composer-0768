@@ -1,0 +1,14 @@
+- pkg:composer/mudocker/httpclient@v0.1
+- pkg:composer/mudocker/httpclient@v0.2
+- pkg:composer/mudocker/httpclient@v1
+- pkg:composer/mudocker/httpclient@v2
+- pkg:composer/mudocker/httpclient@v3
+- pkg:composer/mudocker/httpclient@v3.1
+- pkg:composer/mudocker/httpclient@v3.2
+- pkg:composer/mudocker/httpclient@v3.3
+- pkg:composer/mudocker/httpclient@v3.4
+- pkg:composer/mudocker/httpclient@v3.5
+- pkg:composer/mudocker/httpclient@v3.6
+- pkg:composer/mudocker/httpclient@v3.7
+- pkg:composer/mudocker/httpclient@v3.8
+- pkg:composer/mudocker/httpclient@v3.9

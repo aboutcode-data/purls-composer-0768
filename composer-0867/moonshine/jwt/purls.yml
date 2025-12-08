@@ -1,0 +1,3 @@
+- pkg:composer/moonshine/jwt@1.0.0
+- pkg:composer/moonshine/jwt@1.0.1
+- pkg:composer/moonshine/jwt@2.0.0

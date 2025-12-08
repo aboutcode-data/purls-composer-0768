@@ -1,0 +1,4 @@
+- pkg:composer/mrkindy/n8n-laravel@v0.1.0-alpha
+- pkg:composer/mrkindy/n8n-laravel@v0.1.1-alpha
+- pkg:composer/mrkindy/n8n-laravel@v0.1.2-alpha
+- pkg:composer/mrkindy/n8n-laravel@v1.0.0

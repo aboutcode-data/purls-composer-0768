@@ -1,0 +1,3 @@
+- pkg:composer/n0v3xx/mq-redis-session@0.9
+- pkg:composer/n0v3xx/mq-redis-session@1.0
+- pkg:composer/n0v3xx/mq-redis-session@1.1

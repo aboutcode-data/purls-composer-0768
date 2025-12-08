@@ -1,0 +1,5 @@
+- pkg:composer/nodeone/behat-common-contexts@v1.0.0
+- pkg:composer/nodeone/behat-common-contexts@v1.1.0
+- pkg:composer/nodeone/behat-common-contexts@v1.1.1
+- pkg:composer/nodeone/behat-common-contexts@v1.2.0
+- pkg:composer/nodeone/behat-common-contexts@v2.0.0

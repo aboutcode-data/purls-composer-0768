@@ -1,0 +1,4 @@
+- pkg:composer/netserva/dns@v0.0.1
+- pkg:composer/netserva/dns@v0.0.3
+- pkg:composer/netserva/dns@v0.0.4
+- pkg:composer/netserva/dns@v3.0.1

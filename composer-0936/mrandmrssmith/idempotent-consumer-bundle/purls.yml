@@ -1,0 +1,2 @@
+- pkg:composer/mrandmrssmith/idempotent-consumer-bundle@1.0.0
+- pkg:composer/mrandmrssmith/idempotent-consumer-bundle@2.0.0

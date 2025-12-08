@@ -1,0 +1,3 @@
+- pkg:composer/mtownsend/laravel-request-response-logger@1.0.0
+- pkg:composer/mtownsend/laravel-request-response-logger@1.1.0
+- pkg:composer/mtownsend/laravel-request-response-logger@2.0.0

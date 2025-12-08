@@ -1,0 +1,5 @@
+- pkg:composer/moln/failover-manager@1.0
+- pkg:composer/moln/failover-manager@1.1
+- pkg:composer/moln/failover-manager@1.2
+- pkg:composer/moln/failover-manager@1.3.0
+- pkg:composer/moln/failover-manager@1.4.0

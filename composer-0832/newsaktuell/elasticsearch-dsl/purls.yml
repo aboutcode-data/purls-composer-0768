@@ -1,0 +1,4 @@
+- pkg:composer/newsaktuell/elasticsearch-dsl@v1
+- pkg:composer/newsaktuell/elasticsearch-dsl@v2
+- pkg:composer/newsaktuell/elasticsearch-dsl@v2.1
+- pkg:composer/newsaktuell/elasticsearch-dsl@v3

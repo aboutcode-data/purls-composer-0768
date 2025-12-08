@@ -1,0 +1,4 @@
+- pkg:composer/nish/phpstan-echo-html-rule@v0.1.0
+- pkg:composer/nish/phpstan-echo-html-rule@v0.1.1
+- pkg:composer/nish/phpstan-echo-html-rule@v0.1.2
+- pkg:composer/nish/phpstan-echo-html-rule@v0.1.3

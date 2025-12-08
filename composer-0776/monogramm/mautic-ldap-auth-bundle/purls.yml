@@ -1,0 +1,3 @@
+- pkg:composer/monogramm/mautic-ldap-auth-bundle@1.0.0
+- pkg:composer/monogramm/mautic-ldap-auth-bundle@1.1.0
+- pkg:composer/monogramm/mautic-ldap-auth-bundle@1.1.1

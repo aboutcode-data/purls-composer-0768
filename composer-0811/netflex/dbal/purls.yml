@@ -1,0 +1,5 @@
+- pkg:composer/netflex/dbal@v1.0.0
+- pkg:composer/netflex/dbal@v1.0.1
+- pkg:composer/netflex/dbal@v2.0.0
+- pkg:composer/netflex/dbal@v2.0.1
+- pkg:composer/netflex/dbal@v3.0.0

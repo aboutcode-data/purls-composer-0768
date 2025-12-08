@@ -1,0 +1,5 @@
+- pkg:composer/multiotp/smsgateway@v1.0.2
+- pkg:composer/multiotp/smsgateway@v1.0.4
+- pkg:composer/multiotp/smsgateway@v1.0.6
+- pkg:composer/multiotp/smsgateway@v1.0.8
+- pkg:composer/multiotp/smsgateway@v1.0.9

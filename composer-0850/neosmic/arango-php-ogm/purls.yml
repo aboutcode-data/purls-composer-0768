@@ -1,0 +1,4 @@
+- pkg:composer/neosmic/arango-php-ogm@v0.1.0
+- pkg:composer/neosmic/arango-php-ogm@v0.1.1
+- pkg:composer/neosmic/arango-php-ogm@v0.1.1-rc
+- pkg:composer/neosmic/arango-php-ogm@v0.1.2

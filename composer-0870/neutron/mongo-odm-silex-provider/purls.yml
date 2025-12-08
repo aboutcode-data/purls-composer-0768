@@ -1,0 +1,4 @@
+- pkg:composer/neutron/mongo-odm-silex-provider@0.1.0
+- pkg:composer/neutron/mongo-odm-silex-provider@0.1.1
+- pkg:composer/neutron/mongo-odm-silex-provider@0.1.2
+- pkg:composer/neutron/mongo-odm-silex-provider@0.1.3

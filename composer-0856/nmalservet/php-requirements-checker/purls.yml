@@ -1,0 +1,3 @@
+- pkg:composer/nmalservet/php-requirements-checker@1.0
+- pkg:composer/nmalservet/php-requirements-checker@1.1
+- pkg:composer/nmalservet/php-requirements-checker@v0.1

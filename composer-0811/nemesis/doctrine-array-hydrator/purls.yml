@@ -1,0 +1,5 @@
+- pkg:composer/nemesis/doctrine-array-hydrator@0.1.1
+- pkg:composer/nemesis/doctrine-array-hydrator@1.0.0
+- pkg:composer/nemesis/doctrine-array-hydrator@1.0.1
+- pkg:composer/nemesis/doctrine-array-hydrator@v0.1.0
+- pkg:composer/nemesis/doctrine-array-hydrator@v0.1.2
