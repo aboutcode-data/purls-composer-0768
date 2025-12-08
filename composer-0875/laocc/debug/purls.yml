@@ -41,3 +41,5 @@
 - pkg:composer/laocc/debug@1.1.70
 - pkg:composer/laocc/debug@1.1.71
 - pkg:composer/laocc/debug@1.1.72
+- pkg:composer/laocc/debug@1.2.1
+- pkg:composer/laocc/debug@1.2.2
