@@ -80,6 +80,8 @@
 - pkg:composer/condoedge/utils@v0.2.110
 - pkg:composer/condoedge/utils@v0.2.111
 - pkg:composer/condoedge/utils@v0.2.112
+- pkg:composer/condoedge/utils@v0.2.113
+- pkg:composer/condoedge/utils@v0.2.114
 - pkg:composer/condoedge/utils@v0.2.12
 - pkg:composer/condoedge/utils@v0.2.13
 - pkg:composer/condoedge/utils@v0.2.14

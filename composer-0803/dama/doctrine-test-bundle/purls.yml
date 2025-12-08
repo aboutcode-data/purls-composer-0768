@@ -68,3 +68,4 @@
 - pkg:composer/dama/doctrine-test-bundle@v8.3.0
 - pkg:composer/dama/doctrine-test-bundle@v8.3.1
 - pkg:composer/dama/doctrine-test-bundle@v8.4.0
+- pkg:composer/dama/doctrine-test-bundle@v8.4.1
