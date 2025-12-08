@@ -1,0 +1,3 @@
+- pkg:composer/logdash/php-sdk@1.0.0
+- pkg:composer/logdash/php-sdk@1.0.3
+- pkg:composer/logdash/php-sdk@v1.0.6

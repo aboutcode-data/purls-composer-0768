@@ -1,0 +1,5 @@
+- pkg:composer/lloricode/payment-gateway@v1.9.0
+- pkg:composer/lloricode/payment-gateway@v1.9.1
+- pkg:composer/lloricode/payment-gateway@v1.9.2
+- pkg:composer/lloricode/payment-gateway@v1.9.3
+- pkg:composer/lloricode/payment-gateway@v2

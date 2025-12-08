@@ -1,0 +1,3 @@
+- pkg:composer/larc/smpp-client-php@2.1.0
+- pkg:composer/larc/smpp-client-php@2.1.2
+- pkg:composer/larc/smpp-client-php@v2.0

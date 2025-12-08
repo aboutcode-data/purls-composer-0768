@@ -1,0 +1,15 @@
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@1.0.0-alpha
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@1.0.0-alpha.1
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@1.1.0
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@2.0.0
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@2.0.1
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@2.1.0
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@2.2.0
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@2.3.0
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@v1.0.0
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@v2.4.0
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@v2.4.1
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@v2.5.0
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@v2.6.0
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@v2.7.0
+- pkg:composer/laravel-freelancer-nl/arangodb-php-client@v2.8.0

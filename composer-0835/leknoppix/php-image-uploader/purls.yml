@@ -1,0 +1,4 @@
+- pkg:composer/leknoppix/php-image-uploader@6.0
+- pkg:composer/leknoppix/php-image-uploader@7.0
+- pkg:composer/leknoppix/php-image-uploader@8.0
+- pkg:composer/leknoppix/php-image-uploader@v1.0

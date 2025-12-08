@@ -1,0 +1,4 @@
+- pkg:composer/laravel-shift/console@v0.1.0
+- pkg:composer/laravel-shift/console@v0.1.1
+- pkg:composer/laravel-shift/console@v0.2.0
+- pkg:composer/laravel-shift/console@v0.3.0

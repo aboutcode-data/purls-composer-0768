@@ -1,0 +1,16 @@
+- pkg:composer/laravel-notification-channels/facebook-poster@0.0.1
+- pkg:composer/laravel-notification-channels/facebook-poster@1.0.0
+- pkg:composer/laravel-notification-channels/facebook-poster@1.1.0
+- pkg:composer/laravel-notification-channels/facebook-poster@1.2.0
+- pkg:composer/laravel-notification-channels/facebook-poster@1.4.0
+- pkg:composer/laravel-notification-channels/facebook-poster@1.5.0
+- pkg:composer/laravel-notification-channels/facebook-poster@1.6.0
+- pkg:composer/laravel-notification-channels/facebook-poster@2.0.0
+- pkg:composer/laravel-notification-channels/facebook-poster@3.0.0
+- pkg:composer/laravel-notification-channels/facebook-poster@4.0.0
+- pkg:composer/laravel-notification-channels/facebook-poster@5.0.0
+- pkg:composer/laravel-notification-channels/facebook-poster@5.1.0
+- pkg:composer/laravel-notification-channels/facebook-poster@5.2.0
+- pkg:composer/laravel-notification-channels/facebook-poster@6.0.0
+- pkg:composer/laravel-notification-channels/facebook-poster@6.1.0
+- pkg:composer/laravel-notification-channels/facebook-poster@6.2.0

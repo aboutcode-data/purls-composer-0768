@@ -1,0 +1,8 @@
+- pkg:composer/laravel-chaos/testing@v0.1
+- pkg:composer/laravel-chaos/testing@v0.2.0
+- pkg:composer/laravel-chaos/testing@v0.3
+- pkg:composer/laravel-chaos/testing@v0.4
+- pkg:composer/laravel-chaos/testing@v0.5
+- pkg:composer/laravel-chaos/testing@v1.0
+- pkg:composer/laravel-chaos/testing@v1.1
+- pkg:composer/laravel-chaos/testing@v1.2

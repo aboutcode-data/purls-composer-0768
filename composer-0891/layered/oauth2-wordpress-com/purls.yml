@@ -1,0 +1,4 @@
+- pkg:composer/layered/oauth2-wordpress-com@v0.1
+- pkg:composer/layered/oauth2-wordpress-com@v1.0
+- pkg:composer/layered/oauth2-wordpress-com@v1.0.1
+- pkg:composer/layered/oauth2-wordpress-com@v1.1

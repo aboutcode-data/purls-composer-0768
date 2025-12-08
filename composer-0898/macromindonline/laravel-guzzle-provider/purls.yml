@@ -1,0 +1,4 @@
+- pkg:composer/macromindonline/laravel-guzzle-provider@1.0.1
+- pkg:composer/macromindonline/laravel-guzzle-provider@5.0
+- pkg:composer/macromindonline/laravel-guzzle-provider@6.0
+- pkg:composer/macromindonline/laravel-guzzle-provider@v0.0.1

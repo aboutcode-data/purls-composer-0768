@@ -1,0 +1,10 @@
+- pkg:composer/levit/versioning-bundle@v0.0.1
+- pkg:composer/levit/versioning-bundle@v0.1.0
+- pkg:composer/levit/versioning-bundle@v0.2.0
+- pkg:composer/levit/versioning-bundle@v0.2.1
+- pkg:composer/levit/versioning-bundle@v0.3.0
+- pkg:composer/levit/versioning-bundle@v1.0.0
+- pkg:composer/levit/versioning-bundle@v1.0.1
+- pkg:composer/levit/versioning-bundle@v1.0.2
+- pkg:composer/levit/versioning-bundle@v1.0.3
+- pkg:composer/levit/versioning-bundle@v1.1.0

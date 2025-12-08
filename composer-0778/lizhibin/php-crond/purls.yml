@@ -1,0 +1,4 @@
+- pkg:composer/lizhibin/php-crond@v1.0.2-stable
+- pkg:composer/lizhibin/php-crond@v1.0.4-stable
+- pkg:composer/lizhibin/php-crond@v1.0.6-stable
+- pkg:composer/lizhibin/php-crond@v1.0.9-stable

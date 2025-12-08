@@ -1,0 +1,5 @@
+- pkg:composer/leondeng/laravel-batch-mailgun@v1.0.0
+- pkg:composer/leondeng/laravel-batch-mailgun@v1.1.0
+- pkg:composer/leondeng/laravel-batch-mailgun@v2.0.0
+- pkg:composer/leondeng/laravel-batch-mailgun@v2.0.1
+- pkg:composer/leondeng/laravel-batch-mailgun@v3.0.0

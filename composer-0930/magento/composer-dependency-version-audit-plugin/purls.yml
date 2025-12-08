@@ -1,0 +1,4 @@
+- pkg:composer/magento/composer-dependency-version-audit-plugin@0.1.1
+- pkg:composer/magento/composer-dependency-version-audit-plugin@0.1.4
+- pkg:composer/magento/composer-dependency-version-audit-plugin@0.1.5
+- pkg:composer/magento/composer-dependency-version-audit-plugin@0.1.6

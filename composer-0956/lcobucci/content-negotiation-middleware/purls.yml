@@ -1,0 +1,10 @@
+- pkg:composer/lcobucci/content-negotiation-middleware@0.1.0
+- pkg:composer/lcobucci/content-negotiation-middleware@0.2.0
+- pkg:composer/lcobucci/content-negotiation-middleware@1.0.0
+- pkg:composer/lcobucci/content-negotiation-middleware@1.0.1
+- pkg:composer/lcobucci/content-negotiation-middleware@2.0.0
+- pkg:composer/lcobucci/content-negotiation-middleware@2.1.0
+- pkg:composer/lcobucci/content-negotiation-middleware@2.2.0
+- pkg:composer/lcobucci/content-negotiation-middleware@3.0.0
+- pkg:composer/lcobucci/content-negotiation-middleware@3.1.0
+- pkg:composer/lcobucci/content-negotiation-middleware@3.2.0

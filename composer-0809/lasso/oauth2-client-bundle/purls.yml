@@ -1,0 +1,5 @@
+- pkg:composer/lasso/oauth2-client-bundle@v0.0.1
+- pkg:composer/lasso/oauth2-client-bundle@v0.0.2
+- pkg:composer/lasso/oauth2-client-bundle@v0.0.3
+- pkg:composer/lasso/oauth2-client-bundle@v0.0.4
+- pkg:composer/lasso/oauth2-client-bundle@v0.0.5

@@ -1,0 +1,5 @@
+- pkg:composer/lightgear/asset@0.8
+- pkg:composer/lightgear/asset@1.0
+- pkg:composer/lightgear/asset@1.1
+- pkg:composer/lightgear/asset@1.2
+- pkg:composer/lightgear/asset@2.0.0

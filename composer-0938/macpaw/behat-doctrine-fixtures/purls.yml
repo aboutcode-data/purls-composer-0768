@@ -1,0 +1,8 @@
+- pkg:composer/macpaw/behat-doctrine-fixtures@v1.0.0
+- pkg:composer/macpaw/behat-doctrine-fixtures@v1.0.1
+- pkg:composer/macpaw/behat-doctrine-fixtures@v2.0.0
+- pkg:composer/macpaw/behat-doctrine-fixtures@v2.0.1
+- pkg:composer/macpaw/behat-doctrine-fixtures@v2.0.2
+- pkg:composer/macpaw/behat-doctrine-fixtures@v2.1.0
+- pkg:composer/macpaw/behat-doctrine-fixtures@v2.2.0
+- pkg:composer/macpaw/behat-doctrine-fixtures@v3.0

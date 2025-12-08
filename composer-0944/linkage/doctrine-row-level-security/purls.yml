@@ -1,0 +1,3 @@
+- pkg:composer/linkage/doctrine-row-level-security@v0.9.0
+- pkg:composer/linkage/doctrine-row-level-security@v1.0.0
+- pkg:composer/linkage/doctrine-row-level-security@v2.0.0

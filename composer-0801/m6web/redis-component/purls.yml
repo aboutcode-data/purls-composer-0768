@@ -1,0 +1,17 @@
+- pkg:composer/m6web/redis-component@v1.0.0
+- pkg:composer/m6web/redis-component@v1.0.1
+- pkg:composer/m6web/redis-component@v1.0.2
+- pkg:composer/m6web/redis-component@v1.1.0
+- pkg:composer/m6web/redis-component@v1.1.1
+- pkg:composer/m6web/redis-component@v1.1.2
+- pkg:composer/m6web/redis-component@v1.1.3
+- pkg:composer/m6web/redis-component@v1.2.0
+- pkg:composer/m6web/redis-component@v1.2.1
+- pkg:composer/m6web/redis-component@v2.0.0
+- pkg:composer/m6web/redis-component@v2.1.0
+- pkg:composer/m6web/redis-component@v3.0.0
+- pkg:composer/m6web/redis-component@v3.0.1
+- pkg:composer/m6web/redis-component@v3.1.0
+- pkg:composer/m6web/redis-component@v3.1.1
+- pkg:composer/m6web/redis-component@v3.2.0
+- pkg:composer/m6web/redis-component@v3.3.0

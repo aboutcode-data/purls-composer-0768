@@ -1,0 +1,5 @@
+- pkg:composer/lingoda/behat-screenshot-image-driver-aws-s3@0.1.0
+- pkg:composer/lingoda/behat-screenshot-image-driver-aws-s3@0.1.1
+- pkg:composer/lingoda/behat-screenshot-image-driver-aws-s3@0.1.2
+- pkg:composer/lingoda/behat-screenshot-image-driver-aws-s3@0.1.3
+- pkg:composer/lingoda/behat-screenshot-image-driver-aws-s3@0.1.4

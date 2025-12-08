@@ -1,0 +1,7 @@
+- pkg:composer/larafast/fastapi@2.6
+- pkg:composer/larafast/fastapi@2.7
+- pkg:composer/larafast/fastapi@v1.0.0
+- pkg:composer/larafast/fastapi@v2.0
+- pkg:composer/larafast/fastapi@v2.2
+- pkg:composer/larafast/fastapi@v2.3
+- pkg:composer/larafast/fastapi@v2.5

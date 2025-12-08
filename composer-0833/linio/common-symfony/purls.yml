@@ -1,0 +1,4 @@
+- pkg:composer/linio/common-symfony@1.0.0
+- pkg:composer/linio/common-symfony@1.2.0
+- pkg:composer/linio/common-symfony@2.0.0
+- pkg:composer/linio/common-symfony@3.0.0

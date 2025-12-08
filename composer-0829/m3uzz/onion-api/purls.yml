@@ -1,0 +1,5 @@
+- pkg:composer/m3uzz/onion-api@2.16.4
+- pkg:composer/m3uzz/onion-api@2.16.7
+- pkg:composer/m3uzz/onion-api@3.17.9
+- pkg:composer/m3uzz/onion-api@3.18.12
+- pkg:composer/m3uzz/onion-api@3.19.0-stable

@@ -1,0 +1,4 @@
+- pkg:composer/lifo/php-ipc@v1.0
+- pkg:composer/lifo/php-ipc@v1.1
+- pkg:composer/lifo/php-ipc@v2.0
+- pkg:composer/lifo/php-ipc@v2.1

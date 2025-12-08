@@ -1,0 +1,11 @@
+- pkg:composer/ludal/mysql-querybuilder@v0.1-beta
+- pkg:composer/ludal/mysql-querybuilder@v0.2
+- pkg:composer/ludal/mysql-querybuilder@v0.3
+- pkg:composer/ludal/mysql-querybuilder@v0.3.1
+- pkg:composer/ludal/mysql-querybuilder@v0.3.2
+- pkg:composer/ludal/mysql-querybuilder@v0.4
+- pkg:composer/ludal/mysql-querybuilder@v0.4.1
+- pkg:composer/ludal/mysql-querybuilder@v0.4.2
+- pkg:composer/ludal/mysql-querybuilder@v0.5
+- pkg:composer/ludal/mysql-querybuilder@v0.5.1
+- pkg:composer/ludal/mysql-querybuilder@v0.5.2

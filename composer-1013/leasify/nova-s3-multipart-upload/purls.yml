@@ -1,0 +1,4 @@
+- pkg:composer/leasify/nova-s3-multipart-upload@v1.0.0
+- pkg:composer/leasify/nova-s3-multipart-upload@v1.1.0
+- pkg:composer/leasify/nova-s3-multipart-upload@v1.2.0
+- pkg:composer/leasify/nova-s3-multipart-upload@v1.3.0

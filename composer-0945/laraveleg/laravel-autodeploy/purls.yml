@@ -1,0 +1,5 @@
+- pkg:composer/laraveleg/laravel-autodeploy@v0.1
+- pkg:composer/laraveleg/laravel-autodeploy@v0.2
+- pkg:composer/laraveleg/laravel-autodeploy@v0.3
+- pkg:composer/laraveleg/laravel-autodeploy@v0.4
+- pkg:composer/laraveleg/laravel-autodeploy@v0.5

@@ -1,0 +1,7 @@
+- pkg:composer/laravel-json-api/non-eloquent@v1.0.0
+- pkg:composer/laravel-json-api/non-eloquent@v1.0.0-beta.1
+- pkg:composer/laravel-json-api/non-eloquent@v2.0.0
+- pkg:composer/laravel-json-api/non-eloquent@v3.0.0
+- pkg:composer/laravel-json-api/non-eloquent@v4.0.0
+- pkg:composer/laravel-json-api/non-eloquent@v4.1.0
+- pkg:composer/laravel-json-api/non-eloquent@v4.2.0

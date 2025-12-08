@@ -1,0 +1,4 @@
+- pkg:composer/lefuturiste/rabbitmq-consumer@v1.0
+- pkg:composer/lefuturiste/rabbitmq-consumer@v1.1
+- pkg:composer/lefuturiste/rabbitmq-consumer@v1.2
+- pkg:composer/lefuturiste/rabbitmq-consumer@v1.3

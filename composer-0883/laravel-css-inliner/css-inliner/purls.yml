@@ -1,0 +1,5 @@
+- pkg:composer/laravel-css-inliner/css-inliner@0.1.0
+- pkg:composer/laravel-css-inliner/css-inliner@0.1.1
+- pkg:composer/laravel-css-inliner/css-inliner@0.2.0
+- pkg:composer/laravel-css-inliner/css-inliner@1.0.0
+- pkg:composer/laravel-css-inliner/css-inliner@2.0.0

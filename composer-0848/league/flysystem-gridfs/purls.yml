@@ -1,0 +1,4 @@
+- pkg:composer/league/flysystem-gridfs@1.0.0
+- pkg:composer/league/flysystem-gridfs@3.28.0
+- pkg:composer/league/flysystem-gridfs@3.29.0
+- pkg:composer/league/flysystem-gridfs@3.30.0

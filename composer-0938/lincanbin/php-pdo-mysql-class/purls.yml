@@ -1,0 +1,4 @@
+- pkg:composer/lincanbin/php-pdo-mysql-class@v1.0
+- pkg:composer/lincanbin/php-pdo-mysql-class@v2.0
+- pkg:composer/lincanbin/php-pdo-mysql-class@v2.1
+- pkg:composer/lincanbin/php-pdo-mysql-class@v2.2
