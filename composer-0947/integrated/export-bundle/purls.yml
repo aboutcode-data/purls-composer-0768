@@ -1,0 +1,4 @@
+- pkg:composer/integrated/export-bundle@0.6
+- pkg:composer/integrated/export-bundle@0.7
+- pkg:composer/integrated/export-bundle@1.0
+- pkg:composer/integrated/export-bundle@1.0.1

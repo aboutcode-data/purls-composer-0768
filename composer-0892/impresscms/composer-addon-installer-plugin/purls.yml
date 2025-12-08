@@ -1,0 +1,9 @@
+- pkg:composer/impresscms/composer-addon-installer-plugin@1.0.0-alpha
+- pkg:composer/impresscms/composer-addon-installer-plugin@1.0.0-beta
+- pkg:composer/impresscms/composer-addon-installer-plugin@v1.0.0
+- pkg:composer/impresscms/composer-addon-installer-plugin@v1.0.1
+- pkg:composer/impresscms/composer-addon-installer-plugin@v1.0.2
+- pkg:composer/impresscms/composer-addon-installer-plugin@v1.0.3
+- pkg:composer/impresscms/composer-addon-installer-plugin@v1.0.4
+- pkg:composer/impresscms/composer-addon-installer-plugin@v1.0.5
+- pkg:composer/impresscms/composer-addon-installer-plugin@v1.0.6

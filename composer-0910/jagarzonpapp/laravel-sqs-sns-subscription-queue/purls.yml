@@ -1,0 +1,12 @@
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v1.0
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v2.0
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v2.1
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v2.2
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v2.3
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v2.3.1
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v2.3.2
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v2.3.3
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v2.3.4
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v2.4
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v2.4.1
+- pkg:composer/jagarzonpapp/laravel-sqs-sns-subscription-queue@v2.4.2

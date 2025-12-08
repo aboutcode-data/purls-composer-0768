@@ -1,0 +1,3 @@
+- pkg:composer/jield-webdev/laminas-recaptcha@0.9
+- pkg:composer/jield-webdev/laminas-recaptcha@1.0
+- pkg:composer/jield-webdev/laminas-recaptcha@v2.0

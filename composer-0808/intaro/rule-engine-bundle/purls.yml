@@ -1,0 +1,4 @@
+- pkg:composer/intaro/rule-engine-bundle@v0.1.0
+- pkg:composer/intaro/rule-engine-bundle@v0.1.1
+- pkg:composer/intaro/rule-engine-bundle@v0.2.0
+- pkg:composer/intaro/rule-engine-bundle@v1.0.0

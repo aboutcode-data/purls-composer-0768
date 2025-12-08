@@ -1,0 +1,16 @@
+- pkg:composer/itk-event-database/event-database-client@1.0.1
+- pkg:composer/itk-event-database/event-database-client@1.0.2
+- pkg:composer/itk-event-database/event-database-client@1.0.3
+- pkg:composer/itk-event-database/event-database-client@1.1.0
+- pkg:composer/itk-event-database/event-database-client@1.1.1
+- pkg:composer/itk-event-database/event-database-client@1.1.2
+- pkg:composer/itk-event-database/event-database-client@1.1.3
+- pkg:composer/itk-event-database/event-database-client@1.2.0
+- pkg:composer/itk-event-database/event-database-client@1.2.1
+- pkg:composer/itk-event-database/event-database-client@1.2.2
+- pkg:composer/itk-event-database/event-database-client@1.2.3
+- pkg:composer/itk-event-database/event-database-client@1.2.4
+- pkg:composer/itk-event-database/event-database-client@1.2.5
+- pkg:composer/itk-event-database/event-database-client@1.2.6
+- pkg:composer/itk-event-database/event-database-client@2.0.0
+- pkg:composer/itk-event-database/event-database-client@v1.1.4

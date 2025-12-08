@@ -1,0 +1,4 @@
+- pkg:composer/jaeger-app/validate-gcs@0.1
+- pkg:composer/jaeger-app/validate-gcs@0.1.1
+- pkg:composer/jaeger-app/validate-gcs@0.1.2
+- pkg:composer/jaeger-app/validate-gcs@0.1.3

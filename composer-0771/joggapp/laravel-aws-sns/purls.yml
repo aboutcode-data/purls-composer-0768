@@ -1,0 +1,12 @@
+- pkg:composer/joggapp/laravel-aws-sns@v1.0.0
+- pkg:composer/joggapp/laravel-aws-sns@v1.0.1
+- pkg:composer/joggapp/laravel-aws-sns@v2.0.0
+- pkg:composer/joggapp/laravel-aws-sns@v3.0.0
+- pkg:composer/joggapp/laravel-aws-sns@v3.0.1
+- pkg:composer/joggapp/laravel-aws-sns@v4.0.0
+- pkg:composer/joggapp/laravel-aws-sns@v4.0.1
+- pkg:composer/joggapp/laravel-aws-sns@v5.0.0
+- pkg:composer/joggapp/laravel-aws-sns@v5.1.0
+- pkg:composer/joggapp/laravel-aws-sns@v6.0.0
+- pkg:composer/joggapp/laravel-aws-sns@v7.0.0
+- pkg:composer/joggapp/laravel-aws-sns@v8.0.0

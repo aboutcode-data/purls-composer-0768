@@ -1,0 +1,4 @@
+- pkg:composer/imagick/imagick@3.8.0
+- pkg:composer/imagick/imagick@3.8.0RC1
+- pkg:composer/imagick/imagick@3.8.0RC2
+- pkg:composer/imagick/imagick@3.8.1

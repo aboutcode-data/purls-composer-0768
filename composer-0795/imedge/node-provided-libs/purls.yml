@@ -1,0 +1,4 @@
+- pkg:composer/imedge/node-provided-libs@v0.10.0
+- pkg:composer/imedge/node-provided-libs@v0.11.0
+- pkg:composer/imedge/node-provided-libs@v0.12.0
+- pkg:composer/imedge/node-provided-libs@v0.9.0

@@ -1,0 +1,5 @@
+- pkg:composer/janus-ssp/php-x509-validate@1.0.1
+- pkg:composer/janus-ssp/php-x509-validate@1.0.2
+- pkg:composer/janus-ssp/php-x509-validate@1.0.3
+- pkg:composer/janus-ssp/php-x509-validate@1.0.4
+- pkg:composer/janus-ssp/php-x509-validate@1.0.5

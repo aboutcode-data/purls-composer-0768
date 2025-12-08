@@ -1,0 +1,5 @@
+- pkg:composer/ilzrv/laravel-slow-query-detector@v1.0.0
+- pkg:composer/ilzrv/laravel-slow-query-detector@v1.0.0-beta.1
+- pkg:composer/ilzrv/laravel-slow-query-detector@v1.0.0-beta.2
+- pkg:composer/ilzrv/laravel-slow-query-detector@v2.0.0
+- pkg:composer/ilzrv/laravel-slow-query-detector@v2.1.0

@@ -1,0 +1,10 @@
+- pkg:composer/innmind/rabbitmq-management@1.0.0
+- pkg:composer/innmind/rabbitmq-management@1.1.0
+- pkg:composer/innmind/rabbitmq-management@1.2.0
+- pkg:composer/innmind/rabbitmq-management@2.0.0
+- pkg:composer/innmind/rabbitmq-management@2.1.0
+- pkg:composer/innmind/rabbitmq-management@2.2.0
+- pkg:composer/innmind/rabbitmq-management@3.0.0
+- pkg:composer/innmind/rabbitmq-management@3.1.0
+- pkg:composer/innmind/rabbitmq-management@3.2.0
+- pkg:composer/innmind/rabbitmq-management@4.0.0

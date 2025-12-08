@@ -1,0 +1,11 @@
+- pkg:composer/iqrfsdk/iqrf-daemon-webapp@0.5.0
+- pkg:composer/iqrfsdk/iqrf-daemon-webapp@0.8.0
+- pkg:composer/iqrfsdk/iqrf-daemon-webapp@0.8.1
+- pkg:composer/iqrfsdk/iqrf-daemon-webapp@1.0.0
+- pkg:composer/iqrfsdk/iqrf-daemon-webapp@1.1.0
+- pkg:composer/iqrfsdk/iqrf-daemon-webapp@1.1.1
+- pkg:composer/iqrfsdk/iqrf-daemon-webapp@1.1.2
+- pkg:composer/iqrfsdk/iqrf-daemon-webapp@1.1.3
+- pkg:composer/iqrfsdk/iqrf-daemon-webapp@1.1.4
+- pkg:composer/iqrfsdk/iqrf-daemon-webapp@1.1.5
+- pkg:composer/iqrfsdk/iqrf-daemon-webapp@1.1.6

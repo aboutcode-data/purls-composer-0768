@@ -1,0 +1,8 @@
+- pkg:composer/irubi/autoload@v1.0.0
+- pkg:composer/irubi/autoload@v1.1.0
+- pkg:composer/irubi/autoload@v1.1.0-RC
+- pkg:composer/irubi/autoload@v1.1.0-alpha
+- pkg:composer/irubi/autoload@v1.1.0-beta
+- pkg:composer/irubi/autoload@v1.1.0-patch
+- pkg:composer/irubi/autoload@v1.1.1
+- pkg:composer/irubi/autoload@v1.1.2-alpha

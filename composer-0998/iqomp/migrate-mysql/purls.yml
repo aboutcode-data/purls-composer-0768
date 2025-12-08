@@ -1,0 +1,7 @@
+- pkg:composer/iqomp/migrate-mysql@1.0.0
+- pkg:composer/iqomp/migrate-mysql@1.0.1
+- pkg:composer/iqomp/migrate-mysql@1.0.2
+- pkg:composer/iqomp/migrate-mysql@1.0.3
+- pkg:composer/iqomp/migrate-mysql@2.0.1
+- pkg:composer/iqomp/migrate-mysql@2.0.2
+- pkg:composer/iqomp/migrate-mysql@2.1.0

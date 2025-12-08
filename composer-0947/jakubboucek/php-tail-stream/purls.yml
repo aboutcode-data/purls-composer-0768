@@ -1,0 +1,3 @@
+- pkg:composer/jakubboucek/php-tail-stream@v0.9.0
+- pkg:composer/jakubboucek/php-tail-stream@v1.0.0
+- pkg:composer/jakubboucek/php-tail-stream@v1.0.1

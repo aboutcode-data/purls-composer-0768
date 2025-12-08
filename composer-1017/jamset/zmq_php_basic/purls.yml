@@ -1,0 +1,3 @@
+- pkg:composer/jamset/zmq_php_basic@v0.0.1
+- pkg:composer/jamset/zmq_php_basic@v0.0.2
+- pkg:composer/jamset/zmq_php_basic@v0.0.3

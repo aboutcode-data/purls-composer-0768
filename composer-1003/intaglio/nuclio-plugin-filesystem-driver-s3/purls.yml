@@ -1,0 +1,4 @@
+- pkg:composer/intaglio/nuclio-plugin-filesystem-driver-s3@1.0.0
+- pkg:composer/intaglio/nuclio-plugin-filesystem-driver-s3@1.0.1
+- pkg:composer/intaglio/nuclio-plugin-filesystem-driver-s3@1.0.2
+- pkg:composer/intaglio/nuclio-plugin-filesystem-driver-s3@1.1.0

@@ -1,0 +1,14 @@
+- pkg:composer/irstea/phpstan-config@1.0.0
+- pkg:composer/irstea/phpstan-config@1.0.1
+- pkg:composer/irstea/phpstan-config@1.0.2
+- pkg:composer/irstea/phpstan-config@1.0.3
+- pkg:composer/irstea/phpstan-config@1.1.0
+- pkg:composer/irstea/phpstan-config@1.1.1
+- pkg:composer/irstea/phpstan-config@1.2.0
+- pkg:composer/irstea/phpstan-config@1.2.1
+- pkg:composer/irstea/phpstan-config@2.0.0
+- pkg:composer/irstea/phpstan-config@2.0.1
+- pkg:composer/irstea/phpstan-config@3.0.0
+- pkg:composer/irstea/phpstan-config@3.0.1
+- pkg:composer/irstea/phpstan-config@3.0.2
+- pkg:composer/irstea/phpstan-config@3.0.3
