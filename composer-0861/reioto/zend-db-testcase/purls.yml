@@ -1,0 +1,4 @@
+- pkg:composer/reioto/zend-db-testcase@0.1
+- pkg:composer/reioto/zend-db-testcase@1.0
+- pkg:composer/reioto/zend-db-testcase@1.1.0
+- pkg:composer/reioto/zend-db-testcase@1.1.1

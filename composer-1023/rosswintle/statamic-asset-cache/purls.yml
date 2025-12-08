@@ -1,0 +1,4 @@
+- pkg:composer/rosswintle/statamic-asset-cache@v1.0
+- pkg:composer/rosswintle/statamic-asset-cache@v2.0
+- pkg:composer/rosswintle/statamic-asset-cache@v3.0
+- pkg:composer/rosswintle/statamic-asset-cache@v4.0

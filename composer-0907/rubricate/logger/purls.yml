@@ -1,0 +1,4 @@
+- pkg:composer/rubricate/logger@v0.3.0
+- pkg:composer/rubricate/logger@v0.4.0
+- pkg:composer/rubricate/logger@v1.0.0
+- pkg:composer/rubricate/logger@v2.2.0

@@ -1,0 +1,17 @@
+- pkg:composer/redhotmagma/symfony-test-utils@0.1.0
+- pkg:composer/redhotmagma/symfony-test-utils@0.1.1
+- pkg:composer/redhotmagma/symfony-test-utils@0.1.2
+- pkg:composer/redhotmagma/symfony-test-utils@0.2.0
+- pkg:composer/redhotmagma/symfony-test-utils@0.2.1
+- pkg:composer/redhotmagma/symfony-test-utils@0.2.2
+- pkg:composer/redhotmagma/symfony-test-utils@0.2.3
+- pkg:composer/redhotmagma/symfony-test-utils@0.2.4
+- pkg:composer/redhotmagma/symfony-test-utils@0.2.5
+- pkg:composer/redhotmagma/symfony-test-utils@0.2.6
+- pkg:composer/redhotmagma/symfony-test-utils@0.3.0
+- pkg:composer/redhotmagma/symfony-test-utils@0.3.1
+- pkg:composer/redhotmagma/symfony-test-utils@0.3.2
+- pkg:composer/redhotmagma/symfony-test-utils@0.3.3
+- pkg:composer/redhotmagma/symfony-test-utils@0.3.4
+- pkg:composer/redhotmagma/symfony-test-utils@0.4.0
+- pkg:composer/redhotmagma/symfony-test-utils@v5

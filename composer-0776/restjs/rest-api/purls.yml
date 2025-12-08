@@ -1,0 +1,4 @@
+- pkg:composer/restjs/rest-api@3.0.0
+- pkg:composer/restjs/rest-api@3.0.2
+- pkg:composer/restjs/rest-api@v1.0.0
+- pkg:composer/restjs/rest-api@v2.0.0

@@ -1,0 +1,5 @@
+- pkg:composer/rezon73/clickhouse-php-client@0.0.3
+- pkg:composer/rezon73/clickhouse-php-client@0.0.4
+- pkg:composer/rezon73/clickhouse-php-client@0.0.6
+- pkg:composer/rezon73/clickhouse-php-client@0.0.9
+- pkg:composer/rezon73/clickhouse-php-client@0.1.0

@@ -1,0 +1,5 @@
+- pkg:composer/riskit/testpackage@0.0.0
+- pkg:composer/riskit/testpackage@1.0.0
+- pkg:composer/riskit/testpackage@1.1.0
+- pkg:composer/riskit/testpackage@1.2.0
+- pkg:composer/riskit/testpackage@1.3.0

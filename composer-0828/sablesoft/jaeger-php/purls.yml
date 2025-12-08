@@ -1,0 +1,17 @@
+- pkg:composer/sablesoft/jaeger-php@1.0.0
+- pkg:composer/sablesoft/jaeger-php@1.0.1
+- pkg:composer/sablesoft/jaeger-php@1.0.2
+- pkg:composer/sablesoft/jaeger-php@v1.0.3
+- pkg:composer/sablesoft/jaeger-php@v2.0.0-beta
+- pkg:composer/sablesoft/jaeger-php@v2.0.1-beta
+- pkg:composer/sablesoft/jaeger-php@v2.0.2-beta
+- pkg:composer/sablesoft/jaeger-php@v2.0.3-beta
+- pkg:composer/sablesoft/jaeger-php@v2.0.4-beta
+- pkg:composer/sablesoft/jaeger-php@v2.0.5-beta
+- pkg:composer/sablesoft/jaeger-php@v2.0.6-beta
+- pkg:composer/sablesoft/jaeger-php@v2.0.7-beta
+- pkg:composer/sablesoft/jaeger-php@v2.0.8-beta
+- pkg:composer/sablesoft/jaeger-php@v2.0.9-beta
+- pkg:composer/sablesoft/jaeger-php@v2.1.0
+- pkg:composer/sablesoft/jaeger-php@v2.2.0
+- pkg:composer/sablesoft/jaeger-php@v2.3.0

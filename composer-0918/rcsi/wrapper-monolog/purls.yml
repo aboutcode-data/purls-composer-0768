@@ -1,0 +1,4 @@
+- pkg:composer/rcsi/wrapper-monolog@0.1
+- pkg:composer/rcsi/wrapper-monolog@0.2
+- pkg:composer/rcsi/wrapper-monolog@0.2.1
+- pkg:composer/rcsi/wrapper-monolog@1.0

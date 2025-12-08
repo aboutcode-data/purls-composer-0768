@@ -1,0 +1,5 @@
+- pkg:composer/ricardoboss/doctrine-dbal-timestamp-type@v1.0.0
+- pkg:composer/ricardoboss/doctrine-dbal-timestamp-type@v1.0.1
+- pkg:composer/ricardoboss/doctrine-dbal-timestamp-type@v1.0.2
+- pkg:composer/ricardoboss/doctrine-dbal-timestamp-type@v2.0.0
+- pkg:composer/ricardoboss/doctrine-dbal-timestamp-type@v2.0.1

@@ -1,0 +1,14 @@
+- pkg:composer/rickselby/laravel-gate-cache@3.0
+- pkg:composer/rickselby/laravel-gate-cache@3.0.1
+- pkg:composer/rickselby/laravel-gate-cache@3.1
+- pkg:composer/rickselby/laravel-gate-cache@3.2
+- pkg:composer/rickselby/laravel-gate-cache@3.3
+- pkg:composer/rickselby/laravel-gate-cache@3.4
+- pkg:composer/rickselby/laravel-gate-cache@3.5.0
+- pkg:composer/rickselby/laravel-gate-cache@3.6.0
+- pkg:composer/rickselby/laravel-gate-cache@3.8.0
+- pkg:composer/rickselby/laravel-gate-cache@3.9.0
+- pkg:composer/rickselby/laravel-gate-cache@v1.0
+- pkg:composer/rickselby/laravel-gate-cache@v1.1
+- pkg:composer/rickselby/laravel-gate-cache@v2.0
+- pkg:composer/rickselby/laravel-gate-cache@v3.7.0

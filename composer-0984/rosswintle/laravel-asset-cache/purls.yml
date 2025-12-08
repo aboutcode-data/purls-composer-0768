@@ -1,0 +1,4 @@
+- pkg:composer/rosswintle/laravel-asset-cache@v1.0
+- pkg:composer/rosswintle/laravel-asset-cache@v2.0
+- pkg:composer/rosswintle/laravel-asset-cache@v3.0
+- pkg:composer/rosswintle/laravel-asset-cache@v4.0

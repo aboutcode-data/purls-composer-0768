@@ -1,0 +1,4 @@
+- pkg:composer/runroom-packages/doctrine-translatable-bundle@0.19.0
+- pkg:composer/runroom-packages/doctrine-translatable-bundle@0.19.1
+- pkg:composer/runroom-packages/doctrine-translatable-bundle@0.20.0
+- pkg:composer/runroom-packages/doctrine-translatable-bundle@0.21.0

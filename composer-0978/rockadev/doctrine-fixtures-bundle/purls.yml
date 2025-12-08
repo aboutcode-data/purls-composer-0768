@@ -1,0 +1,14 @@
+- pkg:composer/rockadev/doctrine-fixtures-bundle@2.3.0
+- pkg:composer/rockadev/doctrine-fixtures-bundle@3.0.0
+- pkg:composer/rockadev/doctrine-fixtures-bundle@3.0.1
+- pkg:composer/rockadev/doctrine-fixtures-bundle@3.0.2
+- pkg:composer/rockadev/doctrine-fixtures-bundle@v1.0.0-beta1
+- pkg:composer/rockadev/doctrine-fixtures-bundle@v2.0.0
+- pkg:composer/rockadev/doctrine-fixtures-bundle@v2.0.1
+- pkg:composer/rockadev/doctrine-fixtures-bundle@v2.1.0-ALPHA
+- pkg:composer/rockadev/doctrine-fixtures-bundle@v2.2.0
+- pkg:composer/rockadev/doctrine-fixtures-bundle@v2.2.1
+- pkg:composer/rockadev/doctrine-fixtures-bundle@v2.4.0
+- pkg:composer/rockadev/doctrine-fixtures-bundle@v2.4.1
+- pkg:composer/rockadev/doctrine-fixtures-bundle@v3.0.3
+- pkg:composer/rockadev/doctrine-fixtures-bundle@v3.0.4

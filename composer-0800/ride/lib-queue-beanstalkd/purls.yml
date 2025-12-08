@@ -1,0 +1,2 @@
+- pkg:composer/ride/lib-queue-beanstalkd@0.1.0
+- pkg:composer/ride/lib-queue-beanstalkd@1.0.0

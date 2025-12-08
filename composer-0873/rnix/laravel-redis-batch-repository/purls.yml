@@ -1,0 +1,5 @@
+- pkg:composer/rnix/laravel-redis-batch-repository@v1.0.0
+- pkg:composer/rnix/laravel-redis-batch-repository@v1.0.1
+- pkg:composer/rnix/laravel-redis-batch-repository@v1.0.2
+- pkg:composer/rnix/laravel-redis-batch-repository@v1.1.0
+- pkg:composer/rnix/laravel-redis-batch-repository@v1.2.0

@@ -1,0 +1,16 @@
+- pkg:composer/run-as-root/magento2-prometheus-exporter@1.0.1
+- pkg:composer/run-as-root/magento2-prometheus-exporter@1.0.2
+- pkg:composer/run-as-root/magento2-prometheus-exporter@1.1.0
+- pkg:composer/run-as-root/magento2-prometheus-exporter@1.2.0
+- pkg:composer/run-as-root/magento2-prometheus-exporter@2.0.1
+- pkg:composer/run-as-root/magento2-prometheus-exporter@2.0.2
+- pkg:composer/run-as-root/magento2-prometheus-exporter@3.0.1
+- pkg:composer/run-as-root/magento2-prometheus-exporter@3.1.1
+- pkg:composer/run-as-root/magento2-prometheus-exporter@3.1.2
+- pkg:composer/run-as-root/magento2-prometheus-exporter@3.1.4
+- pkg:composer/run-as-root/magento2-prometheus-exporter@3.1.5
+- pkg:composer/run-as-root/magento2-prometheus-exporter@3.1.6
+- pkg:composer/run-as-root/magento2-prometheus-exporter@3.2.1
+- pkg:composer/run-as-root/magento2-prometheus-exporter@3.2.2
+- pkg:composer/run-as-root/magento2-prometheus-exporter@3.2.3
+- pkg:composer/run-as-root/magento2-prometheus-exporter@3.2.4

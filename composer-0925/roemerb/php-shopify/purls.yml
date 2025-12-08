@@ -1,0 +1,7 @@
+- pkg:composer/roemerb/php-shopify@1.0.0-alpha
+- pkg:composer/roemerb/php-shopify@1.0.0-beta
+- pkg:composer/roemerb/php-shopify@v1.0.0
+- pkg:composer/roemerb/php-shopify@v1.0.0-rc
+- pkg:composer/roemerb/php-shopify@v1.0.1
+- pkg:composer/roemerb/php-shopify@v1.0.2
+- pkg:composer/roemerb/php-shopify@v1.0.3

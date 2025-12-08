@@ -1,0 +1,2 @@
+- pkg:composer/ryanwkell/php-resque-redisfix@1.2
+- pkg:composer/ryanwkell/php-resque-redisfix@2.0

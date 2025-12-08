@@ -1,0 +1,2 @@
+- pkg:composer/rediscluster/rediscluster@0.5.1
+- pkg:composer/rediscluster/rediscluster@0.5.2

@@ -1,0 +1,4 @@
+- pkg:composer/rch/capistrano-bundle@v1.2.0
+- pkg:composer/rch/capistrano-bundle@v2.0.0
+- pkg:composer/rch/capistrano-bundle@v2.0.1
+- pkg:composer/rch/capistrano-bundle@v2.1.0

@@ -1,0 +1,4 @@
+- pkg:composer/rootinc/laravel-db-url@v0.1.0
+- pkg:composer/rootinc/laravel-db-url@v1.0.0
+- pkg:composer/rootinc/laravel-db-url@v2.0.0
+- pkg:composer/rootinc/laravel-db-url@v2.0.1

@@ -1,0 +1,8 @@
+- pkg:composer/rapide/yubikey@0.1.0
+- pkg:composer/rapide/yubikey@1.0.0
+- pkg:composer/rapide/yubikey@1.1.1
+- pkg:composer/rapide/yubikey@1.1.3
+- pkg:composer/rapide/yubikey@2.0.0
+- pkg:composer/rapide/yubikey@4.0.0
+- pkg:composer/rapide/yubikey@v2.0.1
+- pkg:composer/rapide/yubikey@v3.0.0

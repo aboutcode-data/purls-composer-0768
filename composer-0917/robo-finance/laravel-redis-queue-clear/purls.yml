@@ -1,0 +1,4 @@
+- pkg:composer/robo-finance/laravel-redis-queue-clear@1.1.0
+- pkg:composer/robo-finance/laravel-redis-queue-clear@1.2.0
+- pkg:composer/robo-finance/laravel-redis-queue-clear@v1.0.0
+- pkg:composer/robo-finance/laravel-redis-queue-clear@v1.0.1

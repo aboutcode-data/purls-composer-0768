@@ -1,0 +1,5 @@
+- pkg:composer/rubix/cifar-10@v1
+- pkg:composer/rubix/cifar-10@v2
+- pkg:composer/rubix/cifar-10@v3
+- pkg:composer/rubix/cifar-10@v4
+- pkg:composer/rubix/cifar-10@v5

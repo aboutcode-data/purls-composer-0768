@@ -1,0 +1,5 @@
+- pkg:composer/roots/wordpress-core-installer@1.0.0
+- pkg:composer/roots/wordpress-core-installer@1.1.0
+- pkg:composer/roots/wordpress-core-installer@1.100.0
+- pkg:composer/roots/wordpress-core-installer@2.0.0
+- pkg:composer/roots/wordpress-core-installer@3.0.0

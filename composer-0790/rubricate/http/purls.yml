@@ -1,0 +1,10 @@
+- pkg:composer/rubricate/http@v0.1.0
+- pkg:composer/rubricate/http@v0.3.0
+- pkg:composer/rubricate/http@v0.3.1
+- pkg:composer/rubricate/http@v0.3.2
+- pkg:composer/rubricate/http@v0.3.3
+- pkg:composer/rubricate/http@v0.6.0
+- pkg:composer/rubricate/http@v0.8.0
+- pkg:composer/rubricate/http@v1.0.0
+- pkg:composer/rubricate/http@v2.2.0
+- pkg:composer/rubricate/http@v3.0.0
