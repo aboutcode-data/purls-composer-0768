@@ -1,0 +1,15 @@
+- pkg:composer/simplesoftwareio/simple-sms@1.0.0
+- pkg:composer/simplesoftwareio/simple-sms@1.0.0-alpha
+- pkg:composer/simplesoftwareio/simple-sms@1.0.0-alpha2
+- pkg:composer/simplesoftwareio/simple-sms@1.0.0-beta
+- pkg:composer/simplesoftwareio/simple-sms@1.1.0
+- pkg:composer/simplesoftwareio/simple-sms@2.0.0
+- pkg:composer/simplesoftwareio/simple-sms@2.0.0-Beta1
+- pkg:composer/simplesoftwareio/simple-sms@2.1.0
+- pkg:composer/simplesoftwareio/simple-sms@2.1.1
+- pkg:composer/simplesoftwareio/simple-sms@2.1.2
+- pkg:composer/simplesoftwareio/simple-sms@3.0.0
+- pkg:composer/simplesoftwareio/simple-sms@3.0.0-beta1
+- pkg:composer/simplesoftwareio/simple-sms@3.0.1
+- pkg:composer/simplesoftwareio/simple-sms@3.1.0
+- pkg:composer/simplesoftwareio/simple-sms@3.1.1

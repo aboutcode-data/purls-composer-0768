@@ -1,0 +1,4 @@
+- pkg:composer/socialiteproviders/mollie@4.0.0
+- pkg:composer/socialiteproviders/mollie@4.1.0
+- pkg:composer/socialiteproviders/mollie@v1.0.0
+- pkg:composer/socialiteproviders/mollie@v2.0

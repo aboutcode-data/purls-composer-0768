@@ -1,0 +1,7 @@
+- pkg:composer/smartassert/symfony-test-client@0.1
+- pkg:composer/smartassert/symfony-test-client@1.0
+- pkg:composer/smartassert/symfony-test-client@1.1
+- pkg:composer/smartassert/symfony-test-client@2.0
+- pkg:composer/smartassert/symfony-test-client@2.1
+- pkg:composer/smartassert/symfony-test-client@3.0
+- pkg:composer/smartassert/symfony-test-client@3.1

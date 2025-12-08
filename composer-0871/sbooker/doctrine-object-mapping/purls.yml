@@ -1,0 +1,4 @@
+- pkg:composer/sbooker/doctrine-object-mapping@0.5.0
+- pkg:composer/sbooker/doctrine-object-mapping@1.0.0
+- pkg:composer/sbooker/doctrine-object-mapping@1.1.0
+- pkg:composer/sbooker/doctrine-object-mapping@1.2.0

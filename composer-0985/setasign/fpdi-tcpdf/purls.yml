@@ -1,0 +1,11 @@
+- pkg:composer/setasign/fpdi-tcpdf@1.5.4
+- pkg:composer/setasign/fpdi-tcpdf@1.6.0
+- pkg:composer/setasign/fpdi-tcpdf@1.6.1
+- pkg:composer/setasign/fpdi-tcpdf@1.6.2
+- pkg:composer/setasign/fpdi-tcpdf@v2.0.0
+- pkg:composer/setasign/fpdi-tcpdf@v2.0.0-beta
+- pkg:composer/setasign/fpdi-tcpdf@v2.0.0-beta2
+- pkg:composer/setasign/fpdi-tcpdf@v2.0.0-rc1
+- pkg:composer/setasign/fpdi-tcpdf@v2.1.0
+- pkg:composer/setasign/fpdi-tcpdf@v2.2.0
+- pkg:composer/setasign/fpdi-tcpdf@v2.3.0

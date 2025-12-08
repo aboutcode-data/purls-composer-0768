@@ -1,0 +1,5 @@
+- pkg:composer/soapbox/webhooks@1.2
+- pkg:composer/soapbox/webhooks@2.0
+- pkg:composer/soapbox/webhooks@3.0
+- pkg:composer/soapbox/webhooks@v1.0
+- pkg:composer/soapbox/webhooks@v1.1

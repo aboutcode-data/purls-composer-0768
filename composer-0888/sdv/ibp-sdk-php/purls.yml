@@ -1,0 +1,15 @@
+- pkg:composer/sdv/ibp-sdk-php@1.7
+- pkg:composer/sdv/ibp-sdk-php@1.8
+- pkg:composer/sdv/ibp-sdk-php@1.8.1
+- pkg:composer/sdv/ibp-sdk-php@1.8.2
+- pkg:composer/sdv/ibp-sdk-php@1.8.3
+- pkg:composer/sdv/ibp-sdk-php@1.8.4
+- pkg:composer/sdv/ibp-sdk-php@v1.0
+- pkg:composer/sdv/ibp-sdk-php@v1.1
+- pkg:composer/sdv/ibp-sdk-php@v1.2
+- pkg:composer/sdv/ibp-sdk-php@v1.2.1
+- pkg:composer/sdv/ibp-sdk-php@v1.3
+- pkg:composer/sdv/ibp-sdk-php@v1.4
+- pkg:composer/sdv/ibp-sdk-php@v1.4.1
+- pkg:composer/sdv/ibp-sdk-php@v1.5
+- pkg:composer/sdv/ibp-sdk-php@v1.6

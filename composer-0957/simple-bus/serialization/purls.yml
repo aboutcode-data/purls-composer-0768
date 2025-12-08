@@ -1,0 +1,14 @@
+- pkg:composer/simple-bus/serialization@v1.0.0
+- pkg:composer/simple-bus/serialization@v2.0.0
+- pkg:composer/simple-bus/serialization@v2.0.1
+- pkg:composer/simple-bus/serialization@v3.0.0
+- pkg:composer/simple-bus/serialization@v3.0.1
+- pkg:composer/simple-bus/serialization@v3.1.0
+- pkg:composer/simple-bus/serialization@v6.0.0
+- pkg:composer/simple-bus/serialization@v6.0.0-RC1
+- pkg:composer/simple-bus/serialization@v6.1.0
+- pkg:composer/simple-bus/serialization@v6.2.0
+- pkg:composer/simple-bus/serialization@v6.2.1
+- pkg:composer/simple-bus/serialization@v6.2.2
+- pkg:composer/simple-bus/serialization@v6.3.0
+- pkg:composer/simple-bus/serialization@v6.3.1

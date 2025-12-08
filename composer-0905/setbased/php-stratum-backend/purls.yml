@@ -1,0 +1,13 @@
+- pkg:composer/setbased/php-stratum-backend@4.0.0
+- pkg:composer/setbased/php-stratum-backend@5.0.0
+- pkg:composer/setbased/php-stratum-backend@5.1.0
+- pkg:composer/setbased/php-stratum-backend@5.2.0
+- pkg:composer/setbased/php-stratum-backend@5.2.1
+- pkg:composer/setbased/php-stratum-backend@5.3.0
+- pkg:composer/setbased/php-stratum-backend@5.4.0
+- pkg:composer/setbased/php-stratum-backend@5.5.0
+- pkg:composer/setbased/php-stratum-backend@6.0.0
+- pkg:composer/setbased/php-stratum-backend@6.1.0
+- pkg:composer/setbased/php-stratum-backend@6.2.0
+- pkg:composer/setbased/php-stratum-backend@6.3.0
+- pkg:composer/setbased/php-stratum-backend@6.3.1

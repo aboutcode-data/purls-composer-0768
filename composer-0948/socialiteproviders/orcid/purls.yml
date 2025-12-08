@@ -1,0 +1,6 @@
+- pkg:composer/socialiteproviders/orcid@4.0.0
+- pkg:composer/socialiteproviders/orcid@4.1.0
+- pkg:composer/socialiteproviders/orcid@5.0.0
+- pkg:composer/socialiteproviders/orcid@5.0.1
+- pkg:composer/socialiteproviders/orcid@5.1.0
+- pkg:composer/socialiteproviders/orcid@v3.0.0

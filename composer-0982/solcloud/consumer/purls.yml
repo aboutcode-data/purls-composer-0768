@@ -1,0 +1,5 @@
+- pkg:composer/solcloud/consumer@v2.0.2
+- pkg:composer/solcloud/consumer@v2.0.3
+- pkg:composer/solcloud/consumer@v3.0
+- pkg:composer/solcloud/consumer@v3.0.1
+- pkg:composer/solcloud/consumer@v3.1

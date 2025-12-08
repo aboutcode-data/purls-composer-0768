@@ -1,0 +1,6 @@
+- pkg:composer/shipmonk/doctrine-mysql-index-hints@1.0.0
+- pkg:composer/shipmonk/doctrine-mysql-index-hints@2.0.0
+- pkg:composer/shipmonk/doctrine-mysql-index-hints@2.1.0
+- pkg:composer/shipmonk/doctrine-mysql-index-hints@3.0.0
+- pkg:composer/shipmonk/doctrine-mysql-index-hints@3.1.0
+- pkg:composer/shipmonk/doctrine-mysql-index-hints@3.1.1

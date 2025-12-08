@@ -1,0 +1,13 @@
+- pkg:composer/seeren/http@2.1
+- pkg:composer/seeren/http@3.0.1
+- pkg:composer/seeren/http@3.1
+- pkg:composer/seeren/http@4.0.0
+- pkg:composer/seeren/http@v1.0.1
+- pkg:composer/seeren/http@v1.0.2
+- pkg:composer/seeren/http@v1.0.3
+- pkg:composer/seeren/http@v1.1.1
+- pkg:composer/seeren/http@v1.1.2
+- pkg:composer/seeren/http@v1.2.0
+- pkg:composer/seeren/http@v2.0.1
+- pkg:composer/seeren/http@v2.0.2
+- pkg:composer/seeren/http@v2.0.3

@@ -1,0 +1,7 @@
+- pkg:composer/sebastiansulinski/laravel-validation@v1.0.0
+- pkg:composer/sebastiansulinski/laravel-validation@v2.0.0
+- pkg:composer/sebastiansulinski/laravel-validation@v3.0.0
+- pkg:composer/sebastiansulinski/laravel-validation@v4.0.0
+- pkg:composer/sebastiansulinski/laravel-validation@v4.0.1
+- pkg:composer/sebastiansulinski/laravel-validation@v5.0.0
+- pkg:composer/sebastiansulinski/laravel-validation@v6.0.0

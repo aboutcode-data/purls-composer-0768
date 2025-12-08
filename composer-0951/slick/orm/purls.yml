@@ -1,0 +1,5 @@
+- pkg:composer/slick/orm@v2.0.0
+- pkg:composer/slick/orm@v2.0.2
+- pkg:composer/slick/orm@v2.1.0
+- pkg:composer/slick/orm@v2.2.0
+- pkg:composer/slick/orm@v2.3.0

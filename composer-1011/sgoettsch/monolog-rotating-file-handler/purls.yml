@@ -1,0 +1,6 @@
+- pkg:composer/sgoettsch/monolog-rotating-file-handler@1.0.0
+- pkg:composer/sgoettsch/monolog-rotating-file-handler@1.0.1
+- pkg:composer/sgoettsch/monolog-rotating-file-handler@1.0.2
+- pkg:composer/sgoettsch/monolog-rotating-file-handler@2.0.0
+- pkg:composer/sgoettsch/monolog-rotating-file-handler@2.0.1
+- pkg:composer/sgoettsch/monolog-rotating-file-handler@3.0.0

@@ -1,0 +1,6 @@
+- pkg:composer/shapecode/doctrine-dbal-datetimeutc@1.0.0
+- pkg:composer/shapecode/doctrine-dbal-datetimeutc@2.0.0
+- pkg:composer/shapecode/doctrine-dbal-datetimeutc@3.0.0
+- pkg:composer/shapecode/doctrine-dbal-datetimeutc@3.1.0
+- pkg:composer/shapecode/doctrine-dbal-datetimeutc@4.0.0
+- pkg:composer/shapecode/doctrine-dbal-datetimeutc@5.0.0

@@ -1,0 +1,16 @@
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@1.0.0
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@1.0.1
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@1.0.2
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@1.1.0
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@1.1.1
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@1.1.2
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@1.1.3
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@1.2.0
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@2.0.0
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@2.0.1
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@2.0.2
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@2.1.0
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@3.0.0
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@3.0.1
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@3.0.2
+- pkg:composer/shiftonelabs/laravel-sqs-fifo-queue@3.0.3

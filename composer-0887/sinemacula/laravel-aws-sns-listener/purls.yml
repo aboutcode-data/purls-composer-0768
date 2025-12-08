@@ -1,0 +1,4 @@
+- pkg:composer/sinemacula/laravel-aws-sns-listener@v1.0.0
+- pkg:composer/sinemacula/laravel-aws-sns-listener@v1.0.1
+- pkg:composer/sinemacula/laravel-aws-sns-listener@v1.0.2
+- pkg:composer/sinemacula/laravel-aws-sns-listener@v1.0.3

@@ -1,0 +1,4 @@
+- pkg:composer/silverstripe/graphql-devtools@1.0.0
+- pkg:composer/silverstripe/graphql-devtools@1.0.0-beta1
+- pkg:composer/silverstripe/graphql-devtools@1.0.1
+- pkg:composer/silverstripe/graphql-devtools@2.0.0

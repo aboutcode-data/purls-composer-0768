@@ -1,0 +1,8 @@
+- pkg:composer/serendipity_hq/phpcs-config@1.0.0
+- pkg:composer/serendipity_hq/phpcs-config@1.1.0
+- pkg:composer/serendipity_hq/phpcs-config@1.2.0
+- pkg:composer/serendipity_hq/phpcs-config@1.2.1
+- pkg:composer/serendipity_hq/phpcs-config@1.2.2
+- pkg:composer/serendipity_hq/phpcs-config@1.2.3
+- pkg:composer/serendipity_hq/phpcs-config@1.2.4
+- pkg:composer/serendipity_hq/phpcs-config@1.2.5

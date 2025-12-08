@@ -1,0 +1,15 @@
+- pkg:composer/socialiteproviders/microsoft-azure@4.0.0
+- pkg:composer/socialiteproviders/microsoft-azure@4.1.0
+- pkg:composer/socialiteproviders/microsoft-azure@4.2.0
+- pkg:composer/socialiteproviders/microsoft-azure@4.2.1
+- pkg:composer/socialiteproviders/microsoft-azure@5.0.0
+- pkg:composer/socialiteproviders/microsoft-azure@5.0.1
+- pkg:composer/socialiteproviders/microsoft-azure@5.1.0
+- pkg:composer/socialiteproviders/microsoft-azure@5.2.0
+- pkg:composer/socialiteproviders/microsoft-azure@v1.0.0
+- pkg:composer/socialiteproviders/microsoft-azure@v2.0.0
+- pkg:composer/socialiteproviders/microsoft-azure@v2.0.1
+- pkg:composer/socialiteproviders/microsoft-azure@v2.0.2
+- pkg:composer/socialiteproviders/microsoft-azure@v2.0.3
+- pkg:composer/socialiteproviders/microsoft-azure@v3.0.0
+- pkg:composer/socialiteproviders/microsoft-azure@v3.1.0

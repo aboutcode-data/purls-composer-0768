@@ -1,0 +1,9 @@
+- pkg:composer/shopsys/s3-bridge@v12.0.0
+- pkg:composer/shopsys/s3-bridge@v13.0.0
+- pkg:composer/shopsys/s3-bridge@v14.0.0
+- pkg:composer/shopsys/s3-bridge@v14.0.1
+- pkg:composer/shopsys/s3-bridge@v14.5.0
+- pkg:composer/shopsys/s3-bridge@v15.0.0
+- pkg:composer/shopsys/s3-bridge@v16.0.0
+- pkg:composer/shopsys/s3-bridge@v17.0.0
+- pkg:composer/shopsys/s3-bridge@v17.0.1

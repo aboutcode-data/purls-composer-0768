@@ -1,0 +1,9 @@
+- pkg:composer/snowcap/core-bundle@v1.0.0
+- pkg:composer/snowcap/core-bundle@v1.0.1
+- pkg:composer/snowcap/core-bundle@v1.0.2
+- pkg:composer/snowcap/core-bundle@v2.0.0
+- pkg:composer/snowcap/core-bundle@v2.0.1
+- pkg:composer/snowcap/core-bundle@v2.0.2
+- pkg:composer/snowcap/core-bundle@v3.0.0
+- pkg:composer/snowcap/core-bundle@v3.0.1
+- pkg:composer/snowcap/core-bundle@v3.0.2

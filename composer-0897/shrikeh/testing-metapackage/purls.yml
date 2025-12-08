@@ -1,0 +1,4 @@
+- pkg:composer/shrikeh/testing-metapackage@0.1
+- pkg:composer/shrikeh/testing-metapackage@0.2
+- pkg:composer/shrikeh/testing-metapackage@0.3
+- pkg:composer/shrikeh/testing-metapackage@0.4.0

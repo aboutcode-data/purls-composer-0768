@@ -1,0 +1,2 @@
+- pkg:composer/simple-bus/command-event-bridge@v1.0.0
+- pkg:composer/simple-bus/command-event-bridge@v1.0.1

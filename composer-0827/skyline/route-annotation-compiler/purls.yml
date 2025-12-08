@@ -1,0 +1,4 @@
+- pkg:composer/skyline/route-annotation-compiler@v0.8.0
+- pkg:composer/skyline/route-annotation-compiler@v0.8.1
+- pkg:composer/skyline/route-annotation-compiler@v0.8.2
+- pkg:composer/skyline/route-annotation-compiler@v8.0.0

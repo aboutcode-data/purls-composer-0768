@@ -1,0 +1,5 @@
+- pkg:composer/schibsted-tech-polska/travis-ci-client@0.0.1
+- pkg:composer/schibsted-tech-polska/travis-ci-client@0.0.2
+- pkg:composer/schibsted-tech-polska/travis-ci-client@0.1.0
+- pkg:composer/schibsted-tech-polska/travis-ci-client@0.1.1
+- pkg:composer/schibsted-tech-polska/travis-ci-client@1.1.0

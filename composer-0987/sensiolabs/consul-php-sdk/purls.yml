@@ -1,0 +1,14 @@
+- pkg:composer/sensiolabs/consul-php-sdk@v1.0.0
+- pkg:composer/sensiolabs/consul-php-sdk@v2.0.0
+- pkg:composer/sensiolabs/consul-php-sdk@v2.1.0
+- pkg:composer/sensiolabs/consul-php-sdk@v3.0.0
+- pkg:composer/sensiolabs/consul-php-sdk@v3.1.0
+- pkg:composer/sensiolabs/consul-php-sdk@v3.1.1
+- pkg:composer/sensiolabs/consul-php-sdk@v4.0.0
+- pkg:composer/sensiolabs/consul-php-sdk@v4.1.0
+- pkg:composer/sensiolabs/consul-php-sdk@v4.1.1
+- pkg:composer/sensiolabs/consul-php-sdk@v4.2.0
+- pkg:composer/sensiolabs/consul-php-sdk@v4.2.1
+- pkg:composer/sensiolabs/consul-php-sdk@v5.0.0
+- pkg:composer/sensiolabs/consul-php-sdk@v5.1.0
+- pkg:composer/sensiolabs/consul-php-sdk@v5.2.0

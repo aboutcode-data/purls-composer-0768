@@ -1,0 +1,5 @@
+- pkg:composer/sbolch/unique-hash@v1.0
+- pkg:composer/sbolch/unique-hash@v1.1
+- pkg:composer/sbolch/unique-hash@v2.0
+- pkg:composer/sbolch/unique-hash@v3.0
+- pkg:composer/sbolch/unique-hash@v3.1

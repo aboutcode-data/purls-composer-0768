@@ -1,0 +1,7 @@
+- pkg:composer/softinklab/laravel-keyvalue-storage@1.4
+- pkg:composer/softinklab/laravel-keyvalue-storage@1.5
+- pkg:composer/softinklab/laravel-keyvalue-storage@1.7
+- pkg:composer/softinklab/laravel-keyvalue-storage@v0.1
+- pkg:composer/softinklab/laravel-keyvalue-storage@v1.0
+- pkg:composer/softinklab/laravel-keyvalue-storage@v1.3
+- pkg:composer/softinklab/laravel-keyvalue-storage@v1.8

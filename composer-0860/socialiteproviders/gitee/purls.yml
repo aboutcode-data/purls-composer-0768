@@ -1,0 +1,3 @@
+- pkg:composer/socialiteproviders/gitee@4.0.0
+- pkg:composer/socialiteproviders/gitee@4.1.0
+- pkg:composer/socialiteproviders/gitee@v3.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/smichaelsen/typo3-distribution@7.0.0
+- pkg:composer/smichaelsen/typo3-distribution@7.0.1
+- pkg:composer/smichaelsen/typo3-distribution@8.0.1
+- pkg:composer/smichaelsen/typo3-distribution@v8.0.0

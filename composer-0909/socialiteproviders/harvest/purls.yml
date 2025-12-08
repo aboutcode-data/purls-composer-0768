@@ -1,0 +1,4 @@
+- pkg:composer/socialiteproviders/harvest@4.0.0
+- pkg:composer/socialiteproviders/harvest@4.1.0
+- pkg:composer/socialiteproviders/harvest@5.0.0
+- pkg:composer/socialiteproviders/harvest@v1.0.0

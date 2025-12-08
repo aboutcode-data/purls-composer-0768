@@ -1,0 +1,4 @@
+- pkg:composer/shopsys/postgres-search-bundle@0.1
+- pkg:composer/shopsys/postgres-search-bundle@0.2
+- pkg:composer/shopsys/postgres-search-bundle@0.3
+- pkg:composer/shopsys/postgres-search-bundle@0.4

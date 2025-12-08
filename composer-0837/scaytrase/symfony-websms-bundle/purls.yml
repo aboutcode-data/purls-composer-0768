@@ -1,0 +1,4 @@
+- pkg:composer/scaytrase/symfony-websms-bundle@1.0
+- pkg:composer/scaytrase/symfony-websms-bundle@1.0-alpha
+- pkg:composer/scaytrase/symfony-websms-bundle@1.1
+- pkg:composer/scaytrase/symfony-websms-bundle@2.0

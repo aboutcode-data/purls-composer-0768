@@ -1,0 +1,4 @@
+- pkg:composer/softlayer/softlayer-api-php-client@v1.0
+- pkg:composer/softlayer/softlayer-api-php-client@v1.01
+- pkg:composer/softlayer/softlayer-api-php-client@v1.2
+- pkg:composer/softlayer/softlayer-api-php-client@v2.0.0

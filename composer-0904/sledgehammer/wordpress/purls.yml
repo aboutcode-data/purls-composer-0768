@@ -1,0 +1,3 @@
+- pkg:composer/sledgehammer/wordpress@16.05.0
+- pkg:composer/sledgehammer/wordpress@18.05.0
+- pkg:composer/sledgehammer/wordpress@18.08.0

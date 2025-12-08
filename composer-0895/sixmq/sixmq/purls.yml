@@ -1,0 +1,4 @@
+- pkg:composer/sixmq/sixmq@v0.0.1
+- pkg:composer/sixmq/sixmq@v0.1
+- pkg:composer/sixmq/sixmq@v1.0.0
+- pkg:composer/sixmq/sixmq@v1.0.1

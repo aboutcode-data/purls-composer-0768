@@ -1,0 +1,5 @@
+- pkg:composer/simplesurance/paypal-rest-api-sdk-php@1.14.0
+- pkg:composer/simplesurance/paypal-rest-api-sdk-php@1.15.0
+- pkg:composer/simplesurance/paypal-rest-api-sdk-php@1.16.0
+- pkg:composer/simplesurance/paypal-rest-api-sdk-php@1.17.0
+- pkg:composer/simplesurance/paypal-rest-api-sdk-php@1.17.1
