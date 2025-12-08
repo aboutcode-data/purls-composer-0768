@@ -1,0 +1,12 @@
+- pkg:composer/surfnet/yubikey-api-client-bundle@1.0.0
+- pkg:composer/surfnet/yubikey-api-client-bundle@1.1.0
+- pkg:composer/surfnet/yubikey-api-client-bundle@1.2.0
+- pkg:composer/surfnet/yubikey-api-client-bundle@2.0.0
+- pkg:composer/surfnet/yubikey-api-client-bundle@3.0.0
+- pkg:composer/surfnet/yubikey-api-client-bundle@3.0.1
+- pkg:composer/surfnet/yubikey-api-client-bundle@4.0.0
+- pkg:composer/surfnet/yubikey-api-client-bundle@4.1.0
+- pkg:composer/surfnet/yubikey-api-client-bundle@4.1.1
+- pkg:composer/surfnet/yubikey-api-client-bundle@5.0.0
+- pkg:composer/surfnet/yubikey-api-client-bundle@5.0.0-beta1
+- pkg:composer/surfnet/yubikey-api-client-bundle@6.0.0

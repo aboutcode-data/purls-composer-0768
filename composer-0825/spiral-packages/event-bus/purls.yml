@@ -1,0 +1,5 @@
+- pkg:composer/spiral-packages/event-bus@1.0.0
+- pkg:composer/spiral-packages/event-bus@1.1.0
+- pkg:composer/spiral-packages/event-bus@2.0.0
+- pkg:composer/spiral-packages/event-bus@2.1.0
+- pkg:composer/spiral-packages/event-bus@2.2.0

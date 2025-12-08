@@ -1,0 +1,15 @@
+- pkg:composer/spryker-feature/mailing-notifications@2018.11.0
+- pkg:composer/spryker-feature/mailing-notifications@2018.12.0
+- pkg:composer/spryker-feature/mailing-notifications@201903.0
+- pkg:composer/spryker-feature/mailing-notifications@201907.0
+- pkg:composer/spryker-feature/mailing-notifications@202001.0
+- pkg:composer/spryker-feature/mailing-notifications@202009.0
+- pkg:composer/spryker-feature/mailing-notifications@202108.0
+- pkg:composer/spryker-feature/mailing-notifications@202204.0
+- pkg:composer/spryker-feature/mailing-notifications@202211.0
+- pkg:composer/spryker-feature/mailing-notifications@202212.0
+- pkg:composer/spryker-feature/mailing-notifications@202307.0
+- pkg:composer/spryker-feature/mailing-notifications@202311.0
+- pkg:composer/spryker-feature/mailing-notifications@202404.0
+- pkg:composer/spryker-feature/mailing-notifications@202410.0
+- pkg:composer/spryker-feature/mailing-notifications@202507.0

@@ -1,0 +1,6 @@
+- pkg:composer/sweetrdf/in-memory-store-sqlite@1.0
+- pkg:composer/sweetrdf/in-memory-store-sqlite@1.0-ALPHA1
+- pkg:composer/sweetrdf/in-memory-store-sqlite@1.0-RC1
+- pkg:composer/sweetrdf/in-memory-store-sqlite@1.1.0
+- pkg:composer/sweetrdf/in-memory-store-sqlite@1.1.1
+- pkg:composer/sweetrdf/in-memory-store-sqlite@2.0.0

@@ -1,0 +1,2 @@
+- pkg:composer/sqltranslator/sql-translator@v1.1.0
+- pkg:composer/sqltranslator/sql-translator@v1.20

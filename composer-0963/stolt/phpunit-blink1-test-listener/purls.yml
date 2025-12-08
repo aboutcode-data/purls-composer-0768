@@ -1,0 +1,3 @@
+- pkg:composer/stolt/phpunit-blink1-test-listener@v1.0.0
+- pkg:composer/stolt/phpunit-blink1-test-listener@v1.1.0
+- pkg:composer/stolt/phpunit-blink1-test-listener@v2.0.0

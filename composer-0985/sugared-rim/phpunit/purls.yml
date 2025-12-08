@@ -1,0 +1,13 @@
+- pkg:composer/sugared-rim/phpunit@0.1.0
+- pkg:composer/sugared-rim/phpunit@0.2.0
+- pkg:composer/sugared-rim/phpunit@0.3.0
+- pkg:composer/sugared-rim/phpunit@0.3.1
+- pkg:composer/sugared-rim/phpunit@0.4.0
+- pkg:composer/sugared-rim/phpunit@0.4.1
+- pkg:composer/sugared-rim/phpunit@0.5.0
+- pkg:composer/sugared-rim/phpunit@0.6.0
+- pkg:composer/sugared-rim/phpunit@1.0.0
+- pkg:composer/sugared-rim/phpunit@2.0.0
+- pkg:composer/sugared-rim/phpunit@5.2.0
+- pkg:composer/sugared-rim/phpunit@6.0.0
+- pkg:composer/sugared-rim/phpunit@7.0.0

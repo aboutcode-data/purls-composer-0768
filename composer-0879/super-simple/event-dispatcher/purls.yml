@@ -1,0 +1,4 @@
+- pkg:composer/super-simple/event-dispatcher@v1.0
+- pkg:composer/super-simple/event-dispatcher@v1.1
+- pkg:composer/super-simple/event-dispatcher@v1.2
+- pkg:composer/super-simple/event-dispatcher@v2.0.0

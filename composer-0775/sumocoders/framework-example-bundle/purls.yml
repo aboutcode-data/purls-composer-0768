@@ -1,0 +1,14 @@
+- pkg:composer/sumocoders/framework-example-bundle@6.0.0
+- pkg:composer/sumocoders/framework-example-bundle@6.0.1
+- pkg:composer/sumocoders/framework-example-bundle@v1.0.0
+- pkg:composer/sumocoders/framework-example-bundle@v1.1.0
+- pkg:composer/sumocoders/framework-example-bundle@v2.0.0
+- pkg:composer/sumocoders/framework-example-bundle@v2.0.1
+- pkg:composer/sumocoders/framework-example-bundle@v3.0.0
+- pkg:composer/sumocoders/framework-example-bundle@v3.1.0
+- pkg:composer/sumocoders/framework-example-bundle@v3.2.0
+- pkg:composer/sumocoders/framework-example-bundle@v4.0.0
+- pkg:composer/sumocoders/framework-example-bundle@v4.0.1
+- pkg:composer/sumocoders/framework-example-bundle@v5.0.0
+- pkg:composer/sumocoders/framework-example-bundle@v7.0.0
+- pkg:composer/sumocoders/framework-example-bundle@v8.0.0

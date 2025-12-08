@@ -1,0 +1,4 @@
+- pkg:composer/stolfam/keycloak-adapter-php@2.0.17
+- pkg:composer/stolfam/keycloak-adapter-php@2.0.18
+- pkg:composer/stolfam/keycloak-adapter-php@2.0.19
+- pkg:composer/stolfam/keycloak-adapter-php@2.0.20

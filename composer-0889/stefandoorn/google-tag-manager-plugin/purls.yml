@@ -1,0 +1,14 @@
+- pkg:composer/stefandoorn/google-tag-manager-plugin@0.1
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v0.2
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v0.3.0
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v0.4.0
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v0.5.0
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v1.0.0
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v1.0.1
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v1.1.0
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v1.2.0
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v1.2.1
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v1.2.2
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v1.2.3
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v2.0.0-alpha.1
+- pkg:composer/stefandoorn/google-tag-manager-plugin@v2.0.0-alpha.2

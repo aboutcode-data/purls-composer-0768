@@ -1,0 +1,4 @@
+- pkg:composer/tangwei/clickhouse-builder@v0.1.0
+- pkg:composer/tangwei/clickhouse-builder@v1.0.0
+- pkg:composer/tangwei/clickhouse-builder@v1.0.0-beta1
+- pkg:composer/tangwei/clickhouse-builder@v1.0.1

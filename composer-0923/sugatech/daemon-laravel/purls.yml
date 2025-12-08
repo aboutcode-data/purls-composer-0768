@@ -1,0 +1,4 @@
+- pkg:composer/sugatech/daemon-laravel@20.0.0
+- pkg:composer/sugatech/daemon-laravel@20.1.0
+- pkg:composer/sugatech/daemon-laravel@21.0.0
+- pkg:composer/sugatech/daemon-laravel@21.1.0

@@ -1,0 +1,2 @@
+- pkg:composer/symfony/amphp-http-client-meta@v1.0.0
+- pkg:composer/symfony/amphp-http-client-meta@v2.0.0

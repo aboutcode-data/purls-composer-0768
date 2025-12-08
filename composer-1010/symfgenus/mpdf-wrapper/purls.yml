@@ -1,0 +1,4 @@
+- pkg:composer/symfgenus/mpdf-wrapper@1.0.0
+- pkg:composer/symfgenus/mpdf-wrapper@1.0.1
+- pkg:composer/symfgenus/mpdf-wrapper@2.0
+- pkg:composer/symfgenus/mpdf-wrapper@3.0

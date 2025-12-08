@@ -1,0 +1,4 @@
+- pkg:composer/spell-checker/dictionary-cs@0.1
+- pkg:composer/spell-checker/dictionary-cs@v0.2
+- pkg:composer/spell-checker/dictionary-cs@v0.2.1
+- pkg:composer/spell-checker/dictionary-cs@v0.2.2

@@ -1,0 +1,2 @@
+- pkg:composer/swoft-components/cloud-storage@v2.0.2
+- pkg:composer/swoft-components/cloud-storage@v3.0.0-beta

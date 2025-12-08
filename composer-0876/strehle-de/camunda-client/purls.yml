@@ -1,0 +1,15 @@
+- pkg:composer/strehle-de/camunda-client@v0.1.0
+- pkg:composer/strehle-de/camunda-client@v0.1.1
+- pkg:composer/strehle-de/camunda-client@v0.2.0
+- pkg:composer/strehle-de/camunda-client@v0.2.1
+- pkg:composer/strehle-de/camunda-client@v0.2.2
+- pkg:composer/strehle-de/camunda-client@v0.2.3
+- pkg:composer/strehle-de/camunda-client@v0.2.4
+- pkg:composer/strehle-de/camunda-client@v0.2.5
+- pkg:composer/strehle-de/camunda-client@v0.3.0
+- pkg:composer/strehle-de/camunda-client@v0.4.0
+- pkg:composer/strehle-de/camunda-client@v0.5.0
+- pkg:composer/strehle-de/camunda-client@v0.5.1
+- pkg:composer/strehle-de/camunda-client@v0.5.2
+- pkg:composer/strehle-de/camunda-client@v0.6.0
+- pkg:composer/strehle-de/camunda-client@v0.6.1

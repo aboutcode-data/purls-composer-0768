@@ -1,0 +1,3 @@
+- pkg:composer/super-kernel/event-dispatcher@v0.0.1
+- pkg:composer/super-kernel/event-dispatcher@v0.0.2
+- pkg:composer/super-kernel/event-dispatcher@v0.0.3

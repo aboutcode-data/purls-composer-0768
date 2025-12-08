@@ -1,0 +1,6 @@
+- pkg:composer/stephencross/testpackage@0.1.0
+- pkg:composer/stephencross/testpackage@1.0.1
+- pkg:composer/stephencross/testpackage@1.0.2
+- pkg:composer/stephencross/testpackage@1.0.3
+- pkg:composer/stephencross/testpackage@1.0.4
+- pkg:composer/stephencross/testpackage@1.0.6

@@ -1,0 +1,15 @@
+- pkg:composer/spryker-feature/state-machine@2018.11.0
+- pkg:composer/spryker-feature/state-machine@2018.12.0
+- pkg:composer/spryker-feature/state-machine@201903.0
+- pkg:composer/spryker-feature/state-machine@201907.0
+- pkg:composer/spryker-feature/state-machine@202001.0
+- pkg:composer/spryker-feature/state-machine@202009.0
+- pkg:composer/spryker-feature/state-machine@202108.0
+- pkg:composer/spryker-feature/state-machine@202204.0
+- pkg:composer/spryker-feature/state-machine@202211.0
+- pkg:composer/spryker-feature/state-machine@202212.0
+- pkg:composer/spryker-feature/state-machine@202307.0
+- pkg:composer/spryker-feature/state-machine@202311.0
+- pkg:composer/spryker-feature/state-machine@202404.0
+- pkg:composer/spryker-feature/state-machine@202410.0
+- pkg:composer/spryker-feature/state-machine@202507.0

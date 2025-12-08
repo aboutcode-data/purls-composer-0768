@@ -1,0 +1,4 @@
+- pkg:composer/spomky-labs/oauth2-server-implicit-grant-type-bundle@v3.0.0
+- pkg:composer/spomky-labs/oauth2-server-implicit-grant-type-bundle@v3.0.1
+- pkg:composer/spomky-labs/oauth2-server-implicit-grant-type-bundle@v4.0.0
+- pkg:composer/spomky-labs/oauth2-server-implicit-grant-type-bundle@v5.0.0

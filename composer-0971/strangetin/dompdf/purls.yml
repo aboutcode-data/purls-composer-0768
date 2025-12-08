@@ -1,0 +1,17 @@
+- pkg:composer/strangetin/dompdf@v0.6.0
+- pkg:composer/strangetin/dompdf@v0.6.1
+- pkg:composer/strangetin/dompdf@v0.6.2
+- pkg:composer/strangetin/dompdf@v0.7.0
+- pkg:composer/strangetin/dompdf@v0.7.0-beta
+- pkg:composer/strangetin/dompdf@v0.7.0-beta2
+- pkg:composer/strangetin/dompdf@v0.7.0-beta3
+- pkg:composer/strangetin/dompdf@v0.8.0
+- pkg:composer/strangetin/dompdf@v0.8.1
+- pkg:composer/strangetin/dompdf@v0.8.2
+- pkg:composer/strangetin/dompdf@v0.8.3
+- pkg:composer/strangetin/dompdf@v0.8.4
+- pkg:composer/strangetin/dompdf@v0.8.5
+- pkg:composer/strangetin/dompdf@v0.8.6
+- pkg:composer/strangetin/dompdf@v0.8.7
+- pkg:composer/strangetin/dompdf@v0.8.8
+- pkg:composer/strangetin/dompdf@v0.8.9

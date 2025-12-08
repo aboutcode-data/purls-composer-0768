@@ -1,0 +1,16 @@
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v0.0.1
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v1.0.0
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v1.1.0
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v1.1.1
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v1.1.2
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v1.2.0
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v1.3.0
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v1.3.1
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v1.3.2
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v2.0.0
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v2.0.1
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v2.1.0
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v2.2.0
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v2.3.0
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v3.0.0
+- pkg:composer/stechstudio/laravel-php-cs-fixer@v3.1.0

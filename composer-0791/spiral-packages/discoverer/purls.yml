@@ -1,0 +1,4 @@
+- pkg:composer/spiral-packages/discoverer@1.0.0
+- pkg:composer/spiral-packages/discoverer@2.0.0
+- pkg:composer/spiral-packages/discoverer@2.0.1
+- pkg:composer/spiral-packages/discoverer@3.0.0

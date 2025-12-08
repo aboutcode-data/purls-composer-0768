@@ -1,0 +1,2 @@
+- pkg:composer/spatie/laravel-mailcoach-sendgrid-setup@1.0.0
+- pkg:composer/spatie/laravel-mailcoach-sendgrid-setup@1.0.1

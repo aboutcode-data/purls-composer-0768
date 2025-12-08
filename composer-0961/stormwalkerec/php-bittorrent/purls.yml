@@ -1,0 +1,4 @@
+- pkg:composer/stormwalkerec/php-bittorrent@0.2
+- pkg:composer/stormwalkerec/php-bittorrent@0.3.0
+- pkg:composer/stormwalkerec/php-bittorrent@1.0.0
+- pkg:composer/stormwalkerec/php-bittorrent@1.1.0

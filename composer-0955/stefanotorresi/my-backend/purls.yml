@@ -1,0 +1,5 @@
+- pkg:composer/stefanotorresi/my-backend@0.1.0-alpha
+- pkg:composer/stefanotorresi/my-backend@0.2.0-beta
+- pkg:composer/stefanotorresi/my-backend@1.0.0-alpha
+- pkg:composer/stefanotorresi/my-backend@2.0.0-beta
+- pkg:composer/stefanotorresi/my-backend@2.0.0-beta1

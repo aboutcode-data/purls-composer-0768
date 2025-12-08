@@ -1,0 +1,14 @@
+- pkg:composer/swoole/assert@1.0.0
+- pkg:composer/swoole/assert@1.0.0-beta
+- pkg:composer/swoole/assert@1.0.1
+- pkg:composer/swoole/assert@1.0.2
+- pkg:composer/swoole/assert@1.1.0
+- pkg:composer/swoole/assert@1.2.0
+- pkg:composer/swoole/assert@1.3.0
+- pkg:composer/swoole/assert@1.4.0
+- pkg:composer/swoole/assert@v2.0.0-rc1
+- pkg:composer/swoole/assert@v2.0.0-rc2
+- pkg:composer/swoole/assert@v2.0.0-rc3
+- pkg:composer/swoole/assert@v2.0.0-rc4
+- pkg:composer/swoole/assert@v2.0.0-rc5
+- pkg:composer/swoole/assert@v2.0.0-rc6

@@ -1,0 +1,4 @@
+- pkg:composer/spryker/incremental-installer@0.1.0
+- pkg:composer/spryker/incremental-installer@0.1.1
+- pkg:composer/spryker/incremental-installer@0.2.0
+- pkg:composer/spryker/incremental-installer@0.2.1

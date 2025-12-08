@@ -1,0 +1,4 @@
+- pkg:composer/superbalist/php-pubsub-kafka@1.0.0
+- pkg:composer/superbalist/php-pubsub-kafka@1.0.1
+- pkg:composer/superbalist/php-pubsub-kafka@1.0.2
+- pkg:composer/superbalist/php-pubsub-kafka@2.0.0

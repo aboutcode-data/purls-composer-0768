@@ -1,0 +1,5 @@
+- pkg:composer/symfony/force-lowest@v2.8.0
+- pkg:composer/symfony/force-lowest@v3.4.0
+- pkg:composer/symfony/force-lowest@v4.0.0
+- pkg:composer/symfony/force-lowest@v4.1.0
+- pkg:composer/symfony/force-lowest@v4.2.0

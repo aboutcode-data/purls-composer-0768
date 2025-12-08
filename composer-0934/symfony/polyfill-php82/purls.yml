@@ -1,0 +1,8 @@
+- pkg:composer/symfony/polyfill-php82@v1.26.0
+- pkg:composer/symfony/polyfill-php82@v1.27.0
+- pkg:composer/symfony/polyfill-php82@v1.28.0
+- pkg:composer/symfony/polyfill-php82@v1.29.0
+- pkg:composer/symfony/polyfill-php82@v1.30.0
+- pkg:composer/symfony/polyfill-php82@v1.31.0
+- pkg:composer/symfony/polyfill-php82@v1.32.0
+- pkg:composer/symfony/polyfill-php82@v1.33.0

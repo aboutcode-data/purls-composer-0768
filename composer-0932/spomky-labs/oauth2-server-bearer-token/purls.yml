@@ -1,0 +1,15 @@
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v1.0.0
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v1.0.0-alpha1
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v1.0.0-alpha2
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v1.0.0-beta1
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v1.0.0-beta2
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v1.0.0-beta3
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v1.0.0-beta4
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v2.0.0
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v3.0.0
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v3.0.1
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v4.0.0
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v5.0.0
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v5.0.1
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v5.0.2
+- pkg:composer/spomky-labs/oauth2-server-bearer-token@v5.0.3

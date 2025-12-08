@@ -1,0 +1,4 @@
+- pkg:composer/swissspidy/phpstan-no-private@v0.1.0
+- pkg:composer/swissspidy/phpstan-no-private@v0.2.0
+- pkg:composer/swissspidy/phpstan-no-private@v0.2.1
+- pkg:composer/swissspidy/phpstan-no-private@v1.0.0

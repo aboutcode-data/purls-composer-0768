@@ -1,0 +1,4 @@
+- pkg:composer/sylapi/omnipay-inbank@v0.1.0
+- pkg:composer/sylapi/omnipay-inbank@v0.1.1
+- pkg:composer/sylapi/omnipay-inbank@v1.0.0
+- pkg:composer/sylapi/omnipay-inbank@v1.1.0

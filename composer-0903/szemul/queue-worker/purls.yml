@@ -1,0 +1,5 @@
+- pkg:composer/szemul/queue-worker@1.0.0
+- pkg:composer/szemul/queue-worker@1.0.1
+- pkg:composer/szemul/queue-worker@2.0.0
+- pkg:composer/szemul/queue-worker@2.0.1
+- pkg:composer/szemul/queue-worker@2.0.2

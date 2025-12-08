@@ -1,0 +1,5 @@
+- pkg:composer/symfony-cmf/slugifier-api@1.0.0
+- pkg:composer/symfony-cmf/slugifier-api@1.0.0-RC1
+- pkg:composer/symfony-cmf/slugifier-api@2.0.0
+- pkg:composer/symfony-cmf/slugifier-api@2.0.0-RC1
+- pkg:composer/symfony-cmf/slugifier-api@2.1.0

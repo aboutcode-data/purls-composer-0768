@@ -1,0 +1,5 @@
+- pkg:composer/stefanak-michal/memgraph-bolt-wrapper@v1.0
+- pkg:composer/stefanak-michal/memgraph-bolt-wrapper@v2.0
+- pkg:composer/stefanak-michal/memgraph-bolt-wrapper@v2.1
+- pkg:composer/stefanak-michal/memgraph-bolt-wrapper@v2.2
+- pkg:composer/stefanak-michal/memgraph-bolt-wrapper@v3.0

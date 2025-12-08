@@ -1,0 +1,3 @@
+- pkg:composer/symfonylab/slack-notifier@v1.0.0
+- pkg:composer/symfonylab/slack-notifier@v1.0.1
+- pkg:composer/symfonylab/slack-notifier@v1.0.2

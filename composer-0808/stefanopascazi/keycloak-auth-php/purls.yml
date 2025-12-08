@@ -1,0 +1,8 @@
+- pkg:composer/stefanopascazi/keycloak-auth-php@0.0.1
+- pkg:composer/stefanopascazi/keycloak-auth-php@0.0.2
+- pkg:composer/stefanopascazi/keycloak-auth-php@0.0.3
+- pkg:composer/stefanopascazi/keycloak-auth-php@0.1.0
+- pkg:composer/stefanopascazi/keycloak-auth-php@0.1.0-alpha
+- pkg:composer/stefanopascazi/keycloak-auth-php@0.1.1
+- pkg:composer/stefanopascazi/keycloak-auth-php@0.2.0
+- pkg:composer/stefanopascazi/keycloak-auth-php@0.3.0

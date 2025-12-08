@@ -1,0 +1,5 @@
+- pkg:composer/stevebauman/php-imap@v5.6.0
+- pkg:composer/stevebauman/php-imap@v5.7.0
+- pkg:composer/stevebauman/php-imap@v5.7.1
+- pkg:composer/stevebauman/php-imap@v5.7.2
+- pkg:composer/stevebauman/php-imap@v5.7.3

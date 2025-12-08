@@ -1,0 +1,14 @@
+- pkg:composer/songzw/hello@0.0.1
+- pkg:composer/songzw/hello@0.0.1-alpha
+- pkg:composer/songzw/hello@0.0.2
+- pkg:composer/songzw/hello@0.0.2-alpha
+- pkg:composer/songzw/hello@0.0.2-beta
+- pkg:composer/songzw/hello@0.0.3
+- pkg:composer/songzw/hello@0.0.3-beta
+- pkg:composer/songzw/hello@0.0.9-beta
+- pkg:composer/songzw/hello@1.0.0-alpha
+- pkg:composer/songzw/hello@1.0.1-alpha
+- pkg:composer/songzw/hello@2.0.1
+- pkg:composer/songzw/hello@2.2.0
+- pkg:composer/songzw/hello@2.2.1
+- pkg:composer/songzw/hello@v1.6.3

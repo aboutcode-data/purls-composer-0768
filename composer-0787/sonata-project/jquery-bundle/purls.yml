@@ -1,0 +1,4 @@
+- pkg:composer/sonata-project/jquery-bundle@1.10.2
+- pkg:composer/sonata-project/jquery-bundle@1.8.0
+- pkg:composer/sonata-project/jquery-bundle@1.8.3
+- pkg:composer/sonata-project/jquery-bundle@1.9.1

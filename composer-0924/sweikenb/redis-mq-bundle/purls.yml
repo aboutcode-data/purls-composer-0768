@@ -1,0 +1,5 @@
+- pkg:composer/sweikenb/redis-mq-bundle@0.1.0
+- pkg:composer/sweikenb/redis-mq-bundle@0.1.1
+- pkg:composer/sweikenb/redis-mq-bundle@1.0.0
+- pkg:composer/sweikenb/redis-mq-bundle@1.0.1
+- pkg:composer/sweikenb/redis-mq-bundle@1.0.2

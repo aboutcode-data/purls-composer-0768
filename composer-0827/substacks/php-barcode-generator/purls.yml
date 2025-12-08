@@ -1,0 +1,5 @@
+- pkg:composer/substacks/php-barcode-generator@v0.1
+- pkg:composer/substacks/php-barcode-generator@v0.2
+- pkg:composer/substacks/php-barcode-generator@v0.2.1
+- pkg:composer/substacks/php-barcode-generator@v1.0.0
+- pkg:composer/substacks/php-barcode-generator@v1.0.1
