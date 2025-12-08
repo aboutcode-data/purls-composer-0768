@@ -1,0 +1,14 @@
+- pkg:composer/qycloud/activerecord@v1.0
+- pkg:composer/qycloud/activerecord@v1.1
+- pkg:composer/qycloud/activerecord@v1.2
+- pkg:composer/qycloud/activerecord@v1.3
+- pkg:composer/qycloud/activerecord@v1.4
+- pkg:composer/qycloud/activerecord@v1.5
+- pkg:composer/qycloud/activerecord@v1.6
+- pkg:composer/qycloud/activerecord@v1.7
+- pkg:composer/qycloud/activerecord@v1.8
+- pkg:composer/qycloud/activerecord@v1.8.1
+- pkg:composer/qycloud/activerecord@v1.8.2
+- pkg:composer/qycloud/activerecord@v1.8.3
+- pkg:composer/qycloud/activerecord@v2.0
+- pkg:composer/qycloud/activerecord@v2.1

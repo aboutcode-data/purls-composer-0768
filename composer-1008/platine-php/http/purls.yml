@@ -1,0 +1,4 @@
+- pkg:composer/platine-php/http@v1.0.0
+- pkg:composer/platine-php/http@v1.0.1
+- pkg:composer/platine-php/http@v1.0.2
+- pkg:composer/platine-php/http@v2.0.0

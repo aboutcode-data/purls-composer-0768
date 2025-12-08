@@ -1,0 +1,4 @@
+- pkg:composer/qlimix/codesniffer-standard@1.0.0
+- pkg:composer/qlimix/codesniffer-standard@2.0.0
+- pkg:composer/qlimix/codesniffer-standard@3.0.0
+- pkg:composer/qlimix/codesniffer-standard@4.0.0

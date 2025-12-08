@@ -1,0 +1,6 @@
+- pkg:composer/phpding/omnipay-unionpay@v0.1.0
+- pkg:composer/phpding/omnipay-unionpay@v0.2.0
+- pkg:composer/phpding/omnipay-unionpay@v0.3.0
+- pkg:composer/phpding/omnipay-unionpay@v0.3.5
+- pkg:composer/phpding/omnipay-unionpay@v0.3.6
+- pkg:composer/phpding/omnipay-unionpay@v0.3.7

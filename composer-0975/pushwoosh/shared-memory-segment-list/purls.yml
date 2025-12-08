@@ -1,0 +1,5 @@
+- pkg:composer/pushwoosh/shared-memory-segment-list@v0.0.1
+- pkg:composer/pushwoosh/shared-memory-segment-list@v1.0.0
+- pkg:composer/pushwoosh/shared-memory-segment-list@v1.1.0
+- pkg:composer/pushwoosh/shared-memory-segment-list@v2.0.0
+- pkg:composer/pushwoosh/shared-memory-segment-list@v2.0.1

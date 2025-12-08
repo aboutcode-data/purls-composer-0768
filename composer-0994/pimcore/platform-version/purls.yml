@@ -1,0 +1,17 @@
+- pkg:composer/pimcore/platform-version@1492.1
+- pkg:composer/pimcore/platform-version@1492.2
+- pkg:composer/pimcore/platform-version@1492.3
+- pkg:composer/pimcore/platform-version@v1492.4
+- pkg:composer/pimcore/platform-version@v2022.0
+- pkg:composer/pimcore/platform-version@v2023.1
+- pkg:composer/pimcore/platform-version@v2023.2
+- pkg:composer/pimcore/platform-version@v2023.3
+- pkg:composer/pimcore/platform-version@v2023.3-RC1
+- pkg:composer/pimcore/platform-version@v2024.1
+- pkg:composer/pimcore/platform-version@v2024.2
+- pkg:composer/pimcore/platform-version@v2024.3
+- pkg:composer/pimcore/platform-version@v2024.4
+- pkg:composer/pimcore/platform-version@v2025.1
+- pkg:composer/pimcore/platform-version@v2025.1-RC1
+- pkg:composer/pimcore/platform-version@v2025.2
+- pkg:composer/pimcore/platform-version@v2025.3

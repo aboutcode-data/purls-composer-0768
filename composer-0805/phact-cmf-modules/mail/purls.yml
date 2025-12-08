@@ -1,0 +1,9 @@
+- pkg:composer/phact-cmf-modules/mail@v1.0.0
+- pkg:composer/phact-cmf-modules/mail@v2.0.0
+- pkg:composer/phact-cmf-modules/mail@v2.0.1
+- pkg:composer/phact-cmf-modules/mail@v2.0.2
+- pkg:composer/phact-cmf-modules/mail@v2.0.3
+- pkg:composer/phact-cmf-modules/mail@v2.0.4
+- pkg:composer/phact-cmf-modules/mail@v2.0.5
+- pkg:composer/phact-cmf-modules/mail@v3.0.0
+- pkg:composer/phact-cmf-modules/mail@v4.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/pklink/validator-chain@0.1
+- pkg:composer/pklink/validator-chain@0.2
+- pkg:composer/pklink/validator-chain@0.2.1
+- pkg:composer/pklink/validator-chain@1.0.0

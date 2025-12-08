@@ -1,0 +1,5 @@
+- pkg:composer/quickpay/quickpay-php-client@0.1.0
+- pkg:composer/quickpay/quickpay-php-client@1.0.0
+- pkg:composer/quickpay/quickpay-php-client@1.0.1
+- pkg:composer/quickpay/quickpay-php-client@1.1.0
+- pkg:composer/quickpay/quickpay-php-client@2.0.0

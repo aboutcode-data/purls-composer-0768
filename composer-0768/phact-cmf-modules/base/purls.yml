@@ -1,0 +1,9 @@
+- pkg:composer/phact-cmf-modules/base@v1.0.0
+- pkg:composer/phact-cmf-modules/base@v1.0.1
+- pkg:composer/phact-cmf-modules/base@v2.0.0
+- pkg:composer/phact-cmf-modules/base@v2.0.1
+- pkg:composer/phact-cmf-modules/base@v2.0.2
+- pkg:composer/phact-cmf-modules/base@v3.0.0
+- pkg:composer/phact-cmf-modules/base@v4.0.0
+- pkg:composer/phact-cmf-modules/base@v4.0.1
+- pkg:composer/phact-cmf-modules/base@v4.1.0

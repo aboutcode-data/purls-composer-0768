@@ -1,0 +1,3 @@
+- pkg:composer/phpmailer-amp/phpmailer-amp@v1.0.0
+- pkg:composer/phpmailer-amp/phpmailer-amp@v1.0.1
+- pkg:composer/phpmailer-amp/phpmailer-amp@v1.1.0

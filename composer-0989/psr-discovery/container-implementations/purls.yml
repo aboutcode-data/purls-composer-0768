@@ -1,0 +1,4 @@
+- pkg:composer/psr-discovery/container-implementations@1.0.0
+- pkg:composer/psr-discovery/container-implementations@1.1.0
+- pkg:composer/psr-discovery/container-implementations@1.1.1
+- pkg:composer/psr-discovery/container-implementations@1.2.0

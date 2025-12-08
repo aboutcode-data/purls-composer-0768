@@ -1,0 +1,15 @@
+- pkg:composer/phpstan/phpstan-sentry@0.1
+- pkg:composer/phpstan/phpstan-sentry@0.10
+- pkg:composer/phpstan/phpstan-sentry@0.11
+- pkg:composer/phpstan/phpstan-sentry@0.11.1
+- pkg:composer/phpstan/phpstan-sentry@0.11.2
+- pkg:composer/phpstan/phpstan-sentry@0.2
+- pkg:composer/phpstan/phpstan-sentry@0.3
+- pkg:composer/phpstan/phpstan-sentry@0.4
+- pkg:composer/phpstan/phpstan-sentry@0.4.1
+- pkg:composer/phpstan/phpstan-sentry@0.5
+- pkg:composer/phpstan/phpstan-sentry@0.5.1
+- pkg:composer/phpstan/phpstan-sentry@0.6
+- pkg:composer/phpstan/phpstan-sentry@0.7
+- pkg:composer/phpstan/phpstan-sentry@0.8
+- pkg:composer/phpstan/phpstan-sentry@0.9

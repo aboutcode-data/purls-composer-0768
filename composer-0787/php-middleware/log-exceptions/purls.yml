@@ -1,0 +1,2 @@
+- pkg:composer/php-middleware/log-exceptions@1.0.0
+- pkg:composer/php-middleware/log-exceptions@1.0.1

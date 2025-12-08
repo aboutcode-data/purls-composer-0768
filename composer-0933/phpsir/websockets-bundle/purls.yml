@@ -1,0 +1,3 @@
+- pkg:composer/phpsir/websockets-bundle@v1.0
+- pkg:composer/phpsir/websockets-bundle@v2.0
+- pkg:composer/phpsir/websockets-bundle@v2.1

@@ -1,0 +1,8 @@
+- pkg:composer/qratorlabs/smocky-phpunit@1.0.0
+- pkg:composer/qratorlabs/smocky-phpunit@1.0.1
+- pkg:composer/qratorlabs/smocky-phpunit@1.0.2
+- pkg:composer/qratorlabs/smocky-phpunit@1.0.3
+- pkg:composer/qratorlabs/smocky-phpunit@2.0.0
+- pkg:composer/qratorlabs/smocky-phpunit@2.0.1
+- pkg:composer/qratorlabs/smocky-phpunit@2.0.2
+- pkg:composer/qratorlabs/smocky-phpunit@2.0.3

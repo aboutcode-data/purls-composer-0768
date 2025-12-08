@@ -1,0 +1,4 @@
+- pkg:composer/php-xapi/symfony-serializer@v0.1.0
+- pkg:composer/php-xapi/symfony-serializer@v1.0.0
+- pkg:composer/php-xapi/symfony-serializer@v2.0.0
+- pkg:composer/php-xapi/symfony-serializer@v2.1.0

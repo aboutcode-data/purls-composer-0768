@@ -1,0 +1,8 @@
+- pkg:composer/quartz/quartz-service-provider@1.0.1
+- pkg:composer/quartz/quartz-service-provider@3.0.1
+- pkg:composer/quartz/quartz-service-provider@3.0.2
+- pkg:composer/quartz/quartz-service-provider@v0.9.1
+- pkg:composer/quartz/quartz-service-provider@v1.0.0
+- pkg:composer/quartz/quartz-service-provider@v2.0.0
+- pkg:composer/quartz/quartz-service-provider@v2.0.1
+- pkg:composer/quartz/quartz-service-provider@v3.0.0

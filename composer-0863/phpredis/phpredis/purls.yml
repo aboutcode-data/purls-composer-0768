@@ -1,0 +1,5 @@
+- pkg:composer/phpredis/phpredis@6.1.0
+- pkg:composer/phpredis/phpredis@6.1.0RC2
+- pkg:composer/phpredis/phpredis@6.2.0
+- pkg:composer/phpredis/phpredis@6.3.0
+- pkg:composer/phpredis/phpredis@6.3.0RC1

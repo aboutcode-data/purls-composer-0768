@@ -1,0 +1,5 @@
+- pkg:composer/phillx/lumen-rethinkdb@0.1
+- pkg:composer/phillx/lumen-rethinkdb@1.0
+- pkg:composer/phillx/lumen-rethinkdb@2.0
+- pkg:composer/phillx/lumen-rethinkdb@2.1
+- pkg:composer/phillx/lumen-rethinkdb@3.0

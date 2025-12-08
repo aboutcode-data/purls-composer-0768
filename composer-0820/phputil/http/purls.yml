@@ -1,0 +1,6 @@
+- pkg:composer/phputil/http@1.0
+- pkg:composer/phputil/http@1.1
+- pkg:composer/phputil/http@1.2
+- pkg:composer/phputil/http@1.3
+- pkg:composer/phputil/http@1.4
+- pkg:composer/phputil/http@1.5

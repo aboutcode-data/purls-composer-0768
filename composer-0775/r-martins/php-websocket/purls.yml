@@ -1,0 +1,5 @@
+- pkg:composer/r-martins/php-websocket@v2.0.1
+- pkg:composer/r-martins/php-websocket@v2.1.0
+- pkg:composer/r-martins/php-websocket@v3.0.0
+- pkg:composer/r-martins/php-websocket@v3.1.0
+- pkg:composer/r-martins/php-websocket@v3.1.1

@@ -1,0 +1,5 @@
+- pkg:composer/proget-hq/phpstan-phpspec@0.1.0
+- pkg:composer/proget-hq/phpstan-phpspec@0.1.1
+- pkg:composer/proget-hq/phpstan-phpspec@0.2.0
+- pkg:composer/proget-hq/phpstan-phpspec@0.2.1
+- pkg:composer/proget-hq/phpstan-phpspec@0.3.0

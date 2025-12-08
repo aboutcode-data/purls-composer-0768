@@ -1,0 +1,4 @@
+- pkg:composer/primetime/wp-plugin-activation-manifest@v0.1
+- pkg:composer/primetime/wp-plugin-activation-manifest@v1.0
+- pkg:composer/primetime/wp-plugin-activation-manifest@v1.1
+- pkg:composer/primetime/wp-plugin-activation-manifest@v1.1.1

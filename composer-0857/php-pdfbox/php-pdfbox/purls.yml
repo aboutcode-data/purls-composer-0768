@@ -1,0 +1,8 @@
+- pkg:composer/php-pdfbox/php-pdfbox@1.0.0
+- pkg:composer/php-pdfbox/php-pdfbox@v1.0.1
+- pkg:composer/php-pdfbox/php-pdfbox@v1.0.4
+- pkg:composer/php-pdfbox/php-pdfbox@v2.0.0
+- pkg:composer/php-pdfbox/php-pdfbox@v2.0.1
+- pkg:composer/php-pdfbox/php-pdfbox@v2.0.2
+- pkg:composer/php-pdfbox/php-pdfbox@v2.0.3
+- pkg:composer/php-pdfbox/php-pdfbox@v2.0.4

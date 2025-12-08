@@ -1,0 +1,9 @@
+- pkg:composer/prestashop/circuit-breaker@v1.0
+- pkg:composer/prestashop/circuit-breaker@v1.1
+- pkg:composer/prestashop/circuit-breaker@v1.1.1
+- pkg:composer/prestashop/circuit-breaker@v2.0.0
+- pkg:composer/prestashop/circuit-breaker@v3.0.0
+- pkg:composer/prestashop/circuit-breaker@v4.0.0
+- pkg:composer/prestashop/circuit-breaker@v4.0.1
+- pkg:composer/prestashop/circuit-breaker@v4.0.2
+- pkg:composer/prestashop/circuit-breaker@v4.0.3

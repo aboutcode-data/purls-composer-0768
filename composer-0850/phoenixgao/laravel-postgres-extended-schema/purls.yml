@@ -1,0 +1,15 @@
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.1
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.10
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.11
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.12
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.13
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.14
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.15
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.2
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.3
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.4
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.5
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.6
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.7
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.8
+- pkg:composer/phoenixgao/laravel-postgres-extended-schema@0.9

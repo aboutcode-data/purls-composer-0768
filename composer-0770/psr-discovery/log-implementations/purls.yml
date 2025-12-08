@@ -1,0 +1,3 @@
+- pkg:composer/psr-discovery/log-implementations@1.0.0
+- pkg:composer/psr-discovery/log-implementations@1.0.1
+- pkg:composer/psr-discovery/log-implementations@1.1.0

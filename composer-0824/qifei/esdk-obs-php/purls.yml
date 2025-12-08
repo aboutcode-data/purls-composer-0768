@@ -1,0 +1,14 @@
+- pkg:composer/qifei/esdk-obs-php@3.19.9.1
+- pkg:composer/qifei/esdk-obs-php@3.19.9.2
+- pkg:composer/qifei/esdk-obs-php@3.19.9.3
+- pkg:composer/qifei/esdk-obs-php@3.21.6.1
+- pkg:composer/qifei/esdk-obs-php@3.21.6.2
+- pkg:composer/qifei/esdk-obs-php@3.22.6.1
+- pkg:composer/qifei/esdk-obs-php@3.22.6.2
+- pkg:composer/qifei/esdk-obs-php@3.22.6.3
+- pkg:composer/qifei/esdk-obs-php@3.23.11.1
+- pkg:composer/qifei/esdk-obs-php@3.23.11.2
+- pkg:composer/qifei/esdk-obs-php@3.23.11.3
+- pkg:composer/qifei/esdk-obs-php@3.23.11.4
+- pkg:composer/qifei/esdk-obs-php@3.23.11.5
+- pkg:composer/qifei/esdk-obs-php@3.23.5.1

@@ -1,0 +1,8 @@
+- pkg:composer/php-kit/composer-expose-packages-plugin@1.0.0
+- pkg:composer/php-kit/composer-expose-packages-plugin@1.1.0
+- pkg:composer/php-kit/composer-expose-packages-plugin@1.2.0
+- pkg:composer/php-kit/composer-expose-packages-plugin@1.3.0
+- pkg:composer/php-kit/composer-expose-packages-plugin@2.0.0
+- pkg:composer/php-kit/composer-expose-packages-plugin@2.1.0
+- pkg:composer/php-kit/composer-expose-packages-plugin@2.1.4
+- pkg:composer/php-kit/composer-expose-packages-plugin@2.2.0

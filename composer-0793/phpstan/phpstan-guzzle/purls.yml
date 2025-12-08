@@ -1,0 +1,2 @@
+- pkg:composer/phpstan/phpstan-guzzle@0.6.3
+- pkg:composer/phpstan/phpstan-guzzle@0.7

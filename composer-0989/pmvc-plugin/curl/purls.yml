@@ -1,0 +1,14 @@
+- pkg:composer/pmvc-plugin/curl@0.3.37
+- pkg:composer/pmvc-plugin/curl@0.4.11
+- pkg:composer/pmvc-plugin/curl@0.4.13
+- pkg:composer/pmvc-plugin/curl@0.4.16
+- pkg:composer/pmvc-plugin/curl@0.4.17
+- pkg:composer/pmvc-plugin/curl@0.5.16
+- pkg:composer/pmvc-plugin/curl@0.5.17
+- pkg:composer/pmvc-plugin/curl@0.5.21
+- pkg:composer/pmvc-plugin/curl@0.5.25
+- pkg:composer/pmvc-plugin/curl@0.5.26
+- pkg:composer/pmvc-plugin/curl@0.5.27
+- pkg:composer/pmvc-plugin/curl@0.5.6
+- pkg:composer/pmvc-plugin/curl@0.6.3
+- pkg:composer/pmvc-plugin/curl@0.6.4

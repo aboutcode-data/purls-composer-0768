@@ -1,0 +1,4 @@
+- pkg:composer/php-etl/akeneo-expression-language@0.1.0
+- pkg:composer/php-etl/akeneo-expression-language@0.1.1
+- pkg:composer/php-etl/akeneo-expression-language@0.3.0
+- pkg:composer/php-etl/akeneo-expression-language@0.3.1

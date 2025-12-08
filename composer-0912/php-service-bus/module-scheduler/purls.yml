@@ -1,0 +1,14 @@
+- pkg:composer/php-service-bus/module-scheduler@3.2.0
+- pkg:composer/php-service-bus/module-scheduler@v3.0.2
+- pkg:composer/php-service-bus/module-scheduler@v3.0.7
+- pkg:composer/php-service-bus/module-scheduler@v3.0.8
+- pkg:composer/php-service-bus/module-scheduler@v3.1.0
+- pkg:composer/php-service-bus/module-scheduler@v3.2.3
+- pkg:composer/php-service-bus/module-scheduler@v3.3.1
+- pkg:composer/php-service-bus/module-scheduler@v3.3.3
+- pkg:composer/php-service-bus/module-scheduler@v4.0.0
+- pkg:composer/php-service-bus/module-scheduler@v4.0.1
+- pkg:composer/php-service-bus/module-scheduler@v4.0.2
+- pkg:composer/php-service-bus/module-scheduler@v4.0.3
+- pkg:composer/php-service-bus/module-scheduler@v4.0.4
+- pkg:composer/php-service-bus/module-scheduler@v4.1.0

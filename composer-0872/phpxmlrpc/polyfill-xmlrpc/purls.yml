@@ -1,0 +1,4 @@
+- pkg:composer/phpxmlrpc/polyfill-xmlrpc@1.0.0
+- pkg:composer/phpxmlrpc/polyfill-xmlrpc@1.0.0-alpha
+- pkg:composer/phpxmlrpc/polyfill-xmlrpc@1.0.0-beta
+- pkg:composer/phpxmlrpc/polyfill-xmlrpc@1.0.0-rc1

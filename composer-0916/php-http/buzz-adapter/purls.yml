@@ -1,0 +1,4 @@
+- pkg:composer/php-http/buzz-adapter@0.1.0
+- pkg:composer/php-http/buzz-adapter@1.0.0
+- pkg:composer/php-http/buzz-adapter@v0.2.0
+- pkg:composer/php-http/buzz-adapter@v0.3.0

@@ -1,0 +1,5 @@
+- pkg:composer/pmc/acl@0.7
+- pkg:composer/pmc/acl@0.8
+- pkg:composer/pmc/acl@0.9
+- pkg:composer/pmc/acl@v0.5
+- pkg:composer/pmc/acl@v0.6

@@ -1,0 +1,5 @@
+- pkg:composer/php-contrib/migration-runner@0.1.0
+- pkg:composer/php-contrib/migration-runner@1.0.0
+- pkg:composer/php-contrib/migration-runner@2.0.0
+- pkg:composer/php-contrib/migration-runner@2.0.1
+- pkg:composer/php-contrib/migration-runner@2.1.0

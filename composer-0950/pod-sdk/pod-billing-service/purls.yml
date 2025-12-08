@@ -1,0 +1,8 @@
+- pkg:composer/pod-sdk/pod-billing-service@1.0.0
+- pkg:composer/pod-sdk/pod-billing-service@2.0.0
+- pkg:composer/pod-sdk/pod-billing-service@2.1.0
+- pkg:composer/pod-sdk/pod-billing-service@3.0
+- pkg:composer/pod-sdk/pod-billing-service@3.0.1
+- pkg:composer/pod-sdk/pod-billing-service@3.0.2
+- pkg:composer/pod-sdk/pod-billing-service@4.0.0
+- pkg:composer/pod-sdk/pod-billing-service@4.1.0

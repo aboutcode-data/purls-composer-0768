@@ -1,0 +1,15 @@
+- pkg:composer/protect/sql-query-protection@v1.1.0
+- pkg:composer/protect/sql-query-protection@v1.1.1
+- pkg:composer/protect/sql-query-protection@v1.2.0
+- pkg:composer/protect/sql-query-protection@v2.0.0
+- pkg:composer/protect/sql-query-protection@v3.0.0
+- pkg:composer/protect/sql-query-protection@v3.0.1
+- pkg:composer/protect/sql-query-protection@v3.0.2
+- pkg:composer/protect/sql-query-protection@v3.0.3
+- pkg:composer/protect/sql-query-protection@v3.0.4
+- pkg:composer/protect/sql-query-protection@v3.0.5
+- pkg:composer/protect/sql-query-protection@v4.0.0
+- pkg:composer/protect/sql-query-protection@v4.0.1
+- pkg:composer/protect/sql-query-protection@v4.0.2
+- pkg:composer/protect/sql-query-protection@v5.0.0
+- pkg:composer/protect/sql-query-protection@v6.0.0

@@ -1,0 +1,5 @@
+- pkg:composer/pimcore/compatibility-bridge-v10@1.0.0-RC1
+- pkg:composer/pimcore/compatibility-bridge-v10@v1.0.0
+- pkg:composer/pimcore/compatibility-bridge-v10@v1.1.0
+- pkg:composer/pimcore/compatibility-bridge-v10@v2.0.0
+- pkg:composer/pimcore/compatibility-bridge-v10@v2.0.0-RC1

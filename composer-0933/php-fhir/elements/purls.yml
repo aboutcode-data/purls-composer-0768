@@ -1,0 +1,5 @@
+- pkg:composer/php-fhir/elements@0.0.82.0
+- pkg:composer/php-fhir/elements@0.0.82.1
+- pkg:composer/php-fhir/elements@0.0.82.2
+- pkg:composer/php-fhir/elements@0.0.82.3
+- pkg:composer/php-fhir/elements@0.0.82.4

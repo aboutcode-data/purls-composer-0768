@@ -1,0 +1,5 @@
+- pkg:composer/php-statsd-client/php-statsd-client@0.8.0
+- pkg:composer/php-statsd-client/php-statsd-client@0.8.1
+- pkg:composer/php-statsd-client/php-statsd-client@0.8.2
+- pkg:composer/php-statsd-client/php-statsd-client@0.9.0
+- pkg:composer/php-statsd-client/php-statsd-client@1.0.0

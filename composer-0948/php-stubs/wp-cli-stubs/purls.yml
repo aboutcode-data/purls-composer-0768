@@ -1,0 +1,12 @@
+- pkg:composer/php-stubs/wp-cli-stubs@v2.1.0
+- pkg:composer/php-stubs/wp-cli-stubs@v2.10.0
+- pkg:composer/php-stubs/wp-cli-stubs@v2.11.0
+- pkg:composer/php-stubs/wp-cli-stubs@v2.12.0
+- pkg:composer/php-stubs/wp-cli-stubs@v2.2.0
+- pkg:composer/php-stubs/wp-cli-stubs@v2.3.0
+- pkg:composer/php-stubs/wp-cli-stubs@v2.4.0
+- pkg:composer/php-stubs/wp-cli-stubs@v2.5.0
+- pkg:composer/php-stubs/wp-cli-stubs@v2.6.0
+- pkg:composer/php-stubs/wp-cli-stubs@v2.7.0
+- pkg:composer/php-stubs/wp-cli-stubs@v2.8.0
+- pkg:composer/php-stubs/wp-cli-stubs@v2.9.0

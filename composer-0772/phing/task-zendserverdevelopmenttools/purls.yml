@@ -1,0 +1,5 @@
+- pkg:composer/phing/task-zendserverdevelopmenttools@3.0.0
+- pkg:composer/phing/task-zendserverdevelopmenttools@3.0.0-rc5
+- pkg:composer/phing/task-zendserverdevelopmenttools@3.0.0-rc6
+- pkg:composer/phing/task-zendserverdevelopmenttools@3.0.1
+- pkg:composer/phing/task-zendserverdevelopmenttools@3.1.0

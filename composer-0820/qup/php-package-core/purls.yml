@@ -1,0 +1,7 @@
+- pkg:composer/qup/php-package-core@1.0
+- pkg:composer/qup/php-package-core@1.1
+- pkg:composer/qup/php-package-core@1.2
+- pkg:composer/qup/php-package-core@1.3
+- pkg:composer/qup/php-package-core@1.4
+- pkg:composer/qup/php-package-core@1.5
+- pkg:composer/qup/php-package-core@1.6

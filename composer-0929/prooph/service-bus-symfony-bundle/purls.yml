@@ -1,0 +1,9 @@
+- pkg:composer/prooph/service-bus-symfony-bundle@v0.2
+- pkg:composer/prooph/service-bus-symfony-bundle@v0.3
+- pkg:composer/prooph/service-bus-symfony-bundle@v0.3.1
+- pkg:composer/prooph/service-bus-symfony-bundle@v0.4
+- pkg:composer/prooph/service-bus-symfony-bundle@v0.4.1
+- pkg:composer/prooph/service-bus-symfony-bundle@v0.5
+- pkg:composer/prooph/service-bus-symfony-bundle@v0.5.1
+- pkg:composer/prooph/service-bus-symfony-bundle@v0.6.0
+- pkg:composer/prooph/service-bus-symfony-bundle@v0.7.0

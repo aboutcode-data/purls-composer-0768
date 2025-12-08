@@ -1,0 +1,11 @@
+- pkg:composer/photon/session-mongodb@1.0
+- pkg:composer/photon/session-mongodb@1.0.1
+- pkg:composer/photon/session-mongodb@1.0.5
+- pkg:composer/photon/session-mongodb@v1.0.6
+- pkg:composer/photon/session-mongodb@v1.0.7
+- pkg:composer/photon/session-mongodb@v1.0.8
+- pkg:composer/photon/session-mongodb@v1.0.9
+- pkg:composer/photon/session-mongodb@v2.0.0
+- pkg:composer/photon/session-mongodb@v2.0.1
+- pkg:composer/photon/session-mongodb@v2.1.0
+- pkg:composer/photon/session-mongodb@v2.1.1

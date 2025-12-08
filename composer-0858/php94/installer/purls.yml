@@ -1,0 +1,4 @@
+- pkg:composer/php94/installer@1.0.0
+- pkg:composer/php94/installer@1.0.1
+- pkg:composer/php94/installer@1.0.3
+- pkg:composer/php94/installer@1.0.4

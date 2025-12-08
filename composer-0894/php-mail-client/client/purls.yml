@@ -1,0 +1,8 @@
+- pkg:composer/php-mail-client/client@1.0.0
+- pkg:composer/php-mail-client/client@1.1.0
+- pkg:composer/php-mail-client/client@3.0.0
+- pkg:composer/php-mail-client/client@3.1.0
+- pkg:composer/php-mail-client/client@3.2.0
+- pkg:composer/php-mail-client/client@3.2.1
+- pkg:composer/php-mail-client/client@3.2.2
+- pkg:composer/php-mail-client/client@3.2.2a

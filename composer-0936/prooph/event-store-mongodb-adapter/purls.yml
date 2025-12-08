@@ -1,0 +1,16 @@
+- pkg:composer/prooph/event-store-mongodb-adapter@v0.1
+- pkg:composer/prooph/event-store-mongodb-adapter@v1.0
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.0
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.0-beta.1
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.0.1
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.0.2
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.0.3
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.1.0
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.1.1
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.2.0
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.3.0
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.4.0
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.4.1
+- pkg:composer/prooph/event-store-mongodb-adapter@v2.5.0
+- pkg:composer/prooph/event-store-mongodb-adapter@v3.0.0
+- pkg:composer/prooph/event-store-mongodb-adapter@v3.0.1

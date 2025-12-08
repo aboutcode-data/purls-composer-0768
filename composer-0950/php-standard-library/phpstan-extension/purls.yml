@@ -1,0 +1,5 @@
+- pkg:composer/php-standard-library/phpstan-extension@1.0.0
+- pkg:composer/php-standard-library/phpstan-extension@1.1.0
+- pkg:composer/php-standard-library/phpstan-extension@2.0.0
+- pkg:composer/php-standard-library/phpstan-extension@2.0.1
+- pkg:composer/php-standard-library/phpstan-extension@2.0.2

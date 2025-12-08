@@ -1,0 +1,4 @@
+- pkg:composer/prestashop/module-lib-mbo-installer@v0.1
+- pkg:composer/prestashop/module-lib-mbo-installer@v1.0.0
+- pkg:composer/prestashop/module-lib-mbo-installer@v2.0.0
+- pkg:composer/prestashop/module-lib-mbo-installer@v3.0.0

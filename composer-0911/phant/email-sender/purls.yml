@@ -1,0 +1,12 @@
+- pkg:composer/phant/email-sender@1.0
+- pkg:composer/phant/email-sender@1.1
+- pkg:composer/phant/email-sender@1.2
+- pkg:composer/phant/email-sender@1.3
+- pkg:composer/phant/email-sender@2.0
+- pkg:composer/phant/email-sender@2.1
+- pkg:composer/phant/email-sender@2.2
+- pkg:composer/phant/email-sender@2.3
+- pkg:composer/phant/email-sender@2.4
+- pkg:composer/phant/email-sender@3.0
+- pkg:composer/phant/email-sender@3.1
+- pkg:composer/phant/email-sender@3.2

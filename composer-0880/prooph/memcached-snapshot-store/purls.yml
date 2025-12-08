@@ -1,0 +1,2 @@
+- pkg:composer/prooph/memcached-snapshot-store@v1.0.0
+- pkg:composer/prooph/memcached-snapshot-store@v1.1.0

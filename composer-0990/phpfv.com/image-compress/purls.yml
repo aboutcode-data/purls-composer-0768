@@ -1,0 +1,4 @@
+- pkg:composer/phpfv.com/image-compress@v2.0
+- pkg:composer/phpfv.com/image-compress@v3.0
+- pkg:composer/phpfv.com/image-compress@v4.0
+- pkg:composer/phpfv.com/image-compress@v5.0

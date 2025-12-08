@@ -1,0 +1,3 @@
+- pkg:composer/prokki/htpasswd@0.0
+- pkg:composer/prokki/htpasswd@0.1
+- pkg:composer/prokki/htpasswd@1.0

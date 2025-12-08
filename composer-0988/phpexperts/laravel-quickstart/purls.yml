@@ -1,0 +1,8 @@
+- pkg:composer/phpexperts/laravel-quickstart@v1.0.0%2Bphp7.2.2%2Blaravel5.5
+- pkg:composer/phpexperts/laravel-quickstart@v1.2.0%2Bphp7.4%2Blaravel7.0
+- pkg:composer/phpexperts/laravel-quickstart@v1.2.1%2Bphp7.4%2Blaravel8.0
+- pkg:composer/phpexperts/laravel-quickstart@v1.3.0
+- pkg:composer/phpexperts/laravel-quickstart@v1.5.0
+- pkg:composer/phpexperts/laravel-quickstart@v1.5.1
+- pkg:composer/phpexperts/laravel-quickstart@v1.6.0
+- pkg:composer/phpexperts/laravel-quickstart@v1.7.0

@@ -1,0 +1,11 @@
+- pkg:composer/pmg/pheanstalk-bundle@1.0.0
+- pkg:composer/pmg/pheanstalk-bundle@1.0.1
+- pkg:composer/pmg/pheanstalk-bundle@1.1.0
+- pkg:composer/pmg/pheanstalk-bundle@v2.0.0
+- pkg:composer/pmg/pheanstalk-bundle@v2.0.0-RC1
+- pkg:composer/pmg/pheanstalk-bundle@v2.0.1
+- pkg:composer/pmg/pheanstalk-bundle@v3.0.0
+- pkg:composer/pmg/pheanstalk-bundle@v4.0.0
+- pkg:composer/pmg/pheanstalk-bundle@v4.1.0
+- pkg:composer/pmg/pheanstalk-bundle@v4.2.0
+- pkg:composer/pmg/pheanstalk-bundle@v5.0.0

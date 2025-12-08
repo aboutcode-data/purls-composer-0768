@@ -1,0 +1,17 @@
+- pkg:composer/phpunit/phpunit-dom-assertions@v0.1.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v2.0.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v2.0.1
+- pkg:composer/phpunit/phpunit-dom-assertions@v2.2.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v2.2.2
+- pkg:composer/phpunit/phpunit-dom-assertions@v2.3.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v2.4.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v2.5.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v2.6.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v3.0.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v3.1.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v3.2.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v3.3.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v3.4.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v3.5.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v3.6.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v3.7.0
