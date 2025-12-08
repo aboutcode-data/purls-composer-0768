@@ -1,0 +1,8 @@
+- pkg:composer/kloutit/kloutit-sdk-php@1.0.0
+- pkg:composer/kloutit/kloutit-sdk-php@2.0.0
+- pkg:composer/kloutit/kloutit-sdk-php@2.1.0
+- pkg:composer/kloutit/kloutit-sdk-php@3.0.0
+- pkg:composer/kloutit/kloutit-sdk-php@4.0.0
+- pkg:composer/kloutit/kloutit-sdk-php@4.0.0-beta.1
+- pkg:composer/kloutit/kloutit-sdk-php@4.0.1
+- pkg:composer/kloutit/kloutit-sdk-php@4.1.0

@@ -1,0 +1,7 @@
+- pkg:composer/kisphp/symfony-database@1.0.0
+- pkg:composer/kisphp/symfony-database@1.0.1
+- pkg:composer/kisphp/symfony-database@1.0.2
+- pkg:composer/kisphp/symfony-database@1.1.0
+- pkg:composer/kisphp/symfony-database@2.0.0
+- pkg:composer/kisphp/symfony-database@2.1.0
+- pkg:composer/kisphp/symfony-database@2.1.1

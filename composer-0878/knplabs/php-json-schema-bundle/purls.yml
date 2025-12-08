@@ -1,0 +1,13 @@
+- pkg:composer/knplabs/php-json-schema-bundle@v0.0.1
+- pkg:composer/knplabs/php-json-schema-bundle@v0.0.1-beta1
+- pkg:composer/knplabs/php-json-schema-bundle@v0.0.2
+- pkg:composer/knplabs/php-json-schema-bundle@v0.0.2-alpha0
+- pkg:composer/knplabs/php-json-schema-bundle@v0.0.2-alpha1
+- pkg:composer/knplabs/php-json-schema-bundle@v0.0.2-alpha2
+- pkg:composer/knplabs/php-json-schema-bundle@v0.0.2-alpha3
+- pkg:composer/knplabs/php-json-schema-bundle@v0.0.3
+- pkg:composer/knplabs/php-json-schema-bundle@v0.1.0
+- pkg:composer/knplabs/php-json-schema-bundle@v0.2.0
+- pkg:composer/knplabs/php-json-schema-bundle@v0.2.1
+- pkg:composer/knplabs/php-json-schema-bundle@v0.3.0
+- pkg:composer/knplabs/php-json-schema-bundle@v0.4.0

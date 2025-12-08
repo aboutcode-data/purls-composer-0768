@@ -1,0 +1,4 @@
+- pkg:composer/kvaksrud/ibm-cos-laravel@v0.2.0-alpha
+- pkg:composer/kvaksrud/ibm-cos-laravel@v0.3.0
+- pkg:composer/kvaksrud/ibm-cos-laravel@v0.3.1
+- pkg:composer/kvaksrud/ibm-cos-laravel@v0.3.2

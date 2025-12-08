@@ -1,0 +1,5 @@
+- pkg:composer/knplabs/console-service-provider@1.1
+- pkg:composer/knplabs/console-service-provider@2.0
+- pkg:composer/knplabs/console-service-provider@v1.0
+- pkg:composer/knplabs/console-service-provider@v2.1.0
+- pkg:composer/knplabs/console-service-provider@v2.2.0

@@ -1,0 +1,15 @@
+- pkg:composer/k-ko/slim3-session-middleware@0.1.0
+- pkg:composer/k-ko/slim3-session-middleware@v0.2.0
+- pkg:composer/k-ko/slim3-session-middleware@v0.3.0
+- pkg:composer/k-ko/slim3-session-middleware@v0.4.0
+- pkg:composer/k-ko/slim3-session-middleware@v0.5.0
+- pkg:composer/k-ko/slim3-session-middleware@v0.5.1
+- pkg:composer/k-ko/slim3-session-middleware@v0.5.2
+- pkg:composer/k-ko/slim3-session-middleware@v0.6.0
+- pkg:composer/k-ko/slim3-session-middleware@v0.6.1
+- pkg:composer/k-ko/slim3-session-middleware@v0.6.2
+- pkg:composer/k-ko/slim3-session-middleware@v0.7.0
+- pkg:composer/k-ko/slim3-session-middleware@v0.7.1
+- pkg:composer/k-ko/slim3-session-middleware@v0.8.0
+- pkg:composer/k-ko/slim3-session-middleware@v0.8.1
+- pkg:composer/k-ko/slim3-session-middleware@v0.8.2

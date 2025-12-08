@@ -1,0 +1,5 @@
+- pkg:composer/keboola/phpunit-retry-annotations@v0.1
+- pkg:composer/keboola/phpunit-retry-annotations@v0.2
+- pkg:composer/keboola/phpunit-retry-annotations@v0.3
+- pkg:composer/keboola/phpunit-retry-annotations@v0.4
+- pkg:composer/keboola/phpunit-retry-annotations@v0.5

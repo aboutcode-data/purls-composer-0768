@@ -1,0 +1,4 @@
+- pkg:composer/koo/laravel-queue-kafka@0.2.0
+- pkg:composer/koo/laravel-queue-kafka@v0.2.1
+- pkg:composer/koo/laravel-queue-kafka@v0.2.2
+- pkg:composer/koo/laravel-queue-kafka@v0.2.3

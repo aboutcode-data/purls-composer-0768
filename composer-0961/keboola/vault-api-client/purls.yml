@@ -1,0 +1,4 @@
+- pkg:composer/keboola/vault-api-client@0.1.0
+- pkg:composer/keboola/vault-api-client@0.1.1
+- pkg:composer/keboola/vault-api-client@1.0.0
+- pkg:composer/keboola/vault-api-client@1.0.1

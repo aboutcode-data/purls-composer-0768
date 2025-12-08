@@ -1,0 +1,4 @@
+- pkg:composer/lampol/sphinx@v1
+- pkg:composer/lampol/sphinx@v2
+- pkg:composer/lampol/sphinx@v3
+- pkg:composer/lampol/sphinx@v4

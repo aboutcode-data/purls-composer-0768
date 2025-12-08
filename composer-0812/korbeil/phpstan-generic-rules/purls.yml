@@ -1,0 +1,11 @@
+- pkg:composer/korbeil/phpstan-generic-rules@v0.1.0
+- pkg:composer/korbeil/phpstan-generic-rules@v0.2.0
+- pkg:composer/korbeil/phpstan-generic-rules@v0.2.1
+- pkg:composer/korbeil/phpstan-generic-rules@v0.2.2
+- pkg:composer/korbeil/phpstan-generic-rules@v0.2.3
+- pkg:composer/korbeil/phpstan-generic-rules@v0.2.4
+- pkg:composer/korbeil/phpstan-generic-rules@v1.0.0
+- pkg:composer/korbeil/phpstan-generic-rules@v1.0.1
+- pkg:composer/korbeil/phpstan-generic-rules@v2.0.0
+- pkg:composer/korbeil/phpstan-generic-rules@v2.0.1
+- pkg:composer/korbeil/phpstan-generic-rules@v2.1.0

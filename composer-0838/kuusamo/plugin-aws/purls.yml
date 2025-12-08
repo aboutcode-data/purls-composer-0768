@@ -1,0 +1,4 @@
+- pkg:composer/kuusamo/plugin-aws@1.0.0
+- pkg:composer/kuusamo/plugin-aws@1.0.1
+- pkg:composer/kuusamo/plugin-aws@2.0.0
+- pkg:composer/kuusamo/plugin-aws@2.0.1

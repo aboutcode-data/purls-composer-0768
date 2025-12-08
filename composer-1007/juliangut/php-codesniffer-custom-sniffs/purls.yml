@@ -1,0 +1,3 @@
+- pkg:composer/juliangut/php-codesniffer-custom-sniffs@1.0
+- pkg:composer/juliangut/php-codesniffer-custom-sniffs@1.1
+- pkg:composer/juliangut/php-codesniffer-custom-sniffs@1.2

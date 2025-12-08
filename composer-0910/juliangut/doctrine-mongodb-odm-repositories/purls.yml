@@ -1,0 +1,4 @@
+- pkg:composer/juliangut/doctrine-mongodb-odm-repositories@0.1
+- pkg:composer/juliangut/doctrine-mongodb-odm-repositories@0.3
+- pkg:composer/juliangut/doctrine-mongodb-odm-repositories@0.4
+- pkg:composer/juliangut/doctrine-mongodb-odm-repositories@0.5

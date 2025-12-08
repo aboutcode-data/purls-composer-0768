@@ -1,0 +1,15 @@
+- pkg:composer/kriptiko/laravel-vue-table@v0.0.1-beta
+- pkg:composer/kriptiko/laravel-vue-table@v0.0.2-beta
+- pkg:composer/kriptiko/laravel-vue-table@v0.0.3-beta
+- pkg:composer/kriptiko/laravel-vue-table@v1.0.0
+- pkg:composer/kriptiko/laravel-vue-table@v1.0.1
+- pkg:composer/kriptiko/laravel-vue-table@v1.0.2
+- pkg:composer/kriptiko/laravel-vue-table@v1.1.0
+- pkg:composer/kriptiko/laravel-vue-table@v1.1.1
+- pkg:composer/kriptiko/laravel-vue-table@v2.0.0
+- pkg:composer/kriptiko/laravel-vue-table@v2.0.1
+- pkg:composer/kriptiko/laravel-vue-table@v2.1.0
+- pkg:composer/kriptiko/laravel-vue-table@v2.1.1
+- pkg:composer/kriptiko/laravel-vue-table@v2.2.0
+- pkg:composer/kriptiko/laravel-vue-table@v2.2.1
+- pkg:composer/kriptiko/laravel-vue-table@v2.3.0

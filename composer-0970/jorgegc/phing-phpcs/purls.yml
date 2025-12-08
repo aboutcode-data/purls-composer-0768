@@ -1,0 +1,4 @@
+- pkg:composer/jorgegc/phing-phpcs@1.0.0
+- pkg:composer/jorgegc/phing-phpcs@2.0.0
+- pkg:composer/jorgegc/phing-phpcs@2.1.0
+- pkg:composer/jorgegc/phing-phpcs@2.1.1

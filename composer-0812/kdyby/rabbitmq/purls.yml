@@ -1,0 +1,10 @@
+- pkg:composer/kdyby/rabbitmq@v0.1
+- pkg:composer/kdyby/rabbitmq@v1.0
+- pkg:composer/kdyby/rabbitmq@v1.1.0
+- pkg:composer/kdyby/rabbitmq@v1.2.0
+- pkg:composer/kdyby/rabbitmq@v2.0.0
+- pkg:composer/kdyby/rabbitmq@v2.0.1
+- pkg:composer/kdyby/rabbitmq@v2.0.2
+- pkg:composer/kdyby/rabbitmq@v3.0.0
+- pkg:composer/kdyby/rabbitmq@v3.0.0-rc
+- pkg:composer/kdyby/rabbitmq@v3.1.0

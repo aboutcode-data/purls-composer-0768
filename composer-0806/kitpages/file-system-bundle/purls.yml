@@ -1,0 +1,15 @@
+- pkg:composer/kitpages/file-system-bundle@v2.0
+- pkg:composer/kitpages/file-system-bundle@v2.1.0
+- pkg:composer/kitpages/file-system-bundle@v2.1.0BETA1
+- pkg:composer/kitpages/file-system-bundle@v2.1.0BETA2
+- pkg:composer/kitpages/file-system-bundle@v2.1.0BETA3
+- pkg:composer/kitpages/file-system-bundle@v2.1.0BETA4
+- pkg:composer/kitpages/file-system-bundle@v2.1.0BETA5
+- pkg:composer/kitpages/file-system-bundle@v2.1.0RC1
+- pkg:composer/kitpages/file-system-bundle@v3.0.0
+- pkg:composer/kitpages/file-system-bundle@v3.1.0
+- pkg:composer/kitpages/file-system-bundle@v3.1.1
+- pkg:composer/kitpages/file-system-bundle@v3.1.2
+- pkg:composer/kitpages/file-system-bundle@v3.2.0
+- pkg:composer/kitpages/file-system-bundle@v3.2.1
+- pkg:composer/kitpages/file-system-bundle@v4.0.0

@@ -1,0 +1,11 @@
+- pkg:composer/kaliop/queueingbundle-sqs@v0.10.0
+- pkg:composer/kaliop/queueingbundle-sqs@v0.10.1
+- pkg:composer/kaliop/queueingbundle-sqs@v0.2.0
+- pkg:composer/kaliop/queueingbundle-sqs@v0.2.1
+- pkg:composer/kaliop/queueingbundle-sqs@v0.3.0
+- pkg:composer/kaliop/queueingbundle-sqs@v0.4.0
+- pkg:composer/kaliop/queueingbundle-sqs@v0.5.0
+- pkg:composer/kaliop/queueingbundle-sqs@v0.6.0
+- pkg:composer/kaliop/queueingbundle-sqs@v0.7.0
+- pkg:composer/kaliop/queueingbundle-sqs@v0.8.0
+- pkg:composer/kaliop/queueingbundle-sqs@v0.9.0

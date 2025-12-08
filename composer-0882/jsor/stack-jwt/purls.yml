@@ -1,0 +1,4 @@
+- pkg:composer/jsor/stack-jwt@v1.0.0
+- pkg:composer/jsor/stack-jwt@v2.0.0
+- pkg:composer/jsor/stack-jwt@v2.1.0
+- pkg:composer/jsor/stack-jwt@v2.2.0

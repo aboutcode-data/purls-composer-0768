@@ -1,0 +1,7 @@
+- pkg:composer/knot-php/module-knot-http@0.1.0
+- pkg:composer/knot-php/module-knot-http@0.1.1
+- pkg:composer/knot-php/module-knot-http@0.2.0
+- pkg:composer/knot-php/module-knot-http@0.2.1
+- pkg:composer/knot-php/module-knot-http@0.2.2
+- pkg:composer/knot-php/module-knot-http@0.3.0
+- pkg:composer/knot-php/module-knot-http@0.4.0

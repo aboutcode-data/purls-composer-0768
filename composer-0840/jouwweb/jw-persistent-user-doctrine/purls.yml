@@ -1,0 +1,10 @@
+- pkg:composer/jouwweb/jw-persistent-user-doctrine@0.5
+- pkg:composer/jouwweb/jw-persistent-user-doctrine@0.6
+- pkg:composer/jouwweb/jw-persistent-user-doctrine@0.7
+- pkg:composer/jouwweb/jw-persistent-user-doctrine@0.8
+- pkg:composer/jouwweb/jw-persistent-user-doctrine@0.9
+- pkg:composer/jouwweb/jw-persistent-user-doctrine@0.9.1
+- pkg:composer/jouwweb/jw-persistent-user-doctrine@1.1
+- pkg:composer/jouwweb/jw-persistent-user-doctrine@v1.2
+- pkg:composer/jouwweb/jw-persistent-user-doctrine@v1.2.1
+- pkg:composer/jouwweb/jw-persistent-user-doctrine@v1.2.2

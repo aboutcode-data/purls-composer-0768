@@ -1,0 +1,17 @@
+- pkg:composer/karrio/karrio-php@2020.10
+- pkg:composer/karrio/karrio-php@2020.11
+- pkg:composer/karrio/karrio-php@2020.6.2
+- pkg:composer/karrio/karrio-php@2020.6.3
+- pkg:composer/karrio/karrio-php@2020.7.0
+- pkg:composer/karrio/karrio-php@2020.8.1
+- pkg:composer/karrio/karrio-php@2020.8.2
+- pkg:composer/karrio/karrio-php@2020.9.0
+- pkg:composer/karrio/karrio-php@2021.0
+- pkg:composer/karrio/karrio-php@2021.10
+- pkg:composer/karrio/karrio-php@2021.10.1
+- pkg:composer/karrio/karrio-php@2021.11
+- pkg:composer/karrio/karrio-php@2021.2
+- pkg:composer/karrio/karrio-php@2021.6
+- pkg:composer/karrio/karrio-php@2021.7
+- pkg:composer/karrio/karrio-php@2021.7.1
+- pkg:composer/karrio/karrio-php@2022.3.0

@@ -1,0 +1,15 @@
+- pkg:composer/kaecyra/app-common@v0.10
+- pkg:composer/kaecyra/app-common@v0.11
+- pkg:composer/kaecyra/app-common@v0.12
+- pkg:composer/kaecyra/app-common@v0.13-beta
+- pkg:composer/kaecyra/app-common@v0.9
+- pkg:composer/kaecyra/app-common@v1.0
+- pkg:composer/kaecyra/app-common@v1.0.1
+- pkg:composer/kaecyra/app-common@v1.0.2
+- pkg:composer/kaecyra/app-common@v1.1.0
+- pkg:composer/kaecyra/app-common@v1.1.1
+- pkg:composer/kaecyra/app-common@v1.1.2
+- pkg:composer/kaecyra/app-common@v1.1.3
+- pkg:composer/kaecyra/app-common@v1.1.4
+- pkg:composer/kaecyra/app-common@v1.1.5
+- pkg:composer/kaecyra/app-common@v1.1.6

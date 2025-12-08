@@ -1,0 +1,3 @@
+- pkg:composer/krakjoe/pthreads-polyfill@v1.0.0
+- pkg:composer/krakjoe/pthreads-polyfill@v1.0.1
+- pkg:composer/krakjoe/pthreads-polyfill@v1.1.0

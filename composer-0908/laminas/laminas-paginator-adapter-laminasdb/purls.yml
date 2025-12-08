@@ -1,0 +1,6 @@
+- pkg:composer/laminas/laminas-paginator-adapter-laminasdb@1.0.0
+- pkg:composer/laminas/laminas-paginator-adapter-laminasdb@1.1.0
+- pkg:composer/laminas/laminas-paginator-adapter-laminasdb@1.2.0
+- pkg:composer/laminas/laminas-paginator-adapter-laminasdb@1.3.0
+- pkg:composer/laminas/laminas-paginator-adapter-laminasdb@1.4.0
+- pkg:composer/laminas/laminas-paginator-adapter-laminasdb@1.4.1

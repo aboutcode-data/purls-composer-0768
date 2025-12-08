@@ -1,0 +1,3 @@
+- pkg:composer/kdyby/doctrine-collections-readonly@v0.1
+- pkg:composer/kdyby/doctrine-collections-readonly@v0.2
+- pkg:composer/kdyby/doctrine-collections-readonly@v1.0.0

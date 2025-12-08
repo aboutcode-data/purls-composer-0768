@@ -1,0 +1,3 @@
+- pkg:composer/kaspiman/opentelemetry-bundle@0.1
+- pkg:composer/kaspiman/opentelemetry-bundle@0.2
+- pkg:composer/kaspiman/opentelemetry-bundle@1.0

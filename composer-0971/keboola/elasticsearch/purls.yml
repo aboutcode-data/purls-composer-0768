@@ -1,0 +1,11 @@
+- pkg:composer/keboola/elasticsearch@v5.90
+- pkg:composer/keboola/elasticsearch@v5.91
+- pkg:composer/keboola/elasticsearch@v5.92
+- pkg:composer/keboola/elasticsearch@v5.93
+- pkg:composer/keboola/elasticsearch@v5.94
+- pkg:composer/keboola/elasticsearch@v5.95
+- pkg:composer/keboola/elasticsearch@v5.95.1
+- pkg:composer/keboola/elasticsearch@v5.95.2
+- pkg:composer/keboola/elasticsearch@v6.00.0
+- pkg:composer/keboola/elasticsearch@v6.00.2
+- pkg:composer/keboola/elasticsearch@v6.00.3
