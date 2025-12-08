@@ -1,0 +1,5 @@
+- pkg:composer/ose1955/rabbitmq-client@0.5.1
+- pkg:composer/ose1955/rabbitmq-client@0.5.2
+- pkg:composer/ose1955/rabbitmq-client@0.5.3
+- pkg:composer/ose1955/rabbitmq-client@0.5.4
+- pkg:composer/ose1955/rabbitmq-client@0.9.0

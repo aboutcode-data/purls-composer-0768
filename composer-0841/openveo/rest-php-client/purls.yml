@@ -1,0 +1,5 @@
+- pkg:composer/openveo/rest-php-client@1.0.0
+- pkg:composer/openveo/rest-php-client@1.0.1
+- pkg:composer/openveo/rest-php-client@1.0.2
+- pkg:composer/openveo/rest-php-client@2.0.0
+- pkg:composer/openveo/rest-php-client@3.0.0

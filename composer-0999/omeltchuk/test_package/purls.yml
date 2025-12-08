@@ -1,0 +1,4 @@
+- pkg:composer/omeltchuk/test_package@1.0.4
+- pkg:composer/omeltchuk/test_package@v1.0.1
+- pkg:composer/omeltchuk/test_package@v1.0.2
+- pkg:composer/omeltchuk/test_package@v1.0.3

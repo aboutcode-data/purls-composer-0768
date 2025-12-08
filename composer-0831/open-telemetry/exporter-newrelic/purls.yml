@@ -1,0 +1,7 @@
+- pkg:composer/open-telemetry/exporter-newrelic@0.0.16
+- pkg:composer/open-telemetry/exporter-newrelic@0.0.17
+- pkg:composer/open-telemetry/exporter-newrelic@1.0.0beta1
+- pkg:composer/open-telemetry/exporter-newrelic@1.0.0beta2
+- pkg:composer/open-telemetry/exporter-newrelic@1.0.0beta3
+- pkg:composer/open-telemetry/exporter-newrelic@1.0.0beta4
+- pkg:composer/open-telemetry/exporter-newrelic@1.0.0beta5

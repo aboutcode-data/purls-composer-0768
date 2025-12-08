@@ -1,0 +1,3 @@
+- pkg:composer/pavel-ekt/docker-wrapper@v1.0
+- pkg:composer/pavel-ekt/docker-wrapper@v1.1
+- pkg:composer/pavel-ekt/docker-wrapper@v1.2

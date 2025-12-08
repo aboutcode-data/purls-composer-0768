@@ -1,0 +1,5 @@
+- pkg:composer/pauci/datetime-doctrine@0.1.0
+- pkg:composer/pauci/datetime-doctrine@0.1.1
+- pkg:composer/pauci/datetime-doctrine@0.2.0
+- pkg:composer/pauci/datetime-doctrine@v0.3.0
+- pkg:composer/pauci/datetime-doctrine@v0.3.1

@@ -1,0 +1,4 @@
+- pkg:composer/northmule/dependency-injection-container@1.0.0
+- pkg:composer/northmule/dependency-injection-container@1.0.1
+- pkg:composer/northmule/dependency-injection-container@2.1.0
+- pkg:composer/northmule/dependency-injection-container@2.1.1

@@ -1,0 +1,17 @@
+- pkg:composer/onion/framework@1.0.0
+- pkg:composer/onion/framework@1.0.0-alpha
+- pkg:composer/onion/framework@1.0.0-beta
+- pkg:composer/onion/framework@1.0.0-rc1
+- pkg:composer/onion/framework@1.0.0-rc2
+- pkg:composer/onion/framework@1.0.0-rc3
+- pkg:composer/onion/framework@1.0.1
+- pkg:composer/onion/framework@1.0.2
+- pkg:composer/onion/framework@1.1.0
+- pkg:composer/onion/framework@2.0.0
+- pkg:composer/onion/framework@2.0.0-rc1
+- pkg:composer/onion/framework@2.0.0-rc2
+- pkg:composer/onion/framework@2.0.0-rc3
+- pkg:composer/onion/framework@2.1.0
+- pkg:composer/onion/framework@2.1.1
+- pkg:composer/onion/framework@2.2.0
+- pkg:composer/onion/framework@2.2.1

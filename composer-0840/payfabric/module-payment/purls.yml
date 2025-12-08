@@ -1,0 +1,5 @@
+- pkg:composer/payfabric/module-payment@1.2.0
+- pkg:composer/payfabric/module-payment@2.0.0
+- pkg:composer/payfabric/module-payment@2.1.0
+- pkg:composer/payfabric/module-payment@2.1.1
+- pkg:composer/payfabric/module-payment@2.1.2

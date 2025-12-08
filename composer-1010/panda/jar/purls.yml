@@ -1,0 +1,16 @@
+- pkg:composer/panda/jar@v1.0
+- pkg:composer/panda/jar@v1.1
+- pkg:composer/panda/jar@v1.1.1
+- pkg:composer/panda/jar@v1.1.2
+- pkg:composer/panda/jar@v1.1.3
+- pkg:composer/panda/jar@v1.1.4
+- pkg:composer/panda/jar@v2.0.0
+- pkg:composer/panda/jar@v2.0.1
+- pkg:composer/panda/jar@v3.0.0
+- pkg:composer/panda/jar@v3.0.1
+- pkg:composer/panda/jar@v3.0.2
+- pkg:composer/panda/jar@v3.0.3
+- pkg:composer/panda/jar@v3.1.0
+- pkg:composer/panda/jar@v4.0.0
+- pkg:composer/panda/jar@v4.0.1
+- pkg:composer/panda/jar@v4.0.2

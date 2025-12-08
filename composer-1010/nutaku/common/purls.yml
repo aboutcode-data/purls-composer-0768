@@ -1,0 +1,4 @@
+- pkg:composer/nutaku/common@v1.0
+- pkg:composer/nutaku/common@v2
+- pkg:composer/nutaku/common@v4.0
+- pkg:composer/nutaku/common@v9.0

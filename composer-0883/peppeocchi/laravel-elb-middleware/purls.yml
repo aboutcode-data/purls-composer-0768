@@ -1,0 +1,3 @@
+- pkg:composer/peppeocchi/laravel-elb-middleware@v1.0
+- pkg:composer/peppeocchi/laravel-elb-middleware@v2.0
+- pkg:composer/peppeocchi/laravel-elb-middleware@v3.0

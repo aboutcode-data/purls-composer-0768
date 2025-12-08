@@ -1,0 +1,4 @@
+- pkg:composer/pestphp/pest-plugin-watch@v2.0.0
+- pkg:composer/pestphp/pest-plugin-watch@v2.0.1
+- pkg:composer/pestphp/pest-plugin-watch@v2.1.0
+- pkg:composer/pestphp/pest-plugin-watch@v3.0.0

@@ -1,0 +1,15 @@
+- pkg:composer/oro/requirejs-bundle@1.0.0
+- pkg:composer/oro/requirejs-bundle@1.0.0-beta2
+- pkg:composer/oro/requirejs-bundle@1.0.0-beta3
+- pkg:composer/oro/requirejs-bundle@1.0.0-beta4
+- pkg:composer/oro/requirejs-bundle@1.0.0-beta5
+- pkg:composer/oro/requirejs-bundle@1.0.0-rc1
+- pkg:composer/oro/requirejs-bundle@1.0.0-rc2
+- pkg:composer/oro/requirejs-bundle@1.0.0-rc3
+- pkg:composer/oro/requirejs-bundle@1.0.1
+- pkg:composer/oro/requirejs-bundle@1.1.0
+- pkg:composer/oro/requirejs-bundle@1.1.1
+- pkg:composer/oro/requirejs-bundle@1.2.0
+- pkg:composer/oro/requirejs-bundle@1.2.0-rc1
+- pkg:composer/oro/requirejs-bundle@1.3.0
+- pkg:composer/oro/requirejs-bundle@1.3.1

@@ -1,0 +1,14 @@
+- pkg:composer/pallino/docker-php@0.0.1
+- pkg:composer/pallino/docker-php@0.0.10
+- pkg:composer/pallino/docker-php@0.0.11
+- pkg:composer/pallino/docker-php@0.0.12
+- pkg:composer/pallino/docker-php@0.0.13
+- pkg:composer/pallino/docker-php@0.0.14
+- pkg:composer/pallino/docker-php@0.0.15
+- pkg:composer/pallino/docker-php@0.0.16
+- pkg:composer/pallino/docker-php@0.0.17
+- pkg:composer/pallino/docker-php@0.0.2
+- pkg:composer/pallino/docker-php@0.0.9
+- pkg:composer/pallino/docker-php@1.0.0
+- pkg:composer/pallino/docker-php@1.0.1
+- pkg:composer/pallino/docker-php@1.0.2

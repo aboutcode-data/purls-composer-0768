@@ -1,0 +1,3 @@
+- pkg:composer/onnov/php-clickhouse-migrator@v1.0.0
+- pkg:composer/onnov/php-clickhouse-migrator@v1.0.1
+- pkg:composer/onnov/php-clickhouse-migrator@v1.0.2

@@ -1,0 +1,5 @@
+- pkg:composer/npo/doctrine-extension@1.0
+- pkg:composer/npo/doctrine-extension@1.1
+- pkg:composer/npo/doctrine-extension@1.2
+- pkg:composer/npo/doctrine-extension@2.0
+- pkg:composer/npo/doctrine-extension@2.1

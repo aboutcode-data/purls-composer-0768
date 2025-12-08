@@ -1,0 +1,5 @@
+- pkg:composer/oskarstark/doctrine-datetime-milliseconds-type@2.1.0
+- pkg:composer/oskarstark/doctrine-datetime-milliseconds-type@2.2.0
+- pkg:composer/oskarstark/doctrine-datetime-milliseconds-type@2.3.0
+- pkg:composer/oskarstark/doctrine-datetime-milliseconds-type@2.4.0
+- pkg:composer/oskarstark/doctrine-datetime-milliseconds-type@2.5.0

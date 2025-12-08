@@ -1,0 +1,4 @@
+- pkg:composer/open-telemetry/extension-propagator-cloudtrace@0.0.1
+- pkg:composer/open-telemetry/extension-propagator-cloudtrace@0.0.2
+- pkg:composer/open-telemetry/extension-propagator-cloudtrace@0.0.3
+- pkg:composer/open-telemetry/extension-propagator-cloudtrace@0.0.4

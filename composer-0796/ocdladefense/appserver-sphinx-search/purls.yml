@@ -1,0 +1,8 @@
+- pkg:composer/ocdladefense/appserver-sphinx-search@v0.1-alpha
+- pkg:composer/ocdladefense/appserver-sphinx-search@v0.2-alpha
+- pkg:composer/ocdladefense/appserver-sphinx-search@v0.3-alpha
+- pkg:composer/ocdladefense/appserver-sphinx-search@v1.0.0
+- pkg:composer/ocdladefense/appserver-sphinx-search@v1.1
+- pkg:composer/ocdladefense/appserver-sphinx-search@v1.1.1
+- pkg:composer/ocdladefense/appserver-sphinx-search@v1.2
+- pkg:composer/ocdladefense/appserver-sphinx-search@v1.2.1

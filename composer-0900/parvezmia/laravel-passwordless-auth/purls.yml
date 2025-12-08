@@ -1,0 +1,4 @@
+- pkg:composer/parvezmia/laravel-passwordless-auth@v1.0.0
+- pkg:composer/parvezmia/laravel-passwordless-auth@v1.0.1
+- pkg:composer/parvezmia/laravel-passwordless-auth@v1.1.0
+- pkg:composer/parvezmia/laravel-passwordless-auth@v1.2.0

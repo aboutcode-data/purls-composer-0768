@@ -1,0 +1,6 @@
+- pkg:composer/oprokidnev/bitcoind-php@1.0.0
+- pkg:composer/oprokidnev/bitcoind-php@1.1.0
+- pkg:composer/oprokidnev/bitcoind-php@1.2.0
+- pkg:composer/oprokidnev/bitcoind-php@2.0.0
+- pkg:composer/oprokidnev/bitcoind-php@2.0.1
+- pkg:composer/oprokidnev/bitcoind-php@2.0.2

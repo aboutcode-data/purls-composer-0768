@@ -1,0 +1,4 @@
+- pkg:composer/ogestor/eloquence-mappable@5.6
+- pkg:composer/ogestor/eloquence-mappable@6.0
+- pkg:composer/ogestor/eloquence-mappable@v5.5
+- pkg:composer/ogestor/eloquence-mappable@v5.5.1

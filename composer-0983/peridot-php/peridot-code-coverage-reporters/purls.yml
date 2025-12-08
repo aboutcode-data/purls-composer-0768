@@ -1,0 +1,7 @@
+- pkg:composer/peridot-php/peridot-code-coverage-reporters@1.0.0
+- pkg:composer/peridot-php/peridot-code-coverage-reporters@1.0.1
+- pkg:composer/peridot-php/peridot-code-coverage-reporters@1.0.2
+- pkg:composer/peridot-php/peridot-code-coverage-reporters@2.0.0
+- pkg:composer/peridot-php/peridot-code-coverage-reporters@2.0.1
+- pkg:composer/peridot-php/peridot-code-coverage-reporters@2.0.2
+- pkg:composer/peridot-php/peridot-code-coverage-reporters@3.0.0

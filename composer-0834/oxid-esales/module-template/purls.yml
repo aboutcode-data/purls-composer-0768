@@ -1,0 +1,11 @@
+- pkg:composer/oxid-esales/module-template@v1.0.0
+- pkg:composer/oxid-esales/module-template@v1.0.0-rc.1
+- pkg:composer/oxid-esales/module-template@v2.0.0
+- pkg:composer/oxid-esales/module-template@v2.1.0
+- pkg:composer/oxid-esales/module-template@v3.0.0
+- pkg:composer/oxid-esales/module-template@v3.0.0-rc.1
+- pkg:composer/oxid-esales/module-template@v4.0.0
+- pkg:composer/oxid-esales/module-template@v4.0.0-rc.1
+- pkg:composer/oxid-esales/module-template@v5.0.0
+- pkg:composer/oxid-esales/module-template@v5.0.0-rc.1
+- pkg:composer/oxid-esales/module-template@v5.1.0

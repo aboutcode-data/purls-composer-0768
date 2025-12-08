@@ -1,0 +1,13 @@
+- pkg:composer/nti/email-bundle@3.0.6
+- pkg:composer/nti/email-bundle@5.5.0
+- pkg:composer/nti/email-bundle@5.5.1
+- pkg:composer/nti/email-bundle@v1.0.0
+- pkg:composer/nti/email-bundle@v2.0.24
+- pkg:composer/nti/email-bundle@v2.0.25
+- pkg:composer/nti/email-bundle@v2.0.26
+- pkg:composer/nti/email-bundle@v3.0.4
+- pkg:composer/nti/email-bundle@v3.0.5
+- pkg:composer/nti/email-bundle@v4.0.0
+- pkg:composer/nti/email-bundle@v4.0.1
+- pkg:composer/nti/email-bundle@v5.0.0
+- pkg:composer/nti/email-bundle@v5.5.2

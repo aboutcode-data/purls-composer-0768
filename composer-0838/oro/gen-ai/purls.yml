@@ -1,0 +1,12 @@
+- pkg:composer/oro/gen-ai@5.1.0
+- pkg:composer/oro/gen-ai@5.1.1
+- pkg:composer/oro/gen-ai@6.0.0
+- pkg:composer/oro/gen-ai@6.0.1
+- pkg:composer/oro/gen-ai@6.0.2
+- pkg:composer/oro/gen-ai@6.0.3
+- pkg:composer/oro/gen-ai@6.0.4
+- pkg:composer/oro/gen-ai@6.1.0
+- pkg:composer/oro/gen-ai@6.1.0-rc
+- pkg:composer/oro/gen-ai@6.1.0-rc.2
+- pkg:composer/oro/gen-ai@6.1.0-rc.3
+- pkg:composer/oro/gen-ai@6.1.1

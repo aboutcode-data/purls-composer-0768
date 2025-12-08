@@ -1,0 +1,4 @@
+- pkg:composer/paymentsuite/authorizenet-bundle@1.0.1
+- pkg:composer/paymentsuite/authorizenet-bundle@v1.1
+- pkg:composer/paymentsuite/authorizenet-bundle@v1.4.0
+- pkg:composer/paymentsuite/authorizenet-bundle@v1.5.3

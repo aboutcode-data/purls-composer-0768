@@ -1,0 +1,17 @@
+- pkg:composer/openpsa/installer@v1.0.0
+- pkg:composer/openpsa/installer@v1.0.0-rc.1
+- pkg:composer/openpsa/installer@v1.0.0-rc.2
+- pkg:composer/openpsa/installer@v1.0.0-rc.3
+- pkg:composer/openpsa/installer@v1.0.1
+- pkg:composer/openpsa/installer@v1.1.0
+- pkg:composer/openpsa/installer@v1.2.0
+- pkg:composer/openpsa/installer@v1.2.1
+- pkg:composer/openpsa/installer@v1.2.2
+- pkg:composer/openpsa/installer@v1.2.3
+- pkg:composer/openpsa/installer@v1.3.0
+- pkg:composer/openpsa/installer@v1.4.0
+- pkg:composer/openpsa/installer@v1.4.1
+- pkg:composer/openpsa/installer@v1.5.0
+- pkg:composer/openpsa/installer@v1.5.1
+- pkg:composer/openpsa/installer@v1.5.2
+- pkg:composer/openpsa/installer@v1.5.3

@@ -1,0 +1,5 @@
+- pkg:composer/ondrejbouda/message-bus@0.10
+- pkg:composer/ondrejbouda/message-bus@0.11
+- pkg:composer/ondrejbouda/message-bus@0.11.1
+- pkg:composer/ondrejbouda/message-bus@0.12
+- pkg:composer/ondrejbouda/message-bus@0.9

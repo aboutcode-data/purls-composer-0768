@@ -1,0 +1,3 @@
+- pkg:composer/open-lms-open-source/behat-junit-extension@1.0.0
+- pkg:composer/open-lms-open-source/behat-junit-extension@2.0.0
+- pkg:composer/open-lms-open-source/behat-junit-extension@3.0.0

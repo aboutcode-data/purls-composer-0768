@@ -1,0 +1,5 @@
+- pkg:composer/peerj/peerj-user-security-bundle@v0.1
+- pkg:composer/peerj/peerj-user-security-bundle@v0.2
+- pkg:composer/peerj/peerj-user-security-bundle@v4.0
+- pkg:composer/peerj/peerj-user-security-bundle@v4.0-rc
+- pkg:composer/peerj/peerj-user-security-bundle@v4.1

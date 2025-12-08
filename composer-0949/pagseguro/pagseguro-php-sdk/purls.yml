@@ -1,0 +1,17 @@
+- pkg:composer/pagseguro/pagseguro-php-sdk@3.0.0
+- pkg:composer/pagseguro/pagseguro-php-sdk@3.0.6
+- pkg:composer/pagseguro/pagseguro-php-sdk@3.0.8
+- pkg:composer/pagseguro/pagseguro-php-sdk@3.1.0
+- pkg:composer/pagseguro/pagseguro-php-sdk@3.1.1
+- pkg:composer/pagseguro/pagseguro-php-sdk@3.3.0
+- pkg:composer/pagseguro/pagseguro-php-sdk@3.3.1
+- pkg:composer/pagseguro/pagseguro-php-sdk@3.3.2
+- pkg:composer/pagseguro/pagseguro-php-sdk@3.4.0
+- pkg:composer/pagseguro/pagseguro-php-sdk@3.4.1
+- pkg:composer/pagseguro/pagseguro-php-sdk@4.0.0
+- pkg:composer/pagseguro/pagseguro-php-sdk@4.0.1
+- pkg:composer/pagseguro/pagseguro-php-sdk@4.2.0
+- pkg:composer/pagseguro/pagseguro-php-sdk@4.2.1
+- pkg:composer/pagseguro/pagseguro-php-sdk@5.0.0
+- pkg:composer/pagseguro/pagseguro-php-sdk@5.0.1
+- pkg:composer/pagseguro/pagseguro-php-sdk@6.0.0

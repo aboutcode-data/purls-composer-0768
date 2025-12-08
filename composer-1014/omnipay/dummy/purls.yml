@@ -1,0 +1,7 @@
+- pkg:composer/omnipay/dummy@v2.0.0
+- pkg:composer/omnipay/dummy@v2.1.0
+- pkg:composer/omnipay/dummy@v2.1.1
+- pkg:composer/omnipay/dummy@v2.1.2
+- pkg:composer/omnipay/dummy@v2.2.0
+- pkg:composer/omnipay/dummy@v3.0-alpha.1
+- pkg:composer/omnipay/dummy@v3.0.0

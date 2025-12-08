@@ -1,0 +1,5 @@
+- pkg:composer/openid/php-openid@2.3.0
+- pkg:composer/openid/php-openid@3.0.0
+- pkg:composer/openid/php-openid@3.0.1
+- pkg:composer/openid/php-openid@3.0.2
+- pkg:composer/openid/php-openid@3.0.3

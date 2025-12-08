@@ -1,0 +1,4 @@
+- pkg:composer/oriceon/minify@1.1
+- pkg:composer/oriceon/minify@1.2
+- pkg:composer/oriceon/minify@2.0.0
+- pkg:composer/oriceon/minify@2.0.1

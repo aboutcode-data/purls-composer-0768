@@ -1,0 +1,3 @@
+- pkg:composer/osumionline/plugin-email-smtp@3.0.0
+- pkg:composer/osumionline/plugin-email-smtp@3.0.1
+- pkg:composer/osumionline/plugin-email-smtp@3.1.0

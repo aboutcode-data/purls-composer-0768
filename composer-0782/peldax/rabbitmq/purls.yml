@@ -1,0 +1,4 @@
+- pkg:composer/peldax/rabbitmq@v0.1
+- pkg:composer/peldax/rabbitmq@v1.0
+- pkg:composer/peldax/rabbitmq@v1.1.0
+- pkg:composer/peldax/rabbitmq@v1.2.0

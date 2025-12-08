@@ -1,0 +1,4 @@
+- pkg:composer/pay-now/omnipay-paynow@1.0.0
+- pkg:composer/pay-now/omnipay-paynow@1.0.1
+- pkg:composer/pay-now/omnipay-paynow@1.0.2
+- pkg:composer/pay-now/omnipay-paynow@1.0.3

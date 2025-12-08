@@ -1,0 +1,17 @@
+- pkg:composer/openpsa/midcom@9.0beta4
+- pkg:composer/openpsa/midcom@9.0beta5
+- pkg:composer/openpsa/midcom@v9.0.0
+- pkg:composer/openpsa/midcom@v9.0.0-rc.1
+- pkg:composer/openpsa/midcom@v9.0.0-rc.2
+- pkg:composer/openpsa/midcom@v9.0.0-rc.3
+- pkg:composer/openpsa/midcom@v9.1.0
+- pkg:composer/openpsa/midcom@v9.10.0
+- pkg:composer/openpsa/midcom@v9.2.0
+- pkg:composer/openpsa/midcom@v9.3.0
+- pkg:composer/openpsa/midcom@v9.4.0
+- pkg:composer/openpsa/midcom@v9.5.0
+- pkg:composer/openpsa/midcom@v9.6.0
+- pkg:composer/openpsa/midcom@v9.7.0
+- pkg:composer/openpsa/midcom@v9.8.0
+- pkg:composer/openpsa/midcom@v9.9.0
+- pkg:composer/openpsa/midcom@v9.9.1

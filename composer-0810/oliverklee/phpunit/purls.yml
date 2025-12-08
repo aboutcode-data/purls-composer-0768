@@ -1,0 +1,16 @@
+- pkg:composer/oliverklee/phpunit@4.8.24
+- pkg:composer/oliverklee/phpunit@4.8.35
+- pkg:composer/oliverklee/phpunit@4.8.36
+- pkg:composer/oliverklee/phpunit@v4.8.37
+- pkg:composer/oliverklee/phpunit@v5.3.5
+- pkg:composer/oliverklee/phpunit@v5.7.27
+- pkg:composer/oliverklee/phpunit@v6.5.14
+- pkg:composer/oliverklee/phpunit@v6.5.16
+- pkg:composer/oliverklee/phpunit@v7.5.20
+- pkg:composer/oliverklee/phpunit@v7.5.21
+- pkg:composer/oliverklee/phpunit@v7.5.22
+- pkg:composer/oliverklee/phpunit@v7.5.23
+- pkg:composer/oliverklee/phpunit@v7.5.24
+- pkg:composer/oliverklee/phpunit@v7.5.25
+- pkg:composer/oliverklee/phpunit@v8.5.0
+- pkg:composer/oliverklee/phpunit@v8.5.1

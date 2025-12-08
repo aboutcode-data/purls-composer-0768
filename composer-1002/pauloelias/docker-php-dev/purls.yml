@@ -1,0 +1,4 @@
+- pkg:composer/pauloelias/docker-php-dev@1.0.1
+- pkg:composer/pauloelias/docker-php-dev@1.0.3
+- pkg:composer/pauloelias/docker-php-dev@1.1.0
+- pkg:composer/pauloelias/docker-php-dev@1.1.0.1
