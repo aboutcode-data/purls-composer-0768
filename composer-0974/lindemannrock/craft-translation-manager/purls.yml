@@ -73,3 +73,6 @@
 - pkg:composer/lindemannrock/craft-translation-manager@5.5.0
 - pkg:composer/lindemannrock/craft-translation-manager@5.6.0
 - pkg:composer/lindemannrock/craft-translation-manager@5.7.0
+- pkg:composer/lindemannrock/craft-translation-manager@5.8.0
+- pkg:composer/lindemannrock/craft-translation-manager@5.9.0
+- pkg:composer/lindemannrock/craft-translation-manager@5.9.1
