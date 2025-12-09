@@ -12,3 +12,4 @@
 - pkg:composer/eliashaeussler/php-cs-fixer-config@2.3.0
 - pkg:composer/eliashaeussler/php-cs-fixer-config@2.4.0
 - pkg:composer/eliashaeussler/php-cs-fixer-config@3.0.0
+- pkg:composer/eliashaeussler/php-cs-fixer-config@3.0.1
