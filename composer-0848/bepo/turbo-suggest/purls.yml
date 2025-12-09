@@ -4,7 +4,4 @@
 - pkg:composer/bepo/turbo-suggest@0.1.1
 - pkg:composer/bepo/turbo-suggest@0.2.0
 - pkg:composer/bepo/turbo-suggest@0.2.1
-- pkg:composer/bepo/turbo-suggest@0.3.0
-- pkg:composer/bepo/turbo-suggest@0.3.1
-- pkg:composer/bepo/turbo-suggest@0.3.2
-- pkg:composer/bepo/turbo-suggest@0.4.0
+- pkg:composer/bepo/turbo-suggest@0.4.1

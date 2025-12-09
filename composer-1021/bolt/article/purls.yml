@@ -42,3 +42,4 @@
 - pkg:composer/bolt/article@2.1.4
 - pkg:composer/bolt/article@2.1.5
 - pkg:composer/bolt/article@3.0.0
+- pkg:composer/bolt/article@3.0.1
