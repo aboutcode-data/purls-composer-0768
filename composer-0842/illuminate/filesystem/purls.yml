@@ -282,6 +282,7 @@
 - pkg:composer/illuminate/filesystem@v12.40.2
 - pkg:composer/illuminate/filesystem@v12.41.0
 - pkg:composer/illuminate/filesystem@v12.41.1
+- pkg:composer/illuminate/filesystem@v12.42.0
 - pkg:composer/illuminate/filesystem@v12.5.0
 - pkg:composer/illuminate/filesystem@v12.6.0
 - pkg:composer/illuminate/filesystem@v12.7.0

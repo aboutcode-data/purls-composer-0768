@@ -277,6 +277,7 @@
 - pkg:composer/illuminate/process@v12.40.2
 - pkg:composer/illuminate/process@v12.41.0
 - pkg:composer/illuminate/process@v12.41.1
+- pkg:composer/illuminate/process@v12.42.0
 - pkg:composer/illuminate/process@v12.5.0
 - pkg:composer/illuminate/process@v12.6.0
 - pkg:composer/illuminate/process@v12.7.0

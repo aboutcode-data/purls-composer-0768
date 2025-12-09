@@ -18,7 +18,9 @@
 - pkg:composer/invoicebox/sdk-php@v1.1.16
 - pkg:composer/invoicebox/sdk-php@v1.1.17
 - pkg:composer/invoicebox/sdk-php@v1.1.18
+- pkg:composer/invoicebox/sdk-php@v1.1.19
 - pkg:composer/invoicebox/sdk-php@v1.1.2
+- pkg:composer/invoicebox/sdk-php@v1.1.20
 - pkg:composer/invoicebox/sdk-php@v1.1.3
 - pkg:composer/invoicebox/sdk-php@v1.1.4
 - pkg:composer/invoicebox/sdk-php@v1.1.6
