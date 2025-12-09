@@ -19,6 +19,7 @@
 - pkg:composer/dbp/relay-core-connector-ldap-bundle@v0.2.18
 - pkg:composer/dbp/relay-core-connector-ldap-bundle@v0.2.19
 - pkg:composer/dbp/relay-core-connector-ldap-bundle@v0.2.2
+- pkg:composer/dbp/relay-core-connector-ldap-bundle@v0.2.20
 - pkg:composer/dbp/relay-core-connector-ldap-bundle@v0.2.3
 - pkg:composer/dbp/relay-core-connector-ldap-bundle@v0.2.4
 - pkg:composer/dbp/relay-core-connector-ldap-bundle@v0.2.5
