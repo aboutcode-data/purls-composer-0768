@@ -9,4 +9,6 @@
 - pkg:composer/havennow/laravel-module@0.0.9
 - pkg:composer/havennow/laravel-module@0.1.9
 - pkg:composer/havennow/laravel-module@0.2.10
+- pkg:composer/havennow/laravel-module@0.2.11
+- pkg:composer/havennow/laravel-module@0.2.12
 - pkg:composer/havennow/laravel-module@0.2.9
