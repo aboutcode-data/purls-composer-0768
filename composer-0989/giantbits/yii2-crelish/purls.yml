@@ -84,6 +84,8 @@
 - pkg:composer/giantbits/yii2-crelish@0.17.3
 - pkg:composer/giantbits/yii2-crelish@0.18.0
 - pkg:composer/giantbits/yii2-crelish@0.18.1
+- pkg:composer/giantbits/yii2-crelish@0.18.2
+- pkg:composer/giantbits/yii2-crelish@0.18.3
 - pkg:composer/giantbits/yii2-crelish@0.4.10
 - pkg:composer/giantbits/yii2-crelish@0.4.11
 - pkg:composer/giantbits/yii2-crelish@0.4.12

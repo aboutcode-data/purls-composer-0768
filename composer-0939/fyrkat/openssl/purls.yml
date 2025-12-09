@@ -10,3 +10,4 @@
 - pkg:composer/fyrkat/openssl@v2.1.0
 - pkg:composer/fyrkat/openssl@v2.1.1
 - pkg:composer/fyrkat/openssl@v2.2.0
+- pkg:composer/fyrkat/openssl@v2.2.1

@@ -795,7 +795,10 @@
 - pkg:composer/files.com/files-php-sdk@v2.0.316
 - pkg:composer/files.com/files-php-sdk@v2.0.317
 - pkg:composer/files.com/files-php-sdk@v2.0.318
+- pkg:composer/files.com/files-php-sdk@v2.0.319
 - pkg:composer/files.com/files-php-sdk@v2.0.32
+- pkg:composer/files.com/files-php-sdk@v2.0.320
+- pkg:composer/files.com/files-php-sdk@v2.0.321
 - pkg:composer/files.com/files-php-sdk@v2.0.33
 - pkg:composer/files.com/files-php-sdk@v2.0.34
 - pkg:composer/files.com/files-php-sdk@v2.0.35
