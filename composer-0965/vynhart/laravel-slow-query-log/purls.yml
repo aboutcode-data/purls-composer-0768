@@ -1,0 +1,5 @@
+- pkg:composer/vynhart/laravel-slow-query-log@v0.1
+- pkg:composer/vynhart/laravel-slow-query-log@v0.2
+- pkg:composer/vynhart/laravel-slow-query-log@v0.3
+- pkg:composer/vynhart/laravel-slow-query-log@v0.4
+- pkg:composer/vynhart/laravel-slow-query-log@v0.5

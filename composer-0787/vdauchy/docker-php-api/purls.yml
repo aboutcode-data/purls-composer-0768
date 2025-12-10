@@ -1,0 +1,3 @@
+- pkg:composer/vdauchy/docker-php-api@1.38
+- pkg:composer/vdauchy/docker-php-api@1.39
+- pkg:composer/vdauchy/docker-php-api@1.40

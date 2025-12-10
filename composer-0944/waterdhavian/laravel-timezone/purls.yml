@@ -1,0 +1,4 @@
+- pkg:composer/waterdhavian/laravel-timezone@0.1
+- pkg:composer/waterdhavian/laravel-timezone@1.0.0
+- pkg:composer/waterdhavian/laravel-timezone@1.0.1
+- pkg:composer/waterdhavian/laravel-timezone@1.0.2

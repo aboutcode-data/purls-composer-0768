@@ -1,0 +1,16 @@
+- pkg:composer/upstreamable/docker-nextcloud@24.0.0.1
+- pkg:composer/upstreamable/docker-nextcloud@24.0.1.0
+- pkg:composer/upstreamable/docker-nextcloud@24.0.1.1
+- pkg:composer/upstreamable/docker-nextcloud@24.0.11.0
+- pkg:composer/upstreamable/docker-nextcloud@24.0.2.0
+- pkg:composer/upstreamable/docker-nextcloud@24.0.3.0
+- pkg:composer/upstreamable/docker-nextcloud@25.0.13.0
+- pkg:composer/upstreamable/docker-nextcloud@25.0.5.0
+- pkg:composer/upstreamable/docker-nextcloud@26.0.13.0
+- pkg:composer/upstreamable/docker-nextcloud@27.1.10.0
+- pkg:composer/upstreamable/docker-nextcloud@28.0.12.0
+- pkg:composer/upstreamable/docker-nextcloud@29.0.9.0
+- pkg:composer/upstreamable/docker-nextcloud@30.0.16.0
+- pkg:composer/upstreamable/docker-nextcloud@30.0.4.0
+- pkg:composer/upstreamable/docker-nextcloud@30.0.9.0
+- pkg:composer/upstreamable/docker-nextcloud@31.0.9.0

@@ -1,0 +1,4 @@
+- pkg:composer/volnix/monolog-pdo@1.0.0
+- pkg:composer/volnix/monolog-pdo@1.1.0
+- pkg:composer/volnix/monolog-pdo@2.0.1
+- pkg:composer/volnix/monolog-pdo@2.0.2

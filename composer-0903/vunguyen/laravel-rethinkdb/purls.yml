@@ -1,0 +1,4 @@
+- pkg:composer/vunguyen/laravel-rethinkdb@0.1
+- pkg:composer/vunguyen/laravel-rethinkdb@1.0
+- pkg:composer/vunguyen/laravel-rethinkdb@2.0
+- pkg:composer/vunguyen/laravel-rethinkdb@2.1

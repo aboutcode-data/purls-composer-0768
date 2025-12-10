@@ -1,0 +1,15 @@
+- pkg:composer/vmware/vcloud-sdk-patched@v512.0.0
+- pkg:composer/vmware/vcloud-sdk-patched@v512.1.0
+- pkg:composer/vmware/vcloud-sdk-patched@v512.2.0
+- pkg:composer/vmware/vcloud-sdk-patched@v512.3.0
+- pkg:composer/vmware/vcloud-sdk-patched@v550.0.0
+- pkg:composer/vmware/vcloud-sdk-patched@v550.1.0
+- pkg:composer/vmware/vcloud-sdk-patched@v550.2.0
+- pkg:composer/vmware/vcloud-sdk-patched@v550.3.0
+- pkg:composer/vmware/vcloud-sdk-patched@v550.3.1
+- pkg:composer/vmware/vcloud-sdk-patched@v550.4.0
+- pkg:composer/vmware/vcloud-sdk-patched@v550.4.1
+- pkg:composer/vmware/vcloud-sdk-patched@v550.4.2
+- pkg:composer/vmware/vcloud-sdk-patched@v550.4.3
+- pkg:composer/vmware/vcloud-sdk-patched@v550.4.4
+- pkg:composer/vmware/vcloud-sdk-patched@v550.5.0

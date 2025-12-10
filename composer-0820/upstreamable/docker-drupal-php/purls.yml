@@ -1,0 +1,14 @@
+- pkg:composer/upstreamable/docker-drupal-php@8004.293.0
+- pkg:composer/upstreamable/docker-drupal-php@8004.293.1
+- pkg:composer/upstreamable/docker-drupal-php@8004.293.2
+- pkg:composer/upstreamable/docker-drupal-php@8104.313.0
+- pkg:composer/upstreamable/docker-drupal-php@8104.331.0
+- pkg:composer/upstreamable/docker-drupal-php@8104.331.1
+- pkg:composer/upstreamable/docker-drupal-php@8104.374.0
+- pkg:composer/upstreamable/docker-drupal-php@8104.376.0
+- pkg:composer/upstreamable/docker-drupal-php@8204.426.0
+- pkg:composer/upstreamable/docker-drupal-php@8304.458.0
+- pkg:composer/upstreamable/docker-drupal-php@8304.459.2
+- pkg:composer/upstreamable/docker-drupal-php@8304.459.3
+- pkg:composer/upstreamable/docker-drupal-php@8304.461.2
+- pkg:composer/upstreamable/docker-drupal-php@8304.463.0

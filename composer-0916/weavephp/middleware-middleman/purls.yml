@@ -1,0 +1,4 @@
+- pkg:composer/weavephp/middleware-middleman@3.0.0
+- pkg:composer/weavephp/middleware-middleman@3.0.1
+- pkg:composer/weavephp/middleware-middleman@4.0.0
+- pkg:composer/weavephp/middleware-middleman@4.1.0

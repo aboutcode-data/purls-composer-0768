@@ -1,0 +1,2 @@
+- pkg:composer/victormln/docker-php-nginx-psql-testing@1.0.0
+- pkg:composer/victormln/docker-php-nginx-psql-testing@8.1

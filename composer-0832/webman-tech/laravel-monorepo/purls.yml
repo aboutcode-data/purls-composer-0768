@@ -1,0 +1,16 @@
+- pkg:composer/webman-tech/laravel-monorepo@11.0.0
+- pkg:composer/webman-tech/laravel-monorepo@11.0.1
+- pkg:composer/webman-tech/laravel-monorepo@12.0.0
+- pkg:composer/webman-tech/laravel-monorepo@12.0.1
+- pkg:composer/webman-tech/laravel-monorepo@12.0.2
+- pkg:composer/webman-tech/laravel-monorepo@v11.0.2
+- pkg:composer/webman-tech/laravel-monorepo@v12.0.10
+- pkg:composer/webman-tech/laravel-monorepo@v12.0.11
+- pkg:composer/webman-tech/laravel-monorepo@v12.0.12
+- pkg:composer/webman-tech/laravel-monorepo@v12.0.3
+- pkg:composer/webman-tech/laravel-monorepo@v12.0.4
+- pkg:composer/webman-tech/laravel-monorepo@v12.0.5
+- pkg:composer/webman-tech/laravel-monorepo@v12.0.6
+- pkg:composer/webman-tech/laravel-monorepo@v12.0.7
+- pkg:composer/webman-tech/laravel-monorepo@v12.0.8
+- pkg:composer/webman-tech/laravel-monorepo@v12.0.9

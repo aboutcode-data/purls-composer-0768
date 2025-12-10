@@ -1,0 +1,6 @@
+- pkg:composer/upstreamable/drupal-settings-devel-env@1.0.0
+- pkg:composer/upstreamable/drupal-settings-devel-env@1.0.30
+- pkg:composer/upstreamable/drupal-settings-devel-env@1.1.30
+- pkg:composer/upstreamable/drupal-settings-devel-env@1.2.30
+- pkg:composer/upstreamable/drupal-settings-devel-env@1.3.30
+- pkg:composer/upstreamable/drupal-settings-devel-env@1.4.30

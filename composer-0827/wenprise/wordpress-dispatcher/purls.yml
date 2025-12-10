@@ -1,0 +1,4 @@
+- pkg:composer/wenprise/wordpress-dispatcher@1.0
+- pkg:composer/wenprise/wordpress-dispatcher@2.0
+- pkg:composer/wenprise/wordpress-dispatcher@2.1
+- pkg:composer/wenprise/wordpress-dispatcher@2.2

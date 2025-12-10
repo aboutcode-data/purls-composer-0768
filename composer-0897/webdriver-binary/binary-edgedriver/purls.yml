@@ -1,0 +1,4 @@
+- pkg:composer/webdriver-binary/binary-edgedriver@1.0.0
+- pkg:composer/webdriver-binary/binary-edgedriver@1.0.1
+- pkg:composer/webdriver-binary/binary-edgedriver@3.0.0
+- pkg:composer/webdriver-binary/binary-edgedriver@3.1.0

@@ -1,0 +1,8 @@
+- pkg:composer/ulasoft/laravel-queue-rate-limit@v1.0.0
+- pkg:composer/ulasoft/laravel-queue-rate-limit@v1.0.1
+- pkg:composer/ulasoft/laravel-queue-rate-limit@v1.0.2
+- pkg:composer/ulasoft/laravel-queue-rate-limit@v2.0.0
+- pkg:composer/ulasoft/laravel-queue-rate-limit@v2.0.1
+- pkg:composer/ulasoft/laravel-queue-rate-limit@v3.0.0
+- pkg:composer/ulasoft/laravel-queue-rate-limit@v3.1.0
+- pkg:composer/ulasoft/laravel-queue-rate-limit@v3.2.0

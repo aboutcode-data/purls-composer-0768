@@ -1,0 +1,4 @@
+- pkg:composer/vantt/opentracing-jaeger-php@v1.0.0
+- pkg:composer/vantt/opentracing-jaeger-php@v2.0.0
+- pkg:composer/vantt/opentracing-jaeger-php@v2.1.0
+- pkg:composer/vantt/opentracing-jaeger-php@v2.1.1

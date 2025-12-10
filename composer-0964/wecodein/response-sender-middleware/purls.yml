@@ -1,0 +1,4 @@
+- pkg:composer/wecodein/response-sender-middleware@0.1.0
+- pkg:composer/wecodein/response-sender-middleware@0.5.0
+- pkg:composer/wecodein/response-sender-middleware@1.0.0
+- pkg:composer/wecodein/response-sender-middleware@1.0.1

@@ -1,0 +1,8 @@
+- pkg:composer/unicesil/shibboleth-bundle@v1.0
+- pkg:composer/unicesil/shibboleth-bundle@v1.0.1
+- pkg:composer/unicesil/shibboleth-bundle@v1.0.2
+- pkg:composer/unicesil/shibboleth-bundle@v1.0.3
+- pkg:composer/unicesil/shibboleth-bundle@v1.1.0
+- pkg:composer/unicesil/shibboleth-bundle@v4.4.0
+- pkg:composer/unicesil/shibboleth-bundle@v5.4.0
+- pkg:composer/unicesil/shibboleth-bundle@v6.4.0

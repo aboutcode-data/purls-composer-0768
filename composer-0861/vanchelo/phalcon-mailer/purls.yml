@@ -1,0 +1,3 @@
+- pkg:composer/vanchelo/phalcon-mailer@1.1.0
+- pkg:composer/vanchelo/phalcon-mailer@2.0
+- pkg:composer/vanchelo/phalcon-mailer@2.0.1

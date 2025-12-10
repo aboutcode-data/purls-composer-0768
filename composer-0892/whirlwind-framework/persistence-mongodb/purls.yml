@@ -1,0 +1,4 @@
+- pkg:composer/whirlwind-framework/persistence-mongodb@v0.0.1
+- pkg:composer/whirlwind-framework/persistence-mongodb@v0.0.2
+- pkg:composer/whirlwind-framework/persistence-mongodb@v0.0.3
+- pkg:composer/whirlwind-framework/persistence-mongodb@v0.0.4

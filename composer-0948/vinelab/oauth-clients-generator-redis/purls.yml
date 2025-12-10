@@ -1,0 +1,3 @@
+- pkg:composer/vinelab/oauth-clients-generator-redis@1.0.0
+- pkg:composer/vinelab/oauth-clients-generator-redis@v0.1.0
+- pkg:composer/vinelab/oauth-clients-generator-redis@v0.2.0

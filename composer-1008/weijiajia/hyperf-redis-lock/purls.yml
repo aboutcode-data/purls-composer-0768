@@ -1,0 +1,7 @@
+- pkg:composer/weijiajia/hyperf-redis-lock@v1.0
+- pkg:composer/weijiajia/hyperf-redis-lock@v1.1
+- pkg:composer/weijiajia/hyperf-redis-lock@v2.0
+- pkg:composer/weijiajia/hyperf-redis-lock@v2.1
+- pkg:composer/weijiajia/hyperf-redis-lock@v2.1.1
+- pkg:composer/weijiajia/hyperf-redis-lock@v2.2.1
+- pkg:composer/weijiajia/hyperf-redis-lock@v2.2.2

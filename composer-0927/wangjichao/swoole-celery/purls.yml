@@ -1,0 +1,3 @@
+- pkg:composer/wangjichao/swoole-celery@1.0
+- pkg:composer/wangjichao/swoole-celery@v1.1
+- pkg:composer/wangjichao/swoole-celery@v1.2

@@ -1,0 +1,4 @@
+- pkg:composer/waffler/http-client@4.1.0
+- pkg:composer/waffler/http-client@4.1.1
+- pkg:composer/waffler/http-client@4.2.0
+- pkg:composer/waffler/http-client@4.3.0
