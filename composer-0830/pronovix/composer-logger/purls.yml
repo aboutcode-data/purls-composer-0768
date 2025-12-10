@@ -278,3 +278,5 @@
 - pkg:composer/pronovix/composer-logger@5.2.0-alpha3
 - pkg:composer/pronovix/composer-logger@5.2.0-alpha4
 - pkg:composer/pronovix/composer-logger@5.2.0-alpha5
+- pkg:composer/pronovix/composer-logger@5.2.0-alpha6
+- pkg:composer/pronovix/composer-logger@5.2.0-alpha7

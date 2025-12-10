@@ -5,3 +5,4 @@
 - pkg:composer/phpgt/json@v1.2.1
 - pkg:composer/phpgt/json@v2.0.0
 - pkg:composer/phpgt/json@v2.1.0
+- pkg:composer/phpgt/json@v2.2.0

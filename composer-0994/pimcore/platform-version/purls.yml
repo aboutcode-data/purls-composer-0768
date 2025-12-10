@@ -15,3 +15,4 @@
 - pkg:composer/pimcore/platform-version@v2025.1-RC1
 - pkg:composer/pimcore/platform-version@v2025.2
 - pkg:composer/pimcore/platform-version@v2025.3
+- pkg:composer/pimcore/platform-version@v2025.4
