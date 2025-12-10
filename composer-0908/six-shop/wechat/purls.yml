@@ -22,3 +22,5 @@
 - pkg:composer/six-shop/wechat@v0.1.7
 - pkg:composer/six-shop/wechat@v0.1.8
 - pkg:composer/six-shop/wechat@v0.1.9
+- pkg:composer/six-shop/wechat@v0.2.0
+- pkg:composer/six-shop/wechat@v0.2.1
