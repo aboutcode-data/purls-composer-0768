@@ -23,3 +23,4 @@
 - pkg:composer/mautic/theme-gallery@7.0.0-alpha
 - pkg:composer/mautic/theme-gallery@7.0.0-beta
 - pkg:composer/mautic/theme-gallery@7.0.0-rc
+- pkg:composer/mautic/theme-gallery@7.0.0-rc2
