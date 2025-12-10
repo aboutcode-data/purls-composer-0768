@@ -1,0 +1,16 @@
+- pkg:composer/telanflow/laravel-sms@v1.0.0
+- pkg:composer/telanflow/laravel-sms@v1.0.2
+- pkg:composer/telanflow/laravel-sms@v1.1.0
+- pkg:composer/telanflow/laravel-sms@v1.2.0
+- pkg:composer/telanflow/laravel-sms@v1.3.0
+- pkg:composer/telanflow/laravel-sms@v1.3.1
+- pkg:composer/telanflow/laravel-sms@v1.3.2
+- pkg:composer/telanflow/laravel-sms@v1.3.3
+- pkg:composer/telanflow/laravel-sms@v1.4.0
+- pkg:composer/telanflow/laravel-sms@v1.4.1
+- pkg:composer/telanflow/laravel-sms@v1.5
+- pkg:composer/telanflow/laravel-sms@v1.5.1
+- pkg:composer/telanflow/laravel-sms@v1.5.2
+- pkg:composer/telanflow/laravel-sms@v1.5.3
+- pkg:composer/telanflow/laravel-sms@v2.0.0
+- pkg:composer/telanflow/laravel-sms@v2.0.1

@@ -1,0 +1,4 @@
+- pkg:composer/test-magenx/module-url-rewrite@101.1.2
+- pkg:composer/test-magenx/module-url-rewrite@101.1.4
+- pkg:composer/test-magenx/module-url-rewrite@102.0.1
+- pkg:composer/test-magenx/module-url-rewrite@102.0.2

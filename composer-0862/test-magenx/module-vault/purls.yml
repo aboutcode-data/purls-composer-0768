@@ -1,0 +1,4 @@
+- pkg:composer/test-magenx/module-vault@101.1.2
+- pkg:composer/test-magenx/module-vault@101.1.4
+- pkg:composer/test-magenx/module-vault@101.2.2
+- pkg:composer/test-magenx/module-vault@101.2.3

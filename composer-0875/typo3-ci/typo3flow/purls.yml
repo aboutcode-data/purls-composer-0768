@@ -1,0 +1,6 @@
+- pkg:composer/typo3-ci/typo3flow@0.0.3
+- pkg:composer/typo3-ci/typo3flow@2.2.0
+- pkg:composer/typo3-ci/typo3flow@2.3.0
+- pkg:composer/typo3-ci/typo3flow@2.3.1
+- pkg:composer/typo3-ci/typo3flow@2.3.2
+- pkg:composer/typo3-ci/typo3flow@2.4.0

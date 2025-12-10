@@ -1,0 +1,4 @@
+- pkg:composer/tina4stack/tina4php-postgresql@v1.0.0
+- pkg:composer/tina4stack/tina4php-postgresql@v2.0.0
+- pkg:composer/tina4stack/tina4php-postgresql@v2.0.1
+- pkg:composer/tina4stack/tina4php-postgresql@v2.0.2

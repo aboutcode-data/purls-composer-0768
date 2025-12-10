@@ -1,0 +1,5 @@
+- pkg:composer/timetorock/laravel-monolog-sentry@v1.0
+- pkg:composer/timetorock/laravel-monolog-sentry@v1.1
+- pkg:composer/timetorock/laravel-monolog-sentry@v1.2
+- pkg:composer/timetorock/laravel-monolog-sentry@v1.3
+- pkg:composer/timetorock/laravel-monolog-sentry@v1.6

@@ -1,0 +1,4 @@
+- pkg:composer/teamones/etcd_discovery@0.0.1
+- pkg:composer/teamones/etcd_discovery@0.0.2
+- pkg:composer/teamones/etcd_discovery@0.0.3
+- pkg:composer/teamones/etcd_discovery@0.0.4

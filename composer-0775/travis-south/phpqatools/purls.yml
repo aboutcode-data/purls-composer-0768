@@ -1,0 +1,17 @@
+- pkg:composer/travis-south/phpqatools@1.0.0
+- pkg:composer/travis-south/phpqatools@1.1.0
+- pkg:composer/travis-south/phpqatools@1.2.0
+- pkg:composer/travis-south/phpqatools@1.3.0
+- pkg:composer/travis-south/phpqatools@1.4.0
+- pkg:composer/travis-south/phpqatools@1.5.0
+- pkg:composer/travis-south/phpqatools@2.0.0
+- pkg:composer/travis-south/phpqatools@3.0.0
+- pkg:composer/travis-south/phpqatools@3.0.1
+- pkg:composer/travis-south/phpqatools@3.0.2
+- pkg:composer/travis-south/phpqatools@3.0.3
+- pkg:composer/travis-south/phpqatools@3.0.4
+- pkg:composer/travis-south/phpqatools@3.0.5
+- pkg:composer/travis-south/phpqatools@4.0.0
+- pkg:composer/travis-south/phpqatools@4.0.1
+- pkg:composer/travis-south/phpqatools@4.0.2
+- pkg:composer/travis-south/phpqatools@5.0.0

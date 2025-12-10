@@ -1,0 +1,3 @@
+- pkg:composer/test-magenx/module-configurable-import-export@100.3.4
+- pkg:composer/test-magenx/module-configurable-import-export@100.4.0
+- pkg:composer/test-magenx/module-configurable-import-export@100.4.1

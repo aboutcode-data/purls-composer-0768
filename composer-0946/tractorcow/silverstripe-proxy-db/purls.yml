@@ -1,0 +1,5 @@
+- pkg:composer/tractorcow/silverstripe-proxy-db@0.1.0
+- pkg:composer/tractorcow/silverstripe-proxy-db@1.0.0
+- pkg:composer/tractorcow/silverstripe-proxy-db@2.0.0
+- pkg:composer/tractorcow/silverstripe-proxy-db@2.0.0-beta1
+- pkg:composer/tractorcow/silverstripe-proxy-db@3.0.0

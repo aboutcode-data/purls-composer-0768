@@ -1,0 +1,4 @@
+- pkg:composer/thiagok/picpay-php-sdk@1.0
+- pkg:composer/thiagok/picpay-php-sdk@1.1
+- pkg:composer/thiagok/picpay-php-sdk@v0.1
+- pkg:composer/thiagok/picpay-php-sdk@v0.2

@@ -1,0 +1,6 @@
+- pkg:composer/tsoi/event-bus-bundle@1.1
+- pkg:composer/tsoi/event-bus-bundle@1.2.0
+- pkg:composer/tsoi/event-bus-bundle@1.3.0
+- pkg:composer/tsoi/event-bus-bundle@1.3.0-beta
+- pkg:composer/tsoi/event-bus-bundle@1.3.0-rc
+- pkg:composer/tsoi/event-bus-bundle@v1.0.0-beta

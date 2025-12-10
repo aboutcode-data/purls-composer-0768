@@ -1,0 +1,4 @@
+- pkg:composer/test-magenx/module-marketplace@100.3.4
+- pkg:composer/test-magenx/module-marketplace@100.4.0
+- pkg:composer/test-magenx/module-marketplace@100.4.1
+- pkg:composer/test-magenx/module-marketplace@100.4.2

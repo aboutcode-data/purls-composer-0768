@@ -1,0 +1,4 @@
+- pkg:composer/test-magenx/module-backend@101.0.4
+- pkg:composer/test-magenx/module-backend@102.0.1
+- pkg:composer/test-magenx/module-backend@102.0.2
+- pkg:composer/test-magenx/module-backend@102.0.3

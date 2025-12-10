@@ -1,0 +1,10 @@
+- pkg:composer/typo3-console/composer-auto-setup@0.1.0
+- pkg:composer/typo3-console/composer-auto-setup@0.2.0
+- pkg:composer/typo3-console/composer-auto-setup@0.2.1
+- pkg:composer/typo3-console/composer-auto-setup@0.3.0
+- pkg:composer/typo3-console/composer-auto-setup@0.3.1
+- pkg:composer/typo3-console/composer-auto-setup@0.3.2
+- pkg:composer/typo3-console/composer-auto-setup@0.3.3
+- pkg:composer/typo3-console/composer-auto-setup@0.3.4
+- pkg:composer/typo3-console/composer-auto-setup@0.3.5
+- pkg:composer/typo3-console/composer-auto-setup@v0.3.6

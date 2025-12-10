@@ -1,0 +1,4 @@
+- pkg:composer/technodelight/symfony-configuration-cli-initialiser@1.0.0
+- pkg:composer/technodelight/symfony-configuration-cli-initialiser@1.0.1
+- pkg:composer/technodelight/symfony-configuration-cli-initialiser@1.0.2
+- pkg:composer/technodelight/symfony-configuration-cli-initialiser@2.0.0

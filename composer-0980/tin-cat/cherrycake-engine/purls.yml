@@ -1,0 +1,5 @@
+- pkg:composer/tin-cat/cherrycake-engine@0.2.0-alpha
+- pkg:composer/tin-cat/cherrycake-engine@0.3.0-alpha
+- pkg:composer/tin-cat/cherrycake-engine@v0.4.0-beta
+- pkg:composer/tin-cat/cherrycake-engine@v0.4.1-beta
+- pkg:composer/tin-cat/cherrycake-engine@v1.0.0-beta

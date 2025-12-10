@@ -1,0 +1,5 @@
+- pkg:composer/tkaratug/laravel-notification-event-subscriber@1.0.0
+- pkg:composer/tkaratug/laravel-notification-event-subscriber@1.1.0
+- pkg:composer/tkaratug/laravel-notification-event-subscriber@1.2.0
+- pkg:composer/tkaratug/laravel-notification-event-subscriber@1.3.0
+- pkg:composer/tkaratug/laravel-notification-event-subscriber@1.4.0

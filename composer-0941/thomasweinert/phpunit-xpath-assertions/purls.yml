@@ -1,0 +1,8 @@
+- pkg:composer/thomasweinert/phpunit-xpath-assertions@1.0.0
+- pkg:composer/thomasweinert/phpunit-xpath-assertions@1.0.1
+- pkg:composer/thomasweinert/phpunit-xpath-assertions@1.0.2
+- pkg:composer/thomasweinert/phpunit-xpath-assertions@1.1.0
+- pkg:composer/thomasweinert/phpunit-xpath-assertions@2.0.0
+- pkg:composer/thomasweinert/phpunit-xpath-assertions@3.0.0
+- pkg:composer/thomasweinert/phpunit-xpath-assertions@v4.0.0
+- pkg:composer/thomasweinert/phpunit-xpath-assertions@v4.1.0

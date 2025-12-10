@@ -1,0 +1,6 @@
+- pkg:composer/the.moiza/csvtopostgresql@v0.9-alpha
+- pkg:composer/the.moiza/csvtopostgresql@v0.9.1-beta
+- pkg:composer/the.moiza/csvtopostgresql@v0.9.2-beta
+- pkg:composer/the.moiza/csvtopostgresql@v0.9.3-beta
+- pkg:composer/the.moiza/csvtopostgresql@v1.0
+- pkg:composer/the.moiza/csvtopostgresql@v1.0.23.4

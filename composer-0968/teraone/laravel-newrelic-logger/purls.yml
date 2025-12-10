@@ -1,0 +1,6 @@
+- pkg:composer/teraone/laravel-newrelic-logger@10.0.1
+- pkg:composer/teraone/laravel-newrelic-logger@9.0.1
+- pkg:composer/teraone/laravel-newrelic-logger@v10.0
+- pkg:composer/teraone/laravel-newrelic-logger@v10.0.2
+- pkg:composer/teraone/laravel-newrelic-logger@v9.0
+- pkg:composer/teraone/laravel-newrelic-logger@v9.0.2

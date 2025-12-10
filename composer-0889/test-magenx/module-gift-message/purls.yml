@@ -1,0 +1,4 @@
+- pkg:composer/test-magenx/module-gift-message@100.3.2
+- pkg:composer/test-magenx/module-gift-message@100.3.4
+- pkg:composer/test-magenx/module-gift-message@100.4.1
+- pkg:composer/test-magenx/module-gift-message@100.4.2

@@ -1,0 +1,3 @@
+- pkg:composer/topfloor/composer-cleanup-vcs-dirs@1.0.0
+- pkg:composer/topfloor/composer-cleanup-vcs-dirs@1.0.1
+- pkg:composer/topfloor/composer-cleanup-vcs-dirs@1.1.0
