@@ -794,4 +794,6 @@
 - pkg:composer/survos/location-bundle@2.0.79
 - pkg:composer/survos/location-bundle@2.0.80
 - pkg:composer/survos/location-bundle@2.0.81
+- pkg:composer/survos/location-bundle@2.0.82
+- pkg:composer/survos/location-bundle@2.0.83
 - pkg:composer/survos/location-bundle@v1.0.1-beta

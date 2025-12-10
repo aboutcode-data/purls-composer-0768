@@ -1,5 +1,6 @@
 - pkg:composer/sourcentis/mercator-core@1.0.21
 - pkg:composer/sourcentis/mercator-core@1.10.0
+- pkg:composer/sourcentis/mercator-core@1.11.0
 - pkg:composer/sourcentis/mercator-core@1.4.0
 - pkg:composer/sourcentis/mercator-core@1.5.0
 - pkg:composer/sourcentis/mercator-core@1.6.0

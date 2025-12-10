@@ -34,3 +34,4 @@
 - pkg:composer/spryker/merchant-gui@3.8.1
 - pkg:composer/spryker/merchant-gui@3.9.0
 - pkg:composer/spryker/merchant-gui@4.0.0
+- pkg:composer/spryker/merchant-gui@4.0.1
