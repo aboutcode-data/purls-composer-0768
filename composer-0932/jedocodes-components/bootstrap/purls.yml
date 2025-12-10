@@ -1,3 +1,4 @@
 - pkg:composer/jedocodes-components/bootstrap@5.3.3
 - pkg:composer/jedocodes-components/bootstrap@5.3.6
 - pkg:composer/jedocodes-components/bootstrap@5.3.7
+- pkg:composer/jedocodes-components/bootstrap@5.3.8
