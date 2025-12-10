@@ -60,3 +60,4 @@
 - pkg:composer/koriym/app-state-diagram@v0.14.2
 - pkg:composer/koriym/app-state-diagram@v0.14.3
 - pkg:composer/koriym/app-state-diagram@v0.14.4
+- pkg:composer/koriym/app-state-diagram@v0.16.0
