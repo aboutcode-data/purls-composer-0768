@@ -1,3 +1,4 @@
 - pkg:composer/nerou/json-schema-validator@1.0.2
 - pkg:composer/nerou/json-schema-validator@1.0.3
 - pkg:composer/nerou/json-schema-validator@v1.0.4
+- pkg:composer/nerou/json-schema-validator@v1.0.5
