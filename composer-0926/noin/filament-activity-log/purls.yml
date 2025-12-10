@@ -7,3 +7,5 @@
 - pkg:composer/noin/filament-activity-log@v4.0.0-beta1.0.5
 - pkg:composer/noin/filament-activity-log@v4.0.0-beta1.0.6
 - pkg:composer/noin/filament-activity-log@v4.0.1
+- pkg:composer/noin/filament-activity-log@v4.1.0
+- pkg:composer/noin/filament-activity-log@v4.1.1

@@ -12,3 +12,4 @@
 - pkg:composer/opay-dev/php-linting-tools@v1.4.2
 - pkg:composer/opay-dev/php-linting-tools@v1.5.0
 - pkg:composer/opay-dev/php-linting-tools@v1.5.1
+- pkg:composer/opay-dev/php-linting-tools@v1.6.0
