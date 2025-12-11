@@ -90,6 +90,7 @@
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.63.14
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.63.15
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.63.16
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.63.17
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.63.3
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.63.5
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.63.7

@@ -4,3 +4,4 @@
 - pkg:composer/gsmservice-pl/messaging-sdk-php@v2.1.5
 - pkg:composer/gsmservice-pl/messaging-sdk-php@v3.0.1
 - pkg:composer/gsmservice-pl/messaging-sdk-php@v3.1.2
+- pkg:composer/gsmservice-pl/messaging-sdk-php@v3.2.3
