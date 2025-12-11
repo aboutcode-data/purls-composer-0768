@@ -2,3 +2,4 @@
 - pkg:composer/imedge/snmp-client@v0.2.0
 - pkg:composer/imedge/snmp-client@v0.2.1
 - pkg:composer/imedge/snmp-client@v0.2.2
+- pkg:composer/imedge/snmp-client@v0.3.0

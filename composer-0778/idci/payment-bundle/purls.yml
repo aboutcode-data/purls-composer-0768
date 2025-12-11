@@ -93,6 +93,7 @@
 - pkg:composer/idci/payment-bundle@v6.4.10
 - pkg:composer/idci/payment-bundle@v6.4.11
 - pkg:composer/idci/payment-bundle@v6.4.12
+- pkg:composer/idci/payment-bundle@v6.4.13
 - pkg:composer/idci/payment-bundle@v6.4.2
 - pkg:composer/idci/payment-bundle@v6.4.3
 - pkg:composer/idci/payment-bundle@v6.4.4
