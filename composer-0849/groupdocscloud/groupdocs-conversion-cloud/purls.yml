@@ -29,6 +29,7 @@
 - pkg:composer/groupdocscloud/groupdocs-conversion-cloud@24.4
 - pkg:composer/groupdocscloud/groupdocs-conversion-cloud@24.8
 - pkg:composer/groupdocscloud/groupdocs-conversion-cloud@25.10
+- pkg:composer/groupdocscloud/groupdocs-conversion-cloud@25.12
 - pkg:composer/groupdocscloud/groupdocs-conversion-cloud@25.3
 - pkg:composer/groupdocscloud/groupdocs-conversion-cloud@25.4
 - pkg:composer/groupdocscloud/groupdocs-conversion-cloud@25.5
