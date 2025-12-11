@@ -11,3 +11,4 @@
 - pkg:composer/fortispay/magento-2-payment-gateway@1.4.1
 - pkg:composer/fortispay/magento-2-payment-gateway@1.5.0
 - pkg:composer/fortispay/magento-2-payment-gateway@1.6.0
+- pkg:composer/fortispay/magento-2-payment-gateway@1.6.1
