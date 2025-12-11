@@ -14,3 +14,4 @@
 - pkg:composer/fromholdio/silverstripe-attributable@2.4.1
 - pkg:composer/fromholdio/silverstripe-attributable@2.4.2
 - pkg:composer/fromholdio/silverstripe-attributable@3.0.0
+- pkg:composer/fromholdio/silverstripe-attributable@4.0.0
