@@ -1,3 +1,4 @@
 - pkg:composer/microsoft/msads@v13.0.24.1
 - pkg:composer/microsoft/msads@v13.0.25
 - pkg:composer/microsoft/msads@v13.0.25.1
+- pkg:composer/microsoft/msads@v13.0.26
