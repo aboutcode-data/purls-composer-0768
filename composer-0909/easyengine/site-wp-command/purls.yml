@@ -14,6 +14,7 @@
 - pkg:composer/easyengine/site-wp-command@v1.0.8
 - pkg:composer/easyengine/site-wp-command@v1.0.9
 - pkg:composer/easyengine/site-wp-command@v1.1.0
+- pkg:composer/easyengine/site-wp-command@v1.10.0
 - pkg:composer/easyengine/site-wp-command@v1.2.0
 - pkg:composer/easyengine/site-wp-command@v1.3.0
 - pkg:composer/easyengine/site-wp-command@v1.3.1
