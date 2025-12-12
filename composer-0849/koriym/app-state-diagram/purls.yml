@@ -29,6 +29,7 @@
 - pkg:composer/koriym/app-state-diagram@0.13.3
 - pkg:composer/koriym/app-state-diagram@0.13.4
 - pkg:composer/koriym/app-state-diagram@0.15.0
+- pkg:composer/koriym/app-state-diagram@0.17.0
 - pkg:composer/koriym/app-state-diagram@0.2.0
 - pkg:composer/koriym/app-state-diagram@0.3.0
 - pkg:composer/koriym/app-state-diagram@0.3.1

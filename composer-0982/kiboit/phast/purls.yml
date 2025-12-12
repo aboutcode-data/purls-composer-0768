@@ -13,6 +13,7 @@
 - pkg:composer/kiboit/phast@1.109
 - pkg:composer/kiboit/phast@1.11.0
 - pkg:composer/kiboit/phast@1.110
+- pkg:composer/kiboit/phast@1.111
 - pkg:composer/kiboit/phast@1.12.0
 - pkg:composer/kiboit/phast@1.12.1
 - pkg:composer/kiboit/phast@1.12.2
