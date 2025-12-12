@@ -14,8 +14,16 @@
 - pkg:composer/reyemtech/sail@1.44.3
 - pkg:composer/reyemtech/sail@1.44.4
 - pkg:composer/reyemtech/sail@1.44.5
+- pkg:composer/reyemtech/sail@1.45.0
+- pkg:composer/reyemtech/sail@1.45.1
+- pkg:composer/reyemtech/sail@1.45.2
+- pkg:composer/reyemtech/sail@1.45.4
+- pkg:composer/reyemtech/sail@1.45.5
+- pkg:composer/reyemtech/sail@1.45.6
+- pkg:composer/reyemtech/sail@1.45.7
 - pkg:composer/reyemtech/sail@v1.43.0
 - pkg:composer/reyemtech/sail@v1.43.1
 - pkg:composer/reyemtech/sail@v1.43.2
 - pkg:composer/reyemtech/sail@v1.43.3
 - pkg:composer/reyemtech/sail@v1.43.4
+- pkg:composer/reyemtech/sail@v1.45.3

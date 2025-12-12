@@ -16,9 +16,13 @@
 - pkg:composer/rapidez/paynl@2.0.0
 - pkg:composer/rapidez/paynl@2.0.1
 - pkg:composer/rapidez/paynl@2.0.2
+- pkg:composer/rapidez/paynl@2.1.0
 - pkg:composer/rapidez/paynl@3.0.0
 - pkg:composer/rapidez/paynl@3.1.0
 - pkg:composer/rapidez/paynl@3.1.1
+- pkg:composer/rapidez/paynl@3.2.0
 - pkg:composer/rapidez/paynl@4.0.0
 - pkg:composer/rapidez/paynl@4.0.1
 - pkg:composer/rapidez/paynl@4.0.2
+- pkg:composer/rapidez/paynl@4.1.0
+- pkg:composer/rapidez/paynl@5.0.0
