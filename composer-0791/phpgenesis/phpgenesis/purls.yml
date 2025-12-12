@@ -101,3 +101,4 @@
 - pkg:composer/phpgenesis/phpgenesis@v1.7.0
 - pkg:composer/phpgenesis/phpgenesis@v1.8.0
 - pkg:composer/phpgenesis/phpgenesis@v1.9.0
+- pkg:composer/phpgenesis/phpgenesis@v1.9.1
