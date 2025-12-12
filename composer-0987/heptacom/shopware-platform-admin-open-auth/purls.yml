@@ -43,3 +43,4 @@
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@8.0.0-rc1
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@9.0.0-beta5
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@9.0.0-beta6
+- pkg:composer/heptacom/shopware-platform-admin-open-auth@9.0.0-rc.1
