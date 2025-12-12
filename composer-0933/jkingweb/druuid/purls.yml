@@ -1,1 +1,3 @@
 - pkg:composer/jkingweb/druuid@3.0.0
+- pkg:composer/jkingweb/druuid@3.1.0
+- pkg:composer/jkingweb/druuid@4.0.0
