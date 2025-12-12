@@ -75,3 +75,4 @@
 - pkg:composer/symfonycorp/connect@v8.1.8
 - pkg:composer/symfonycorp/connect@v8.2.0
 - pkg:composer/symfonycorp/connect@v8.2.1
+- pkg:composer/symfonycorp/connect@v8.2.2

@@ -24,3 +24,4 @@
 - pkg:composer/sylynder/engine@v2.8.0
 - pkg:composer/sylynder/engine@v2.9.0
 - pkg:composer/sylynder/engine@v2.9.5
+- pkg:composer/sylynder/engine@v3.0.0
