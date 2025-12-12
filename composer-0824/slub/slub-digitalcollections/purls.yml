@@ -20,3 +20,4 @@
 - pkg:composer/slub/slub-digitalcollections@v4.0.8
 - pkg:composer/slub/slub-digitalcollections@v4.0.9
 - pkg:composer/slub/slub-digitalcollections@v4.1.0
+- pkg:composer/slub/slub-digitalcollections@v5.0.0
