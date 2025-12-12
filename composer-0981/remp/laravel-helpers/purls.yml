@@ -27,3 +27,5 @@
 - pkg:composer/remp/laravel-helpers@4.2.3
 - pkg:composer/remp/laravel-helpers@4.2.4
 - pkg:composer/remp/laravel-helpers@4.2.5
+- pkg:composer/remp/laravel-helpers@4.3.0
+- pkg:composer/remp/laravel-helpers@4.3.1
