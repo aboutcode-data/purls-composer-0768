@@ -6,3 +6,4 @@
 - pkg:composer/lcapps/php-code-style@1.0.5
 - pkg:composer/lcapps/php-code-style@1.0.6
 - pkg:composer/lcapps/php-code-style@1.0.7
+- pkg:composer/lcapps/php-code-style@1.1.0
