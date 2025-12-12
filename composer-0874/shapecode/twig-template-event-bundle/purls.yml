@@ -17,3 +17,4 @@
 - pkg:composer/shapecode/twig-template-event-bundle@4.0.0
 - pkg:composer/shapecode/twig-template-event-bundle@4.0.1
 - pkg:composer/shapecode/twig-template-event-bundle@5.0.0
+- pkg:composer/shapecode/twig-template-event-bundle@6.0.0
