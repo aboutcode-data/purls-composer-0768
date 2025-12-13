@@ -1,3 +1,4 @@
+- pkg:composer/talleu/trigger-mapping@0.2.4
 - pkg:composer/talleu/trigger-mapping@v0.1
 - pkg:composer/talleu/trigger-mapping@v0.1.1
 - pkg:composer/talleu/trigger-mapping@v0.1.2
@@ -7,3 +8,5 @@
 - pkg:composer/talleu/trigger-mapping@v0.1.6
 - pkg:composer/talleu/trigger-mapping@v0.2.1
 - pkg:composer/talleu/trigger-mapping@v0.2.3
+- pkg:composer/talleu/trigger-mapping@v0.2.5
+- pkg:composer/talleu/trigger-mapping@v0.2.6

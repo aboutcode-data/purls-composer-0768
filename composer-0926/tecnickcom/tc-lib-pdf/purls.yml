@@ -55,3 +55,5 @@
 - pkg:composer/tecnickcom/tc-lib-pdf@8.2.2
 - pkg:composer/tecnickcom/tc-lib-pdf@8.2.3
 - pkg:composer/tecnickcom/tc-lib-pdf@8.2.4
+- pkg:composer/tecnickcom/tc-lib-pdf@8.2.7
+- pkg:composer/tecnickcom/tc-lib-pdf@8.3.1
