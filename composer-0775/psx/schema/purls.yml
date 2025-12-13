@@ -225,3 +225,4 @@
 - pkg:composer/psx/schema@v7.5.1
 - pkg:composer/psx/schema@v7.5.2
 - pkg:composer/psx/schema@v7.5.3
+- pkg:composer/psx/schema@v7.6.0
