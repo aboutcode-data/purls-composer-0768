@@ -117,6 +117,7 @@
 - pkg:composer/moov/moov-php@v0.7.18
 - pkg:composer/moov/moov-php@v0.7.19
 - pkg:composer/moov/moov-php@v0.7.2
+- pkg:composer/moov/moov-php@v0.7.20
 - pkg:composer/moov/moov-php@v0.7.3
 - pkg:composer/moov/moov-php@v0.7.4
 - pkg:composer/moov/moov-php@v0.7.5

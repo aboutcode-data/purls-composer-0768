@@ -488,6 +488,7 @@
 - pkg:composer/neos/neos-base-distribution@8.3.9
 - pkg:composer/neos/neos-base-distribution@8.4.0
 - pkg:composer/neos/neos-base-distribution@8.4.1
+- pkg:composer/neos/neos-base-distribution@8.4.2
 - pkg:composer/neos/neos-base-distribution@9.0.0-beta10
 - pkg:composer/neos/neos-base-distribution@9.0.0-beta11
 - pkg:composer/neos/neos-base-distribution@9.0.0-beta13
@@ -512,3 +513,4 @@
 - pkg:composer/neos/neos-base-distribution@9.0.5
 - pkg:composer/neos/neos-base-distribution@9.0.6
 - pkg:composer/neos/neos-base-distribution@9.0.7
+- pkg:composer/neos/neos-base-distribution@9.0.8
