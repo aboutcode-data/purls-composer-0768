@@ -40,3 +40,5 @@
 - pkg:composer/six-shop/system@v0.3.9
 - pkg:composer/six-shop/system@v1.0.0
 - pkg:composer/six-shop/system@v1.0.1
+- pkg:composer/six-shop/system@v1.0.2
+- pkg:composer/six-shop/system@v1.0.3
