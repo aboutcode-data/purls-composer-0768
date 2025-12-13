@@ -150,6 +150,7 @@
 - pkg:composer/typicms/base@16.0.6
 - pkg:composer/typicms/base@16.0.7
 - pkg:composer/typicms/base@16.0.8
+- pkg:composer/typicms/base@16.0.9
 - pkg:composer/typicms/base@2.0.0
 - pkg:composer/typicms/base@2.0.1
 - pkg:composer/typicms/base@2.0.2

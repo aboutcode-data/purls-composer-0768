@@ -14,3 +14,4 @@
 - pkg:composer/webignition/stubble@0.7
 - pkg:composer/webignition/stubble@0.8
 - pkg:composer/webignition/stubble@0.9
+- pkg:composer/webignition/stubble@1.0
