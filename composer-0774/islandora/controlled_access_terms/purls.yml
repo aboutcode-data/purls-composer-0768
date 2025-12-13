@@ -10,6 +10,7 @@
 - pkg:composer/islandora/controlled_access_terms@2.4.4
 - pkg:composer/islandora/controlled_access_terms@2.5.1
 - pkg:composer/islandora/controlled_access_terms@2.5.2
+- pkg:composer/islandora/controlled_access_terms@2.6.0
 - pkg:composer/islandora/controlled_access_terms@v2.2.0
 - pkg:composer/islandora/controlled_access_terms@v2.2.1
 - pkg:composer/islandora/controlled_access_terms@v2.3.0
