@@ -12,6 +12,7 @@
 - pkg:composer/spiral/cycle-bridge@v2.11.0
 - pkg:composer/spiral/cycle-bridge@v2.11.1
 - pkg:composer/spiral/cycle-bridge@v2.12.0
+- pkg:composer/spiral/cycle-bridge@v2.13.0
 - pkg:composer/spiral/cycle-bridge@v2.2.0
 - pkg:composer/spiral/cycle-bridge@v2.2.1
 - pkg:composer/spiral/cycle-bridge@v2.3.0
