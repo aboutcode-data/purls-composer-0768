@@ -16,3 +16,4 @@
 - pkg:composer/labsllm/llm-wrapper@v2.2.1
 - pkg:composer/labsllm/llm-wrapper@v2.5-alpha1
 - pkg:composer/labsllm/llm-wrapper@v2.5-alpha1.1
+- pkg:composer/labsllm/llm-wrapper@v2.5-alpha1.2
