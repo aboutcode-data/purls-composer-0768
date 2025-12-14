@@ -7,6 +7,7 @@
 - pkg:composer/aeon-php/sleep@1.0.0
 - pkg:composer/aeon-php/sleep@1.0.1
 - pkg:composer/aeon-php/sleep@1.0.11
+- pkg:composer/aeon-php/sleep@1.0.12
 - pkg:composer/aeon-php/sleep@1.0.2
 - pkg:composer/aeon-php/sleep@1.0.3
 - pkg:composer/aeon-php/sleep@1.0.8

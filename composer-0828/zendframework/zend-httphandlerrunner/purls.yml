@@ -1,0 +1,4 @@
+- pkg:composer/zendframework/zend-httphandlerrunner@1.0.0
+- pkg:composer/zendframework/zend-httphandlerrunner@1.0.1
+- pkg:composer/zendframework/zend-httphandlerrunner@1.0.2
+- pkg:composer/zendframework/zend-httphandlerrunner@1.1.0

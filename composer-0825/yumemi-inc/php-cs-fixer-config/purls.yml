@@ -1,0 +1,4 @@
+- pkg:composer/yumemi-inc/php-cs-fixer-config@v8.1.0
+- pkg:composer/yumemi-inc/php-cs-fixer-config@v8.1.1
+- pkg:composer/yumemi-inc/php-cs-fixer-config@v8.1.2
+- pkg:composer/yumemi-inc/php-cs-fixer-config@v8.1.3

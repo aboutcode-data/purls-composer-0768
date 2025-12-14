@@ -1,0 +1,4 @@
+- pkg:composer/zolli/phabricator-php-api@1.0.0
+- pkg:composer/zolli/phabricator-php-api@2.0.0
+- pkg:composer/zolli/phabricator-php-api@2.0.1
+- pkg:composer/zolli/phabricator-php-api@2.0.2

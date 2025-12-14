@@ -11,3 +11,5 @@
 - pkg:composer/2lenet/import-bundle@1.4.5
 - pkg:composer/2lenet/import-bundle@1.4.6
 - pkg:composer/2lenet/import-bundle@2.0.0
+- pkg:composer/2lenet/import-bundle@2.0.1
+- pkg:composer/2lenet/import-bundle@2.0.2

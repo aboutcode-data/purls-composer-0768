@@ -1,0 +1,4 @@
+- pkg:composer/zavrik/laravel-centrifugo@0.1
+- pkg:composer/zavrik/laravel-centrifugo@0.2
+- pkg:composer/zavrik/laravel-centrifugo@0.3
+- pkg:composer/zavrik/laravel-centrifugo@0.3.1

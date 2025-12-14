@@ -1,0 +1,5 @@
+- pkg:composer/zerodha/phpkiteconnect@v4.0.0
+- pkg:composer/zerodha/phpkiteconnect@v4.0.1
+- pkg:composer/zerodha/phpkiteconnect@v4.1.0
+- pkg:composer/zerodha/phpkiteconnect@v4.2.0
+- pkg:composer/zerodha/phpkiteconnect@v5.0.0

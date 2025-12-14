@@ -1,0 +1,13 @@
+- pkg:composer/zaloplatform/zalo-php-sdk@1.0.0
+- pkg:composer/zaloplatform/zalo-php-sdk@1.0.1
+- pkg:composer/zaloplatform/zalo-php-sdk@1.0.2
+- pkg:composer/zaloplatform/zalo-php-sdk@1.0.3
+- pkg:composer/zaloplatform/zalo-php-sdk@2.0.0
+- pkg:composer/zaloplatform/zalo-php-sdk@2.0.1
+- pkg:composer/zaloplatform/zalo-php-sdk@2.0.2
+- pkg:composer/zaloplatform/zalo-php-sdk@2.0.3
+- pkg:composer/zaloplatform/zalo-php-sdk@4.0.0
+- pkg:composer/zaloplatform/zalo-php-sdk@4.0.1
+- pkg:composer/zaloplatform/zalo-php-sdk@4.0.2
+- pkg:composer/zaloplatform/zalo-php-sdk@4.0.3
+- pkg:composer/zaloplatform/zalo-php-sdk@4.0.4

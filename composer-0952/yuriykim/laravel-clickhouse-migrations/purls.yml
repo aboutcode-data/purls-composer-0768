@@ -1,0 +1,2 @@
+- pkg:composer/yuriykim/laravel-clickhouse-migrations@1.0
+- pkg:composer/yuriykim/laravel-clickhouse-migrations@v1.1.0

@@ -1,0 +1,6 @@
+- pkg:composer/znframework/package-remote@6.0.0
+- pkg:composer/znframework/package-remote@6.0.8
+- pkg:composer/znframework/package-remote@6.1.0
+- pkg:composer/znframework/package-remote@7.0.0
+- pkg:composer/znframework/package-remote@7.1.0
+- pkg:composer/znframework/package-remote@8.21.0

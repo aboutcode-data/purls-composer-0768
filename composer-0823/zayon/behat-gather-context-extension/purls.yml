@@ -1,0 +1,3 @@
+- pkg:composer/zayon/behat-gather-context-extension@v0.0.1
+- pkg:composer/zayon/behat-gather-context-extension@v0.0.2
+- pkg:composer/zayon/behat-gather-context-extension@v0.0.3
