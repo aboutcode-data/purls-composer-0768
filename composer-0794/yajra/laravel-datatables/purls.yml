@@ -1,0 +1,11 @@
+- pkg:composer/yajra/laravel-datatables@v1.0.0
+- pkg:composer/yajra/laravel-datatables@v1.1.0
+- pkg:composer/yajra/laravel-datatables@v1.2.0
+- pkg:composer/yajra/laravel-datatables@v1.3.0
+- pkg:composer/yajra/laravel-datatables@v1.4.0
+- pkg:composer/yajra/laravel-datatables@v1.5.0
+- pkg:composer/yajra/laravel-datatables@v10.0.0
+- pkg:composer/yajra/laravel-datatables@v10.1.0
+- pkg:composer/yajra/laravel-datatables@v11.0.0
+- pkg:composer/yajra/laravel-datatables@v12.0.0
+- pkg:composer/yajra/laravel-datatables@v9.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/yiisoft/mailer-swiftmailer@1.0.0
+- pkg:composer/yiisoft/mailer-swiftmailer@2.0.0
+- pkg:composer/yiisoft/mailer-swiftmailer@3.0.0
+- pkg:composer/yiisoft/mailer-swiftmailer@3.0.1

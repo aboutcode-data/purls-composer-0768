@@ -1,0 +1,4 @@
+- pkg:composer/xorpay/sdk@0.0.1
+- pkg:composer/xorpay/sdk@0.0.2
+- pkg:composer/xorpay/sdk@0.0.3
+- pkg:composer/xorpay/sdk@v0.1.0

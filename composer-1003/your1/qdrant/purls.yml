@@ -1,0 +1,4 @@
+- pkg:composer/your1/qdrant@0.5.3
+- pkg:composer/your1/qdrant@v0.5
+- pkg:composer/your1/qdrant@v0.5.1
+- pkg:composer/your1/qdrant@v0.5.2

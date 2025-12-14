@@ -1,0 +1,3 @@
+- pkg:composer/www/loadbalance@1.0.0
+- pkg:composer/www/loadbalance@1.0.0.1
+- pkg:composer/www/loadbalance@1.0.0.2

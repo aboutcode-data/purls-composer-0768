@@ -1,0 +1,7 @@
+- pkg:composer/wustzdd/sample-module@1.0.0
+- pkg:composer/wustzdd/sample-module@2.0.0
+- pkg:composer/wustzdd/sample-module@3.0.0
+- pkg:composer/wustzdd/sample-module@4.0.0
+- pkg:composer/wustzdd/sample-module@5.0.0
+- pkg:composer/wustzdd/sample-module@8.0.0
+- pkg:composer/wustzdd/sample-module@v7.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/wizcodepl/outdated-packages-health-check@1.0.0
+- pkg:composer/wizcodepl/outdated-packages-health-check@1.0.1
+- pkg:composer/wizcodepl/outdated-packages-health-check@1.0.2
+- pkg:composer/wizcodepl/outdated-packages-health-check@1.0.3

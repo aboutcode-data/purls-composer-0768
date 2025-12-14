@@ -1,0 +1,11 @@
+- pkg:composer/workerman/mqtt@v1.0
+- pkg:composer/workerman/mqtt@v1.1
+- pkg:composer/workerman/mqtt@v1.2
+- pkg:composer/workerman/mqtt@v1.3
+- pkg:composer/workerman/mqtt@v1.4
+- pkg:composer/workerman/mqtt@v1.5
+- pkg:composer/workerman/mqtt@v1.6
+- pkg:composer/workerman/mqtt@v1.7
+- pkg:composer/workerman/mqtt@v2.0
+- pkg:composer/workerman/mqtt@v2.1
+- pkg:composer/workerman/mqtt@v2.2

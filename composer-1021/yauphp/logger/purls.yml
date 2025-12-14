@@ -1,0 +1,5 @@
+- pkg:composer/yauphp/logger@1.0.5
+- pkg:composer/yauphp/logger@1.1.0
+- pkg:composer/yauphp/logger@2.0.0
+- pkg:composer/yauphp/logger@2.5.0
+- pkg:composer/yauphp/logger@2.5.1

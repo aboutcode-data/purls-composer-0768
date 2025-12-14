@@ -1,0 +1,12 @@
+- pkg:composer/yiisoft/router-fastroute@1.0.0
+- pkg:composer/yiisoft/router-fastroute@1.1.0
+- pkg:composer/yiisoft/router-fastroute@1.1.1
+- pkg:composer/yiisoft/router-fastroute@2.0.0
+- pkg:composer/yiisoft/router-fastroute@2.1.0
+- pkg:composer/yiisoft/router-fastroute@3.0.0
+- pkg:composer/yiisoft/router-fastroute@3.0.1
+- pkg:composer/yiisoft/router-fastroute@3.1.0
+- pkg:composer/yiisoft/router-fastroute@4.0.0
+- pkg:composer/yiisoft/router-fastroute@4.0.1
+- pkg:composer/yiisoft/router-fastroute@4.0.2
+- pkg:composer/yiisoft/router-fastroute@4.0.3

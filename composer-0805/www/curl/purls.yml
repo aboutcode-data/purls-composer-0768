@@ -1,0 +1,13 @@
+- pkg:composer/www/curl@1.0.5.6
+- pkg:composer/www/curl@1.0.5.7
+- pkg:composer/www/curl@1.0.5.8
+- pkg:composer/www/curl@1.0.5.9
+- pkg:composer/www/curl@1.0.6.0
+- pkg:composer/www/curl@1.0.6.1
+- pkg:composer/www/curl@1.0.6.2
+- pkg:composer/www/curl@1.0.6.3
+- pkg:composer/www/curl@1.0.6.4
+- pkg:composer/www/curl@1.0.6.5
+- pkg:composer/www/curl@1.0.6.6
+- pkg:composer/www/curl@1.0.6.7
+- pkg:composer/www/curl@1.0.6.8

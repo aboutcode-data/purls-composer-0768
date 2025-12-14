@@ -1,0 +1,4 @@
+- pkg:composer/wordpress/mcp-adapter@0.1.0
+- pkg:composer/wordpress/mcp-adapter@v0.3.0
+- pkg:composer/wordpress/mcp-adapter@v0.4.0
+- pkg:composer/wordpress/mcp-adapter@v0.4.1

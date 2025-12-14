@@ -1,0 +1,2 @@
+- pkg:composer/wp-cli-test/testing-command@v0.1.0
+- pkg:composer/wp-cli-test/testing-command@v0.2.0

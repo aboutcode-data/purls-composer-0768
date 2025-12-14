@@ -1,0 +1,14 @@
+- pkg:composer/xp-forge/geoip@v0.1.0
+- pkg:composer/xp-forge/geoip@v0.2.0
+- pkg:composer/xp-forge/geoip@v1.0.0
+- pkg:composer/xp-forge/geoip@v1.1.0
+- pkg:composer/xp-forge/geoip@v2.0.0
+- pkg:composer/xp-forge/geoip@v2.1.0
+- pkg:composer/xp-forge/geoip@v3.0.0
+- pkg:composer/xp-forge/geoip@v3.1.0
+- pkg:composer/xp-forge/geoip@v4.0.0
+- pkg:composer/xp-forge/geoip@v4.0.1
+- pkg:composer/xp-forge/geoip@v5.0.0
+- pkg:composer/xp-forge/geoip@v5.1.0
+- pkg:composer/xp-forge/geoip@v5.1.1
+- pkg:composer/xp-forge/geoip@v5.2.0

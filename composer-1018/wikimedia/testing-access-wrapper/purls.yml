@@ -1,0 +1,3 @@
+- pkg:composer/wikimedia/testing-access-wrapper@1.0.0
+- pkg:composer/wikimedia/testing-access-wrapper@2.0.0
+- pkg:composer/wikimedia/testing-access-wrapper@3.0.0

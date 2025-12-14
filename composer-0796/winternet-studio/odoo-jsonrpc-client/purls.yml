@@ -1,0 +1,5 @@
+- pkg:composer/winternet-studio/odoo-jsonrpc-client@v1.0.0
+- pkg:composer/winternet-studio/odoo-jsonrpc-client@v1.1.0
+- pkg:composer/winternet-studio/odoo-jsonrpc-client@v1.2.0
+- pkg:composer/winternet-studio/odoo-jsonrpc-client@v1.3.0
+- pkg:composer/winternet-studio/odoo-jsonrpc-client@v1.3.1

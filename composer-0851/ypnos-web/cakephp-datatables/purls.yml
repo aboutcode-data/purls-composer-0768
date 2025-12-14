@@ -1,0 +1,4 @@
+- pkg:composer/ypnos-web/cakephp-datatables@v1.0
+- pkg:composer/ypnos-web/cakephp-datatables@v2.0
+- pkg:composer/ypnos-web/cakephp-datatables@v2.1
+- pkg:composer/ypnos-web/cakephp-datatables@v3.0

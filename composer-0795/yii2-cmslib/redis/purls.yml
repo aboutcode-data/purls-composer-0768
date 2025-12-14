@@ -1,0 +1,4 @@
+- pkg:composer/yii2-cmslib/redis@2.6.2
+- pkg:composer/yii2-cmslib/redis@2.6.3
+- pkg:composer/yii2-cmslib/redis@2.6.4
+- pkg:composer/yii2-cmslib/redis@2.6.5

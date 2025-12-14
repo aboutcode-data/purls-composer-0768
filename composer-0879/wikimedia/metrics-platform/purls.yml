@@ -1,0 +1,16 @@
+- pkg:composer/wikimedia/metrics-platform@0.1.1
+- pkg:composer/wikimedia/metrics-platform@1.0.0
+- pkg:composer/wikimedia/metrics-platform@2.0.0
+- pkg:composer/wikimedia/metrics-platform@2.0.0-RC1
+- pkg:composer/wikimedia/metrics-platform@2.1.0
+- pkg:composer/wikimedia/metrics-platform@3.0.0
+- pkg:composer/wikimedia/metrics-platform@3.1.0
+- pkg:composer/wikimedia/metrics-platform@4.0.0
+- pkg:composer/wikimedia/metrics-platform@4.1.0
+- pkg:composer/wikimedia/metrics-platform@4.2.0
+- pkg:composer/wikimedia/metrics-platform@4.2.1
+- pkg:composer/wikimedia/metrics-platform@4.2.2
+- pkg:composer/wikimedia/metrics-platform@4.2.3
+- pkg:composer/wikimedia/metrics-platform@4.2.4
+- pkg:composer/wikimedia/metrics-platform@4.3.0
+- pkg:composer/wikimedia/metrics-platform@v0.1.0

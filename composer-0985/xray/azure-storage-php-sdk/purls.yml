@@ -1,0 +1,5 @@
+- pkg:composer/xray/azure-storage-php-sdk@v0.1.0-alpha
+- pkg:composer/xray/azure-storage-php-sdk@v1.0.0
+- pkg:composer/xray/azure-storage-php-sdk@v1.1.0
+- pkg:composer/xray/azure-storage-php-sdk@v1.1.1
+- pkg:composer/xray/azure-storage-php-sdk@v1.1.2

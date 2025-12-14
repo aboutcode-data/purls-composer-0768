@@ -1,0 +1,4 @@
+- pkg:composer/wilbispaulo/authserver-jwt@1.0.0
+- pkg:composer/wilbispaulo/authserver-jwt@1.0.1
+- pkg:composer/wilbispaulo/authserver-jwt@2.0.0
+- pkg:composer/wilbispaulo/authserver-jwt@2.0.1

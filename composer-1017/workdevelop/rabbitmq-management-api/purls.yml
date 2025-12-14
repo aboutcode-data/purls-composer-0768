@@ -1,0 +1,9 @@
+- pkg:composer/workdevelop/rabbitmq-management-api@1.0.0
+- pkg:composer/workdevelop/rabbitmq-management-api@1.0.1
+- pkg:composer/workdevelop/rabbitmq-management-api@1.0.2
+- pkg:composer/workdevelop/rabbitmq-management-api@1.1.0
+- pkg:composer/workdevelop/rabbitmq-management-api@2.0.0
+- pkg:composer/workdevelop/rabbitmq-management-api@2.1.0
+- pkg:composer/workdevelop/rabbitmq-management-api@v3.0.0
+- pkg:composer/workdevelop/rabbitmq-management-api@v3.0.1
+- pkg:composer/workdevelop/rabbitmq-management-api@v3.0.2

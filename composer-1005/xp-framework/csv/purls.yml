@@ -1,0 +1,16 @@
+- pkg:composer/xp-framework/csv@v10.0.0
+- pkg:composer/xp-framework/csv@v10.1.0
+- pkg:composer/xp-framework/csv@v10.2.0
+- pkg:composer/xp-framework/csv@v11.0.0
+- pkg:composer/xp-framework/csv@v11.1.0
+- pkg:composer/xp-framework/csv@v6.0.0
+- pkg:composer/xp-framework/csv@v6.0.1
+- pkg:composer/xp-framework/csv@v6.1.0
+- pkg:composer/xp-framework/csv@v6.1.1
+- pkg:composer/xp-framework/csv@v6.2.0
+- pkg:composer/xp-framework/csv@v7.0.0
+- pkg:composer/xp-framework/csv@v7.1.0
+- pkg:composer/xp-framework/csv@v8.0.0
+- pkg:composer/xp-framework/csv@v8.0.1
+- pkg:composer/xp-framework/csv@v8.0.2
+- pkg:composer/xp-framework/csv@v9.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/yiisoft/cache-memcached@1.0.0
+- pkg:composer/yiisoft/cache-memcached@1.0.1
+- pkg:composer/yiisoft/cache-memcached@1.0.2
+- pkg:composer/yiisoft/cache-memcached@2.0.0
