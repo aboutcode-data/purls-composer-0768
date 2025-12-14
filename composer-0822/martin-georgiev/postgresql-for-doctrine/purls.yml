@@ -65,3 +65,4 @@
 - pkg:composer/martin-georgiev/postgresql-for-doctrine@v3.6.0
 - pkg:composer/martin-georgiev/postgresql-for-doctrine@v3.6.1
 - pkg:composer/martin-georgiev/postgresql-for-doctrine@v3.6.2
+- pkg:composer/martin-georgiev/postgresql-for-doctrine@v3.7.0
