@@ -21,3 +21,4 @@
 - pkg:composer/spiral/roadrunner-cli@v2.6.0
 - pkg:composer/spiral/roadrunner-cli@v2.7.0
 - pkg:composer/spiral/roadrunner-cli@v2.7.1
+- pkg:composer/spiral/roadrunner-cli@v2.7.2
