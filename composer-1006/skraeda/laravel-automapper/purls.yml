@@ -4,3 +4,6 @@
 - pkg:composer/skraeda/laravel-automapper@v1.2.0
 - pkg:composer/skraeda/laravel-automapper@v1.2.1
 - pkg:composer/skraeda/laravel-automapper@v1.2.2
+- pkg:composer/skraeda/laravel-automapper@v3.0.0
+- pkg:composer/skraeda/laravel-automapper@v3.0.1
+- pkg:composer/skraeda/laravel-automapper@v3.0.2
