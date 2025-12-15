@@ -27,3 +27,4 @@
 - pkg:composer/neos/contentrepository-core@9.0.5
 - pkg:composer/neos/contentrepository-core@9.0.6
 - pkg:composer/neos/contentrepository-core@9.0.7
+- pkg:composer/neos/contentrepository-core@9.0.8

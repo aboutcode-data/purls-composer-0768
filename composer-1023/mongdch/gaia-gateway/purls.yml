@@ -1,5 +1,6 @@
 - pkg:composer/mongdch/gaia-gateway@1.0.0
 - pkg:composer/mongdch/gaia-gateway@1.0.1
+- pkg:composer/mongdch/gaia-gateway@1.0.10
 - pkg:composer/mongdch/gaia-gateway@1.0.2
 - pkg:composer/mongdch/gaia-gateway@1.0.3
 - pkg:composer/mongdch/gaia-gateway@1.0.4
