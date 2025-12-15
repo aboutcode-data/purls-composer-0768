@@ -1,5 +1,6 @@
 - pkg:composer/nettrine/migrations@v0.1
 - pkg:composer/nettrine/migrations@v0.10.0
+- pkg:composer/nettrine/migrations@v0.10.1
 - pkg:composer/nettrine/migrations@v0.2
 - pkg:composer/nettrine/migrations@v0.3
 - pkg:composer/nettrine/migrations@v0.4
