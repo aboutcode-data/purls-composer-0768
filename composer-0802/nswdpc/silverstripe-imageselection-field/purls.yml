@@ -2,3 +2,5 @@
 - pkg:composer/nswdpc/silverstripe-imageselection-field@v0.1.1
 - pkg:composer/nswdpc/silverstripe-imageselection-field@v1.0.0
 - pkg:composer/nswdpc/silverstripe-imageselection-field@v1.0.0-rc1
+- pkg:composer/nswdpc/silverstripe-imageselection-field@v1.1.0
+- pkg:composer/nswdpc/silverstripe-imageselection-field@v2.0.0-rc1
