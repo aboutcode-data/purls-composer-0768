@@ -14,3 +14,4 @@
 - pkg:composer/webfactory/object-routing@1.7.1
 - pkg:composer/webfactory/object-routing@2.0.0
 - pkg:composer/webfactory/object-routing@2.1.0
+- pkg:composer/webfactory/object-routing@2.2.0

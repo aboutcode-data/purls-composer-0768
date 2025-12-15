@@ -20,3 +20,4 @@
 - pkg:composer/webfactory/shortcode-bundle@2.6.0
 - pkg:composer/webfactory/shortcode-bundle@2.6.1
 - pkg:composer/webfactory/shortcode-bundle@2.6.2
+- pkg:composer/webfactory/shortcode-bundle@2.7.0
