@@ -26,3 +26,4 @@
 - pkg:composer/conserto/pomm-symfony-bridge@4.0.7
 - pkg:composer/conserto/pomm-symfony-bridge@4.0.9
 - pkg:composer/conserto/pomm-symfony-bridge@5.0.0
+- pkg:composer/conserto/pomm-symfony-bridge@5.0.1
