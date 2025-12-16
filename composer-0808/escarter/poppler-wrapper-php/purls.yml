@@ -1,2 +1,3 @@
 - pkg:composer/escarter/poppler-wrapper-php@1.0.0
 - pkg:composer/escarter/poppler-wrapper-php@1.0.1
+- pkg:composer/escarter/poppler-wrapper-php@v1.1.0
