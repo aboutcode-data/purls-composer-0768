@@ -446,6 +446,8 @@
 - pkg:composer/codelab/flaskphp@v3.0.23
 - pkg:composer/codelab/flaskphp@v3.0.24
 - pkg:composer/codelab/flaskphp@v3.0.25
+- pkg:composer/codelab/flaskphp@v3.0.26
+- pkg:composer/codelab/flaskphp@v3.0.27
 - pkg:composer/codelab/flaskphp@v3.0.3
 - pkg:composer/codelab/flaskphp@v3.0.4
 - pkg:composer/codelab/flaskphp@v3.0.5

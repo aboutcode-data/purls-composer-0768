@@ -21,3 +21,4 @@
 - pkg:composer/bugsnag/bugsnag-symfony@v1.7.0
 - pkg:composer/bugsnag/bugsnag-symfony@v1.8.0
 - pkg:composer/bugsnag/bugsnag-symfony@v1.9.0
+- pkg:composer/bugsnag/bugsnag-symfony@v2.0.0

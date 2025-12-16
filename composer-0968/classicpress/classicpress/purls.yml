@@ -48,3 +48,4 @@
 - pkg:composer/classicpress/classicpress@2.4.0-rc1
 - pkg:composer/classicpress/classicpress@2.4.1
 - pkg:composer/classicpress/classicpress@2.5.0
+- pkg:composer/classicpress/classicpress@2.6.0
