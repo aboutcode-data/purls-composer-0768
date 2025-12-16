@@ -93,3 +93,4 @@
 - pkg:composer/buckaroo/magento2@v2.0.2
 - pkg:composer/buckaroo/magento2@v2.0.3
 - pkg:composer/buckaroo/magento2@v2.1.0
+- pkg:composer/buckaroo/magento2@v2.2.0
