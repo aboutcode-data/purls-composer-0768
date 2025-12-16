@@ -17,3 +17,5 @@
 - pkg:composer/alibabacloud/resourcemanager-20200331@2.3.0
 - pkg:composer/alibabacloud/resourcemanager-20200331@2.3.1
 - pkg:composer/alibabacloud/resourcemanager-20200331@2.4.0
+- pkg:composer/alibabacloud/resourcemanager-20200331@2.5.0
+- pkg:composer/alibabacloud/resourcemanager-20200331@2.6.0

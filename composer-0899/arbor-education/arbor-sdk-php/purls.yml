@@ -50,3 +50,4 @@
 - pkg:composer/arbor-education/arbor-sdk-php@5.6.1
 - pkg:composer/arbor-education/arbor-sdk-php@5.6.2
 - pkg:composer/arbor-education/arbor-sdk-php@6.0.0
+- pkg:composer/arbor-education/arbor-sdk-php@6.0.1

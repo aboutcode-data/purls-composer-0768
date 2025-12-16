@@ -62,3 +62,5 @@
 - pkg:composer/alibabacloud/imm-20200930@4.6.4
 - pkg:composer/alibabacloud/imm-20200930@4.6.5
 - pkg:composer/alibabacloud/imm-20200930@4.7.0
+- pkg:composer/alibabacloud/imm-20200930@4.7.1
+- pkg:composer/alibabacloud/imm-20200930@4.7.2
