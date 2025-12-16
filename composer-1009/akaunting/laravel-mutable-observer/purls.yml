@@ -1,3 +1,4 @@
 - pkg:composer/akaunting/laravel-mutable-observer@1.0.0
 - pkg:composer/akaunting/laravel-mutable-observer@2.0.0
 - pkg:composer/akaunting/laravel-mutable-observer@2.0.1
+- pkg:composer/akaunting/laravel-mutable-observer@3.0.0
