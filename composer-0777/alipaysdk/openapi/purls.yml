@@ -14,3 +14,4 @@
 - pkg:composer/alipaysdk/openapi@3.0.40
 - pkg:composer/alipaysdk/openapi@3.0.58
 - pkg:composer/alipaysdk/openapi@3.0.7
+- pkg:composer/alipaysdk/openapi@3.0.70
