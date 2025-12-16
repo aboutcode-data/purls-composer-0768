@@ -34,3 +34,4 @@
 - pkg:composer/sonata-project/translation-bundle@3.3.0
 - pkg:composer/sonata-project/translation-bundle@3.4.0
 - pkg:composer/sonata-project/translation-bundle@3.5.0
+- pkg:composer/sonata-project/translation-bundle@3.6.0
