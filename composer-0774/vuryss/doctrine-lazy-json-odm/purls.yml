@@ -1,3 +1,4 @@
 - pkg:composer/vuryss/doctrine-lazy-json-odm@v1.0.0
 - pkg:composer/vuryss/doctrine-lazy-json-odm@v1.1.0
 - pkg:composer/vuryss/doctrine-lazy-json-odm@v1.2.0
+- pkg:composer/vuryss/doctrine-lazy-json-odm@v2.0.0
