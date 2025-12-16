@@ -1,3 +1,4 @@
+- pkg:composer/hawkiq/laravel-zaincash@1.0.6
 - pkg:composer/hawkiq/laravel-zaincash@v1.0.0
 - pkg:composer/hawkiq/laravel-zaincash@v1.0.1
 - pkg:composer/hawkiq/laravel-zaincash@v1.0.2

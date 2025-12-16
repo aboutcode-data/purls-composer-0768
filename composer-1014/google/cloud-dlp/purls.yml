@@ -112,3 +112,4 @@
 - pkg:composer/google/cloud-dlp@v2.8.0
 - pkg:composer/google/cloud-dlp@v2.8.1
 - pkg:composer/google/cloud-dlp@v2.9.0
+- pkg:composer/google/cloud-dlp@v2.9.1

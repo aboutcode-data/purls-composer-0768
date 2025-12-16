@@ -198,6 +198,7 @@
 - pkg:composer/helsingborg-stad/api-event-manager-integration@2.0.8
 - pkg:composer/helsingborg-stad/api-event-manager-integration@2.0.9
 - pkg:composer/helsingborg-stad/api-event-manager-integration@3.0.0
+- pkg:composer/helsingborg-stad/api-event-manager-integration@3.0.11
 - pkg:composer/helsingborg-stad/api-event-manager-integration@3.0.3
 - pkg:composer/helsingborg-stad/api-event-manager-integration@3.0.5
 - pkg:composer/helsingborg-stad/api-event-manager-integration@3.0.7
