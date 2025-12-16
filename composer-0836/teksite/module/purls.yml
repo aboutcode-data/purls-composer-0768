@@ -3,6 +3,7 @@
 - pkg:composer/teksite/module@2.0.1
 - pkg:composer/teksite/module@2.0.2
 - pkg:composer/teksite/module@2.0.3
+- pkg:composer/teksite/module@2.0.4
 - pkg:composer/teksite/module@v0.0.2
 - pkg:composer/teksite/module@v0.0.3
 - pkg:composer/teksite/module@v0.0.4
