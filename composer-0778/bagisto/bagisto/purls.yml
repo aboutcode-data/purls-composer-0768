@@ -63,3 +63,4 @@
 - pkg:composer/bagisto/bagisto@v2.3.6
 - pkg:composer/bagisto/bagisto@v2.3.7
 - pkg:composer/bagisto/bagisto@v2.3.8
+- pkg:composer/bagisto/bagisto@v2.3.9

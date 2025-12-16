@@ -63,6 +63,7 @@
 - pkg:composer/biplane/yandex-direct@5.17.0
 - pkg:composer/biplane/yandex-direct@5.17.1
 - pkg:composer/biplane/yandex-direct@5.17.2
+- pkg:composer/biplane/yandex-direct@5.18.0
 - pkg:composer/biplane/yandex-direct@5.2.0
 - pkg:composer/biplane/yandex-direct@5.3.0
 - pkg:composer/biplane/yandex-direct@5.4.0

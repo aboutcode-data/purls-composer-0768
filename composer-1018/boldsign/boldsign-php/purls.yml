@@ -15,3 +15,4 @@
 - pkg:composer/boldsign/boldsign-php@v2.0.2
 - pkg:composer/boldsign/boldsign-php@v3.0.0
 - pkg:composer/boldsign/boldsign-php@v3.0.0.beta.0
+- pkg:composer/boldsign/boldsign-php@v3.0.1

@@ -7,3 +7,4 @@
 - pkg:composer/bitrix24/b24phpsdk@1.6.0
 - pkg:composer/bitrix24/b24phpsdk@1.7.0
 - pkg:composer/bitrix24/b24phpsdk@1.8.0
+- pkg:composer/bitrix24/b24phpsdk@1.9.0

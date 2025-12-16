@@ -1,0 +1,2 @@
+- pkg:composer/automattic/behat-wp-env-context@v0.1.0
+- pkg:composer/automattic/behat-wp-env-context@v0.1.1

@@ -40,6 +40,8 @@
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.2
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.3
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.4
+- pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.5
+- pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.6
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.2.0
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.2.1
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.3.0
