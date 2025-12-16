@@ -275,6 +275,11 @@
 - pkg:composer/ecotone/enqueue@1.278.1
 - pkg:composer/ecotone/enqueue@1.279.0
 - pkg:composer/ecotone/enqueue@1.28.0
+- pkg:composer/ecotone/enqueue@1.280.0
+- pkg:composer/ecotone/enqueue@1.281.0
+- pkg:composer/ecotone/enqueue@1.281.1
+- pkg:composer/ecotone/enqueue@1.281.2
+- pkg:composer/ecotone/enqueue@1.282.0
 - pkg:composer/ecotone/enqueue@1.29.0
 - pkg:composer/ecotone/enqueue@1.30.0
 - pkg:composer/ecotone/enqueue@1.30.1
