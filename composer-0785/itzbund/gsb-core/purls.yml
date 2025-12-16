@@ -470,6 +470,10 @@
 - pkg:composer/itzbund/gsb-core@v4.2.0-rc.22
 - pkg:composer/itzbund/gsb-core@v4.2.0-rc.23
 - pkg:composer/itzbund/gsb-core@v4.2.0-rc.24
+- pkg:composer/itzbund/gsb-core@v4.2.0-rc.25
+- pkg:composer/itzbund/gsb-core@v4.2.0-rc.26
+- pkg:composer/itzbund/gsb-core@v4.2.0-rc.27
+- pkg:composer/itzbund/gsb-core@v4.2.0-rc.28
 - pkg:composer/itzbund/gsb-core@v4.2.0-rc.3
 - pkg:composer/itzbund/gsb-core@v4.2.0-rc.4
 - pkg:composer/itzbund/gsb-core@v4.2.0-rc.5
