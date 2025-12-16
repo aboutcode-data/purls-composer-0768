@@ -1,5 +1,5 @@
 - pkg:composer/dew-serverless/acs-sdk-php@v0.1.0%2B20240907
-- pkg:composer/dew-serverless/acs-sdk-php@v0.10.0%2B20251206
+- pkg:composer/dew-serverless/acs-sdk-php@v0.10.0%2B20251213
 - pkg:composer/dew-serverless/acs-sdk-php@v0.2.0%2B20240914
 - pkg:composer/dew-serverless/acs-sdk-php@v0.3.0%2B20240928
 - pkg:composer/dew-serverless/acs-sdk-php@v0.4.0%2B20241019

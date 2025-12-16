@@ -6,3 +6,4 @@
 - pkg:composer/contao/rector@1.1.0
 - pkg:composer/contao/rector@1.2.0
 - pkg:composer/contao/rector@1.3.0
+- pkg:composer/contao/rector@1.3.1

@@ -304,7 +304,15 @@
 - pkg:composer/crudadmin/resources@5.12.11
 - pkg:composer/crudadmin/resources@5.12.12
 - pkg:composer/crudadmin/resources@5.12.13
+- pkg:composer/crudadmin/resources@5.12.14
+- pkg:composer/crudadmin/resources@5.12.15
+- pkg:composer/crudadmin/resources@5.12.16
+- pkg:composer/crudadmin/resources@5.12.17
+- pkg:composer/crudadmin/resources@5.12.18
+- pkg:composer/crudadmin/resources@5.12.19
 - pkg:composer/crudadmin/resources@5.12.2
+- pkg:composer/crudadmin/resources@5.12.20
+- pkg:composer/crudadmin/resources@5.12.21
 - pkg:composer/crudadmin/resources@5.12.3
 - pkg:composer/crudadmin/resources@5.12.4
 - pkg:composer/crudadmin/resources@5.12.5
