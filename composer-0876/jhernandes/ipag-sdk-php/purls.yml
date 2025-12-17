@@ -25,3 +25,4 @@
 - pkg:composer/jhernandes/ipag-sdk-php@v1.1.5
 - pkg:composer/jhernandes/ipag-sdk-php@v1.1.6
 - pkg:composer/jhernandes/ipag-sdk-php@v1.1.7
+- pkg:composer/jhernandes/ipag-sdk-php@v1.2.0
