@@ -2,3 +2,4 @@
 - pkg:composer/dennisvanbeersel/symfony-logger-client@v0.1.1
 - pkg:composer/dennisvanbeersel/symfony-logger-client@v0.2
 - pkg:composer/dennisvanbeersel/symfony-logger-client@v0.2.1
+- pkg:composer/dennisvanbeersel/symfony-logger-client@v0.2.2
