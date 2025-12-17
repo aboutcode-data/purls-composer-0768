@@ -46,6 +46,7 @@
 - pkg:composer/altis/sso@22.0.0
 - pkg:composer/altis/sso@22.0.0-beta.1
 - pkg:composer/altis/sso@22.0.1
+- pkg:composer/altis/sso@22.0.2
 - pkg:composer/altis/sso@23.0.0
 - pkg:composer/altis/sso@23.0.0-beta.1
 - pkg:composer/altis/sso@23.0.1

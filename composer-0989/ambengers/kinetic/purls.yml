@@ -9,3 +9,6 @@
 - pkg:composer/ambengers/kinetic@1.8
 - pkg:composer/ambengers/kinetic@1.9
 - pkg:composer/ambengers/kinetic@2.0
+- pkg:composer/ambengers/kinetic@3.0
+- pkg:composer/ambengers/kinetic@3.0.1
+- pkg:composer/ambengers/kinetic@3.0.2
