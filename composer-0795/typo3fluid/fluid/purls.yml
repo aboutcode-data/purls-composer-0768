@@ -106,3 +106,4 @@
 - pkg:composer/typo3fluid/fluid@5.0.0
 - pkg:composer/typo3fluid/fluid@5.0.1
 - pkg:composer/typo3fluid/fluid@5.0.2
+- pkg:composer/typo3fluid/fluid@5.0.3

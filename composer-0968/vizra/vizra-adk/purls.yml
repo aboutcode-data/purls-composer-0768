@@ -27,6 +27,8 @@
 - pkg:composer/vizra/vizra-adk@0.0.38
 - pkg:composer/vizra/vizra-adk@0.0.39
 - pkg:composer/vizra/vizra-adk@0.0.40
+- pkg:composer/vizra/vizra-adk@0.0.41
+- pkg:composer/vizra/vizra-adk@0.0.42
 - pkg:composer/vizra/vizra-adk@0.0.9
 - pkg:composer/vizra/vizra-adk@v0.0.1
 - pkg:composer/vizra/vizra-adk@v0.0.2
