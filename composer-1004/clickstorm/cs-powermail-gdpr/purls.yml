@@ -21,3 +21,4 @@
 - pkg:composer/clickstorm/cs-powermail-gdpr@4.0.2
 - pkg:composer/clickstorm/cs-powermail-gdpr@4.0.3
 - pkg:composer/clickstorm/cs-powermail-gdpr@4.1.0
+- pkg:composer/clickstorm/cs-powermail-gdpr@5.0.0

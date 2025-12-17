@@ -31,3 +31,4 @@
 - pkg:composer/cesurapp/swoole-bundle@1.2.0
 - pkg:composer/cesurapp/swoole-bundle@1.2.1
 - pkg:composer/cesurapp/swoole-bundle@1.2.2
+- pkg:composer/cesurapp/swoole-bundle@1.2.3
