@@ -18,3 +18,5 @@
 - pkg:composer/bitbirddev/oh-dear-bundle@1.17
 - pkg:composer/bitbirddev/oh-dear-bundle@1.18
 - pkg:composer/bitbirddev/oh-dear-bundle@1.19
+- pkg:composer/bitbirddev/oh-dear-bundle@1.20
+- pkg:composer/bitbirddev/oh-dear-bundle@1.21

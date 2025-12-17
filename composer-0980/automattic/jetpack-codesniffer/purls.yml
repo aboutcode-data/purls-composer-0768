@@ -17,3 +17,4 @@
 - pkg:composer/automattic/jetpack-codesniffer@v5.0.0
 - pkg:composer/automattic/jetpack-codesniffer@v6.0.0
 - pkg:composer/automattic/jetpack-codesniffer@v6.0.1
+- pkg:composer/automattic/jetpack-codesniffer@v7.0.0
