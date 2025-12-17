@@ -2,6 +2,7 @@
 - pkg:composer/sylius/state-machine-abstraction@v1.13.1
 - pkg:composer/sylius/state-machine-abstraction@v1.13.10
 - pkg:composer/sylius/state-machine-abstraction@v1.13.11
+- pkg:composer/sylius/state-machine-abstraction@v1.13.12
 - pkg:composer/sylius/state-machine-abstraction@v1.13.2
 - pkg:composer/sylius/state-machine-abstraction@v1.13.3
 - pkg:composer/sylius/state-machine-abstraction@v1.13.4
@@ -20,6 +21,7 @@
 - pkg:composer/sylius/state-machine-abstraction@v1.14.11
 - pkg:composer/sylius/state-machine-abstraction@v1.14.12
 - pkg:composer/sylius/state-machine-abstraction@v1.14.13
+- pkg:composer/sylius/state-machine-abstraction@v1.14.14
 - pkg:composer/sylius/state-machine-abstraction@v1.14.2
 - pkg:composer/sylius/state-machine-abstraction@v1.14.3
 - pkg:composer/sylius/state-machine-abstraction@v1.14.4
@@ -39,6 +41,7 @@
 - pkg:composer/sylius/state-machine-abstraction@v2.0.11
 - pkg:composer/sylius/state-machine-abstraction@v2.0.12
 - pkg:composer/sylius/state-machine-abstraction@v2.0.13
+- pkg:composer/sylius/state-machine-abstraction@v2.0.14
 - pkg:composer/sylius/state-machine-abstraction@v2.0.2
 - pkg:composer/sylius/state-machine-abstraction@v2.0.3
 - pkg:composer/sylius/state-machine-abstraction@v2.0.4
@@ -56,3 +59,4 @@
 - pkg:composer/sylius/state-machine-abstraction@v2.1.6
 - pkg:composer/sylius/state-machine-abstraction@v2.1.7
 - pkg:composer/sylius/state-machine-abstraction@v2.1.8
+- pkg:composer/sylius/state-machine-abstraction@v2.1.9
