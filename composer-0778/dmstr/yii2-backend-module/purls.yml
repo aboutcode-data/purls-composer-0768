@@ -99,3 +99,4 @@
 - pkg:composer/dmstr/yii2-backend-module@2.2.8
 - pkg:composer/dmstr/yii2-backend-module@2.2.9
 - pkg:composer/dmstr/yii2-backend-module@2.3.0
+- pkg:composer/dmstr/yii2-backend-module@2.3.1

@@ -90,6 +90,7 @@
 - pkg:composer/drupal/core-php-storage@10.5.6
 - pkg:composer/drupal/core-php-storage@10.5.7
 - pkg:composer/drupal/core-php-storage@10.5.8
+- pkg:composer/drupal/core-php-storage@10.6.0
 - pkg:composer/drupal/core-php-storage@10.6.0-beta1
 - pkg:composer/drupal/core-php-storage@10.6.0-rc1
 - pkg:composer/drupal/core-php-storage@11.0.0
@@ -136,6 +137,7 @@
 - pkg:composer/drupal/core-php-storage@11.2.7
 - pkg:composer/drupal/core-php-storage@11.2.8
 - pkg:composer/drupal/core-php-storage@11.2.9
+- pkg:composer/drupal/core-php-storage@11.3.0
 - pkg:composer/drupal/core-php-storage@11.3.0-alpha1
 - pkg:composer/drupal/core-php-storage@11.3.0-beta1
 - pkg:composer/drupal/core-php-storage@11.3.0-rc1

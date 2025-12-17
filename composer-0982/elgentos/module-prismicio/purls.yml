@@ -71,3 +71,6 @@
 - pkg:composer/elgentos/module-prismicio@3.2.2
 - pkg:composer/elgentos/module-prismicio@3.2.3
 - pkg:composer/elgentos/module-prismicio@4.0.0
+- pkg:composer/elgentos/module-prismicio@4.0.1
+- pkg:composer/elgentos/module-prismicio@4.0.2
+- pkg:composer/elgentos/module-prismicio@4.0.3
