@@ -47,6 +47,7 @@
 - pkg:composer/enhavo/comment-bundle@v0.14.7
 - pkg:composer/enhavo/comment-bundle@v0.15.0
 - pkg:composer/enhavo/comment-bundle@v0.15.1
+- pkg:composer/enhavo/comment-bundle@v0.15.10
 - pkg:composer/enhavo/comment-bundle@v0.15.2
 - pkg:composer/enhavo/comment-bundle@v0.15.3
 - pkg:composer/enhavo/comment-bundle@v0.15.4
