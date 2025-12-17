@@ -60,3 +60,4 @@
 - pkg:composer/sylius/state-machine-abstraction@v2.1.7
 - pkg:composer/sylius/state-machine-abstraction@v2.1.8
 - pkg:composer/sylius/state-machine-abstraction@v2.1.9
+- pkg:composer/sylius/state-machine-abstraction@v2.2.0

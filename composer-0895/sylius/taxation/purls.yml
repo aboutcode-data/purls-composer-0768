@@ -224,6 +224,7 @@
 - pkg:composer/sylius/taxation@v2.0.11
 - pkg:composer/sylius/taxation@v2.0.12
 - pkg:composer/sylius/taxation@v2.0.13
+- pkg:composer/sylius/taxation@v2.0.14
 - pkg:composer/sylius/taxation@v2.0.2
 - pkg:composer/sylius/taxation@v2.0.3
 - pkg:composer/sylius/taxation@v2.0.4
@@ -241,3 +242,5 @@
 - pkg:composer/sylius/taxation@v2.1.6
 - pkg:composer/sylius/taxation@v2.1.7
 - pkg:composer/sylius/taxation@v2.1.8
+- pkg:composer/sylius/taxation@v2.1.9
+- pkg:composer/sylius/taxation@v2.2.0
