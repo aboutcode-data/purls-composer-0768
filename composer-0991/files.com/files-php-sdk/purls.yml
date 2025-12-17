@@ -822,6 +822,8 @@
 - pkg:composer/files.com/files-php-sdk@v2.0.340
 - pkg:composer/files.com/files-php-sdk@v2.0.341
 - pkg:composer/files.com/files-php-sdk@v2.0.342
+- pkg:composer/files.com/files-php-sdk@v2.0.343
+- pkg:composer/files.com/files-php-sdk@v2.0.344
 - pkg:composer/files.com/files-php-sdk@v2.0.35
 - pkg:composer/files.com/files-php-sdk@v2.0.36
 - pkg:composer/files.com/files-php-sdk@v2.0.37
