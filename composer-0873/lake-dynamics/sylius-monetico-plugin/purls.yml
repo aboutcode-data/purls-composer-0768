@@ -10,3 +10,7 @@
 - pkg:composer/lake-dynamics/sylius-monetico-plugin@v1.1.8
 - pkg:composer/lake-dynamics/sylius-monetico-plugin@v1.1.9
 - pkg:composer/lake-dynamics/sylius-monetico-plugin@v1.2.0
+- pkg:composer/lake-dynamics/sylius-monetico-plugin@v1.2.1
+- pkg:composer/lake-dynamics/sylius-monetico-plugin@v1.2.2
+- pkg:composer/lake-dynamics/sylius-monetico-plugin@v1.2.3
+- pkg:composer/lake-dynamics/sylius-monetico-plugin@v1.2.4

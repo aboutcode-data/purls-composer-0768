@@ -17,6 +17,7 @@
 - pkg:composer/league/fractal@0.20
 - pkg:composer/league/fractal@0.20.1
 - pkg:composer/league/fractal@0.20.2
+- pkg:composer/league/fractal@0.21
 - pkg:composer/league/fractal@0.3.0
 - pkg:composer/league/fractal@0.3.1
 - pkg:composer/league/fractal@0.4.0
