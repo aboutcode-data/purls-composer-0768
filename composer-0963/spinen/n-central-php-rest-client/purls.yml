@@ -5,3 +5,4 @@
 - pkg:composer/spinen/n-central-php-rest-client@0.4.0
 - pkg:composer/spinen/n-central-php-rest-client@0.5.0
 - pkg:composer/spinen/n-central-php-rest-client@0.6.0
+- pkg:composer/spinen/n-central-php-rest-client@0.6.1
