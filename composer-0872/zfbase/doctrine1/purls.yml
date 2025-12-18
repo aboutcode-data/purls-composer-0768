@@ -9,6 +9,7 @@
 - pkg:composer/zfbase/doctrine1@v1.2.18
 - pkg:composer/zfbase/doctrine1@v1.2.19
 - pkg:composer/zfbase/doctrine1@v1.2.20
+- pkg:composer/zfbase/doctrine1@v1.2.21
 - pkg:composer/zfbase/doctrine1@v1.2.5
 - pkg:composer/zfbase/doctrine1@v1.2.6
 - pkg:composer/zfbase/doctrine1@v1.2.7
