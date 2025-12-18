@@ -153,6 +153,11 @@
 - pkg:composer/backstage/cms@v1.1.4
 - pkg:composer/backstage/cms@v1.1.40
 - pkg:composer/backstage/cms@v1.1.41
+- pkg:composer/backstage/cms@v1.1.42
+- pkg:composer/backstage/cms@v1.1.43
+- pkg:composer/backstage/cms@v1.1.44
+- pkg:composer/backstage/cms@v1.1.45
+- pkg:composer/backstage/cms@v1.1.46
 - pkg:composer/backstage/cms@v1.1.5
 - pkg:composer/backstage/cms@v1.1.6
 - pkg:composer/backstage/cms@v1.1.7
