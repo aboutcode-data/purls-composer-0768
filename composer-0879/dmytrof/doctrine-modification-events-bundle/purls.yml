@@ -10,3 +10,5 @@
 - pkg:composer/dmytrof/doctrine-modification-events-bundle@v1.5.4
 - pkg:composer/dmytrof/doctrine-modification-events-bundle@v1.6
 - pkg:composer/dmytrof/doctrine-modification-events-bundle@v1.7
+- pkg:composer/dmytrof/doctrine-modification-events-bundle@v2.0
+- pkg:composer/dmytrof/doctrine-modification-events-bundle@v2.0.1
