@@ -19,4 +19,5 @@
 - pkg:composer/aws/aws-sdk-php-symfony@2.6.1
 - pkg:composer/aws/aws-sdk-php-symfony@2.7.0
 - pkg:composer/aws/aws-sdk-php-symfony@2.8.0
+- pkg:composer/aws/aws-sdk-php-symfony@2.9.0
 - pkg:composer/aws/aws-sdk-php-symfony@v2.0.0
