@@ -1,4 +1,5 @@
 - pkg:composer/andydefer/roster@0.0.1
+- pkg:composer/andydefer/roster@0.0.10
 - pkg:composer/andydefer/roster@0.0.2
 - pkg:composer/andydefer/roster@0.0.3
 - pkg:composer/andydefer/roster@0.0.4
@@ -7,3 +8,4 @@
 - pkg:composer/andydefer/roster@0.0.7
 - pkg:composer/andydefer/roster@0.0.8
 - pkg:composer/andydefer/roster@0.0.9
+- pkg:composer/andydefer/roster@0.1.0
