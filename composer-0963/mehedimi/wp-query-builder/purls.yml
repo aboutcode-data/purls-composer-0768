@@ -4,6 +4,8 @@
 - pkg:composer/mehedimi/wp-query-builder@0.13
 - pkg:composer/mehedimi/wp-query-builder@0.14
 - pkg:composer/mehedimi/wp-query-builder@0.15
+- pkg:composer/mehedimi/wp-query-builder@0.16
+- pkg:composer/mehedimi/wp-query-builder@0.17
 - pkg:composer/mehedimi/wp-query-builder@0.6
 - pkg:composer/mehedimi/wp-query-builder@0.7
 - pkg:composer/mehedimi/wp-query-builder@0.8
