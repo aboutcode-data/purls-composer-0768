@@ -1,3 +1,4 @@
 - pkg:composer/coolminds/sylius-pay-by-invoice-plugin@v1.0.0
 - pkg:composer/coolminds/sylius-pay-by-invoice-plugin@v1.0.1
 - pkg:composer/coolminds/sylius-pay-by-invoice-plugin@v1.0.2
+- pkg:composer/coolminds/sylius-pay-by-invoice-plugin@v1.0.3

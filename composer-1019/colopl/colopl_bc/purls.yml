@@ -9,3 +9,5 @@
 - pkg:composer/colopl/colopl_bc@11.0.4
 - pkg:composer/colopl/colopl_bc@11.0.5
 - pkg:composer/colopl/colopl_bc@11.1.0
+- pkg:composer/colopl/colopl_bc@v12.0.0
+- pkg:composer/colopl/colopl_bc@v12.0.1
