@@ -14,3 +14,4 @@
 - pkg:composer/glesys/butler-auth@v6.0.0
 - pkg:composer/glesys/butler-auth@v7.0.0
 - pkg:composer/glesys/butler-auth@v7.1.0
+- pkg:composer/glesys/butler-auth@v7.1.1
