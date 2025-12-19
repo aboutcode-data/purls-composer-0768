@@ -23,3 +23,5 @@
 - pkg:composer/leeovery/claude-technical-workflows@v1.0.8
 - pkg:composer/leeovery/claude-technical-workflows@v1.0.9
 - pkg:composer/leeovery/claude-technical-workflows@v1.1.0
+- pkg:composer/leeovery/claude-technical-workflows@v1.1.1
+- pkg:composer/leeovery/claude-technical-workflows@v1.1.2
