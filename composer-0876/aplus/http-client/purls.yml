@@ -47,4 +47,6 @@
 - pkg:composer/aplus/http-client@v5.0.1
 - pkg:composer/aplus/http-client@v5.0.2
 - pkg:composer/aplus/http-client@v5.0.3
+- pkg:composer/aplus/http-client@v5.0.4
 - pkg:composer/aplus/http-client@v5.1.0
+- pkg:composer/aplus/http-client@v5.1.1
