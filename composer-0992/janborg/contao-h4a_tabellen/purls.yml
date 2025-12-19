@@ -91,6 +91,7 @@
 - pkg:composer/janborg/contao-h4a_tabellen@3.4.3
 - pkg:composer/janborg/contao-h4a_tabellen@4.0.0
 - pkg:composer/janborg/contao-h4a_tabellen@4.0.1
+- pkg:composer/janborg/contao-h4a_tabellen@4.0.10
 - pkg:composer/janborg/contao-h4a_tabellen@4.0.2
 - pkg:composer/janborg/contao-h4a_tabellen@4.0.3
 - pkg:composer/janborg/contao-h4a_tabellen@4.0.4
