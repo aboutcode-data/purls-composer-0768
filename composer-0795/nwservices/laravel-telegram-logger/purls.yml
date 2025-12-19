@@ -1,2 +1,4 @@
+- pkg:composer/nwservices/laravel-telegram-logger@1.2.0
+- pkg:composer/nwservices/laravel-telegram-logger@2.0.0
 - pkg:composer/nwservices/laravel-telegram-logger@v1.0.0
 - pkg:composer/nwservices/laravel-telegram-logger@v1.1.0

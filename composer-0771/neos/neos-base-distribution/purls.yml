@@ -514,3 +514,5 @@
 - pkg:composer/neos/neos-base-distribution@9.0.6
 - pkg:composer/neos/neos-base-distribution@9.0.7
 - pkg:composer/neos/neos-base-distribution@9.0.8
+- pkg:composer/neos/neos-base-distribution@9.1.0
+- pkg:composer/neos/neos-base-distribution@9.1.1

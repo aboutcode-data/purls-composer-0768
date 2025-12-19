@@ -451,3 +451,4 @@
 - pkg:composer/neos/utility-unicode@9.0.3
 - pkg:composer/neos/utility-unicode@9.0.4
 - pkg:composer/neos/utility-unicode@9.0.5
+- pkg:composer/neos/utility-unicode@9.1.0

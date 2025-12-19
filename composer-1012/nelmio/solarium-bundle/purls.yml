@@ -23,3 +23,4 @@
 - pkg:composer/nelmio/solarium-bundle@v5.1.0
 - pkg:composer/nelmio/solarium-bundle@v5.1.1
 - pkg:composer/nelmio/solarium-bundle@v5.2.0
+- pkg:composer/nelmio/solarium-bundle@v6.0.0
