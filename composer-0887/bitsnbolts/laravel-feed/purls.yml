@@ -1,4 +1,5 @@
 - pkg:composer/bitsnbolts/laravel-feed@v10.0.0
 - pkg:composer/bitsnbolts/laravel-feed@v11.0.0
+- pkg:composer/bitsnbolts/laravel-feed@v12.0.0
 - pkg:composer/bitsnbolts/laravel-feed@v9.0.0
 - pkg:composer/bitsnbolts/laravel-feed@v9.1.0
