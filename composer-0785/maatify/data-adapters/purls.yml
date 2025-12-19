@@ -5,3 +5,5 @@
 - pkg:composer/maatify/data-adapters@v1.2.0
 - pkg:composer/maatify/data-adapters@v1.2.1
 - pkg:composer/maatify/data-adapters@v1.2.2
+- pkg:composer/maatify/data-adapters@v2.0.0
+- pkg:composer/maatify/data-adapters@v2.0.1
