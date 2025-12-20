@@ -45,6 +45,7 @@
 - pkg:composer/lightna/magento-backend@1.0.52
 - pkg:composer/lightna/magento-backend@1.0.53
 - pkg:composer/lightna/magento-backend@1.0.54
+- pkg:composer/lightna/magento-backend@1.0.56
 - pkg:composer/lightna/magento-backend@1.0.7
 - pkg:composer/lightna/magento-backend@1.0.8
 - pkg:composer/lightna/magento-backend@1.0.9
