@@ -12,3 +12,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp-module-sqlauth@v1.2.0
 - pkg:composer/simplesamlphp/simplesamlphp-module-sqlauth@v1.3.0
 - pkg:composer/simplesamlphp/simplesamlphp-module-sqlauth@v1.3.1
+- pkg:composer/simplesamlphp/simplesamlphp-module-sqlauth@v1.4.0

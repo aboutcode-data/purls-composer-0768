@@ -72,3 +72,4 @@
 - pkg:composer/soneso/stellar-php-sdk@1.8.6
 - pkg:composer/soneso/stellar-php-sdk@1.8.7
 - pkg:composer/soneso/stellar-php-sdk@1.8.8
+- pkg:composer/soneso/stellar-php-sdk@1.9.0
