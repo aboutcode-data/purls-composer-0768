@@ -63,3 +63,5 @@
 - pkg:composer/cedricziel/mattermost-php@v1.4.7
 - pkg:composer/cedricziel/mattermost-php@v1.4.8
 - pkg:composer/cedricziel/mattermost-php@v1.4.9
+- pkg:composer/cedricziel/mattermost-php@v1.5.0
+- pkg:composer/cedricziel/mattermost-php@v1.6.0
