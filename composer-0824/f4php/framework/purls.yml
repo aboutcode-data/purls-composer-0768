@@ -57,6 +57,7 @@
 - pkg:composer/f4php/framework@v0.1.4
 - pkg:composer/f4php/framework@v0.1.40
 - pkg:composer/f4php/framework@v0.1.41
+- pkg:composer/f4php/framework@v0.1.42
 - pkg:composer/f4php/framework@v0.1.5
 - pkg:composer/f4php/framework@v0.1.6
 - pkg:composer/f4php/framework@v0.1.7
