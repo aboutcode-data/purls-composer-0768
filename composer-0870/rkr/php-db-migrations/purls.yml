@@ -7,3 +7,4 @@
 - pkg:composer/rkr/php-db-migrations@0.1.4
 - pkg:composer/rkr/php-db-migrations@0.1.4.1
 - pkg:composer/rkr/php-db-migrations@0.1.4.2
+- pkg:composer/rkr/php-db-migrations@0.1.5

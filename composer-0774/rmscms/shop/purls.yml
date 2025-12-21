@@ -1,4 +1,6 @@
 - pkg:composer/rmscms/shop@1.0.7
+- pkg:composer/rmscms/shop@1.0.8
+- pkg:composer/rmscms/shop@1.0.9
 - pkg:composer/rmscms/shop@v1.0.0
 - pkg:composer/rmscms/shop@v1.0.1
 - pkg:composer/rmscms/shop@v1.0.2
