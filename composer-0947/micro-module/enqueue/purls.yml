@@ -107,6 +107,7 @@
 - pkg:composer/micro-module/enqueue@0.9.8
 - pkg:composer/micro-module/enqueue@0.9.9
 - pkg:composer/micro-module/enqueue@v0.10.10
+- pkg:composer/micro-module/enqueue@v0.10.11
 - pkg:composer/micro-module/enqueue@v0.10.7
 - pkg:composer/micro-module/enqueue@v0.10.8
 - pkg:composer/micro-module/enqueue@v0.10.9

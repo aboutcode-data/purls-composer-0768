@@ -102,5 +102,7 @@
 - pkg:composer/micro-module/enqueue-bundle@0.9.8
 - pkg:composer/micro-module/enqueue-bundle@v0.10.19
 - pkg:composer/micro-module/enqueue-bundle@v0.10.20
+- pkg:composer/micro-module/enqueue-bundle@v0.10.21
+- pkg:composer/micro-module/enqueue-bundle@v0.10.22
 - pkg:composer/micro-module/enqueue-bundle@v0.10.7
 - pkg:composer/micro-module/enqueue-bundle@v0.10.9
