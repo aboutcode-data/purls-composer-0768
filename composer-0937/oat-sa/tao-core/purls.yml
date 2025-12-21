@@ -855,6 +855,7 @@
 - pkg:composer/oat-sa/tao-core@v54.14.3
 - pkg:composer/oat-sa/tao-core@v54.14.3.1
 - pkg:composer/oat-sa/tao-core@v54.14.3.2
+- pkg:composer/oat-sa/tao-core@v54.14.3.3
 - pkg:composer/oat-sa/tao-core@v54.14.4
 - pkg:composer/oat-sa/tao-core@v54.14.5
 - pkg:composer/oat-sa/tao-core@v54.14.6
@@ -998,6 +999,7 @@
 - pkg:composer/oat-sa/tao-core@v54.49.3
 - pkg:composer/oat-sa/tao-core@v54.49.4
 - pkg:composer/oat-sa/tao-core@v54.49.5
+- pkg:composer/oat-sa/tao-core@v54.49.6
 - pkg:composer/oat-sa/tao-core@v54.5.0
 - pkg:composer/oat-sa/tao-core@v54.6.0
 - pkg:composer/oat-sa/tao-core@v54.6.1
