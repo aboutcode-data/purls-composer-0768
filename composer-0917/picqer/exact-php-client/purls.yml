@@ -104,3 +104,5 @@
 - pkg:composer/picqer/exact-php-client@v4.5.2
 - pkg:composer/picqer/exact-php-client@v4.5.3
 - pkg:composer/picqer/exact-php-client@v4.5.4
+- pkg:composer/picqer/exact-php-client@v4.5.5
+- pkg:composer/picqer/exact-php-client@v4.6.0

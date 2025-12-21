@@ -35,3 +35,7 @@
 - pkg:composer/plugs/plugs@v1.6.1
 - pkg:composer/plugs/plugs@v1.6.2
 - pkg:composer/plugs/plugs@v1.6.3
+- pkg:composer/plugs/plugs@v2.0.0
+- pkg:composer/plugs/plugs@v2.0.1
+- pkg:composer/plugs/plugs@v2.0.2
+- pkg:composer/plugs/plugs@v2.0.3
