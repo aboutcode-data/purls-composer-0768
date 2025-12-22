@@ -4,6 +4,7 @@
 - pkg:composer/enqueue/redis@0.10.19
 - pkg:composer/enqueue/redis@0.10.25
 - pkg:composer/enqueue/redis@0.10.26
+- pkg:composer/enqueue/redis@0.10.27
 - pkg:composer/enqueue/redis@0.10.3
 - pkg:composer/enqueue/redis@0.10.4
 - pkg:composer/enqueue/redis@0.10.7

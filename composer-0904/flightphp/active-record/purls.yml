@@ -24,3 +24,4 @@
 - pkg:composer/flightphp/active-record@v0.6.1
 - pkg:composer/flightphp/active-record@v0.6.2
 - pkg:composer/flightphp/active-record@v0.6.3
+- pkg:composer/flightphp/active-record@v0.7.0

@@ -8,6 +8,7 @@
 - pkg:composer/enqueue/snsqs@0.10.21
 - pkg:composer/enqueue/snsqs@0.10.25
 - pkg:composer/enqueue/snsqs@0.10.26
+- pkg:composer/enqueue/snsqs@0.10.27
 - pkg:composer/enqueue/snsqs@0.10.4
 - pkg:composer/enqueue/snsqs@0.10.7
 - pkg:composer/enqueue/snsqs@0.10.8
