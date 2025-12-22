@@ -3,3 +3,4 @@
 - pkg:composer/phing/task-aws@3.0.0-rc6
 - pkg:composer/phing/task-aws@3.0.1
 - pkg:composer/phing/task-aws@3.1.0
+- pkg:composer/phing/task-aws@3.1.1

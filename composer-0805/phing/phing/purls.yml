@@ -42,3 +42,4 @@
 - pkg:composer/phing/phing@3.0.0a3
 - pkg:composer/phing/phing@3.0.1
 - pkg:composer/phing/phing@3.1.0
+- pkg:composer/phing/phing@3.1.1
