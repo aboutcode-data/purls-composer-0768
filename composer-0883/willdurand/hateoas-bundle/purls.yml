@@ -30,3 +30,4 @@
 - pkg:composer/willdurand/hateoas-bundle@2.7.0
 - pkg:composer/willdurand/hateoas-bundle@2.7.0-beta1
 - pkg:composer/willdurand/hateoas-bundle@2.7.0-beta2
+- pkg:composer/willdurand/hateoas-bundle@3.0.0
