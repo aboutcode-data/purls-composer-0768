@@ -11,3 +11,4 @@
 - pkg:composer/scn/phptal@v3.1.0
 - pkg:composer/scn/phptal@v4.0.0
 - pkg:composer/scn/phptal@v4.1.0
+- pkg:composer/scn/phptal@v4.2.0
