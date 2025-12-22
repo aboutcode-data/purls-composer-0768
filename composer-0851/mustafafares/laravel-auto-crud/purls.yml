@@ -1,2 +1,4 @@
+- pkg:composer/mustafafares/laravel-auto-crud@2.0.0
+- pkg:composer/mustafafares/laravel-auto-crud@2.0.1
 - pkg:composer/mustafafares/laravel-auto-crud@v1.0.1
 - pkg:composer/mustafafares/laravel-auto-crud@v1.0.2
