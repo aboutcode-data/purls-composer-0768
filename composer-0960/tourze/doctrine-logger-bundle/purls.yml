@@ -10,3 +10,4 @@
 - pkg:composer/tourze/doctrine-logger-bundle@0.1.4
 - pkg:composer/tourze/doctrine-logger-bundle@1.0.0
 - pkg:composer/tourze/doctrine-logger-bundle@1.0.1
+- pkg:composer/tourze/doctrine-logger-bundle@1.0.2

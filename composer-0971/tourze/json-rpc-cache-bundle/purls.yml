@@ -4,3 +4,4 @@
 - pkg:composer/tourze/json-rpc-cache-bundle@0.1.1
 - pkg:composer/tourze/json-rpc-cache-bundle@0.1.2
 - pkg:composer/tourze/json-rpc-cache-bundle@1.0.0
+- pkg:composer/tourze/json-rpc-cache-bundle@2.0.0

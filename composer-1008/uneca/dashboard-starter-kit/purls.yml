@@ -95,6 +95,7 @@
 - pkg:composer/uneca/dashboard-starter-kit@4.1.1
 - pkg:composer/uneca/dashboard-starter-kit@4.1.2
 - pkg:composer/uneca/dashboard-starter-kit@4.1.3
+- pkg:composer/uneca/dashboard-starter-kit@4.10.0
 - pkg:composer/uneca/dashboard-starter-kit@4.2.1
 - pkg:composer/uneca/dashboard-starter-kit@4.2.2
 - pkg:composer/uneca/dashboard-starter-kit@4.3.0
@@ -143,3 +144,4 @@
 - pkg:composer/uneca/dashboard-starter-kit@4.8.9
 - pkg:composer/uneca/dashboard-starter-kit@4.9.0
 - pkg:composer/uneca/dashboard-starter-kit@4.9.1
+- pkg:composer/uneca/dashboard-starter-kit@5.0.0

@@ -3,6 +3,7 @@
 - pkg:composer/utopia-php/queue@0.11.0
 - pkg:composer/utopia-php/queue@0.11.1
 - pkg:composer/utopia-php/queue@0.11.2
+- pkg:composer/utopia-php/queue@0.11.3
 - pkg:composer/utopia-php/queue@0.12.0
 - pkg:composer/utopia-php/queue@0.12.1
 - pkg:composer/utopia-php/queue@0.13.0
