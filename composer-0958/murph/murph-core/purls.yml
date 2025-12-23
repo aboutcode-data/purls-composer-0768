@@ -21,6 +21,7 @@
 - pkg:composer/murph/murph-core@v1.25.1
 - pkg:composer/murph/murph-core@v1.25.2
 - pkg:composer/murph/murph-core@v1.26.0
+- pkg:composer/murph/murph-core@v1.27.0
 - pkg:composer/murph/murph-core@v1.9.0
 - pkg:composer/murph/murph-core@v1.9.1
 - pkg:composer/murph/murph-core@v1.9.2
