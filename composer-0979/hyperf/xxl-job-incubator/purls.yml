@@ -20,3 +20,4 @@
 - pkg:composer/hyperf/xxl-job-incubator@v0.7.0
 - pkg:composer/hyperf/xxl-job-incubator@v0.7.1
 - pkg:composer/hyperf/xxl-job-incubator@v0.8.0
+- pkg:composer/hyperf/xxl-job-incubator@v0.8.1
