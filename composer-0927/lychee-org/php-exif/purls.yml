@@ -1,3 +1,4 @@
+- pkg:composer/lychee-org/php-exif@1.2.0
 - pkg:composer/lychee-org/php-exif@v0.1
 - pkg:composer/lychee-org/php-exif@v0.1.1
 - pkg:composer/lychee-org/php-exif@v0.1.2
