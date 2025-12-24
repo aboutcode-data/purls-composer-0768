@@ -61,6 +61,7 @@
 - pkg:composer/superius/app-common@v0.4.15
 - pkg:composer/superius/app-common@v0.4.16
 - pkg:composer/superius/app-common@v0.4.17
+- pkg:composer/superius/app-common@v0.4.18
 - pkg:composer/superius/app-common@v0.4.2
 - pkg:composer/superius/app-common@v0.4.3
 - pkg:composer/superius/app-common@v0.4.4

@@ -566,3 +566,6 @@
 - pkg:composer/survos/deployment-bundle@2.0.84
 - pkg:composer/survos/deployment-bundle@2.0.85
 - pkg:composer/survos/deployment-bundle@2.0.86
+- pkg:composer/survos/deployment-bundle@2.0.87
+- pkg:composer/survos/deployment-bundle@2.0.88
+- pkg:composer/survos/deployment-bundle@2.0.89
