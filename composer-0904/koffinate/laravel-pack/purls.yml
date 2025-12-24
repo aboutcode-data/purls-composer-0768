@@ -25,9 +25,14 @@
 - pkg:composer/koffinate/laravel-pack@v0.1.8
 - pkg:composer/koffinate/laravel-pack@v0.2.0
 - pkg:composer/koffinate/laravel-pack@v0.2.1
+- pkg:composer/koffinate/laravel-pack@v0.2.10
+- pkg:composer/koffinate/laravel-pack@v0.2.11
+- pkg:composer/koffinate/laravel-pack@v0.2.12
 - pkg:composer/koffinate/laravel-pack@v0.2.2
 - pkg:composer/koffinate/laravel-pack@v0.2.3
 - pkg:composer/koffinate/laravel-pack@v0.2.4
 - pkg:composer/koffinate/laravel-pack@v0.2.5
 - pkg:composer/koffinate/laravel-pack@v0.2.6
 - pkg:composer/koffinate/laravel-pack@v0.2.7
+- pkg:composer/koffinate/laravel-pack@v0.2.8
+- pkg:composer/koffinate/laravel-pack@v0.2.9
