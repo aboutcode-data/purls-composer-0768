@@ -16,3 +16,4 @@
 - pkg:composer/jerome/fetch-php@3.2.2
 - pkg:composer/jerome/fetch-php@3.2.3
 - pkg:composer/jerome/fetch-php@3.3.0
+- pkg:composer/jerome/fetch-php@3.4.1
