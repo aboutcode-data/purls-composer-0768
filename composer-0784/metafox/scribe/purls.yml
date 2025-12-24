@@ -99,4 +99,5 @@
 - pkg:composer/metafox/scribe@3.8.0
 - pkg:composer/metafox/scribe@3.9.0
 - pkg:composer/metafox/scribe@3.9.1
+- pkg:composer/metafox/scribe@4.22.2
 - pkg:composer/metafox/scribe@v4.22.1
