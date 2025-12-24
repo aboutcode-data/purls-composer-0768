@@ -19,3 +19,4 @@
 - pkg:composer/tinect/matomo@5.0.0
 - pkg:composer/tinect/matomo@5.0.1
 - pkg:composer/tinect/matomo@5.0.2
+- pkg:composer/tinect/matomo@6.0.0
