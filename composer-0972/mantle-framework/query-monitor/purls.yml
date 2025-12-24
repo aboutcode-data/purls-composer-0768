@@ -63,6 +63,7 @@
 - pkg:composer/mantle-framework/query-monitor@v1.14.0
 - pkg:composer/mantle-framework/query-monitor@v1.14.1
 - pkg:composer/mantle-framework/query-monitor@v1.15.0
+- pkg:composer/mantle-framework/query-monitor@v1.16.0
 - pkg:composer/mantle-framework/query-monitor@v1.2.0
 - pkg:composer/mantle-framework/query-monitor@v1.3.0
 - pkg:composer/mantle-framework/query-monitor@v1.3.1
