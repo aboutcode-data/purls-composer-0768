@@ -1,1 +1,2 @@
 - pkg:composer/liventin/base.module.migration.userfields@v1.0.0
+- pkg:composer/liventin/base.module.migration.userfields@v1.0.1
