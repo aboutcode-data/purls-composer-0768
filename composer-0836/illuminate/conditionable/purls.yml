@@ -280,6 +280,7 @@
 - pkg:composer/illuminate/conditionable@v12.42.0
 - pkg:composer/illuminate/conditionable@v12.43.0
 - pkg:composer/illuminate/conditionable@v12.43.1
+- pkg:composer/illuminate/conditionable@v12.44.0
 - pkg:composer/illuminate/conditionable@v12.5.0
 - pkg:composer/illuminate/conditionable@v12.6.0
 - pkg:composer/illuminate/conditionable@v12.7.0

@@ -29,3 +29,4 @@
 - pkg:composer/illuminate/json-schema@v12.42.0
 - pkg:composer/illuminate/json-schema@v12.43.0
 - pkg:composer/illuminate/json-schema@v12.43.1
+- pkg:composer/illuminate/json-schema@v12.44.0
