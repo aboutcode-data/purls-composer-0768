@@ -32,6 +32,9 @@
 - pkg:composer/dragon-code/codestyler@6.2.6
 - pkg:composer/dragon-code/codestyler@6.3.0
 - pkg:composer/dragon-code/codestyler@6.4.0
+- pkg:composer/dragon-code/codestyler@6.5.0
+- pkg:composer/dragon-code/codestyler@6.5.1
+- pkg:composer/dragon-code/codestyler@6.5.2
 - pkg:composer/dragon-code/codestyler@v1.10.0
 - pkg:composer/dragon-code/codestyler@v1.10.1
 - pkg:composer/dragon-code/codestyler@v1.10.2

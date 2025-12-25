@@ -11,3 +11,4 @@
 - pkg:composer/datakode/laravel-datakode-utils@0.9.1
 - pkg:composer/datakode/laravel-datakode-utils@0.9.2
 - pkg:composer/datakode/laravel-datakode-utils@1.0.0
+- pkg:composer/datakode/laravel-datakode-utils@1.0.1
