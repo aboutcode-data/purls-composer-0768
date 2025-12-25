@@ -24,3 +24,4 @@
 - pkg:composer/braze/sdk@2.4.5
 - pkg:composer/braze/sdk@2.4.6
 - pkg:composer/braze/sdk@2.4.7
+- pkg:composer/braze/sdk@3.0.0

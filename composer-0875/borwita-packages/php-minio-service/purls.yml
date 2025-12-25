@@ -1,1 +1,2 @@
 - pkg:composer/borwita-packages/php-minio-service@v0.1.0
+- pkg:composer/borwita-packages/php-minio-service@v0.1.1

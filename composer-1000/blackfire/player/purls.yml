@@ -134,6 +134,7 @@
 - pkg:composer/blackfire/player@v2.6.41
 - pkg:composer/blackfire/player@v2.6.42
 - pkg:composer/blackfire/player@v2.6.43
+- pkg:composer/blackfire/player@v2.6.44
 - pkg:composer/blackfire/player@v2.6.5
 - pkg:composer/blackfire/player@v2.6.6
 - pkg:composer/blackfire/player@v2.6.7
