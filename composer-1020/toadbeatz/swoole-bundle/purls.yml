@@ -2,3 +2,4 @@
 - pkg:composer/toadbeatz/swoole-bundle@v1.0.1
 - pkg:composer/toadbeatz/swoole-bundle@v1.1.0
 - pkg:composer/toadbeatz/swoole-bundle@v1.1.1
+- pkg:composer/toadbeatz/swoole-bundle@v1.2.0
