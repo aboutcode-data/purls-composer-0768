@@ -32,7 +32,10 @@
 - pkg:composer/apirone/apirone-sdk-php@2.0-rc.16
 - pkg:composer/apirone/apirone-sdk-php@2.0-rc.17
 - pkg:composer/apirone/apirone-sdk-php@2.0-rc.18
+- pkg:composer/apirone/apirone-sdk-php@2.0-rc.19
 - pkg:composer/apirone/apirone-sdk-php@2.0-rc.2
+- pkg:composer/apirone/apirone-sdk-php@2.0-rc.20
+- pkg:composer/apirone/apirone-sdk-php@2.0-rc.21
 - pkg:composer/apirone/apirone-sdk-php@2.0-rc.3
 - pkg:composer/apirone/apirone-sdk-php@2.0-rc.4
 - pkg:composer/apirone/apirone-sdk-php@2.0-rc.5

@@ -299,6 +299,7 @@
 - pkg:composer/automattic/jetpack-connection@v6.19.10
 - pkg:composer/automattic/jetpack-connection@v6.19.11
 - pkg:composer/automattic/jetpack-connection@v6.19.12
+- pkg:composer/automattic/jetpack-connection@v6.19.13
 - pkg:composer/automattic/jetpack-connection@v6.19.2
 - pkg:composer/automattic/jetpack-connection@v6.19.3
 - pkg:composer/automattic/jetpack-connection@v6.19.4

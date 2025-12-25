@@ -112,6 +112,7 @@
 - pkg:composer/automattic/jetpack-blaze@v0.26.2
 - pkg:composer/automattic/jetpack-blaze@v0.26.20
 - pkg:composer/automattic/jetpack-blaze@v0.26.21
+- pkg:composer/automattic/jetpack-blaze@v0.26.22
 - pkg:composer/automattic/jetpack-blaze@v0.26.3
 - pkg:composer/automattic/jetpack-blaze@v0.26.4
 - pkg:composer/automattic/jetpack-blaze@v0.26.5

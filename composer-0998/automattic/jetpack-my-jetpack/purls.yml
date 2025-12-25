@@ -310,6 +310,7 @@
 - pkg:composer/automattic/jetpack-my-jetpack@v5.28.7
 - pkg:composer/automattic/jetpack-my-jetpack@v5.28.8
 - pkg:composer/automattic/jetpack-my-jetpack@v5.28.9
+- pkg:composer/automattic/jetpack-my-jetpack@v5.29.0
 - pkg:composer/automattic/jetpack-my-jetpack@v5.3.0
 - pkg:composer/automattic/jetpack-my-jetpack@v5.3.1
 - pkg:composer/automattic/jetpack-my-jetpack@v5.3.2
