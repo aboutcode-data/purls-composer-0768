@@ -8,3 +8,4 @@
 - pkg:composer/webfactory/slug-validation-bundle@0.6.0
 - pkg:composer/webfactory/slug-validation-bundle@1.0.0
 - pkg:composer/webfactory/slug-validation-bundle@1.1.0
+- pkg:composer/webfactory/slug-validation-bundle@1.2.0
