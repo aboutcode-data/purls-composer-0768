@@ -3,3 +3,4 @@
 - pkg:composer/fusio/adapter-mqtt@v6.0.1
 - pkg:composer/fusio/adapter-mqtt@v6.0.2
 - pkg:composer/fusio/adapter-mqtt@v6.1.0
+- pkg:composer/fusio/adapter-mqtt@v6.2.0
