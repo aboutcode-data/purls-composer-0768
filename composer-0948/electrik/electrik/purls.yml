@@ -11,3 +11,5 @@
 - pkg:composer/electrik/electrik@1.0.0
 - pkg:composer/electrik/electrik@2.0.0
 - pkg:composer/electrik/electrik@2.0.5
+- pkg:composer/electrik/electrik@4.0.0-b1
+- pkg:composer/electrik/electrik@4.0.0-beta.0
