@@ -18,3 +18,4 @@
 - pkg:composer/mckenziearts/laravel-notify@v2.7
 - pkg:composer/mckenziearts/laravel-notify@v3.0
 - pkg:composer/mckenziearts/laravel-notify@v3.1
+- pkg:composer/mckenziearts/laravel-notify@v3.1.1
