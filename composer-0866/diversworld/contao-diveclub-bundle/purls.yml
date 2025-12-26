@@ -70,3 +70,7 @@
 - pkg:composer/diversworld/contao-diveclub-bundle@1.2.9
 - pkg:composer/diversworld/contao-diveclub-bundle@1.3.0
 - pkg:composer/diversworld/contao-diveclub-bundle@2.0.0
+- pkg:composer/diversworld/contao-diveclub-bundle@2.0.1
+- pkg:composer/diversworld/contao-diveclub-bundle@2.0.2
+- pkg:composer/diversworld/contao-diveclub-bundle@2.0.3
+- pkg:composer/diversworld/contao-diveclub-bundle@2.0.4
