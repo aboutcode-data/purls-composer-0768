@@ -396,6 +396,7 @@
 - pkg:composer/tencentcloud/ims@3.0.1412
 - pkg:composer/tencentcloud/ims@3.0.1414
 - pkg:composer/tencentcloud/ims@3.0.1432
+- pkg:composer/tencentcloud/ims@3.0.1511
 - pkg:composer/tencentcloud/ims@3.0.281
 - pkg:composer/tencentcloud/ims@3.0.282
 - pkg:composer/tencentcloud/ims@3.0.283
