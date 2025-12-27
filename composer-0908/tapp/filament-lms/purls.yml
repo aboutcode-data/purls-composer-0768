@@ -1,6 +1,7 @@
 - pkg:composer/tapp/filament-lms@v1.0.0
 - pkg:composer/tapp/filament-lms@v1.0.1
 - pkg:composer/tapp/filament-lms@v1.0.2
+- pkg:composer/tapp/filament-lms@v1.0.3
 - pkg:composer/tapp/filament-lms@v4.0.0
 - pkg:composer/tapp/filament-lms@v4.0.1
 - pkg:composer/tapp/filament-lms@v4.0.10
@@ -9,6 +10,7 @@
 - pkg:composer/tapp/filament-lms@v4.0.13
 - pkg:composer/tapp/filament-lms@v4.0.14
 - pkg:composer/tapp/filament-lms@v4.0.15
+- pkg:composer/tapp/filament-lms@v4.0.16
 - pkg:composer/tapp/filament-lms@v4.0.2
 - pkg:composer/tapp/filament-lms@v4.0.3
 - pkg:composer/tapp/filament-lms@v4.0.4

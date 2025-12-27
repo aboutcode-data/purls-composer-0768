@@ -48,6 +48,7 @@
 - pkg:composer/traackr/traackr-api-php@0.50
 - pkg:composer/traackr/traackr-api-php@0.51.0
 - pkg:composer/traackr/traackr-api-php@0.52.0
+- pkg:composer/traackr/traackr-api-php@0.53.0
 - pkg:composer/traackr/traackr-api-php@0.6
 - pkg:composer/traackr/traackr-api-php@0.7
 - pkg:composer/traackr/traackr-api-php@0.8
