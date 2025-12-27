@@ -39,3 +39,4 @@
 - pkg:composer/plugs/plugs@v2.0.1
 - pkg:composer/plugs/plugs@v2.0.2
 - pkg:composer/plugs/plugs@v2.0.3
+- pkg:composer/plugs/plugs@v2.1.0
