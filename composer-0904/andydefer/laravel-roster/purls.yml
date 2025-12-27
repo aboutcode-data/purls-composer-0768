@@ -18,3 +18,5 @@
 - pkg:composer/andydefer/laravel-roster@0.4.1
 - pkg:composer/andydefer/laravel-roster@0.4.2
 - pkg:composer/andydefer/laravel-roster@0.5.0
+- pkg:composer/andydefer/laravel-roster@0.6.0
+- pkg:composer/andydefer/laravel-roster@0.7.0
