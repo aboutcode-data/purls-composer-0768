@@ -7,3 +7,4 @@
 - pkg:composer/chrome-php/wrench@v1.6.0
 - pkg:composer/chrome-php/wrench@v1.7.0
 - pkg:composer/chrome-php/wrench@v1.7.1
+- pkg:composer/chrome-php/wrench@v1.8.0

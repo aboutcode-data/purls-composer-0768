@@ -23,3 +23,5 @@
 - pkg:composer/contributte/api-docu@v4.1.0
 - pkg:composer/contributte/api-docu@v4.1.1
 - pkg:composer/contributte/api-docu@v5.0.0
+- pkg:composer/contributte/api-docu@v6.0.0
+- pkg:composer/contributte/api-docu@v6.0.1
