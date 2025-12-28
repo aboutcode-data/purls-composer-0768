@@ -39,9 +39,11 @@
 - pkg:composer/bsodergren/utm@v2.2.32
 - pkg:composer/bsodergren/utm@v2.2.33
 - pkg:composer/bsodergren/utm@v2.2.34
+- pkg:composer/bsodergren/utm@v2.2.35
 - pkg:composer/bsodergren/utm@v2.2.4
 - pkg:composer/bsodergren/utm@v2.2.5
 - pkg:composer/bsodergren/utm@v2.2.6
 - pkg:composer/bsodergren/utm@v2.2.7
 - pkg:composer/bsodergren/utm@v2.3.0
 - pkg:composer/bsodergren/utm@v2.3.11
+- pkg:composer/bsodergren/utm@v2.4.1

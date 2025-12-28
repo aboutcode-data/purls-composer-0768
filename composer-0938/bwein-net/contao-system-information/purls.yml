@@ -8,6 +8,8 @@
 - pkg:composer/bwein-net/contao-system-information@1.4.0
 - pkg:composer/bwein-net/contao-system-information@1.4.1
 - pkg:composer/bwein-net/contao-system-information@1.4.2
+- pkg:composer/bwein-net/contao-system-information@1.4.3
+- pkg:composer/bwein-net/contao-system-information@1.4.4
 - pkg:composer/bwein-net/contao-system-information@v1.0
 - pkg:composer/bwein-net/contao-system-information@v1.0.1
 - pkg:composer/bwein-net/contao-system-information@v1.0.2
