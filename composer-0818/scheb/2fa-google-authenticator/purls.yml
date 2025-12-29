@@ -66,3 +66,4 @@
 - pkg:composer/scheb/2fa-google-authenticator@v7.9.0
 - pkg:composer/scheb/2fa-google-authenticator@v8.0.0
 - pkg:composer/scheb/2fa-google-authenticator@v8.0.1
+- pkg:composer/scheb/2fa-google-authenticator@v8.1.0
