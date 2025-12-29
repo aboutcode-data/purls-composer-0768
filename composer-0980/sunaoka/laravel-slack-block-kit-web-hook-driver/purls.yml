@@ -1,3 +1,4 @@
 - pkg:composer/sunaoka/laravel-slack-block-kit-web-hook-driver@v1.0.0
 - pkg:composer/sunaoka/laravel-slack-block-kit-web-hook-driver@v1.0.1
 - pkg:composer/sunaoka/laravel-slack-block-kit-web-hook-driver@v1.0.2
+- pkg:composer/sunaoka/laravel-slack-block-kit-web-hook-driver@v1.1.0
