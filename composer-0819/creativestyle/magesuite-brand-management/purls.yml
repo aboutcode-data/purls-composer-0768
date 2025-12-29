@@ -15,6 +15,7 @@
 - pkg:composer/creativestyle/magesuite-brand-management@v1.10.1
 - pkg:composer/creativestyle/magesuite-brand-management@v1.10.2
 - pkg:composer/creativestyle/magesuite-brand-management@v1.10.3
+- pkg:composer/creativestyle/magesuite-brand-management@v1.10.4
 - pkg:composer/creativestyle/magesuite-brand-management@v1.2.0
 - pkg:composer/creativestyle/magesuite-brand-management@v1.2.1
 - pkg:composer/creativestyle/magesuite-brand-management@v1.2.10
@@ -119,3 +120,4 @@
 - pkg:composer/creativestyle/magesuite-brand-management@v2.0.4
 - pkg:composer/creativestyle/magesuite-brand-management@v2.0.5
 - pkg:composer/creativestyle/magesuite-brand-management@v2.0.6
+- pkg:composer/creativestyle/magesuite-brand-management@v2.0.7
