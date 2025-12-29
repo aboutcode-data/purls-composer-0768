@@ -1687,6 +1687,8 @@
 - pkg:composer/alibabacloud/sdk@1.8.2330
 - pkg:composer/alibabacloud/sdk@1.8.2331
 - pkg:composer/alibabacloud/sdk@1.8.2332
+- pkg:composer/alibabacloud/sdk@1.8.2333
+- pkg:composer/alibabacloud/sdk@1.8.2334
 - pkg:composer/alibabacloud/sdk@1.8.234
 - pkg:composer/alibabacloud/sdk@1.8.235
 - pkg:composer/alibabacloud/sdk@1.8.236
