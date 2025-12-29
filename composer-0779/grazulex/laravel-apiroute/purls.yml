@@ -1,3 +1,6 @@
 - pkg:composer/grazulex/laravel-apiroute@v0.0.1
 - pkg:composer/grazulex/laravel-apiroute@v0.0.2
 - pkg:composer/grazulex/laravel-apiroute@v0.0.3
+- pkg:composer/grazulex/laravel-apiroute@v1.0.0
+- pkg:composer/grazulex/laravel-apiroute@v1.1.0
+- pkg:composer/grazulex/laravel-apiroute@v1.2.0
