@@ -1,3 +1,4 @@
 - pkg:composer/ecpay/magento2-module-barcode-payment-gateway@2.4.2310270
 - pkg:composer/ecpay/magento2-module-barcode-payment-gateway@2.4.2410290
 - pkg:composer/ecpay/magento2-module-barcode-payment-gateway@2.4.2507230
+- pkg:composer/ecpay/magento2-module-barcode-payment-gateway@2.4.2512110

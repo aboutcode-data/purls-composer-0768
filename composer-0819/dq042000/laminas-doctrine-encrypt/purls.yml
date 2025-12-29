@@ -4,3 +4,8 @@
 - pkg:composer/dq042000/laminas-doctrine-encrypt@v2.4.0.4
 - pkg:composer/dq042000/laminas-doctrine-encrypt@v2.6
 - pkg:composer/dq042000/laminas-doctrine-encrypt@v2.6.1
+- pkg:composer/dq042000/laminas-doctrine-encrypt@v2.6.2
+- pkg:composer/dq042000/laminas-doctrine-encrypt@v2.6.3
+- pkg:composer/dq042000/laminas-doctrine-encrypt@v2.6.4
+- pkg:composer/dq042000/laminas-doctrine-encrypt@v2.6.5
+- pkg:composer/dq042000/laminas-doctrine-encrypt@v2.6.6
