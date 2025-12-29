@@ -13,3 +13,4 @@
 - pkg:composer/cobweb/flush_language_cache@4.0.1
 - pkg:composer/cobweb/flush_language_cache@5.0.0
 - pkg:composer/cobweb/flush_language_cache@5.0.1
+- pkg:composer/cobweb/flush_language_cache@6.0.0
