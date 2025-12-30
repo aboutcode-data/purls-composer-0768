@@ -13,3 +13,5 @@
 - pkg:composer/lagdo/dbadmin-app@v0.2.6
 - pkg:composer/lagdo/dbadmin-app@v0.2.7
 - pkg:composer/lagdo/dbadmin-app@v0.3.0
+- pkg:composer/lagdo/dbadmin-app@v0.4.0
+- pkg:composer/lagdo/dbadmin-app@v0.4.1

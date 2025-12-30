@@ -69,6 +69,7 @@
 - pkg:composer/leon-mbs/zippy@2.7.5
 - pkg:composer/leon-mbs/zippy@2.7.6
 - pkg:composer/leon-mbs/zippy@2.7.7
+- pkg:composer/leon-mbs/zippy@2.7.8
 - pkg:composer/leon-mbs/zippy@v1.0.9
 - pkg:composer/leon-mbs/zippy@v1.1.0
 - pkg:composer/leon-mbs/zippy@v1.1.4

@@ -18,6 +18,7 @@
 - pkg:composer/lion/security@v11.7.0
 - pkg:composer/lion/security@v11.8.0
 - pkg:composer/lion/security@v11.9.0
+- pkg:composer/lion/security@v12.0.0
 - pkg:composer/lion/security@v2.0
 - pkg:composer/lion/security@v3.0
 - pkg:composer/lion/security@v4.0
