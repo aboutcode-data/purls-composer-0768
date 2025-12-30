@@ -1,1 +1,2 @@
 - pkg:composer/mammatus/kubernetes-contracts@1.0.0
+- pkg:composer/mammatus/kubernetes-contracts@1.1.0
