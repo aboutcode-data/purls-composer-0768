@@ -1,4 +1,5 @@
 - pkg:composer/kevinpijning/pest-plugin-prompt@0.1
+- pkg:composer/kevinpijning/pest-plugin-prompt@0.10
 - pkg:composer/kevinpijning/pest-plugin-prompt@0.2
 - pkg:composer/kevinpijning/pest-plugin-prompt@0.2.1
 - pkg:composer/kevinpijning/pest-plugin-prompt@0.3

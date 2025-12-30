@@ -1,6 +1,10 @@
 - pkg:composer/kaninstein/multi-acquirer-checkout@1.0.16
 - pkg:composer/kaninstein/multi-acquirer-checkout@1.0.17
 - pkg:composer/kaninstein/multi-acquirer-checkout@1.1.0
+- pkg:composer/kaninstein/multi-acquirer-checkout@1.1.1
+- pkg:composer/kaninstein/multi-acquirer-checkout@1.1.2
+- pkg:composer/kaninstein/multi-acquirer-checkout@1.1.3
+- pkg:composer/kaninstein/multi-acquirer-checkout@1.1.4
 - pkg:composer/kaninstein/multi-acquirer-checkout@v1.0.0
 - pkg:composer/kaninstein/multi-acquirer-checkout@v1.0.10
 - pkg:composer/kaninstein/multi-acquirer-checkout@v1.0.11

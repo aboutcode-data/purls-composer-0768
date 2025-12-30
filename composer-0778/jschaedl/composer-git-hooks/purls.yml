@@ -1,1 +1,2 @@
 - pkg:composer/jschaedl/composer-git-hooks@4.0.0
+- pkg:composer/jschaedl/composer-git-hooks@5.0.0
