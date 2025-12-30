@@ -223,6 +223,8 @@
 - pkg:composer/uikit/uikit@v3.25.0
 - pkg:composer/uikit/uikit@v3.25.1
 - pkg:composer/uikit/uikit@v3.25.2
+- pkg:composer/uikit/uikit@v3.25.3
+- pkg:composer/uikit/uikit@v3.25.4
 - pkg:composer/uikit/uikit@v3.3.0
 - pkg:composer/uikit/uikit@v3.3.1
 - pkg:composer/uikit/uikit@v3.3.2
