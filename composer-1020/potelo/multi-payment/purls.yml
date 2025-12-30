@@ -1,5 +1,6 @@
 - pkg:composer/potelo/multi-payment@2.2.0
 - pkg:composer/potelo/multi-payment@2.2.3
+- pkg:composer/potelo/multi-payment@4.0.2
 - pkg:composer/potelo/multi-payment@v0.1.0
 - pkg:composer/potelo/multi-payment@v0.2.0
 - pkg:composer/potelo/multi-payment@v0.2.1

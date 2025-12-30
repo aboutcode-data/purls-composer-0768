@@ -23,6 +23,7 @@
 - pkg:composer/paytabs/magento2@3.26.0
 - pkg:composer/paytabs/magento2@3.26.1
 - pkg:composer/paytabs/magento2@3.26.2
+- pkg:composer/paytabs/magento2@3.27.0
 - pkg:composer/paytabs/magento2@3.7.2
 - pkg:composer/paytabs/magento2@3.7.3
 - pkg:composer/paytabs/magento2@3.7.4
