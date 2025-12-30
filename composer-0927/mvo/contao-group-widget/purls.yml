@@ -36,3 +36,4 @@
 - pkg:composer/mvo/contao-group-widget@v1.5.8
 - pkg:composer/mvo/contao-group-widget@v1.5.9
 - pkg:composer/mvo/contao-group-widget@v1.6.0
+- pkg:composer/mvo/contao-group-widget@v1.6.1

@@ -7,3 +7,5 @@
 - pkg:composer/mrgarest/laravel-firebase-sender@2.2.0
 - pkg:composer/mrgarest/laravel-firebase-sender@2.2.1
 - pkg:composer/mrgarest/laravel-firebase-sender@3.0.2
+- pkg:composer/mrgarest/laravel-firebase-sender@3.1.0
+- pkg:composer/mrgarest/laravel-firebase-sender@3.1.1

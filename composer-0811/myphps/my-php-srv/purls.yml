@@ -2,5 +2,4 @@
 - pkg:composer/myphps/my-php-srv@2.7.1
 - pkg:composer/myphps/my-php-srv@3.3.7
 - pkg:composer/myphps/my-php-srv@4.1.1
-- pkg:composer/myphps/my-php-srv@4.2.1
-- pkg:composer/myphps/my-php-srv@4.2.2
+- pkg:composer/myphps/my-php-srv@4.3.1
