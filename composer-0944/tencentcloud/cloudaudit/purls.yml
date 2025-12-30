@@ -396,6 +396,7 @@
 - pkg:composer/tencentcloud/cloudaudit@3.0.1414
 - pkg:composer/tencentcloud/cloudaudit@3.0.1428
 - pkg:composer/tencentcloud/cloudaudit@3.0.1480
+- pkg:composer/tencentcloud/cloudaudit@3.0.1513
 - pkg:composer/tencentcloud/cloudaudit@3.0.248
 - pkg:composer/tencentcloud/cloudaudit@3.0.249
 - pkg:composer/tencentcloud/cloudaudit@3.0.250

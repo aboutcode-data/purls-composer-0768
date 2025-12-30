@@ -412,6 +412,7 @@
 - pkg:composer/tencentcloud/trocket@3.0.1501
 - pkg:composer/tencentcloud/trocket@3.0.1504
 - pkg:composer/tencentcloud/trocket@3.0.1509
+- pkg:composer/tencentcloud/trocket@3.0.1513
 - pkg:composer/tencentcloud/trocket@3.0.948
 - pkg:composer/tencentcloud/trocket@3.0.949
 - pkg:composer/tencentcloud/trocket@3.0.950
