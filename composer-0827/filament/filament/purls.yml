@@ -1069,6 +1069,7 @@
 - pkg:composer/filament/filament@v4.2.4
 - pkg:composer/filament/filament@v4.3.0
 - pkg:composer/filament/filament@v4.3.1
+- pkg:composer/filament/filament@v4.4.0
 - pkg:composer/filament/filament@v5.0.0-beta1
 - pkg:composer/filament/filament@v5.0.0-beta2
 - pkg:composer/filament/filament@v5.0.0-beta3
@@ -1076,3 +1077,4 @@
 - pkg:composer/filament/filament@v5.0.0-beta5
 - pkg:composer/filament/filament@v5.0.0-beta6
 - pkg:composer/filament/filament@v5.0.0-beta7
+- pkg:composer/filament/filament@v5.0.0-beta8
