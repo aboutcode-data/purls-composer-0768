@@ -21,3 +21,4 @@
 - pkg:composer/ominity/laravel-ominity@v1.1.7
 - pkg:composer/ominity/laravel-ominity@v1.2.0
 - pkg:composer/ominity/laravel-ominity@v1.2.1
+- pkg:composer/ominity/laravel-ominity@v1.3.0

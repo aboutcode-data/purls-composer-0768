@@ -37,3 +37,5 @@
 - pkg:composer/ominity/ominity-api-php@v1.1.8
 - pkg:composer/ominity/ominity-api-php@v1.1.9
 - pkg:composer/ominity/ominity-api-php@v1.2.0
+- pkg:composer/ominity/ominity-api-php@v1.3.0
+- pkg:composer/ominity/ominity-api-php@v1.3.1
