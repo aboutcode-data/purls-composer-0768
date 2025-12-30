@@ -18,3 +18,4 @@
 - pkg:composer/i-lateral/silverstripe-searchable@3.0.3
 - pkg:composer/i-lateral/silverstripe-searchable@3.1.0
 - pkg:composer/i-lateral/silverstripe-searchable@3.1.1
+- pkg:composer/i-lateral/silverstripe-searchable@4.0.0
