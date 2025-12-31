@@ -11,5 +11,6 @@
 - pkg:composer/yajra/laravel-datatables-fractal@v10.0.0
 - pkg:composer/yajra/laravel-datatables-fractal@v11.0.0
 - pkg:composer/yajra/laravel-datatables-fractal@v12.0.0
+- pkg:composer/yajra/laravel-datatables-fractal@v12.0.1
 - pkg:composer/yajra/laravel-datatables-fractal@v9.0.0
 - pkg:composer/yajra/laravel-datatables-fractal@v9.1.0
