@@ -23,6 +23,7 @@
 - pkg:composer/shopsys/migrations@v16.0.0
 - pkg:composer/shopsys/migrations@v17.0.0
 - pkg:composer/shopsys/migrations@v17.0.1
+- pkg:composer/shopsys/migrations@v18.0.0
 - pkg:composer/shopsys/migrations@v2.0.0
 - pkg:composer/shopsys/migrations@v2.0.1
 - pkg:composer/shopsys/migrations@v2.0.2

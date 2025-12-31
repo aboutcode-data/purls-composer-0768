@@ -47,3 +47,5 @@
 - pkg:composer/showapp/jwt-auth@1.0.1
 - pkg:composer/showapp/jwt-auth@1.0.2
 - pkg:composer/showapp/jwt-auth@1.0.3
+- pkg:composer/showapp/jwt-auth@1.0.4
+- pkg:composer/showapp/jwt-auth@1.0.5

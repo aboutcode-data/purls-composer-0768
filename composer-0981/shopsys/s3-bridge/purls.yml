@@ -7,3 +7,4 @@
 - pkg:composer/shopsys/s3-bridge@v16.0.0
 - pkg:composer/shopsys/s3-bridge@v17.0.0
 - pkg:composer/shopsys/s3-bridge@v17.0.1
+- pkg:composer/shopsys/s3-bridge@v18.0.0
