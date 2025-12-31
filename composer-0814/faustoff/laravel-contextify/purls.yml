@@ -35,3 +35,4 @@
 - pkg:composer/faustoff/laravel-contextify@3.6.0
 - pkg:composer/faustoff/laravel-contextify@4.0.0
 - pkg:composer/faustoff/laravel-contextify@4.1.0
+- pkg:composer/faustoff/laravel-contextify@4.1.1
