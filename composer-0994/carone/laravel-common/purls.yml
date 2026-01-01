@@ -1,3 +1,1 @@
-- pkg:composer/carone/laravel-common@v1.0.0
-- pkg:composer/carone/laravel-common@v1.1
-- pkg:composer/carone/laravel-common@v1.3
+- pkg:composer/carone/laravel-common@1.0
