@@ -10,6 +10,7 @@
 - pkg:composer/bluntelk/ixpmanager-xero@v0.9
 - pkg:composer/bluntelk/ixpmanager-xero@v1.0
 - pkg:composer/bluntelk/ixpmanager-xero@v1.1
+- pkg:composer/bluntelk/ixpmanager-xero@v1.10
 - pkg:composer/bluntelk/ixpmanager-xero@v1.2
 - pkg:composer/bluntelk/ixpmanager-xero@v1.3
 - pkg:composer/bluntelk/ixpmanager-xero@v1.4
@@ -17,3 +18,4 @@
 - pkg:composer/bluntelk/ixpmanager-xero@v1.6
 - pkg:composer/bluntelk/ixpmanager-xero@v1.7
 - pkg:composer/bluntelk/ixpmanager-xero@v1.8
+- pkg:composer/bluntelk/ixpmanager-xero@v1.9
