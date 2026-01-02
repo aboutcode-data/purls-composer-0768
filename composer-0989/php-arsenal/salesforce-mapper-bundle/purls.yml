@@ -78,3 +78,4 @@
 - pkg:composer/php-arsenal/salesforce-mapper-bundle@5.1.0
 - pkg:composer/php-arsenal/salesforce-mapper-bundle@5.1.1
 - pkg:composer/php-arsenal/salesforce-mapper-bundle@5.1.2
+- pkg:composer/php-arsenal/salesforce-mapper-bundle@5.1.3
