@@ -20,3 +20,4 @@
 - pkg:composer/coroq/form@3.0.0-alpha8
 - pkg:composer/coroq/form@v3.0.0
 - pkg:composer/coroq/form@v3.0.1
+- pkg:composer/coroq/form@v3.0.2
