@@ -15,6 +15,7 @@
 - pkg:composer/luzrain/telegram-bot-api@v3.13.0
 - pkg:composer/luzrain/telegram-bot-api@v3.14.0
 - pkg:composer/luzrain/telegram-bot-api@v3.15.0
+- pkg:composer/luzrain/telegram-bot-api@v3.16.0
 - pkg:composer/luzrain/telegram-bot-api@v3.2.0
 - pkg:composer/luzrain/telegram-bot-api@v3.3.0
 - pkg:composer/luzrain/telegram-bot-api@v3.4.0

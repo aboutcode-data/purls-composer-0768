@@ -14,3 +14,4 @@
 - pkg:composer/makaveli/laravel-logger@1.0.8
 - pkg:composer/makaveli/laravel-logger@1.0.9
 - pkg:composer/makaveli/laravel-logger@1.1.0
+- pkg:composer/makaveli/laravel-logger@1.1.1
