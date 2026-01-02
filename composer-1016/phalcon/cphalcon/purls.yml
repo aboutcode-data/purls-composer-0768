@@ -1,3 +1,4 @@
+- pkg:composer/phalcon/cphalcon@5.10.0
 - pkg:composer/phalcon/cphalcon@5.9.0
 - pkg:composer/phalcon/cphalcon@5.9.1
 - pkg:composer/phalcon/cphalcon@5.9.2
