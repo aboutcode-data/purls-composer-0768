@@ -188,3 +188,4 @@
 - pkg:composer/nelmio/api-doc-bundle@v5.8.0
 - pkg:composer/nelmio/api-doc-bundle@v5.8.1
 - pkg:composer/nelmio/api-doc-bundle@v5.8.2
+- pkg:composer/nelmio/api-doc-bundle@v5.8.3
