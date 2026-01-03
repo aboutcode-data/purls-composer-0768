@@ -38,3 +38,4 @@
 - pkg:composer/koffinate/laravel-pack@v0.2.9
 - pkg:composer/koffinate/laravel-pack@v0.3.0
 - pkg:composer/koffinate/laravel-pack@v0.3.1
+- pkg:composer/koffinate/laravel-pack@v0.3.2
