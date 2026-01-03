@@ -115,3 +115,4 @@
 - pkg:composer/ph7software/ph7cms@v17.9.1
 - pkg:composer/ph7software/ph7cms@v17.9.1-beta.1
 - pkg:composer/ph7software/ph7cms@v17.9.2
+- pkg:composer/ph7software/ph7cms@v18.1.0
