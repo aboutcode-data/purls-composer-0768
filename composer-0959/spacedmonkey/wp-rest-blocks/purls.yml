@@ -16,3 +16,4 @@
 - pkg:composer/spacedmonkey/wp-rest-blocks@1.0.0
 - pkg:composer/spacedmonkey/wp-rest-blocks@1.0.1
 - pkg:composer/spacedmonkey/wp-rest-blocks@1.0.2
+- pkg:composer/spacedmonkey/wp-rest-blocks@2.0.0
