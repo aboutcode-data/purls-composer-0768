@@ -41,3 +41,10 @@
 - pkg:composer/plugs/plugs@v2.0.3
 - pkg:composer/plugs/plugs@v2.1.0
 - pkg:composer/plugs/plugs@v2.1.1
+- pkg:composer/plugs/plugs@v2.1.2
+- pkg:composer/plugs/plugs@v2.1.3
+- pkg:composer/plugs/plugs@v2.1.4
+- pkg:composer/plugs/plugs@v2.1.5
+- pkg:composer/plugs/plugs@v2.1.6
+- pkg:composer/plugs/plugs@v2.1.7
+- pkg:composer/plugs/plugs@v2.1.8
