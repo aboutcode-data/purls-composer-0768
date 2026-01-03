@@ -49,3 +49,4 @@
 - pkg:composer/evolutioncms/evolution@3.2.7
 - pkg:composer/evolutioncms/evolution@3.3.0
 - pkg:composer/evolutioncms/evolution@3.5.0
+- pkg:composer/evolutioncms/evolution@3.5.1
