@@ -16,3 +16,4 @@
 - pkg:composer/imponeer/smarty-db-resource@v3.0.6
 - pkg:composer/imponeer/smarty-db-resource@v4.0.0
 - pkg:composer/imponeer/smarty-db-resource@v4.0.1
+- pkg:composer/imponeer/smarty-db-resource@v4.0.2
