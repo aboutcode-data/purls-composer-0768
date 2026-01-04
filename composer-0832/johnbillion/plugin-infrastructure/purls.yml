@@ -2,6 +2,7 @@
 - pkg:composer/johnbillion/plugin-infrastructure@1.1.0
 - pkg:composer/johnbillion/plugin-infrastructure@1.2.0
 - pkg:composer/johnbillion/plugin-infrastructure@1.2.1
+- pkg:composer/johnbillion/plugin-infrastructure@1.2.2
 - pkg:composer/johnbillion/plugin-infrastructure@2.0.0
 - pkg:composer/johnbillion/plugin-infrastructure@2.0.0-beta.2
 - pkg:composer/johnbillion/plugin-infrastructure@2.0.0-beta.3
@@ -19,3 +20,5 @@
 - pkg:composer/johnbillion/plugin-infrastructure@2.4.0
 - pkg:composer/johnbillion/plugin-infrastructure@2.5.0
 - pkg:composer/johnbillion/plugin-infrastructure@2.5.1
+- pkg:composer/johnbillion/plugin-infrastructure@2.5.2
+- pkg:composer/johnbillion/plugin-infrastructure@2.5.3
