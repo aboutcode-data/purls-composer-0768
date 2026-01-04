@@ -215,3 +215,4 @@
 - pkg:composer/pestphp/pest@v4.1.6
 - pkg:composer/pestphp/pest@v4.2.0
 - pkg:composer/pestphp/pest@v4.3.0
+- pkg:composer/pestphp/pest@v4.3.1

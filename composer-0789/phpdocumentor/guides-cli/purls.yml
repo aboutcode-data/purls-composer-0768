@@ -19,3 +19,4 @@
 - pkg:composer/phpdocumentor/guides-cli@1.9.1
 - pkg:composer/phpdocumentor/guides-cli@1.9.2
 - pkg:composer/phpdocumentor/guides-cli@1.9.3
+- pkg:composer/phpdocumentor/guides-cli@1.9.5
