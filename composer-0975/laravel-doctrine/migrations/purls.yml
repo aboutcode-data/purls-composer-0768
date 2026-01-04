@@ -40,3 +40,4 @@
 - pkg:composer/laravel-doctrine/migrations@3.3.0
 - pkg:composer/laravel-doctrine/migrations@3.3.1
 - pkg:composer/laravel-doctrine/migrations@3.4.0
+- pkg:composer/laravel-doctrine/migrations@3.4.1
