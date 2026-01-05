@@ -5,3 +5,4 @@
 - pkg:composer/syncgw/roundcube_plugin@9.20.6
 - pkg:composer/syncgw/roundcube_plugin@9.20.7
 - pkg:composer/syncgw/roundcube_plugin@9.20.8
+- pkg:composer/syncgw/roundcube_plugin@9.20.9

@@ -17,3 +17,4 @@
 - pkg:composer/spryker/web-profiler@1.6.3
 - pkg:composer/spryker/web-profiler@1.6.4
 - pkg:composer/spryker/web-profiler@1.6.5
+- pkg:composer/spryker/web-profiler@1.7.0
