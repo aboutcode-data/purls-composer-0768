@@ -133,6 +133,7 @@
 - pkg:composer/vardot/varbase-project@9.1.1
 - pkg:composer/vardot/varbase-project@9.1.10
 - pkg:composer/vardot/varbase-project@9.1.11
+- pkg:composer/vardot/varbase-project@9.1.13
 - pkg:composer/vardot/varbase-project@9.1.2
 - pkg:composer/vardot/varbase-project@9.1.3
 - pkg:composer/vardot/varbase-project@9.1.4

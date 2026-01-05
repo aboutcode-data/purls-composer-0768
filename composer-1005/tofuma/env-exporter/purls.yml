@@ -1,1 +1,2 @@
 - pkg:composer/tofuma/env-exporter@v1.0.0
+- pkg:composer/tofuma/env-exporter@v2.1.3
