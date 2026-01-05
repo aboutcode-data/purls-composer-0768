@@ -20,6 +20,7 @@
 - pkg:composer/svc/profile-bundle@6.6.0
 - pkg:composer/svc/profile-bundle@6.7.0
 - pkg:composer/svc/profile-bundle@6.8.0
+- pkg:composer/svc/profile-bundle@6.9.0
 - pkg:composer/svc/profile-bundle@v1.0.0
 - pkg:composer/svc/profile-bundle@v1.1.0
 - pkg:composer/svc/profile-bundle@v1.1.1

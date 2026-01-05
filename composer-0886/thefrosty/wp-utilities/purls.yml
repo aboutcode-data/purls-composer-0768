@@ -82,3 +82,7 @@
 - pkg:composer/thefrosty/wp-utilities@v3.8.7
 - pkg:composer/thefrosty/wp-utilities@v3.8.8
 - pkg:composer/thefrosty/wp-utilities@v3.8.8.1
+- pkg:composer/thefrosty/wp-utilities@v3.8.9
+- pkg:composer/thefrosty/wp-utilities@v3.8.9.1
+- pkg:composer/thefrosty/wp-utilities@v3.9.0
+- pkg:composer/thefrosty/wp-utilities@v3.9.1

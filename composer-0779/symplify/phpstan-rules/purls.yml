@@ -257,6 +257,10 @@
 - pkg:composer/symplify/phpstan-rules@14.9.3
 - pkg:composer/symplify/phpstan-rules@14.9.4
 - pkg:composer/symplify/phpstan-rules@14.9.5
+- pkg:composer/symplify/phpstan-rules@14.9.6
+- pkg:composer/symplify/phpstan-rules@14.9.7
+- pkg:composer/symplify/phpstan-rules@14.9.8
+- pkg:composer/symplify/phpstan-rules@14.9.9
 - pkg:composer/symplify/phpstan-rules@8.3.48
 - pkg:composer/symplify/phpstan-rules@9.0.0
 - pkg:composer/symplify/phpstan-rules@9.0.0-BETA1

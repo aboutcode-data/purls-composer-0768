@@ -96,6 +96,11 @@
 - pkg:composer/svpernova09/homestead@v15.1.1
 - pkg:composer/svpernova09/homestead@v15.1.3
 - pkg:composer/svpernova09/homestead@v15.1.4
+- pkg:composer/svpernova09/homestead@v16.0.0
+- pkg:composer/svpernova09/homestead@v17.0.0
+- pkg:composer/svpernova09/homestead@v17.0.1
+- pkg:composer/svpernova09/homestead@v17.0.2
+- pkg:composer/svpernova09/homestead@v17.0.3
 - pkg:composer/svpernova09/homestead@v2.0.0
 - pkg:composer/svpernova09/homestead@v2.0.1
 - pkg:composer/svpernova09/homestead@v2.0.10

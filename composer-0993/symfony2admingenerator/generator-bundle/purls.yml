@@ -91,3 +91,4 @@
 - pkg:composer/symfony2admingenerator/generator-bundle@v5.3.7
 - pkg:composer/symfony2admingenerator/generator-bundle@v5.4.0
 - pkg:composer/symfony2admingenerator/generator-bundle@v5.4.1
+- pkg:composer/symfony2admingenerator/generator-bundle@v5.4.2
