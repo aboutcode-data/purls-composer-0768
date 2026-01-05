@@ -131,3 +131,5 @@
 - pkg:composer/pinahq/framework@0.6.7
 - pkg:composer/pinahq/framework@0.7
 - pkg:composer/pinahq/framework@0.7.1
+- pkg:composer/pinahq/framework@1.0
+- pkg:composer/pinahq/framework@v2.0.0
