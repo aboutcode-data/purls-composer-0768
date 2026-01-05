@@ -82,6 +82,8 @@
 - pkg:composer/wexample/symfony-cart@1.0.6
 - pkg:composer/wexample/symfony-cart@1.0.60
 - pkg:composer/wexample/symfony-cart@1.0.61
+- pkg:composer/wexample/symfony-cart@1.0.62
+- pkg:composer/wexample/symfony-cart@1.0.63
 - pkg:composer/wexample/symfony-cart@1.0.7
 - pkg:composer/wexample/symfony-cart@1.0.8
 - pkg:composer/wexample/symfony-cart@1.0.9

@@ -62,3 +62,4 @@
 - pkg:composer/wp-pay-extensions/memberpress@v4.8.3
 - pkg:composer/wp-pay-extensions/memberpress@v4.8.4
 - pkg:composer/wp-pay-extensions/memberpress@v4.8.5
+- pkg:composer/wp-pay-extensions/memberpress@v4.9.0
