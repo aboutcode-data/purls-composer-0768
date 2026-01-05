@@ -79,3 +79,4 @@
 - pkg:composer/spatie/db-dumper@3.8.0
 - pkg:composer/spatie/db-dumper@3.8.1
 - pkg:composer/spatie/db-dumper@3.8.2
+- pkg:composer/spatie/db-dumper@3.8.3
