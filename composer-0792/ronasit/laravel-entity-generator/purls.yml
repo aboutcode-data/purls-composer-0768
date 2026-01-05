@@ -32,6 +32,7 @@
 - pkg:composer/ronasit/laravel-entity-generator@3.3.9
 - pkg:composer/ronasit/laravel-entity-generator@3.4
 - pkg:composer/ronasit/laravel-entity-generator@3.4.1
+- pkg:composer/ronasit/laravel-entity-generator@3.4.10
 - pkg:composer/ronasit/laravel-entity-generator@3.4.2
 - pkg:composer/ronasit/laravel-entity-generator@3.4.3
 - pkg:composer/ronasit/laravel-entity-generator@3.4.4
