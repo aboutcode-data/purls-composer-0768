@@ -6,3 +6,4 @@
 - pkg:composer/lshtmweb/mailer-laravel@v11.0.1
 - pkg:composer/lshtmweb/mailer-laravel@v11.0.2
 - pkg:composer/lshtmweb/mailer-laravel@v11.0.3
+- pkg:composer/lshtmweb/mailer-laravel@v11.0.4
