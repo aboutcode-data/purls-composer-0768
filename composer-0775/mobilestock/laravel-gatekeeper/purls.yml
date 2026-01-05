@@ -807,6 +807,8 @@
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.825
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.826
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.827
+- pkg:composer/mobilestock/laravel-gatekeeper@v0.0.828
+- pkg:composer/mobilestock/laravel-gatekeeper@v0.0.829
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.83
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.84
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.85
