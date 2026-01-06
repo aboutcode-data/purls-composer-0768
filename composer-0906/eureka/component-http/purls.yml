@@ -16,3 +16,4 @@
 - pkg:composer/eureka/component-http@5.2.0
 - pkg:composer/eureka/component-http@5.3.0
 - pkg:composer/eureka/component-http@5.4.0
+- pkg:composer/eureka/component-http@6.0.0
