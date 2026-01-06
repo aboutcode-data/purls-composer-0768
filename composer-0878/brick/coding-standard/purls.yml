@@ -1,2 +1,4 @@
 - pkg:composer/brick/coding-standard@v1
 - pkg:composer/brick/coding-standard@v2
+- pkg:composer/brick/coding-standard@v3
+- pkg:composer/brick/coding-standard@v4
