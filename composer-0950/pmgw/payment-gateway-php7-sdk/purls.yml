@@ -37,3 +37,4 @@
 - pkg:composer/pmgw/payment-gateway-php7-sdk@4.4.0
 - pkg:composer/pmgw/payment-gateway-php7-sdk@4.4.1
 - pkg:composer/pmgw/payment-gateway-php7-sdk@4.4.2
+- pkg:composer/pmgw/payment-gateway-php7-sdk@4.4.3
