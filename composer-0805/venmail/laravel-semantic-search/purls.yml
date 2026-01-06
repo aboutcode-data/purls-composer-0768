@@ -1,3 +1,5 @@
 - pkg:composer/venmail/laravel-semantic-search@0.2.0
 - pkg:composer/venmail/laravel-semantic-search@0.2.2
 - pkg:composer/venmail/laravel-semantic-search@0.2.3
+- pkg:composer/venmail/laravel-semantic-search@0.2.4
+- pkg:composer/venmail/laravel-semantic-search@0.3.0
