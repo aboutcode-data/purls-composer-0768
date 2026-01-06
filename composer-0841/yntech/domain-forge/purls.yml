@@ -2,3 +2,4 @@
 - pkg:composer/yntech/domain-forge@1.1.0
 - pkg:composer/yntech/domain-forge@1.2.0
 - pkg:composer/yntech/domain-forge@2.0.0
+- pkg:composer/yntech/domain-forge@v3.0.0
