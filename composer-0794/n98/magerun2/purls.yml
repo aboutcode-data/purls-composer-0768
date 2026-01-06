@@ -95,3 +95,5 @@
 - pkg:composer/n98/magerun2@9.0.2
 - pkg:composer/n98/magerun2@9.1.0
 - pkg:composer/n98/magerun2@9.1.0-beta1
+- pkg:composer/n98/magerun2@9.2.0
+- pkg:composer/n98/magerun2@9.2.1
