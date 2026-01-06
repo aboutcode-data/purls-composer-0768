@@ -41,6 +41,8 @@
 - pkg:composer/shieldforce/checkout-payment@v5.4.2
 - pkg:composer/shieldforce/checkout-payment@v5.40.3
 - pkg:composer/shieldforce/checkout-payment@v5.40.4
+- pkg:composer/shieldforce/checkout-payment@v5.40.5
+- pkg:composer/shieldforce/checkout-payment@v5.41.0
 - pkg:composer/shieldforce/checkout-payment@v5.5.2
 - pkg:composer/shieldforce/checkout-payment@v5.6.2
 - pkg:composer/shieldforce/checkout-payment@v5.7.2
