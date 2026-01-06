@@ -25,3 +25,4 @@
 - pkg:composer/webman/think-orm@v2.1.6
 - pkg:composer/webman/think-orm@v2.1.7
 - pkg:composer/webman/think-orm@v2.1.8
+- pkg:composer/webman/think-orm@v2.1.9
