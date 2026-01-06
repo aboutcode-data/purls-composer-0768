@@ -7,3 +7,6 @@
 - pkg:composer/codel-software/lonomia-sdk@0.7
 - pkg:composer/codel-software/lonomia-sdk@0.8
 - pkg:composer/codel-software/lonomia-sdk@0.9
+- pkg:composer/codel-software/lonomia-sdk@1.0
+- pkg:composer/codel-software/lonomia-sdk@1.0.1
+- pkg:composer/codel-software/lonomia-sdk@1.0.2

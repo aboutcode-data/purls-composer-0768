@@ -1,3 +1,4 @@
 - pkg:composer/cognesy/logging@v1.13.0
 - pkg:composer/cognesy/logging@v1.14.0
 - pkg:composer/cognesy/logging@v1.15.0
+- pkg:composer/cognesy/logging@v1.16.0
