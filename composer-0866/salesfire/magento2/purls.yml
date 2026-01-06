@@ -48,6 +48,7 @@
 - pkg:composer/salesfire/magento2@1.4.7
 - pkg:composer/salesfire/magento2@1.4.8
 - pkg:composer/salesfire/magento2@1.4.9
+- pkg:composer/salesfire/magento2@1.5.11
 - pkg:composer/salesfire/magento2@1.5.3
 - pkg:composer/salesfire/magento2@1.5.4
 - pkg:composer/salesfire/magento2@1.5.5
