@@ -19,3 +19,5 @@
 - pkg:composer/betterauth/symfony-bundle@v3.0.0
 - pkg:composer/betterauth/symfony-bundle@v3.0.1
 - pkg:composer/betterauth/symfony-bundle@v3.1.0
+- pkg:composer/betterauth/symfony-bundle@v3.1.1
+- pkg:composer/betterauth/symfony-bundle@v3.2.0
