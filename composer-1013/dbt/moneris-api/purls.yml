@@ -13,6 +13,8 @@
 - pkg:composer/dbt/moneris-api@3.2.2
 - pkg:composer/dbt/moneris-api@3.3.0
 - pkg:composer/dbt/moneris-api@3.4.0
+- pkg:composer/dbt/moneris-api@3.5.0
+- pkg:composer/dbt/moneris-api@3.5.1
 - pkg:composer/dbt/moneris-api@v0.1.0
 - pkg:composer/dbt/moneris-api@v0.2.0
 - pkg:composer/dbt/moneris-api@v0.2.1
