@@ -8,3 +8,4 @@
 - pkg:composer/bdk/debug-wamp-client@v3.2
 - pkg:composer/bdk/debug-wamp-client@v3.3
 - pkg:composer/bdk/debug-wamp-client@v3.4
+- pkg:composer/bdk/debug-wamp-client@v3.5

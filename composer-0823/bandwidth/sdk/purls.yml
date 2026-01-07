@@ -19,6 +19,7 @@
 - pkg:composer/bandwidth/sdk@v11.0.0
 - pkg:composer/bandwidth/sdk@v11.0.1
 - pkg:composer/bandwidth/sdk@v12.0.0
+- pkg:composer/bandwidth/sdk@v13.0.0
 - pkg:composer/bandwidth/sdk@v2.0.0
 - pkg:composer/bandwidth/sdk@v2.1.0
 - pkg:composer/bandwidth/sdk@v2.10.0

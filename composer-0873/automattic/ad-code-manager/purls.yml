@@ -1,3 +1,4 @@
 - pkg:composer/automattic/ad-code-manager@0.6.0
 - pkg:composer/automattic/ad-code-manager@0.7.0
 - pkg:composer/automattic/ad-code-manager@0.7.1
+- pkg:composer/automattic/ad-code-manager@0.8.0
