@@ -637,6 +637,8 @@
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc323
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc324
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc325
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc326
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc327
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc33
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc34
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc35
