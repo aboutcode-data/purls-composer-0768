@@ -1,1 +1,5 @@
+- pkg:composer/bsg/php-sdk-v1@v0.0.1
+- pkg:composer/bsg/php-sdk-v1@v0.0.2
+- pkg:composer/bsg/php-sdk-v1@v0.0.3
 - pkg:composer/bsg/php-sdk-v1@v0.0.4
+- pkg:composer/bsg/php-sdk-v1@v0.0.5

@@ -49,3 +49,4 @@
 - pkg:composer/bold-commerce/module-checkout-payment-booster@2.6.6
 - pkg:composer/bold-commerce/module-checkout-payment-booster@2.6.8
 - pkg:composer/bold-commerce/module-checkout-payment-booster@2.6.9
+- pkg:composer/bold-commerce/module-checkout-payment-booster@2.7
