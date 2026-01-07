@@ -10,3 +10,6 @@
 - pkg:composer/webqamdev/activity-logger@3.0.0
 - pkg:composer/webqamdev/activity-logger@3.0.1
 - pkg:composer/webqamdev/activity-logger@3.0.2
+- pkg:composer/webqamdev/activity-logger@4.0.0
+- pkg:composer/webqamdev/activity-logger@4.0.1
+- pkg:composer/webqamdev/activity-logger@4.0.2
