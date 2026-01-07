@@ -8,6 +8,7 @@
 - pkg:composer/stechstudio/laravel-hubspot@0.15
 - pkg:composer/stechstudio/laravel-hubspot@0.16
 - pkg:composer/stechstudio/laravel-hubspot@0.17
+- pkg:composer/stechstudio/laravel-hubspot@0.18
 - pkg:composer/stechstudio/laravel-hubspot@0.2
 - pkg:composer/stechstudio/laravel-hubspot@0.3
 - pkg:composer/stechstudio/laravel-hubspot@0.4
