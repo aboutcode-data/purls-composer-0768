@@ -3,3 +3,4 @@
 - pkg:composer/ocolin/slack@2.1
 - pkg:composer/ocolin/slack@3.0
 - pkg:composer/ocolin/slack@3.1
+- pkg:composer/ocolin/slack@3.2
