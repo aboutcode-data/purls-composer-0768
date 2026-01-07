@@ -45,6 +45,8 @@
 - pkg:composer/backstage/redirects@v1.1.48
 - pkg:composer/backstage/redirects@v1.1.49
 - pkg:composer/backstage/redirects@v1.1.5
+- pkg:composer/backstage/redirects@v1.1.50
+- pkg:composer/backstage/redirects@v1.1.51
 - pkg:composer/backstage/redirects@v1.1.6
 - pkg:composer/backstage/redirects@v1.1.7
 - pkg:composer/backstage/redirects@v1.1.8
@@ -54,6 +56,7 @@
 - pkg:composer/backstage/redirects@v2.0.0-beta11
 - pkg:composer/backstage/redirects@v2.0.0-beta12
 - pkg:composer/backstage/redirects@v2.0.0-beta13
+- pkg:composer/backstage/redirects@v2.0.0-beta14
 - pkg:composer/backstage/redirects@v2.0.0-beta2
 - pkg:composer/backstage/redirects@v2.0.0-beta3
 - pkg:composer/backstage/redirects@v2.0.0-beta4
