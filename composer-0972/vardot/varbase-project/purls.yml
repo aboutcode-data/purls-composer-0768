@@ -26,6 +26,7 @@
 - pkg:composer/vardot/varbase-project@10.0.6
 - pkg:composer/vardot/varbase-project@10.0.7
 - pkg:composer/vardot/varbase-project@10.0.8
+- pkg:composer/vardot/varbase-project@10.0.9
 - pkg:composer/vardot/varbase-project@10.1.0
 - pkg:composer/vardot/varbase-project@10.1.0-alpha1
 - pkg:composer/vardot/varbase-project@10.1.0-alpha2
