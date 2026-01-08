@@ -125,3 +125,4 @@
 - pkg:composer/beartropy/tables@2.4.3
 - pkg:composer/beartropy/tables@2.4.4
 - pkg:composer/beartropy/tables@2.5.0
+- pkg:composer/beartropy/tables@2.6.0
