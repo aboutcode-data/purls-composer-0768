@@ -1,4 +1,5 @@
 - pkg:composer/sudo-ecommerce/image-domain-replace@1.0.3
+- pkg:composer/sudo-ecommerce/image-domain-replace@4.1.0
 - pkg:composer/sudo-ecommerce/image-domain-replace@v1.0.0
 - pkg:composer/sudo-ecommerce/image-domain-replace@v1.0.1
 - pkg:composer/sudo-ecommerce/image-domain-replace@v1.0.2
