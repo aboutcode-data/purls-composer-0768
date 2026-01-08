@@ -9,6 +9,7 @@
 - pkg:composer/zenstruck/redirect-bundle@v3.1.1
 - pkg:composer/zenstruck/redirect-bundle@v3.10.0
 - pkg:composer/zenstruck/redirect-bundle@v3.10.1
+- pkg:composer/zenstruck/redirect-bundle@v3.11.0
 - pkg:composer/zenstruck/redirect-bundle@v3.2.0
 - pkg:composer/zenstruck/redirect-bundle@v3.3.0
 - pkg:composer/zenstruck/redirect-bundle@v3.3.1

@@ -17,6 +17,7 @@
 - pkg:composer/zenstruck/browser@v0.9.2
 - pkg:composer/zenstruck/browser@v1.0.0
 - pkg:composer/zenstruck/browser@v1.1.0
+- pkg:composer/zenstruck/browser@v1.10.0
 - pkg:composer/zenstruck/browser@v1.2.0
 - pkg:composer/zenstruck/browser@v1.3.0
 - pkg:composer/zenstruck/browser@v1.4.0
