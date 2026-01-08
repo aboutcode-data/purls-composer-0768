@@ -9,3 +9,4 @@
 - pkg:composer/prestashop/ps_distributionapiclient@v2.0.0
 - pkg:composer/prestashop/ps_distributionapiclient@v2.0.1
 - pkg:composer/prestashop/ps_distributionapiclient@v2.1.0
+- pkg:composer/prestashop/ps_distributionapiclient@v2.1.1
