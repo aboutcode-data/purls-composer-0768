@@ -97,3 +97,4 @@
 - pkg:composer/cakephp/migrations@4.9.0
 - pkg:composer/cakephp/migrations@4.9.1
 - pkg:composer/cakephp/migrations@4.9.2
+- pkg:composer/cakephp/migrations@4.9.3
