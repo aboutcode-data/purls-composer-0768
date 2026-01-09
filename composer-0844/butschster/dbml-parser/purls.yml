@@ -1,3 +1,5 @@
+- pkg:composer/butschster/dbml-parser@1.0.0
 - pkg:composer/butschster/dbml-parser@v0.1
 - pkg:composer/butschster/dbml-parser@v0.2
 - pkg:composer/butschster/dbml-parser@v0.3
+- pkg:composer/butschster/dbml-parser@v0.4

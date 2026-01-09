@@ -19,3 +19,5 @@
 - pkg:composer/byteshard/form@v2.5.0
 - pkg:composer/byteshard/form@v2.5.1
 - pkg:composer/byteshard/form@v2.6.0
+- pkg:composer/byteshard/form@v2.6.1
+- pkg:composer/byteshard/form@v2.6.2
