@@ -5,6 +5,7 @@
 - pkg:composer/moorl/foundation@1.6.66
 - pkg:composer/moorl/foundation@1.6.67
 - pkg:composer/moorl/foundation@1.6.68
+- pkg:composer/moorl/foundation@1.6.69
 - pkg:composer/moorl/foundation@1.7.10
 - pkg:composer/moorl/foundation@1.7.11
 - pkg:composer/moorl/foundation@1.7.12
@@ -42,3 +43,4 @@
 - pkg:composer/moorl/foundation@1.7.46
 - pkg:composer/moorl/foundation@1.7.47
 - pkg:composer/moorl/foundation@1.7.48
+- pkg:composer/moorl/foundation@1.7.49

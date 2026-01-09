@@ -149,6 +149,7 @@
 - pkg:composer/nelmio/api-doc-bundle@v4.38.4
 - pkg:composer/nelmio/api-doc-bundle@v4.38.5
 - pkg:composer/nelmio/api-doc-bundle@v4.38.6
+- pkg:composer/nelmio/api-doc-bundle@v4.38.7
 - pkg:composer/nelmio/api-doc-bundle@v4.4.0
 - pkg:composer/nelmio/api-doc-bundle@v4.5.0
 - pkg:composer/nelmio/api-doc-bundle@v4.6.0
@@ -190,3 +191,5 @@
 - pkg:composer/nelmio/api-doc-bundle@v5.8.2
 - pkg:composer/nelmio/api-doc-bundle@v5.8.3
 - pkg:composer/nelmio/api-doc-bundle@v5.9.0
+- pkg:composer/nelmio/api-doc-bundle@v5.9.1
+- pkg:composer/nelmio/api-doc-bundle@v5.9.2

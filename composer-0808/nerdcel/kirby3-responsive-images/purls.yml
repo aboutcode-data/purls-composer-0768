@@ -34,3 +34,5 @@
 - pkg:composer/nerdcel/kirby3-responsive-images@v3.2.1
 - pkg:composer/nerdcel/kirby3-responsive-images@v3.2.2
 - pkg:composer/nerdcel/kirby3-responsive-images@v3.3.0
+- pkg:composer/nerdcel/kirby3-responsive-images@v3.4.0
+- pkg:composer/nerdcel/kirby3-responsive-images@v3.4.1

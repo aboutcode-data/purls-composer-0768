@@ -25,3 +25,4 @@
 - pkg:composer/n3xt0r/laravel-migration-generator@8.2.0
 - pkg:composer/n3xt0r/laravel-migration-generator@8.3.0
 - pkg:composer/n3xt0r/laravel-migration-generator@8.4.0
+- pkg:composer/n3xt0r/laravel-migration-generator@8.4.1

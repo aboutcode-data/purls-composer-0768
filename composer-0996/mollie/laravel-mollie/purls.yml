@@ -48,3 +48,4 @@
 - pkg:composer/mollie/laravel-mollie@v2.9.0
 - pkg:composer/mollie/laravel-mollie@v3.0.0
 - pkg:composer/mollie/laravel-mollie@v3.1.0
+- pkg:composer/mollie/laravel-mollie@v4.0.0
