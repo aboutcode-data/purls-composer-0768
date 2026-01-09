@@ -79,6 +79,8 @@
 - pkg:composer/webignition/php-basil-compilable-source-factory@2.1
 - pkg:composer/webignition/php-basil-compilable-source-factory@20.0
 - pkg:composer/webignition/php-basil-compilable-source-factory@21.0
+- pkg:composer/webignition/php-basil-compilable-source-factory@22.0
+- pkg:composer/webignition/php-basil-compilable-source-factory@22.1
 - pkg:composer/webignition/php-basil-compilable-source-factory@3.0
 - pkg:composer/webignition/php-basil-compilable-source-factory@4.0
 - pkg:composer/webignition/php-basil-compilable-source-factory@4.1
