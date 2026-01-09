@@ -1,5 +1,6 @@
 - pkg:composer/wikimedia/minify@2.0.0
 - pkg:composer/wikimedia/minify@2.1.0
+- pkg:composer/wikimedia/minify@2.10.0
 - pkg:composer/wikimedia/minify@2.2.0
 - pkg:composer/wikimedia/minify@2.2.1
 - pkg:composer/wikimedia/minify@2.2.2

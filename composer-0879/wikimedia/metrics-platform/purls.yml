@@ -13,4 +13,5 @@
 - pkg:composer/wikimedia/metrics-platform@4.2.3
 - pkg:composer/wikimedia/metrics-platform@4.2.4
 - pkg:composer/wikimedia/metrics-platform@4.3.0
+- pkg:composer/wikimedia/metrics-platform@4.4.0
 - pkg:composer/wikimedia/metrics-platform@v0.1.0
