@@ -14,6 +14,7 @@
 - pkg:composer/drupal/drupal_cms_image@1.2.0
 - pkg:composer/drupal/drupal_cms_image@1.2.0-rc1
 - pkg:composer/drupal/drupal_cms_image@1.2.1
+- pkg:composer/drupal/drupal_cms_image@1.2.10
 - pkg:composer/drupal/drupal_cms_image@1.2.2
 - pkg:composer/drupal/drupal_cms_image@1.2.3
 - pkg:composer/drupal/drupal_cms_image@1.2.4
@@ -21,5 +22,6 @@
 - pkg:composer/drupal/drupal_cms_image@1.2.6
 - pkg:composer/drupal/drupal_cms_image@1.2.7
 - pkg:composer/drupal/drupal_cms_image@1.2.8
+- pkg:composer/drupal/drupal_cms_image@1.2.9
 - pkg:composer/drupal/drupal_cms_image@2.0.0-alpha1
 - pkg:composer/drupal/drupal_cms_image@2.0.0-alpha2
