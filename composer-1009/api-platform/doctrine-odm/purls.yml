@@ -108,6 +108,7 @@
 - pkg:composer/api-platform/doctrine-odm@v4.2.1
 - pkg:composer/api-platform/doctrine-odm@v4.2.10
 - pkg:composer/api-platform/doctrine-odm@v4.2.11
+- pkg:composer/api-platform/doctrine-odm@v4.2.12
 - pkg:composer/api-platform/doctrine-odm@v4.2.2
 - pkg:composer/api-platform/doctrine-odm@v4.2.3
 - pkg:composer/api-platform/doctrine-odm@v4.2.4

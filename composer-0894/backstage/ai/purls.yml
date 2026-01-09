@@ -38,6 +38,7 @@
 - pkg:composer/backstage/ai@v1.1.49
 - pkg:composer/backstage/ai@v1.1.50
 - pkg:composer/backstage/ai@v1.1.51
+- pkg:composer/backstage/ai@v1.1.52
 - pkg:composer/backstage/ai@v2.0.0-beta1
 - pkg:composer/backstage/ai@v2.0.0-beta10
 - pkg:composer/backstage/ai@v2.0.0-beta11
