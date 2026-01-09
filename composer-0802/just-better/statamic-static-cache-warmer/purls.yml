@@ -1,1 +1,2 @@
 - pkg:composer/just-better/statamic-static-cache-warmer@1.0.0
+- pkg:composer/just-better/statamic-static-cache-warmer@1.1.0

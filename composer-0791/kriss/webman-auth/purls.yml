@@ -44,3 +44,5 @@
 - pkg:composer/kriss/webman-auth@v5.0.5
 - pkg:composer/kriss/webman-auth@v5.0.6
 - pkg:composer/kriss/webman-auth@v5.0.7
+- pkg:composer/kriss/webman-auth@v5.0.8
+- pkg:composer/kriss/webman-auth@v5.0.9
