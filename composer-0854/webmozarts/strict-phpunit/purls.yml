@@ -75,6 +75,7 @@
 - pkg:composer/webmozarts/strict-phpunit@7.2.8
 - pkg:composer/webmozarts/strict-phpunit@7.2.9
 - pkg:composer/webmozarts/strict-phpunit@7.20.0
+- pkg:composer/webmozarts/strict-phpunit@7.20.1
 - pkg:composer/webmozarts/strict-phpunit@7.3.0
 - pkg:composer/webmozarts/strict-phpunit@7.3.1
 - pkg:composer/webmozarts/strict-phpunit@7.3.2

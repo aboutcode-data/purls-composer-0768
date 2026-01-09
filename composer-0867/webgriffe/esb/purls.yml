@@ -10,6 +10,7 @@
 - pkg:composer/webgriffe/esb@2.7.1
 - pkg:composer/webgriffe/esb@2.7.2
 - pkg:composer/webgriffe/esb@2.8.0
+- pkg:composer/webgriffe/esb@2.8.1
 - pkg:composer/webgriffe/esb@v0.1.0
 - pkg:composer/webgriffe/esb@v0.1.1
 - pkg:composer/webgriffe/esb@v0.2.0
