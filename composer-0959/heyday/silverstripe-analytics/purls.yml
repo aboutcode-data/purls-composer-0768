@@ -10,6 +10,7 @@
 - pkg:composer/heyday/silverstripe-analytics@2.1.5
 - pkg:composer/heyday/silverstripe-analytics@3.0.0
 - pkg:composer/heyday/silverstripe-analytics@3.1.0
+- pkg:composer/heyday/silverstripe-analytics@4.0.0
 - pkg:composer/heyday/silverstripe-analytics@v0.1
 - pkg:composer/heyday/silverstripe-analytics@v0.1.1
 - pkg:composer/heyday/silverstripe-analytics@v0.1.2

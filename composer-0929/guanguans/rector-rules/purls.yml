@@ -1,1 +1,3 @@
 - pkg:composer/guanguans/rector-rules@1.0.0
+- pkg:composer/guanguans/rector-rules@1.0.1
+- pkg:composer/guanguans/rector-rules@1.1.0
