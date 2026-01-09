@@ -21,3 +21,4 @@
 - pkg:composer/makarms/text-probe@v4.3.0
 - pkg:composer/makarms/text-probe@v4.3.1
 - pkg:composer/makarms/text-probe@v4.4.0
+- pkg:composer/makarms/text-probe@v5.0.0

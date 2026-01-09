@@ -3,6 +3,7 @@
 - pkg:composer/mako/app@11.0.0
 - pkg:composer/mako/app@11.1.0
 - pkg:composer/mako/app@11.4.0
+- pkg:composer/mako/app@12.0.0
 - pkg:composer/mako/app@3.5.0
 - pkg:composer/mako/app@3.5.1
 - pkg:composer/mako/app@3.6.0

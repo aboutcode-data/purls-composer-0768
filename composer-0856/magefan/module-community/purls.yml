@@ -64,3 +64,5 @@
 - pkg:composer/magefan/module-community@2.2.9
 - pkg:composer/magefan/module-community@2.3.0
 - pkg:composer/magefan/module-community@2.3.1
+- pkg:composer/magefan/module-community@2.3.2
+- pkg:composer/magefan/module-community@2.3.3
