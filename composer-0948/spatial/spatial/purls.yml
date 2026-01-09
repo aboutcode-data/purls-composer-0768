@@ -11,5 +11,6 @@
 - pkg:composer/spatial/spatial@3.4.0
 - pkg:composer/spatial/spatial@3.4.1
 - pkg:composer/spatial/spatial@3.4.3
+- pkg:composer/spatial/spatial@4.0.0
 - pkg:composer/spatial/spatial@4.0.0-RC1
 - pkg:composer/spatial/spatial@4.0.0-alpha1
