@@ -52,3 +52,4 @@
 - pkg:composer/schoolit/common-bundle@5.2.0
 - pkg:composer/schoolit/common-bundle@5.2.1
 - pkg:composer/schoolit/common-bundle@6.0.1
+- pkg:composer/schoolit/common-bundle@6.0.2
