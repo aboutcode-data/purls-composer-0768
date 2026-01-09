@@ -29,3 +29,4 @@
 - pkg:composer/lkt/mysql-connector@2.1.8
 - pkg:composer/lkt/mysql-connector@2.1.9
 - pkg:composer/lkt/mysql-connector@3.0.0
+- pkg:composer/lkt/mysql-connector@3.0.1

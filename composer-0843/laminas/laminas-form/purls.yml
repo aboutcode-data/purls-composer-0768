@@ -124,6 +124,7 @@
 - pkg:composer/laminas/laminas-form@3.22.0
 - pkg:composer/laminas/laminas-form@3.23.0
 - pkg:composer/laminas/laminas-form@3.24.0
+- pkg:composer/laminas/laminas-form@3.24.1
 - pkg:composer/laminas/laminas-form@3.3.0
 - pkg:composer/laminas/laminas-form@3.4.0
 - pkg:composer/laminas/laminas-form@3.4.1

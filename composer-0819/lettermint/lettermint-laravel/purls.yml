@@ -11,3 +11,4 @@
 - pkg:composer/lettermint/lettermint-laravel@1.3.0
 - pkg:composer/lettermint/lettermint-laravel@1.4.0
 - pkg:composer/lettermint/lettermint-laravel@1.5.0
+- pkg:composer/lettermint/lettermint-laravel@1.5.1
