@@ -1,4 +1,5 @@
 - pkg:composer/jeremykenedy/laravel-users@V4.4.0
+- pkg:composer/jeremykenedy/laravel-users@V5.0.0
 - pkg:composer/jeremykenedy/laravel-users@v0.0.1
 - pkg:composer/jeremykenedy/laravel-users@v0.0.2
 - pkg:composer/jeremykenedy/laravel-users@v0.0.3rc

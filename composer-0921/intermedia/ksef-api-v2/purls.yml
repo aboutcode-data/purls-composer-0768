@@ -1,4 +1,5 @@
 - pkg:composer/intermedia/ksef-api-v2@v0.11.0
+- pkg:composer/intermedia/ksef-api-v2@v0.11.5
 - pkg:composer/intermedia/ksef-api-v2@v0.3.29
 - pkg:composer/intermedia/ksef-api-v2@v0.3.31
 - pkg:composer/intermedia/ksef-api-v2@v0.3.33

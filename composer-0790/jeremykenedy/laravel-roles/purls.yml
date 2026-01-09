@@ -12,6 +12,7 @@
 - pkg:composer/jeremykenedy/laravel-roles@v11.0.1
 - pkg:composer/jeremykenedy/laravel-roles@v11.0.2
 - pkg:composer/jeremykenedy/laravel-roles@v11.5.0
+- pkg:composer/jeremykenedy/laravel-roles@v12.0.0
 - pkg:composer/jeremykenedy/laravel-roles@v2.0.0
 - pkg:composer/jeremykenedy/laravel-roles@v2.0.1
 - pkg:composer/jeremykenedy/laravel-roles@v2.1.0

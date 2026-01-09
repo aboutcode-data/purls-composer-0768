@@ -6,3 +6,5 @@
 - pkg:composer/ingenius/auth@1.0.5
 - pkg:composer/ingenius/auth@1.1.0
 - pkg:composer/ingenius/auth@1.1.1
+- pkg:composer/ingenius/auth@1.1.2
+- pkg:composer/ingenius/auth@1.1.3

@@ -128,8 +128,10 @@
 - pkg:composer/infinityloop-dev/graphpinator@v1.7.5
 - pkg:composer/infinityloop-dev/graphpinator@v1.7.6
 - pkg:composer/infinityloop-dev/graphpinator@v1.7.7
+- pkg:composer/infinityloop-dev/graphpinator@v2.0
 - pkg:composer/infinityloop-dev/graphpinator@v2.0-rc1
 - pkg:composer/infinityloop-dev/graphpinator@v2.0-rc2
 - pkg:composer/infinityloop-dev/graphpinator@v2.0-rc3
 - pkg:composer/infinityloop-dev/graphpinator@v2.0-rc4
 - pkg:composer/infinityloop-dev/graphpinator@v2.0-rc5
+- pkg:composer/infinityloop-dev/graphpinator@v2.0.1

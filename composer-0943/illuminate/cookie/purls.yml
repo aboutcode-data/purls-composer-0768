@@ -286,6 +286,10 @@
 - pkg:composer/illuminate/cookie@v12.43.0
 - pkg:composer/illuminate/cookie@v12.43.1
 - pkg:composer/illuminate/cookie@v12.44.0
+- pkg:composer/illuminate/cookie@v12.45.0
+- pkg:composer/illuminate/cookie@v12.45.1
+- pkg:composer/illuminate/cookie@v12.45.2
+- pkg:composer/illuminate/cookie@v12.46.0
 - pkg:composer/illuminate/cookie@v12.5.0
 - pkg:composer/illuminate/cookie@v12.6.0
 - pkg:composer/illuminate/cookie@v12.7.0
