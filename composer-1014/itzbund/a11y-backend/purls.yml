@@ -317,6 +317,7 @@
 - pkg:composer/itzbund/a11y-backend@v1.12.4-rc.9
 - pkg:composer/itzbund/a11y-backend@v1.12.40
 - pkg:composer/itzbund/a11y-backend@v1.12.41
+- pkg:composer/itzbund/a11y-backend@v1.12.42
 - pkg:composer/itzbund/a11y-backend@v1.12.5
 - pkg:composer/itzbund/a11y-backend@v1.12.5-rc.1
 - pkg:composer/itzbund/a11y-backend@v1.12.5-rc.10

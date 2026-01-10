@@ -26,3 +26,4 @@
 - pkg:composer/idmarinas/common-bundle@3.4.1
 - pkg:composer/idmarinas/common-bundle@3.5.0
 - pkg:composer/idmarinas/common-bundle@3.5.1
+- pkg:composer/idmarinas/common-bundle@3.6.0
