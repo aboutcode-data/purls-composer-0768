@@ -18,6 +18,7 @@
 - pkg:composer/cockpit-hq/cockpit@2.13.0
 - pkg:composer/cockpit-hq/cockpit@2.13.1
 - pkg:composer/cockpit-hq/cockpit@2.13.2
+- pkg:composer/cockpit-hq/cockpit@2.13.3
 - pkg:composer/cockpit-hq/cockpit@2.2.0
 - pkg:composer/cockpit-hq/cockpit@2.2.1
 - pkg:composer/cockpit-hq/cockpit@2.2.2
