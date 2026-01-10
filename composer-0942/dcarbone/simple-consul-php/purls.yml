@@ -48,3 +48,4 @@
 - pkg:composer/dcarbone/simple-consul-php@v1.1.7
 - pkg:composer/dcarbone/simple-consul-php@v2.0.0
 - pkg:composer/dcarbone/simple-consul-php@v2.0.1
+- pkg:composer/dcarbone/simple-consul-php@v2.0.2
