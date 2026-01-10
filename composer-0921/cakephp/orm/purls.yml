@@ -311,5 +311,6 @@
 - pkg:composer/cakephp/orm@5.2.7
 - pkg:composer/cakephp/orm@5.2.8
 - pkg:composer/cakephp/orm@5.2.9
+- pkg:composer/cakephp/orm@5.3.0
 - pkg:composer/cakephp/orm@5.3.0-RC1
 - pkg:composer/cakephp/orm@5.3.0-RC2
