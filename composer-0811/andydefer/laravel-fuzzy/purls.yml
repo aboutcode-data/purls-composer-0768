@@ -6,6 +6,8 @@
 - pkg:composer/andydefer/laravel-fuzzy@0.13.0
 - pkg:composer/andydefer/laravel-fuzzy@0.13.1
 - pkg:composer/andydefer/laravel-fuzzy@0.13.2
+- pkg:composer/andydefer/laravel-fuzzy@0.13.3
+- pkg:composer/andydefer/laravel-fuzzy@0.13.4
 - pkg:composer/andydefer/laravel-fuzzy@0.2.0
 - pkg:composer/andydefer/laravel-fuzzy@0.2.1
 - pkg:composer/andydefer/laravel-fuzzy@0.3.0
