@@ -6,3 +6,5 @@
 - pkg:composer/fastfony/fastfony@v0.3.3
 - pkg:composer/fastfony/fastfony@v0.3.4
 - pkg:composer/fastfony/fastfony@v0.3.6
+- pkg:composer/fastfony/fastfony@v0.3.9
+- pkg:composer/fastfony/fastfony@v0.4.3

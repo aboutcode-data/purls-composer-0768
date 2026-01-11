@@ -6,3 +6,4 @@
 - pkg:composer/fidry/php-cs-fixer-config@1.1.3
 - pkg:composer/fidry/php-cs-fixer-config@1.2.0
 - pkg:composer/fidry/php-cs-fixer-config@1.2.1
+- pkg:composer/fidry/php-cs-fixer-config@1.3.0
