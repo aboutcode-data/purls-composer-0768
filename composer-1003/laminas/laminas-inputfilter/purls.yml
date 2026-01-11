@@ -73,6 +73,7 @@
 - pkg:composer/laminas/laminas-inputfilter@2.33.0
 - pkg:composer/laminas/laminas-inputfilter@2.33.1
 - pkg:composer/laminas/laminas-inputfilter@2.34.0
+- pkg:composer/laminas/laminas-inputfilter@2.35.0
 - pkg:composer/laminas/laminas-inputfilter@2.4.0
 - pkg:composer/laminas/laminas-inputfilter@2.4.0rc1
 - pkg:composer/laminas/laminas-inputfilter@2.4.0rc2
