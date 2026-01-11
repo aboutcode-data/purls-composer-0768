@@ -34,3 +34,4 @@
 - pkg:composer/mailchimp/transactional@1.0.59
 - pkg:composer/mailchimp/transactional@1.1.2
 - pkg:composer/mailchimp/transactional@1.1.3
+- pkg:composer/mailchimp/transactional@1.2.0

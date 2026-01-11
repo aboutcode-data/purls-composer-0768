@@ -1,3 +1,4 @@
 - pkg:composer/maatify/psr-logger@1.0.0
 - pkg:composer/maatify/psr-logger@v1.0.1
 - pkg:composer/maatify/psr-logger@v1.0.2
+- pkg:composer/maatify/psr-logger@v1.0.3
