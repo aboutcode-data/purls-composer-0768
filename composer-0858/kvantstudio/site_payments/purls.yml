@@ -48,6 +48,7 @@
 - pkg:composer/kvantstudio/site_payments@3.20.7
 - pkg:composer/kvantstudio/site_payments@3.21.0
 - pkg:composer/kvantstudio/site_payments@3.21.1
+- pkg:composer/kvantstudio/site_payments@3.22.0
 - pkg:composer/kvantstudio/site_payments@3.3.0
 - pkg:composer/kvantstudio/site_payments@3.4.0
 - pkg:composer/kvantstudio/site_payments@3.5.0
