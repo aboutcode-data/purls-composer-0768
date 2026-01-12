@@ -1,3 +1,4 @@
 - pkg:composer/ecpay/magento2-module-twqr-payment-gateway@2.4.2410290
 - pkg:composer/ecpay/magento2-module-twqr-payment-gateway@2.4.2505130
 - pkg:composer/ecpay/magento2-module-twqr-payment-gateway@2.4.2507230
+- pkg:composer/ecpay/magento2-module-twqr-payment-gateway@2.4.2512110
