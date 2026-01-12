@@ -829,7 +829,11 @@
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.845
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.846
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.847
+- pkg:composer/mobilestock/laravel-database-interceptor@v0.0.848
+- pkg:composer/mobilestock/laravel-database-interceptor@v0.0.849
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.85
+- pkg:composer/mobilestock/laravel-database-interceptor@v0.0.850
+- pkg:composer/mobilestock/laravel-database-interceptor@v0.0.851
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.86
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.87
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.88
