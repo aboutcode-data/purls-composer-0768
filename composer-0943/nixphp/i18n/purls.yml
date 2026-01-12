@@ -1,1 +1,3 @@
 - pkg:composer/nixphp/i18n@v0.1.0
+- pkg:composer/nixphp/i18n@v0.1.1
+- pkg:composer/nixphp/i18n@v0.1.2
