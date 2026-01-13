@@ -196,3 +196,4 @@
 - pkg:composer/google/protobuf@v4.33.1
 - pkg:composer/google/protobuf@v4.33.2
 - pkg:composer/google/protobuf@v4.33.3
+- pkg:composer/google/protobuf@v4.33.4
