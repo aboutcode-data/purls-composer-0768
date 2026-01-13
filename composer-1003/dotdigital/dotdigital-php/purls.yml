@@ -9,5 +9,6 @@
 - pkg:composer/dotdigital/dotdigital-php@2.6.0
 - pkg:composer/dotdigital/dotdigital-php@2.6.1
 - pkg:composer/dotdigital/dotdigital-php@2.7.0
+- pkg:composer/dotdigital/dotdigital-php@2.8.0
 - pkg:composer/dotdigital/dotdigital-php@v1.0.0
 - pkg:composer/dotdigital/dotdigital-php@v2.0.0-RC1
