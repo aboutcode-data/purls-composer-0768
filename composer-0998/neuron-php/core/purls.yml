@@ -38,7 +38,13 @@
 - pkg:composer/neuron-php/core@0.7.0
 - pkg:composer/neuron-php/core@0.8.0
 - pkg:composer/neuron-php/core@0.8.1
+- pkg:composer/neuron-php/core@0.8.10
+- pkg:composer/neuron-php/core@0.8.11
 - pkg:composer/neuron-php/core@0.8.2
 - pkg:composer/neuron-php/core@0.8.3
 - pkg:composer/neuron-php/core@0.8.4
 - pkg:composer/neuron-php/core@0.8.5
+- pkg:composer/neuron-php/core@0.8.6
+- pkg:composer/neuron-php/core@0.8.7
+- pkg:composer/neuron-php/core@0.8.8
+- pkg:composer/neuron-php/core@0.8.9
