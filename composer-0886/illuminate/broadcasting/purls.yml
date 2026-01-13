@@ -289,6 +289,7 @@
 - pkg:composer/illuminate/broadcasting@v12.45.1
 - pkg:composer/illuminate/broadcasting@v12.45.2
 - pkg:composer/illuminate/broadcasting@v12.46.0
+- pkg:composer/illuminate/broadcasting@v12.47.0
 - pkg:composer/illuminate/broadcasting@v12.5.0
 - pkg:composer/illuminate/broadcasting@v12.6.0
 - pkg:composer/illuminate/broadcasting@v12.7.0
