@@ -10,3 +10,4 @@
 - pkg:composer/maplephp/http@v1.2.1
 - pkg:composer/maplephp/http@v1.2.2
 - pkg:composer/maplephp/http@v1.2.3
+- pkg:composer/maplephp/http@v2.0.0
