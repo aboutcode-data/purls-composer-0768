@@ -40,6 +40,7 @@
 - pkg:composer/davidhirtz/yii2-cms@2.4.5
 - pkg:composer/davidhirtz/yii2-cms@2.4.6
 - pkg:composer/davidhirtz/yii2-cms@2.4.7
+- pkg:composer/davidhirtz/yii2-cms@2.4.8
 - pkg:composer/davidhirtz/yii2-cms@v1.1.0
 - pkg:composer/davidhirtz/yii2-cms@v1.1.1
 - pkg:composer/davidhirtz/yii2-cms@v1.1.2
