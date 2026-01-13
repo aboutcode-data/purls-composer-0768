@@ -35,3 +35,4 @@
 - pkg:composer/laravel/prompts@v0.3.6
 - pkg:composer/laravel/prompts@v0.3.7
 - pkg:composer/laravel/prompts@v0.3.8
+- pkg:composer/laravel/prompts@v0.3.9

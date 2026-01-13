@@ -29,3 +29,5 @@
 - pkg:composer/klimis/cachemiddleware@2.0.1
 - pkg:composer/klimis/cachemiddleware@2.0.2
 - pkg:composer/klimis/cachemiddleware@2.0.3
+- pkg:composer/klimis/cachemiddleware@3.0.0
+- pkg:composer/klimis/cachemiddleware@3.0.1
