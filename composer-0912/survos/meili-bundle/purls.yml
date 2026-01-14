@@ -41,6 +41,13 @@
 - pkg:composer/survos/meili-bundle@1.6.8
 - pkg:composer/survos/meili-bundle@1.6.9
 - pkg:composer/survos/meili-bundle@2.0.10
+- pkg:composer/survos/meili-bundle@2.0.100
+- pkg:composer/survos/meili-bundle@2.0.101
+- pkg:composer/survos/meili-bundle@2.0.102
+- pkg:composer/survos/meili-bundle@2.0.103
+- pkg:composer/survos/meili-bundle@2.0.104
+- pkg:composer/survos/meili-bundle@2.0.105
+- pkg:composer/survos/meili-bundle@2.0.106
 - pkg:composer/survos/meili-bundle@2.0.11
 - pkg:composer/survos/meili-bundle@2.0.12
 - pkg:composer/survos/meili-bundle@2.0.13
@@ -129,3 +136,6 @@
 - pkg:composer/survos/meili-bundle@2.0.94
 - pkg:composer/survos/meili-bundle@2.0.95
 - pkg:composer/survos/meili-bundle@2.0.96
+- pkg:composer/survos/meili-bundle@2.0.97
+- pkg:composer/survos/meili-bundle@2.0.98
+- pkg:composer/survos/meili-bundle@2.0.99

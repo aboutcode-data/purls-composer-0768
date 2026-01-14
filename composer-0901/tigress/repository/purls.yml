@@ -26,3 +26,6 @@
 - pkg:composer/tigress/repository@2025.12.09.0
 - pkg:composer/tigress/repository@2025.12.18.0
 - pkg:composer/tigress/repository@2026.01.09.0
+- pkg:composer/tigress/repository@2026.01.13.0
+- pkg:composer/tigress/repository@2026.01.13.1
+- pkg:composer/tigress/repository@2026.01.13.2

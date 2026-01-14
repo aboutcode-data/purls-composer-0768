@@ -1,1 +1,2 @@
 - pkg:composer/symfony/ai-qdrant-store@v0.1.0
+- pkg:composer/symfony/ai-qdrant-store@v0.2.0

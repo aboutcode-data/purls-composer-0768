@@ -1,1 +1,2 @@
 - pkg:composer/symfony/ai-ollama-platform@v0.1.0
+- pkg:composer/symfony/ai-ollama-platform@v0.2.0
