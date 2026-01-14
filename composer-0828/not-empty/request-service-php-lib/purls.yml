@@ -5,3 +5,4 @@
 - pkg:composer/not-empty/request-service-php-lib@5.0.0
 - pkg:composer/not-empty/request-service-php-lib@6.0.0
 - pkg:composer/not-empty/request-service-php-lib@7.0.0
+- pkg:composer/not-empty/request-service-php-lib@8.0.0
