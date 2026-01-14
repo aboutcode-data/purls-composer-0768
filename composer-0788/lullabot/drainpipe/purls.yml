@@ -44,6 +44,7 @@
 - pkg:composer/lullabot/drainpipe@v3.15.4
 - pkg:composer/lullabot/drainpipe@v3.15.5
 - pkg:composer/lullabot/drainpipe@v3.15.6
+- pkg:composer/lullabot/drainpipe@v3.15.7
 - pkg:composer/lullabot/drainpipe@v3.2.0
 - pkg:composer/lullabot/drainpipe@v3.3.0
 - pkg:composer/lullabot/drainpipe@v3.4.0
