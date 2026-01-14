@@ -84,3 +84,5 @@
 - pkg:composer/utopia-php/audit@2.0.2-rc1
 - pkg:composer/utopia-php/audit@2.0.2-rc2
 - pkg:composer/utopia-php/audit@2.0.2-rc3
+- pkg:composer/utopia-php/audit@2.0.3
+- pkg:composer/utopia-php/audit@2.0.4

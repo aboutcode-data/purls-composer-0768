@@ -20,3 +20,5 @@
 - pkg:composer/tobento/app-http@1.1.8
 - pkg:composer/tobento/app-http@1.1.9
 - pkg:composer/tobento/app-http@2.0
+- pkg:composer/tobento/app-http@2.0.1
+- pkg:composer/tobento/app-http@2.0.2

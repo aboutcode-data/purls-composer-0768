@@ -1,3 +1,4 @@
+- pkg:composer/verbanent/eloquent-binary-uuid@v1.10.0
 - pkg:composer/verbanent/eloquent-binary-uuid@v1.2.4
 - pkg:composer/verbanent/eloquent-binary-uuid@v1.2.5
 - pkg:composer/verbanent/eloquent-binary-uuid@v1.2.6
@@ -19,3 +20,4 @@
 - pkg:composer/verbanent/eloquent-binary-uuid@v1.7.2
 - pkg:composer/verbanent/eloquent-binary-uuid@v1.8.0
 - pkg:composer/verbanent/eloquent-binary-uuid@v1.8.1
+- pkg:composer/verbanent/eloquent-binary-uuid@v1.9.0

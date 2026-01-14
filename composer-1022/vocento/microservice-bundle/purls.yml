@@ -31,3 +31,4 @@
 - pkg:composer/vocento/microservice-bundle@v5.2.0
 - pkg:composer/vocento/microservice-bundle@v5.3.0
 - pkg:composer/vocento/microservice-bundle@v5.3.1
+- pkg:composer/vocento/microservice-bundle@v5.4.0
