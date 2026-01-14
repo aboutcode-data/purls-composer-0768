@@ -1,5 +1,9 @@
+- pkg:composer/win32service/win32service@1.1.0
 - pkg:composer/win32service/win32service@1.1.0beta10
+- pkg:composer/win32service/win32service@1.1.0beta11
+- pkg:composer/win32service/win32service@1.1.0beta12
 - pkg:composer/win32service/win32service@1.1.0beta9
+- pkg:composer/win32service/win32service@1.1.1beta1
 - pkg:composer/win32service/win32service@v1.1.0beta4
 - pkg:composer/win32service/win32service@v1.1.0beta6
 - pkg:composer/win32service/win32service@v1.1.0beta7

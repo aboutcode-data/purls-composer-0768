@@ -236,3 +236,4 @@
 - pkg:composer/wp-graphql/wp-graphql@v2.5.2
 - pkg:composer/wp-graphql/wp-graphql@v2.5.3
 - pkg:composer/wp-graphql/wp-graphql@v2.5.4
+- pkg:composer/wp-graphql/wp-graphql@v2.6.0

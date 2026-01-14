@@ -14,3 +14,4 @@
 - pkg:composer/vrpayment/shopware-6@7.1.4
 - pkg:composer/vrpayment/shopware-6@7.1.5
 - pkg:composer/vrpayment/shopware-6@7.1.6
+- pkg:composer/vrpayment/shopware-6@7.2.0
