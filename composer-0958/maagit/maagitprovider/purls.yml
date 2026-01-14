@@ -84,3 +84,4 @@
 - pkg:composer/maagit/maagitprovider@v13.4.9
 - pkg:composer/maagit/maagitprovider@v14.0.0
 - pkg:composer/maagit/maagitprovider@v14.0.1
+- pkg:composer/maagit/maagitprovider@v14.0.2
