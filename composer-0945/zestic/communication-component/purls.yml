@@ -23,4 +23,5 @@
 - pkg:composer/zestic/communication-component@v1.6.1
 - pkg:composer/zestic/communication-component@v1.6.2
 - pkg:composer/zestic/communication-component@v1.6.3
+- pkg:composer/zestic/communication-component@v1.6.4
 - pkg:composer/zestic/communication-component@v2.0.0-alpha.1
