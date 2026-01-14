@@ -334,6 +334,7 @@
 - pkg:composer/helsingborg-stad/api-event-manager@3.12.0
 - pkg:composer/helsingborg-stad/api-event-manager@3.12.1
 - pkg:composer/helsingborg-stad/api-event-manager@3.12.2
+- pkg:composer/helsingborg-stad/api-event-manager@3.12.3
 - pkg:composer/helsingborg-stad/api-event-manager@3.2.0
 - pkg:composer/helsingborg-stad/api-event-manager@3.3.0
 - pkg:composer/helsingborg-stad/api-event-manager@3.3.1
