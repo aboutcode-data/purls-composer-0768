@@ -147,3 +147,4 @@
 - pkg:composer/shlinkio/shlink@v4.5.2
 - pkg:composer/shlinkio/shlink@v4.5.3
 - pkg:composer/shlinkio/shlink@v4.6.0
+- pkg:composer/shlinkio/shlink@v5.0.0

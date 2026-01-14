@@ -12,3 +12,6 @@
 - pkg:composer/safiull/laravel-installer@3.3.1
 - pkg:composer/safiull/laravel-installer@3.3.2
 - pkg:composer/safiull/laravel-installer@3.4.0
+- pkg:composer/safiull/laravel-installer@3.5.2
+- pkg:composer/safiull/laravel-installer@3.5.3
+- pkg:composer/safiull/laravel-installer@3.5.4
