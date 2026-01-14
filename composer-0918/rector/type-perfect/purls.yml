@@ -14,3 +14,4 @@
 - pkg:composer/rector/type-perfect@2.0.2
 - pkg:composer/rector/type-perfect@2.1.0
 - pkg:composer/rector/type-perfect@2.1.1
+- pkg:composer/rector/type-perfect@2.1.2

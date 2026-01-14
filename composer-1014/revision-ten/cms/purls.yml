@@ -267,3 +267,7 @@
 - pkg:composer/revision-ten/cms@3.3.8
 - pkg:composer/revision-ten/cms@3.8.10
 - pkg:composer/revision-ten/cms@3.8.9
+- pkg:composer/revision-ten/cms@3.9.0
+- pkg:composer/revision-ten/cms@3.9.1
+- pkg:composer/revision-ten/cms@3.9.2
+- pkg:composer/revision-ten/cms@3.9.3

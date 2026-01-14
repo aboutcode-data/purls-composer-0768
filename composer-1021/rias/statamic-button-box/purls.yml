@@ -5,3 +5,4 @@
 - pkg:composer/rias/statamic-button-box@v2.0.3
 - pkg:composer/rias/statamic-button-box@v3.0.0
 - pkg:composer/rias/statamic-button-box@v3.0.1
+- pkg:composer/rias/statamic-button-box@v4.0.0-beta.1

@@ -92,3 +92,7 @@
 - pkg:composer/portiny/graphql@8.0.3
 - pkg:composer/portiny/graphql@8.1.0
 - pkg:composer/portiny/graphql@8.1.1
+- pkg:composer/portiny/graphql@8.1.2
+- pkg:composer/portiny/graphql@8.1.3
+- pkg:composer/portiny/graphql@8.1.4
+- pkg:composer/portiny/graphql@8.1.5
