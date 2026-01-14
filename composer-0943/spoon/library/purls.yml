@@ -67,3 +67,5 @@
 - pkg:composer/spoon/library@3.2.7
 - pkg:composer/spoon/library@3.2.8
 - pkg:composer/spoon/library@3.2.9
+- pkg:composer/spoon/library@4.0.0
+- pkg:composer/spoon/library@4.0.1

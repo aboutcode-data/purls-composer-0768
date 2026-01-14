@@ -5,3 +5,4 @@
 - pkg:composer/spirit-act/googleads-php-lib@70.0.2
 - pkg:composer/spirit-act/googleads-php-lib@70.1.0
 - pkg:composer/spirit-act/googleads-php-lib@70.1.1
+- pkg:composer/spirit-act/googleads-php-lib@71.0.0

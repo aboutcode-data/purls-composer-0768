@@ -5,6 +5,9 @@
 - pkg:composer/stackmasteraliza/laravel-api-response@3.6.0
 - pkg:composer/stackmasteraliza/laravel-api-response@3.7.0
 - pkg:composer/stackmasteraliza/laravel-api-response@3.8.0
+- pkg:composer/stackmasteraliza/laravel-api-response@3.9.1
+- pkg:composer/stackmasteraliza/laravel-api-response@4.0.0
+- pkg:composer/stackmasteraliza/laravel-api-response@4.1.0
 - pkg:composer/stackmasteraliza/laravel-api-response@v1.0.0
 - pkg:composer/stackmasteraliza/laravel-api-response@v1.1.0
 - pkg:composer/stackmasteraliza/laravel-api-response@v1.2.0

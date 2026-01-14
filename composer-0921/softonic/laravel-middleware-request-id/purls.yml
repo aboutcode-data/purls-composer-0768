@@ -1,3 +1,5 @@
+- pkg:composer/softonic/laravel-middleware-request-id@3.0.0
+- pkg:composer/softonic/laravel-middleware-request-id@3.0.1
 - pkg:composer/softonic/laravel-middleware-request-id@v1.0.0
 - pkg:composer/softonic/laravel-middleware-request-id@v1.0.1
 - pkg:composer/softonic/laravel-middleware-request-id@v2.0.0
