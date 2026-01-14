@@ -84,6 +84,8 @@
 - pkg:composer/pop-cms-schema/schema-commons@15.2.0
 - pkg:composer/pop-cms-schema/schema-commons@15.2.1
 - pkg:composer/pop-cms-schema/schema-commons@15.3.0
+- pkg:composer/pop-cms-schema/schema-commons@16.0.0
+- pkg:composer/pop-cms-schema/schema-commons@16.0.1
 - pkg:composer/pop-cms-schema/schema-commons@2.0.1
 - pkg:composer/pop-cms-schema/schema-commons@2.1.0
 - pkg:composer/pop-cms-schema/schema-commons@2.1.1

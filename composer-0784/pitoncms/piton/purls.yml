@@ -14,3 +14,4 @@
 - pkg:composer/pitoncms/piton@0.7.1
 - pkg:composer/pitoncms/piton@0.8.0
 - pkg:composer/pitoncms/piton@0.8.1
+- pkg:composer/pitoncms/piton@1.0.0

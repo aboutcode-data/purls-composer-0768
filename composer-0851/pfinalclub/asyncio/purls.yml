@@ -1,3 +1,5 @@
+- pkg:composer/pfinalclub/asyncio@3.0.0
+- pkg:composer/pfinalclub/asyncio@3.0.1
 - pkg:composer/pfinalclub/asyncio@v1.0.0
 - pkg:composer/pfinalclub/asyncio@v1.0.1
 - pkg:composer/pfinalclub/asyncio@v2.0.3

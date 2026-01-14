@@ -128,6 +128,7 @@
 - pkg:composer/plivo/php-sdk@v4.66.6
 - pkg:composer/plivo/php-sdk@v4.66.7
 - pkg:composer/plivo/php-sdk@v4.67.0
+- pkg:composer/plivo/php-sdk@v4.68.1
 - pkg:composer/plivo/php-sdk@v4.7.0
 - pkg:composer/plivo/php-sdk@v4.7.1
 - pkg:composer/plivo/php-sdk@v4.8.0

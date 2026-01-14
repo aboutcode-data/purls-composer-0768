@@ -4,3 +4,4 @@
 - pkg:composer/patchlevel/laravel-event-sourcing@1.0.0-beta3
 - pkg:composer/patchlevel/laravel-event-sourcing@1.1.0
 - pkg:composer/patchlevel/laravel-event-sourcing@1.2.0
+- pkg:composer/patchlevel/laravel-event-sourcing@1.3.0

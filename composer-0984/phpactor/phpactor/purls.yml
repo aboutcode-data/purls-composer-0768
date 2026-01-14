@@ -57,3 +57,4 @@
 - pkg:composer/phpactor/phpactor@2025.04.17.0
 - pkg:composer/phpactor/phpactor@2025.10.17.0
 - pkg:composer/phpactor/phpactor@2025.12.21.0
+- pkg:composer/phpactor/phpactor@2025.12.21.1
