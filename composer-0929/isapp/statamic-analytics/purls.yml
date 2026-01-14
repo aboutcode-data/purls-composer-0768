@@ -1,2 +1,3 @@
 - pkg:composer/isapp/statamic-analytics@5.0.0
 - pkg:composer/isapp/statamic-analytics@6.0.0
+- pkg:composer/isapp/statamic-analytics@6.1.0
