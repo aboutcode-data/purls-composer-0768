@@ -5,3 +5,4 @@
 - pkg:composer/alibabacloud/tablestore-20201209@1.1.2
 - pkg:composer/alibabacloud/tablestore-20201209@1.2.0
 - pkg:composer/alibabacloud/tablestore-20201209@1.3.0
+- pkg:composer/alibabacloud/tablestore-20201209@2.0.0

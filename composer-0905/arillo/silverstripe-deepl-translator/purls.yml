@@ -2,6 +2,10 @@
 - pkg:composer/arillo/silverstripe-deepl-translator@0.0.10
 - pkg:composer/arillo/silverstripe-deepl-translator@0.0.11
 - pkg:composer/arillo/silverstripe-deepl-translator@0.0.12
+- pkg:composer/arillo/silverstripe-deepl-translator@0.0.13
+- pkg:composer/arillo/silverstripe-deepl-translator@0.0.14
+- pkg:composer/arillo/silverstripe-deepl-translator@0.0.15
+- pkg:composer/arillo/silverstripe-deepl-translator@0.0.16
 - pkg:composer/arillo/silverstripe-deepl-translator@0.0.2
 - pkg:composer/arillo/silverstripe-deepl-translator@0.0.3
 - pkg:composer/arillo/silverstripe-deepl-translator@0.0.4
