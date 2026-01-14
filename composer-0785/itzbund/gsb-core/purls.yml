@@ -540,3 +540,7 @@
 - pkg:composer/itzbund/gsb-core@v4.3.0-rc.8
 - pkg:composer/itzbund/gsb-core@v4.3.0-rc.9
 - pkg:composer/itzbund/gsb-core@v4.3.1-rc.1
+- pkg:composer/itzbund/gsb-core@v4.3.1-rc.2
+- pkg:composer/itzbund/gsb-core@v4.3.1-rc.3
+- pkg:composer/itzbund/gsb-core@v4.4.0
+- pkg:composer/itzbund/gsb-core@v4.4.0-rc.1
