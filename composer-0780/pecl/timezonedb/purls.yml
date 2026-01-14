@@ -2,3 +2,4 @@
 - pkg:composer/pecl/timezonedb@2025.2
 - pkg:composer/pecl/timezonedb@2025.2.1
 - pkg:composer/pecl/timezonedb@2025.2.2
+- pkg:composer/pecl/timezonedb@2025.3
