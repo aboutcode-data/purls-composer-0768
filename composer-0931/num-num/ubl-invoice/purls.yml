@@ -75,3 +75,5 @@
 - pkg:composer/num-num/ubl-invoice@v2.0.0-beta9
 - pkg:composer/num-num/ubl-invoice@v2.0.1
 - pkg:composer/num-num/ubl-invoice@v2.0.2
+- pkg:composer/num-num/ubl-invoice@v2.0.3
+- pkg:composer/num-num/ubl-invoice@v2.1.0

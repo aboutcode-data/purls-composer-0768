@@ -25,3 +25,4 @@
 - pkg:composer/nelmio/cors-bundle@2.4.0
 - pkg:composer/nelmio/cors-bundle@2.5.0
 - pkg:composer/nelmio/cors-bundle@2.6.0
+- pkg:composer/nelmio/cors-bundle@2.6.1
