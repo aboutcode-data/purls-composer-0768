@@ -2,3 +2,7 @@
 - pkg:composer/mindbird/contao-calendar-editor@4.3.1
 - pkg:composer/mindbird/contao-calendar-editor@4.3.2
 - pkg:composer/mindbird/contao-calendar-editor@4.3.3
+- pkg:composer/mindbird/contao-calendar-editor@5.0.0
+- pkg:composer/mindbird/contao-calendar-editor@5.0.1
+- pkg:composer/mindbird/contao-calendar-editor@5.0.2
+- pkg:composer/mindbird/contao-calendar-editor@5.0.3

@@ -86,3 +86,4 @@
 - pkg:composer/mwstake/mediawiki-component-commonwebapis@3.0.8
 - pkg:composer/mwstake/mediawiki-component-commonwebapis@3.0.9
 - pkg:composer/mwstake/mediawiki-component-commonwebapis@3.1.0
+- pkg:composer/mwstake/mediawiki-component-commonwebapis@3.1.1
