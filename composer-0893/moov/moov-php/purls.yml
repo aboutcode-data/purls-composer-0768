@@ -130,6 +130,7 @@
 - pkg:composer/moov/moov-php@v0.7.3
 - pkg:composer/moov/moov-php@v0.7.30
 - pkg:composer/moov/moov-php@v0.7.31
+- pkg:composer/moov/moov-php@v0.7.32
 - pkg:composer/moov/moov-php@v0.7.4
 - pkg:composer/moov/moov-php@v0.7.5
 - pkg:composer/moov/moov-php@v0.7.6
