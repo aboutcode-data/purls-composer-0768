@@ -258,6 +258,7 @@
 - pkg:composer/inspector-apm/neuron-ai@2.10.2
 - pkg:composer/inspector-apm/neuron-ai@2.10.3
 - pkg:composer/inspector-apm/neuron-ai@2.11.0
+- pkg:composer/inspector-apm/neuron-ai@2.11.1
 - pkg:composer/inspector-apm/neuron-ai@2.2.0
 - pkg:composer/inspector-apm/neuron-ai@2.2.1
 - pkg:composer/inspector-apm/neuron-ai@2.2.10
