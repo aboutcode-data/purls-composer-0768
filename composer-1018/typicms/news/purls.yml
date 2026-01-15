@@ -20,6 +20,7 @@
 - pkg:composer/typicms/news@15.0.2
 - pkg:composer/typicms/news@16.0.0
 - pkg:composer/typicms/news@16.0.1
+- pkg:composer/typicms/news@16.1.0
 - pkg:composer/typicms/news@2.5.0
 - pkg:composer/typicms/news@2.5.1
 - pkg:composer/typicms/news@2.5.2
