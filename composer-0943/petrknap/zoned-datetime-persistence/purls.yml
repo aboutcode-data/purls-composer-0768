@@ -7,4 +7,5 @@
 - pkg:composer/petrknap/zoned-datetime-persistence@0.3.0
 - pkg:composer/petrknap/zoned-datetime-persistence@0.3.1
 - pkg:composer/petrknap/zoned-datetime-persistence@0.3.2
+- pkg:composer/petrknap/zoned-datetime-persistence@0.3.3
 - pkg:composer/petrknap/zoned-datetime-persistence@v0.1.0
