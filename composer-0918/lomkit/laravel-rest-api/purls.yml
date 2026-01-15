@@ -41,6 +41,7 @@
 - pkg:composer/lomkit/laravel-rest-api@v2.17.0
 - pkg:composer/lomkit/laravel-rest-api@v2.17.1
 - pkg:composer/lomkit/laravel-rest-api@v2.17.2
+- pkg:composer/lomkit/laravel-rest-api@v2.17.3
 - pkg:composer/lomkit/laravel-rest-api@v2.2.0
 - pkg:composer/lomkit/laravel-rest-api@v2.3.0
 - pkg:composer/lomkit/laravel-rest-api@v2.3.1

@@ -41,6 +41,7 @@
 - pkg:composer/livewire-filemanager/filemanager@v0.1.46
 - pkg:composer/livewire-filemanager/filemanager@v0.1.47
 - pkg:composer/livewire-filemanager/filemanager@v0.1.48
+- pkg:composer/livewire-filemanager/filemanager@v0.1.49
 - pkg:composer/livewire-filemanager/filemanager@v0.1.5
 - pkg:composer/livewire-filemanager/filemanager@v0.1.6
 - pkg:composer/livewire-filemanager/filemanager@v0.1.7
@@ -49,3 +50,4 @@
 - pkg:composer/livewire-filemanager/filemanager@v1.0.0
 - pkg:composer/livewire-filemanager/filemanager@v1.0.1
 - pkg:composer/livewire-filemanager/filemanager@v1.0.2
+- pkg:composer/livewire-filemanager/filemanager@v1.0.3
