@@ -1,1 +1,2 @@
 - pkg:composer/gophpeek/laravel-queue-autoscale@v1.0.0
+- pkg:composer/gophpeek/laravel-queue-autoscale@v1.1.0
