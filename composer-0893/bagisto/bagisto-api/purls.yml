@@ -1,1 +1,2 @@
 - pkg:composer/bagisto/bagisto-api@v1.0.0
+- pkg:composer/bagisto/bagisto-api@v1.0.1

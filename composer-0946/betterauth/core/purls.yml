@@ -1,12 +1,1 @@
-- pkg:composer/betterauth/core@v1.0.1
-- pkg:composer/betterauth/core@v1.0.2
-- pkg:composer/betterauth/core@v1.0.3
-- pkg:composer/betterauth/core@v1.0.4
-- pkg:composer/betterauth/core@v1.1.0
-- pkg:composer/betterauth/core@v1.1.1
-- pkg:composer/betterauth/core@v2.0.0
-- pkg:composer/betterauth/core@v2.0.1
-- pkg:composer/betterauth/core@v3.0.0
-- pkg:composer/betterauth/core@v3.0.1
-- pkg:composer/betterauth/core@v3.0.2
-- pkg:composer/betterauth/core@v3.1.0
+- pkg:composer/betterauth/core@v0.0.2

@@ -312,6 +312,8 @@
 - pkg:composer/automattic/jetpack-connection@v6.2.1
 - pkg:composer/automattic/jetpack-connection@v6.2.2
 - pkg:composer/automattic/jetpack-connection@v6.20.0
+- pkg:composer/automattic/jetpack-connection@v6.20.1
+- pkg:composer/automattic/jetpack-connection@v6.20.2
 - pkg:composer/automattic/jetpack-connection@v6.3.0
 - pkg:composer/automattic/jetpack-connection@v6.3.1
 - pkg:composer/automattic/jetpack-connection@v6.3.2

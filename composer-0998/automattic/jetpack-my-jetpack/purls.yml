@@ -313,10 +313,12 @@
 - pkg:composer/automattic/jetpack-my-jetpack@v5.29.0
 - pkg:composer/automattic/jetpack-my-jetpack@v5.29.1
 - pkg:composer/automattic/jetpack-my-jetpack@v5.29.2
+- pkg:composer/automattic/jetpack-my-jetpack@v5.29.3
 - pkg:composer/automattic/jetpack-my-jetpack@v5.3.0
 - pkg:composer/automattic/jetpack-my-jetpack@v5.3.1
 - pkg:composer/automattic/jetpack-my-jetpack@v5.3.2
 - pkg:composer/automattic/jetpack-my-jetpack@v5.3.3
+- pkg:composer/automattic/jetpack-my-jetpack@v5.30.0
 - pkg:composer/automattic/jetpack-my-jetpack@v5.4.0
 - pkg:composer/automattic/jetpack-my-jetpack@v5.4.1
 - pkg:composer/automattic/jetpack-my-jetpack@v5.4.2

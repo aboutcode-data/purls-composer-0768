@@ -1,6 +1,7 @@
 - pkg:composer/automattic/edit-flow@0.10.0
 - pkg:composer/automattic/edit-flow@0.10.1
 - pkg:composer/automattic/edit-flow@0.10.2
+- pkg:composer/automattic/edit-flow@0.10.3
 - pkg:composer/automattic/edit-flow@0.8.1
 - pkg:composer/automattic/edit-flow@0.8.2
 - pkg:composer/automattic/edit-flow@0.8.3

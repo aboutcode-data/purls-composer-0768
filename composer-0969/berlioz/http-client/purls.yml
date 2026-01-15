@@ -19,3 +19,4 @@
 - pkg:composer/berlioz/http-client@v2.4.1
 - pkg:composer/berlioz/http-client@v2.4.2
 - pkg:composer/berlioz/http-client@v2.5.0
+- pkg:composer/berlioz/http-client@v2.5.1

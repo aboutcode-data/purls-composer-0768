@@ -7,3 +7,4 @@
 - pkg:composer/berlioz/cli-core@v2.1.1
 - pkg:composer/berlioz/cli-core@v2.2.0
 - pkg:composer/berlioz/cli-core@v2.2.1
+- pkg:composer/berlioz/cli-core@v2.2.2

@@ -8,3 +8,4 @@
 - pkg:composer/bayfrontmedia/leaky-bucket@v2.2.0
 - pkg:composer/bayfrontmedia/leaky-bucket@v2.2.1
 - pkg:composer/bayfrontmedia/leaky-bucket@v2.2.2
+- pkg:composer/bayfrontmedia/leaky-bucket@v2.3.0
