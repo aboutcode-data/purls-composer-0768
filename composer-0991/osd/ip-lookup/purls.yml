@@ -1,2 +1,3 @@
 - pkg:composer/osd/ip-lookup@1.0.0
 - pkg:composer/osd/ip-lookup@1.0.1
+- pkg:composer/osd/ip-lookup@1.0.2
