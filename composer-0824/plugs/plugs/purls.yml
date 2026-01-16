@@ -60,3 +60,4 @@
 - pkg:composer/plugs/plugs@v2.2.8
 - pkg:composer/plugs/plugs@v2.2.9
 - pkg:composer/plugs/plugs@v3.0.0
+- pkg:composer/plugs/plugs@v3.0.1
