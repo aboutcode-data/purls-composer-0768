@@ -666,6 +666,8 @@
 - pkg:composer/pushword/core@1.0.0-rc335
 - pkg:composer/pushword/core@1.0.0-rc336
 - pkg:composer/pushword/core@1.0.0-rc337
+- pkg:composer/pushword/core@1.0.0-rc338
+- pkg:composer/pushword/core@1.0.0-rc339
 - pkg:composer/pushword/core@1.0.0-rc34
 - pkg:composer/pushword/core@1.0.0-rc35
 - pkg:composer/pushword/core@1.0.0-rc36
