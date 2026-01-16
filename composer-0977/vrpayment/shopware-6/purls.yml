@@ -5,6 +5,7 @@
 - pkg:composer/vrpayment/shopware-6@6.1.14
 - pkg:composer/vrpayment/shopware-6@6.1.16
 - pkg:composer/vrpayment/shopware-6@6.1.17
+- pkg:composer/vrpayment/shopware-6@6.2.0
 - pkg:composer/vrpayment/shopware-6@7.0.0
 - pkg:composer/vrpayment/shopware-6@7.0.1
 - pkg:composer/vrpayment/shopware-6@7.1.0
