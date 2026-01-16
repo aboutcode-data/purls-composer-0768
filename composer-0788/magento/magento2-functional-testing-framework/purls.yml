@@ -126,3 +126,4 @@
 - pkg:composer/magento/magento2-functional-testing-framework@5.0.5
 - pkg:composer/magento/magento2-functional-testing-framework@5.0.6
 - pkg:composer/magento/magento2-functional-testing-framework@5.1.0
+- pkg:composer/magento/magento2-functional-testing-framework@5.2.0
