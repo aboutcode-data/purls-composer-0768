@@ -21,3 +21,4 @@
 - pkg:composer/spatie/laravel-typescript-transformer@2.5.0
 - pkg:composer/spatie/laravel-typescript-transformer@2.5.1
 - pkg:composer/spatie/laravel-typescript-transformer@2.5.2
+- pkg:composer/spatie/laravel-typescript-transformer@3.0.0-beta.1
