@@ -29,3 +29,4 @@
 - pkg:composer/gdbots/ncr-bundle@v3.1.1
 - pkg:composer/gdbots/ncr-bundle@v4.0.0
 - pkg:composer/gdbots/ncr-bundle@v4.0.1
+- pkg:composer/gdbots/ncr-bundle@v5.0.0

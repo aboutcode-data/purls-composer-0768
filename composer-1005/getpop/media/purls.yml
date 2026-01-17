@@ -102,6 +102,7 @@
 - pkg:composer/getpop/media@16.0.0
 - pkg:composer/getpop/media@16.0.1
 - pkg:composer/getpop/media@16.0.2
+- pkg:composer/getpop/media@16.0.3
 - pkg:composer/getpop/media@2.0.1
 - pkg:composer/getpop/media@2.1.0
 - pkg:composer/getpop/media@2.1.1

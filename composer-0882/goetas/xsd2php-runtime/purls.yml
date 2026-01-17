@@ -1,3 +1,4 @@
+- pkg:composer/goetas/xsd2php-runtime@0.2.18
 - pkg:composer/goetas/xsd2php-runtime@v0.1.0
 - pkg:composer/goetas/xsd2php-runtime@v0.2.0
 - pkg:composer/goetas/xsd2php-runtime@v0.2.1

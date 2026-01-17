@@ -95,3 +95,4 @@
 - pkg:composer/froala/wysiwyg-editor@v4.6.2
 - pkg:composer/froala/wysiwyg-editor@v4.7.0
 - pkg:composer/froala/wysiwyg-editor@v4.7.1
+- pkg:composer/froala/wysiwyg-editor@v5.0.0

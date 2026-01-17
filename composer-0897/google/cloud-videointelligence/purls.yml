@@ -96,3 +96,4 @@
 - pkg:composer/google/cloud-videointelligence@v2.0.5
 - pkg:composer/google/cloud-videointelligence@v2.1.0
 - pkg:composer/google/cloud-videointelligence@v2.1.1
+- pkg:composer/google/cloud-videointelligence@v2.1.2
