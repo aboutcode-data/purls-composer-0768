@@ -4,3 +4,4 @@
 - pkg:composer/dvsa/authentication-ldap@v2.0.0
 - pkg:composer/dvsa/authentication-ldap@v2.1.0
 - pkg:composer/dvsa/authentication-ldap@v3.0.0
+- pkg:composer/dvsa/authentication-ldap@v3.1.0

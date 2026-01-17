@@ -7,3 +7,4 @@
 - pkg:composer/diablomedia/zendframework1-session-savehandler-dbtable@1.0.6
 - pkg:composer/diablomedia/zendframework1-session-savehandler-dbtable@1.0.7
 - pkg:composer/diablomedia/zendframework1-session-savehandler-dbtable@2.0.0
+- pkg:composer/diablomedia/zendframework1-session-savehandler-dbtable@2.0.1

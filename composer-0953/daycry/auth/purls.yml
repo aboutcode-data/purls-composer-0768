@@ -25,3 +25,5 @@
 - pkg:composer/daycry/auth@v1.0.9
 - pkg:composer/daycry/auth@v2.0.0
 - pkg:composer/daycry/auth@v2.0.1
+- pkg:composer/daycry/auth@v3.0.0
+- pkg:composer/daycry/auth@v3.0.1
