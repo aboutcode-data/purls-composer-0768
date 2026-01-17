@@ -6,3 +6,4 @@
 - pkg:composer/yorcreative/laravel-urlshortener@v2.1.0
 - pkg:composer/yorcreative/laravel-urlshortener@v2.1.1
 - pkg:composer/yorcreative/laravel-urlshortener@v2.1.2
+- pkg:composer/yorcreative/laravel-urlshortener@v3.0.0
