@@ -29,6 +29,11 @@
 - pkg:composer/cognesy/instructor-events@v1.14.0
 - pkg:composer/cognesy/instructor-events@v1.15.0
 - pkg:composer/cognesy/instructor-events@v1.16.0
+- pkg:composer/cognesy/instructor-events@v1.17.0
+- pkg:composer/cognesy/instructor-events@v1.18.0
+- pkg:composer/cognesy/instructor-events@v1.18.1
+- pkg:composer/cognesy/instructor-events@v1.18.2
+- pkg:composer/cognesy/instructor-events@v1.18.3
 - pkg:composer/cognesy/instructor-events@v1.2.0
 - pkg:composer/cognesy/instructor-events@v1.3.0
 - pkg:composer/cognesy/instructor-events@v1.4.0

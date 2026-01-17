@@ -85,7 +85,10 @@
 - pkg:composer/condoedge/utils@v0.2.115
 - pkg:composer/condoedge/utils@v0.2.116
 - pkg:composer/condoedge/utils@v0.2.117
+- pkg:composer/condoedge/utils@v0.2.118
+- pkg:composer/condoedge/utils@v0.2.119
 - pkg:composer/condoedge/utils@v0.2.12
+- pkg:composer/condoedge/utils@v0.2.120
 - pkg:composer/condoedge/utils@v0.2.13
 - pkg:composer/condoedge/utils@v0.2.14
 - pkg:composer/condoedge/utils@v0.2.15

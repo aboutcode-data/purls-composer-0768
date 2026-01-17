@@ -1,3 +1,5 @@
 - pkg:composer/daikazu/asset-cleaner@v1.0.0
 - pkg:composer/daikazu/asset-cleaner@v1.1.0
 - pkg:composer/daikazu/asset-cleaner@v1.2.0
+- pkg:composer/daikazu/asset-cleaner@v1.2.1
+- pkg:composer/daikazu/asset-cleaner@v1.3.0

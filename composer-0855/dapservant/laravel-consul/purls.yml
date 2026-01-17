@@ -1,1 +1,3 @@
 - pkg:composer/dapservant/laravel-consul@1.0.0
+- pkg:composer/dapservant/laravel-consul@1.1.0
+- pkg:composer/dapservant/laravel-consul@1.2.0

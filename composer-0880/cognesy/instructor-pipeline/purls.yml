@@ -8,6 +8,10 @@
 - pkg:composer/cognesy/instructor-pipeline@v1.14.0
 - pkg:composer/cognesy/instructor-pipeline@v1.15.0
 - pkg:composer/cognesy/instructor-pipeline@v1.16.0
+- pkg:composer/cognesy/instructor-pipeline@v1.17.0
+- pkg:composer/cognesy/instructor-pipeline@v1.18.0
+- pkg:composer/cognesy/instructor-pipeline@v1.18.1
+- pkg:composer/cognesy/instructor-pipeline@v1.18.2
 - pkg:composer/cognesy/instructor-pipeline@v1.3.0
 - pkg:composer/cognesy/instructor-pipeline@v1.4.0
 - pkg:composer/cognesy/instructor-pipeline@v1.4.1
