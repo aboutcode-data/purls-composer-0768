@@ -9,3 +9,4 @@
 - pkg:composer/async-aws/scheduler@1.3.0
 - pkg:composer/async-aws/scheduler@1.4.0
 - pkg:composer/async-aws/scheduler@1.5.0
+- pkg:composer/async-aws/scheduler@1.6.0

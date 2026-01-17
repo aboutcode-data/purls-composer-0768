@@ -22,6 +22,8 @@
 - pkg:composer/baks-dev/barcode@v7.2.9
 - pkg:composer/baks-dev/barcode@v7.3.0
 - pkg:composer/baks-dev/barcode@v7.3.1
+- pkg:composer/baks-dev/barcode@v7.3.10
+- pkg:composer/baks-dev/barcode@v7.3.11
 - pkg:composer/baks-dev/barcode@v7.3.2
 - pkg:composer/baks-dev/barcode@v7.3.3
 - pkg:composer/baks-dev/barcode@v7.3.4
@@ -29,3 +31,4 @@
 - pkg:composer/baks-dev/barcode@v7.3.6
 - pkg:composer/baks-dev/barcode@v7.3.7
 - pkg:composer/baks-dev/barcode@v7.3.8
+- pkg:composer/baks-dev/barcode@v7.3.9
