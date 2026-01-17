@@ -305,6 +305,7 @@
 - pkg:composer/cakephp/utility@5.2.1
 - pkg:composer/cakephp/utility@5.2.10
 - pkg:composer/cakephp/utility@5.2.11
+- pkg:composer/cakephp/utility@5.2.12
 - pkg:composer/cakephp/utility@5.2.2
 - pkg:composer/cakephp/utility@5.2.3
 - pkg:composer/cakephp/utility@5.2.4

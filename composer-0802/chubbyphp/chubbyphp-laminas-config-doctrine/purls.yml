@@ -22,3 +22,4 @@
 - pkg:composer/chubbyphp/chubbyphp-laminas-config-doctrine@3.0.2
 - pkg:composer/chubbyphp/chubbyphp-laminas-config-doctrine@3.0.3
 - pkg:composer/chubbyphp/chubbyphp-laminas-config-doctrine@3.1.0
+- pkg:composer/chubbyphp/chubbyphp-laminas-config-doctrine@3.1.1
