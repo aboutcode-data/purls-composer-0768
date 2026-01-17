@@ -28,6 +28,7 @@
 - pkg:composer/swissup/module-core@1.12.23
 - pkg:composer/swissup/module-core@1.12.24
 - pkg:composer/swissup/module-core@1.12.25
+- pkg:composer/swissup/module-core@1.12.26
 - pkg:composer/swissup/module-core@1.12.3
 - pkg:composer/swissup/module-core@1.12.4
 - pkg:composer/swissup/module-core@1.12.5
