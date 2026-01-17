@@ -48,3 +48,4 @@
 - pkg:composer/facile-it/mongodb-bundle@1.6.2
 - pkg:composer/facile-it/mongodb-bundle@1.7.0
 - pkg:composer/facile-it/mongodb-bundle@1.8.0
+- pkg:composer/facile-it/mongodb-bundle@2.0.0

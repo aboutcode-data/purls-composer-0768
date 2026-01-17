@@ -75,4 +75,6 @@
 - pkg:composer/easi-power/laravel-db2@v13.0.2
 - pkg:composer/easi-power/laravel-db2@v13.0.3
 - pkg:composer/easi-power/laravel-db2@v13.0.4
+- pkg:composer/easi-power/laravel-db2@v13.0.6
+- pkg:composer/easi-power/laravel-db2@v13.05
 - pkg:composer/easi-power/laravel-db2@v9.3.0

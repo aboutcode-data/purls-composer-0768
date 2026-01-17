@@ -38,6 +38,13 @@
 - pkg:composer/enzolarosa/mqtt-broadcast@v1.20.00
 - pkg:composer/enzolarosa/mqtt-broadcast@v1.21.00
 - pkg:composer/enzolarosa/mqtt-broadcast@v1.22.00
+- pkg:composer/enzolarosa/mqtt-broadcast@v1.23.00
+- pkg:composer/enzolarosa/mqtt-broadcast@v1.23.01
+- pkg:composer/enzolarosa/mqtt-broadcast@v1.23.02
+- pkg:composer/enzolarosa/mqtt-broadcast@v1.23.03
+- pkg:composer/enzolarosa/mqtt-broadcast@v1.23.04
+- pkg:composer/enzolarosa/mqtt-broadcast@v1.23.05
+- pkg:composer/enzolarosa/mqtt-broadcast@v1.23.06
 - pkg:composer/enzolarosa/mqtt-broadcast@v1.3.0
 - pkg:composer/enzolarosa/mqtt-broadcast@v1.5.0
 - pkg:composer/enzolarosa/mqtt-broadcast@v1.5.1

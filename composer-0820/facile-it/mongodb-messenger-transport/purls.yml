@@ -9,3 +9,4 @@
 - pkg:composer/facile-it/mongodb-messenger-transport@1.5.0
 - pkg:composer/facile-it/mongodb-messenger-transport@1.6.0
 - pkg:composer/facile-it/mongodb-messenger-transport@1.7.0
+- pkg:composer/facile-it/mongodb-messenger-transport@1.8.0
