@@ -1,3 +1,4 @@
 - pkg:composer/sergterr/filesystem@1.0.0
 - pkg:composer/sergterr/filesystem@1.0.1
 - pkg:composer/sergterr/filesystem@1.0.6
+- pkg:composer/sergterr/filesystem@v1.0.7
