@@ -21,3 +21,4 @@
 - pkg:composer/laragear/webauthn@v3.1.1
 - pkg:composer/laragear/webauthn@v4.0.0
 - pkg:composer/laragear/webauthn@v4.0.1
+- pkg:composer/laragear/webauthn@v4.1.0
