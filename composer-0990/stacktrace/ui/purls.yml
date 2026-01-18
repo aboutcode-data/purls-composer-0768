@@ -18,3 +18,4 @@
 - pkg:composer/stacktrace/ui@v0.7.0
 - pkg:composer/stacktrace/ui@v0.7.1
 - pkg:composer/stacktrace/ui@v0.7.2
+- pkg:composer/stacktrace/ui@v0.7.3

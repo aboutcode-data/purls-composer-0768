@@ -1,0 +1,6 @@
+- pkg:composer/stacktracer/stacktracer-symfony@v1.0.0
+- pkg:composer/stacktracer/stacktracer-symfony@v1.0.1
+- pkg:composer/stacktracer/stacktracer-symfony@v1.0.2
+- pkg:composer/stacktracer/stacktracer-symfony@v1.1.0
+- pkg:composer/stacktracer/stacktracer-symfony@v1.1.1
+- pkg:composer/stacktracer/stacktracer-symfony@v1.1.2
