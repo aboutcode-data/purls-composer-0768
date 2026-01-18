@@ -20,3 +20,4 @@
 - pkg:composer/helmich/phpunit-json-assert@v3.5.1
 - pkg:composer/helmich/phpunit-json-assert@v3.5.2
 - pkg:composer/helmich/phpunit-json-assert@v3.5.3
+- pkg:composer/helmich/phpunit-json-assert@v3.5.4

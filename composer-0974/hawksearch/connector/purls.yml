@@ -1,6 +1,7 @@
 - pkg:composer/hawksearch/connector@2.10.0
 - pkg:composer/hawksearch/connector@2.11.0
 - pkg:composer/hawksearch/connector@2.11.1
+- pkg:composer/hawksearch/connector@2.11.2
 - pkg:composer/hawksearch/connector@2.4.0
 - pkg:composer/hawksearch/connector@2.4.2
 - pkg:composer/hawksearch/connector@2.4.3
