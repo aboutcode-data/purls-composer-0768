@@ -3,3 +3,4 @@
 - pkg:composer/joby/smol-url@v1.0.0-beta2
 - pkg:composer/joby/smol-url@v1.0.0-beta3
 - pkg:composer/joby/smol-url@v1.0.1
+- pkg:composer/joby/smol-url@v1.1.0
