@@ -2,3 +2,6 @@
 - pkg:composer/omnifyjp/omnify-client-laravel-sso@v1.1.0
 - pkg:composer/omnifyjp/omnify-client-laravel-sso@v1.2.0
 - pkg:composer/omnifyjp/omnify-client-laravel-sso@v1.2.1
+- pkg:composer/omnifyjp/omnify-client-laravel-sso@v2.0.0
+- pkg:composer/omnifyjp/omnify-client-laravel-sso@v2.0.1
+- pkg:composer/omnifyjp/omnify-client-laravel-sso@v2.0.2
