@@ -8,3 +8,4 @@
 - pkg:composer/qorm/qorm@v0.3.7
 - pkg:composer/qorm/qorm@v0.3.8
 - pkg:composer/qorm/qorm@v0.3.9
+- pkg:composer/qorm/qorm@v0.4.0
