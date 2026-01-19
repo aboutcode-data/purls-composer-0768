@@ -11,7 +11,6 @@
 - pkg:composer/apache-solr-for-typo3/tika@12.0.4
 - pkg:composer/apache-solr-for-typo3/tika@12.1.0
 - pkg:composer/apache-solr-for-typo3/tika@13.0.0
-- pkg:composer/apache-solr-for-typo3/tika@13.0.0-alpha-1
 - pkg:composer/apache-solr-for-typo3/tika@13.1.0
 - pkg:composer/apache-solr-for-typo3/tika@2.0.0
 - pkg:composer/apache-solr-for-typo3/tika@2.0.0-rc1

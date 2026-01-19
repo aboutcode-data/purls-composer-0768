@@ -31,3 +31,4 @@
 - pkg:composer/awcodes/filament-sticky-header@v2.0.8
 - pkg:composer/awcodes/filament-sticky-header@v3.0.0
 - pkg:composer/awcodes/filament-sticky-header@v3.0.0-beta.1
+- pkg:composer/awcodes/filament-sticky-header@v4.0.0
