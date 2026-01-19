@@ -19,3 +19,4 @@
 - pkg:composer/stickee/php-cs-fixer-config@v2.9.1
 - pkg:composer/stickee/php-cs-fixer-config@v3.0.0
 - pkg:composer/stickee/php-cs-fixer-config@v3.0.1
+- pkg:composer/stickee/php-cs-fixer-config@v3.0.2

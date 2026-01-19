@@ -2,6 +2,7 @@
 - pkg:composer/tbn/doctrinerelationvisualizer-bundle@1.1.1
 - pkg:composer/tbn/doctrinerelationvisualizer-bundle@2.0.0
 - pkg:composer/tbn/doctrinerelationvisualizer-bundle@2.1.0
+- pkg:composer/tbn/doctrinerelationvisualizer-bundle@3.0.0
 - pkg:composer/tbn/doctrinerelationvisualizer-bundle@v1.0.0
 - pkg:composer/tbn/doctrinerelationvisualizer-bundle@v1.0.1
 - pkg:composer/tbn/doctrinerelationvisualizer-bundle@v1.0.2

@@ -25,6 +25,7 @@
 - pkg:composer/sumocoders/application-skeleton@v16.1.0
 - pkg:composer/sumocoders/application-skeleton@v17.0.0
 - pkg:composer/sumocoders/application-skeleton@v17.1.0
+- pkg:composer/sumocoders/application-skeleton@v18.0.0
 - pkg:composer/sumocoders/application-skeleton@v2.0.0
 - pkg:composer/sumocoders/application-skeleton@v3.0.0
 - pkg:composer/sumocoders/application-skeleton@v3.0.1
