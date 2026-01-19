@@ -173,6 +173,7 @@
 - pkg:composer/cognesy/instructor-php@v1.18.4
 - pkg:composer/cognesy/instructor-php@v1.19.0
 - pkg:composer/cognesy/instructor-php@v1.2.0
+- pkg:composer/cognesy/instructor-php@v1.20.0
 - pkg:composer/cognesy/instructor-php@v1.3.0
 - pkg:composer/cognesy/instructor-php@v1.4.0
 - pkg:composer/cognesy/instructor-php@v1.4.1
