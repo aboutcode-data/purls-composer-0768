@@ -2,3 +2,4 @@
 - pkg:composer/sebastianpopp/laravel-cron-over-http@0.0.2
 - pkg:composer/sebastianpopp/laravel-cron-over-http@0.1.0
 - pkg:composer/sebastianpopp/laravel-cron-over-http@0.2.0
+- pkg:composer/sebastianpopp/laravel-cron-over-http@0.3.0
