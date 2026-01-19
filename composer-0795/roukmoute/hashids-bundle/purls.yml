@@ -22,3 +22,4 @@
 - pkg:composer/roukmoute/hashids-bundle@v2.3.1
 - pkg:composer/roukmoute/hashids-bundle@v3.0.0
 - pkg:composer/roukmoute/hashids-bundle@v3.1.0
+- pkg:composer/roukmoute/hashids-bundle@v4.0.0
