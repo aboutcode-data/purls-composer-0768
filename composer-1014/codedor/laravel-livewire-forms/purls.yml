@@ -8,3 +8,4 @@
 - pkg:composer/codedor/laravel-livewire-forms@v3.0.0
 - pkg:composer/codedor/laravel-livewire-forms@v3.1.0
 - pkg:composer/codedor/laravel-livewire-forms@v4.0.0
+- pkg:composer/codedor/laravel-livewire-forms@v5.0.0

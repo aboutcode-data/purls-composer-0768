@@ -66,5 +66,6 @@
 - pkg:composer/coreshop/storage-list-bundle@4.1.6
 - pkg:composer/coreshop/storage-list-bundle@4.1.7
 - pkg:composer/coreshop/storage-list-bundle@4.1.8
+- pkg:composer/coreshop/storage-list-bundle@4.1.9
 - pkg:composer/coreshop/storage-list-bundle@5.0.0
 - pkg:composer/coreshop/storage-list-bundle@5.0.0-beta.1
