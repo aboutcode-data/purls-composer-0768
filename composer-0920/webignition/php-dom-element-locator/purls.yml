@@ -4,3 +4,5 @@
 - pkg:composer/webignition/php-dom-element-locator@0.4
 - pkg:composer/webignition/php-dom-element-locator@0.5
 - pkg:composer/webignition/php-dom-element-locator@0.6
+- pkg:composer/webignition/php-dom-element-locator@1.0
+- pkg:composer/webignition/php-dom-element-locator@1.1
