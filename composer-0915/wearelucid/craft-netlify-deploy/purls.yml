@@ -1,3 +1,4 @@
 - pkg:composer/wearelucid/craft-netlify-deploy@1.2.0
 - pkg:composer/wearelucid/craft-netlify-deploy@1.2.1
 - pkg:composer/wearelucid/craft-netlify-deploy@1.2.2
+- pkg:composer/wearelucid/craft-netlify-deploy@2.0.0

@@ -50,6 +50,8 @@
 - pkg:composer/vlinde/laravel-bugster@V4.0.11
 - pkg:composer/vlinde/laravel-bugster@V4.0.12
 - pkg:composer/vlinde/laravel-bugster@V4.0.13
+- pkg:composer/vlinde/laravel-bugster@V4.0.14
+- pkg:composer/vlinde/laravel-bugster@V4.0.15
 - pkg:composer/vlinde/laravel-bugster@V4.0.2
 - pkg:composer/vlinde/laravel-bugster@V4.0.3
 - pkg:composer/vlinde/laravel-bugster@V4.0.4

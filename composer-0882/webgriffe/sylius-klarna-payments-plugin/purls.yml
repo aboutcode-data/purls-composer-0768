@@ -5,3 +5,4 @@
 - pkg:composer/webgriffe/sylius-klarna-payments-plugin@v1.0.2
 - pkg:composer/webgriffe/sylius-klarna-payments-plugin@v1.0.3
 - pkg:composer/webgriffe/sylius-klarna-payments-plugin@v1.0.4
+- pkg:composer/webgriffe/sylius-klarna-payments-plugin@v2.0.0
