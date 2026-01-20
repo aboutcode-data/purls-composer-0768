@@ -1,6 +1,7 @@
 - pkg:composer/cedx/lcov@10.0.0
 - pkg:composer/cedx/lcov@10.1.0
 - pkg:composer/cedx/lcov@11.0.0
+- pkg:composer/cedx/lcov@12.0.0
 - pkg:composer/cedx/lcov@8.3.0
 - pkg:composer/cedx/lcov@9.0.0
 - pkg:composer/cedx/lcov@v0.1.0
