@@ -67,6 +67,7 @@
 - pkg:composer/backstage/laravel-users@v1.1.51
 - pkg:composer/backstage/laravel-users@v1.1.52
 - pkg:composer/backstage/laravel-users@v1.1.53
+- pkg:composer/backstage/laravel-users@v1.1.54
 - pkg:composer/backstage/laravel-users@v2.0.0-beta1
 - pkg:composer/backstage/laravel-users@v2.0.0-beta10
 - pkg:composer/backstage/laravel-users@v2.0.0-beta11
