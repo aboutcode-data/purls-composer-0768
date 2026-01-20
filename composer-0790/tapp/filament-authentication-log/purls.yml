@@ -13,3 +13,4 @@
 - pkg:composer/tapp/filament-authentication-log@v4.0.3
 - pkg:composer/tapp/filament-authentication-log@v5.0.0
 - pkg:composer/tapp/filament-authentication-log@v5.0.1
+- pkg:composer/tapp/filament-authentication-log@v5.0.2

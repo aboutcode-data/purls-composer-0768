@@ -10,3 +10,7 @@
 - pkg:composer/stacktracer/stacktracer-symfony@v1.3.0
 - pkg:composer/stacktracer/stacktracer-symfony@v1.4.0
 - pkg:composer/stacktracer/stacktracer-symfony@v1.5.0
+- pkg:composer/stacktracer/stacktracer-symfony@v1.6.0
+- pkg:composer/stacktracer/stacktracer-symfony@v1.7.0
+- pkg:composer/stacktracer/stacktracer-symfony@v1.8.0
+- pkg:composer/stacktracer/stacktracer-symfony@v1.9.0
