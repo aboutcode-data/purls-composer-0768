@@ -2,6 +2,7 @@
 - pkg:composer/drupal/cms_cpanel@1.2.0-rc1
 - pkg:composer/drupal/cms_cpanel@1.2.1
 - pkg:composer/drupal/cms_cpanel@1.2.10
+- pkg:composer/drupal/cms_cpanel@1.2.11
 - pkg:composer/drupal/cms_cpanel@1.2.2
 - pkg:composer/drupal/cms_cpanel@1.2.3
 - pkg:composer/drupal/cms_cpanel@1.2.4
@@ -14,3 +15,4 @@
 - pkg:composer/drupal/cms_cpanel@2.0.0-alpha2
 - pkg:composer/drupal/cms_cpanel@2.0.0-beta1
 - pkg:composer/drupal/cms_cpanel@2.0.0-beta2
+- pkg:composer/drupal/cms_cpanel@2.0.0-rc1
