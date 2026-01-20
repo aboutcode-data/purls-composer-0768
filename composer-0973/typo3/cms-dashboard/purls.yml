@@ -131,6 +131,7 @@
 - pkg:composer/typo3/cms-dashboard@v12.4.4
 - pkg:composer/typo3/cms-dashboard@v12.4.40
 - pkg:composer/typo3/cms-dashboard@v12.4.41
+- pkg:composer/typo3/cms-dashboard@v12.4.42
 - pkg:composer/typo3/cms-dashboard@v12.4.5
 - pkg:composer/typo3/cms-dashboard@v12.4.6
 - pkg:composer/typo3/cms-dashboard@v12.4.7
@@ -160,6 +161,7 @@
 - pkg:composer/typo3/cms-dashboard@v13.4.21
 - pkg:composer/typo3/cms-dashboard@v13.4.22
 - pkg:composer/typo3/cms-dashboard@v13.4.23
+- pkg:composer/typo3/cms-dashboard@v13.4.24
 - pkg:composer/typo3/cms-dashboard@v13.4.3
 - pkg:composer/typo3/cms-dashboard@v13.4.4
 - pkg:composer/typo3/cms-dashboard@v13.4.5
@@ -170,3 +172,4 @@
 - pkg:composer/typo3/cms-dashboard@v14.0.0
 - pkg:composer/typo3/cms-dashboard@v14.0.1
 - pkg:composer/typo3/cms-dashboard@v14.0.2
+- pkg:composer/typo3/cms-dashboard@v14.1.0

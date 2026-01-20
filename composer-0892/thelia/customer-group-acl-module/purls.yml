@@ -5,3 +5,4 @@
 - pkg:composer/thelia/customer-group-acl-module@0.2.1
 - pkg:composer/thelia/customer-group-acl-module@0.2.2
 - pkg:composer/thelia/customer-group-acl-module@0.2.3
+- pkg:composer/thelia/customer-group-acl-module@0.3.0
