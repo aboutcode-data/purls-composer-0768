@@ -67,6 +67,17 @@
 - pkg:composer/motor-cms/motor-media@2025.50.2-RC
 - pkg:composer/motor-cms/motor-media@2026.2.0
 - pkg:composer/motor-cms/motor-media@2026.4.0-RC
+- pkg:composer/motor-cms/motor-media@2026.4.1-RC
+- pkg:composer/motor-cms/motor-media@2026.4.10-RC
+- pkg:composer/motor-cms/motor-media@2026.4.11-RC
+- pkg:composer/motor-cms/motor-media@2026.4.2-RC
+- pkg:composer/motor-cms/motor-media@2026.4.3-RC
+- pkg:composer/motor-cms/motor-media@2026.4.4-RC
+- pkg:composer/motor-cms/motor-media@2026.4.5-RC
+- pkg:composer/motor-cms/motor-media@2026.4.6-RC
+- pkg:composer/motor-cms/motor-media@2026.4.7-RC
+- pkg:composer/motor-cms/motor-media@2026.4.8-RC
+- pkg:composer/motor-cms/motor-media@2026.4.9-RC
 - pkg:composer/motor-cms/motor-media@3.0.2
 - pkg:composer/motor-cms/motor-media@3.1.1
 - pkg:composer/motor-cms/motor-media@3.10.0
