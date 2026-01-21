@@ -143,6 +143,7 @@
 - pkg:composer/coreshop/core-shop@4.1.6
 - pkg:composer/coreshop/core-shop@4.1.7
 - pkg:composer/coreshop/core-shop@4.1.8
+- pkg:composer/coreshop/core-shop@4.1.9
 - pkg:composer/coreshop/core-shop@5.0.0
 - pkg:composer/coreshop/core-shop@5.0.0-beta.1
 - pkg:composer/coreshop/core-shop@v0.2

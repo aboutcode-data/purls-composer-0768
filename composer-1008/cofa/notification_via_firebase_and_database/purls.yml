@@ -4,3 +4,4 @@
 - pkg:composer/cofa/notification_via_firebase_and_database@v1.0.3
 - pkg:composer/cofa/notification_via_firebase_and_database@v1.1.0
 - pkg:composer/cofa/notification_via_firebase_and_database@v1.1.1
+- pkg:composer/cofa/notification_via_firebase_and_database@v1.1.2
