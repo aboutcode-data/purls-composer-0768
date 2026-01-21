@@ -55,6 +55,7 @@
 - pkg:composer/bo-hub/ci-hub-api-bundle@3.0.22
 - pkg:composer/bo-hub/ci-hub-api-bundle@3.0.23
 - pkg:composer/bo-hub/ci-hub-api-bundle@3.0.24
+- pkg:composer/bo-hub/ci-hub-api-bundle@3.0.25
 - pkg:composer/bo-hub/ci-hub-api-bundle@3.0.3
 - pkg:composer/bo-hub/ci-hub-api-bundle@3.0.4
 - pkg:composer/bo-hub/ci-hub-api-bundle@3.0.5

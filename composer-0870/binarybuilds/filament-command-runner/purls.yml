@@ -1,3 +1,4 @@
 - pkg:composer/binarybuilds/filament-command-runner@v1.0.0
 - pkg:composer/binarybuilds/filament-command-runner@v1.1.0
 - pkg:composer/binarybuilds/filament-command-runner@v1.1.1
+- pkg:composer/binarybuilds/filament-command-runner@v1.2.0
