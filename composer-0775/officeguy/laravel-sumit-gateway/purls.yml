@@ -67,3 +67,9 @@
 - pkg:composer/officeguy/laravel-sumit-gateway@v1.8.8
 - pkg:composer/officeguy/laravel-sumit-gateway@v1.8.9
 - pkg:composer/officeguy/laravel-sumit-gateway@v1.9.0
+- pkg:composer/officeguy/laravel-sumit-gateway@v2.0.0
+- pkg:composer/officeguy/laravel-sumit-gateway@v2.0.1
+- pkg:composer/officeguy/laravel-sumit-gateway@v2.1.0
+- pkg:composer/officeguy/laravel-sumit-gateway@v2.2.0
+- pkg:composer/officeguy/laravel-sumit-gateway@v2.2.1
+- pkg:composer/officeguy/laravel-sumit-gateway@v2.3.0

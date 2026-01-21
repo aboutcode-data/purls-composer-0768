@@ -23,3 +23,5 @@
 - pkg:composer/openfed/kiso@3.1.1
 - pkg:composer/openfed/kiso@3.1.2
 - pkg:composer/openfed/kiso@4.0.0
+- pkg:composer/openfed/kiso@4.0.1
+- pkg:composer/openfed/kiso@5.0.0
