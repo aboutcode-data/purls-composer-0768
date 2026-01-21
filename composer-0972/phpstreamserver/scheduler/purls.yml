@@ -6,3 +6,4 @@
 - pkg:composer/phpstreamserver/scheduler@v0.6.0
 - pkg:composer/phpstreamserver/scheduler@v0.7.0
 - pkg:composer/phpstreamserver/scheduler@v0.8.0
+- pkg:composer/phpstreamserver/scheduler@v0.8.1

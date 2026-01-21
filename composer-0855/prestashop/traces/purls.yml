@@ -59,6 +59,7 @@
 - pkg:composer/prestashop/traces@v6.2.40
 - pkg:composer/prestashop/traces@v6.2.41
 - pkg:composer/prestashop/traces@v6.2.42
+- pkg:composer/prestashop/traces@v6.2.43
 - pkg:composer/prestashop/traces@v6.2.5
 - pkg:composer/prestashop/traces@v6.2.6
 - pkg:composer/prestashop/traces@v6.2.7

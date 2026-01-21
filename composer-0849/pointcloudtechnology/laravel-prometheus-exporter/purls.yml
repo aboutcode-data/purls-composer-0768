@@ -11,3 +11,4 @@
 - pkg:composer/pointcloudtechnology/laravel-prometheus-exporter@1.2.0
 - pkg:composer/pointcloudtechnology/laravel-prometheus-exporter@v2.0.0
 - pkg:composer/pointcloudtechnology/laravel-prometheus-exporter@v2.0.1
+- pkg:composer/pointcloudtechnology/laravel-prometheus-exporter@v2.0.2
