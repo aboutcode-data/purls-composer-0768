@@ -95,3 +95,4 @@
 - pkg:composer/govcms-poc/govcms@4.0.0
 - pkg:composer/govcms-poc/govcms@4.0.0-beta
 - pkg:composer/govcms-poc/govcms@4.0.0-beta2
+- pkg:composer/govcms-poc/govcms@4.1.0
