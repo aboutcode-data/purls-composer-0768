@@ -1,5 +1,6 @@
 - pkg:composer/pdffiller/laravel-queue-qless@v1.0.0
 - pkg:composer/pdffiller/laravel-queue-qless@v1.1.0
+- pkg:composer/pdffiller/laravel-queue-qless@v1.10.0
 - pkg:composer/pdffiller/laravel-queue-qless@v1.2.0
 - pkg:composer/pdffiller/laravel-queue-qless@v1.3.0
 - pkg:composer/pdffiller/laravel-queue-qless@v1.4.0
