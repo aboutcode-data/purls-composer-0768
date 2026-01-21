@@ -12,3 +12,4 @@
 - pkg:composer/wigner/simplesamlphp-module-totp@v1.3.0
 - pkg:composer/wigner/simplesamlphp-module-totp@v1.3.1
 - pkg:composer/wigner/simplesamlphp-module-totp@v1.3.2
+- pkg:composer/wigner/simplesamlphp-module-totp@v1.3.3
