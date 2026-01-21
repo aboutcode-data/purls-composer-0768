@@ -2,6 +2,7 @@
 - pkg:composer/mayflower/mo4-coding-standard@v10.0.0
 - pkg:composer/mayflower/mo4-coding-standard@v10.0.1
 - pkg:composer/mayflower/mo4-coding-standard@v10.0.2
+- pkg:composer/mayflower/mo4-coding-standard@v11.0.0
 - pkg:composer/mayflower/mo4-coding-standard@v2.0.0
 - pkg:composer/mayflower/mo4-coding-standard@v2.1.0
 - pkg:composer/mayflower/mo4-coding-standard@v2.1.1

@@ -67,6 +67,7 @@
 - pkg:composer/mautic/plugin-cloudstorage@6.0.5
 - pkg:composer/mautic/plugin-cloudstorage@6.0.6
 - pkg:composer/mautic/plugin-cloudstorage@6.0.7
+- pkg:composer/mautic/plugin-cloudstorage@7.0.0
 - pkg:composer/mautic/plugin-cloudstorage@7.0.0-alpha
 - pkg:composer/mautic/plugin-cloudstorage@7.0.0-beta
 - pkg:composer/mautic/plugin-cloudstorage@7.0.0-rc

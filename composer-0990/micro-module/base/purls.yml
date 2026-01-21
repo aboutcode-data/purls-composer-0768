@@ -1,5 +1,6 @@
 - pkg:composer/micro-module/base@v0.10.0
 - pkg:composer/micro-module/base@v0.11.0
+- pkg:composer/micro-module/base@v0.12.0
 - pkg:composer/micro-module/base@v0.4.0
 - pkg:composer/micro-module/base@v0.4.1
 - pkg:composer/micro-module/base@v0.5.0

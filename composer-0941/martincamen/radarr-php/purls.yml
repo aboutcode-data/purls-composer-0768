@@ -8,3 +8,5 @@
 - pkg:composer/martincamen/radarr-php@0.0.8
 - pkg:composer/martincamen/radarr-php@0.0.9
 - pkg:composer/martincamen/radarr-php@0.1.0
+- pkg:composer/martincamen/radarr-php@0.1.1
+- pkg:composer/martincamen/radarr-php@0.1.2

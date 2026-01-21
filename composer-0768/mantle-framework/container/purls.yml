@@ -64,6 +64,7 @@
 - pkg:composer/mantle-framework/container@v1.14.1
 - pkg:composer/mantle-framework/container@v1.15.0
 - pkg:composer/mantle-framework/container@v1.16.0
+- pkg:composer/mantle-framework/container@v1.17.0
 - pkg:composer/mantle-framework/container@v1.2.0
 - pkg:composer/mantle-framework/container@v1.3.0
 - pkg:composer/mantle-framework/container@v1.3.1
