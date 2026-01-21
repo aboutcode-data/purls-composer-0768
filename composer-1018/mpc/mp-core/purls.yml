@@ -1,6 +1,10 @@
 - pkg:composer/mpc/mp-core@1.0.26
 - pkg:composer/mpc/mp-core@1.0.27
 - pkg:composer/mpc/mp-core@1.0.28
+- pkg:composer/mpc/mp-core@1.0.42
+- pkg:composer/mpc/mp-core@1.0.43
+- pkg:composer/mpc/mp-core@1.0.44
+- pkg:composer/mpc/mp-core@1.0.45
 - pkg:composer/mpc/mp-core@v1.0.10
 - pkg:composer/mpc/mp-core@v1.0.11
 - pkg:composer/mpc/mp-core@v1.0.12
@@ -29,6 +33,7 @@
 - pkg:composer/mpc/mp-core@v1.0.38
 - pkg:composer/mpc/mp-core@v1.0.39
 - pkg:composer/mpc/mp-core@v1.0.40
+- pkg:composer/mpc/mp-core@v1.0.41
 - pkg:composer/mpc/mp-core@v1.0.5
 - pkg:composer/mpc/mp-core@v1.0.6
 - pkg:composer/mpc/mp-core@v1.0.7

@@ -6,6 +6,10 @@
 - pkg:composer/moawiaab/laravel-theme@1.9.1
 - pkg:composer/moawiaab/laravel-theme@1.9.2
 - pkg:composer/moawiaab/laravel-theme@1.9.3
+- pkg:composer/moawiaab/laravel-theme@1.9.4
+- pkg:composer/moawiaab/laravel-theme@1.9.6
+- pkg:composer/moawiaab/laravel-theme@1.9.7
+- pkg:composer/moawiaab/laravel-theme@19.5
 - pkg:composer/moawiaab/laravel-theme@v1.4.3
 - pkg:composer/moawiaab/laravel-theme@v1.5.0
 - pkg:composer/moawiaab/laravel-theme@v1.5.1

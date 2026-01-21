@@ -136,3 +136,4 @@
 - pkg:composer/mollie/magento2@2.9.0
 - pkg:composer/mollie/magento2@v0.9.5
 - pkg:composer/mollie/magento2@v0.9.6
+- pkg:composer/mollie/magento2@v3.0.0-RC2
