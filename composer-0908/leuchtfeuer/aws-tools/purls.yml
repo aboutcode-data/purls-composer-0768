@@ -13,3 +13,4 @@
 - pkg:composer/leuchtfeuer/aws-tools@v12.0.0
 - pkg:composer/leuchtfeuer/aws-tools@v12.0.1
 - pkg:composer/leuchtfeuer/aws-tools@v12.0.2
+- pkg:composer/leuchtfeuer/aws-tools@v13.0.0
