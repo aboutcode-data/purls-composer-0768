@@ -125,6 +125,16 @@
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.76.27
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.76.29
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.76.31
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.76.33
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.76.35
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.76.4
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.76.6
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.76.9
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.77.0
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.77.10
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.77.11
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.77.13
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.77.2
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.77.4
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.77.6
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.77.8
