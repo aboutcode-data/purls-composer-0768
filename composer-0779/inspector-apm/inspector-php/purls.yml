@@ -113,6 +113,7 @@
 - pkg:composer/inspector-apm/inspector-php@3.16.3
 - pkg:composer/inspector-apm/inspector-php@3.16.4
 - pkg:composer/inspector-apm/inspector-php@3.16.5
+- pkg:composer/inspector-apm/inspector-php@3.16.6
 - pkg:composer/inspector-apm/inspector-php@3.2.0
 - pkg:composer/inspector-apm/inspector-php@3.2.1
 - pkg:composer/inspector-apm/inspector-php@3.2.10
