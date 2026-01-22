@@ -40,3 +40,4 @@
 - pkg:composer/hawksearch/datafeed@2.7.1
 - pkg:composer/hawksearch/datafeed@2.8.0
 - pkg:composer/hawksearch/datafeed@2.8.1
+- pkg:composer/hawksearch/datafeed@2.8.2
