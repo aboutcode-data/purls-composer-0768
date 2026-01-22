@@ -57,3 +57,4 @@
 - pkg:composer/acquia/sitestudio_contenthub@8.2.1
 - pkg:composer/acquia/sitestudio_contenthub@8.2.1-rc1
 - pkg:composer/acquia/sitestudio_contenthub@8.2.2
+- pkg:composer/acquia/sitestudio_contenthub@8.2.3
