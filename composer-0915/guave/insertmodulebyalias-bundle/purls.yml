@@ -5,3 +5,4 @@
 - pkg:composer/guave/insertmodulebyalias-bundle@1.3.0
 - pkg:composer/guave/insertmodulebyalias-bundle@2.0.0
 - pkg:composer/guave/insertmodulebyalias-bundle@2.0.1
+- pkg:composer/guave/insertmodulebyalias-bundle@3.0.0
