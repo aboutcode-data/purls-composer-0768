@@ -79,3 +79,5 @@
 - pkg:composer/kaspi/di-container@v3.9.1
 - pkg:composer/kaspi/di-container@v3.9.2
 - pkg:composer/kaspi/di-container@v3.9.3
+- pkg:composer/kaspi/di-container@v4.0.0
+- pkg:composer/kaspi/di-container@v4.0.1

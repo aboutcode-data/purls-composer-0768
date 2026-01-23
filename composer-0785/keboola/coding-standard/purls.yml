@@ -9,6 +9,7 @@
 - pkg:composer/keboola/coding-standard@15.1.0
 - pkg:composer/keboola/coding-standard@15.2.0
 - pkg:composer/keboola/coding-standard@16.0.0
+- pkg:composer/keboola/coding-standard@16.1.0
 - pkg:composer/keboola/coding-standard@2.0.0
 - pkg:composer/keboola/coding-standard@3.0.0
 - pkg:composer/keboola/coding-standard@4.0.0
