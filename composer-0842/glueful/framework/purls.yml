@@ -8,6 +8,8 @@
 - pkg:composer/glueful/framework@v1.15.0
 - pkg:composer/glueful/framework@v1.17.0
 - pkg:composer/glueful/framework@v1.18.0
+- pkg:composer/glueful/framework@v1.19.0
+- pkg:composer/glueful/framework@v1.19.1
 - pkg:composer/glueful/framework@v1.2.0
 - pkg:composer/glueful/framework@v1.3.0
 - pkg:composer/glueful/framework@v1.3.1
