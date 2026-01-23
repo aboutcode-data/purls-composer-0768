@@ -10,3 +10,4 @@
 - pkg:composer/codeception/module-phpbrowser@3.0.0
 - pkg:composer/codeception/module-phpbrowser@3.0.1
 - pkg:composer/codeception/module-phpbrowser@3.0.2
+- pkg:composer/codeception/module-phpbrowser@4.0.0
