@@ -1,1 +1,2 @@
 - pkg:composer/betterauth/symfony-bundle@v0.0.2
+- pkg:composer/betterauth/symfony-bundle@v0.0.3
