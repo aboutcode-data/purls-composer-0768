@@ -33,3 +33,6 @@
 - pkg:composer/jameron/plaid@5.1
 - pkg:composer/jameron/plaid@5.2
 - pkg:composer/jameron/plaid@6.0
+- pkg:composer/jameron/plaid@8.0
+- pkg:composer/jameron/plaid@9.0
+- pkg:composer/jameron/plaid@v7.0.0

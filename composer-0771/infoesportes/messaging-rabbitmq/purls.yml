@@ -1,0 +1,4 @@
+- pkg:composer/infoesportes/messaging-rabbitmq@v1.0.0
+- pkg:composer/infoesportes/messaging-rabbitmq@v1.0.1
+- pkg:composer/infoesportes/messaging-rabbitmq@v1.0.2
+- pkg:composer/infoesportes/messaging-rabbitmq@v1.0.3
