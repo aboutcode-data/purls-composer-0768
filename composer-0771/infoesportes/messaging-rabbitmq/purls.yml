@@ -2,3 +2,8 @@
 - pkg:composer/infoesportes/messaging-rabbitmq@v1.0.1
 - pkg:composer/infoesportes/messaging-rabbitmq@v1.0.2
 - pkg:composer/infoesportes/messaging-rabbitmq@v1.0.3
+- pkg:composer/infoesportes/messaging-rabbitmq@v1.0.4
+- pkg:composer/infoesportes/messaging-rabbitmq@v1.0.5
+- pkg:composer/infoesportes/messaging-rabbitmq@v1.0.6
+- pkg:composer/infoesportes/messaging-rabbitmq@v1.0.7
+- pkg:composer/infoesportes/messaging-rabbitmq@v1.0.8
