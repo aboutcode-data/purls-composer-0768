@@ -114,6 +114,7 @@
 - pkg:composer/log-engine/logengine-php@3.16.4
 - pkg:composer/log-engine/logengine-php@3.16.5
 - pkg:composer/log-engine/logengine-php@3.16.6
+- pkg:composer/log-engine/logengine-php@3.16.7
 - pkg:composer/log-engine/logengine-php@3.2.0
 - pkg:composer/log-engine/logengine-php@3.2.1
 - pkg:composer/log-engine/logengine-php@3.2.10
