@@ -23,3 +23,5 @@
 - pkg:composer/arillo/silverstripe-arbitrarysettings@3.0.1
 - pkg:composer/arillo/silverstripe-arbitrarysettings@3.0.2
 - pkg:composer/arillo/silverstripe-arbitrarysettings@3.0.3
+- pkg:composer/arillo/silverstripe-arbitrarysettings@4.0.0
+- pkg:composer/arillo/silverstripe-arbitrarysettings@4.0.1
