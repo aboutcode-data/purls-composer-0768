@@ -5,3 +5,4 @@
 - pkg:composer/ex-akt/contao-webpack-config-bundle@1.2
 - pkg:composer/ex-akt/contao-webpack-config-bundle@1.2.1
 - pkg:composer/ex-akt/contao-webpack-config-bundle@2.0.0
+- pkg:composer/ex-akt/contao-webpack-config-bundle@2.0.1

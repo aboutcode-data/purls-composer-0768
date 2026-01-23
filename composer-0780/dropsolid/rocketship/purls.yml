@@ -65,6 +65,7 @@
 - pkg:composer/dropsolid/rocketship@11.2.0
 - pkg:composer/dropsolid/rocketship@11.2.1
 - pkg:composer/dropsolid/rocketship@11.2.2
+- pkg:composer/dropsolid/rocketship@11.3.2
 - pkg:composer/dropsolid/rocketship@2.0.0-alpha21
 - pkg:composer/dropsolid/rocketship@8.7.0-beta1
 - pkg:composer/dropsolid/rocketship@8.7.0-beta10
