@@ -102,3 +102,4 @@
 - pkg:composer/ppast/webadmin_console@1.4.8
 - pkg:composer/ppast/webadmin_console@1.4.9
 - pkg:composer/ppast/webadmin_console@1.5.0
+- pkg:composer/ppast/webadmin_console@1.5.1

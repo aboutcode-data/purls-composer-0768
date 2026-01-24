@@ -66,3 +66,4 @@
 - pkg:composer/plugs/plugs@v3.1.4
 - pkg:composer/plugs/plugs@v3.1.5
 - pkg:composer/plugs/plugs@v3.1.6
+- pkg:composer/plugs/plugs@v3.1.7
