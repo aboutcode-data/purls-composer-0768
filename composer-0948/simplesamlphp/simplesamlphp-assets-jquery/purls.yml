@@ -1,6 +1,9 @@
 - pkg:composer/simplesamlphp/simplesamlphp-assets-jquery@v2.1.0
 - pkg:composer/simplesamlphp/simplesamlphp-assets-jquery@v2.2.0
 - pkg:composer/simplesamlphp/simplesamlphp-assets-jquery@v2.3.0
+- pkg:composer/simplesamlphp/simplesamlphp-assets-jquery@v2.3.1
 - pkg:composer/simplesamlphp/simplesamlphp-assets-jquery@v2.4.0
+- pkg:composer/simplesamlphp/simplesamlphp-assets-jquery@v2.4.1
 - pkg:composer/simplesamlphp/simplesamlphp-assets-jquery@v2.5.0
 - pkg:composer/simplesamlphp/simplesamlphp-assets-jquery@v2.5.1
+- pkg:composer/simplesamlphp/simplesamlphp-assets-jquery@v2.5.2

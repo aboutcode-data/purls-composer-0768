@@ -4,3 +4,4 @@
 - pkg:composer/saas-laravel/laravel-plain-sqs@1.1.0
 - pkg:composer/saas-laravel/laravel-plain-sqs@1.2.0
 - pkg:composer/saas-laravel/laravel-plain-sqs@2.0.0
+- pkg:composer/saas-laravel/laravel-plain-sqs@3.0.0

@@ -1,11 +1,11 @@
 - pkg:composer/sanix-darker/cisv@0.0.63
 - pkg:composer/sanix-darker/cisv@0.0.64
-- pkg:composer/sanix-darker/cisv@0.0.70
 - pkg:composer/sanix-darker/cisv@v0.0.61
 - pkg:composer/sanix-darker/cisv@v0.0.65
 - pkg:composer/sanix-darker/cisv@v0.0.66
 - pkg:composer/sanix-darker/cisv@v0.0.67
 - pkg:composer/sanix-darker/cisv@v0.0.69
+- pkg:composer/sanix-darker/cisv@v0.0.70
 - pkg:composer/sanix-darker/cisv@v0.0.71
 - pkg:composer/sanix-darker/cisv@v0.0.72
 - pkg:composer/sanix-darker/cisv@v0.0.73
@@ -26,3 +26,10 @@
 - pkg:composer/sanix-darker/cisv@v0.1.6
 - pkg:composer/sanix-darker/cisv@v0.1.7
 - pkg:composer/sanix-darker/cisv@v0.1.8
+- pkg:composer/sanix-darker/cisv@v0.1.9
+- pkg:composer/sanix-darker/cisv@v0.2.0
+- pkg:composer/sanix-darker/cisv@v0.2.1
+- pkg:composer/sanix-darker/cisv@v0.2.2
+- pkg:composer/sanix-darker/cisv@v0.2.3
+- pkg:composer/sanix-darker/cisv@v0.2.4
+- pkg:composer/sanix-darker/cisv@v0.2.5
