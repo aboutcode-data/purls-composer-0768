@@ -9,3 +9,4 @@
 - pkg:composer/monbillet/api-client@1.2.4
 - pkg:composer/monbillet/api-client@1.2.5
 - pkg:composer/monbillet/api-client@2.0.0
+- pkg:composer/monbillet/api-client@2.1.0

@@ -33,3 +33,5 @@
 - pkg:composer/mostbyte/auth@3.2.5
 - pkg:composer/mostbyte/auth@3.2.6
 - pkg:composer/mostbyte/auth@3.2.7
+- pkg:composer/mostbyte/auth@4.0.0
+- pkg:composer/mostbyte/auth@4.1.0
