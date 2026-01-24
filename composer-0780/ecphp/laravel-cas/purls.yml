@@ -2,3 +2,4 @@
 - pkg:composer/ecphp/laravel-cas@0.0.2
 - pkg:composer/ecphp/laravel-cas@1.0.0
 - pkg:composer/ecphp/laravel-cas@1.1.0
+- pkg:composer/ecphp/laravel-cas@2.0.0
