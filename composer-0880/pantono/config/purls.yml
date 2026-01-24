@@ -1,6 +1,7 @@
 - pkg:composer/pantono/config@1.0.0
 - pkg:composer/pantono/config@1.0.1
 - pkg:composer/pantono/config@1.0.10
+- pkg:composer/pantono/config@1.0.11
 - pkg:composer/pantono/config@1.0.2
 - pkg:composer/pantono/config@1.0.3
 - pkg:composer/pantono/config@1.0.4

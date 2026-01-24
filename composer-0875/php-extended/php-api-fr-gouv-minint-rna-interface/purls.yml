@@ -36,6 +36,8 @@
 - pkg:composer/php-extended/php-api-fr-gouv-minint-rna-interface@8.0.1
 - pkg:composer/php-extended/php-api-fr-gouv-minint-rna-interface@8.0.10
 - pkg:composer/php-extended/php-api-fr-gouv-minint-rna-interface@8.0.11
+- pkg:composer/php-extended/php-api-fr-gouv-minint-rna-interface@8.0.12
+- pkg:composer/php-extended/php-api-fr-gouv-minint-rna-interface@8.0.13
 - pkg:composer/php-extended/php-api-fr-gouv-minint-rna-interface@8.0.2
 - pkg:composer/php-extended/php-api-fr-gouv-minint-rna-interface@8.0.3
 - pkg:composer/php-extended/php-api-fr-gouv-minint-rna-interface@8.0.4

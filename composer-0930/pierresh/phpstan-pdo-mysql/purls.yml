@@ -10,6 +10,7 @@
 - pkg:composer/pierresh/phpstan-pdo-mysql@1.0.19
 - pkg:composer/pierresh/phpstan-pdo-mysql@1.0.2
 - pkg:composer/pierresh/phpstan-pdo-mysql@1.0.20
+- pkg:composer/pierresh/phpstan-pdo-mysql@1.0.21
 - pkg:composer/pierresh/phpstan-pdo-mysql@1.0.3
 - pkg:composer/pierresh/phpstan-pdo-mysql@1.0.4
 - pkg:composer/pierresh/phpstan-pdo-mysql@1.0.5

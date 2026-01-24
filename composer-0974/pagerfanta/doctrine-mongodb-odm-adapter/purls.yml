@@ -36,3 +36,4 @@
 - pkg:composer/pagerfanta/doctrine-mongodb-odm-adapter@v4.7.0
 - pkg:composer/pagerfanta/doctrine-mongodb-odm-adapter@v4.7.1
 - pkg:composer/pagerfanta/doctrine-mongodb-odm-adapter@v4.7.2
+- pkg:composer/pagerfanta/doctrine-mongodb-odm-adapter@v4.8.0

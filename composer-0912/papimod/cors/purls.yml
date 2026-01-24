@@ -1,1 +1,4 @@
+- pkg:composer/papimod/cors@v1.0.0
+- pkg:composer/papimod/cors@v1.0.1
+- pkg:composer/papimod/cors@v1.0.2
 - pkg:composer/papimod/cors@v2.1.0

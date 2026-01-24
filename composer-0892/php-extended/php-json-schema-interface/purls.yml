@@ -35,3 +35,5 @@
 - pkg:composer/php-extended/php-json-schema-interface@8.2.4
 - pkg:composer/php-extended/php-json-schema-interface@8.2.5
 - pkg:composer/php-extended/php-json-schema-interface@8.2.6
+- pkg:composer/php-extended/php-json-schema-interface@8.2.7
+- pkg:composer/php-extended/php-json-schema-interface@8.2.8

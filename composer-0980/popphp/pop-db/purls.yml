@@ -126,3 +126,4 @@
 - pkg:composer/popphp/pop-db@6.8.0
 - pkg:composer/popphp/pop-db@6.8.1
 - pkg:composer/popphp/pop-db@6.8.2
+- pkg:composer/popphp/pop-db@6.8.3
