@@ -53,3 +53,5 @@
 - pkg:composer/net-tools/simple_framework@1.1.8
 - pkg:composer/net-tools/simple_framework@1.1.9
 - pkg:composer/net-tools/simple_framework@1.2.0
+- pkg:composer/net-tools/simple_framework@1.3.0
+- pkg:composer/net-tools/simple_framework@1.3.1

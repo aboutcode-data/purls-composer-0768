@@ -1013,6 +1013,7 @@
 - pkg:composer/oat-sa/tao-core@v55.0.0
 - pkg:composer/oat-sa/tao-core@v55.0.1
 - pkg:composer/oat-sa/tao-core@v55.1.0
+- pkg:composer/oat-sa/tao-core@v55.2.0
 - pkg:composer/oat-sa/tao-core@v7.0.0
 - pkg:composer/oat-sa/tao-core@v7.10.1
 - pkg:composer/oat-sa/tao-core@v7.11.0

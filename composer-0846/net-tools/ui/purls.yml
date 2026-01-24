@@ -54,3 +54,4 @@
 - pkg:composer/net-tools/ui@1.4.8
 - pkg:composer/net-tools/ui@1.4.9
 - pkg:composer/net-tools/ui@1.5.0
+- pkg:composer/net-tools/ui@1.6.0

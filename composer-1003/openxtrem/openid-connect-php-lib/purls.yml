@@ -13,3 +13,4 @@
 - pkg:composer/openxtrem/openid-connect-php-lib@4.0.1
 - pkg:composer/openxtrem/openid-connect-php-lib@4.0.2
 - pkg:composer/openxtrem/openid-connect-php-lib@4.0.3
+- pkg:composer/openxtrem/openid-connect-php-lib@4.0.4

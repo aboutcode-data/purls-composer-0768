@@ -40,5 +40,6 @@
 - pkg:composer/oxid-solution-catalysts/paypal-client@v3.0.17
 - pkg:composer/oxid-solution-catalysts/paypal-client@v3.0.18
 - pkg:composer/oxid-solution-catalysts/paypal-client@v3.0.19
+- pkg:composer/oxid-solution-catalysts/paypal-client@v3.0.20
 - pkg:composer/oxid-solution-catalysts/paypal-client@v3.0.8
 - pkg:composer/oxid-solution-catalysts/paypal-client@v3.0.9

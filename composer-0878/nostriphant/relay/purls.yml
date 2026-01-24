@@ -8,6 +8,8 @@
 - pkg:composer/nostriphant/relay@1.4.0
 - pkg:composer/nostriphant/relay@1.4.1
 - pkg:composer/nostriphant/relay@1.4.10
+- pkg:composer/nostriphant/relay@1.4.11
+- pkg:composer/nostriphant/relay@1.4.12
 - pkg:composer/nostriphant/relay@1.4.2
 - pkg:composer/nostriphant/relay@1.4.3
 - pkg:composer/nostriphant/relay@1.4.4
@@ -16,3 +18,11 @@
 - pkg:composer/nostriphant/relay@1.4.7
 - pkg:composer/nostriphant/relay@1.4.8
 - pkg:composer/nostriphant/relay@1.4.9
+- pkg:composer/nostriphant/relay@1.5.0
+- pkg:composer/nostriphant/relay@1.5.1
+- pkg:composer/nostriphant/relay@1.5.2
+- pkg:composer/nostriphant/relay@2.0.0
+- pkg:composer/nostriphant/relay@2.0.1
+- pkg:composer/nostriphant/relay@2.0.2
+- pkg:composer/nostriphant/relay@2.1.0
+- pkg:composer/nostriphant/relay@2.1.1
