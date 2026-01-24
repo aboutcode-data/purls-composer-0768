@@ -2,3 +2,4 @@
 - pkg:composer/super-kernel/contract@v0.0.2
 - pkg:composer/super-kernel/contract@v0.0.3
 - pkg:composer/super-kernel/contract@v1.0.0
+- pkg:composer/super-kernel/contract@v1.1.0

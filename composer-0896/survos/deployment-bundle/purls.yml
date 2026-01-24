@@ -500,6 +500,7 @@
 - pkg:composer/survos/deployment-bundle@2.0.105
 - pkg:composer/survos/deployment-bundle@2.0.106
 - pkg:composer/survos/deployment-bundle@2.0.107
+- pkg:composer/survos/deployment-bundle@2.0.108
 - pkg:composer/survos/deployment-bundle@2.0.12
 - pkg:composer/survos/deployment-bundle@2.0.13
 - pkg:composer/survos/deployment-bundle@2.0.14

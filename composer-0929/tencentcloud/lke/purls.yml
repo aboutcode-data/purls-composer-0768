@@ -312,3 +312,5 @@
 - pkg:composer/tencentcloud/lke@3.0.1513
 - pkg:composer/tencentcloud/lke@3.0.1514
 - pkg:composer/tencentcloud/lke@3.0.1520
+- pkg:composer/tencentcloud/lke@3.0.1526
+- pkg:composer/tencentcloud/lke@3.0.1527

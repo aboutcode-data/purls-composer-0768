@@ -22,3 +22,6 @@
 - pkg:composer/tapp/filament-lms@v4.0.7
 - pkg:composer/tapp/filament-lms@v4.0.8
 - pkg:composer/tapp/filament-lms@v4.0.9
+- pkg:composer/tapp/filament-lms@v4.1.0
+- pkg:composer/tapp/filament-lms@v4.1.1
+- pkg:composer/tapp/filament-lms@v4.1.2

@@ -25,6 +25,7 @@
 - pkg:composer/tapp/filament-auditing@v3.1.0
 - pkg:composer/tapp/filament-auditing@v3.1.1
 - pkg:composer/tapp/filament-auditing@v3.1.2
+- pkg:composer/tapp/filament-auditing@v3.1.3
 - pkg:composer/tapp/filament-auditing@v4.0.0
 - pkg:composer/tapp/filament-auditing@v4.0.1
 - pkg:composer/tapp/filament-auditing@v4.0.2
@@ -33,3 +34,4 @@
 - pkg:composer/tapp/filament-auditing@v4.0.5
 - pkg:composer/tapp/filament-auditing@v4.0.6
 - pkg:composer/tapp/filament-auditing@v4.0.7
+- pkg:composer/tapp/filament-auditing@v4.0.8
