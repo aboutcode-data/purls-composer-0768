@@ -1,3 +1,4 @@
 - pkg:composer/larva/laravel-ip2region@1.0.0
 - pkg:composer/larva/laravel-ip2region@1.0.1
 - pkg:composer/larva/laravel-ip2region@1.0.2
+- pkg:composer/larva/laravel-ip2region@1.0.3
