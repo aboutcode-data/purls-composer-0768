@@ -129,6 +129,7 @@
 - pkg:composer/spryker/development@3.5.0
 - pkg:composer/spryker/development@3.5.1
 - pkg:composer/spryker/development@3.50.0
+- pkg:composer/spryker/development@3.50.1
 - pkg:composer/spryker/development@3.6.0
 - pkg:composer/spryker/development@3.6.1
 - pkg:composer/spryker/development@3.6.2

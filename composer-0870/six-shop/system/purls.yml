@@ -32,6 +32,7 @@
 - pkg:composer/six-shop/system@v0.3.30
 - pkg:composer/six-shop/system@v0.3.31
 - pkg:composer/six-shop/system@v0.3.32
+- pkg:composer/six-shop/system@v0.3.33
 - pkg:composer/six-shop/system@v0.3.4
 - pkg:composer/six-shop/system@v0.3.5
 - pkg:composer/six-shop/system@v0.3.6

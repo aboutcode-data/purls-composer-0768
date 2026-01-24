@@ -17,3 +17,4 @@
 - pkg:composer/spryker/glue-backend-api-application@1.5.0
 - pkg:composer/spryker/glue-backend-api-application@1.6.0
 - pkg:composer/spryker/glue-backend-api-application@1.7.0
+- pkg:composer/spryker/glue-backend-api-application@1.8.0

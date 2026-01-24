@@ -32,3 +32,4 @@
 - pkg:composer/sormagec/application-insights-laravel@2.2.5
 - pkg:composer/sormagec/application-insights-laravel@2.2.6
 - pkg:composer/sormagec/application-insights-laravel@3.0.0
+- pkg:composer/sormagec/application-insights-laravel@3.0.1
