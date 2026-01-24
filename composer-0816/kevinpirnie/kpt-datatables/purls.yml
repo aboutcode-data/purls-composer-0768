@@ -1,13 +1,1 @@
-- pkg:composer/kevinpirnie/kpt-datatables@v1.2.33
-- pkg:composer/kevinpirnie/kpt-datatables@v1.2.49
-- pkg:composer/kevinpirnie/kpt-datatables@v1.2.66
-- pkg:composer/kevinpirnie/kpt-datatables@v1.2.88
-- pkg:composer/kevinpirnie/kpt-datatables@v1.2.99
-- pkg:composer/kevinpirnie/kpt-datatables@v1.3.13
-- pkg:composer/kevinpirnie/kpt-datatables@v1.3.24
-- pkg:composer/kevinpirnie/kpt-datatables@v2.0.33
-- pkg:composer/kevinpirnie/kpt-datatables@v2.0.41
-- pkg:composer/kevinpirnie/kpt-datatables@v2.0.66
-- pkg:composer/kevinpirnie/kpt-datatables@v2.0.71
-- pkg:composer/kevinpirnie/kpt-datatables@v2.0.72
-- pkg:composer/kevinpirnie/kpt-datatables@v2.0.93
+- pkg:composer/kevinpirnie/kpt-datatables@v2.0.94
