@@ -38,3 +38,4 @@
 - pkg:composer/triniti/core@v2.8.0
 - pkg:composer/triniti/core@v2.8.1
 - pkg:composer/triniti/core@v2.8.2
+- pkg:composer/triniti/core@v3.0.0

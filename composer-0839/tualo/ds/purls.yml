@@ -56,6 +56,13 @@
 - pkg:composer/tualo/ds@1.5.29
 - pkg:composer/tualo/ds@1.5.3
 - pkg:composer/tualo/ds@1.5.30
+- pkg:composer/tualo/ds@1.5.31
+- pkg:composer/tualo/ds@1.5.32
+- pkg:composer/tualo/ds@1.5.33
+- pkg:composer/tualo/ds@1.5.34
+- pkg:composer/tualo/ds@1.5.35
+- pkg:composer/tualo/ds@1.5.36
+- pkg:composer/tualo/ds@1.5.37
 - pkg:composer/tualo/ds@1.5.4
 - pkg:composer/tualo/ds@1.5.5
 - pkg:composer/tualo/ds@1.5.6
