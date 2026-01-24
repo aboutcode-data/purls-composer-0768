@@ -314,6 +314,7 @@
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.102
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.103
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.104
+- pkg:composer/fyrts/chrome-devtools-protocol@v1.2.105
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.11
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.12
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.13
