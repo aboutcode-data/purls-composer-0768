@@ -9,6 +9,8 @@
 - pkg:composer/krzysztofzylka/database-manager@1.1.0
 - pkg:composer/krzysztofzylka/database-manager@1.1.1
 - pkg:composer/krzysztofzylka/database-manager@1.1.10
+- pkg:composer/krzysztofzylka/database-manager@1.1.11
+- pkg:composer/krzysztofzylka/database-manager@1.1.12
 - pkg:composer/krzysztofzylka/database-manager@1.1.2
 - pkg:composer/krzysztofzylka/database-manager@1.1.3
 - pkg:composer/krzysztofzylka/database-manager@1.1.4
