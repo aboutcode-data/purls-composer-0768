@@ -30,3 +30,4 @@
 - pkg:composer/rotexsoft/leanorm@5.1.2
 - pkg:composer/rotexsoft/leanorm@5.1.3
 - pkg:composer/rotexsoft/leanorm@5.2.0
+- pkg:composer/rotexsoft/leanorm@6.0.0

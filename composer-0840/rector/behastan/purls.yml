@@ -15,7 +15,14 @@
 - pkg:composer/rector/behastan@0.6.11
 - pkg:composer/rector/behastan@0.6.12
 - pkg:composer/rector/behastan@0.6.13
+- pkg:composer/rector/behastan@0.6.14
+- pkg:composer/rector/behastan@0.6.15
+- pkg:composer/rector/behastan@0.6.16
+- pkg:composer/rector/behastan@0.6.17
+- pkg:composer/rector/behastan@0.6.18
+- pkg:composer/rector/behastan@0.6.19
 - pkg:composer/rector/behastan@0.6.2
+- pkg:composer/rector/behastan@0.6.20
 - pkg:composer/rector/behastan@0.6.3
 - pkg:composer/rector/behastan@0.6.4
 - pkg:composer/rector/behastan@0.6.5

@@ -7,6 +7,7 @@
 - pkg:composer/raini/core@1.0.0-beta7
 - pkg:composer/raini/core@1.0.0-beta8
 - pkg:composer/raini/core@1.0.0-rc1
+- pkg:composer/raini/core@1.0.0-rc10
 - pkg:composer/raini/core@1.0.0-rc2
 - pkg:composer/raini/core@1.0.0-rc3
 - pkg:composer/raini/core@1.0.0-rc4

@@ -3,6 +3,7 @@
 - pkg:composer/rkw/rkw-outcome@v10.4.2-stable
 - pkg:composer/rkw/rkw-outcome@v10.4.3-stable
 - pkg:composer/rkw/rkw-outcome@v10.4.4-stable
+- pkg:composer/rkw/rkw-outcome@v10.4.5-stable
 - pkg:composer/rkw/rkw-outcome@v8.7.0-beta
 - pkg:composer/rkw/rkw-outcome@v8.7.1-beta
 - pkg:composer/rkw/rkw-outcome@v8.7.2-beta
