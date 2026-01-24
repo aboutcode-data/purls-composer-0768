@@ -8,3 +8,7 @@
 - pkg:composer/pulli/pullbox@v0.1.7
 - pkg:composer/pulli/pullbox@v0.1.8
 - pkg:composer/pulli/pullbox@v0.1.9
+- pkg:composer/pulli/pullbox@v0.2.0
+- pkg:composer/pulli/pullbox@v1.0.0
+- pkg:composer/pulli/pullbox@v2.0.0
+- pkg:composer/pulli/pullbox@v2.0.1
