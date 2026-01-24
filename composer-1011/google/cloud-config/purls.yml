@@ -24,3 +24,4 @@
 - pkg:composer/google/cloud-config@v1.6.0
 - pkg:composer/google/cloud-config@v1.6.1
 - pkg:composer/google/cloud-config@v1.7.0
+- pkg:composer/google/cloud-config@v1.7.1

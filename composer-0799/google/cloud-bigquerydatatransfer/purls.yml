@@ -88,3 +88,4 @@
 - pkg:composer/google/cloud-bigquerydatatransfer@v2.1.5
 - pkg:composer/google/cloud-bigquerydatatransfer@v2.2.0
 - pkg:composer/google/cloud-bigquerydatatransfer@v2.2.1
+- pkg:composer/google/cloud-bigquerydatatransfer@v2.2.3

@@ -10,3 +10,4 @@
 - pkg:composer/google/cloud-apphub@v0.3.1
 - pkg:composer/google/cloud-apphub@v0.4.0
 - pkg:composer/google/cloud-apphub@v0.4.1
+- pkg:composer/google/cloud-apphub@v0.4.3
