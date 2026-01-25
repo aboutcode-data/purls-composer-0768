@@ -1,3 +1,4 @@
 - pkg:composer/nicksdot/phpstan-phpstorm-error-identifiers@0.1.0
 - pkg:composer/nicksdot/phpstan-phpstorm-error-identifiers@0.1.1
 - pkg:composer/nicksdot/phpstan-phpstorm-error-identifiers@0.2.0
+- pkg:composer/nicksdot/phpstan-phpstorm-error-identifiers@0.3.0
