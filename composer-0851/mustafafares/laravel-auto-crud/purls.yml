@@ -13,3 +13,6 @@
 - pkg:composer/mustafafares/laravel-auto-crud@v4.0.0
 - pkg:composer/mustafafares/laravel-auto-crud@v4.2.0
 - pkg:composer/mustafafares/laravel-auto-crud@v4.3.0
+- pkg:composer/mustafafares/laravel-auto-crud@v4.4.0
+- pkg:composer/mustafafares/laravel-auto-crud@v4.5.0
+- pkg:composer/mustafafares/laravel-auto-crud@v4.6.0
