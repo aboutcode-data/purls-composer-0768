@@ -2,3 +2,4 @@
 - pkg:composer/janwebdev/translatable-entity-bundle@v1.1.0
 - pkg:composer/janwebdev/translatable-entity-bundle@v2.0.0
 - pkg:composer/janwebdev/translatable-entity-bundle@v2.0.1
+- pkg:composer/janwebdev/translatable-entity-bundle@v2.0.2

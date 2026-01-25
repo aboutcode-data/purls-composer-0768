@@ -1,2 +1,4 @@
 - pkg:composer/kipchak/driver-git@1.0
 - pkg:composer/kipchak/driver-git@1.1
+- pkg:composer/kipchak/driver-git@1.2
+- pkg:composer/kipchak/driver-git@1.3
