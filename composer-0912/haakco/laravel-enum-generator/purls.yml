@@ -32,3 +32,4 @@
 - pkg:composer/haakco/laravel-enum-generator@v5.1.0
 - pkg:composer/haakco/laravel-enum-generator@v5.1.1
 - pkg:composer/haakco/laravel-enum-generator@v6.0.0
+- pkg:composer/haakco/laravel-enum-generator@v6.0.1
