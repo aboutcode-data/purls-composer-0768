@@ -63,3 +63,4 @@
 - pkg:composer/evoweb/store-finder@7.1.1
 - pkg:composer/evoweb/store-finder@7.1.2
 - pkg:composer/evoweb/store-finder@8.0.0
+- pkg:composer/evoweb/store-finder@9.0.0
