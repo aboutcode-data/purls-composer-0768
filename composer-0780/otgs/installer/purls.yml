@@ -99,6 +99,7 @@
 - pkg:composer/otgs/installer@3.1.15
 - pkg:composer/otgs/installer@3.1.16
 - pkg:composer/otgs/installer@3.1.17
+- pkg:composer/otgs/installer@3.1.18
 - pkg:composer/otgs/installer@3.1.2
 - pkg:composer/otgs/installer@3.1.3
 - pkg:composer/otgs/installer@3.1.4
