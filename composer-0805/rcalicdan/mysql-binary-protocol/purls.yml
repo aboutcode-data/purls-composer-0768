@@ -1,1 +1,2 @@
 - pkg:composer/rcalicdan/mysql-binary-protocol@1.0.0
+- pkg:composer/rcalicdan/mysql-binary-protocol@2.0.0
