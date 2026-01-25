@@ -15,3 +15,4 @@
 - pkg:composer/mailjet/laravel-mailjet@3.0.6
 - pkg:composer/mailjet/laravel-mailjet@3.1.0
 - pkg:composer/mailjet/laravel-mailjet@3.1.1
+- pkg:composer/mailjet/laravel-mailjet@3.1.2
