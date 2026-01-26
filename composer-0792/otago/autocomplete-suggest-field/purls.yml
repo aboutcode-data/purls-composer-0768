@@ -14,3 +14,4 @@
 - pkg:composer/otago/autocomplete-suggest-field@5.3
 - pkg:composer/otago/autocomplete-suggest-field@5.3.1
 - pkg:composer/otago/autocomplete-suggest-field@v3.0
+- pkg:composer/otago/autocomplete-suggest-field@v6.0
