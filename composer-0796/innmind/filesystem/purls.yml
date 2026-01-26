@@ -53,3 +53,4 @@
 - pkg:composer/innmind/filesystem@7.6.0
 - pkg:composer/innmind/filesystem@8.0.0
 - pkg:composer/innmind/filesystem@8.1.0
+- pkg:composer/innmind/filesystem@9.0.0
