@@ -45,6 +45,10 @@
 - pkg:composer/softinline/sfwcomponent@1.0.49
 - pkg:composer/softinline/sfwcomponent@1.0.5
 - pkg:composer/softinline/sfwcomponent@1.0.50
+- pkg:composer/softinline/sfwcomponent@1.0.51
+- pkg:composer/softinline/sfwcomponent@1.0.52
+- pkg:composer/softinline/sfwcomponent@1.0.53
+- pkg:composer/softinline/sfwcomponent@1.0.54
 - pkg:composer/softinline/sfwcomponent@1.0.6
 - pkg:composer/softinline/sfwcomponent@1.0.7
 - pkg:composer/softinline/sfwcomponent@1.0.8
