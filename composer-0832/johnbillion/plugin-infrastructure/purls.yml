@@ -24,3 +24,6 @@
 - pkg:composer/johnbillion/plugin-infrastructure@2.5.3
 - pkg:composer/johnbillion/plugin-infrastructure@2.5.4
 - pkg:composer/johnbillion/plugin-infrastructure@2.6.0
+- pkg:composer/johnbillion/plugin-infrastructure@2.7.0
+- pkg:composer/johnbillion/plugin-infrastructure@2.7.1
+- pkg:composer/johnbillion/plugin-infrastructure@2.7.2
