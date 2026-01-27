@@ -281,3 +281,4 @@
 - pkg:composer/netflex/message-channel@v6.2.2
 - pkg:composer/netflex/message-channel@v6.2.3
 - pkg:composer/netflex/message-channel@v6.3.0
+- pkg:composer/netflex/message-channel@v6.3.1
