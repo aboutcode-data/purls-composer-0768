@@ -1,3 +1,5 @@
+- pkg:composer/vendasoft/filament-activity-log-plugin@1.1.14
+- pkg:composer/vendasoft/filament-activity-log-plugin@1.1.15
 - pkg:composer/vendasoft/filament-activity-log-plugin@v0.1.0
 - pkg:composer/vendasoft/filament-activity-log-plugin@v0.1.1
 - pkg:composer/vendasoft/filament-activity-log-plugin@v0.1.10

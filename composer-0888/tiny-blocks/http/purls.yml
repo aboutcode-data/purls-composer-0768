@@ -20,3 +20,4 @@
 - pkg:composer/tiny-blocks/http@4.1.0
 - pkg:composer/tiny-blocks/http@4.1.1
 - pkg:composer/tiny-blocks/http@4.2.0
+- pkg:composer/tiny-blocks/http@4.3.0
