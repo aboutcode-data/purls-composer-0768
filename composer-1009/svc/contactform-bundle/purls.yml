@@ -16,6 +16,7 @@
 - pkg:composer/svc/contactform-bundle@6.0.2
 - pkg:composer/svc/contactform-bundle@6.1.0
 - pkg:composer/svc/contactform-bundle@6.2.0
+- pkg:composer/svc/contactform-bundle@6.3.0
 - pkg:composer/svc/contactform-bundle@v1.0.0
 - pkg:composer/svc/contactform-bundle@v1.0.1
 - pkg:composer/svc/contactform-bundle@v1.1.0

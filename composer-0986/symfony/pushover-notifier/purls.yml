@@ -9,6 +9,7 @@
 - pkg:composer/symfony/pushover-notifier@v6.4.13
 - pkg:composer/symfony/pushover-notifier@v6.4.24
 - pkg:composer/symfony/pushover-notifier@v6.4.3
+- pkg:composer/symfony/pushover-notifier@v6.4.32
 - pkg:composer/symfony/pushover-notifier@v6.4.7
 - pkg:composer/symfony/pushover-notifier@v6.4.8
 - pkg:composer/symfony/pushover-notifier@v7.0.0
@@ -28,9 +29,12 @@
 - pkg:composer/symfony/pushover-notifier@v7.3.0
 - pkg:composer/symfony/pushover-notifier@v7.3.0-BETA1
 - pkg:composer/symfony/pushover-notifier@v7.3.0-RC1
+- pkg:composer/symfony/pushover-notifier@v7.3.10
 - pkg:composer/symfony/pushover-notifier@v7.4.0
 - pkg:composer/symfony/pushover-notifier@v7.4.0-BETA1
 - pkg:composer/symfony/pushover-notifier@v7.4.0-RC1
+- pkg:composer/symfony/pushover-notifier@v7.4.4
 - pkg:composer/symfony/pushover-notifier@v8.0.0
 - pkg:composer/symfony/pushover-notifier@v8.0.0-BETA1
 - pkg:composer/symfony/pushover-notifier@v8.0.0-RC1
+- pkg:composer/symfony/pushover-notifier@v8.0.4

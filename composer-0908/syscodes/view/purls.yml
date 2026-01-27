@@ -12,6 +12,7 @@
 - pkg:composer/syscodes/view@v0.8.13
 - pkg:composer/syscodes/view@v0.8.14
 - pkg:composer/syscodes/view@v0.8.15
+- pkg:composer/syscodes/view@v0.8.16
 - pkg:composer/syscodes/view@v0.8.2
 - pkg:composer/syscodes/view@v0.8.4
 - pkg:composer/syscodes/view@v0.8.5

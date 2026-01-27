@@ -190,7 +190,9 @@
 - pkg:composer/symfony/string@v7.4.0
 - pkg:composer/symfony/string@v7.4.0-BETA1
 - pkg:composer/symfony/string@v7.4.0-RC1
+- pkg:composer/symfony/string@v7.4.4
 - pkg:composer/symfony/string@v8.0.0
 - pkg:composer/symfony/string@v8.0.0-BETA1
 - pkg:composer/symfony/string@v8.0.0-RC1
 - pkg:composer/symfony/string@v8.0.1
+- pkg:composer/symfony/string@v8.0.4
