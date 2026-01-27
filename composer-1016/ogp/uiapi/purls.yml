@@ -1,7 +1,6 @@
-- pkg:composer/ogp/uiapi@v0.1.0
-- pkg:composer/ogp/uiapi@v0.1.1
 - pkg:composer/ogp/uiapi@v1.0.0
 - pkg:composer/ogp/uiapi@v1.1.0
 - pkg:composer/ogp/uiapi@v1.2.0
 - pkg:composer/ogp/uiapi@v1.3.0
 - pkg:composer/ogp/uiapi@v1.4.0
+- pkg:composer/ogp/uiapi@v1.5.0
