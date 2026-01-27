@@ -18,6 +18,7 @@
 - pkg:composer/roave/psr-container-doctrine@3.9.0
 - pkg:composer/roave/psr-container-doctrine@4.0.0
 - pkg:composer/roave/psr-container-doctrine@4.1.0
+- pkg:composer/roave/psr-container-doctrine@4.2.0
 - pkg:composer/roave/psr-container-doctrine@5.0.0
 - pkg:composer/roave/psr-container-doctrine@5.1.0
 - pkg:composer/roave/psr-container-doctrine@5.2.0
