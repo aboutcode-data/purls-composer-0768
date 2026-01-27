@@ -60,3 +60,4 @@
 - pkg:composer/lullabot/drainpipe@v3.9.1
 - pkg:composer/lullabot/drainpipe@v4.0.0
 - pkg:composer/lullabot/drainpipe@v4.0.1
+- pkg:composer/lullabot/drainpipe@v4.0.2
