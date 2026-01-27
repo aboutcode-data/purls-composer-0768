@@ -767,6 +767,8 @@
 - pkg:composer/linlic/rpc@v9.3.150
 - pkg:composer/linlic/rpc@v9.3.151
 - pkg:composer/linlic/rpc@v9.3.152
+- pkg:composer/linlic/rpc@v9.3.153
+- pkg:composer/linlic/rpc@v9.3.154
 - pkg:composer/linlic/rpc@v9.3.16
 - pkg:composer/linlic/rpc@v9.3.17
 - pkg:composer/linlic/rpc@v9.3.18
