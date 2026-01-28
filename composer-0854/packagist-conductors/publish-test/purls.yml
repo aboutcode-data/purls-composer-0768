@@ -21,3 +21,6 @@
 - pkg:composer/packagist-conductors/publish-test@5723.0.0
 - pkg:composer/packagist-conductors/publish-test@5724.0.0
 - pkg:composer/packagist-conductors/publish-test@5725.0.0
+- pkg:composer/packagist-conductors/publish-test@5726.0.0
+- pkg:composer/packagist-conductors/publish-test@5727.0.0
+- pkg:composer/packagist-conductors/publish-test@5728.0.0
