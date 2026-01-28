@@ -71,3 +71,5 @@
 - pkg:composer/plugs/plugs@v4.0.0
 - pkg:composer/plugs/plugs@v4.0.1
 - pkg:composer/plugs/plugs@v4.1.0
+- pkg:composer/plugs/plugs@v4.2.0
+- pkg:composer/plugs/plugs@v4.2.1

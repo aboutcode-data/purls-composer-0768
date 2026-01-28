@@ -46,3 +46,5 @@
 - pkg:composer/protoframework/proto-project@1.0.7
 - pkg:composer/protoframework/proto-project@1.0.8
 - pkg:composer/protoframework/proto-project@1.0.9
+- pkg:composer/protoframework/proto-project@1.2.0
+- pkg:composer/protoframework/proto-project@1.2.1
