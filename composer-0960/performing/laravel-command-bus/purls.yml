@@ -5,3 +5,4 @@
 - pkg:composer/performing/laravel-command-bus@2.0.2
 - pkg:composer/performing/laravel-command-bus@3.0.0
 - pkg:composer/performing/laravel-command-bus@3.1.0
+- pkg:composer/performing/laravel-command-bus@3.1.1
