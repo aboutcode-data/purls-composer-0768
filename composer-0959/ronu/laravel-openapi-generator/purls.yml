@@ -13,3 +13,6 @@
 - pkg:composer/ronu/laravel-openapi-generator@1.1.4
 - pkg:composer/ronu/laravel-openapi-generator@1.1.6
 - pkg:composer/ronu/laravel-openapi-generator@1.1.8
+- pkg:composer/ronu/laravel-openapi-generator@1.1.9
+- pkg:composer/ronu/laravel-openapi-generator@1.2.0
+- pkg:composer/ronu/laravel-openapi-generator@1.2.1
