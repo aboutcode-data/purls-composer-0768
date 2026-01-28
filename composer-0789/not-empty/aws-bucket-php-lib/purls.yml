@@ -5,3 +5,4 @@
 - pkg:composer/not-empty/aws-bucket-php-lib@5.0.0
 - pkg:composer/not-empty/aws-bucket-php-lib@6.0.0
 - pkg:composer/not-empty/aws-bucket-php-lib@7.0.0
+- pkg:composer/not-empty/aws-bucket-php-lib@8.0.0
