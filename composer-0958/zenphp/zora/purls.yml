@@ -10,3 +10,5 @@
 - pkg:composer/zenphp/zora@v2.0.1
 - pkg:composer/zenphp/zora@v2.1.0
 - pkg:composer/zenphp/zora@v2.1.1
+- pkg:composer/zenphp/zora@v2.1.2
+- pkg:composer/zenphp/zora@v2.1.3

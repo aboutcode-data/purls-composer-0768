@@ -112,6 +112,8 @@
 - pkg:composer/yangsuda/framework@4.0.0
 - pkg:composer/yangsuda/framework@4.0.1
 - pkg:composer/yangsuda/framework@4.0.10
+- pkg:composer/yangsuda/framework@4.0.11
+- pkg:composer/yangsuda/framework@4.0.12
 - pkg:composer/yangsuda/framework@4.0.2
 - pkg:composer/yangsuda/framework@4.0.3
 - pkg:composer/yangsuda/framework@4.0.5

@@ -5,3 +5,4 @@
 - pkg:composer/yamadashy/phpstan-friendly-formatter@v1.1.2
 - pkg:composer/yamadashy/phpstan-friendly-formatter@v1.2.0
 - pkg:composer/yamadashy/phpstan-friendly-formatter@v1.3.0
+- pkg:composer/yamadashy/phpstan-friendly-formatter@v1.4.0

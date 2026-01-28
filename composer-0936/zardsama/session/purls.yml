@@ -1,3 +1,6 @@
 - pkg:composer/zardsama/session@0.1
 - pkg:composer/zardsama/session@0.2
-- pkg:composer/zardsama/session@v0.3
+- pkg:composer/zardsama/session@0.3.0
+- pkg:composer/zardsama/session@0.3.1
+- pkg:composer/zardsama/session@0.4.0
+- pkg:composer/zardsama/session@0.4.1
