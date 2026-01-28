@@ -395,6 +395,7 @@
 - pkg:composer/tencentcloud/nlp@3.0.1414
 - pkg:composer/tencentcloud/nlp@3.0.1418
 - pkg:composer/tencentcloud/nlp@3.0.1473
+- pkg:composer/tencentcloud/nlp@3.0.1530
 - pkg:composer/tencentcloud/nlp@3.0.248
 - pkg:composer/tencentcloud/nlp@3.0.249
 - pkg:composer/tencentcloud/nlp@3.0.250
