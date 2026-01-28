@@ -48,7 +48,9 @@
 - pkg:composer/apility/seotools@v1.2.0
 - pkg:composer/apility/seotools@v1.3.0
 - pkg:composer/apility/seotools@v1.3.1
+- pkg:composer/apility/seotools@v1.3.2
 - pkg:composer/apility/seotools@v2.0.0
 - pkg:composer/apility/seotools@v2.0.1
 - pkg:composer/apility/seotools@v2.0.2
 - pkg:composer/apility/seotools@v2.0.3
+- pkg:composer/apility/seotools@v2.0.4

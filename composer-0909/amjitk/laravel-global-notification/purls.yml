@@ -1,4 +1,6 @@
 - pkg:composer/amjitk/laravel-global-notification@1.1.0
 - pkg:composer/amjitk/laravel-global-notification@1.2.0
 - pkg:composer/amjitk/laravel-global-notification@1.3.0
+- pkg:composer/amjitk/laravel-global-notification@2.0.0
+- pkg:composer/amjitk/laravel-global-notification@3.0.0
 - pkg:composer/amjitk/laravel-global-notification@v1.0.0
