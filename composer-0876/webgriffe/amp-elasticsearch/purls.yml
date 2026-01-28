@@ -2,6 +2,7 @@
 - pkg:composer/webgriffe/amp-elasticsearch@2.1.0
 - pkg:composer/webgriffe/amp-elasticsearch@2.2.0
 - pkg:composer/webgriffe/amp-elasticsearch@2.3.0
+- pkg:composer/webgriffe/amp-elasticsearch@2.4.0
 - pkg:composer/webgriffe/amp-elasticsearch@v1.0.0
 - pkg:composer/webgriffe/amp-elasticsearch@v1.1.0
 - pkg:composer/webgriffe/amp-elasticsearch@v1.2.0

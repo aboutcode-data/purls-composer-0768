@@ -38,6 +38,7 @@
 - pkg:composer/wordplate/acf@14.5.0
 - pkg:composer/wordplate/acf@14.6.0
 - pkg:composer/wordplate/acf@14.6.1
+- pkg:composer/wordplate/acf@14.6.2
 - pkg:composer/wordplate/acf@2.0.0
 - pkg:composer/wordplate/acf@3.0.0
 - pkg:composer/wordplate/acf@3.1.0
