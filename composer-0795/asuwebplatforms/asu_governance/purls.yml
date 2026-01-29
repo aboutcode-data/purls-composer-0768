@@ -2,6 +2,7 @@
 - pkg:composer/asuwebplatforms/asu_governance@1.0.1
 - pkg:composer/asuwebplatforms/asu_governance@1.0.10
 - pkg:composer/asuwebplatforms/asu_governance@1.0.11
+- pkg:composer/asuwebplatforms/asu_governance@1.0.12
 - pkg:composer/asuwebplatforms/asu_governance@1.0.2
 - pkg:composer/asuwebplatforms/asu_governance@1.0.3
 - pkg:composer/asuwebplatforms/asu_governance@1.0.4
@@ -11,6 +12,7 @@
 - pkg:composer/asuwebplatforms/asu_governance@1.0.8
 - pkg:composer/asuwebplatforms/asu_governance@1.0.9
 - pkg:composer/asuwebplatforms/asu_governance@2.0.11
+- pkg:composer/asuwebplatforms/asu_governance@2.0.12
 - pkg:composer/asuwebplatforms/asu_governance@9.0.0
 - pkg:composer/asuwebplatforms/asu_governance@9.0.0-rc1
 - pkg:composer/asuwebplatforms/asu_governance@9.0.0-rc2

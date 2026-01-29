@@ -290,6 +290,7 @@
 - pkg:composer/automattic/jetpack-sync@v4.24.2
 - pkg:composer/automattic/jetpack-sync@v4.25.0
 - pkg:composer/automattic/jetpack-sync@v4.25.1
+- pkg:composer/automattic/jetpack-sync@v4.25.2
 - pkg:composer/automattic/jetpack-sync@v4.3.0
 - pkg:composer/automattic/jetpack-sync@v4.4.0
 - pkg:composer/automattic/jetpack-sync@v4.5.0

@@ -38,6 +38,7 @@
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.0
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.1
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.10
+- pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.11
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.2
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.3
 - pkg:composer/automattic/jetpack-classic-theme-helper@v0.14.4
