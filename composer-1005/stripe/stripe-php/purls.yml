@@ -257,7 +257,10 @@
 - pkg:composer/stripe/stripe-php@v19.2.0-alpha.2
 - pkg:composer/stripe/stripe-php@v19.2.0-alpha.3
 - pkg:composer/stripe/stripe-php@v19.2.0-beta.1
+- pkg:composer/stripe/stripe-php@v19.3.0
 - pkg:composer/stripe/stripe-php@v19.3.0-alpha.1
+- pkg:composer/stripe/stripe-php@v19.4.0-alpha.1
+- pkg:composer/stripe/stripe-php@v19.4.0-beta.1
 - pkg:composer/stripe/stripe-php@v2.0.0
 - pkg:composer/stripe/stripe-php@v2.0.1
 - pkg:composer/stripe/stripe-php@v2.1.0

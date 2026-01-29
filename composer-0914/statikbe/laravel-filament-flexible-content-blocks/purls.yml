@@ -1,5 +1,6 @@
 - pkg:composer/statikbe/laravel-filament-flexible-content-blocks@0.1.0
 - pkg:composer/statikbe/laravel-filament-flexible-content-blocks@2.6.0
+- pkg:composer/statikbe/laravel-filament-flexible-content-blocks@2.7.2
 - pkg:composer/statikbe/laravel-filament-flexible-content-blocks@v0.1.1
 - pkg:composer/statikbe/laravel-filament-flexible-content-blocks@v0.1.10
 - pkg:composer/statikbe/laravel-filament-flexible-content-blocks@v0.1.13
