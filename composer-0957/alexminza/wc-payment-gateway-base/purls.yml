@@ -1,3 +1,4 @@
 - pkg:composer/alexminza/wc-payment-gateway-base@v1.0.0
 - pkg:composer/alexminza/wc-payment-gateway-base@v1.0.1
 - pkg:composer/alexminza/wc-payment-gateway-base@v1.0.2
+- pkg:composer/alexminza/wc-payment-gateway-base@v1.0.3
