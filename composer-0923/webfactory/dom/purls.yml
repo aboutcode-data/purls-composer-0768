@@ -29,3 +29,4 @@
 - pkg:composer/webfactory/dom@1.0.9
 - pkg:composer/webfactory/dom@1.1.0
 - pkg:composer/webfactory/dom@1.2.0
+- pkg:composer/webfactory/dom@1.2.1
