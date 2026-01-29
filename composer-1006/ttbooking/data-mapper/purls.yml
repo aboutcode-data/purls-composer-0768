@@ -2,6 +2,8 @@
 - pkg:composer/ttbooking/data-mapper@0.0.10
 - pkg:composer/ttbooking/data-mapper@0.0.11
 - pkg:composer/ttbooking/data-mapper@0.0.12
+- pkg:composer/ttbooking/data-mapper@0.0.13
+- pkg:composer/ttbooking/data-mapper@0.0.14
 - pkg:composer/ttbooking/data-mapper@0.0.2
 - pkg:composer/ttbooking/data-mapper@0.0.3
 - pkg:composer/ttbooking/data-mapper@0.0.4
@@ -10,3 +12,4 @@
 - pkg:composer/ttbooking/data-mapper@0.0.7
 - pkg:composer/ttbooking/data-mapper@0.0.8
 - pkg:composer/ttbooking/data-mapper@0.0.9
+- pkg:composer/ttbooking/data-mapper@0.1.13

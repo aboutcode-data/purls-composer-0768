@@ -3,3 +3,4 @@
 - pkg:composer/tracekit/php-apm@v1.0.2
 - pkg:composer/tracekit/php-apm@v1.0.3
 - pkg:composer/tracekit/php-apm@v1.0.4
+- pkg:composer/tracekit/php-apm@v1.0.5

@@ -46,3 +46,4 @@
 - pkg:composer/tinify/wordpress-plugin@3.6.5
 - pkg:composer/tinify/wordpress-plugin@3.6.6
 - pkg:composer/tinify/wordpress-plugin@3.6.7
+- pkg:composer/tinify/wordpress-plugin@3.6.8
