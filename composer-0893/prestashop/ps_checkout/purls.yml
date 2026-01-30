@@ -109,6 +109,7 @@
 - pkg:composer/prestashop/ps_checkout@v5.0.5
 - pkg:composer/prestashop/ps_checkout@v5.0.6
 - pkg:composer/prestashop/ps_checkout@v5.0.7
+- pkg:composer/prestashop/ps_checkout@v5.1.0
 - pkg:composer/prestashop/ps_checkout@v6.3.1.0
 - pkg:composer/prestashop/ps_checkout@v6.3.2.0
 - pkg:composer/prestashop/ps_checkout@v6.3.3.1
