@@ -5,3 +5,5 @@
 - pkg:composer/ci4-cms-erp/ext_module_generator@v1.1.0
 - pkg:composer/ci4-cms-erp/ext_module_generator@v1.1.1
 - pkg:composer/ci4-cms-erp/ext_module_generator@v1.1.2
+- pkg:composer/ci4-cms-erp/ext_module_generator@v1.2.0
+- pkg:composer/ci4-cms-erp/ext_module_generator@v1.2.1

@@ -8,6 +8,7 @@
 - pkg:composer/cmsig/seal-mezzio-module@0.12.2
 - pkg:composer/cmsig/seal-mezzio-module@0.12.5
 - pkg:composer/cmsig/seal-mezzio-module@0.12.6
+- pkg:composer/cmsig/seal-mezzio-module@0.12.7
 - pkg:composer/cmsig/seal-mezzio-module@0.2.0
 - pkg:composer/cmsig/seal-mezzio-module@0.2.1
 - pkg:composer/cmsig/seal-mezzio-module@0.3.0
