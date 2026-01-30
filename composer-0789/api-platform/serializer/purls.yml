@@ -124,6 +124,7 @@
 - pkg:composer/api-platform/serializer@v4.2.12
 - pkg:composer/api-platform/serializer@v4.2.13
 - pkg:composer/api-platform/serializer@v4.2.14
+- pkg:composer/api-platform/serializer@v4.2.15
 - pkg:composer/api-platform/serializer@v4.2.2
 - pkg:composer/api-platform/serializer@v4.2.3
 - pkg:composer/api-platform/serializer@v4.2.4
