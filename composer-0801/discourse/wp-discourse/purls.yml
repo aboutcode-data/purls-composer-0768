@@ -148,3 +148,4 @@
 - pkg:composer/discourse/wp-discourse@2.5.8
 - pkg:composer/discourse/wp-discourse@2.5.9
 - pkg:composer/discourse/wp-discourse@2.6.0
+- pkg:composer/discourse/wp-discourse@2.6.1

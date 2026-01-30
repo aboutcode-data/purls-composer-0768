@@ -48,3 +48,6 @@
 - pkg:composer/dark-people/telegram-bot-plus-sdk@v5.0.1
 - pkg:composer/dark-people/telegram-bot-plus-sdk@v5.0.2
 - pkg:composer/dark-people/telegram-bot-plus-sdk@v5.0.3
+- pkg:composer/dark-people/telegram-bot-plus-sdk@v5.1.0
+- pkg:composer/dark-people/telegram-bot-plus-sdk@v5.1.1
+- pkg:composer/dark-people/telegram-bot-plus-sdk@v5.1.2

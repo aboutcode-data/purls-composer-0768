@@ -1,1 +1,2 @@
 - pkg:composer/daycry/phpunit-extension-selenium@v1.0.0
+- pkg:composer/daycry/phpunit-extension-selenium@v1.0.1
