@@ -320,6 +320,7 @@
 - pkg:composer/silverstripe/cms@5.4.4
 - pkg:composer/silverstripe/cms@5.4.5
 - pkg:composer/silverstripe/cms@5.4.6
+- pkg:composer/silverstripe/cms@5.4.7
 - pkg:composer/silverstripe/cms@6.0.0
 - pkg:composer/silverstripe/cms@6.0.0-alpha1
 - pkg:composer/silverstripe/cms@6.0.0-beta1
