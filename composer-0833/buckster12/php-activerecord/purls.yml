@@ -5,6 +5,7 @@
 - pkg:composer/buckster12/php-activerecord@v1.2.2
 - pkg:composer/buckster12/php-activerecord@v1.2.3
 - pkg:composer/buckster12/php-activerecord@v1.2.4
+- pkg:composer/buckster12/php-activerecord@v1.2.45
 - pkg:composer/buckster12/php-activerecord@v2.0.0
 - pkg:composer/buckster12/php-activerecord@v2.0.1
 - pkg:composer/buckster12/php-activerecord@v2.0.2

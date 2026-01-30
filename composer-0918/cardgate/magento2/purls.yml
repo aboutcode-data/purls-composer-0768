@@ -55,6 +55,7 @@
 - pkg:composer/cardgate/magento2@2.0.60
 - pkg:composer/cardgate/magento2@2.0.61
 - pkg:composer/cardgate/magento2@2.0.62
+- pkg:composer/cardgate/magento2@2.0.63
 - pkg:composer/cardgate/magento2@2.0.7
 - pkg:composer/cardgate/magento2@2.0.8
 - pkg:composer/cardgate/magento2@2.0.9
