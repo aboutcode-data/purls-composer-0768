@@ -1,3 +1,4 @@
+- pkg:composer/dstuchbury/laravel-google-translate@9.02
 - pkg:composer/dstuchbury/laravel-google-translate@v1.0.0
 - pkg:composer/dstuchbury/laravel-google-translate@v1.0.1
 - pkg:composer/dstuchbury/laravel-google-translate@v2.0.0

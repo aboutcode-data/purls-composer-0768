@@ -1,1 +1,3 @@
 - pkg:composer/falconmedia/magento2-product-data-sync@1.0.0
+- pkg:composer/falconmedia/magento2-product-data-sync@1.1.0
+- pkg:composer/falconmedia/magento2-product-data-sync@1.2.0

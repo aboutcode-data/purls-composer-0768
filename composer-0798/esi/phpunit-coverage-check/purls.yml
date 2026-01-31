@@ -3,3 +3,4 @@
 - pkg:composer/esi/phpunit-coverage-check@2.0.1
 - pkg:composer/esi/phpunit-coverage-check@2.0.2
 - pkg:composer/esi/phpunit-coverage-check@3.0.0
+- pkg:composer/esi/phpunit-coverage-check@3.1.0
