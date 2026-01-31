@@ -57,3 +57,4 @@
 - pkg:composer/crazywhalecc/static-php-cli@2.7.8
 - pkg:composer/crazywhalecc/static-php-cli@2.7.9
 - pkg:composer/crazywhalecc/static-php-cli@2.8.0
+- pkg:composer/crazywhalecc/static-php-cli@2.8.1
