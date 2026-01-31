@@ -15,3 +15,4 @@
 - pkg:composer/wafto/laravel-sepomex@v1.8
 - pkg:composer/wafto/laravel-sepomex@v2.0.0
 - pkg:composer/wafto/laravel-sepomex@v3.0.0
+- pkg:composer/wafto/laravel-sepomex@v4.0.0
