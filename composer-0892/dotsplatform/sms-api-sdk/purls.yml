@@ -24,3 +24,5 @@
 - pkg:composer/dotsplatform/sms-api-sdk@v2.5.3
 - pkg:composer/dotsplatform/sms-api-sdk@v2.5.4
 - pkg:composer/dotsplatform/sms-api-sdk@v2.5.5
+- pkg:composer/dotsplatform/sms-api-sdk@v2.6.0
+- pkg:composer/dotsplatform/sms-api-sdk@v2.6.1
