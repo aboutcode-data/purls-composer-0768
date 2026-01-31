@@ -1,3 +1,4 @@
 - pkg:composer/cline/message-bus@1.0.0
 - pkg:composer/cline/message-bus@1.1.0
 - pkg:composer/cline/message-bus@1.2.0
+- pkg:composer/cline/message-bus@1.4.0
