@@ -6,6 +6,7 @@
 - pkg:composer/fmcorz/moodle-block_xp@v18.3
 - pkg:composer/fmcorz/moodle-block_xp@v19.0
 - pkg:composer/fmcorz/moodle-block_xp@v19.0-rc1
+- pkg:composer/fmcorz/moodle-block_xp@v19.1
 - pkg:composer/fmcorz/moodle-block_xp@v2.0.0
 - pkg:composer/fmcorz/moodle-block_xp@v2.0.1
 - pkg:composer/fmcorz/moodle-block_xp@v2.1.0

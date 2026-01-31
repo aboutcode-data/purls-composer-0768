@@ -2,3 +2,4 @@
 - pkg:composer/gemvc/http-client@1.1.0
 - pkg:composer/gemvc/http-client@1.1.1
 - pkg:composer/gemvc/http-client@1.2.0
+- pkg:composer/gemvc/http-client@1.2.1

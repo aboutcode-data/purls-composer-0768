@@ -16,3 +16,4 @@
 - pkg:composer/flix-tech/avro-php@5.0.2
 - pkg:composer/flix-tech/avro-php@5.1.0
 - pkg:composer/flix-tech/avro-php@5.1.1
+- pkg:composer/flix-tech/avro-php@5.2.0

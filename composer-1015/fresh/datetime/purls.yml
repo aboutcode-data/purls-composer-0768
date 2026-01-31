@@ -21,3 +21,4 @@
 - pkg:composer/fresh/datetime@v4.1.0
 - pkg:composer/fresh/datetime@v4.2.0
 - pkg:composer/fresh/datetime@v5.0.0
+- pkg:composer/fresh/datetime@v5.0.1
