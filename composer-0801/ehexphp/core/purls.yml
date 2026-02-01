@@ -54,6 +54,12 @@
 - pkg:composer/ehexphp/core@v1.0.58
 - pkg:composer/ehexphp/core@v1.0.59
 - pkg:composer/ehexphp/core@v1.0.6
+- pkg:composer/ehexphp/core@v1.0.60
+- pkg:composer/ehexphp/core@v1.0.61
+- pkg:composer/ehexphp/core@v1.0.62
+- pkg:composer/ehexphp/core@v1.0.63
+- pkg:composer/ehexphp/core@v1.0.64
+- pkg:composer/ehexphp/core@v1.0.66
 - pkg:composer/ehexphp/core@v1.0.7
 - pkg:composer/ehexphp/core@v1.0.8
 - pkg:composer/ehexphp/core@v1.0.9

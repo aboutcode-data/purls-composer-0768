@@ -6,3 +6,4 @@
 - pkg:composer/equit/totp@0.1.0
 - pkg:composer/equit/totp@0.2.0
 - pkg:composer/equit/totp@0.9.0
+- pkg:composer/equit/totp@0.9.1
