@@ -24,3 +24,4 @@
 - pkg:composer/kba-team/cakephp-graylog@v3.0.0
 - pkg:composer/kba-team/cakephp-graylog@v4.0.0
 - pkg:composer/kba-team/cakephp-graylog@v4.0.1
+- pkg:composer/kba-team/cakephp-graylog@v4.0.2

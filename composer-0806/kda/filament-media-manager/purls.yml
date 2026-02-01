@@ -44,4 +44,5 @@
 - pkg:composer/kda/filament-media-manager@4.2.3
 - pkg:composer/kda/filament-media-manager@5.0.0
 - pkg:composer/kda/filament-media-manager@5.0.1
+- pkg:composer/kda/filament-media-manager@5.0.2
 - pkg:composer/kda/filament-media-manager@6.0.0
