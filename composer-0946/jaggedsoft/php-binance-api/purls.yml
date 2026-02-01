@@ -73,6 +73,7 @@
 - pkg:composer/jaggedsoft/php-binance-api@v0.5.30
 - pkg:composer/jaggedsoft/php-binance-api@v0.5.31
 - pkg:composer/jaggedsoft/php-binance-api@v0.5.32
+- pkg:composer/jaggedsoft/php-binance-api@v0.5.33
 - pkg:composer/jaggedsoft/php-binance-api@v0.5.4
 - pkg:composer/jaggedsoft/php-binance-api@v0.5.5
 - pkg:composer/jaggedsoft/php-binance-api@v0.5.6

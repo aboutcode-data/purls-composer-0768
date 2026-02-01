@@ -287,6 +287,7 @@
 - pkg:composer/itzbund/gsb-core@v3.2.0-rc.9
 - pkg:composer/itzbund/gsb-core@v3.20.0
 - pkg:composer/itzbund/gsb-core@v3.21.0
+- pkg:composer/itzbund/gsb-core@v3.21.1
 - pkg:composer/itzbund/gsb-core@v3.3.0
 - pkg:composer/itzbund/gsb-core@v3.3.0-rc.1
 - pkg:composer/itzbund/gsb-core@v3.3.0-rc.2
@@ -574,3 +575,18 @@
 - pkg:composer/itzbund/gsb-core@v4.5.1-rc.3
 - pkg:composer/itzbund/gsb-core@v4.5.1-rc.4
 - pkg:composer/itzbund/gsb-core@v4.5.1-rc.5
+- pkg:composer/itzbund/gsb-core@v4.6.0
+- pkg:composer/itzbund/gsb-core@v4.6.0-rc.1
+- pkg:composer/itzbund/gsb-core@v4.6.0-rc.2
+- pkg:composer/itzbund/gsb-core@v4.6.0-rc.3
+- pkg:composer/itzbund/gsb-core@v4.6.0-rc.4
+- pkg:composer/itzbund/gsb-core@v4.6.1
+- pkg:composer/itzbund/gsb-core@v4.6.1-rc.1
+- pkg:composer/itzbund/gsb-core@v4.6.2-rc.1
+- pkg:composer/itzbund/gsb-core@v4.6.2-rc.2
+- pkg:composer/itzbund/gsb-core@v4.7.0-rc.1
+- pkg:composer/itzbund/gsb-core@v4.7.0-rc.2
+- pkg:composer/itzbund/gsb-core@v4.7.0-rc.3
+- pkg:composer/itzbund/gsb-core@v4.7.0-rc.4
+- pkg:composer/itzbund/gsb-core@v4.7.0-rc.5
+- pkg:composer/itzbund/gsb-core@v4.7.0-rc.6

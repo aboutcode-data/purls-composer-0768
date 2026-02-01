@@ -34,3 +34,4 @@
 - pkg:composer/innmind/server-control@5.2.3
 - pkg:composer/innmind/server-control@6.0.0
 - pkg:composer/innmind/server-control@6.1.0
+- pkg:composer/innmind/server-control@7.0.0

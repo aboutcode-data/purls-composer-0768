@@ -293,6 +293,7 @@
 - pkg:composer/illuminate/console@v12.47.0
 - pkg:composer/illuminate/console@v12.48.0
 - pkg:composer/illuminate/console@v12.48.1
+- pkg:composer/illuminate/console@v12.49.0
 - pkg:composer/illuminate/console@v12.5.0
 - pkg:composer/illuminate/console@v12.6.0
 - pkg:composer/illuminate/console@v12.7.0

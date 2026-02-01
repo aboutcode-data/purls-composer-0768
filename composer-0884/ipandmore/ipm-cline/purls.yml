@@ -12,6 +12,8 @@
 - pkg:composer/ipandmore/ipm-cline@3.0.3
 - pkg:composer/ipandmore/ipm-cline@3.0.4
 - pkg:composer/ipandmore/ipm-cline@3.0.5
+- pkg:composer/ipandmore/ipm-cline@3.0.6
+- pkg:composer/ipandmore/ipm-cline@3.0.7
 - pkg:composer/ipandmore/ipm-cline@4.0.1
 - pkg:composer/ipandmore/ipm-cline@4.0.2
 - pkg:composer/ipandmore/ipm-cline@5.0.0

@@ -109,12 +109,17 @@
 - pkg:composer/inspector-apm/inspector-php@3.15.9
 - pkg:composer/inspector-apm/inspector-php@3.16.0
 - pkg:composer/inspector-apm/inspector-php@3.16.1
+- pkg:composer/inspector-apm/inspector-php@3.16.10
+- pkg:composer/inspector-apm/inspector-php@3.16.11
+- pkg:composer/inspector-apm/inspector-php@3.16.12
 - pkg:composer/inspector-apm/inspector-php@3.16.2
 - pkg:composer/inspector-apm/inspector-php@3.16.3
 - pkg:composer/inspector-apm/inspector-php@3.16.4
 - pkg:composer/inspector-apm/inspector-php@3.16.5
 - pkg:composer/inspector-apm/inspector-php@3.16.6
 - pkg:composer/inspector-apm/inspector-php@3.16.7
+- pkg:composer/inspector-apm/inspector-php@3.16.8
+- pkg:composer/inspector-apm/inspector-php@3.16.9
 - pkg:composer/inspector-apm/inspector-php@3.2.0
 - pkg:composer/inspector-apm/inspector-php@3.2.1
 - pkg:composer/inspector-apm/inspector-php@3.2.10
