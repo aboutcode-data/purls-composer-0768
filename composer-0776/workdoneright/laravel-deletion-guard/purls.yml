@@ -1,1 +1,2 @@
 - pkg:composer/workdoneright/laravel-deletion-guard@v0.0.1
+- pkg:composer/workdoneright/laravel-deletion-guard@v1.0.0
