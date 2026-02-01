@@ -33,3 +33,4 @@
 - pkg:composer/google/cloud-access-approval@v2.0.5
 - pkg:composer/google/cloud-access-approval@v2.1.0
 - pkg:composer/google/cloud-access-approval@v2.1.1
+- pkg:composer/google/cloud-access-approval@v2.1.2

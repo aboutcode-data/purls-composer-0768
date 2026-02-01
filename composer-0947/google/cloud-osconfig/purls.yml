@@ -38,3 +38,4 @@
 - pkg:composer/google/cloud-osconfig@v2.1.0
 - pkg:composer/google/cloud-osconfig@v2.2.0
 - pkg:composer/google/cloud-osconfig@v2.2.1
+- pkg:composer/google/cloud-osconfig@v2.2.2

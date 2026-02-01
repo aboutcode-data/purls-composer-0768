@@ -3,6 +3,7 @@
 - pkg:composer/gember/event-sourcing@0.11.0
 - pkg:composer/gember/event-sourcing@0.12.0
 - pkg:composer/gember/event-sourcing@0.13.0
+- pkg:composer/gember/event-sourcing@0.13.1
 - pkg:composer/gember/event-sourcing@0.2.0
 - pkg:composer/gember/event-sourcing@0.3.0
 - pkg:composer/gember/event-sourcing@0.4.0
