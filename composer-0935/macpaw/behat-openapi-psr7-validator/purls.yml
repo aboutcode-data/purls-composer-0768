@@ -1,0 +1,4 @@
+- pkg:composer/macpaw/behat-openapi-psr7-validator@v1.0.0
+- pkg:composer/macpaw/behat-openapi-psr7-validator@v1.0.1
+- pkg:composer/macpaw/behat-openapi-psr7-validator@v1.0.2
+- pkg:composer/macpaw/behat-openapi-psr7-validator@v1.0.3

@@ -189,3 +189,4 @@
 - pkg:composer/laravel-enso/helpers@3.1.4
 - pkg:composer/laravel-enso/helpers@3.1.5
 - pkg:composer/laravel-enso/helpers@3.1.6
+- pkg:composer/laravel-enso/helpers@3.2.0
