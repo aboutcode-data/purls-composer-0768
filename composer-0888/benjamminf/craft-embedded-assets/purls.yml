@@ -111,3 +111,5 @@
 - pkg:composer/benjamminf/craft-embedded-assets@5.4.2
 - pkg:composer/benjamminf/craft-embedded-assets@5.4.3
 - pkg:composer/benjamminf/craft-embedded-assets@5.4.4
+- pkg:composer/benjamminf/craft-embedded-assets@5.4.5
+- pkg:composer/benjamminf/craft-embedded-assets@5.4.6
