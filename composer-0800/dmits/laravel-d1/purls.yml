@@ -1,1 +1,3 @@
-- pkg:composer/dmits/laravel-d1@2.0.0
+- pkg:composer/dmits/laravel-d1@1.0
+- pkg:composer/dmits/laravel-d1@1.1
+- pkg:composer/dmits/laravel-d1@1.1.1
