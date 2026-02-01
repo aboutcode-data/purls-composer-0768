@@ -126,6 +126,7 @@
 - pkg:composer/humanmade/documentation@24.0.2
 - pkg:composer/humanmade/documentation@25.0.0
 - pkg:composer/humanmade/documentation@25.0.0-beta.1
+- pkg:composer/humanmade/documentation@25.0.1
 - pkg:composer/humanmade/documentation@3.0.0
 - pkg:composer/humanmade/documentation@3.0.0-beta1
 - pkg:composer/humanmade/documentation@3.0.0-beta2

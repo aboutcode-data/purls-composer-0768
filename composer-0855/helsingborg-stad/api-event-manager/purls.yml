@@ -337,6 +337,11 @@
 - pkg:composer/helsingborg-stad/api-event-manager@3.12.11
 - pkg:composer/helsingborg-stad/api-event-manager@3.12.12
 - pkg:composer/helsingborg-stad/api-event-manager@3.12.13
+- pkg:composer/helsingborg-stad/api-event-manager@3.12.14
+- pkg:composer/helsingborg-stad/api-event-manager@3.12.15
+- pkg:composer/helsingborg-stad/api-event-manager@3.12.16
+- pkg:composer/helsingborg-stad/api-event-manager@3.12.17
+- pkg:composer/helsingborg-stad/api-event-manager@3.12.18
 - pkg:composer/helsingborg-stad/api-event-manager@3.12.2
 - pkg:composer/helsingborg-stad/api-event-manager@3.12.3
 - pkg:composer/helsingborg-stad/api-event-manager@3.12.4

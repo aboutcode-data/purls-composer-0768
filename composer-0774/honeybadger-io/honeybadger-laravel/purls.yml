@@ -53,3 +53,4 @@
 - pkg:composer/honeybadger-io/honeybadger-laravel@v4.5.0
 - pkg:composer/honeybadger-io/honeybadger-laravel@v4.6.0
 - pkg:composer/honeybadger-io/honeybadger-laravel@v4.7.0
+- pkg:composer/honeybadger-io/honeybadger-laravel@v4.7.1

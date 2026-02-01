@@ -8,3 +8,5 @@
 - pkg:composer/grazulex/laravel-apiroute@v2.0.1
 - pkg:composer/grazulex/laravel-apiroute@v2.0.2
 - pkg:composer/grazulex/laravel-apiroute@v2.0.3
+- pkg:composer/grazulex/laravel-apiroute@v2.0.4
+- pkg:composer/grazulex/laravel-apiroute@v2.0.5
