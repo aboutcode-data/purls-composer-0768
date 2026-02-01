@@ -1,1 +1,2 @@
 - pkg:composer/craftcms/yii2-cache-cascade@1.0.0
+- pkg:composer/craftcms/yii2-cache-cascade@1.1.0
