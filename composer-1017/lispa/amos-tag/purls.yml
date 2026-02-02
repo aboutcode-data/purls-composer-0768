@@ -1,4 +1,5 @@
 - pkg:composer/lispa/amos-tag@1.10.0
+- pkg:composer/lispa/amos-tag@1.13.1
 - pkg:composer/lispa/amos-tag@1.4.11
 - pkg:composer/lispa/amos-tag@1.4.12
 - pkg:composer/lispa/amos-tag@1.4.8
