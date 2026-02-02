@@ -14,6 +14,7 @@
 - pkg:composer/henrotaym/laravel-api-client@v1.11.0
 - pkg:composer/henrotaym/laravel-api-client@v1.12.0
 - pkg:composer/henrotaym/laravel-api-client@v1.13.0
+- pkg:composer/henrotaym/laravel-api-client@v1.14.0
 - pkg:composer/henrotaym/laravel-api-client@v1.2.0
 - pkg:composer/henrotaym/laravel-api-client@v1.2.1
 - pkg:composer/henrotaym/laravel-api-client@v1.2.2

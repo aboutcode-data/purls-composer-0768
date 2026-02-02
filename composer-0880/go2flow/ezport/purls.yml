@@ -19,6 +19,8 @@
 - pkg:composer/go2flow/ezport@0.11.2
 - pkg:composer/go2flow/ezport@0.11.3
 - pkg:composer/go2flow/ezport@0.11.4
+- pkg:composer/go2flow/ezport@0.12.0
+- pkg:composer/go2flow/ezport@0.12.1
 - pkg:composer/go2flow/ezport@0.2.0
 - pkg:composer/go2flow/ezport@0.2.1
 - pkg:composer/go2flow/ezport@0.2.10
