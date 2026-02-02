@@ -36,4 +36,5 @@
 - pkg:composer/backstage/laravel-permanent-cache@v2.0.0-beta41
 - pkg:composer/backstage/laravel-permanent-cache@v2.0.0-beta42
 - pkg:composer/backstage/laravel-permanent-cache@v2.0.0-beta43
+- pkg:composer/backstage/laravel-permanent-cache@v2.0.0-beta48
 - pkg:composer/backstage/laravel-permanent-cache@v2.0.0beta-37

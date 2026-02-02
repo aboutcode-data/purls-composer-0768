@@ -208,6 +208,7 @@
 - pkg:composer/backstage/cms@v2.0.0-beta41
 - pkg:composer/backstage/cms@v2.0.0-beta42
 - pkg:composer/backstage/cms@v2.0.0-beta43
+- pkg:composer/backstage/cms@v2.0.0-beta48
 - pkg:composer/backstage/cms@v2.0.0-beta5
 - pkg:composer/backstage/cms@v2.0.0-beta6
 - pkg:composer/backstage/cms@v2.0.0-beta7

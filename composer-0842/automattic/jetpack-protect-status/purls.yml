@@ -34,3 +34,4 @@
 - pkg:composer/automattic/jetpack-protect-status@v0.7.4
 - pkg:composer/automattic/jetpack-protect-status@v0.7.5
 - pkg:composer/automattic/jetpack-protect-status@v0.7.6
+- pkg:composer/automattic/jetpack-protect-status@v0.7.7
