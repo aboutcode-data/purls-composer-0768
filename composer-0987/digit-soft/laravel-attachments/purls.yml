@@ -19,3 +19,5 @@
 - pkg:composer/digit-soft/laravel-attachments@1.2.6
 - pkg:composer/digit-soft/laravel-attachments@1.3.0
 - pkg:composer/digit-soft/laravel-attachments@1.3.1
+- pkg:composer/digit-soft/laravel-attachments@1.3.5
+- pkg:composer/digit-soft/laravel-attachments@1.3.6
