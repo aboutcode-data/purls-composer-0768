@@ -10,3 +10,4 @@
 - pkg:composer/marionassef/laravel-keycloak-admin-rest-api@v2.0.0
 - pkg:composer/marionassef/laravel-keycloak-admin-rest-api@v2.0.1
 - pkg:composer/marionassef/laravel-keycloak-admin-rest-api@v2.0.2
+- pkg:composer/marionassef/laravel-keycloak-admin-rest-api@v2.1.0

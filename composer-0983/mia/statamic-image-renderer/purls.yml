@@ -22,3 +22,4 @@
 - pkg:composer/mia/statamic-image-renderer@1.0.7
 - pkg:composer/mia/statamic-image-renderer@1.0.8
 - pkg:composer/mia/statamic-image-renderer@1.0.9
+- pkg:composer/mia/statamic-image-renderer@2.0.0

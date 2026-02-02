@@ -6,3 +6,5 @@
 - pkg:composer/mimmi20/ua-parser-interface@3.0.1
 - pkg:composer/mimmi20/ua-parser-interface@4.0.0
 - pkg:composer/mimmi20/ua-parser-interface@5.0.0
+- pkg:composer/mimmi20/ua-parser-interface@5.0.2
+- pkg:composer/mimmi20/ua-parser-interface@6.0.0

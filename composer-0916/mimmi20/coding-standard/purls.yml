@@ -287,6 +287,7 @@
 - pkg:composer/mimmi20/coding-standard@6.2.1
 - pkg:composer/mimmi20/coding-standard@6.2.10
 - pkg:composer/mimmi20/coding-standard@6.2.11
+- pkg:composer/mimmi20/coding-standard@6.2.12
 - pkg:composer/mimmi20/coding-standard@6.2.2
 - pkg:composer/mimmi20/coding-standard@6.2.3
 - pkg:composer/mimmi20/coding-standard@6.2.4
@@ -309,6 +310,8 @@
 - pkg:composer/mimmi20/coding-standard@7.0.19
 - pkg:composer/mimmi20/coding-standard@7.0.2
 - pkg:composer/mimmi20/coding-standard@7.0.20
+- pkg:composer/mimmi20/coding-standard@7.0.21
+- pkg:composer/mimmi20/coding-standard@7.0.22
 - pkg:composer/mimmi20/coding-standard@7.0.3
 - pkg:composer/mimmi20/coding-standard@7.0.4
 - pkg:composer/mimmi20/coding-standard@7.0.5
