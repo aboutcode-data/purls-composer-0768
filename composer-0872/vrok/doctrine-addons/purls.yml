@@ -10,6 +10,7 @@
 - pkg:composer/vrok/doctrine-addons@2.9.0
 - pkg:composer/vrok/doctrine-addons@2.9.1
 - pkg:composer/vrok/doctrine-addons@3.0.0
+- pkg:composer/vrok/doctrine-addons@3.0.1
 - pkg:composer/vrok/doctrine-addons@v1.0.0
 - pkg:composer/vrok/doctrine-addons@v1.1.0
 - pkg:composer/vrok/doctrine-addons@v1.1.1
