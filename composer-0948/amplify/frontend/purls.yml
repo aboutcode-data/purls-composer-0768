@@ -57,3 +57,4 @@
 - pkg:composer/amplify/frontend@1.5.3
 - pkg:composer/amplify/frontend@1.5.4
 - pkg:composer/amplify/frontend@1.5.5
+- pkg:composer/amplify/frontend@1.5.6
