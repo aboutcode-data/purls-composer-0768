@@ -29,3 +29,5 @@
 - pkg:composer/l-david-l/laravel-dompdf-no-alpha-png@v0.8.6
 - pkg:composer/l-david-l/laravel-dompdf-no-alpha-png@v0.8.7
 - pkg:composer/l-david-l/laravel-dompdf-no-alpha-png@v0.9.0
+- pkg:composer/l-david-l/laravel-dompdf-no-alpha-png@v2.0.0
+- pkg:composer/l-david-l/laravel-dompdf-no-alpha-png@v2.1.0
