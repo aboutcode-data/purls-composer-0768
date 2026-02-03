@@ -53,3 +53,4 @@
 - pkg:composer/draw/cron-job@0.34.0
 - pkg:composer/draw/cron-job@0.35.0
 - pkg:composer/draw/cron-job@0.36.0
+- pkg:composer/draw/cron-job@0.37.0

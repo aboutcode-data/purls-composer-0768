@@ -42,3 +42,4 @@
 - pkg:composer/dynamic/flexslider@4.1.0
 - pkg:composer/dynamic/flexslider@4.1.1
 - pkg:composer/dynamic/flexslider@4.2.0
+- pkg:composer/dynamic/flexslider@5.0.0

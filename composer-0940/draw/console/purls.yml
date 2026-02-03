@@ -70,6 +70,7 @@
 - pkg:composer/draw/console@0.34.0
 - pkg:composer/draw/console@0.35.0
 - pkg:composer/draw/console@0.36.0
+- pkg:composer/draw/console@0.37.0
 - pkg:composer/draw/console@0.8.0
 - pkg:composer/draw/console@0.8.1
 - pkg:composer/draw/console@0.8.2
