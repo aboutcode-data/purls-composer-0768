@@ -29,6 +29,7 @@
 - pkg:composer/commerce365/module-customer-price@2.0.1
 - pkg:composer/commerce365/module-customer-price@2.0.10
 - pkg:composer/commerce365/module-customer-price@2.0.11
+- pkg:composer/commerce365/module-customer-price@2.0.12
 - pkg:composer/commerce365/module-customer-price@2.0.2
 - pkg:composer/commerce365/module-customer-price@2.0.3
 - pkg:composer/commerce365/module-customer-price@2.0.4
