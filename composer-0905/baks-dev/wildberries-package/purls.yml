@@ -125,6 +125,7 @@
 - pkg:composer/baks-dev/wildberries-package@v7.3.13
 - pkg:composer/baks-dev/wildberries-package@v7.3.14
 - pkg:composer/baks-dev/wildberries-package@v7.3.15
+- pkg:composer/baks-dev/wildberries-package@v7.3.16
 - pkg:composer/baks-dev/wildberries-package@v7.3.2
 - pkg:composer/baks-dev/wildberries-package@v7.3.3
 - pkg:composer/baks-dev/wildberries-package@v7.3.4

@@ -13,3 +13,4 @@
 - pkg:composer/autoaction/hg@1.5.0
 - pkg:composer/autoaction/hg@1.6.0
 - pkg:composer/autoaction/hg@1.6.1
+- pkg:composer/autoaction/hg@2.0.0-RC1
