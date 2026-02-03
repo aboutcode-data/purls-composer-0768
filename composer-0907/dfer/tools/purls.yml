@@ -170,3 +170,5 @@
 - pkg:composer/dfer/tools@2.6.9
 - pkg:composer/dfer/tools@2.7.0
 - pkg:composer/dfer/tools@2.7.1
+- pkg:composer/dfer/tools@2.7.2
+- pkg:composer/dfer/tools@2.7.3
