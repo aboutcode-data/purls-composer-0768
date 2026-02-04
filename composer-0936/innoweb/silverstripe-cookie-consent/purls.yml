@@ -41,3 +41,4 @@
 - pkg:composer/innoweb/silverstripe-cookie-consent@3.8.0
 - pkg:composer/innoweb/silverstripe-cookie-consent@3.9.0
 - pkg:composer/innoweb/silverstripe-cookie-consent@3.9.1
+- pkg:composer/innoweb/silverstripe-cookie-consent@4.0.0

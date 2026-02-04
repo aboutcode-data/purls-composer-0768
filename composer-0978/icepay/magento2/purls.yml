@@ -2,3 +2,4 @@
 - pkg:composer/icepay/magento2@v1.0.1
 - pkg:composer/icepay/magento2@v1.1.0
 - pkg:composer/icepay/magento2@v1.1.1
+- pkg:composer/icepay/magento2@v1.1.2
