@@ -124,6 +124,7 @@
 - pkg:composer/nextstage-brasil/ns-util@1.101.10
 - pkg:composer/nextstage-brasil/ns-util@1.101.11
 - pkg:composer/nextstage-brasil/ns-util@1.101.12
+- pkg:composer/nextstage-brasil/ns-util@1.101.14
 - pkg:composer/nextstage-brasil/ns-util@1.101.2
 - pkg:composer/nextstage-brasil/ns-util@1.101.3
 - pkg:composer/nextstage-brasil/ns-util@1.101.4
@@ -1091,3 +1092,6 @@
 - pkg:composer/nextstage-brasil/ns-util@1.99.5
 - pkg:composer/nextstage-brasil/ns-util@2.0.0
 - pkg:composer/nextstage-brasil/ns-util@2.1.0
+- pkg:composer/nextstage-brasil/ns-util@2.1.1
+- pkg:composer/nextstage-brasil/ns-util@2.1.2
+- pkg:composer/nextstage-brasil/ns-util@2.1.3
