@@ -55,3 +55,4 @@
 - pkg:composer/onfido/onfido-php@9.4.0
 - pkg:composer/onfido/onfido-php@9.5.0
 - pkg:composer/onfido/onfido-php@9.6.0
+- pkg:composer/onfido/onfido-php@9.7.0

@@ -79,3 +79,4 @@
 - pkg:composer/officeguy/laravel-sumit-gateway@v2.5.1
 - pkg:composer/officeguy/laravel-sumit-gateway@v2.6.0
 - pkg:composer/officeguy/laravel-sumit-gateway@v2.6.1
+- pkg:composer/officeguy/laravel-sumit-gateway@v2.6.2

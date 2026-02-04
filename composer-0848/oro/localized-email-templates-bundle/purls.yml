@@ -40,3 +40,4 @@
 - pkg:composer/oro/localized-email-templates-bundle@6.1.0-rc
 - pkg:composer/oro/localized-email-templates-bundle@6.1.0-rc.2
 - pkg:composer/oro/localized-email-templates-bundle@6.1.0-rc.3
+- pkg:composer/oro/localized-email-templates-bundle@7.0.0-rc

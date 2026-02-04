@@ -4,3 +4,4 @@
 - pkg:composer/niladam/laravel-sendsms@2.0
 - pkg:composer/niladam/laravel-sendsms@3.0
 - pkg:composer/niladam/laravel-sendsms@3.0.1
+- pkg:composer/niladam/laravel-sendsms@3.0.2

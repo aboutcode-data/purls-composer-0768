@@ -11,3 +11,4 @@
 - pkg:composer/oro/gen-ai@6.1.0-rc.3
 - pkg:composer/oro/gen-ai@6.1.1
 - pkg:composer/oro/gen-ai@6.1.2
+- pkg:composer/oro/gen-ai@7.0.0-rc

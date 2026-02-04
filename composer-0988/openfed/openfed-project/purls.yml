@@ -15,4 +15,5 @@
 - pkg:composer/openfed/openfed-project@12.5.0-beta1
 - pkg:composer/openfed/openfed-project@12.5.1
 - pkg:composer/openfed/openfed-project@12.6.0
+- pkg:composer/openfed/openfed-project@12.6.1
 - pkg:composer/openfed/openfed-project@13.6.0
