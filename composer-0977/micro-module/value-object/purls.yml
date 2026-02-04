@@ -10,6 +10,7 @@
 - pkg:composer/micro-module/value-object@v0.6.12
 - pkg:composer/micro-module/value-object@v0.6.13
 - pkg:composer/micro-module/value-object@v0.6.14
+- pkg:composer/micro-module/value-object@v0.6.15
 - pkg:composer/micro-module/value-object@v0.6.2
 - pkg:composer/micro-module/value-object@v0.6.3
 - pkg:composer/micro-module/value-object@v0.6.4

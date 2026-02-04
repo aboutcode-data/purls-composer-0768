@@ -9,3 +9,4 @@
 - pkg:composer/mollie/magento2-hyva-compatibility@2.4.0
 - pkg:composer/mollie/magento2-hyva-compatibility@2.4.1
 - pkg:composer/mollie/magento2-hyva-compatibility@2.5.0
+- pkg:composer/mollie/magento2-hyva-compatibility@v3.0.0-RC2
