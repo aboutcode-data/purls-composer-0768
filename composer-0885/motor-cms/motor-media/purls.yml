@@ -86,6 +86,7 @@
 - pkg:composer/motor-cms/motor-media@2026.5.2-RC
 - pkg:composer/motor-cms/motor-media@2026.5.3-RC
 - pkg:composer/motor-cms/motor-media@2026.5.4-RC
+- pkg:composer/motor-cms/motor-media@2026.6.3
 - pkg:composer/motor-cms/motor-media@3.0.2
 - pkg:composer/motor-cms/motor-media@3.1.1
 - pkg:composer/motor-cms/motor-media@3.10.0

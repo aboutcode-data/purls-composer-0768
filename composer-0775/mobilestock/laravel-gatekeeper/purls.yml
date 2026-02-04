@@ -893,6 +893,11 @@
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.902
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.903
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.904
+- pkg:composer/mobilestock/laravel-gatekeeper@v0.0.905
+- pkg:composer/mobilestock/laravel-gatekeeper@v0.0.906
+- pkg:composer/mobilestock/laravel-gatekeeper@v0.0.907
+- pkg:composer/mobilestock/laravel-gatekeeper@v0.0.908
+- pkg:composer/mobilestock/laravel-gatekeeper@v0.0.909
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.91
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.92
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.93
