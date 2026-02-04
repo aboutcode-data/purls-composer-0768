@@ -124,6 +124,7 @@
 - pkg:composer/elegantly/laravel-media@v4.4.2
 - pkg:composer/elegantly/laravel-media@v4.5.0
 - pkg:composer/elegantly/laravel-media@v4.5.1
+- pkg:composer/elegantly/laravel-media@v4.5.10
 - pkg:composer/elegantly/laravel-media@v4.5.2
 - pkg:composer/elegantly/laravel-media@v4.5.3
 - pkg:composer/elegantly/laravel-media@v4.5.4
@@ -131,3 +132,4 @@
 - pkg:composer/elegantly/laravel-media@v4.5.6
 - pkg:composer/elegantly/laravel-media@v4.5.7
 - pkg:composer/elegantly/laravel-media@v4.5.8
+- pkg:composer/elegantly/laravel-media@v4.5.9
