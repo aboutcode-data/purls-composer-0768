@@ -21,3 +21,4 @@
 - pkg:composer/memcrab/db@2.3.1
 - pkg:composer/memcrab/db@2.3.2
 - pkg:composer/memcrab/db@2.4.0
+- pkg:composer/memcrab/db@2.4.1
