@@ -41,6 +41,7 @@
 - pkg:composer/private-packagist/api-client@1.39.0
 - pkg:composer/private-packagist/api-client@1.4.0
 - pkg:composer/private-packagist/api-client@1.40.0
+- pkg:composer/private-packagist/api-client@1.40.1
 - pkg:composer/private-packagist/api-client@1.5.0
 - pkg:composer/private-packagist/api-client@1.6.0
 - pkg:composer/private-packagist/api-client@1.7.0
