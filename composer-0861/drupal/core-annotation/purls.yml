@@ -95,6 +95,7 @@
 - pkg:composer/drupal/core-annotation@10.6.0-rc1
 - pkg:composer/drupal/core-annotation@10.6.1
 - pkg:composer/drupal/core-annotation@10.6.2
+- pkg:composer/drupal/core-annotation@10.6.3
 - pkg:composer/drupal/core-annotation@11.0.0
 - pkg:composer/drupal/core-annotation@11.0.0-alpha1
 - pkg:composer/drupal/core-annotation@11.0.0-beta1
@@ -146,6 +147,7 @@
 - pkg:composer/drupal/core-annotation@11.3.0-rc2
 - pkg:composer/drupal/core-annotation@11.3.1
 - pkg:composer/drupal/core-annotation@11.3.2
+- pkg:composer/drupal/core-annotation@11.3.3
 - pkg:composer/drupal/core-annotation@8.1.0
 - pkg:composer/drupal/core-annotation@8.1.1
 - pkg:composer/drupal/core-annotation@8.1.10
