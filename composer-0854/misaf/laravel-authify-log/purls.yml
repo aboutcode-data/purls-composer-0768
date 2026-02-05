@@ -1,2 +1,7 @@
-- pkg:composer/misaf/laravel-authify-log@1.0.5
-- pkg:composer/misaf/laravel-authify-log@v1.0.0
+- pkg:composer/misaf/laravel-authify-log@1.0.0
+- pkg:composer/misaf/laravel-authify-log@1.0.1
+- pkg:composer/misaf/laravel-authify-log@1.0.2
+- pkg:composer/misaf/laravel-authify-log@1.0.3
+- pkg:composer/misaf/laravel-authify-log@1.0.6
+- pkg:composer/misaf/laravel-authify-log@1.0.8
+- pkg:composer/misaf/laravel-authify-log@1.0.9
