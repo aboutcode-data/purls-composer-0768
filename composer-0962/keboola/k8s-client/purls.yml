@@ -17,3 +17,4 @@
 - pkg:composer/keboola/k8s-client@2.6.0
 - pkg:composer/keboola/k8s-client@2.7.0
 - pkg:composer/keboola/k8s-client@3.0.0
+- pkg:composer/keboola/k8s-client@3.1.0

@@ -4,3 +4,4 @@
 - pkg:composer/jdz/authentication@2.0.2
 - pkg:composer/jdz/authentication@3.0.0
 - pkg:composer/jdz/authentication@3.5.0
+- pkg:composer/jdz/authentication@3.6.0

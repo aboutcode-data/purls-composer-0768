@@ -22,3 +22,4 @@
 - pkg:composer/k-community/markdown-field@2.2.0
 - pkg:composer/k-community/markdown-field@3.0.0-alpha.1
 - pkg:composer/k-community/markdown-field@3.0.0-alpha.2
+- pkg:composer/k-community/markdown-field@4.0.0
