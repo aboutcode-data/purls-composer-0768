@@ -22,3 +22,4 @@
 - pkg:composer/fabianmichael/kirby-markdown-field@2.2.0
 - pkg:composer/fabianmichael/kirby-markdown-field@3.0.0-alpha.1
 - pkg:composer/fabianmichael/kirby-markdown-field@3.0.0-alpha.2
+- pkg:composer/fabianmichael/kirby-markdown-field@4.0.0
