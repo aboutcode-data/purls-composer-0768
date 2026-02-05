@@ -177,6 +177,7 @@
 - pkg:composer/google/protobuf@v4.29.3
 - pkg:composer/google/protobuf@v4.29.4
 - pkg:composer/google/protobuf@v4.29.5
+- pkg:composer/google/protobuf@v4.29.6
 - pkg:composer/google/protobuf@v4.30.0
 - pkg:composer/google/protobuf@v4.30.0RC1
 - pkg:composer/google/protobuf@v4.30.0RC2
