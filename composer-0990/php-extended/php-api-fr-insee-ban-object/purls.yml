@@ -66,6 +66,7 @@
 - pkg:composer/php-extended/php-api-fr-insee-ban-object@7.0.8
 - pkg:composer/php-extended/php-api-fr-insee-ban-object@8.0.0
 - pkg:composer/php-extended/php-api-fr-insee-ban-object@8.0.1
+- pkg:composer/php-extended/php-api-fr-insee-ban-object@8.0.10
 - pkg:composer/php-extended/php-api-fr-insee-ban-object@8.0.2
 - pkg:composer/php-extended/php-api-fr-insee-ban-object@8.0.3
 - pkg:composer/php-extended/php-api-fr-insee-ban-object@8.0.4

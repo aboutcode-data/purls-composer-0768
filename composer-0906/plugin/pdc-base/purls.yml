@@ -72,6 +72,7 @@
 - pkg:composer/plugin/pdc-base@v3.17.1
 - pkg:composer/plugin/pdc-base@v3.17.2
 - pkg:composer/plugin/pdc-base@v3.18.0
+- pkg:composer/plugin/pdc-base@v3.18.1
 - pkg:composer/plugin/pdc-base@v3.2.1
 - pkg:composer/plugin/pdc-base@v3.2.2
 - pkg:composer/plugin/pdc-base@v3.2.3

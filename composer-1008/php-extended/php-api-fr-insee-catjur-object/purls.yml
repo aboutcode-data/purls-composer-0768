@@ -59,6 +59,7 @@
 - pkg:composer/php-extended/php-api-fr-insee-catjur-object@8.0.0
 - pkg:composer/php-extended/php-api-fr-insee-catjur-object@8.0.1
 - pkg:composer/php-extended/php-api-fr-insee-catjur-object@8.0.10
+- pkg:composer/php-extended/php-api-fr-insee-catjur-object@8.0.11
 - pkg:composer/php-extended/php-api-fr-insee-catjur-object@8.0.2
 - pkg:composer/php-extended/php-api-fr-insee-catjur-object@8.0.3
 - pkg:composer/php-extended/php-api-fr-insee-catjur-object@8.0.4

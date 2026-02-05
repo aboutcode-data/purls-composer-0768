@@ -414,6 +414,7 @@
 - pkg:composer/platformsh/cli@v4.28.2
 - pkg:composer/platformsh/cli@v4.29.0
 - pkg:composer/platformsh/cli@v4.3.0
+- pkg:composer/platformsh/cli@v4.30.0
 - pkg:composer/platformsh/cli@v4.4.0
 - pkg:composer/platformsh/cli@v4.4.1
 - pkg:composer/platformsh/cli@v4.5.0

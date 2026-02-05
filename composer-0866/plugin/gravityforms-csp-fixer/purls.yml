@@ -10,3 +10,4 @@
 - pkg:composer/plugin/gravityforms-csp-fixer@v0.0.9
 - pkg:composer/plugin/gravityforms-csp-fixer@v0.1.0
 - pkg:composer/plugin/gravityforms-csp-fixer@v0.1.1
+- pkg:composer/plugin/gravityforms-csp-fixer@v0.1.2

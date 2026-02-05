@@ -1,4 +1,5 @@
 - pkg:composer/performing/laravel-harmony@0.1
+- pkg:composer/performing/laravel-harmony@0.10.0
 - pkg:composer/performing/laravel-harmony@0.2
 - pkg:composer/performing/laravel-harmony@0.3
 - pkg:composer/performing/laravel-harmony@0.3.1

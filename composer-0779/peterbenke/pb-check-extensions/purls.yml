@@ -1,6 +1,7 @@
 - pkg:composer/peterbenke/pb-check-extensions@1.0.1
 - pkg:composer/peterbenke/pb-check-extensions@1.1.0
 - pkg:composer/peterbenke/pb-check-extensions@12.4.0
+- pkg:composer/peterbenke/pb-check-extensions@13.4.0
 - pkg:composer/peterbenke/pb-check-extensions@2.0.0
 - pkg:composer/peterbenke/pb-check-extensions@3.0.0
 - pkg:composer/peterbenke/pb-check-extensions@v10.4.0
