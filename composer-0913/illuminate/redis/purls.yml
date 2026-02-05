@@ -295,6 +295,7 @@
 - pkg:composer/illuminate/redis@v12.48.1
 - pkg:composer/illuminate/redis@v12.49.0
 - pkg:composer/illuminate/redis@v12.5.0
+- pkg:composer/illuminate/redis@v12.50.0
 - pkg:composer/illuminate/redis@v12.6.0
 - pkg:composer/illuminate/redis@v12.7.0
 - pkg:composer/illuminate/redis@v12.7.1

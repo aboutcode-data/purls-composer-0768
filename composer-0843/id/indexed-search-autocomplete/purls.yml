@@ -1,2 +1,3 @@
 - pkg:composer/id/indexed-search-autocomplete@12.1.13
 - pkg:composer/id/indexed-search-autocomplete@13.0.1
+- pkg:composer/id/indexed-search-autocomplete@13.0.2
