@@ -69,6 +69,7 @@
 - pkg:composer/mantle-framework/events@v1.18.1
 - pkg:composer/mantle-framework/events@v1.18.2
 - pkg:composer/mantle-framework/events@v1.19.0
+- pkg:composer/mantle-framework/events@v1.19.1
 - pkg:composer/mantle-framework/events@v1.2.0
 - pkg:composer/mantle-framework/events@v1.3.0
 - pkg:composer/mantle-framework/events@v1.3.1
