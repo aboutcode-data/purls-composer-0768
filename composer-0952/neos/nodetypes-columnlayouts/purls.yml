@@ -302,6 +302,8 @@
 - pkg:composer/neos/nodetypes-columnlayouts@8.3.29
 - pkg:composer/neos/nodetypes-columnlayouts@8.3.3
 - pkg:composer/neos/nodetypes-columnlayouts@8.3.30
+- pkg:composer/neos/nodetypes-columnlayouts@8.3.31
+- pkg:composer/neos/nodetypes-columnlayouts@8.3.32
 - pkg:composer/neos/nodetypes-columnlayouts@8.3.4
 - pkg:composer/neos/nodetypes-columnlayouts@8.3.5
 - pkg:composer/neos/nodetypes-columnlayouts@8.3.6
@@ -311,6 +313,8 @@
 - pkg:composer/neos/nodetypes-columnlayouts@8.4.0
 - pkg:composer/neos/nodetypes-columnlayouts@8.4.1
 - pkg:composer/neos/nodetypes-columnlayouts@8.4.2
+- pkg:composer/neos/nodetypes-columnlayouts@8.4.3
+- pkg:composer/neos/nodetypes-columnlayouts@8.4.4
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.0
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.0-beta1
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.0-beta10
@@ -333,6 +337,7 @@
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.0-beta8
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.0-beta9
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.1
+- pkg:composer/neos/nodetypes-columnlayouts@9.0.10
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.2
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.3
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.4
@@ -340,5 +345,8 @@
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.6
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.7
 - pkg:composer/neos/nodetypes-columnlayouts@9.0.8
+- pkg:composer/neos/nodetypes-columnlayouts@9.0.9
 - pkg:composer/neos/nodetypes-columnlayouts@9.1.0
 - pkg:composer/neos/nodetypes-columnlayouts@9.1.1
+- pkg:composer/neos/nodetypes-columnlayouts@9.1.2
+- pkg:composer/neos/nodetypes-columnlayouts@9.1.3

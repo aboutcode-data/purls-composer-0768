@@ -7,3 +7,4 @@
 - pkg:composer/nette/routing@v3.1.0
 - pkg:composer/nette/routing@v3.1.1
 - pkg:composer/nette/routing@v3.1.2
+- pkg:composer/nette/routing@v3.1.3

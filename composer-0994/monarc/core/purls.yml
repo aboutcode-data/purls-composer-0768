@@ -52,6 +52,7 @@
 - pkg:composer/monarc/core@v2.13.3
 - pkg:composer/monarc/core@v2.13.3-p1
 - pkg:composer/monarc/core@v2.13.4
+- pkg:composer/monarc/core@v2.13.5
 - pkg:composer/monarc/core@v2.9.11
 - pkg:composer/monarc/core@v2.9.12
 - pkg:composer/monarc/core@v2.9.15

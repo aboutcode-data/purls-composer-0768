@@ -1,10 +1,1 @@
-- pkg:composer/nettoweb/laravel-cms@v2.0.1
-- pkg:composer/nettoweb/laravel-cms@v2.0.3
-- pkg:composer/nettoweb/laravel-cms@v2.0.5
-- pkg:composer/nettoweb/laravel-cms@v2.1.0
-- pkg:composer/nettoweb/laravel-cms@v2.1.4
-- pkg:composer/nettoweb/laravel-cms@v2.2.0
-- pkg:composer/nettoweb/laravel-cms@v2.4.0
-- pkg:composer/nettoweb/laravel-cms@v2.4.1
-- pkg:composer/nettoweb/laravel-cms@v2.4.2
-- pkg:composer/nettoweb/laravel-cms@v2.4.3
+- pkg:composer/nettoweb/laravel-cms@v2.6.4

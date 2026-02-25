@@ -10,6 +10,7 @@
 - pkg:composer/nitsan/ns-backup@13.0.1
 - pkg:composer/nitsan/ns-backup@13.0.2
 - pkg:composer/nitsan/ns-backup@13.0.3
+- pkg:composer/nitsan/ns-backup@14.0.0
 - pkg:composer/nitsan/ns-backup@2.0.0
 - pkg:composer/nitsan/ns-backup@2.0.1
 - pkg:composer/nitsan/ns-backup@2.1.0

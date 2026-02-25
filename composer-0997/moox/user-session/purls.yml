@@ -8,4 +8,8 @@
 - pkg:composer/moox/user-session@0.3.2
 - pkg:composer/moox/user-session@4.0.0-beta.2
 - pkg:composer/moox/user-session@4.0.0-beta.3
+- pkg:composer/moox/user-session@5.0.0-beta
+- pkg:composer/moox/user-session@5.0.1-beta
+- pkg:composer/moox/user-session@5.0.11
+- pkg:composer/moox/user-session@5.0.12
 - pkg:composer/moox/user-session@v4.0.0-beta.1

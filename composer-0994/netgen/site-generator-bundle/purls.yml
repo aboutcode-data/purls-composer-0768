@@ -12,3 +12,4 @@
 - pkg:composer/netgen/site-generator-bundle@2.0.1
 - pkg:composer/netgen/site-generator-bundle@2.0.2
 - pkg:composer/netgen/site-generator-bundle@2.0.3
+- pkg:composer/netgen/site-generator-bundle@3.0.0

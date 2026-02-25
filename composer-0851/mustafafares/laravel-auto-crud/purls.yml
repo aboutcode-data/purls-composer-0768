@@ -17,3 +17,5 @@
 - pkg:composer/mustafafares/laravel-auto-crud@v4.5.0
 - pkg:composer/mustafafares/laravel-auto-crud@v4.6.0
 - pkg:composer/mustafafares/laravel-auto-crud@v4.7.0
+- pkg:composer/mustafafares/laravel-auto-crud@v5.0.0
+- pkg:composer/mustafafares/laravel-auto-crud@v5.0.1

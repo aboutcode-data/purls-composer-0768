@@ -2,4 +2,8 @@
 - pkg:composer/moox/data@0.3.3
 - pkg:composer/moox/data@4.0.0-beta.2
 - pkg:composer/moox/data@4.0.0-beta.3
+- pkg:composer/moox/data@5.0.0-beta
+- pkg:composer/moox/data@5.0.1-beta
+- pkg:composer/moox/data@5.0.11
+- pkg:composer/moox/data@5.0.12
 - pkg:composer/moox/data@v4.0.0-beta.1

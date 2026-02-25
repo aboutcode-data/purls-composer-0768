@@ -1,9 +1,5 @@
 - pkg:composer/mr-lexx/nusoap@0.10.0
 - pkg:composer/mr-lexx/nusoap@0.10.1
-- pkg:composer/mr-lexx/nusoap@0.11.0
-- pkg:composer/mr-lexx/nusoap@0.11.1
-- pkg:composer/mr-lexx/nusoap@0.11.2
-- pkg:composer/mr-lexx/nusoap@0.11.3
 - pkg:composer/mr-lexx/nusoap@0.11.4
 - pkg:composer/mr-lexx/nusoap@0.11.5
 - pkg:composer/mr-lexx/nusoap@0.11.6

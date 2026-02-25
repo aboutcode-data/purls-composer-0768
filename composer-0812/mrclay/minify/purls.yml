@@ -22,3 +22,4 @@
 - pkg:composer/mrclay/minify@3.0.9
 - pkg:composer/mrclay/minify@4.0.0
 - pkg:composer/mrclay/minify@4.0.1
+- pkg:composer/mrclay/minify@4.0.2

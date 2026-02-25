@@ -10,3 +10,7 @@
 - pkg:composer/moox/firewall@1.0.7
 - pkg:composer/moox/firewall@1.0.8
 - pkg:composer/moox/firewall@1.0.9
+- pkg:composer/moox/firewall@5.0.0-beta
+- pkg:composer/moox/firewall@5.0.1-beta
+- pkg:composer/moox/firewall@5.0.11
+- pkg:composer/moox/firewall@5.0.12

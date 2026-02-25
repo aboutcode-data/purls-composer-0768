@@ -58,3 +58,6 @@
 - pkg:composer/net-tools/ui@1.6.1
 - pkg:composer/net-tools/ui@1.6.2
 - pkg:composer/net-tools/ui@1.6.3
+- pkg:composer/net-tools/ui@1.6.4
+- pkg:composer/net-tools/ui@1.6.5
+- pkg:composer/net-tools/ui@1.6.6

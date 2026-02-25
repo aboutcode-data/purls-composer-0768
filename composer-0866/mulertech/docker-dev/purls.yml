@@ -16,3 +16,6 @@
 - pkg:composer/mulertech/docker-dev@v2.0.4
 - pkg:composer/mulertech/docker-dev@v2.0.5
 - pkg:composer/mulertech/docker-dev@v2.0.6
+- pkg:composer/mulertech/docker-dev@v2.0.7
+- pkg:composer/mulertech/docker-dev@v2.0.8
+- pkg:composer/mulertech/docker-dev@v2.0.9

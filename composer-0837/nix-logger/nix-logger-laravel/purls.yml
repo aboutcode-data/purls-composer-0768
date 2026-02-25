@@ -8,3 +8,4 @@
 - pkg:composer/nix-logger/nix-logger-laravel@v1.3.4
 - pkg:composer/nix-logger/nix-logger-laravel@v1.3.5
 - pkg:composer/nix-logger/nix-logger-laravel@v1.3.6
+- pkg:composer/nix-logger/nix-logger-laravel@v1.3.7

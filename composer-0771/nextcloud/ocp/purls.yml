@@ -205,3 +205,5 @@
 - pkg:composer/nextcloud/ocp@v32.0.3
 - pkg:composer/nextcloud/ocp@v32.0.4
 - pkg:composer/nextcloud/ocp@v32.0.5
+- pkg:composer/nextcloud/ocp@v32.0.6
+- pkg:composer/nextcloud/ocp@v33.0.0

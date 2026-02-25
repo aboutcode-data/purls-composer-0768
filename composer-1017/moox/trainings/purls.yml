@@ -7,4 +7,8 @@
 - pkg:composer/moox/trainings@0.3.2
 - pkg:composer/moox/trainings@4.0.0-beta.2
 - pkg:composer/moox/trainings@4.0.0-beta.3
+- pkg:composer/moox/trainings@5.0.0-beta
+- pkg:composer/moox/trainings@5.0.1-beta
+- pkg:composer/moox/trainings@5.0.11-beta
+- pkg:composer/moox/trainings@5.0.12-beta
 - pkg:composer/moox/trainings@v4.0.0-beta.1

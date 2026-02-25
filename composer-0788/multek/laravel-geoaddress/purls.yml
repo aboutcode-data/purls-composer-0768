@@ -1,1 +1,4 @@
 - pkg:composer/multek/laravel-geoaddress@v1.0.0
+- pkg:composer/multek/laravel-geoaddress@v1.0.1
+- pkg:composer/multek/laravel-geoaddress@v1.0.2
+- pkg:composer/multek/laravel-geoaddress@v1.0.3
