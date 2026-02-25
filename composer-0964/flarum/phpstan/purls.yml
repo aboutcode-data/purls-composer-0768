@@ -5,3 +5,4 @@
 - pkg:composer/flarum/phpstan@v2.0.0-beta.3
 - pkg:composer/flarum/phpstan@v2.0.0-beta.5
 - pkg:composer/flarum/phpstan@v2.0.0-beta.6
+- pkg:composer/flarum/phpstan@v2.0.0-beta.7

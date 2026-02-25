@@ -17,3 +17,4 @@
 - pkg:composer/garkavenkov/db-connector@v1.1.0
 - pkg:composer/garkavenkov/db-connector@v1.1.1
 - pkg:composer/garkavenkov/db-connector@v1.2.0
+- pkg:composer/garkavenkov/db-connector@v2.0.0

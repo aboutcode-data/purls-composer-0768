@@ -1,1 +1,2 @@
 - pkg:composer/flow-php/telemetry@0.31.0
+- pkg:composer/flow-php/telemetry@0.32.0

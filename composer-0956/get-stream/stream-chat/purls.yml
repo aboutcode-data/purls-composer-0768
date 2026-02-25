@@ -38,6 +38,7 @@
 - pkg:composer/get-stream/stream-chat@3.14.0
 - pkg:composer/get-stream/stream-chat@3.15.0
 - pkg:composer/get-stream/stream-chat@3.16.0
+- pkg:composer/get-stream/stream-chat@3.16.1
 - pkg:composer/get-stream/stream-chat@3.3.0
 - pkg:composer/get-stream/stream-chat@3.4.0
 - pkg:composer/get-stream/stream-chat@3.4.1

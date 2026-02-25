@@ -84,6 +84,8 @@
 - pkg:composer/govcms-poc/govcms@3.28.0
 - pkg:composer/govcms-poc/govcms@3.28.1
 - pkg:composer/govcms-poc/govcms@3.28.2
+- pkg:composer/govcms-poc/govcms@3.28.3
+- pkg:composer/govcms-poc/govcms@3.29.0
 - pkg:composer/govcms-poc/govcms@3.3.0
 - pkg:composer/govcms-poc/govcms@3.4.0
 - pkg:composer/govcms-poc/govcms@3.5.0
@@ -96,3 +98,4 @@
 - pkg:composer/govcms-poc/govcms@4.0.0-beta
 - pkg:composer/govcms-poc/govcms@4.0.0-beta2
 - pkg:composer/govcms-poc/govcms@4.1.0
+- pkg:composer/govcms-poc/govcms@4.2.0

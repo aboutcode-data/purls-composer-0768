@@ -2,3 +2,4 @@
 - pkg:composer/freyr/message-broker@v0.2.1
 - pkg:composer/freyr/message-broker@v0.2.2
 - pkg:composer/freyr/message-broker@v0.2.3
+- pkg:composer/freyr/message-broker@v0.3.0

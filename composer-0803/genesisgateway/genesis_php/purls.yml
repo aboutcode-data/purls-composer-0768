@@ -80,3 +80,4 @@
 - pkg:composer/genesisgateway/genesis_php@2.1.6
 - pkg:composer/genesisgateway/genesis_php@2.1.7
 - pkg:composer/genesisgateway/genesis_php@2.2.0
+- pkg:composer/genesisgateway/genesis_php@2.2.1

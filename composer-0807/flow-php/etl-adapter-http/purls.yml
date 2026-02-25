@@ -40,6 +40,7 @@
 - pkg:composer/flow-php/etl-adapter-http@0.3.3
 - pkg:composer/flow-php/etl-adapter-http@0.30.0
 - pkg:composer/flow-php/etl-adapter-http@0.31.0
+- pkg:composer/flow-php/etl-adapter-http@0.32.0
 - pkg:composer/flow-php/etl-adapter-http@0.4.0
 - pkg:composer/flow-php/etl-adapter-http@0.5.0
 - pkg:composer/flow-php/etl-adapter-http@0.5.1

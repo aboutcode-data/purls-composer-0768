@@ -16,3 +16,5 @@
 - pkg:composer/getgrav/markdowndocs@1.3.7
 - pkg:composer/getgrav/markdowndocs@1.3.8
 - pkg:composer/getgrav/markdowndocs@2.0.1
+- pkg:composer/getgrav/markdowndocs@3.0.0
+- pkg:composer/getgrav/markdowndocs@3.0.1

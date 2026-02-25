@@ -26,3 +26,5 @@
 - pkg:composer/forci/catchable-bundle@v0.8.5
 - pkg:composer/forci/catchable-bundle@v0.8.6
 - pkg:composer/forci/catchable-bundle@v0.8.7
+- pkg:composer/forci/catchable-bundle@v0.8.8
+- pkg:composer/forci/catchable-bundle@v0.8.9

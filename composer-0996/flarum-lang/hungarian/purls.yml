@@ -18,6 +18,7 @@
 - pkg:composer/flarum-lang/hungarian@v2.0.9
 - pkg:composer/flarum-lang/hungarian@v2.1.0
 - pkg:composer/flarum-lang/hungarian@v2.10.0
+- pkg:composer/flarum-lang/hungarian@v2.10.1
 - pkg:composer/flarum-lang/hungarian@v2.2.0
 - pkg:composer/flarum-lang/hungarian@v2.2.1
 - pkg:composer/flarum-lang/hungarian@v2.3.0

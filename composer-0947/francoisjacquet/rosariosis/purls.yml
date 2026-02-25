@@ -94,6 +94,9 @@
 - pkg:composer/francoisjacquet/rosariosis@v12.5
 - pkg:composer/francoisjacquet/rosariosis@v12.6
 - pkg:composer/francoisjacquet/rosariosis@v12.7
+- pkg:composer/francoisjacquet/rosariosis@v12.7.1
+- pkg:composer/francoisjacquet/rosariosis@v12.7.2
+- pkg:composer/francoisjacquet/rosariosis@v12.7.3
 - pkg:composer/francoisjacquet/rosariosis@v5.0
 - pkg:composer/francoisjacquet/rosariosis@v5.0-beta3
 - pkg:composer/francoisjacquet/rosariosis@v5.0-beta4
