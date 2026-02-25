@@ -7,3 +7,4 @@
 - pkg:composer/lanyunit/laravel-uploader@v1.0.7
 - pkg:composer/lanyunit/laravel-uploader@v1.0.8
 - pkg:composer/lanyunit/laravel-uploader@v1.0.9
+- pkg:composer/lanyunit/laravel-uploader@v1.1.0

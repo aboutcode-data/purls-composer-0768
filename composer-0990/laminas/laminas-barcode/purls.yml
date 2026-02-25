@@ -20,6 +20,7 @@
 - pkg:composer/laminas/laminas-barcode@2.13.0
 - pkg:composer/laminas/laminas-barcode@2.14.0
 - pkg:composer/laminas/laminas-barcode@2.15.0
+- pkg:composer/laminas/laminas-barcode@2.16.0
 - pkg:composer/laminas/laminas-barcode@2.2.0
 - pkg:composer/laminas/laminas-barcode@2.2.0rc1
 - pkg:composer/laminas/laminas-barcode@2.2.0rc2

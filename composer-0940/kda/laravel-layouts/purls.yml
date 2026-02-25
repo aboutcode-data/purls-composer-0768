@@ -34,3 +34,4 @@
 - pkg:composer/kda/laravel-layouts@3.0.8
 - pkg:composer/kda/laravel-layouts@3.2.0
 - pkg:composer/kda/laravel-layouts@4.0.0
+- pkg:composer/kda/laravel-layouts@5.0.0

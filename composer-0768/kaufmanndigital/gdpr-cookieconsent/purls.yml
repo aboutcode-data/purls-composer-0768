@@ -109,7 +109,10 @@
 - pkg:composer/kaufmanndigital/gdpr-cookieconsent@5.4.7
 - pkg:composer/kaufmanndigital/gdpr-cookieconsent@5.4.8
 - pkg:composer/kaufmanndigital/gdpr-cookieconsent@5.4.9
+- pkg:composer/kaufmanndigital/gdpr-cookieconsent@5.5.0
 - pkg:composer/kaufmanndigital/gdpr-cookieconsent@6.0.0
 - pkg:composer/kaufmanndigital/gdpr-cookieconsent@6.0.1
 - pkg:composer/kaufmanndigital/gdpr-cookieconsent@6.0.2
 - pkg:composer/kaufmanndigital/gdpr-cookieconsent@6.0.3
+- pkg:composer/kaufmanndigital/gdpr-cookieconsent@6.0.4
+- pkg:composer/kaufmanndigital/gdpr-cookieconsent@6.1.0

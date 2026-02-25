@@ -25,3 +25,6 @@
 - pkg:composer/laikait/laika-core@v2.4.6
 - pkg:composer/laikait/laika-core@v2.5.1
 - pkg:composer/laikait/laika-core@v2.5.2
+- pkg:composer/laikait/laika-core@v2.5.3
+- pkg:composer/laikait/laika-core@v2.6.0
+- pkg:composer/laikait/laika-core@v2.6.1

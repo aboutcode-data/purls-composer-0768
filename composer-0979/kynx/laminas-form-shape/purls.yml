@@ -20,3 +20,4 @@
 - pkg:composer/kynx/laminas-form-shape@0.6.3
 - pkg:composer/kynx/laminas-form-shape@0.7.0
 - pkg:composer/kynx/laminas-form-shape@0.7.1
+- pkg:composer/kynx/laminas-form-shape@0.7.2

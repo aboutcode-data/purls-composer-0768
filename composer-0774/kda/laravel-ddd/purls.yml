@@ -12,3 +12,4 @@
 - pkg:composer/kda/laravel-ddd@1.3.5
 - pkg:composer/kda/laravel-ddd@1.4.0
 - pkg:composer/kda/laravel-ddd@2.0.0
+- pkg:composer/kda/laravel-ddd@2.0.1
