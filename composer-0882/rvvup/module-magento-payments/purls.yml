@@ -74,6 +74,7 @@
 - pkg:composer/rvvup/module-magento-payments@1.11.1
 - pkg:composer/rvvup/module-magento-payments@1.12.0
 - pkg:composer/rvvup/module-magento-payments@1.12.1
+- pkg:composer/rvvup/module-magento-payments@1.13.0
 - pkg:composer/rvvup/module-magento-payments@1.2.0
 - pkg:composer/rvvup/module-magento-payments@1.2.1
 - pkg:composer/rvvup/module-magento-payments@1.3.0

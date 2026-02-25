@@ -36,3 +36,4 @@
 - pkg:composer/revolution/laravel-mastodon-api@3.3.1
 - pkg:composer/revolution/laravel-mastodon-api@3.3.2
 - pkg:composer/revolution/laravel-mastodon-api@3.4.0
+- pkg:composer/revolution/laravel-mastodon-api@3.5.0

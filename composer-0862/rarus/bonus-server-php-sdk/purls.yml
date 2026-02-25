@@ -27,6 +27,8 @@
 - pkg:composer/rarus/bonus-server-php-sdk@1.4.1
 - pkg:composer/rarus/bonus-server-php-sdk@2.0.0
 - pkg:composer/rarus/bonus-server-php-sdk@2.0.1
+- pkg:composer/rarus/bonus-server-php-sdk@2.0.2
+- pkg:composer/rarus/bonus-server-php-sdk@2.0.3
 - pkg:composer/rarus/bonus-server-php-sdk@v0.8.0
 - pkg:composer/rarus/bonus-server-php-sdk@v0.8.1
 - pkg:composer/rarus/bonus-server-php-sdk@v0.8.1.1

@@ -137,6 +137,8 @@
 - pkg:composer/roadiz/two-factor-bundle@v2.5.4
 - pkg:composer/roadiz/two-factor-bundle@v2.5.40
 - pkg:composer/roadiz/two-factor-bundle@v2.5.41
+- pkg:composer/roadiz/two-factor-bundle@v2.5.42
+- pkg:composer/roadiz/two-factor-bundle@v2.5.43
 - pkg:composer/roadiz/two-factor-bundle@v2.5.5
 - pkg:composer/roadiz/two-factor-bundle@v2.5.6
 - pkg:composer/roadiz/two-factor-bundle@v2.5.7
@@ -171,3 +173,4 @@
 - pkg:composer/roadiz/two-factor-bundle@v2.6.9
 - pkg:composer/roadiz/two-factor-bundle@v2.7.0
 - pkg:composer/roadiz/two-factor-bundle@v2.7.1
+- pkg:composer/roadiz/two-factor-bundle@v2.7.2

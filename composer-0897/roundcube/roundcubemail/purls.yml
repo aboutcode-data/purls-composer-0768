@@ -2,3 +2,5 @@
 - pkg:composer/roundcube/roundcubemail@1.7-beta2
 - pkg:composer/roundcube/roundcubemail@1.7-rc
 - pkg:composer/roundcube/roundcubemail@1.7-rc2
+- pkg:composer/roundcube/roundcubemail@1.7-rc3
+- pkg:composer/roundcube/roundcubemail@1.7-rc4

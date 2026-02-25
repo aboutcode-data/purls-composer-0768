@@ -1,0 +1,2 @@
+- pkg:composer/robuust/laravel-heroku-queue-listener@v1.0.0
+- pkg:composer/robuust/laravel-heroku-queue-listener@v1.1.0
