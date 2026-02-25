@@ -36,6 +36,7 @@
 - pkg:composer/marketpay/sdk-php@6.4.5
 - pkg:composer/marketpay/sdk-php@6.4.6
 - pkg:composer/marketpay/sdk-php@6.4.7
+- pkg:composer/marketpay/sdk-php@6.4.8
 - pkg:composer/marketpay/sdk-php@v1.0.0
 - pkg:composer/marketpay/sdk-php@v1.4.3
 - pkg:composer/marketpay/sdk-php@v1.5

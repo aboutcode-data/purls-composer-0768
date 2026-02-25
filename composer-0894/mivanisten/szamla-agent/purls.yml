@@ -1,3 +1,4 @@
 - pkg:composer/mivanisten/szamla-agent@2.10.17
 - pkg:composer/mivanisten/szamla-agent@2.10.20
 - pkg:composer/mivanisten/szamla-agent@2.10.21
+- pkg:composer/mivanisten/szamla-agent@2.10.21-patch1

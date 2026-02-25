@@ -6,3 +6,5 @@
 - pkg:composer/mgcodeur/laravel-translation-loader@1.0.6
 - pkg:composer/mgcodeur/laravel-translation-loader@1.0.7
 - pkg:composer/mgcodeur/laravel-translation-loader@1.0.8
+- pkg:composer/mgcodeur/laravel-translation-loader@1.0.9
+- pkg:composer/mgcodeur/laravel-translation-loader@1.1.0

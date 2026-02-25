@@ -21,3 +21,6 @@
 - pkg:composer/mediawiki/comment-streams@9.0.2
 - pkg:composer/mediawiki/comment-streams@9.0.3
 - pkg:composer/mediawiki/comment-streams@9.0.4
+- pkg:composer/mediawiki/comment-streams@9.0.5
+- pkg:composer/mediawiki/comment-streams@9.0.6
+- pkg:composer/mediawiki/comment-streams@9.0.7

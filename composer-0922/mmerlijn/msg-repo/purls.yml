@@ -75,6 +75,9 @@
 - pkg:composer/mmerlijn/msg-repo@v3.3.1
 - pkg:composer/mmerlijn/msg-repo@v3.4
 - pkg:composer/mmerlijn/msg-repo@v3.4.1
+- pkg:composer/mmerlijn/msg-repo@v3.4.10
+- pkg:composer/mmerlijn/msg-repo@v3.4.11
+- pkg:composer/mmerlijn/msg-repo@v3.4.12
 - pkg:composer/mmerlijn/msg-repo@v3.4.2
 - pkg:composer/mmerlijn/msg-repo@v3.4.3
 - pkg:composer/mmerlijn/msg-repo@v3.4.4
@@ -82,3 +85,4 @@
 - pkg:composer/mmerlijn/msg-repo@v3.4.6
 - pkg:composer/mmerlijn/msg-repo@v3.4.7
 - pkg:composer/mmerlijn/msg-repo@v3.4.8
+- pkg:composer/mmerlijn/msg-repo@v3.4.9

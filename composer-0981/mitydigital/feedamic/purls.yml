@@ -16,6 +16,7 @@
 - pkg:composer/mitydigital/feedamic@2.5.0
 - pkg:composer/mitydigital/feedamic@3.0.0
 - pkg:composer/mitydigital/feedamic@3.0.1
+- pkg:composer/mitydigital/feedamic@3.0.10
 - pkg:composer/mitydigital/feedamic@3.0.2
 - pkg:composer/mitydigital/feedamic@3.0.3
 - pkg:composer/mitydigital/feedamic@3.0.4
@@ -23,6 +24,7 @@
 - pkg:composer/mitydigital/feedamic@3.0.6
 - pkg:composer/mitydigital/feedamic@3.0.7
 - pkg:composer/mitydigital/feedamic@3.0.8
+- pkg:composer/mitydigital/feedamic@3.0.9
 - pkg:composer/mitydigital/feedamic@v1.0
 - pkg:composer/mitydigital/feedamic@v1.1
 - pkg:composer/mitydigital/feedamic@v1.2

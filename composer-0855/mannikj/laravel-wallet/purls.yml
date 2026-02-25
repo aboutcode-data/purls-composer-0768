@@ -14,6 +14,8 @@
 - pkg:composer/mannikj/laravel-wallet@v11.1.0
 - pkg:composer/mannikj/laravel-wallet@v11.2.0
 - pkg:composer/mannikj/laravel-wallet@v11.2.1
+- pkg:composer/mannikj/laravel-wallet@v11.2.2
+- pkg:composer/mannikj/laravel-wallet@v11.3.0
 - pkg:composer/mannikj/laravel-wallet@v2.0.1
 - pkg:composer/mannikj/laravel-wallet@v2.1.0
 - pkg:composer/mannikj/laravel-wallet@v2.1.1

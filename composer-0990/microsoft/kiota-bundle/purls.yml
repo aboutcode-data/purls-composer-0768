@@ -1,1 +1,2 @@
 - pkg:composer/microsoft/kiota-bundle@1.5.0
+- pkg:composer/microsoft/kiota-bundle@2.0.0

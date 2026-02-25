@@ -7,3 +7,4 @@
 - pkg:composer/minvws/audit-logger-bundle@0.5.1-rc.1
 - pkg:composer/minvws/audit-logger-bundle@0.5.2
 - pkg:composer/minvws/audit-logger-bundle@0.5.3
+- pkg:composer/minvws/audit-logger-bundle@0.6.0

@@ -45,6 +45,7 @@
 - pkg:composer/mautic/theme-fresh-wide@5.1.1
 - pkg:composer/mautic/theme-fresh-wide@5.2.0
 - pkg:composer/mautic/theme-fresh-wide@5.2.1
+- pkg:composer/mautic/theme-fresh-wide@5.2.10
 - pkg:composer/mautic/theme-fresh-wide@5.2.2
 - pkg:composer/mautic/theme-fresh-wide@5.2.3
 - pkg:composer/mautic/theme-fresh-wide@5.2.4
@@ -65,8 +66,10 @@
 - pkg:composer/mautic/theme-fresh-wide@6.0.5
 - pkg:composer/mautic/theme-fresh-wide@6.0.6
 - pkg:composer/mautic/theme-fresh-wide@6.0.7
+- pkg:composer/mautic/theme-fresh-wide@6.0.8
 - pkg:composer/mautic/theme-fresh-wide@7.0.0
 - pkg:composer/mautic/theme-fresh-wide@7.0.0-alpha
 - pkg:composer/mautic/theme-fresh-wide@7.0.0-beta
 - pkg:composer/mautic/theme-fresh-wide@7.0.0-rc
 - pkg:composer/mautic/theme-fresh-wide@7.0.0-rc2
+- pkg:composer/mautic/theme-fresh-wide@7.0.1

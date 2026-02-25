@@ -2,6 +2,8 @@
 - pkg:composer/marshmallow/marketing-data-tracker@v1.0.1
 - pkg:composer/marshmallow/marketing-data-tracker@v1.0.2
 - pkg:composer/marshmallow/marketing-data-tracker@v1.1.0
+- pkg:composer/marshmallow/marketing-data-tracker@v1.2.0
+- pkg:composer/marshmallow/marketing-data-tracker@v1.2.1
 - pkg:composer/marshmallow/marketing-data-tracker@v2.0.0-alpha
 - pkg:composer/marshmallow/marketing-data-tracker@v2.0.1
 - pkg:composer/marshmallow/marketing-data-tracker@v2.0.2
@@ -9,3 +11,4 @@
 - pkg:composer/marshmallow/marketing-data-tracker@v2.0.4
 - pkg:composer/marshmallow/marketing-data-tracker@v2.0.5
 - pkg:composer/marshmallow/marketing-data-tracker@v2.1.0
+- pkg:composer/marshmallow/marketing-data-tracker@v2.1.1
