@@ -10,3 +10,6 @@
 - pkg:composer/hubleto/assets@0.24
 - pkg:composer/hubleto/assets@0.25
 - pkg:composer/hubleto/assets@0.26
+- pkg:composer/hubleto/assets@0.27
+- pkg:composer/hubleto/assets@0.27.1
+- pkg:composer/hubleto/assets@0.28

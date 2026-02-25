@@ -23,6 +23,7 @@
 - pkg:composer/hypervel/hypervel@v0.3.14
 - pkg:composer/hypervel/hypervel@v0.3.17
 - pkg:composer/hypervel/hypervel@v0.3.18
+- pkg:composer/hypervel/hypervel@v0.3.19
 - pkg:composer/hypervel/hypervel@v0.3.2
 - pkg:composer/hypervel/hypervel@v0.3.3
 - pkg:composer/hypervel/hypervel@v0.3.6

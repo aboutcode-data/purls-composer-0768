@@ -33,3 +33,4 @@
 - pkg:composer/idoneo/cms-core@v1.4.1
 - pkg:composer/idoneo/cms-core@v1.4.2
 - pkg:composer/idoneo/cms-core@v1.4.4
+- pkg:composer/idoneo/cms-core@v2.0.0

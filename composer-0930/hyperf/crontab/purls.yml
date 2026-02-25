@@ -85,8 +85,10 @@
 - pkg:composer/hyperf/crontab@v3.1.6
 - pkg:composer/hyperf/crontab@v3.1.6.1
 - pkg:composer/hyperf/crontab@v3.1.63
+- pkg:composer/hyperf/crontab@v3.1.67
 - pkg:composer/hyperf/crontab@v3.1.7
 - pkg:composer/hyperf/crontab@v3.1.8
 - pkg:composer/hyperf/crontab@v3.1.9
 - pkg:composer/hyperf/crontab@v3.2.0-alpha.1
 - pkg:composer/hyperf/crontab@v3.2.0-alpha.3
+- pkg:composer/hyperf/crontab@v3.2.0-beta.2

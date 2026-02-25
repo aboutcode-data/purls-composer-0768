@@ -17,3 +17,7 @@
 - pkg:composer/ignf/validator-api@v0.5.4
 - pkg:composer/ignf/validator-api@v0.5.5
 - pkg:composer/ignf/validator-api@v0.5.6
+- pkg:composer/ignf/validator-api@v0.5.7
+- pkg:composer/ignf/validator-api@v0.5.8
+- pkg:composer/ignf/validator-api@v0.6.0
+- pkg:composer/ignf/validator-api@v0.6.1

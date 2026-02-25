@@ -55,3 +55,4 @@
 - pkg:composer/heimrichhannot/contao-watchlist-bundle@3.9.1
 - pkg:composer/heimrichhannot/contao-watchlist-bundle@3.9.2
 - pkg:composer/heimrichhannot/contao-watchlist-bundle@3.9.3
+- pkg:composer/heimrichhannot/contao-watchlist-bundle@4.0.0-beta1

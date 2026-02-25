@@ -12,3 +12,5 @@
 - pkg:composer/habeuk/drupal_project_habeuk@10.0.5
 - pkg:composer/habeuk/drupal_project_habeuk@10.0.6
 - pkg:composer/habeuk/drupal_project_habeuk@10.0.9
+- pkg:composer/habeuk/drupal_project_habeuk@10.1.0
+- pkg:composer/habeuk/drupal_project_habeuk@10.1.1

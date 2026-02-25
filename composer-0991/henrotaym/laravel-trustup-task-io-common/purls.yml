@@ -5,3 +5,5 @@
 - pkg:composer/henrotaym/laravel-trustup-task-io-common@v1.1.0-alpha.0
 - pkg:composer/henrotaym/laravel-trustup-task-io-common@v1.1.0-alpha.1
 - pkg:composer/henrotaym/laravel-trustup-task-io-common@v1.2.0
+- pkg:composer/henrotaym/laravel-trustup-task-io-common@v2.0.0
+- pkg:composer/henrotaym/laravel-trustup-task-io-common@v2.0.1

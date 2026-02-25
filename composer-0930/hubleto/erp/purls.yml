@@ -18,6 +18,12 @@
 - pkg:composer/hubleto/erp@0.24
 - pkg:composer/hubleto/erp@0.25
 - pkg:composer/hubleto/erp@0.26
+- pkg:composer/hubleto/erp@0.27
+- pkg:composer/hubleto/erp@0.27.1
+- pkg:composer/hubleto/erp@0.27.2
+- pkg:composer/hubleto/erp@0.27.3
+- pkg:composer/hubleto/erp@0.28
+- pkg:composer/hubleto/erp@0.28.1
 - pkg:composer/hubleto/erp@v0.1.0
 - pkg:composer/hubleto/erp@v0.11
 - pkg:composer/hubleto/erp@v0.12

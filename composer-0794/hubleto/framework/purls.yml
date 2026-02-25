@@ -17,4 +17,7 @@
 - pkg:composer/hubleto/framework@0.24
 - pkg:composer/hubleto/framework@0.25
 - pkg:composer/hubleto/framework@0.26
+- pkg:composer/hubleto/framework@0.27
+- pkg:composer/hubleto/framework@0.27.1
+- pkg:composer/hubleto/framework@0.28
 - pkg:composer/hubleto/framework@v0.14

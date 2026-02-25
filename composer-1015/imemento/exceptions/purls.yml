@@ -1,3 +1,4 @@
+- pkg:composer/imemento/exceptions@12.0.0
 - pkg:composer/imemento/exceptions@5.6.0
 - pkg:composer/imemento/exceptions@5.7.0
 - pkg:composer/imemento/exceptions@5.8.0

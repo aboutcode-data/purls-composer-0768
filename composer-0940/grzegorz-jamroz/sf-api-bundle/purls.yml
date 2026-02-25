@@ -4,6 +4,8 @@
 - pkg:composer/grzegorz-jamroz/sf-api-bundle@7.0.1
 - pkg:composer/grzegorz-jamroz/sf-api-bundle@7.0.2
 - pkg:composer/grzegorz-jamroz/sf-api-bundle@7.0.3
+- pkg:composer/grzegorz-jamroz/sf-api-bundle@8.0.0
+- pkg:composer/grzegorz-jamroz/sf-api-bundle@8.0.1
 - pkg:composer/grzegorz-jamroz/sf-api-bundle@v6.1.1
 - pkg:composer/grzegorz-jamroz/sf-api-bundle@v6.1.2
 - pkg:composer/grzegorz-jamroz/sf-api-bundle@v6.2.0

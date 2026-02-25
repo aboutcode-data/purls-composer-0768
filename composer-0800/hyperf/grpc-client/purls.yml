@@ -67,3 +67,4 @@
 - pkg:composer/hyperf/grpc-client@v3.2.0-alpha.1
 - pkg:composer/hyperf/grpc-client@v3.2.0-alpha.3
 - pkg:composer/hyperf/grpc-client@v3.2.0-beta.1
+- pkg:composer/hyperf/grpc-client@v3.2.0-beta.2

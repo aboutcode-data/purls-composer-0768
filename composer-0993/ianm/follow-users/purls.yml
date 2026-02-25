@@ -28,7 +28,10 @@
 - pkg:composer/ianm/follow-users@1.4.7
 - pkg:composer/ianm/follow-users@1.4.8
 - pkg:composer/ianm/follow-users@1.4.9
+- pkg:composer/ianm/follow-users@1.5.0
 - pkg:composer/ianm/follow-users@2.0.0-beta.1
 - pkg:composer/ianm/follow-users@2.0.0-beta.2
 - pkg:composer/ianm/follow-users@2.0.0-beta.3
 - pkg:composer/ianm/follow-users@2.0.0-beta.4
+- pkg:composer/ianm/follow-users@2.0.0-beta.5
+- pkg:composer/ianm/follow-users@2.0.0-beta.6

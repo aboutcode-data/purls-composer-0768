@@ -12,3 +12,5 @@
 - pkg:composer/guanguans/rector-rules@1.5.2
 - pkg:composer/guanguans/rector-rules@1.6.0
 - pkg:composer/guanguans/rector-rules@1.6.1
+- pkg:composer/guanguans/rector-rules@1.6.2
+- pkg:composer/guanguans/rector-rules@1.6.3
