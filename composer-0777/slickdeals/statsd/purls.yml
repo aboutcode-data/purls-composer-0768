@@ -35,3 +35,4 @@
 - pkg:composer/slickdeals/statsd@3.2.0
 - pkg:composer/slickdeals/statsd@3.2.1
 - pkg:composer/slickdeals/statsd@3.2.2
+- pkg:composer/slickdeals/statsd@3.2.3

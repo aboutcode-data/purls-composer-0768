@@ -61,3 +61,4 @@
 - pkg:composer/silverstripe/taxonomy@4.1.0-beta1
 - pkg:composer/silverstripe/taxonomy@4.1.0-rc1
 - pkg:composer/silverstripe/taxonomy@4.1.1
+- pkg:composer/silverstripe/taxonomy@4.2.0-beta1

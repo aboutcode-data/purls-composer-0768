@@ -4,4 +4,5 @@
 - pkg:composer/simpod/json-rpc@0.2.1
 - pkg:composer/simpod/json-rpc@0.2.2
 - pkg:composer/simpod/json-rpc@0.2.3
+- pkg:composer/simpod/json-rpc@0.2.4
 - pkg:composer/simpod/json-rpc@v0.1.0

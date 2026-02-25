@@ -47,6 +47,7 @@
 - pkg:composer/silverstripe/lumberjack@3.3.0-rc1
 - pkg:composer/silverstripe/lumberjack@3.3.1
 - pkg:composer/silverstripe/lumberjack@3.3.2
+- pkg:composer/silverstripe/lumberjack@3.3.3
 - pkg:composer/silverstripe/lumberjack@4.0.0
 - pkg:composer/silverstripe/lumberjack@4.0.0-alpha1
 - pkg:composer/silverstripe/lumberjack@4.0.0-beta1
@@ -55,3 +56,5 @@
 - pkg:composer/silverstripe/lumberjack@4.0.2
 - pkg:composer/silverstripe/lumberjack@4.0.3
 - pkg:composer/silverstripe/lumberjack@4.0.4
+- pkg:composer/silverstripe/lumberjack@4.0.5
+- pkg:composer/silverstripe/lumberjack@4.1.0-beta1

@@ -12,3 +12,4 @@
 - pkg:composer/sebastian/object-reflector@4.0.0
 - pkg:composer/sebastian/object-reflector@4.0.1
 - pkg:composer/sebastian/object-reflector@5.0.0
+- pkg:composer/sebastian/object-reflector@6.0.0

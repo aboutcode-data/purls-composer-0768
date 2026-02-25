@@ -1,3 +1,4 @@
 - pkg:composer/socialiteproviders/authentik@5.0.0
 - pkg:composer/socialiteproviders/authentik@5.1.0
 - pkg:composer/socialiteproviders/authentik@5.2.0
+- pkg:composer/socialiteproviders/authentik@5.3.0

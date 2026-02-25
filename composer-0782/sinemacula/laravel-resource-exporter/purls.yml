@@ -3,3 +3,4 @@
 - pkg:composer/sinemacula/laravel-resource-exporter@v1.1.0
 - pkg:composer/sinemacula/laravel-resource-exporter@v1.1.1
 - pkg:composer/sinemacula/laravel-resource-exporter@v1.1.2
+- pkg:composer/sinemacula/laravel-resource-exporter@v2.0.0

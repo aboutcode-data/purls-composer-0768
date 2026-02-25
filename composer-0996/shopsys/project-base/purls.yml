@@ -11,6 +11,7 @@
 - pkg:composer/shopsys/project-base@v14.0.0
 - pkg:composer/shopsys/project-base@v14.0.1
 - pkg:composer/shopsys/project-base@v14.5.0
+- pkg:composer/shopsys/project-base@v14.5.1
 - pkg:composer/shopsys/project-base@v15.0.0
 - pkg:composer/shopsys/project-base@v16.0.0
 - pkg:composer/shopsys/project-base@v17.0.0

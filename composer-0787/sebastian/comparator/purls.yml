@@ -58,3 +58,4 @@
 - pkg:composer/sebastian/comparator@7.1.2
 - pkg:composer/sebastian/comparator@7.1.3
 - pkg:composer/sebastian/comparator@7.1.4
+- pkg:composer/sebastian/comparator@8.0.0

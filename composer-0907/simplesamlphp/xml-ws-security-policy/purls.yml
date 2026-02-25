@@ -1,3 +1,5 @@
 - pkg:composer/simplesamlphp/xml-ws-security-policy@v1.0.0
 - pkg:composer/simplesamlphp/xml-ws-security-policy@v1.0.1
 - pkg:composer/simplesamlphp/xml-ws-security-policy@v1.0.2
+- pkg:composer/simplesamlphp/xml-ws-security-policy@v1.1.0
+- pkg:composer/simplesamlphp/xml-ws-security-policy@v1.2.0

@@ -16,3 +16,4 @@
 - pkg:composer/sebastian/version@5.0.1
 - pkg:composer/sebastian/version@5.0.2
 - pkg:composer/sebastian/version@6.0.0
+- pkg:composer/sebastian/version@7.0.0

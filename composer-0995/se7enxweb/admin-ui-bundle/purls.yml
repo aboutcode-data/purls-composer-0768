@@ -43,3 +43,7 @@
 - pkg:composer/se7enxweb/admin-ui-bundle@2.9.8
 - pkg:composer/se7enxweb/admin-ui-bundle@2.9.9
 - pkg:composer/se7enxweb/admin-ui-bundle@v2.9.11
+- pkg:composer/se7enxweb/admin-ui-bundle@v2.9.12
+- pkg:composer/se7enxweb/admin-ui-bundle@v2.9.13
+- pkg:composer/se7enxweb/admin-ui-bundle@v2.9.14
+- pkg:composer/se7enxweb/admin-ui-bundle@v2.9.15

@@ -35,3 +35,4 @@
 - pkg:composer/secretary/local-json-file-adapter@3.0.4
 - pkg:composer/secretary/local-json-file-adapter@3.0.6
 - pkg:composer/secretary/local-json-file-adapter@4.2.0
+- pkg:composer/secretary/local-json-file-adapter@4.3.0

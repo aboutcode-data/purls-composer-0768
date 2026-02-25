@@ -6,6 +6,7 @@
 - pkg:composer/simpod/kafka-bundle@0.7.0
 - pkg:composer/simpod/kafka-bundle@0.7.1
 - pkg:composer/simpod/kafka-bundle@0.7.2
+- pkg:composer/simpod/kafka-bundle@0.7.3
 - pkg:composer/simpod/kafka-bundle@v0.1.0
 - pkg:composer/simpod/kafka-bundle@v0.2.0
 - pkg:composer/simpod/kafka-bundle@v0.3.0

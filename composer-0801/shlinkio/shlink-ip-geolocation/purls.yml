@@ -23,3 +23,4 @@
 - pkg:composer/shlinkio/shlink-ip-geolocation@v4.2.0
 - pkg:composer/shlinkio/shlink-ip-geolocation@v4.3.0
 - pkg:composer/shlinkio/shlink-ip-geolocation@v4.4.0
+- pkg:composer/shlinkio/shlink-ip-geolocation@v5.0.0

@@ -1,3 +1,5 @@
+- pkg:composer/sleepingmonk/drupal-monk@11.0.0
+- pkg:composer/sleepingmonk/drupal-monk@11.0.1
 - pkg:composer/sleepingmonk/drupal-monk@8.1.0
 - pkg:composer/sleepingmonk/drupal-monk@8.1.1
 - pkg:composer/sleepingmonk/drupal-monk@8.2.0

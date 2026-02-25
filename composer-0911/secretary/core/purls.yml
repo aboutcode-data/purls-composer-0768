@@ -39,3 +39,4 @@
 - pkg:composer/secretary/core@3.0.4
 - pkg:composer/secretary/core@3.0.6
 - pkg:composer/secretary/core@4.2.0
+- pkg:composer/secretary/core@4.3.0

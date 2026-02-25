@@ -27,6 +27,8 @@
 - pkg:composer/se7enxweb/ezplatform-xmltext-fieldtype@v1.7.3
 - pkg:composer/se7enxweb/ezplatform-xmltext-fieldtype@v1.8.0
 - pkg:composer/se7enxweb/ezplatform-xmltext-fieldtype@v1.8.1
+- pkg:composer/se7enxweb/ezplatform-xmltext-fieldtype@v1.8.10
+- pkg:composer/se7enxweb/ezplatform-xmltext-fieldtype@v1.8.11
 - pkg:composer/se7enxweb/ezplatform-xmltext-fieldtype@v1.8.2
 - pkg:composer/se7enxweb/ezplatform-xmltext-fieldtype@v1.8.3
 - pkg:composer/se7enxweb/ezplatform-xmltext-fieldtype@v1.8.4
