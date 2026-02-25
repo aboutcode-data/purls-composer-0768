@@ -29,3 +29,4 @@
 - pkg:composer/innmind/cli@3.5.2
 - pkg:composer/innmind/cli@3.6.0
 - pkg:composer/innmind/cli@4.0.0
+- pkg:composer/innmind/cli@5.0.0

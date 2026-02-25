@@ -1,1 +1,3 @@
 - pkg:composer/jeffersongoncalves/laravel-gtag@1.0.0
+- pkg:composer/jeffersongoncalves/laravel-gtag@v2.0.0
+- pkg:composer/jeffersongoncalves/laravel-gtag@v2.0.1

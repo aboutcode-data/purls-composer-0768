@@ -8,3 +8,4 @@
 - pkg:composer/innmind/rabbitmq-management@3.1.0
 - pkg:composer/innmind/rabbitmq-management@3.2.0
 - pkg:composer/innmind/rabbitmq-management@4.0.0
+- pkg:composer/innmind/rabbitmq-management@5.0.0

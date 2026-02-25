@@ -16,3 +16,4 @@
 - pkg:composer/itsmind/sevdesk-php-sdk@v1.5.2
 - pkg:composer/itsmind/sevdesk-php-sdk@v1.6.0
 - pkg:composer/itsmind/sevdesk-php-sdk@v1.7.0
+- pkg:composer/itsmind/sevdesk-php-sdk@v1.8.0

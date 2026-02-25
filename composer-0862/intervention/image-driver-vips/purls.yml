@@ -11,3 +11,4 @@
 - pkg:composer/intervention/image-driver-vips@1.0.7
 - pkg:composer/intervention/image-driver-vips@1.0.8
 - pkg:composer/intervention/image-driver-vips@1.0.9
+- pkg:composer/intervention/image-driver-vips@4.0.0-beta.1

@@ -9,3 +9,5 @@
 - pkg:composer/insalyon/acme-plugin-etl@v1.7.1-alpha
 - pkg:composer/insalyon/acme-plugin-etl@v1.7.2-alpha
 - pkg:composer/insalyon/acme-plugin-etl@v1.7.3-alpha
+- pkg:composer/insalyon/acme-plugin-etl@v1.7.4
+- pkg:composer/insalyon/acme-plugin-etl@v1.7.4-alpha

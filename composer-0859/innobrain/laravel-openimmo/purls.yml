@@ -23,3 +23,7 @@
 - pkg:composer/innobrain/laravel-openimmo@v3.3.1
 - pkg:composer/innobrain/laravel-openimmo@v3.3.2
 - pkg:composer/innobrain/laravel-openimmo@v3.3.3
+- pkg:composer/innobrain/laravel-openimmo@v4.0.0
+- pkg:composer/innobrain/laravel-openimmo@v4.0.1
+- pkg:composer/innobrain/laravel-openimmo@v4.0.2
+- pkg:composer/innobrain/laravel-openimmo@v4.0.3

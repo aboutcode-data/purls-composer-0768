@@ -7,3 +7,4 @@
 - pkg:composer/innmind/http-session@3.2.0
 - pkg:composer/innmind/http-session@4.0.0
 - pkg:composer/innmind/http-session@4.1.0
+- pkg:composer/innmind/http-session@5.0.0
