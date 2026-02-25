@@ -32,3 +32,4 @@
 - pkg:composer/laravel-notification-channels/fcm@5.0.0
 - pkg:composer/laravel-notification-channels/fcm@5.1.0
 - pkg:composer/laravel-notification-channels/fcm@6.0.0
+- pkg:composer/laravel-notification-channels/fcm@6.0.1

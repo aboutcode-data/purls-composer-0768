@@ -19,3 +19,4 @@
 - pkg:composer/laravel-enso/migrator@2.1.0
 - pkg:composer/laravel-enso/migrator@2.2.0
 - pkg:composer/laravel-enso/migrator@2.3.0
+- pkg:composer/laravel-enso/migrator@2.4.0

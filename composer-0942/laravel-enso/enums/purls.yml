@@ -27,3 +27,4 @@
 - pkg:composer/laravel-enso/enums@2.5.1
 - pkg:composer/laravel-enso/enums@2.6.0
 - pkg:composer/laravel-enso/enums@2.6.1
+- pkg:composer/laravel-enso/enums@2.7.0

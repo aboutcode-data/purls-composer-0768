@@ -60,3 +60,4 @@
 - pkg:composer/liveecommerce/pagarme-php@v4.1.1
 - pkg:composer/liveecommerce/pagarme-php@v4.1.2
 - pkg:composer/liveecommerce/pagarme-php@v5.0
+- pkg:composer/liveecommerce/pagarme-php@v5.1

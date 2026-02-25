@@ -430,3 +430,4 @@
 - pkg:composer/laravel-enso/dataimport@6.7.5
 - pkg:composer/laravel-enso/dataimport@6.7.6
 - pkg:composer/laravel-enso/dataimport@6.8.0
+- pkg:composer/laravel-enso/dataimport@6.9.0

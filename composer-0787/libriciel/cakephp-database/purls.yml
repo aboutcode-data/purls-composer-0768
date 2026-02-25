@@ -8,3 +8,5 @@
 - pkg:composer/libriciel/cakephp-database@1.4.0
 - pkg:composer/libriciel/cakephp-database@2.0.0
 - pkg:composer/libriciel/cakephp-database@2.1.0
+- pkg:composer/libriciel/cakephp-database@2.2.0
+- pkg:composer/libriciel/cakephp-database@2.2.1

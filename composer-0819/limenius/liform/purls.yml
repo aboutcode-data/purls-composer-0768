@@ -1,6 +1,7 @@
 - pkg:composer/limenius/liform@1.0
 - pkg:composer/limenius/liform@2.0
 - pkg:composer/limenius/liform@2.0.1
+- pkg:composer/limenius/liform@2.1
 - pkg:composer/limenius/liform@v0.10.0
 - pkg:composer/limenius/liform@v0.10.1
 - pkg:composer/limenius/liform@v0.10.2
@@ -15,6 +16,7 @@
 - pkg:composer/limenius/liform@v0.18.0
 - pkg:composer/limenius/liform@v0.18.1
 - pkg:composer/limenius/liform@v0.19
+- pkg:composer/limenius/liform@v0.19.1
 - pkg:composer/limenius/liform@v0.8.0
 - pkg:composer/limenius/liform@v0.8.1
 - pkg:composer/limenius/liform@v0.8.2

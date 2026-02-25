@@ -33,3 +33,4 @@
 - pkg:composer/leafs/auth@v4.1.1
 - pkg:composer/leafs/auth@v4.2
 - pkg:composer/leafs/auth@v4.2.1
+- pkg:composer/leafs/auth@v5.0

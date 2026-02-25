@@ -1,6 +1,7 @@
 - pkg:composer/lychee-org/nestedset@1.0
 - pkg:composer/lychee-org/nestedset@1.0-beta
 - pkg:composer/lychee-org/nestedset@11.0.0
+- pkg:composer/lychee-org/nestedset@11.0.1
 - pkg:composer/lychee-org/nestedset@4.1.5
 - pkg:composer/lychee-org/nestedset@4.2.3
 - pkg:composer/lychee-org/nestedset@v1.1

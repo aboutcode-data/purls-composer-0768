@@ -40,3 +40,4 @@
 - pkg:composer/lion/command@v5.9.0
 - pkg:composer/lion/command@v6.0.0
 - pkg:composer/lion/command@v6.1.0
+- pkg:composer/lion/command@v6.2.0

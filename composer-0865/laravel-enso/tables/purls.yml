@@ -415,6 +415,7 @@
 - pkg:composer/laravel-enso/tables@4.18.7
 - pkg:composer/laravel-enso/tables@4.18.8
 - pkg:composer/laravel-enso/tables@4.18.9
+- pkg:composer/laravel-enso/tables@4.19.0
 - pkg:composer/laravel-enso/tables@4.2.0
 - pkg:composer/laravel-enso/tables@4.2.1
 - pkg:composer/laravel-enso/tables@4.2.2

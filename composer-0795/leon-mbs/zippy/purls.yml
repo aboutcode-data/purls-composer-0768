@@ -63,6 +63,7 @@
 - pkg:composer/leon-mbs/zippy@2.6.3
 - pkg:composer/leon-mbs/zippy@2.7.0
 - pkg:composer/leon-mbs/zippy@2.7.1
+- pkg:composer/leon-mbs/zippy@2.7.10
 - pkg:composer/leon-mbs/zippy@2.7.2
 - pkg:composer/leon-mbs/zippy@2.7.3
 - pkg:composer/leon-mbs/zippy@2.7.4
