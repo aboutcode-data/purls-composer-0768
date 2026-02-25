@@ -1,1 +1,2 @@
-- pkg:composer/payracash/payra-sdk-php@v1.2.7
+- pkg:composer/payracash/payra-sdk-php@v1.2.9
+- pkg:composer/payracash/payra-sdk-php@v1.3.0

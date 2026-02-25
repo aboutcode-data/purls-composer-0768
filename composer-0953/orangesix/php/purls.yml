@@ -21,3 +21,4 @@
 - pkg:composer/orangesix/php@3.0.3
 - pkg:composer/orangesix/php@3.0.4
 - pkg:composer/orangesix/php@3.0.5
+- pkg:composer/orangesix/php@3.1.0

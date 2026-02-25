@@ -80,3 +80,5 @@
 - pkg:composer/num-num/ubl-invoice@v2.2.0
 - pkg:composer/num-num/ubl-invoice@v2.3.0
 - pkg:composer/num-num/ubl-invoice@v2.3.1
+- pkg:composer/num-num/ubl-invoice@v2.4.0
+- pkg:composer/num-num/ubl-invoice@v2.4.1

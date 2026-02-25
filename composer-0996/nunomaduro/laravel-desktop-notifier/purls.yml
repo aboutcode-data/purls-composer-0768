@@ -23,6 +23,7 @@
 - pkg:composer/nunomaduro/laravel-desktop-notifier@v2.0.5
 - pkg:composer/nunomaduro/laravel-desktop-notifier@v2.0.6
 - pkg:composer/nunomaduro/laravel-desktop-notifier@v2.1.0
+- pkg:composer/nunomaduro/laravel-desktop-notifier@v2.10.0
 - pkg:composer/nunomaduro/laravel-desktop-notifier@v2.2.0
 - pkg:composer/nunomaduro/laravel-desktop-notifier@v2.3.0
 - pkg:composer/nunomaduro/laravel-desktop-notifier@v2.4.0

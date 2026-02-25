@@ -269,3 +269,5 @@
 - pkg:composer/olcs/olcs-transfer@v8.3.0
 - pkg:composer/olcs/olcs-transfer@v8.4.0
 - pkg:composer/olcs/olcs-transfer@v8.5.0
+- pkg:composer/olcs/olcs-transfer@v8.6.0
+- pkg:composer/olcs/olcs-transfer@v8.6.1

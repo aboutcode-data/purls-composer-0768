@@ -16,3 +16,4 @@
 - pkg:composer/overtrue/laravel-qcloud-federation-token@4.0.0
 - pkg:composer/overtrue/laravel-qcloud-federation-token@4.0.1
 - pkg:composer/overtrue/laravel-qcloud-federation-token@4.0.2
+- pkg:composer/overtrue/laravel-qcloud-federation-token@4.1.0

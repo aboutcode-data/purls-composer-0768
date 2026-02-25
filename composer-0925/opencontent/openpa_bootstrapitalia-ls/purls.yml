@@ -571,6 +571,14 @@
 - pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.32.1
 - pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.32.2
 - pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.33.0
+- pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.34.0
+- pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.34.1
+- pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.34.2
+- pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.34.3
+- pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.34.4
+- pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.34.5
+- pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.34.6
+- pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.34.7
 - pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.4.0
 - pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.4.1
 - pkg:composer/opencontent/openpa_bootstrapitalia-ls@2.5.0

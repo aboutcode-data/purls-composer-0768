@@ -24,3 +24,4 @@
 - pkg:composer/oxid-esales/codeception-page-objects@v4.6.0
 - pkg:composer/oxid-esales/codeception-page-objects@v5.0.0
 - pkg:composer/oxid-esales/codeception-page-objects@v5.0.0-alpha.1
+- pkg:composer/oxid-esales/codeception-page-objects@v8.0.0-alpha.2

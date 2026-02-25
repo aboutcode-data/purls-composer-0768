@@ -8,3 +8,5 @@
 - pkg:composer/oskarstark/doctrine-type-testcases@2.5.1
 - pkg:composer/oskarstark/doctrine-type-testcases@2.6.0
 - pkg:composer/oskarstark/doctrine-type-testcases@2.7.0
+- pkg:composer/oskarstark/doctrine-type-testcases@2.8.0
+- pkg:composer/oskarstark/doctrine-type-testcases@2.9.0
