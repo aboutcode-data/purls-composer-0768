@@ -1,3 +1,7 @@
 - pkg:composer/plugin/owc-mijn-services@0.4.2
 - pkg:composer/plugin/owc-mijn-services@0.4.3
 - pkg:composer/plugin/owc-mijn-services@0.4.4
+- pkg:composer/plugin/owc-mijn-services@0.5.1
+- pkg:composer/plugin/owc-mijn-services@0.5.2
+- pkg:composer/plugin/owc-mijn-services@0.5.3
+- pkg:composer/plugin/owc-mijn-services@0.5.4

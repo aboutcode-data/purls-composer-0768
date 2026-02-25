@@ -74,3 +74,4 @@
 - pkg:composer/php-extended/php-administrative-gender-object@8.1.7
 - pkg:composer/php-extended/php-administrative-gender-object@8.1.8
 - pkg:composer/php-extended/php-administrative-gender-object@8.1.9
+- pkg:composer/php-extended/php-administrative-gender-object@9.0.0

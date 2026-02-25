@@ -8,3 +8,6 @@
 - pkg:composer/qratorlabs/smocky-phpunit@2.0.3
 - pkg:composer/qratorlabs/smocky-phpunit@2.0.4
 - pkg:composer/qratorlabs/smocky-phpunit@2.1.0
+- pkg:composer/qratorlabs/smocky-phpunit@2.1.1
+- pkg:composer/qratorlabs/smocky-phpunit@2.2.0
+- pkg:composer/qratorlabs/smocky-phpunit@2.2.1

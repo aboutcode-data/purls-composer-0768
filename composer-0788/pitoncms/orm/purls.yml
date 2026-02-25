@@ -10,3 +10,4 @@
 - pkg:composer/pitoncms/orm@0.3.6
 - pkg:composer/pitoncms/orm@0.3.7
 - pkg:composer/pitoncms/orm@1.0.0
+- pkg:composer/pitoncms/orm@1.0.1

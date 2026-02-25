@@ -17,3 +17,4 @@
 - pkg:composer/peterujah/php-google-translator@2.8
 - pkg:composer/peterujah/php-google-translator@2.9
 - pkg:composer/peterujah/php-google-translator@3.0
+- pkg:composer/peterujah/php-google-translator@3.1

@@ -1,1 +1,2 @@
 - pkg:composer/phpnomad/logger@1.0.0
+- pkg:composer/phpnomad/logger@1.1.0

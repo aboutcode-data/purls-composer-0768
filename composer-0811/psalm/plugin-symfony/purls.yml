@@ -70,3 +70,4 @@
 - pkg:composer/psalm/plugin-symfony@v5.2.6
 - pkg:composer/psalm/plugin-symfony@v5.2.7
 - pkg:composer/psalm/plugin-symfony@v5.2.8
+- pkg:composer/psalm/plugin-symfony@v5.3.0

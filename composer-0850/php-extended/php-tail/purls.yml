@@ -71,3 +71,4 @@
 - pkg:composer/php-extended/php-tail@8.0.7
 - pkg:composer/php-extended/php-tail@8.0.8
 - pkg:composer/php-extended/php-tail@8.0.9
+- pkg:composer/php-extended/php-tail@9.0.0

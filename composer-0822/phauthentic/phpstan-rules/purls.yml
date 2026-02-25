@@ -10,3 +10,4 @@
 - pkg:composer/phauthentic/phpstan-rules@1.6.0
 - pkg:composer/phauthentic/phpstan-rules@1.7.0
 - pkg:composer/phauthentic/phpstan-rules@1.8.0
+- pkg:composer/phauthentic/phpstan-rules@1.9.0

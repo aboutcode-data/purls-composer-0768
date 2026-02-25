@@ -7,6 +7,8 @@
 - pkg:composer/postboxcms/desk@v1.11.0
 - pkg:composer/postboxcms/desk@v1.11.1
 - pkg:composer/postboxcms/desk@v1.12.1
+- pkg:composer/postboxcms/desk@v1.13.1
+- pkg:composer/postboxcms/desk@v1.13.2
 - pkg:composer/postboxcms/desk@v1.2.0
 - pkg:composer/postboxcms/desk@v1.3.0
 - pkg:composer/postboxcms/desk@v1.3.1

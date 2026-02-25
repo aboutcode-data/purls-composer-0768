@@ -92,3 +92,4 @@
 - pkg:composer/php-extended/php-slugifier-interface@8.0.7
 - pkg:composer/php-extended/php-slugifier-interface@8.0.8
 - pkg:composer/php-extended/php-slugifier-interface@8.0.9
+- pkg:composer/php-extended/php-slugifier-interface@9.0.0

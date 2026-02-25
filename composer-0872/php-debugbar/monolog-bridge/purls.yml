@@ -1,1 +1,2 @@
 - pkg:composer/php-debugbar/monolog-bridge@v1.0-beta.1
+- pkg:composer/php-debugbar/monolog-bridge@v1.0.0

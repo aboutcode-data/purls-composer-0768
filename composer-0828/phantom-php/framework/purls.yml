@@ -1,1 +1,7 @@
+- pkg:composer/phantom-php/framework@v1.13.7
+- pkg:composer/phantom-php/framework@v1.15.6
+- pkg:composer/phantom-php/framework@v1.17.6
+- pkg:composer/phantom-php/framework@v1.18.8
+- pkg:composer/phantom-php/framework@v1.19.5
+- pkg:composer/phantom-php/framework@v1.19.6
 - pkg:composer/phantom-php/framework@v1.9.0
