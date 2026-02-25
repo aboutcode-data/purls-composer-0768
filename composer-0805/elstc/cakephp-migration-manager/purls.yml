@@ -10,3 +10,4 @@
 - pkg:composer/elstc/cakephp-migration-manager@v2.1.0
 - pkg:composer/elstc/cakephp-migration-manager@v3.0.0
 - pkg:composer/elstc/cakephp-migration-manager@v3.1.0
+- pkg:composer/elstc/cakephp-migration-manager@v3.2.0

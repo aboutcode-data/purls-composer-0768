@@ -17,6 +17,7 @@
 - pkg:composer/eideasy/eideasy-php@v1.21.1
 - pkg:composer/eideasy/eideasy-php@v1.21.2
 - pkg:composer/eideasy/eideasy-php@v1.21.3
+- pkg:composer/eideasy/eideasy-php@v1.21.4
 - pkg:composer/eideasy/eideasy-php@v1.3
 - pkg:composer/eideasy/eideasy-php@v1.4
 - pkg:composer/eideasy/eideasy-php@v1.5

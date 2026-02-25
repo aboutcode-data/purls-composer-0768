@@ -375,6 +375,13 @@
 - pkg:composer/eonx-com/easy-schedule@6.18.0
 - pkg:composer/eonx-com/easy-schedule@6.18.1
 - pkg:composer/eonx-com/easy-schedule@6.18.2
+- pkg:composer/eonx-com/easy-schedule@6.18.3
+- pkg:composer/eonx-com/easy-schedule@6.18.4
+- pkg:composer/eonx-com/easy-schedule@6.18.5
+- pkg:composer/eonx-com/easy-schedule@6.19.0
+- pkg:composer/eonx-com/easy-schedule@6.19.1
+- pkg:composer/eonx-com/easy-schedule@6.19.2
+- pkg:composer/eonx-com/easy-schedule@6.19.3
 - pkg:composer/eonx-com/easy-schedule@6.2.0
 - pkg:composer/eonx-com/easy-schedule@6.3.0
 - pkg:composer/eonx-com/easy-schedule@6.3.1

@@ -1,3 +1,4 @@
 - pkg:composer/etolv/neo4j-laravel-eloquent@4.0.0
+- pkg:composer/etolv/neo4j-laravel-eloquent@5.0.0
 - pkg:composer/etolv/neo4j-laravel-eloquent@v2.3.0
 - pkg:composer/etolv/neo4j-laravel-eloquent@v3.2.0

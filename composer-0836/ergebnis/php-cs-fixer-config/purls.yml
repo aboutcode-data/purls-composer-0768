@@ -152,6 +152,8 @@
 - pkg:composer/ergebnis/php-cs-fixer-config@6.58.2
 - pkg:composer/ergebnis/php-cs-fixer-config@6.59.0
 - pkg:composer/ergebnis/php-cs-fixer-config@6.6.0
+- pkg:composer/ergebnis/php-cs-fixer-config@6.60.0
+- pkg:composer/ergebnis/php-cs-fixer-config@6.60.1
 - pkg:composer/ergebnis/php-cs-fixer-config@6.7.0
 - pkg:composer/ergebnis/php-cs-fixer-config@6.8.0
 - pkg:composer/ergebnis/php-cs-fixer-config@6.8.1

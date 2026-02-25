@@ -98,6 +98,7 @@
 - pkg:composer/egroupware/news_admin@23.1.20260108
 - pkg:composer/egroupware/news_admin@23.1.20260113
 - pkg:composer/egroupware/news_admin@23.1.20260131
+- pkg:composer/egroupware/news_admin@23.1.20260224
 - pkg:composer/egroupware/news_admin@26.0.20251208
 - pkg:composer/egroupware/news_admin@26.0.20251216
 - pkg:composer/egroupware/news_admin@26.0.20260108
@@ -105,3 +106,7 @@
 - pkg:composer/egroupware/news_admin@26.0.20260123
 - pkg:composer/egroupware/news_admin@26.1.20260130
 - pkg:composer/egroupware/news_admin@26.2.20260203
+- pkg:composer/egroupware/news_admin@26.2.20260207
+- pkg:composer/egroupware/news_admin@26.2.20260209
+- pkg:composer/egroupware/news_admin@26.2.20260216
+- pkg:composer/egroupware/news_admin@26.2.20260224

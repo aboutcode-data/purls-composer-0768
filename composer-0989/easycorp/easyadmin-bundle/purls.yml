@@ -302,6 +302,9 @@
 - pkg:composer/easycorp/easyadmin-bundle@v4.27.7
 - pkg:composer/easycorp/easyadmin-bundle@v4.27.8
 - pkg:composer/easycorp/easyadmin-bundle@v4.28.0
+- pkg:composer/easycorp/easyadmin-bundle@v4.28.1
+- pkg:composer/easycorp/easyadmin-bundle@v4.29.0
+- pkg:composer/easycorp/easyadmin-bundle@v4.29.1
 - pkg:composer/easycorp/easyadmin-bundle@v4.3.0
 - pkg:composer/easycorp/easyadmin-bundle@v4.3.1
 - pkg:composer/easycorp/easyadmin-bundle@v4.3.2
@@ -352,3 +355,5 @@
 - pkg:composer/easycorp/easyadmin-bundle@v4.9.3
 - pkg:composer/easycorp/easyadmin-bundle@v4.9.4
 - pkg:composer/easycorp/easyadmin-bundle@v4.9.5
+- pkg:composer/easycorp/easyadmin-bundle@v5.0.0-BETA1
+- pkg:composer/easycorp/easyadmin-bundle@v5.0.0-BETA2

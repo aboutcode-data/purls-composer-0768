@@ -133,3 +133,7 @@
 - pkg:composer/elegantly/laravel-media@v4.5.7
 - pkg:composer/elegantly/laravel-media@v4.5.8
 - pkg:composer/elegantly/laravel-media@v4.5.9
+- pkg:composer/elegantly/laravel-media@v4.6.0
+- pkg:composer/elegantly/laravel-media@v4.6.1
+- pkg:composer/elegantly/laravel-media@v4.7.0
+- pkg:composer/elegantly/laravel-media@v4.7.1

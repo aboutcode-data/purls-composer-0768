@@ -9,3 +9,5 @@
 - pkg:composer/evyex/symfony-extender@0.4.4
 - pkg:composer/evyex/symfony-extender@0.5
 - pkg:composer/evyex/symfony-extender@0.5.1
+- pkg:composer/evyex/symfony-extender@0.5.2
+- pkg:composer/evyex/symfony-extender@0.5.3

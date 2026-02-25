@@ -1,6 +1,7 @@
 - pkg:composer/exolnet/laravel-translation-editor@v1.0.0
 - pkg:composer/exolnet/laravel-translation-editor@v1.1.0
 - pkg:composer/exolnet/laravel-translation-editor@v1.10.0
+- pkg:composer/exolnet/laravel-translation-editor@v1.11.0
 - pkg:composer/exolnet/laravel-translation-editor@v1.2.0
 - pkg:composer/exolnet/laravel-translation-editor@v1.3.0
 - pkg:composer/exolnet/laravel-translation-editor@v1.4.0

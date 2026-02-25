@@ -21,3 +21,5 @@
 - pkg:composer/f9webltd/laravel-api-response-helpers@2.0.1
 - pkg:composer/f9webltd/laravel-api-response-helpers@2.1.0
 - pkg:composer/f9webltd/laravel-api-response-helpers@2.1.1
+- pkg:composer/f9webltd/laravel-api-response-helpers@3.0.0
+- pkg:composer/f9webltd/laravel-api-response-helpers@3.0.1

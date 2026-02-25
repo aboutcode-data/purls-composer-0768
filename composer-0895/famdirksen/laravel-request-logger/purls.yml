@@ -1,4 +1,6 @@
 - pkg:composer/famdirksen/laravel-request-logger@0.1
+- pkg:composer/famdirksen/laravel-request-logger@0.10
+- pkg:composer/famdirksen/laravel-request-logger@0.11
 - pkg:composer/famdirksen/laravel-request-logger@0.2
 - pkg:composer/famdirksen/laravel-request-logger@0.3
 - pkg:composer/famdirksen/laravel-request-logger@0.4
