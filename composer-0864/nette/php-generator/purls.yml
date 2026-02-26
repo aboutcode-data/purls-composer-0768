@@ -75,3 +75,4 @@
 - pkg:composer/nette/php-generator@v4.1.9
 - pkg:composer/nette/php-generator@v4.2.0
 - pkg:composer/nette/php-generator@v4.2.1
+- pkg:composer/nette/php-generator@v4.2.2
