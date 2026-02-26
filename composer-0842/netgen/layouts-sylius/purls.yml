@@ -19,3 +19,4 @@
 - pkg:composer/netgen/layouts-sylius@1.4.7
 - pkg:composer/netgen/layouts-sylius@1.4.8
 - pkg:composer/netgen/layouts-sylius@1.4.9
+- pkg:composer/netgen/layouts-sylius@2.0.0
