@@ -1,3 +1,6 @@
 - pkg:composer/joby/html-object-strings@v2.0.0
 - pkg:composer/joby/html-object-strings@v2.1.0
 - pkg:composer/joby/html-object-strings@v2.2.0
+- pkg:composer/joby/html-object-strings@v2.2.1
+- pkg:composer/joby/html-object-strings@v2.2.2
+- pkg:composer/joby/html-object-strings@v2.2.3
