@@ -4,3 +4,5 @@
 - pkg:composer/liftkit/email@v1.0.3
 - pkg:composer/liftkit/email@v1.1.0
 - pkg:composer/liftkit/email@v1.1.1
+- pkg:composer/liftkit/email@v1.2.0
+- pkg:composer/liftkit/email@v2.0.0

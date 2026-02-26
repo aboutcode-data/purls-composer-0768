@@ -68,3 +68,4 @@
 - pkg:composer/lunarphp/table-rate-shipping@1.2.0
 - pkg:composer/lunarphp/table-rate-shipping@1.2.1
 - pkg:composer/lunarphp/table-rate-shipping@1.3.0
+- pkg:composer/lunarphp/table-rate-shipping@1.5.0-beta.1
