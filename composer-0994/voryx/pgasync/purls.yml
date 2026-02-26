@@ -12,3 +12,4 @@
 - pkg:composer/voryx/pgasync@2.0.4
 - pkg:composer/voryx/pgasync@2.0.5
 - pkg:composer/voryx/pgasync@2.0.6
+- pkg:composer/voryx/pgasync@2.1.0

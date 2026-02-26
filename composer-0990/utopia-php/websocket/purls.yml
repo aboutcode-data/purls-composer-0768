@@ -3,3 +3,4 @@
 - pkg:composer/utopia-php/websocket@0.2.0
 - pkg:composer/utopia-php/websocket@0.3.0
 - pkg:composer/utopia-php/websocket@0.3.1
+- pkg:composer/utopia-php/websocket@1.0.0

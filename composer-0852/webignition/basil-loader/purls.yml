@@ -43,3 +43,4 @@
 - pkg:composer/webignition/basil-loader@5.1
 - pkg:composer/webignition/basil-loader@5.2
 - pkg:composer/webignition/basil-loader@6.0
+- pkg:composer/webignition/basil-loader@7.0

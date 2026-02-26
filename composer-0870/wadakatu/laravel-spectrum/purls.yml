@@ -22,3 +22,7 @@
 - pkg:composer/wadakatu/laravel-spectrum@v0.2.2-beta
 - pkg:composer/wadakatu/laravel-spectrum@v1.0.0
 - pkg:composer/wadakatu/laravel-spectrum@v1.0.1
+- pkg:composer/wadakatu/laravel-spectrum@v1.1.0
+- pkg:composer/wadakatu/laravel-spectrum@v1.1.1
+- pkg:composer/wadakatu/laravel-spectrum@v1.1.2
+- pkg:composer/wadakatu/laravel-spectrum@v1.1.3

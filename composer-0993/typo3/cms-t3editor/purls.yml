@@ -137,6 +137,7 @@
 - pkg:composer/typo3/cms-t3editor@v12.4.40
 - pkg:composer/typo3/cms-t3editor@v12.4.41
 - pkg:composer/typo3/cms-t3editor@v12.4.42
+- pkg:composer/typo3/cms-t3editor@v12.4.43
 - pkg:composer/typo3/cms-t3editor@v12.4.5
 - pkg:composer/typo3/cms-t3editor@v12.4.6
 - pkg:composer/typo3/cms-t3editor@v12.4.7

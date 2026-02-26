@@ -38,3 +38,4 @@
 - pkg:composer/vinkius-labs/laravel-page-speed@v4.3.0
 - pkg:composer/vinkius-labs/laravel-page-speed@v4.3.1
 - pkg:composer/vinkius-labs/laravel-page-speed@v4.3.2
+- pkg:composer/vinkius-labs/laravel-page-speed@v4.4.0

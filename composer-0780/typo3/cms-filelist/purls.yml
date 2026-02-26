@@ -137,6 +137,7 @@
 - pkg:composer/typo3/cms-filelist@v12.4.40
 - pkg:composer/typo3/cms-filelist@v12.4.41
 - pkg:composer/typo3/cms-filelist@v12.4.42
+- pkg:composer/typo3/cms-filelist@v12.4.43
 - pkg:composer/typo3/cms-filelist@v12.4.5
 - pkg:composer/typo3/cms-filelist@v12.4.6
 - pkg:composer/typo3/cms-filelist@v12.4.7
@@ -167,6 +168,8 @@
 - pkg:composer/typo3/cms-filelist@v13.4.22
 - pkg:composer/typo3/cms-filelist@v13.4.23
 - pkg:composer/typo3/cms-filelist@v13.4.24
+- pkg:composer/typo3/cms-filelist@v13.4.25
+- pkg:composer/typo3/cms-filelist@v13.4.26
 - pkg:composer/typo3/cms-filelist@v13.4.3
 - pkg:composer/typo3/cms-filelist@v13.4.4
 - pkg:composer/typo3/cms-filelist@v13.4.5
@@ -178,6 +181,7 @@
 - pkg:composer/typo3/cms-filelist@v14.0.1
 - pkg:composer/typo3/cms-filelist@v14.0.2
 - pkg:composer/typo3/cms-filelist@v14.1.0
+- pkg:composer/typo3/cms-filelist@v14.1.1
 - pkg:composer/typo3/cms-filelist@v8.7.10
 - pkg:composer/typo3/cms-filelist@v8.7.11
 - pkg:composer/typo3/cms-filelist@v8.7.12

@@ -1,2 +1,3 @@
 - pkg:composer/webslicehq/statamic-provider@2025.12.01
 - pkg:composer/webslicehq/statamic-provider@v1.0.1
+- pkg:composer/webslicehq/statamic-provider@v1.0.2

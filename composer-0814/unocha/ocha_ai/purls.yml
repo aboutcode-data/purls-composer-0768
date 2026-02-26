@@ -16,6 +16,8 @@
 - pkg:composer/unocha/ocha_ai@v1.14.0
 - pkg:composer/unocha/ocha_ai@v1.14.1
 - pkg:composer/unocha/ocha_ai@v1.15.0
+- pkg:composer/unocha/ocha_ai@v1.16.0
+- pkg:composer/unocha/ocha_ai@v1.17.0
 - pkg:composer/unocha/ocha_ai@v1.2.0
 - pkg:composer/unocha/ocha_ai@v1.3.0
 - pkg:composer/unocha/ocha_ai@v1.3.1

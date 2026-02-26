@@ -55,6 +55,7 @@
 - pkg:composer/vectorbross/vb_subtheme@1.1.50
 - pkg:composer/vectorbross/vb_subtheme@1.1.51
 - pkg:composer/vectorbross/vb_subtheme@1.1.52
+- pkg:composer/vectorbross/vb_subtheme@1.1.53
 - pkg:composer/vectorbross/vb_subtheme@1.1.6
 - pkg:composer/vectorbross/vb_subtheme@1.1.7
 - pkg:composer/vectorbross/vb_subtheme@1.1.8
@@ -62,3 +63,7 @@
 - pkg:composer/vectorbross/vb_subtheme@1.2.0
 - pkg:composer/vectorbross/vb_subtheme@1.2.1
 - pkg:composer/vectorbross/vb_subtheme@1.2.2
+- pkg:composer/vectorbross/vb_subtheme@1.2.3
+- pkg:composer/vectorbross/vb_subtheme@1.2.4
+- pkg:composer/vectorbross/vb_subtheme@1.2.5
+- pkg:composer/vectorbross/vb_subtheme@1.2.6

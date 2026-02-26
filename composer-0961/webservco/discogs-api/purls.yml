@@ -12,6 +12,7 @@
 - pkg:composer/webservco/discogs-api@v3.0.2
 - pkg:composer/webservco/discogs-api@v3.1.0
 - pkg:composer/webservco/discogs-api@v3.1.1
+- pkg:composer/webservco/discogs-api@v3.10.0
 - pkg:composer/webservco/discogs-api@v3.8.3
 - pkg:composer/webservco/discogs-api@v3.8.4
 - pkg:composer/webservco/discogs-api@v3.9.0

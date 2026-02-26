@@ -119,6 +119,8 @@
 - pkg:composer/ubc-web-services/kraken-vpr@2.0.31
 - pkg:composer/ubc-web-services/kraken-vpr@2.0.32
 - pkg:composer/ubc-web-services/kraken-vpr@2.0.33
+- pkg:composer/ubc-web-services/kraken-vpr@2.0.34
+- pkg:composer/ubc-web-services/kraken-vpr@2.0.35
 - pkg:composer/ubc-web-services/kraken-vpr@2.0.4
 - pkg:composer/ubc-web-services/kraken-vpr@2.0.5
 - pkg:composer/ubc-web-services/kraken-vpr@2.0.6

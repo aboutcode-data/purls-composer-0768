@@ -33,3 +33,5 @@
 - pkg:composer/vankosoft/application-extended-project@v1.13.1
 - pkg:composer/vankosoft/application-extended-project@v1.13.2
 - pkg:composer/vankosoft/application-extended-project@v1.13.3
+- pkg:composer/vankosoft/application-extended-project@v1.14.0
+- pkg:composer/vankosoft/application-extended-project@v1.14.1

@@ -20,3 +20,4 @@
 - pkg:composer/voltcms/filedb@1.5.3
 - pkg:composer/voltcms/filedb@2.0.0
 - pkg:composer/voltcms/filedb@2.0.1
+- pkg:composer/voltcms/filedb@2.0.2

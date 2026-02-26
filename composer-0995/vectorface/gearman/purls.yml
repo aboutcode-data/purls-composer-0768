@@ -6,3 +6,4 @@
 - pkg:composer/vectorface/gearman@0.2.4
 - pkg:composer/vectorface/gearman@0.3.0
 - pkg:composer/vectorface/gearman@0.3.1
+- pkg:composer/vectorface/gearman@0.3.2
