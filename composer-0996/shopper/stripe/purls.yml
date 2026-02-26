@@ -1,1 +1,2 @@
 - pkg:composer/shopper/stripe@v2.5.0
+- pkg:composer/shopper/stripe@v2.5.1
