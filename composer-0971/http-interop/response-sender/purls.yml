@@ -1,1 +1,2 @@
 - pkg:composer/http-interop/response-sender@1.0.0
+- pkg:composer/http-interop/response-sender@1.1.0

@@ -12,6 +12,7 @@
 - pkg:composer/humanmade/s3-uploads@3.0.10
 - pkg:composer/humanmade/s3-uploads@3.0.11
 - pkg:composer/humanmade/s3-uploads@3.0.12
+- pkg:composer/humanmade/s3-uploads@3.0.13
 - pkg:composer/humanmade/s3-uploads@3.0.2
 - pkg:composer/humanmade/s3-uploads@3.0.3
 - pkg:composer/humanmade/s3-uploads@3.0.4
