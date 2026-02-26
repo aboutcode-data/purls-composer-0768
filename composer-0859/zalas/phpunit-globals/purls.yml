@@ -36,3 +36,4 @@
 - pkg:composer/zalas/phpunit-globals@v4.0.0
 - pkg:composer/zalas/phpunit-globals@v4.0.1
 - pkg:composer/zalas/phpunit-globals@v4.1.0
+- pkg:composer/zalas/phpunit-globals@v4.2.0

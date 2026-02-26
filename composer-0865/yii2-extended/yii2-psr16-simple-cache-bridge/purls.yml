@@ -79,3 +79,4 @@
 - pkg:composer/yii2-extended/yii2-psr16-simple-cache-bridge@8.0.7
 - pkg:composer/yii2-extended/yii2-psr16-simple-cache-bridge@8.0.8
 - pkg:composer/yii2-extended/yii2-psr16-simple-cache-bridge@8.0.9
+- pkg:composer/yii2-extended/yii2-psr16-simple-cache-bridge@9.0.0

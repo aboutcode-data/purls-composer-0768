@@ -51,4 +51,7 @@
 - pkg:composer/xoops/xmf@v1.2.31
 - pkg:composer/xoops/xmf@v1.2.32
 - pkg:composer/xoops/xmf@v1.2.33-beta1
+- pkg:composer/xoops/xmf@v1.2.33-beta2
+- pkg:composer/xoops/xmf@v1.2.33-beta3
 - pkg:composer/xoops/xmf@v1.2.9
+- pkg:composer/xoops/xmf@v1.3.0-beta1

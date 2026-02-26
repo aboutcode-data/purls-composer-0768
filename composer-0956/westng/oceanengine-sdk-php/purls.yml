@@ -6,6 +6,8 @@
 - pkg:composer/westng/oceanengine-sdk-php@3.0.4
 - pkg:composer/westng/oceanengine-sdk-php@3.0.5
 - pkg:composer/westng/oceanengine-sdk-php@3.0.6
+- pkg:composer/westng/oceanengine-sdk-php@3.0.7
+- pkg:composer/westng/oceanengine-sdk-php@3.0.8
 - pkg:composer/westng/oceanengine-sdk-php@v1.0.0
 - pkg:composer/westng/oceanengine-sdk-php@v1.0.1
 - pkg:composer/westng/oceanengine-sdk-php@v1.0.2

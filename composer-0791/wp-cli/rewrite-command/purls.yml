@@ -13,6 +13,7 @@
 - pkg:composer/wp-cli/rewrite-command@v2.0.14
 - pkg:composer/wp-cli/rewrite-command@v2.0.15
 - pkg:composer/wp-cli/rewrite-command@v2.0.16
+- pkg:composer/wp-cli/rewrite-command@v2.0.17
 - pkg:composer/wp-cli/rewrite-command@v2.0.2
 - pkg:composer/wp-cli/rewrite-command@v2.0.3
 - pkg:composer/wp-cli/rewrite-command@v2.0.4

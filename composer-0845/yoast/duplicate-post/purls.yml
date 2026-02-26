@@ -9,3 +9,4 @@
 - pkg:composer/yoast/duplicate-post@4.4-RC3
 - pkg:composer/yoast/duplicate-post@4.5
 - pkg:composer/yoast/duplicate-post@4.5-RC1
+- pkg:composer/yoast/duplicate-post@4.6-RC1

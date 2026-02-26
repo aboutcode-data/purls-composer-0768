@@ -95,6 +95,9 @@
 - pkg:composer/xpertselect-portals/xsp_drupal_suite@3.13.1
 - pkg:composer/xpertselect-portals/xsp_drupal_suite@3.13.2
 - pkg:composer/xpertselect-portals/xsp_drupal_suite@3.13.3
+- pkg:composer/xpertselect-portals/xsp_drupal_suite@3.14.0
+- pkg:composer/xpertselect-portals/xsp_drupal_suite@3.15.0
+- pkg:composer/xpertselect-portals/xsp_drupal_suite@3.15.1
 - pkg:composer/xpertselect-portals/xsp_drupal_suite@3.2.0
 - pkg:composer/xpertselect-portals/xsp_drupal_suite@3.3.0
 - pkg:composer/xpertselect-portals/xsp_drupal_suite@3.4.0

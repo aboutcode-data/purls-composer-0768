@@ -68,3 +68,6 @@
 - pkg:composer/wever/laradot@v6.0.0
 - pkg:composer/wever/laradot@v6.0.1
 - pkg:composer/wever/laradot@v6.0.2
+- pkg:composer/wever/laradot@v7.0
+- pkg:composer/wever/laradot@v7.0.1
+- pkg:composer/wever/laradot@v7.0.2

@@ -105,6 +105,7 @@
 - pkg:composer/wyrihaximus/fake-php-version@1.9.24
 - pkg:composer/wyrihaximus/fake-php-version@1.9.25
 - pkg:composer/wyrihaximus/fake-php-version@1.9.26
+- pkg:composer/wyrihaximus/fake-php-version@1.9.27
 - pkg:composer/wyrihaximus/fake-php-version@1.9.3
 - pkg:composer/wyrihaximus/fake-php-version@1.9.4
 - pkg:composer/wyrihaximus/fake-php-version@1.9.5

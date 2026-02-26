@@ -40,3 +40,4 @@
 - pkg:composer/yii2-module/yii2-module-helper@8.0.7
 - pkg:composer/yii2-module/yii2-module-helper@8.0.8
 - pkg:composer/yii2-module/yii2-module-helper@8.0.9
+- pkg:composer/yii2-module/yii2-module-helper@9.0.0
