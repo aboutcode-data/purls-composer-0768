@@ -83,3 +83,4 @@
 - pkg:composer/fooman/xero-php-oauth2@2.9.0
 - pkg:composer/fooman/xero-php-oauth2@2.9.0-p3
 - pkg:composer/fooman/xero-php-oauth2@8.0.0-p1
+- pkg:composer/fooman/xero-php-oauth2@8.0.0-p2
