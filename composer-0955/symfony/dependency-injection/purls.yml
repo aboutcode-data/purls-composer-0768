@@ -657,6 +657,7 @@
 - pkg:composer/symfony/dependency-injection@v6.4.30
 - pkg:composer/symfony/dependency-injection@v6.4.31
 - pkg:composer/symfony/dependency-injection@v6.4.32
+- pkg:composer/symfony/dependency-injection@v6.4.34
 - pkg:composer/symfony/dependency-injection@v6.4.4
 - pkg:composer/symfony/dependency-injection@v6.4.6
 - pkg:composer/symfony/dependency-injection@v6.4.7
@@ -723,6 +724,7 @@
 - pkg:composer/symfony/dependency-injection@v7.4.3
 - pkg:composer/symfony/dependency-injection@v7.4.4
 - pkg:composer/symfony/dependency-injection@v7.4.5
+- pkg:composer/symfony/dependency-injection@v7.4.6
 - pkg:composer/symfony/dependency-injection@v8.0.0
 - pkg:composer/symfony/dependency-injection@v8.0.0-BETA1
 - pkg:composer/symfony/dependency-injection@v8.0.0-BETA2
@@ -734,3 +736,4 @@
 - pkg:composer/symfony/dependency-injection@v8.0.3
 - pkg:composer/symfony/dependency-injection@v8.0.4
 - pkg:composer/symfony/dependency-injection@v8.0.5
+- pkg:composer/symfony/dependency-injection@v8.0.6

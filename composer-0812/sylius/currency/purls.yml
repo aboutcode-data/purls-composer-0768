@@ -57,6 +57,7 @@
 - pkg:composer/sylius/currency@v1.10.0-RC.1
 - pkg:composer/sylius/currency@v1.10.1
 - pkg:composer/sylius/currency@v1.10.13
+- pkg:composer/sylius/currency@v1.10.15
 - pkg:composer/sylius/currency@v1.10.2
 - pkg:composer/sylius/currency@v1.10.3
 - pkg:composer/sylius/currency@v1.10.4
@@ -70,6 +71,7 @@
 - pkg:composer/sylius/currency@v1.11.13
 - pkg:composer/sylius/currency@v1.11.14
 - pkg:composer/sylius/currency@v1.11.15
+- pkg:composer/sylius/currency@v1.11.16
 - pkg:composer/sylius/currency@v1.11.4
 - pkg:composer/sylius/currency@v1.11.6
 - pkg:composer/sylius/currency@v1.11.7
@@ -93,6 +95,7 @@
 - pkg:composer/sylius/currency@v1.12.2
 - pkg:composer/sylius/currency@v1.12.20
 - pkg:composer/sylius/currency@v1.12.21
+- pkg:composer/sylius/currency@v1.12.22
 - pkg:composer/sylius/currency@v1.12.3
 - pkg:composer/sylius/currency@v1.12.4
 - pkg:composer/sylius/currency@v1.12.5
@@ -110,6 +113,7 @@
 - pkg:composer/sylius/currency@v1.13.11
 - pkg:composer/sylius/currency@v1.13.12
 - pkg:composer/sylius/currency@v1.13.13
+- pkg:composer/sylius/currency@v1.13.14
 - pkg:composer/sylius/currency@v1.13.2
 - pkg:composer/sylius/currency@v1.13.3
 - pkg:composer/sylius/currency@v1.13.4
@@ -131,6 +135,7 @@
 - pkg:composer/sylius/currency@v1.14.14
 - pkg:composer/sylius/currency@v1.14.15
 - pkg:composer/sylius/currency@v1.14.16
+- pkg:composer/sylius/currency@v1.14.17
 - pkg:composer/sylius/currency@v1.14.2
 - pkg:composer/sylius/currency@v1.14.3
 - pkg:composer/sylius/currency@v1.14.4
@@ -223,6 +228,7 @@
 - pkg:composer/sylius/currency@v1.8.9
 - pkg:composer/sylius/currency@v1.9.0
 - pkg:composer/sylius/currency@v1.9.1
+- pkg:composer/sylius/currency@v1.9.11
 - pkg:composer/sylius/currency@v1.9.2
 - pkg:composer/sylius/currency@v1.9.3
 - pkg:composer/sylius/currency@v1.9.4
