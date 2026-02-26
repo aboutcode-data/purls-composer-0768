@@ -50,3 +50,5 @@
 - pkg:composer/spatie/eloquent-sortable@4.5.0
 - pkg:composer/spatie/eloquent-sortable@4.5.1
 - pkg:composer/spatie/eloquent-sortable@4.5.2
+- pkg:composer/spatie/eloquent-sortable@5.0.0
+- pkg:composer/spatie/eloquent-sortable@5.0.1

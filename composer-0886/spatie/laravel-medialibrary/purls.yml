@@ -125,7 +125,13 @@
 - pkg:composer/spatie/laravel-medialibrary@11.17.7
 - pkg:composer/spatie/laravel-medialibrary@11.17.8
 - pkg:composer/spatie/laravel-medialibrary@11.17.9
+- pkg:composer/spatie/laravel-medialibrary@11.18.0
+- pkg:composer/spatie/laravel-medialibrary@11.18.1
+- pkg:composer/spatie/laravel-medialibrary@11.18.2
+- pkg:composer/spatie/laravel-medialibrary@11.19.0
 - pkg:composer/spatie/laravel-medialibrary@11.2.0
+- pkg:composer/spatie/laravel-medialibrary@11.20.0
+- pkg:composer/spatie/laravel-medialibrary@11.21.0
 - pkg:composer/spatie/laravel-medialibrary@11.3.0
 - pkg:composer/spatie/laravel-medialibrary@11.3.1
 - pkg:composer/spatie/laravel-medialibrary@11.4.0

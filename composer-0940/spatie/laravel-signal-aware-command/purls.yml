@@ -7,3 +7,4 @@
 - pkg:composer/spatie/laravel-signal-aware-command@2.0.1
 - pkg:composer/spatie/laravel-signal-aware-command@2.1.0
 - pkg:composer/spatie/laravel-signal-aware-command@2.1.1
+- pkg:composer/spatie/laravel-signal-aware-command@2.1.2

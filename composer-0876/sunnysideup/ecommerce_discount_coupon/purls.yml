@@ -32,3 +32,6 @@
 - pkg:composer/sunnysideup/ecommerce_discount_coupon@6.0.0
 - pkg:composer/sunnysideup/ecommerce_discount_coupon@6.0.1
 - pkg:composer/sunnysideup/ecommerce_discount_coupon@7.0.0
+- pkg:composer/sunnysideup/ecommerce_discount_coupon@8.0.0
+- pkg:composer/sunnysideup/ecommerce_discount_coupon@8.0.1
+- pkg:composer/sunnysideup/ecommerce_discount_coupon@8.0.2

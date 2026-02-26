@@ -37,3 +37,4 @@
 - pkg:composer/spatie/laravel-glide@3.7.0
 - pkg:composer/spatie/laravel-glide@3.8.0
 - pkg:composer/spatie/laravel-glide@3.8.1
+- pkg:composer/spatie/laravel-glide@3.8.2

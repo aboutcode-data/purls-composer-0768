@@ -12,3 +12,5 @@
 - pkg:composer/stefna/php-code-builder@2.4.0
 - pkg:composer/stefna/php-code-builder@2.5.0
 - pkg:composer/stefna/php-code-builder@2.5.1
+- pkg:composer/stefna/php-code-builder@2.5.2
+- pkg:composer/stefna/php-code-builder@2.5.3

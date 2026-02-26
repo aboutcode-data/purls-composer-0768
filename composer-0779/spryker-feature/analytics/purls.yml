@@ -1,3 +1,4 @@
 - pkg:composer/spryker-feature/analytics@202410.0
 - pkg:composer/spryker-feature/analytics@202507.0
 - pkg:composer/spryker-feature/analytics@202512.0
+- pkg:composer/spryker-feature/analytics@202602.0

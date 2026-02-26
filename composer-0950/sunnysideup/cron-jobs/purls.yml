@@ -6,6 +6,8 @@
 - pkg:composer/sunnysideup/cron-jobs@10.0.2
 - pkg:composer/sunnysideup/cron-jobs@10.0.3
 - pkg:composer/sunnysideup/cron-jobs@10.0.4
+- pkg:composer/sunnysideup/cron-jobs@10.1.0
+- pkg:composer/sunnysideup/cron-jobs@10.1.1
 - pkg:composer/sunnysideup/cron-jobs@2.0.0
 - pkg:composer/sunnysideup/cron-jobs@3.0.0
 - pkg:composer/sunnysideup/cron-jobs@3.0.1

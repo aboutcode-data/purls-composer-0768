@@ -84,6 +84,7 @@
 - pkg:composer/sylius/resource@v1.13.0-ALPHA.3
 - pkg:composer/sylius/resource@v1.13.0-BETA.1
 - pkg:composer/sylius/resource@v1.13.1
+- pkg:composer/sylius/resource@v1.14.0
 - pkg:composer/sylius/resource@v1.14.0-ALPHA.1
 - pkg:composer/sylius/resource@v1.2.0
 - pkg:composer/sylius/resource@v1.2.0-BETA

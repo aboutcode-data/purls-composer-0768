@@ -18,3 +18,4 @@
 - pkg:composer/spiral/roadrunner-http@v3.5.1
 - pkg:composer/spiral/roadrunner-http@v3.5.2
 - pkg:composer/spiral/roadrunner-http@v3.6.0
+- pkg:composer/spiral/roadrunner-http@v4.0.0

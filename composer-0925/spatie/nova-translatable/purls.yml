@@ -24,3 +24,4 @@
 - pkg:composer/spatie/nova-translatable@4.0.2
 - pkg:composer/spatie/nova-translatable@4.0.3
 - pkg:composer/spatie/nova-translatable@4.1.0
+- pkg:composer/spatie/nova-translatable@4.1.1

@@ -10,3 +10,4 @@
 - pkg:composer/spatie/pest-plugin-snapshots@2.1.0
 - pkg:composer/spatie/pest-plugin-snapshots@2.2.0
 - pkg:composer/spatie/pest-plugin-snapshots@2.2.1
+- pkg:composer/spatie/pest-plugin-snapshots@2.3.0

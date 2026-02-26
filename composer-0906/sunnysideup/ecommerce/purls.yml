@@ -215,6 +215,16 @@
 - pkg:composer/sunnysideup/ecommerce@31.2.0
 - pkg:composer/sunnysideup/ecommerce@31.3.0
 - pkg:composer/sunnysideup/ecommerce@31.4.0
+- pkg:composer/sunnysideup/ecommerce@31.5.0
+- pkg:composer/sunnysideup/ecommerce@31.5.1
+- pkg:composer/sunnysideup/ecommerce@32.0.0
+- pkg:composer/sunnysideup/ecommerce@32.1.0
+- pkg:composer/sunnysideup/ecommerce@32.1.1
+- pkg:composer/sunnysideup/ecommerce@32.1.2
+- pkg:composer/sunnysideup/ecommerce@32.2.0
+- pkg:composer/sunnysideup/ecommerce@32.2.1
+- pkg:composer/sunnysideup/ecommerce@32.3.0
+- pkg:composer/sunnysideup/ecommerce@32.4.0
 - pkg:composer/sunnysideup/ecommerce@4.0.0
 - pkg:composer/sunnysideup/ecommerce@5.0.0
 - pkg:composer/sunnysideup/ecommerce@5.0.1

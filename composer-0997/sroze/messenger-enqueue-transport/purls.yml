@@ -13,3 +13,4 @@
 - pkg:composer/sroze/messenger-enqueue-transport@0.6.0
 - pkg:composer/sroze/messenger-enqueue-transport@0.7.0
 - pkg:composer/sroze/messenger-enqueue-transport@0.8.0
+- pkg:composer/sroze/messenger-enqueue-transport@1.0.0

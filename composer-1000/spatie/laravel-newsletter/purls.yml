@@ -49,3 +49,4 @@
 - pkg:composer/spatie/laravel-newsletter@5.2.1
 - pkg:composer/spatie/laravel-newsletter@5.3.0
 - pkg:composer/spatie/laravel-newsletter@5.3.1
+- pkg:composer/spatie/laravel-newsletter@5.3.2

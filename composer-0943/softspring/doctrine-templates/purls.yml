@@ -131,3 +131,4 @@
 - pkg:composer/softspring/doctrine-templates@v5.5.0-rc9
 - pkg:composer/softspring/doctrine-templates@v5.5.1
 - pkg:composer/softspring/doctrine-templates@v5.5.2
+- pkg:composer/softspring/doctrine-templates@v5.5.3

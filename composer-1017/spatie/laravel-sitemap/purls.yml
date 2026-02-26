@@ -75,3 +75,4 @@
 - pkg:composer/spatie/laravel-sitemap@7.3.6
 - pkg:composer/spatie/laravel-sitemap@7.3.7
 - pkg:composer/spatie/laravel-sitemap@7.3.8
+- pkg:composer/spatie/laravel-sitemap@7.4.0

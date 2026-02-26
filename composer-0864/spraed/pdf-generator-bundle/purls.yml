@@ -7,6 +7,9 @@
 - pkg:composer/spraed/pdf-generator-bundle@v1.11.3
 - pkg:composer/spraed/pdf-generator-bundle@v1.12.0
 - pkg:composer/spraed/pdf-generator-bundle@v1.12.1
+- pkg:composer/spraed/pdf-generator-bundle@v1.13.0
+- pkg:composer/spraed/pdf-generator-bundle@v1.13.1
+- pkg:composer/spraed/pdf-generator-bundle@v1.13.2
 - pkg:composer/spraed/pdf-generator-bundle@v1.2
 - pkg:composer/spraed/pdf-generator-bundle@v1.3
 - pkg:composer/spraed/pdf-generator-bundle@v1.4

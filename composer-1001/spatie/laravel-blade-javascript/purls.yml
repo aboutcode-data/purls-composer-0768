@@ -26,3 +26,4 @@
 - pkg:composer/spatie/laravel-blade-javascript@2.7.1
 - pkg:composer/spatie/laravel-blade-javascript@2.8.0
 - pkg:composer/spatie/laravel-blade-javascript@2.8.1
+- pkg:composer/spatie/laravel-blade-javascript@2.9.0
