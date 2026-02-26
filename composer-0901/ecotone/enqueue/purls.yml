@@ -314,6 +314,7 @@
 - pkg:composer/ecotone/enqueue@1.300.2
 - pkg:composer/ecotone/enqueue@1.301.0
 - pkg:composer/ecotone/enqueue@1.302.0
+- pkg:composer/ecotone/enqueue@1.302.1
 - pkg:composer/ecotone/enqueue@1.31.0
 - pkg:composer/ecotone/enqueue@1.31.1
 - pkg:composer/ecotone/enqueue@1.32.0

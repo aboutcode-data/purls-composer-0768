@@ -35,3 +35,4 @@
 - pkg:composer/firebase/php-jwt@v7.0.0
 - pkg:composer/firebase/php-jwt@v7.0.1
 - pkg:composer/firebase/php-jwt@v7.0.2
+- pkg:composer/firebase/php-jwt@v7.0.3
