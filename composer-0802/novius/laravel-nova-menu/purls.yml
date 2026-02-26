@@ -3,11 +3,13 @@
 - pkg:composer/novius/laravel-nova-menu@7.0.2
 - pkg:composer/novius/laravel-nova-menu@7.0.3
 - pkg:composer/novius/laravel-nova-menu@7.0.4
+- pkg:composer/novius/laravel-nova-menu@7.0.5
 - pkg:composer/novius/laravel-nova-menu@8.0.0
 - pkg:composer/novius/laravel-nova-menu@8.0.1
 - pkg:composer/novius/laravel-nova-menu@8.0.2
 - pkg:composer/novius/laravel-nova-menu@8.1.0
 - pkg:composer/novius/laravel-nova-menu@8.1.1
+- pkg:composer/novius/laravel-nova-menu@8.1.2
 - pkg:composer/novius/laravel-nova-menu@v0.1.0-alpha
 - pkg:composer/novius/laravel-nova-menu@v0.1.1-alpha
 - pkg:composer/novius/laravel-nova-menu@v0.2-alpha
