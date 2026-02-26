@@ -8,3 +8,5 @@
 - pkg:composer/php-cs-fixer/phpunit-constraint-xmlmatchesxsd@v1.5.0
 - pkg:composer/php-cs-fixer/phpunit-constraint-xmlmatchesxsd@v1.6.0
 - pkg:composer/php-cs-fixer/phpunit-constraint-xmlmatchesxsd@v1.7.0
+- pkg:composer/php-cs-fixer/phpunit-constraint-xmlmatchesxsd@v1.7.1
+- pkg:composer/php-cs-fixer/phpunit-constraint-xmlmatchesxsd@v1.8.0

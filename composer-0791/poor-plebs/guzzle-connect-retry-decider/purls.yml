@@ -1,3 +1,4 @@
 - pkg:composer/poor-plebs/guzzle-connect-retry-decider@1.0.0
 - pkg:composer/poor-plebs/guzzle-connect-retry-decider@1.1.0
 - pkg:composer/poor-plebs/guzzle-connect-retry-decider@1.1.1
+- pkg:composer/poor-plebs/guzzle-connect-retry-decider@1.1.2
