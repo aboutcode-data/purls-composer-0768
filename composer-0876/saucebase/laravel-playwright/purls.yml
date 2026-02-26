@@ -2,6 +2,7 @@
 - pkg:composer/saucebase/laravel-playwright@v0.0.10
 - pkg:composer/saucebase/laravel-playwright@v0.0.11
 - pkg:composer/saucebase/laravel-playwright@v0.0.12
+- pkg:composer/saucebase/laravel-playwright@v0.0.13
 - pkg:composer/saucebase/laravel-playwright@v0.0.2
 - pkg:composer/saucebase/laravel-playwright@v0.0.3
 - pkg:composer/saucebase/laravel-playwright@v0.0.4
