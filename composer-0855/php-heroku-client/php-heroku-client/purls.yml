@@ -11,3 +11,4 @@
 - pkg:composer/php-heroku-client/php-heroku-client@v4.0.0
 - pkg:composer/php-heroku-client/php-heroku-client@v4.0.1
 - pkg:composer/php-heroku-client/php-heroku-client@v4.0.2
+- pkg:composer/php-heroku-client/php-heroku-client@v4.0.3
