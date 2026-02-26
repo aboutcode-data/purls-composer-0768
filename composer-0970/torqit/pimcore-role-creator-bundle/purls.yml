@@ -13,3 +13,5 @@
 - pkg:composer/torqit/pimcore-role-creator-bundle@v5.0.0
 - pkg:composer/torqit/pimcore-role-creator-bundle@v5.0.1
 - pkg:composer/torqit/pimcore-role-creator-bundle@v5.0.2
+- pkg:composer/torqit/pimcore-role-creator-bundle@v5.1.2
+- pkg:composer/torqit/pimcore-role-creator-bundle@v5.1.3

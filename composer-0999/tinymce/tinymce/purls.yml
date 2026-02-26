@@ -221,6 +221,7 @@
 - pkg:composer/tinymce/tinymce@7.8.0
 - pkg:composer/tinymce/tinymce@7.9.0
 - pkg:composer/tinymce/tinymce@7.9.1
+- pkg:composer/tinymce/tinymce@7.9.2
 - pkg:composer/tinymce/tinymce@8.0.0
 - pkg:composer/tinymce/tinymce@8.0.1
 - pkg:composer/tinymce/tinymce@8.0.2

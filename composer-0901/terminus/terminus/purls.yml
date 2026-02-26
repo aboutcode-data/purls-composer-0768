@@ -137,5 +137,6 @@
 - pkg:composer/terminus/terminus@4.1.0
 - pkg:composer/terminus/terminus@4.1.1
 - pkg:composer/terminus/terminus@4.1.3
+- pkg:composer/terminus/terminus@4.1.4
 - pkg:composer/terminus/terminus@v0.0.0-alpha
 - pkg:composer/terminus/terminus@v3.0.0-alpha3

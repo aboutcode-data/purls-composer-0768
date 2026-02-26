@@ -14,4 +14,6 @@
 - pkg:composer/topdata-software-gmbh/php-util@4.4.0
 - pkg:composer/topdata-software-gmbh/php-util@4.4.1
 - pkg:composer/topdata-software-gmbh/php-util@4.5.0
+- pkg:composer/topdata-software-gmbh/php-util@4.5.1
+- pkg:composer/topdata-software-gmbh/php-util@4.5.2
 - pkg:composer/topdata-software-gmbh/php-util@v3.8.7

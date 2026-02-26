@@ -16,3 +16,4 @@
 - pkg:composer/tomshaw/laravel-dropbox@v1.1.0
 - pkg:composer/tomshaw/laravel-dropbox@v1.1.1
 - pkg:composer/tomshaw/laravel-dropbox@v1.1.2
+- pkg:composer/tomshaw/laravel-dropbox@v1.2.0

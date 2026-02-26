@@ -33,3 +33,4 @@
 - pkg:composer/tigress/repository@2026.01.22.1
 - pkg:composer/tigress/repository@2026.01.28.0
 - pkg:composer/tigress/repository@2026.01.30.0
+- pkg:composer/tigress/repository@2026.02.04.0

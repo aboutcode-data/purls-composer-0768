@@ -1,4 +1,8 @@
 - pkg:composer/tualo/sass@1.0.1
+- pkg:composer/tualo/sass@1.0.10
+- pkg:composer/tualo/sass@1.0.11
+- pkg:composer/tualo/sass@1.0.12
+- pkg:composer/tualo/sass@1.0.13
 - pkg:composer/tualo/sass@1.0.2
 - pkg:composer/tualo/sass@1.0.3
 - pkg:composer/tualo/sass@1.0.4
@@ -6,3 +10,4 @@
 - pkg:composer/tualo/sass@1.0.6
 - pkg:composer/tualo/sass@1.0.7
 - pkg:composer/tualo/sass@1.0.8
+- pkg:composer/tualo/sass@1.0.9

@@ -404,6 +404,8 @@
 - pkg:composer/tencentcloud/asr@3.0.1505
 - pkg:composer/tencentcloud/asr@3.0.1513
 - pkg:composer/tencentcloud/asr@3.0.1522
+- pkg:composer/tencentcloud/asr@3.0.1535
+- pkg:composer/tencentcloud/asr@3.0.1536
 - pkg:composer/tencentcloud/asr@3.0.248
 - pkg:composer/tencentcloud/asr@3.0.249
 - pkg:composer/tencentcloud/asr@3.0.250

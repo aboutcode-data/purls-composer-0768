@@ -395,6 +395,7 @@
 - pkg:composer/tencentcloud/goosefs@3.0.1400
 - pkg:composer/tencentcloud/goosefs@3.0.1402
 - pkg:composer/tencentcloud/goosefs@3.0.1414
+- pkg:composer/tencentcloud/goosefs@3.0.1538
 - pkg:composer/tencentcloud/goosefs@3.0.814
 - pkg:composer/tencentcloud/goosefs@3.0.815
 - pkg:composer/tencentcloud/goosefs@3.0.816

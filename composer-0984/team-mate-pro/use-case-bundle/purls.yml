@@ -1,5 +1,6 @@
 - pkg:composer/team-mate-pro/use-case-bundle@2.0.0
 - pkg:composer/team-mate-pro/use-case-bundle@2.0.1
+- pkg:composer/team-mate-pro/use-case-bundle@2.0.11
 - pkg:composer/team-mate-pro/use-case-bundle@2.0.2
 - pkg:composer/team-mate-pro/use-case-bundle@2.0.3
 - pkg:composer/team-mate-pro/use-case-bundle@2.0.4
@@ -7,3 +8,4 @@
 - pkg:composer/team-mate-pro/use-case-bundle@2.0.6
 - pkg:composer/team-mate-pro/use-case-bundle@2.0.7
 - pkg:composer/team-mate-pro/use-case-bundle@2.0.8
+- pkg:composer/team-mate-pro/use-case-bundle@2.0.9

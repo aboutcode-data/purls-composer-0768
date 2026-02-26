@@ -401,6 +401,8 @@
 - pkg:composer/tencentcloud/tse@3.0.1473
 - pkg:composer/tencentcloud/tse@3.0.1489
 - pkg:composer/tencentcloud/tse@3.0.1520
+- pkg:composer/tencentcloud/tse@3.0.1533
+- pkg:composer/tencentcloud/tse@3.0.1539
 - pkg:composer/tencentcloud/tse@3.0.364
 - pkg:composer/tencentcloud/tse@3.0.365
 - pkg:composer/tencentcloud/tse@3.0.366
