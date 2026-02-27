@@ -381,6 +381,7 @@
 - pkg:composer/mailslurp/mailslurp-client-php@16.2.4
 - pkg:composer/mailslurp/mailslurp-client-php@16.2.5
 - pkg:composer/mailslurp/mailslurp-client-php@17.0.0
+- pkg:composer/mailslurp/mailslurp-client-php@17.1.0
 - pkg:composer/mailslurp/mailslurp-client-php@4.2.0
 - pkg:composer/mailslurp/mailslurp-client-php@4.3.0
 - pkg:composer/mailslurp/mailslurp-client-php@4.3.1
