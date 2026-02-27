@@ -19,6 +19,7 @@
 - pkg:composer/oro/cookie-consent@5.0.2
 - pkg:composer/oro/cookie-consent@5.0.3
 - pkg:composer/oro/cookie-consent@5.0.4
+- pkg:composer/oro/cookie-consent@5.0.5
 - pkg:composer/oro/cookie-consent@5.1.0
 - pkg:composer/oro/cookie-consent@5.1.0-alpha.1
 - pkg:composer/oro/cookie-consent@5.1.0-alpha.2

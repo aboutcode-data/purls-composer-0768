@@ -1025,6 +1025,8 @@
 - pkg:composer/oat-sa/tao-core@v55.2.3
 - pkg:composer/oat-sa/tao-core@v56.0.0
 - pkg:composer/oat-sa/tao-core@v56.1.0
+- pkg:composer/oat-sa/tao-core@v56.1.1
+- pkg:composer/oat-sa/tao-core@v56.1.2
 - pkg:composer/oat-sa/tao-core@v7.0.0
 - pkg:composer/oat-sa/tao-core@v7.10.1
 - pkg:composer/oat-sa/tao-core@v7.11.0
