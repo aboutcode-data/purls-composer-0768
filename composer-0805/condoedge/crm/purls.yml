@@ -180,7 +180,13 @@
 - pkg:composer/condoedge/crm@v0.3.52
 - pkg:composer/condoedge/crm@v0.3.53
 - pkg:composer/condoedge/crm@v0.3.54
+- pkg:composer/condoedge/crm@v0.3.55
+- pkg:composer/condoedge/crm@v0.3.56
 - pkg:composer/condoedge/crm@v0.3.6
 - pkg:composer/condoedge/crm@v0.3.7
 - pkg:composer/condoedge/crm@v0.3.8
 - pkg:composer/condoedge/crm@v0.3.9
+- pkg:composer/condoedge/crm@v0.4.0
+- pkg:composer/condoedge/crm@v0.4.1
+- pkg:composer/condoedge/crm@v0.4.2
+- pkg:composer/condoedge/crm@v0.4.3

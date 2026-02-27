@@ -38,3 +38,4 @@
 - pkg:composer/bugover/laravel-repository@1.5.8
 - pkg:composer/bugover/laravel-repository@1.5.9
 - pkg:composer/bugover/laravel-repository@1.6.0
+- pkg:composer/bugover/laravel-repository@1.6.1

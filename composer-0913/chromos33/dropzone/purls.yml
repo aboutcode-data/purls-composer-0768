@@ -33,3 +33,6 @@
 - pkg:composer/chromos33/dropzone@1.5.5
 - pkg:composer/chromos33/dropzone@2.0
 - pkg:composer/chromos33/dropzone@2.1
+- pkg:composer/chromos33/dropzone@2.1.1
+- pkg:composer/chromos33/dropzone@2.1.2
+- pkg:composer/chromos33/dropzone@2.1.3

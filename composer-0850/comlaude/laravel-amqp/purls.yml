@@ -22,3 +22,5 @@
 - pkg:composer/comlaude/laravel-amqp@2.1.1
 - pkg:composer/comlaude/laravel-amqp@2.1.2
 - pkg:composer/comlaude/laravel-amqp@2.1.3
+- pkg:composer/comlaude/laravel-amqp@2.2.0
+- pkg:composer/comlaude/laravel-amqp@2.3.0

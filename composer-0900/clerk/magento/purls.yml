@@ -57,3 +57,4 @@
 - pkg:composer/clerk/magento@4.8.3
 - pkg:composer/clerk/magento@4.8.4
 - pkg:composer/clerk/magento@4.8.5
+- pkg:composer/clerk/magento@4.8.6

@@ -317,3 +317,4 @@
 - pkg:composer/cakephp/utility@5.3.0
 - pkg:composer/cakephp/utility@5.3.0-RC1
 - pkg:composer/cakephp/utility@5.3.0-RC2
+- pkg:composer/cakephp/utility@5.3.2

@@ -54,3 +54,5 @@
 - pkg:composer/coconutcraig/laravel-postmark@v3.2.0
 - pkg:composer/coconutcraig/laravel-postmark@v3.3.0
 - pkg:composer/coconutcraig/laravel-postmark@v3.3.1
+- pkg:composer/coconutcraig/laravel-postmark@v3.4.0
+- pkg:composer/coconutcraig/laravel-postmark@v3.4.1

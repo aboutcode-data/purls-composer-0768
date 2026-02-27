@@ -1,1 +1,4 @@
 - pkg:composer/codefog/contao-cloudflare-turnstile@1.0.0
+- pkg:composer/codefog/contao-cloudflare-turnstile@1.0.1
+- pkg:composer/codefog/contao-cloudflare-turnstile@1.0.2
+- pkg:composer/codefog/contao-cloudflare-turnstile@1.0.3

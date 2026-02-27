@@ -18,3 +18,4 @@
 - pkg:composer/code-tool/curl-client-symfony-bridge@v3.1.1
 - pkg:composer/code-tool/curl-client-symfony-bridge@v3.3.0
 - pkg:composer/code-tool/curl-client-symfony-bridge@v3.4.0
+- pkg:composer/code-tool/curl-client-symfony-bridge@v3.5.0

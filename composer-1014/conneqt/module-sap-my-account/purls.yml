@@ -88,3 +88,7 @@
 - pkg:composer/conneqt/module-sap-my-account@2.1.7
 - pkg:composer/conneqt/module-sap-my-account@2.1.8
 - pkg:composer/conneqt/module-sap-my-account@2.1.9
+- pkg:composer/conneqt/module-sap-my-account@2.2.0
+- pkg:composer/conneqt/module-sap-my-account@2.2.1
+- pkg:composer/conneqt/module-sap-my-account@2.3.0
+- pkg:composer/conneqt/module-sap-my-account@2.3.1

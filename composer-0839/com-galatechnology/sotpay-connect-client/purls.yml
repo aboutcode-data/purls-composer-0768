@@ -117,3 +117,7 @@
 - pkg:composer/com-galatechnology/sotpay-connect-client@2.2.3
 - pkg:composer/com-galatechnology/sotpay-connect-client@2.2.4
 - pkg:composer/com-galatechnology/sotpay-connect-client@2.2.5
+- pkg:composer/com-galatechnology/sotpay-connect-client@2.2.7
+- pkg:composer/com-galatechnology/sotpay-connect-client@2.2.8
+- pkg:composer/com-galatechnology/sotpay-connect-client@2.2.9
+- pkg:composer/com-galatechnology/sotpay-connect-client@2.3.0

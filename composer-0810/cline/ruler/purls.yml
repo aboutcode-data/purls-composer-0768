@@ -5,3 +5,7 @@
 - pkg:composer/cline/ruler@3.0.2
 - pkg:composer/cline/ruler@3.1.0
 - pkg:composer/cline/ruler@3.2.0
+- pkg:composer/cline/ruler@4.0.0
+- pkg:composer/cline/ruler@4.1.0
+- pkg:composer/cline/ruler@4.3.0
+- pkg:composer/cline/ruler@4.4.0

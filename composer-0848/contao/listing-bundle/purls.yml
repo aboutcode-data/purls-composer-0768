@@ -432,6 +432,7 @@
 - pkg:composer/contao/listing-bundle@5.6.0-RC3
 - pkg:composer/contao/listing-bundle@5.6.1
 - pkg:composer/contao/listing-bundle@5.6.10
+- pkg:composer/contao/listing-bundle@5.6.11
 - pkg:composer/contao/listing-bundle@5.6.2
 - pkg:composer/contao/listing-bundle@5.6.3
 - pkg:composer/contao/listing-bundle@5.6.4
@@ -440,5 +441,9 @@
 - pkg:composer/contao/listing-bundle@5.6.7
 - pkg:composer/contao/listing-bundle@5.6.8
 - pkg:composer/contao/listing-bundle@5.6.9
+- pkg:composer/contao/listing-bundle@5.7.0
 - pkg:composer/contao/listing-bundle@5.7.0-RC1
 - pkg:composer/contao/listing-bundle@5.7.0-RC2
+- pkg:composer/contao/listing-bundle@5.7.0-RC3
+- pkg:composer/contao/listing-bundle@5.7.0-RC4
+- pkg:composer/contao/listing-bundle@5.7.1

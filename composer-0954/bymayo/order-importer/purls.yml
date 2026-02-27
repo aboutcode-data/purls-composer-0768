@@ -1,1 +1,4 @@
 - pkg:composer/bymayo/order-importer@1.0.0
+- pkg:composer/bymayo/order-importer@1.0.1
+- pkg:composer/bymayo/order-importer@1.0.2
+- pkg:composer/bymayo/order-importer@1.0.5
