@@ -12,4 +12,9 @@
 - pkg:composer/21torr/task-manager@2.3.0
 - pkg:composer/21torr/task-manager@2.3.1
 - pkg:composer/21torr/task-manager@2.3.2
-- pkg:composer/21torr/task-manager@2.3.3
+- pkg:composer/21torr/task-manager@3.0.0
+- pkg:composer/21torr/task-manager@3.1.0
+- pkg:composer/21torr/task-manager@3.1.1
+- pkg:composer/21torr/task-manager@3.2.0
+- pkg:composer/21torr/task-manager@3.2.1
+- pkg:composer/21torr/task-manager@3.2.2

@@ -151,6 +151,8 @@
 - pkg:composer/aedart/athenaeum-container@9.20.0
 - pkg:composer/aedart/athenaeum-container@9.21.0
 - pkg:composer/aedart/athenaeum-container@9.22.0
+- pkg:composer/aedart/athenaeum-container@9.23.0
+- pkg:composer/aedart/athenaeum-container@9.24.0
 - pkg:composer/aedart/athenaeum-container@9.3.0
 - pkg:composer/aedart/athenaeum-container@9.4.0
 - pkg:composer/aedart/athenaeum-container@9.5.0

@@ -126,3 +126,5 @@
 - pkg:composer/acdh-oeaw/arche-lib@7.2.1
 - pkg:composer/acdh-oeaw/arche-lib@7.3.0
 - pkg:composer/acdh-oeaw/arche-lib@7.4.0
+- pkg:composer/acdh-oeaw/arche-lib@7.5.0
+- pkg:composer/acdh-oeaw/arche-lib@7.6.0
