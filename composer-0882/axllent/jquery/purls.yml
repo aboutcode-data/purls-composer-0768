@@ -8,3 +8,4 @@
 - pkg:composer/axllent/jquery@3.6.4
 - pkg:composer/axllent/jquery@3.7.0
 - pkg:composer/axllent/jquery@3.7.1
+- pkg:composer/axllent/jquery@4.0.0

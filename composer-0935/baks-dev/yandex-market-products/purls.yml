@@ -173,9 +173,12 @@
 - pkg:composer/baks-dev/yandex-market-products@v7.3.35
 - pkg:composer/baks-dev/yandex-market-products@v7.3.36
 - pkg:composer/baks-dev/yandex-market-products@v7.3.37
+- pkg:composer/baks-dev/yandex-market-products@v7.3.38
+- pkg:composer/baks-dev/yandex-market-products@v7.3.39
 - pkg:composer/baks-dev/yandex-market-products@v7.3.4
 - pkg:composer/baks-dev/yandex-market-products@v7.3.5
 - pkg:composer/baks-dev/yandex-market-products@v7.3.6
 - pkg:composer/baks-dev/yandex-market-products@v7.3.7
 - pkg:composer/baks-dev/yandex-market-products@v7.3.8
 - pkg:composer/baks-dev/yandex-market-products@v7.3.9
+- pkg:composer/baks-dev/yandex-market-products@v7.4.0

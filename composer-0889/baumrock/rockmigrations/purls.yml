@@ -105,3 +105,4 @@
 - pkg:composer/baumrock/rockmigrations@v7.2.0
 - pkg:composer/baumrock/rockmigrations@v7.3.0
 - pkg:composer/baumrock/rockmigrations@v7.4.0
+- pkg:composer/baumrock/rockmigrations@v7.4.1

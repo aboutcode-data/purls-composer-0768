@@ -1,2 +1,4 @@
+- pkg:composer/bilias/rqwatch@v1.6.10
 - pkg:composer/bilias/rqwatch@v1.6.8
 - pkg:composer/bilias/rqwatch@v1.6.9
+- pkg:composer/bilias/rqwatch@v1.7.0

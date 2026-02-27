@@ -2,3 +2,4 @@
 - pkg:composer/bugo/sass-embedded-php@0.2
 - pkg:composer/bugo/sass-embedded-php@0.3
 - pkg:composer/bugo/sass-embedded-php@0.4
+- pkg:composer/bugo/sass-embedded-php@0.5

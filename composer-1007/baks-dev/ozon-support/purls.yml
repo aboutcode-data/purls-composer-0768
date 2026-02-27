@@ -67,6 +67,11 @@
 - pkg:composer/baks-dev/ozon-support@v7.3.21
 - pkg:composer/baks-dev/ozon-support@v7.3.22
 - pkg:composer/baks-dev/ozon-support@v7.3.23
+- pkg:composer/baks-dev/ozon-support@v7.3.24
+- pkg:composer/baks-dev/ozon-support@v7.3.25
+- pkg:composer/baks-dev/ozon-support@v7.3.26
+- pkg:composer/baks-dev/ozon-support@v7.3.27
+- pkg:composer/baks-dev/ozon-support@v7.3.28
 - pkg:composer/baks-dev/ozon-support@v7.3.3
 - pkg:composer/baks-dev/ozon-support@v7.3.4
 - pkg:composer/baks-dev/ozon-support@v7.3.5
@@ -74,3 +79,4 @@
 - pkg:composer/baks-dev/ozon-support@v7.3.7
 - pkg:composer/baks-dev/ozon-support@v7.3.8
 - pkg:composer/baks-dev/ozon-support@v7.3.9
+- pkg:composer/baks-dev/ozon-support@v7.4.0

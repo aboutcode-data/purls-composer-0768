@@ -5,3 +5,4 @@
 - pkg:composer/bref/dev-server@0.2.3
 - pkg:composer/bref/dev-server@0.2.4
 - pkg:composer/bref/dev-server@1.0.0
+- pkg:composer/bref/dev-server@1.1.0

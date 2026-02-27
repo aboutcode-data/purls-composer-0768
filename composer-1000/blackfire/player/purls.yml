@@ -1,3 +1,4 @@
+- pkg:composer/blackfire/player@2026.2.0
 - pkg:composer/blackfire/player@v0.1.0
 - pkg:composer/blackfire/player@v0.10.0
 - pkg:composer/blackfire/player@v0.11.0

@@ -8,3 +8,4 @@
 - pkg:composer/bootiq/service-layer@01.01.01
 - pkg:composer/bootiq/service-layer@01.01.02
 - pkg:composer/bootiq/service-layer@01.02.00
+- pkg:composer/bootiq/service-layer@01.03.00

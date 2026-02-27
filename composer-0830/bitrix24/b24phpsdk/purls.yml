@@ -1,6 +1,7 @@
 - pkg:composer/bitrix24/b24phpsdk@1.0
 - pkg:composer/bitrix24/b24phpsdk@1.1.0
 - pkg:composer/bitrix24/b24phpsdk@1.10.0
+- pkg:composer/bitrix24/b24phpsdk@1.10.1
 - pkg:composer/bitrix24/b24phpsdk@1.2.0
 - pkg:composer/bitrix24/b24phpsdk@1.3.0
 - pkg:composer/bitrix24/b24phpsdk@1.4.0
@@ -9,3 +10,4 @@
 - pkg:composer/bitrix24/b24phpsdk@1.7.0
 - pkg:composer/bitrix24/b24phpsdk@1.8.0
 - pkg:composer/bitrix24/b24phpsdk@1.9.0
+- pkg:composer/bitrix24/b24phpsdk@3.0.0

@@ -1,5 +1,8 @@
 - pkg:composer/bitmotion/mautic-auth0-bundle@1.0.0
 - pkg:composer/bitmotion/mautic-auth0-bundle@3.0.0
+- pkg:composer/bitmotion/mautic-auth0-bundle@5.0.0
+- pkg:composer/bitmotion/mautic-auth0-bundle@6.0.0
+- pkg:composer/bitmotion/mautic-auth0-bundle@7.0.0
 - pkg:composer/bitmotion/mautic-auth0-bundle@v1.0.1
 - pkg:composer/bitmotion/mautic-auth0-bundle@v1.1.0
 - pkg:composer/bitmotion/mautic-auth0-bundle@v1.1.1

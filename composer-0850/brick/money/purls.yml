@@ -5,6 +5,7 @@
 - pkg:composer/brick/money@0.10.2
 - pkg:composer/brick/money@0.10.3
 - pkg:composer/brick/money@0.11.0
+- pkg:composer/brick/money@0.11.1
 - pkg:composer/brick/money@0.2.0
 - pkg:composer/brick/money@0.2.1
 - pkg:composer/brick/money@0.2.2

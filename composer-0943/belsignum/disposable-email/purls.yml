@@ -1,5 +1,8 @@
 - pkg:composer/belsignum/disposable-email@10.0.0
+- pkg:composer/belsignum/disposable-email@10.1.0
+- pkg:composer/belsignum/disposable-email@10.1.1
 - pkg:composer/belsignum/disposable-email@12.0.0
 - pkg:composer/belsignum/disposable-email@12.1.0
 - pkg:composer/belsignum/disposable-email@12.1.1
 - pkg:composer/belsignum/disposable-email@12.1.2
+- pkg:composer/belsignum/disposable-email@12.2.0

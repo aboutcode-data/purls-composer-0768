@@ -80,6 +80,8 @@
 - pkg:composer/buckaroo/magento2@v1.54.1
 - pkg:composer/buckaroo/magento2@v1.55.0
 - pkg:composer/buckaroo/magento2@v1.55.1
+- pkg:composer/buckaroo/magento2@v1.56.0
+- pkg:composer/buckaroo/magento2@v1.56.1
 - pkg:composer/buckaroo/magento2@v1.7.3
 - pkg:composer/buckaroo/magento2@v1.8.0
 - pkg:composer/buckaroo/magento2@v1.8.1
