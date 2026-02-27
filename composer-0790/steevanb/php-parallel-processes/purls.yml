@@ -23,3 +23,4 @@
 - pkg:composer/steevanb/php-parallel-processes@1.0.0
 - pkg:composer/steevanb/php-parallel-processes@1.0.1
 - pkg:composer/steevanb/php-parallel-processes@1.1.0
+- pkg:composer/steevanb/php-parallel-processes@1.2.0
