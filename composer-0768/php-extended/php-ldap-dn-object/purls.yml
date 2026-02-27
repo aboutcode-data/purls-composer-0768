@@ -68,3 +68,4 @@
 - pkg:composer/php-extended/php-ldap-dn-object@8.0.8
 - pkg:composer/php-extended/php-ldap-dn-object@8.0.9
 - pkg:composer/php-extended/php-ldap-dn-object@9.0.0
+- pkg:composer/php-extended/php-ldap-dn-object@9.0.1

@@ -64,3 +64,4 @@
 - pkg:composer/php-extended/php-data-provider-array@8.0.8
 - pkg:composer/php-extended/php-data-provider-array@8.0.9
 - pkg:composer/php-extended/php-data-provider-array@9.0.0
+- pkg:composer/php-extended/php-data-provider-array@9.0.1

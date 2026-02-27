@@ -64,3 +64,4 @@
 - pkg:composer/php-extended/php-tld-object@8.0.8
 - pkg:composer/php-extended/php-tld-object@8.0.9
 - pkg:composer/php-extended/php-tld-object@9.0.0
+- pkg:composer/php-extended/php-tld-object@9.0.1
