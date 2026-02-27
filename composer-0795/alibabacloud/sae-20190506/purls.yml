@@ -50,6 +50,8 @@
 - pkg:composer/alibabacloud/sae-20190506@2.11.4
 - pkg:composer/alibabacloud/sae-20190506@2.11.5
 - pkg:composer/alibabacloud/sae-20190506@2.12.0
+- pkg:composer/alibabacloud/sae-20190506@2.12.1
+- pkg:composer/alibabacloud/sae-20190506@2.12.2
 - pkg:composer/alibabacloud/sae-20190506@2.2.0
 - pkg:composer/alibabacloud/sae-20190506@2.3.0
 - pkg:composer/alibabacloud/sae-20190506@2.3.1

@@ -12,6 +12,10 @@
 - pkg:composer/asuwebplatforms/asu_brand@2.16.4
 - pkg:composer/asuwebplatforms/asu_brand@2.16.5
 - pkg:composer/asuwebplatforms/asu_brand@2.17.0
+- pkg:composer/asuwebplatforms/asu_brand@2.17.1
+- pkg:composer/asuwebplatforms/asu_brand@2.17.2
+- pkg:composer/asuwebplatforms/asu_brand@2.17.3
+- pkg:composer/asuwebplatforms/asu_brand@2.17.4
 - pkg:composer/asuwebplatforms/asu_brand@v2.14.1
 - pkg:composer/asuwebplatforms/asu_brand@v2.15.1
 - pkg:composer/asuwebplatforms/asu_brand@v2.15.2

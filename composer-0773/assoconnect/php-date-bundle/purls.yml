@@ -32,3 +32,5 @@
 - pkg:composer/assoconnect/php-date-bundle@v3.4.0
 - pkg:composer/assoconnect/php-date-bundle@v3.5.0
 - pkg:composer/assoconnect/php-date-bundle@v3.6.0
+- pkg:composer/assoconnect/php-date-bundle@v3.7.0
+- pkg:composer/assoconnect/php-date-bundle@v3.7.1

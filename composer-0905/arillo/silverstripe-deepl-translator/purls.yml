@@ -14,3 +14,6 @@
 - pkg:composer/arillo/silverstripe-deepl-translator@0.0.7
 - pkg:composer/arillo/silverstripe-deepl-translator@0.0.8
 - pkg:composer/arillo/silverstripe-deepl-translator@0.0.9
+- pkg:composer/arillo/silverstripe-deepl-translator@1.0.0
+- pkg:composer/arillo/silverstripe-deepl-translator@2.0.0
+- pkg:composer/arillo/silverstripe-deepl-translator@2.0.1

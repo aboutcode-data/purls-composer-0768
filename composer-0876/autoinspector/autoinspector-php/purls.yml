@@ -9,3 +9,4 @@
 - pkg:composer/autoinspector/autoinspector-php@v1.1.6
 - pkg:composer/autoinspector/autoinspector-php@v1.2.0
 - pkg:composer/autoinspector/autoinspector-php@v1.3.0
+- pkg:composer/autoinspector/autoinspector-php@v1.3.1

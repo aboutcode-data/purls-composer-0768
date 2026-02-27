@@ -12,3 +12,4 @@
 - pkg:composer/autoaction/phalcon@2.0.1
 - pkg:composer/autoaction/phalcon@2.0.2
 - pkg:composer/autoaction/phalcon@2.0.3
+- pkg:composer/autoaction/phalcon@3.0.0-RC1

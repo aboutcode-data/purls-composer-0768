@@ -120,6 +120,8 @@
 - pkg:composer/anourvalar/eloquent-validation@3.16.1
 - pkg:composer/anourvalar/eloquent-validation@3.16.2
 - pkg:composer/anourvalar/eloquent-validation@3.16.3
+- pkg:composer/anourvalar/eloquent-validation@3.16.4
+- pkg:composer/anourvalar/eloquent-validation@3.16.5
 - pkg:composer/anourvalar/eloquent-validation@3.2.0
 - pkg:composer/anourvalar/eloquent-validation@3.3.0
 - pkg:composer/anourvalar/eloquent-validation@3.3.1

@@ -28,6 +28,8 @@
 - pkg:composer/automattic/jetpack-remove-asset-webpack-plugin@v1.0.31
 - pkg:composer/automattic/jetpack-remove-asset-webpack-plugin@v1.0.32
 - pkg:composer/automattic/jetpack-remove-asset-webpack-plugin@v1.0.33
+- pkg:composer/automattic/jetpack-remove-asset-webpack-plugin@v1.0.34
+- pkg:composer/automattic/jetpack-remove-asset-webpack-plugin@v1.0.35
 - pkg:composer/automattic/jetpack-remove-asset-webpack-plugin@v1.0.4
 - pkg:composer/automattic/jetpack-remove-asset-webpack-plugin@v1.0.5
 - pkg:composer/automattic/jetpack-remove-asset-webpack-plugin@v1.0.6

@@ -323,6 +323,14 @@
 - pkg:composer/automattic/jetpack-my-jetpack@v5.30.2
 - pkg:composer/automattic/jetpack-my-jetpack@v5.30.3
 - pkg:composer/automattic/jetpack-my-jetpack@v5.30.4
+- pkg:composer/automattic/jetpack-my-jetpack@v5.31.0
+- pkg:composer/automattic/jetpack-my-jetpack@v5.31.1
+- pkg:composer/automattic/jetpack-my-jetpack@v5.31.2
+- pkg:composer/automattic/jetpack-my-jetpack@v5.31.3
+- pkg:composer/automattic/jetpack-my-jetpack@v5.31.4
+- pkg:composer/automattic/jetpack-my-jetpack@v5.31.5
+- pkg:composer/automattic/jetpack-my-jetpack@v5.31.6
+- pkg:composer/automattic/jetpack-my-jetpack@v5.31.7
 - pkg:composer/automattic/jetpack-my-jetpack@v5.4.0
 - pkg:composer/automattic/jetpack-my-jetpack@v5.4.1
 - pkg:composer/automattic/jetpack-my-jetpack@v5.4.2

@@ -136,3 +136,6 @@
 - pkg:composer/arikaim/system-template@1.9.7
 - pkg:composer/arikaim/system-template@1.9.8
 - pkg:composer/arikaim/system-template@1.9.9
+- pkg:composer/arikaim/system-template@2.0.0
+- pkg:composer/arikaim/system-template@2.0.1
+- pkg:composer/arikaim/system-template@2.0.2

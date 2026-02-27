@@ -15,3 +15,4 @@
 - pkg:composer/async-aws/code-deploy@2.2.0
 - pkg:composer/async-aws/code-deploy@2.3.0
 - pkg:composer/async-aws/code-deploy@2.4.0
+- pkg:composer/async-aws/code-deploy@2.4.1

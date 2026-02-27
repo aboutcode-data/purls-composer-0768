@@ -1,3 +1,5 @@
 - pkg:composer/apax/recipe_apax_decoupled@v1.0.0
 - pkg:composer/apax/recipe_apax_decoupled@v1.0.1
 - pkg:composer/apax/recipe_apax_decoupled@v1.0.2
+- pkg:composer/apax/recipe_apax_decoupled@v1.0.3
+- pkg:composer/apax/recipe_apax_decoupled@v1.0.4

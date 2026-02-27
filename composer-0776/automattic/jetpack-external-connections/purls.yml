@@ -5,6 +5,10 @@
 - pkg:composer/automattic/jetpack-external-connections@v0.1.12
 - pkg:composer/automattic/jetpack-external-connections@v0.1.13
 - pkg:composer/automattic/jetpack-external-connections@v0.1.14
+- pkg:composer/automattic/jetpack-external-connections@v0.1.15
+- pkg:composer/automattic/jetpack-external-connections@v0.1.16
+- pkg:composer/automattic/jetpack-external-connections@v0.1.17
+- pkg:composer/automattic/jetpack-external-connections@v0.1.18
 - pkg:composer/automattic/jetpack-external-connections@v0.1.2
 - pkg:composer/automattic/jetpack-external-connections@v0.1.3
 - pkg:composer/automattic/jetpack-external-connections@v0.1.4

@@ -1,1 +1,3 @@
 - pkg:composer/alsc/streambus@0.1
+- pkg:composer/alsc/streambus@0.2
+- pkg:composer/alsc/streambus@0.2.1

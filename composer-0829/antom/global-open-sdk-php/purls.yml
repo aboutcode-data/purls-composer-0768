@@ -21,6 +21,7 @@
 - pkg:composer/antom/global-open-sdk-php@v1.4.24
 - pkg:composer/antom/global-open-sdk-php@v1.4.25
 - pkg:composer/antom/global-open-sdk-php@v1.4.26
+- pkg:composer/antom/global-open-sdk-php@v1.4.27
 - pkg:composer/antom/global-open-sdk-php@v1.4.3
 - pkg:composer/antom/global-open-sdk-php@v1.4.4
 - pkg:composer/antom/global-open-sdk-php@v1.4.5

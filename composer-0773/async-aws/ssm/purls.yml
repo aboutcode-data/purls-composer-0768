@@ -21,3 +21,4 @@
 - pkg:composer/async-aws/ssm@2.3.0
 - pkg:composer/async-aws/ssm@2.3.1
 - pkg:composer/async-aws/ssm@2.4.0
+- pkg:composer/async-aws/ssm@2.4.1
