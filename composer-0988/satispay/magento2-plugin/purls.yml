@@ -19,3 +19,4 @@
 - pkg:composer/satispay/magento2-plugin@2.2.2
 - pkg:composer/satispay/magento2-plugin@2.2.3
 - pkg:composer/satispay/magento2-plugin@2.2.5
+- pkg:composer/satispay/magento2-plugin@2.2.6
