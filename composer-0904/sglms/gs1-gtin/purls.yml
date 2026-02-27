@@ -11,3 +11,5 @@
 - pkg:composer/sglms/gs1-gtin@1.2.3
 - pkg:composer/sglms/gs1-gtin@1.2.4
 - pkg:composer/sglms/gs1-gtin@2.0
+- pkg:composer/sglms/gs1-gtin@2.0.1
+- pkg:composer/sglms/gs1-gtin@2.0.2
