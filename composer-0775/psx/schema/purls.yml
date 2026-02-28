@@ -233,3 +233,4 @@
 - pkg:composer/psx/schema@v7.6.5
 - pkg:composer/psx/schema@v7.6.6
 - pkg:composer/psx/schema@v7.6.7
+- pkg:composer/psx/schema@v7.7.0
