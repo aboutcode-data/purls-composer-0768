@@ -1,9 +1,3 @@
-- pkg:composer/ufo-tech/json-rpc-sdk-bundle@1.1.3
-- pkg:composer/ufo-tech/json-rpc-sdk-bundle@1.1.4
-- pkg:composer/ufo-tech/json-rpc-sdk-bundle@1.2.0
 - pkg:composer/ufo-tech/json-rpc-sdk-bundle@1.3.3
 - pkg:composer/ufo-tech/json-rpc-sdk-bundle@2.3.3
-- pkg:composer/ufo-tech/json-rpc-sdk-bundle@3.0.0
-- pkg:composer/ufo-tech/json-rpc-sdk-bundle@3.0.1
-- pkg:composer/ufo-tech/json-rpc-sdk-bundle@3.0.2
 - pkg:composer/ufo-tech/json-rpc-sdk-bundle@3.1.0
