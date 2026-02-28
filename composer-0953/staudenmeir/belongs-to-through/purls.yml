@@ -20,6 +20,7 @@
 - pkg:composer/staudenmeir/belongs-to-through@v2.16.3
 - pkg:composer/staudenmeir/belongs-to-through@v2.16.4
 - pkg:composer/staudenmeir/belongs-to-through@v2.17
+- pkg:composer/staudenmeir/belongs-to-through@v2.18
 - pkg:composer/staudenmeir/belongs-to-through@v2.2
 - pkg:composer/staudenmeir/belongs-to-through@v2.2.1
 - pkg:composer/staudenmeir/belongs-to-through@v2.2.2
