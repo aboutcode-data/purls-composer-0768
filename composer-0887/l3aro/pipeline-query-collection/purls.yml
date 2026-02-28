@@ -24,3 +24,4 @@
 - pkg:composer/l3aro/pipeline-query-collection@v1.4.1
 - pkg:composer/l3aro/pipeline-query-collection@v1.4.2
 - pkg:composer/l3aro/pipeline-query-collection@v1.5.0
+- pkg:composer/l3aro/pipeline-query-collection@v1.6.0
