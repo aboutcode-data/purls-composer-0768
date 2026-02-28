@@ -39,6 +39,7 @@
 - pkg:composer/placetopay/magento2-module-payments@1.9.5
 - pkg:composer/placetopay/magento2-module-payments@2.0.0
 - pkg:composer/placetopay/magento2-module-payments@2.0.1
+- pkg:composer/placetopay/magento2-module-payments@2.1.0
 - pkg:composer/placetopay/magento2-module-payments@v1.4.0
 - pkg:composer/placetopay/magento2-module-payments@v1.5.0
 - pkg:composer/placetopay/magento2-module-payments@v1.5.1

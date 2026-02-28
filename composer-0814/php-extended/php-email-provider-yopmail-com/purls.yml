@@ -74,3 +74,4 @@
 - pkg:composer/php-extended/php-email-provider-yopmail-com@8.0.8
 - pkg:composer/php-extended/php-email-provider-yopmail-com@8.0.9
 - pkg:composer/php-extended/php-email-provider-yopmail-com@9.0.0
+- pkg:composer/php-extended/php-email-provider-yopmail-com@9.0.1
