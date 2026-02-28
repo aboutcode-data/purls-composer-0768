@@ -12,6 +12,7 @@
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.2
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.20
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.21
+- pkg:composer/stitch-digital/simpro-php-sdk@0.0.22
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.3
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.4
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.5
