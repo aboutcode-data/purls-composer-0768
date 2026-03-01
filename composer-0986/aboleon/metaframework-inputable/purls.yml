@@ -21,6 +21,4 @@
 - pkg:composer/aboleon/metaframework-inputable@1.1.1
 - pkg:composer/aboleon/metaframework-inputable@1.2.0
 - pkg:composer/aboleon/metaframework-inputable@1.3.0
-- pkg:composer/aboleon/metaframework-inputable@2.0.0
-- pkg:composer/aboleon/metaframework-inputable@2.0.1
-- pkg:composer/aboleon/metaframework-inputable@2.0.2
+- pkg:composer/aboleon/metaframework-inputable@1.4.0

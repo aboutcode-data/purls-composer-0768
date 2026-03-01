@@ -32,3 +32,4 @@
 - pkg:composer/yorcreative/laravel-scrubber@v3.5.0
 - pkg:composer/yorcreative/laravel-scrubber@v3.6.0
 - pkg:composer/yorcreative/laravel-scrubber@v3.6.1
+- pkg:composer/yorcreative/laravel-scrubber@v3.7.0
