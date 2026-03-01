@@ -59,3 +59,4 @@
 - pkg:composer/digit-soft/laravel-swagger-generator@1.5.1
 - pkg:composer/digit-soft/laravel-swagger-generator@1.5.3
 - pkg:composer/digit-soft/laravel-swagger-generator@1.5.4
+- pkg:composer/digit-soft/laravel-swagger-generator@1.5.5

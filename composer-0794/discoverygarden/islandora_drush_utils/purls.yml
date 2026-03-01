@@ -27,3 +27,4 @@
 - pkg:composer/discoverygarden/islandora_drush_utils@v2.2.4
 - pkg:composer/discoverygarden/islandora_drush_utils@v2.3.0
 - pkg:composer/discoverygarden/islandora_drush_utils@v2.4.0
+- pkg:composer/discoverygarden/islandora_drush_utils@v2.5.0

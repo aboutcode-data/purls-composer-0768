@@ -1,1 +1,4 @@
 - pkg:composer/dlakomski/jms-serializer-bridge@6.4
+- pkg:composer/dlakomski/jms-serializer-bridge@6.5
+- pkg:composer/dlakomski/jms-serializer-bridge@6.6
+- pkg:composer/dlakomski/jms-serializer-bridge@6.6.1

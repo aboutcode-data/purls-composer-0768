@@ -12,3 +12,4 @@
 - pkg:composer/doctrine/sql-formatter@1.5.1
 - pkg:composer/doctrine/sql-formatter@1.5.2
 - pkg:composer/doctrine/sql-formatter@1.5.3
+- pkg:composer/doctrine/sql-formatter@1.5.4

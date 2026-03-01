@@ -7,3 +7,6 @@
 - pkg:composer/divineomega/dotenv-loader@v2.0.1
 - pkg:composer/divineomega/dotenv-loader@v2.0.2
 - pkg:composer/divineomega/dotenv-loader@v2.0.3
+- pkg:composer/divineomega/dotenv-loader@v3.0.0
+- pkg:composer/divineomega/dotenv-loader@v4.0.0
+- pkg:composer/divineomega/dotenv-loader@v4.0.1

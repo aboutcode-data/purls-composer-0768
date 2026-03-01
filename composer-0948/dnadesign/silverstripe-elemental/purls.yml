@@ -159,3 +159,5 @@
 - pkg:composer/dnadesign/silverstripe-elemental@6.1.3
 - pkg:composer/dnadesign/silverstripe-elemental@6.1.4
 - pkg:composer/dnadesign/silverstripe-elemental@6.1.5
+- pkg:composer/dnadesign/silverstripe-elemental@6.1.6
+- pkg:composer/dnadesign/silverstripe-elemental@6.2.0-beta1

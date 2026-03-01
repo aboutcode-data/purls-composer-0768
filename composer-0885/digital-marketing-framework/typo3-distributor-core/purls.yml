@@ -31,3 +31,7 @@
 - pkg:composer/digital-marketing-framework/typo3-distributor-core@3.3.3
 - pkg:composer/digital-marketing-framework/typo3-distributor-core@3.4.0
 - pkg:composer/digital-marketing-framework/typo3-distributor-core@3.5.0
+- pkg:composer/digital-marketing-framework/typo3-distributor-core@3.6.0
+- pkg:composer/digital-marketing-framework/typo3-distributor-core@3.6.1
+- pkg:composer/digital-marketing-framework/typo3-distributor-core@3.7.0
+- pkg:composer/digital-marketing-framework/typo3-distributor-core@3.7.1

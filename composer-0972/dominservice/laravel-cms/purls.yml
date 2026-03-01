@@ -69,3 +69,9 @@
 - pkg:composer/dominservice/laravel-cms@4.1.7
 - pkg:composer/dominservice/laravel-cms@4.1.8
 - pkg:composer/dominservice/laravel-cms@4.1.9
+- pkg:composer/dominservice/laravel-cms@4.2.0
+- pkg:composer/dominservice/laravel-cms@4.2.1
+- pkg:composer/dominservice/laravel-cms@4.2.2
+- pkg:composer/dominservice/laravel-cms@4.2.3
+- pkg:composer/dominservice/laravel-cms@4.2.4
+- pkg:composer/dominservice/laravel-cms@4.2.5

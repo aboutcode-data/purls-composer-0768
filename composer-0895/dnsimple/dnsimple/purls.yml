@@ -14,3 +14,4 @@
 - pkg:composer/dnsimple/dnsimple@v4.0.0
 - pkg:composer/dnsimple/dnsimple@v5.0.0
 - pkg:composer/dnsimple/dnsimple@v6.0.0
+- pkg:composer/dnsimple/dnsimple@v6.1.0

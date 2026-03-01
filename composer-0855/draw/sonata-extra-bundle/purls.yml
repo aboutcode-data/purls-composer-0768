@@ -71,6 +71,7 @@
 - pkg:composer/draw/sonata-extra-bundle@0.35.0
 - pkg:composer/draw/sonata-extra-bundle@0.36.0
 - pkg:composer/draw/sonata-extra-bundle@0.37.0
+- pkg:composer/draw/sonata-extra-bundle@0.38.0
 - pkg:composer/draw/sonata-extra-bundle@0.7.53
 - pkg:composer/draw/sonata-extra-bundle@0.7.54
 - pkg:composer/draw/sonata-extra-bundle@0.7.56
