@@ -1,2 +1,3 @@
 - pkg:composer/phptg/transport-psr@0.1
 - pkg:composer/phptg/transport-psr@0.1.1
+- pkg:composer/phptg/transport-psr@0.2
