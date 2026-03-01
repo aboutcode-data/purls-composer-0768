@@ -32,6 +32,11 @@
 - pkg:composer/backstage/laravel-mails@v2.0.0-beta109
 - pkg:composer/backstage/laravel-mails@v2.0.0-beta110
 - pkg:composer/backstage/laravel-mails@v2.0.0-beta111
+- pkg:composer/backstage/laravel-mails@v2.0.0-beta115
+- pkg:composer/backstage/laravel-mails@v2.0.0-beta117
+- pkg:composer/backstage/laravel-mails@v2.0.0-beta118
+- pkg:composer/backstage/laravel-mails@v2.0.0-beta119
+- pkg:composer/backstage/laravel-mails@v2.0.0-beta120
 - pkg:composer/backstage/laravel-mails@v2.0.0-beta33
 - pkg:composer/backstage/laravel-mails@v2.0.0-beta34
 - pkg:composer/backstage/laravel-mails@v2.0.0-beta35
