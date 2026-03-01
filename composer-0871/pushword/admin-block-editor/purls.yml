@@ -802,6 +802,7 @@
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc472
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc473
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc475
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc476
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc48
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc49
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc5
