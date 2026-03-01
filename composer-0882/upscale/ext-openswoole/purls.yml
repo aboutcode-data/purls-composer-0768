@@ -2,6 +2,7 @@
 - pkg:composer/upscale/ext-openswoole@v22.1.0
 - pkg:composer/upscale/ext-openswoole@v22.1.2
 - pkg:composer/upscale/ext-openswoole@v25.2.0
+- pkg:composer/upscale/ext-openswoole@v26.2.0
 - pkg:composer/upscale/ext-openswoole@v4.10.0
 - pkg:composer/upscale/ext-openswoole@v4.11.0
 - pkg:composer/upscale/ext-openswoole@v4.11.1
