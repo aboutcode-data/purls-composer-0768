@@ -7,6 +7,7 @@
 - pkg:composer/phptg/bot-api@0.14.1
 - pkg:composer/phptg/bot-api@0.15
 - pkg:composer/phptg/bot-api@0.16
+- pkg:composer/phptg/bot-api@0.17
 - pkg:composer/phptg/bot-api@0.2
 - pkg:composer/phptg/bot-api@0.2.1
 - pkg:composer/phptg/bot-api@0.3
