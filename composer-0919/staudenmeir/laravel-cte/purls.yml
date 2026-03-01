@@ -24,6 +24,7 @@
 - pkg:composer/staudenmeir/laravel-cte@v1.12.2
 - pkg:composer/staudenmeir/laravel-cte@v1.12.3
 - pkg:composer/staudenmeir/laravel-cte@v1.12.4
+- pkg:composer/staudenmeir/laravel-cte@v1.13.0
 - pkg:composer/staudenmeir/laravel-cte@v1.2
 - pkg:composer/staudenmeir/laravel-cte@v1.2.1
 - pkg:composer/staudenmeir/laravel-cte@v1.2.2
