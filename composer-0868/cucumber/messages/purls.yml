@@ -29,3 +29,9 @@
 - pkg:composer/cucumber/messages@v30.0.0
 - pkg:composer/cucumber/messages@v30.1.0
 - pkg:composer/cucumber/messages@v31.0.0
+- pkg:composer/cucumber/messages@v31.0.1
+- pkg:composer/cucumber/messages@v31.1.0
+- pkg:composer/cucumber/messages@v31.2.0
+- pkg:composer/cucumber/messages@v32.0.0
+- pkg:composer/cucumber/messages@v32.0.1
+- pkg:composer/cucumber/messages@v32.1.0

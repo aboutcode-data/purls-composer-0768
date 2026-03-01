@@ -70,3 +70,4 @@
 - pkg:composer/crowdsec/bouncer@v4.1.0
 - pkg:composer/crowdsec/bouncer@v4.2.0
 - pkg:composer/crowdsec/bouncer@v4.3.0
+- pkg:composer/crowdsec/bouncer@v4.3.1

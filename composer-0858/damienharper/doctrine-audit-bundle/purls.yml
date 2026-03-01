@@ -66,3 +66,6 @@
 - pkg:composer/damienharper/doctrine-audit-bundle@6.2.1
 - pkg:composer/damienharper/doctrine-audit-bundle@6.2.2
 - pkg:composer/damienharper/doctrine-audit-bundle@6.2.3
+- pkg:composer/damienharper/doctrine-audit-bundle@6.3.0
+- pkg:composer/damienharper/doctrine-audit-bundle@7.0.0
+- pkg:composer/damienharper/doctrine-audit-bundle@7.0.1

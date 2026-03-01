@@ -34,3 +34,4 @@
 - pkg:composer/deegitalbe/laravel-trustup-io-authentification@v2.0.2
 - pkg:composer/deegitalbe/laravel-trustup-io-authentification@v2.1.0
 - pkg:composer/deegitalbe/laravel-trustup-io-authentification@v3.0
+- pkg:composer/deegitalbe/laravel-trustup-io-authentification@v4.0.0

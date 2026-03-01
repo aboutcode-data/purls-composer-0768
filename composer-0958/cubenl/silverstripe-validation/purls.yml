@@ -2,3 +2,4 @@
 - pkg:composer/cubenl/silverstripe-validation@1.1.0
 - pkg:composer/cubenl/silverstripe-validation@1.2.0
 - pkg:composer/cubenl/silverstripe-validation@2.0.0
+- pkg:composer/cubenl/silverstripe-validation@3.0.0

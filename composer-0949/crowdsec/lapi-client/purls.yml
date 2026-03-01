@@ -16,3 +16,4 @@
 - pkg:composer/crowdsec/lapi-client@v3.5.0
 - pkg:composer/crowdsec/lapi-client@v3.6.0
 - pkg:composer/crowdsec/lapi-client@v3.7.0
+- pkg:composer/crowdsec/lapi-client@v3.7.1

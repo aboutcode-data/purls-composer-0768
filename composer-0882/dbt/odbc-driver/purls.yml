@@ -14,3 +14,4 @@
 - pkg:composer/dbt/odbc-driver@4.0.1
 - pkg:composer/dbt/odbc-driver@4.1.0
 - pkg:composer/dbt/odbc-driver@5.0.0
+- pkg:composer/dbt/odbc-driver@5.0.1
