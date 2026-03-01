@@ -42,6 +42,7 @@
 - pkg:composer/staudenmeir/eloquent-has-many-deep@v1.21
 - pkg:composer/staudenmeir/eloquent-has-many-deep@v1.21.1
 - pkg:composer/staudenmeir/eloquent-has-many-deep@v1.21.2
+- pkg:composer/staudenmeir/eloquent-has-many-deep@v1.22
 - pkg:composer/staudenmeir/eloquent-has-many-deep@v1.3
 - pkg:composer/staudenmeir/eloquent-has-many-deep@v1.4
 - pkg:composer/staudenmeir/eloquent-has-many-deep@v1.5
