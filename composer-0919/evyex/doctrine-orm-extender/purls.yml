@@ -1,1 +1,2 @@
 - pkg:composer/evyex/doctrine-orm-extender@0.1
+- pkg:composer/evyex/doctrine-orm-extender@0.2.0

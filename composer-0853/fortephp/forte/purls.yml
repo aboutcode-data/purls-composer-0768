@@ -1,2 +1,5 @@
 - pkg:composer/fortephp/forte@v0.1.0
 - pkg:composer/fortephp/forte@v0.2.0
+- pkg:composer/fortephp/forte@v0.3.0
+- pkg:composer/fortephp/forte@v0.4.0
+- pkg:composer/fortephp/forte@v0.4.1

@@ -14,3 +14,4 @@
 - pkg:composer/flyeralarm/php-code-validator@4.0.0
 - pkg:composer/flyeralarm/php-code-validator@4.1.0
 - pkg:composer/flyeralarm/php-code-validator@4.1.1
+- pkg:composer/flyeralarm/php-code-validator@v4.2.0
