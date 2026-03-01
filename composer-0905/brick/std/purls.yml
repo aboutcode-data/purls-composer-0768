@@ -6,3 +6,4 @@
 - pkg:composer/brick/std@0.3.0
 - pkg:composer/brick/std@0.3.1
 - pkg:composer/brick/std@0.4.0
+- pkg:composer/brick/std@0.5.0
