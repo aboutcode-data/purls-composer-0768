@@ -86,3 +86,4 @@
 - pkg:composer/yii2-module/yii2-insee-cog@8.0.6
 - pkg:composer/yii2-module/yii2-insee-cog@8.0.7
 - pkg:composer/yii2-module/yii2-insee-cog@9.0.0
+- pkg:composer/yii2-module/yii2-insee-cog@9.0.1

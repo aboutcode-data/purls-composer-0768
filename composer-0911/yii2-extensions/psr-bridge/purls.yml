@@ -6,3 +6,4 @@
 - pkg:composer/yii2-extensions/psr-bridge@0.1.5
 - pkg:composer/yii2-extensions/psr-bridge@0.2.0
 - pkg:composer/yii2-extensions/psr-bridge@0.2.1
+- pkg:composer/yii2-extensions/psr-bridge@0.3.0
