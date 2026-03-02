@@ -9,3 +9,4 @@
 - pkg:composer/transitive/web@2.5.1
 - pkg:composer/transitive/web@2.5.2
 - pkg:composer/transitive/web@2.5.3
+- pkg:composer/transitive/web@2.5.4
