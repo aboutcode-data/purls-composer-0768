@@ -16,3 +16,4 @@
 - pkg:composer/audunru/config-secrets@v5.0.0
 - pkg:composer/audunru/config-secrets@v5.0.1
 - pkg:composer/audunru/config-secrets@v5.0.2
+- pkg:composer/audunru/config-secrets@v6.0.0

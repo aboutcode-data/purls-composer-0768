@@ -63,3 +63,4 @@
 - pkg:composer/bacularis/bacularis-web@5.7.0
 - pkg:composer/bacularis/bacularis-web@5.8.0
 - pkg:composer/bacularis/bacularis-web@5.9.0
+- pkg:composer/bacularis/bacularis-web@6.0.0
