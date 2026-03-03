@@ -22,3 +22,4 @@
 - pkg:composer/openeuropa/task-runner@2.0.0-alpha3
 - pkg:composer/openeuropa/task-runner@2.0.0-alpha4
 - pkg:composer/openeuropa/task-runner@2.0.0-alpha5
+- pkg:composer/openeuropa/task-runner@2.0.0-beta1
