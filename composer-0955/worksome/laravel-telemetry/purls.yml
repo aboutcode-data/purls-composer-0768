@@ -16,3 +16,4 @@
 - pkg:composer/worksome/laravel-telemetry@v0.5.1
 - pkg:composer/worksome/laravel-telemetry@v0.5.2
 - pkg:composer/worksome/laravel-telemetry@v0.5.3
+- pkg:composer/worksome/laravel-telemetry@v0.5.4
