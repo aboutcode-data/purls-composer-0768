@@ -140,3 +140,4 @@
 - pkg:composer/plugs/plugs@v5.6.7
 - pkg:composer/plugs/plugs@v5.7.0
 - pkg:composer/plugs/plugs@v5.8.0
+- pkg:composer/plugs/plugs@v5.8.1

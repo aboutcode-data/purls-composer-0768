@@ -35,3 +35,4 @@
 - pkg:composer/pk-engine/apidoc@v2.1.2
 - pkg:composer/pk-engine/apidoc@v2.1.3
 - pkg:composer/pk-engine/apidoc@v2.2
+- pkg:composer/pk-engine/apidoc@v3.0.0
