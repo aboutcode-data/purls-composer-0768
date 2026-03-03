@@ -74,6 +74,8 @@
 - pkg:composer/planetadeleste/oc-apitoolbox-plugin@2.0.22
 - pkg:composer/planetadeleste/oc-apitoolbox-plugin@2.0.23
 - pkg:composer/planetadeleste/oc-apitoolbox-plugin@2.0.24
+- pkg:composer/planetadeleste/oc-apitoolbox-plugin@2.0.25
+- pkg:composer/planetadeleste/oc-apitoolbox-plugin@2.0.26
 - pkg:composer/planetadeleste/oc-apitoolbox-plugin@2.0.3
 - pkg:composer/planetadeleste/oc-apitoolbox-plugin@2.0.4
 - pkg:composer/planetadeleste/oc-apitoolbox-plugin@2.0.5
