@@ -76,3 +76,5 @@
 - pkg:composer/spatie/laravel-sitemap@7.3.7
 - pkg:composer/spatie/laravel-sitemap@7.3.8
 - pkg:composer/spatie/laravel-sitemap@7.4.0
+- pkg:composer/spatie/laravel-sitemap@8.0.0
+- pkg:composer/spatie/laravel-sitemap@8.0.1

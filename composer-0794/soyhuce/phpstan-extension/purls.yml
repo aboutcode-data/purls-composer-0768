@@ -7,3 +7,4 @@
 - pkg:composer/soyhuce/phpstan-extension@2.0.0
 - pkg:composer/soyhuce/phpstan-extension@2.0.1
 - pkg:composer/soyhuce/phpstan-extension@2.1.0
+- pkg:composer/soyhuce/phpstan-extension@2.2.0
