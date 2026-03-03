@@ -7,3 +7,5 @@
 - pkg:composer/douglasgreen/php-linter@v0.8.0
 - pkg:composer/douglasgreen/php-linter@v0.9.0
 - pkg:composer/douglasgreen/php-linter@v1.0.0
+- pkg:composer/douglasgreen/php-linter@v1.1.0
+- pkg:composer/douglasgreen/php-linter@v1.1.1

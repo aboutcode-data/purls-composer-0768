@@ -9,6 +9,8 @@
 - pkg:composer/domainreseller/php-dna@V2.1.18
 - pkg:composer/domainreseller/php-dna@V2.1.19
 - pkg:composer/domainreseller/php-dna@V2.1.20
+- pkg:composer/domainreseller/php-dna@V2.1.21
+- pkg:composer/domainreseller/php-dna@V2.1.22
 - pkg:composer/domainreseller/php-dna@V2.1.6
 - pkg:composer/domainreseller/php-dna@v2.0.24
 - pkg:composer/domainreseller/php-dna@v2.1.1
