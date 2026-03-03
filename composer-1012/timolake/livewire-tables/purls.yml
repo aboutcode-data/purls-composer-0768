@@ -58,3 +58,5 @@
 - pkg:composer/timolake/livewire-tables@2.8.5
 - pkg:composer/timolake/livewire-tables@2.8.6
 - pkg:composer/timolake/livewire-tables@3.0.0
+- pkg:composer/timolake/livewire-tables@3.0.1
+- pkg:composer/timolake/livewire-tables@3.0.2
