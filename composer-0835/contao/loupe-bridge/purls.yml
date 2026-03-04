@@ -4,3 +4,4 @@
 - pkg:composer/contao/loupe-bridge@5.7.0-RC3
 - pkg:composer/contao/loupe-bridge@5.7.0-RC4
 - pkg:composer/contao/loupe-bridge@5.7.1
+- pkg:composer/contao/loupe-bridge@5.7.2
