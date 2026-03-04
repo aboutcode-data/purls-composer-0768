@@ -12,3 +12,6 @@
 - pkg:composer/evyex/symfony-extender@0.5.2
 - pkg:composer/evyex/symfony-extender@0.5.3
 - pkg:composer/evyex/symfony-extender@0.5.4
+- pkg:composer/evyex/symfony-extender@6.4.0
+- pkg:composer/evyex/symfony-extender@7.4.0
+- pkg:composer/evyex/symfony-extender@8.0.0
