@@ -225,4 +225,3 @@
 - pkg:composer/craftcms/cloud@2.7.2
 - pkg:composer/craftcms/cloud@2.8.0
 - pkg:composer/craftcms/cloud@2.9.0
-- pkg:composer/craftcms/cloud@3.0.0

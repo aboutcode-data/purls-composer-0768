@@ -6,3 +6,4 @@
 - pkg:composer/daycry/jwt@v1.0.5
 - pkg:composer/daycry/jwt@v1.0.6
 - pkg:composer/daycry/jwt@v2.0.0
+- pkg:composer/daycry/jwt@v2.0.1
