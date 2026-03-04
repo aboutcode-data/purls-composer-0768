@@ -1,1 +1,2 @@
 - pkg:composer/socket-manager/echo-server@v1.0.0
+- pkg:composer/socket-manager/echo-server@v1.1.0
