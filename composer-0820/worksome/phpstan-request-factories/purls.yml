@@ -3,3 +3,4 @@
 - pkg:composer/worksome/phpstan-request-factories@v1.1.0
 - pkg:composer/worksome/phpstan-request-factories@v2.0.0
 - pkg:composer/worksome/phpstan-request-factories@v2.1.0
+- pkg:composer/worksome/phpstan-request-factories@v2.2.0
