@@ -25,3 +25,5 @@
 - pkg:composer/ahmed-bhs/doctrine-doctor@v2.1.2-beta.1
 - pkg:composer/ahmed-bhs/doctrine-doctor@v2.1.2-beta.2
 - pkg:composer/ahmed-bhs/doctrine-doctor@v2.1.2-beta.3
+- pkg:composer/ahmed-bhs/doctrine-doctor@v2.1.3
+- pkg:composer/ahmed-bhs/doctrine-doctor@v2.2.0
