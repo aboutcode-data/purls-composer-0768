@@ -15,3 +15,5 @@
 - pkg:composer/dhflagging/azure-auth@v6.1.0
 - pkg:composer/dhflagging/azure-auth@v6.2.0
 - pkg:composer/dhflagging/azure-auth@v6.3.0
+- pkg:composer/dhflagging/azure-auth@v6.4.0
+- pkg:composer/dhflagging/azure-auth@v6.5.0
