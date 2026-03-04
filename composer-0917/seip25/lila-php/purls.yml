@@ -11,3 +11,6 @@
 - pkg:composer/seip25/lila-php@v1.1
 - pkg:composer/seip25/lila-php@v1.10
 - pkg:composer/seip25/lila-php@v1.11
+- pkg:composer/seip25/lila-php@v1.12
+- pkg:composer/seip25/lila-php@v1.13
+- pkg:composer/seip25/lila-php@v1.14
