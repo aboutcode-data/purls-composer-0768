@@ -40,7 +40,6 @@
 - pkg:composer/tinify/wordpress-plugin@3.5.2
 - pkg:composer/tinify/wordpress-plugin@3.6.0
 - pkg:composer/tinify/wordpress-plugin@3.6.1
-- pkg:composer/tinify/wordpress-plugin@3.6.10
 - pkg:composer/tinify/wordpress-plugin@3.6.11
 - pkg:composer/tinify/wordpress-plugin@3.6.12
 - pkg:composer/tinify/wordpress-plugin@3.6.2
