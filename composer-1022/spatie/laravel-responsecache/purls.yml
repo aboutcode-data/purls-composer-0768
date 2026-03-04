@@ -81,3 +81,4 @@
 - pkg:composer/spatie/laravel-responsecache@8.0.0
 - pkg:composer/spatie/laravel-responsecache@8.1.0
 - pkg:composer/spatie/laravel-responsecache@8.2.0
+- pkg:composer/spatie/laravel-responsecache@8.3.0
