@@ -6,3 +6,5 @@
 - pkg:composer/cline/assert@3.3.0
 - pkg:composer/cline/assert@3.4.0
 - pkg:composer/cline/assert@3.4.1
+- pkg:composer/cline/assert@4.0.0
+- pkg:composer/cline/assert@4.0.1

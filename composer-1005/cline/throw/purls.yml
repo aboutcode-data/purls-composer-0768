@@ -4,3 +4,5 @@
 - pkg:composer/cline/throw@1.3.0
 - pkg:composer/cline/throw@1.4.0
 - pkg:composer/cline/throw@1.4.1
+- pkg:composer/cline/throw@2.0.0
+- pkg:composer/cline/throw@2.0.1

@@ -1,2 +1,4 @@
 - pkg:composer/cline/math@1.0.0
 - pkg:composer/cline/math@1.0.1
+- pkg:composer/cline/math@2.0.0
+- pkg:composer/cline/math@2.0.1

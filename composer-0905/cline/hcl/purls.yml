@@ -1,3 +1,5 @@
 - pkg:composer/cline/hcl@1.0.0
 - pkg:composer/cline/hcl@1.1.0
 - pkg:composer/cline/hcl@1.1.1
+- pkg:composer/cline/hcl@2.0.0
+- pkg:composer/cline/hcl@2.0.1

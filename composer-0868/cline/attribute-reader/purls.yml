@@ -1,2 +1,4 @@
 - pkg:composer/cline/attribute-reader@1.0.0
 - pkg:composer/cline/attribute-reader@2.0.0
+- pkg:composer/cline/attribute-reader@3.0.0
+- pkg:composer/cline/attribute-reader@3.0.1

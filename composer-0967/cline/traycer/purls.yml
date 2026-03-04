@@ -1,1 +1,3 @@
 - pkg:composer/cline/traycer@1.0.0
+- pkg:composer/cline/traycer@2.0.0
+- pkg:composer/cline/traycer@2.0.1
