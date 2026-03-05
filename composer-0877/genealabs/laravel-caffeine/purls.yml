@@ -56,6 +56,7 @@
 - pkg:composer/genealabs/laravel-caffeine@12.0.1
 - pkg:composer/genealabs/laravel-caffeine@12.0.2
 - pkg:composer/genealabs/laravel-caffeine@12.0.3
+- pkg:composer/genealabs/laravel-caffeine@13.0.0
 - pkg:composer/genealabs/laravel-caffeine@7.0.0
 - pkg:composer/genealabs/laravel-caffeine@7.0.1
 - pkg:composer/genealabs/laravel-caffeine@7.0.2

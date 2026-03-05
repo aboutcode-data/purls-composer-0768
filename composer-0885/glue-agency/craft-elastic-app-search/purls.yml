@@ -1,3 +1,4 @@
 - pkg:composer/glue-agency/craft-elastic-app-search@4.0.0
 - pkg:composer/glue-agency/craft-elastic-app-search@4.0.1
 - pkg:composer/glue-agency/craft-elastic-app-search@5.0.0
+- pkg:composer/glue-agency/craft-elastic-app-search@5.0.1

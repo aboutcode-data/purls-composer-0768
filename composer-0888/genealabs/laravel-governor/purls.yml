@@ -115,6 +115,7 @@
 - pkg:composer/genealabs/laravel-governor@0.20.1
 - pkg:composer/genealabs/laravel-governor@0.21.0
 - pkg:composer/genealabs/laravel-governor@0.21.1
+- pkg:composer/genealabs/laravel-governor@0.22.0
 - pkg:composer/genealabs/laravel-governor@0.3.0
 - pkg:composer/genealabs/laravel-governor@0.4.0
 - pkg:composer/genealabs/laravel-governor@0.4.1
