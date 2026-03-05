@@ -12,3 +12,4 @@
 - pkg:composer/cline/analyzer@3.2.0
 - pkg:composer/cline/analyzer@4.0.0
 - pkg:composer/cline/analyzer@4.0.1
+- pkg:composer/cline/analyzer@4.0.2

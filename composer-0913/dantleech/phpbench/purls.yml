@@ -76,3 +76,4 @@
 - pkg:composer/dantleech/phpbench@1.4.1
 - pkg:composer/dantleech/phpbench@1.4.2
 - pkg:composer/dantleech/phpbench@1.4.3
+- pkg:composer/dantleech/phpbench@1.5.0
