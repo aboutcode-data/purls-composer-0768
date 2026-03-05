@@ -47,6 +47,7 @@
 - pkg:composer/alturacode/billing-core@v0.21.0
 - pkg:composer/alturacode/billing-core@v0.21.1
 - pkg:composer/alturacode/billing-core@v0.22.0
+- pkg:composer/alturacode/billing-core@v0.23.0
 - pkg:composer/alturacode/billing-core@v0.3.0
 - pkg:composer/alturacode/billing-core@v0.4.0
 - pkg:composer/alturacode/billing-core@v0.5.0
