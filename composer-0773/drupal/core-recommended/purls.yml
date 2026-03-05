@@ -96,6 +96,7 @@
 - pkg:composer/drupal/core-recommended@10.6.1
 - pkg:composer/drupal/core-recommended@10.6.2
 - pkg:composer/drupal/core-recommended@10.6.3
+- pkg:composer/drupal/core-recommended@10.6.4
 - pkg:composer/drupal/core-recommended@11.0.0
 - pkg:composer/drupal/core-recommended@11.0.0-alpha1
 - pkg:composer/drupal/core-recommended@11.0.0-beta1
@@ -148,6 +149,7 @@
 - pkg:composer/drupal/core-recommended@11.3.1
 - pkg:composer/drupal/core-recommended@11.3.2
 - pkg:composer/drupal/core-recommended@11.3.3
+- pkg:composer/drupal/core-recommended@11.3.4
 - pkg:composer/drupal/core-recommended@8.0.0
 - pkg:composer/drupal/core-recommended@8.0.0-alpha14
 - pkg:composer/drupal/core-recommended@8.0.0-alpha15
