@@ -14,3 +14,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp-module-ldappasswordreset@v0.1.7
 - pkg:composer/simplesamlphp/simplesamlphp-module-ldappasswordreset@v1.0.0
 - pkg:composer/simplesamlphp/simplesamlphp-module-ldappasswordreset@v1.0.1
+- pkg:composer/simplesamlphp/simplesamlphp-module-ldappasswordreset@v2.0.0
