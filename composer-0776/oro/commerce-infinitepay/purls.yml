@@ -65,6 +65,7 @@
 - pkg:composer/oro/commerce-infinitepay@5.1.2
 - pkg:composer/oro/commerce-infinitepay@5.1.3
 - pkg:composer/oro/commerce-infinitepay@5.1.4
+- pkg:composer/oro/commerce-infinitepay@5.1.5
 - pkg:composer/oro/commerce-infinitepay@6.0.0
 - pkg:composer/oro/commerce-infinitepay@6.0.0-beta.1
 - pkg:composer/oro/commerce-infinitepay@6.0.0-rc

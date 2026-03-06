@@ -6,3 +6,4 @@
 - pkg:composer/openswoole/core@22.1.4
 - pkg:composer/openswoole/core@22.1.5
 - pkg:composer/openswoole/core@22.2.0
+- pkg:composer/openswoole/core@26.2.0

@@ -33,6 +33,7 @@
 - pkg:composer/oro/cookie-consent@5.1.4
 - pkg:composer/oro/cookie-consent@5.1.5
 - pkg:composer/oro/cookie-consent@5.1.6
+- pkg:composer/oro/cookie-consent@5.1.7
 - pkg:composer/oro/cookie-consent@6.0.0
 - pkg:composer/oro/cookie-consent@6.0.0-beta.1
 - pkg:composer/oro/cookie-consent@6.0.0-rc
