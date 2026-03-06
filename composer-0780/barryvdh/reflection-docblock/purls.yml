@@ -25,3 +25,4 @@
 - pkg:composer/barryvdh/reflection-docblock@v2.3.0
 - pkg:composer/barryvdh/reflection-docblock@v2.3.1
 - pkg:composer/barryvdh/reflection-docblock@v2.4.0
+- pkg:composer/barryvdh/reflection-docblock@v2.4.1
