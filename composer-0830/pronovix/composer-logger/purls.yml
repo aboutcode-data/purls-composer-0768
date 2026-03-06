@@ -264,8 +264,10 @@
 - pkg:composer/pronovix/composer-logger@5.0.1
 - pkg:composer/pronovix/composer-logger@5.0.1-alpha1
 - pkg:composer/pronovix/composer-logger@5.0.1-alpha2
+- pkg:composer/pronovix/composer-logger@5.0.2
 - pkg:composer/pronovix/composer-logger@5.0.2-alpha1
 - pkg:composer/pronovix/composer-logger@5.0.2-alpha2
+- pkg:composer/pronovix/composer-logger@5.0.2-alpha3
 - pkg:composer/pronovix/composer-logger@5.1.0
 - pkg:composer/pronovix/composer-logger@5.1.0-alpha1
 - pkg:composer/pronovix/composer-logger@5.1.0-alpha2
@@ -276,7 +278,9 @@
 - pkg:composer/pronovix/composer-logger@5.1.0-alpha7
 - pkg:composer/pronovix/composer-logger@5.1.0-alpha8
 - pkg:composer/pronovix/composer-logger@5.1.1
+- pkg:composer/pronovix/composer-logger@5.1.2
 - pkg:composer/pronovix/composer-logger@5.1.2-alpha1
+- pkg:composer/pronovix/composer-logger@5.1.2-alpha2
 - pkg:composer/pronovix/composer-logger@5.2.0
 - pkg:composer/pronovix/composer-logger@5.2.0-alpha1
 - pkg:composer/pronovix/composer-logger@5.2.0-alpha10
