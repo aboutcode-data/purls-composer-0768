@@ -16,3 +16,4 @@
 - pkg:composer/kaishiyoku/laravel-color-validation@3.0.0
 - pkg:composer/kaishiyoku/laravel-color-validation@3.1.0
 - pkg:composer/kaishiyoku/laravel-color-validation@3.2.0
+- pkg:composer/kaishiyoku/laravel-color-validation@4.0.0

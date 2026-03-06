@@ -6,3 +6,4 @@
 - pkg:composer/kipchak/driver-git@1.5
 - pkg:composer/kipchak/driver-git@1.6
 - pkg:composer/kipchak/driver-git@1.7
+- pkg:composer/kipchak/driver-git@1.8
