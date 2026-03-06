@@ -55,3 +55,4 @@
 - pkg:composer/mautic/recommended-project@7.0.0-rc
 - pkg:composer/mautic/recommended-project@7.0.0-rc2
 - pkg:composer/mautic/recommended-project@7.0.1
+- pkg:composer/mautic/recommended-project@7.1.0-rc

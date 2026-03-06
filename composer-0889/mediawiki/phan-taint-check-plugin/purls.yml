@@ -31,3 +31,4 @@
 - pkg:composer/mediawiki/phan-taint-check-plugin@7.0.0
 - pkg:composer/mediawiki/phan-taint-check-plugin@8.0.0
 - pkg:composer/mediawiki/phan-taint-check-plugin@9.0.0
+- pkg:composer/mediawiki/phan-taint-check-plugin@9.1.0

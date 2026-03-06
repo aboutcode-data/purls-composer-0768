@@ -4,3 +4,4 @@
 - pkg:composer/mirazmac/dotenvwriter@0.4
 - pkg:composer/mirazmac/dotenvwriter@0.5
 - pkg:composer/mirazmac/dotenvwriter@0.6
+- pkg:composer/mirazmac/dotenvwriter@0.7

@@ -72,3 +72,4 @@
 - pkg:composer/mautic/theme-trulypersonal@7.0.0-rc
 - pkg:composer/mautic/theme-trulypersonal@7.0.0-rc2
 - pkg:composer/mautic/theme-trulypersonal@7.0.1
+- pkg:composer/mautic/theme-trulypersonal@7.1.0-rc
