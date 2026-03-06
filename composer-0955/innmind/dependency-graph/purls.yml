@@ -24,3 +24,4 @@
 - pkg:composer/innmind/dependency-graph@3.7.2
 - pkg:composer/innmind/dependency-graph@3.7.3
 - pkg:composer/innmind/dependency-graph@3.8.0
+- pkg:composer/innmind/dependency-graph@3.9.0

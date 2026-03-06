@@ -288,6 +288,7 @@
 - pkg:composer/itzbund/a11y-backend@v1.12.26-rc.8
 - pkg:composer/itzbund/a11y-backend@v1.12.26-rc.9
 - pkg:composer/itzbund/a11y-backend@v1.12.27
+- pkg:composer/itzbund/a11y-backend@v1.12.27-rc.1
 - pkg:composer/itzbund/a11y-backend@v1.12.28
 - pkg:composer/itzbund/a11y-backend@v1.12.29
 - pkg:composer/itzbund/a11y-backend@v1.12.3
@@ -360,6 +361,9 @@
 - pkg:composer/itzbund/a11y-backend@v1.12.62
 - pkg:composer/itzbund/a11y-backend@v1.12.63
 - pkg:composer/itzbund/a11y-backend@v1.12.64
+- pkg:composer/itzbund/a11y-backend@v1.12.65
+- pkg:composer/itzbund/a11y-backend@v1.12.66
+- pkg:composer/itzbund/a11y-backend@v1.12.67
 - pkg:composer/itzbund/a11y-backend@v1.12.7
 - pkg:composer/itzbund/a11y-backend@v1.12.7-rc.1
 - pkg:composer/itzbund/a11y-backend@v1.12.7-rc.2

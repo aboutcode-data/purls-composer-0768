@@ -17,3 +17,11 @@
 - pkg:composer/iperamuna/laravel-self-deploy@v1.5.8
 - pkg:composer/iperamuna/laravel-self-deploy@v1.5.9
 - pkg:composer/iperamuna/laravel-self-deploy@v1.6.0
+- pkg:composer/iperamuna/laravel-self-deploy@v1.7.0
+- pkg:composer/iperamuna/laravel-self-deploy@v1.7.1
+- pkg:composer/iperamuna/laravel-self-deploy@v1.7.2
+- pkg:composer/iperamuna/laravel-self-deploy@v1.7.3
+- pkg:composer/iperamuna/laravel-self-deploy@v1.7.4
+- pkg:composer/iperamuna/laravel-self-deploy@v1.7.5
+- pkg:composer/iperamuna/laravel-self-deploy@v1.7.6
+- pkg:composer/iperamuna/laravel-self-deploy@v1.7.7
