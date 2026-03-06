@@ -195,3 +195,4 @@
 - pkg:composer/nelmio/api-doc-bundle@v5.9.2
 - pkg:composer/nelmio/api-doc-bundle@v5.9.3
 - pkg:composer/nelmio/api-doc-bundle@v5.9.4
+- pkg:composer/nelmio/api-doc-bundle@v5.9.5

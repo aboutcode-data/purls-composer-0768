@@ -65,6 +65,9 @@
 - pkg:composer/motor-cms/motor-media@2025.50.0-alpha
 - pkg:composer/motor-cms/motor-media@2025.50.1-RC
 - pkg:composer/motor-cms/motor-media@2025.50.2-RC
+- pkg:composer/motor-cms/motor-media@2026.10.0-RC1
+- pkg:composer/motor-cms/motor-media@2026.10.1
+- pkg:composer/motor-cms/motor-media@2026.10.1-RC1
 - pkg:composer/motor-cms/motor-media@2026.2.0
 - pkg:composer/motor-cms/motor-media@2026.4.0-RC
 - pkg:composer/motor-cms/motor-media@2026.4.1-RC
