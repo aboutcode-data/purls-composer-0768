@@ -37,6 +37,7 @@
 - pkg:composer/gijsbos/extfuncs@1.5.3
 - pkg:composer/gijsbos/extfuncs@1.6.0
 - pkg:composer/gijsbos/extfuncs@1.6.1
+- pkg:composer/gijsbos/extfuncs@1.6.10
 - pkg:composer/gijsbos/extfuncs@1.6.2
 - pkg:composer/gijsbos/extfuncs@1.6.3
 - pkg:composer/gijsbos/extfuncs@1.6.4
@@ -44,3 +45,4 @@
 - pkg:composer/gijsbos/extfuncs@1.6.6
 - pkg:composer/gijsbos/extfuncs@1.6.7
 - pkg:composer/gijsbos/extfuncs@1.6.8
+- pkg:composer/gijsbos/extfuncs@1.6.9
