@@ -6,6 +6,7 @@
 - pkg:composer/ibexa/twig-components@v4.6.25
 - pkg:composer/ibexa/twig-components@v4.6.26
 - pkg:composer/ibexa/twig-components@v4.6.27
+- pkg:composer/ibexa/twig-components@v4.6.28
 - pkg:composer/ibexa/twig-components@v5.0.0
 - pkg:composer/ibexa/twig-components@v5.0.0-beta1
 - pkg:composer/ibexa/twig-components@v5.0.0-rc1
@@ -14,3 +15,4 @@
 - pkg:composer/ibexa/twig-components@v5.0.3
 - pkg:composer/ibexa/twig-components@v5.0.4
 - pkg:composer/ibexa/twig-components@v5.0.5
+- pkg:composer/ibexa/twig-components@v5.0.6

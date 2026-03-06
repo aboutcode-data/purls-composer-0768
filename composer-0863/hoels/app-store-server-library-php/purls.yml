@@ -12,3 +12,5 @@
 - pkg:composer/hoels/app-store-server-library-php@1.7.0
 - pkg:composer/hoels/app-store-server-library-php@1.8.0
 - pkg:composer/hoels/app-store-server-library-php@1.9.0
+- pkg:composer/hoels/app-store-server-library-php@1.9.1
+- pkg:composer/hoels/app-store-server-library-php@2.0.0

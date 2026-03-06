@@ -1,1 +1,2 @@
 - pkg:composer/gustavonecore/php-sanitizer@v1.0.0
+- pkg:composer/gustavonecore/php-sanitizer@v1.0.1

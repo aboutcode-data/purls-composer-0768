@@ -1,2 +1,5 @@
 - pkg:composer/horde/githubapiclient@v0.0.1alpha1
 - pkg:composer/horde/githubapiclient@v0.0.1alpha2
+- pkg:composer/horde/githubapiclient@v0.0.1alpha3
+- pkg:composer/horde/githubapiclient@v0.0.1alpha4
+- pkg:composer/horde/githubapiclient@v0.0.1alpha5

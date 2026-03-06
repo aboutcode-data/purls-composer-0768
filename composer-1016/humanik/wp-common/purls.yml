@@ -5,6 +5,9 @@
 - pkg:composer/humanik/wp-common@v1.0.12
 - pkg:composer/humanik/wp-common@v1.0.13
 - pkg:composer/humanik/wp-common@v1.0.14
+- pkg:composer/humanik/wp-common@v1.0.15
+- pkg:composer/humanik/wp-common@v1.0.16
+- pkg:composer/humanik/wp-common@v1.0.17
 - pkg:composer/humanik/wp-common@v1.0.2
 - pkg:composer/humanik/wp-common@v1.0.3
 - pkg:composer/humanik/wp-common@v1.0.4
