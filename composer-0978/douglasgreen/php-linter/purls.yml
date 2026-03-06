@@ -9,3 +9,4 @@
 - pkg:composer/douglasgreen/php-linter@v1.0.0
 - pkg:composer/douglasgreen/php-linter@v1.1.0
 - pkg:composer/douglasgreen/php-linter@v1.1.1
+- pkg:composer/douglasgreen/php-linter@v1.2.0
