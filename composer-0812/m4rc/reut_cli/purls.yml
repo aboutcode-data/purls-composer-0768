@@ -1,3 +1,4 @@
+- pkg:composer/m4rc/reut_cli@1.5.0
 - pkg:composer/m4rc/reut_cli@v1.3.0
 - pkg:composer/m4rc/reut_cli@v1.3.1
 - pkg:composer/m4rc/reut_cli@v1.3.2
@@ -16,5 +17,3 @@
 - pkg:composer/m4rc/reut_cli@v1.4.6
 - pkg:composer/m4rc/reut_cli@v1.4.8
 - pkg:composer/m4rc/reut_cli@v1.4.9
-- pkg:composer/m4rc/reut_cli@v1.5.1
-- pkg:composer/m4rc/reut_cli@v1.5.2
