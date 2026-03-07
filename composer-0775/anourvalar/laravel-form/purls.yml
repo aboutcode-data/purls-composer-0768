@@ -30,3 +30,4 @@
 - pkg:composer/anourvalar/laravel-form@1.6.2
 - pkg:composer/anourvalar/laravel-form@1.7.0
 - pkg:composer/anourvalar/laravel-form@1.8.0
+- pkg:composer/anourvalar/laravel-form@1.8.1
