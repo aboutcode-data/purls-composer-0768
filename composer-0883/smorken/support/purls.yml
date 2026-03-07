@@ -12,6 +12,8 @@
 - pkg:composer/smorken/support@v10.5.0
 - pkg:composer/smorken/support@v10.5.1
 - pkg:composer/smorken/support@v10.6.0
+- pkg:composer/smorken/support@v10.7.0
+- pkg:composer/smorken/support@v10.7.1
 - pkg:composer/smorken/support@v6.0.0
 - pkg:composer/smorken/support@v6.0.1
 - pkg:composer/smorken/support@v6.0.2
