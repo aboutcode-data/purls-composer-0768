@@ -22,3 +22,4 @@
 - pkg:composer/makfly/stripe-cashier-bundle@v1.2.5
 - pkg:composer/makfly/stripe-cashier-bundle@v1.2.6
 - pkg:composer/makfly/stripe-cashier-bundle@v1.3.0
+- pkg:composer/makfly/stripe-cashier-bundle@v1.3.1

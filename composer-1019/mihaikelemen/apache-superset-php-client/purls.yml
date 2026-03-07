@@ -13,3 +13,4 @@
 - pkg:composer/mihaikelemen/apache-superset-php-client@v1.1.4
 - pkg:composer/mihaikelemen/apache-superset-php-client@v1.1.5
 - pkg:composer/mihaikelemen/apache-superset-php-client@v1.1.6
+- pkg:composer/mihaikelemen/apache-superset-php-client@v1.1.7
