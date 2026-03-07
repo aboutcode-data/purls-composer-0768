@@ -22,6 +22,7 @@
 - pkg:composer/c4a/whmcs-core-modules@1.2.25
 - pkg:composer/c4a/whmcs-core-modules@1.2.26
 - pkg:composer/c4a/whmcs-core-modules@1.2.27
+- pkg:composer/c4a/whmcs-core-modules@1.2.28
 - pkg:composer/c4a/whmcs-core-modules@1.2.3
 - pkg:composer/c4a/whmcs-core-modules@1.2.4
 - pkg:composer/c4a/whmcs-core-modules@1.2.5
