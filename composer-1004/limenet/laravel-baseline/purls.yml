@@ -1,6 +1,8 @@
 - pkg:composer/limenet/laravel-baseline@1.2.10
 - pkg:composer/limenet/laravel-baseline@1.2.11
 - pkg:composer/limenet/laravel-baseline@1.2.12
+- pkg:composer/limenet/laravel-baseline@1.2.13
+- pkg:composer/limenet/laravel-baseline@1.2.14
 - pkg:composer/limenet/laravel-baseline@v0.1.0
 - pkg:composer/limenet/laravel-baseline@v0.1.1
 - pkg:composer/limenet/laravel-baseline@v0.1.10
