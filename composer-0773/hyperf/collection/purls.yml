@@ -52,3 +52,4 @@
 - pkg:composer/hyperf/collection@v3.2.0-alpha.3
 - pkg:composer/hyperf/collection@v3.2.0-alpha.4
 - pkg:composer/hyperf/collection@v3.2.0-beta.1
+- pkg:composer/hyperf/collection@v3.2.0-rc.1
