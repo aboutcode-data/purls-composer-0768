@@ -11,6 +11,9 @@
 - pkg:composer/joshcirre/instruckt-laravel@v0.4.10
 - pkg:composer/joshcirre/instruckt-laravel@v0.4.11
 - pkg:composer/joshcirre/instruckt-laravel@v0.4.12
+- pkg:composer/joshcirre/instruckt-laravel@v0.4.15
+- pkg:composer/joshcirre/instruckt-laravel@v0.4.16
+- pkg:composer/joshcirre/instruckt-laravel@v0.4.17
 - pkg:composer/joshcirre/instruckt-laravel@v0.4.2
 - pkg:composer/joshcirre/instruckt-laravel@v0.4.3
 - pkg:composer/joshcirre/instruckt-laravel@v0.4.4
