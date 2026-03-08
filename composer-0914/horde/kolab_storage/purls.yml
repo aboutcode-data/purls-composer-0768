@@ -7,3 +7,4 @@
 - pkg:composer/horde/kolab_storage@2.2.2
 - pkg:composer/horde/kolab_storage@2.2.3
 - pkg:composer/horde/kolab_storage@2.2.4
+- pkg:composer/horde/kolab_storage@v2.2.5

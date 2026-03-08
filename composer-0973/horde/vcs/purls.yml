@@ -1,3 +1,4 @@
 - pkg:composer/horde/vcs@1.0.0alpha1
 - pkg:composer/horde/vcs@1.0.0alpha2
 - pkg:composer/horde/vcs@v1.0.0alpha3
+- pkg:composer/horde/vcs@v1.0.0alpha5
