@@ -9,6 +9,7 @@
 - pkg:composer/spryker/event@2.13.0
 - pkg:composer/spryker/event@2.14.0
 - pkg:composer/spryker/event@2.15.0
+- pkg:composer/spryker/event@2.16.0
 - pkg:composer/spryker/event@2.2.0
 - pkg:composer/spryker/event@2.3.0
 - pkg:composer/spryker/event@2.3.1

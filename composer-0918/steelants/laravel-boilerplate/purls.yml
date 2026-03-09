@@ -94,4 +94,5 @@
 - pkg:composer/steelants/laravel-boilerplate@2.3.7
 - pkg:composer/steelants/laravel-boilerplate@2.3.8
 - pkg:composer/steelants/laravel-boilerplate@2.3.9
+- pkg:composer/steelants/laravel-boilerplate@2.4.0
 - pkg:composer/steelants/laravel-boilerplate@v0.0.1

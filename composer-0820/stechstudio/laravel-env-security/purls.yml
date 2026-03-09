@@ -28,3 +28,4 @@
 - pkg:composer/stechstudio/laravel-env-security@2.3
 - pkg:composer/stechstudio/laravel-env-security@2.3.1
 - pkg:composer/stechstudio/laravel-env-security@2.4
+- pkg:composer/stechstudio/laravel-env-security@3.0

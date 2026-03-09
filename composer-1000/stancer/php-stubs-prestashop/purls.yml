@@ -96,3 +96,5 @@
 - pkg:composer/stancer/php-stubs-prestashop@v8.2.0
 - pkg:composer/stancer/php-stubs-prestashop@v8.2.1
 - pkg:composer/stancer/php-stubs-prestashop@v8.2.2
+- pkg:composer/stancer/php-stubs-prestashop@v8.2.3
+- pkg:composer/stancer/php-stubs-prestashop@v8.2.4
