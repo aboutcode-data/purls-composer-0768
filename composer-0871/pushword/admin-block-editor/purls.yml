@@ -830,7 +830,21 @@
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc499
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc5
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc50
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc500
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc501
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc502
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc503
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc504
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc505
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc506
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc507
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc508
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc509
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc51
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc510
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc511
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc513
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc514
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc52
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc53
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc54
@@ -881,3 +895,4 @@
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc97
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc98
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc99
+- pkg:composer/pushword/admin-block-editor@1.0.1
