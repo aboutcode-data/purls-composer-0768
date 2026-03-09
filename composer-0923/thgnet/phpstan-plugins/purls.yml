@@ -1,1 +1,2 @@
 - pkg:composer/thgnet/phpstan-plugins@0.1.1
+- pkg:composer/thgnet/phpstan-plugins@0.2
