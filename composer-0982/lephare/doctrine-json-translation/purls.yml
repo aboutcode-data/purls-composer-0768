@@ -1,3 +1,4 @@
 - pkg:composer/lephare/doctrine-json-translation@v1.0.0
 - pkg:composer/lephare/doctrine-json-translation@v1.1
 - pkg:composer/lephare/doctrine-json-translation@v1.1.1
+- pkg:composer/lephare/doctrine-json-translation@v2.0.0
