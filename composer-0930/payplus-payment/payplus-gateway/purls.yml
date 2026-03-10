@@ -62,3 +62,5 @@
 - pkg:composer/payplus-payment/payplus-gateway@1.3.1
 - pkg:composer/payplus-payment/payplus-gateway@1.3.3
 - pkg:composer/payplus-payment/payplus-gateway@1.3.4
+- pkg:composer/payplus-payment/payplus-gateway@1.3.5
+- pkg:composer/payplus-payment/payplus-gateway@1.3.6
