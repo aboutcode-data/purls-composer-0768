@@ -417,6 +417,7 @@
 - pkg:composer/tencentcloud/waf@3.0.1535
 - pkg:composer/tencentcloud/waf@3.0.1536
 - pkg:composer/tencentcloud/waf@3.0.1542
+- pkg:composer/tencentcloud/waf@3.0.1543
 - pkg:composer/tencentcloud/waf@3.0.349
 - pkg:composer/tencentcloud/waf@3.0.350
 - pkg:composer/tencentcloud/waf@3.0.351

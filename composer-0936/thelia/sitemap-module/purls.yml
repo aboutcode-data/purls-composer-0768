@@ -14,3 +14,4 @@
 - pkg:composer/thelia/sitemap-module@1.5.0
 - pkg:composer/thelia/sitemap-module@2.0.2
 - pkg:composer/thelia/sitemap-module@2.0.3
+- pkg:composer/thelia/sitemap-module@2.1.0
