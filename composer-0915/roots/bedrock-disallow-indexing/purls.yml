@@ -1,1 +1,2 @@
 - pkg:composer/roots/bedrock-disallow-indexing@2.0.0
+- pkg:composer/roots/bedrock-disallow-indexing@2.1.0
