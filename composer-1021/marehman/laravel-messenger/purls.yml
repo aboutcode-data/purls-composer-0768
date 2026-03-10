@@ -13,3 +13,7 @@
 - pkg:composer/marehman/laravel-messenger@2.4
 - pkg:composer/marehman/laravel-messenger@2.5
 - pkg:composer/marehman/laravel-messenger@2.6
+- pkg:composer/marehman/laravel-messenger@2.7
+- pkg:composer/marehman/laravel-messenger@2.8
+- pkg:composer/marehman/laravel-messenger@2.9
+- pkg:composer/marehman/laravel-messenger@3.0
