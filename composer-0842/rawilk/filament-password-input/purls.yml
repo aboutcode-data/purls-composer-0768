@@ -9,3 +9,6 @@
 - pkg:composer/rawilk/filament-password-input@v2.0.2
 - pkg:composer/rawilk/filament-password-input@v2.0.3
 - pkg:composer/rawilk/filament-password-input@v2.1.0
+- pkg:composer/rawilk/filament-password-input@v2.1.1
+- pkg:composer/rawilk/filament-password-input@v3.0.0
+- pkg:composer/rawilk/filament-password-input@v3.1.0
