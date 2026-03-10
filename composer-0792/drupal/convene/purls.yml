@@ -1,3 +1,6 @@
 - pkg:composer/drupal/convene@1.0.0
 - pkg:composer/drupal/convene@1.0.1
 - pkg:composer/drupal/convene@1.0.3
+- pkg:composer/drupal/convene@1.0.6
+- pkg:composer/drupal/convene@1.0.8
+- pkg:composer/drupal/convene@1.0.9
