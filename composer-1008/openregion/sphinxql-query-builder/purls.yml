@@ -1,1 +1,2 @@
 - pkg:composer/openregion/sphinxql-query-builder@4.0.0
+- pkg:composer/openregion/sphinxql-query-builder@5.0.0
