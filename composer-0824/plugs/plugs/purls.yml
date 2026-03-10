@@ -147,3 +147,4 @@
 - pkg:composer/plugs/plugs@v5.8.5
 - pkg:composer/plugs/plugs@v5.9.0
 - pkg:composer/plugs/plugs@v5.9.1
+- pkg:composer/plugs/plugs@v5.9.2
