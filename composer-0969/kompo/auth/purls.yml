@@ -259,6 +259,7 @@
 - pkg:composer/kompo/auth@v0.7.133
 - pkg:composer/kompo/auth@v0.7.134
 - pkg:composer/kompo/auth@v0.7.135
+- pkg:composer/kompo/auth@v0.7.136
 - pkg:composer/kompo/auth@v0.7.14
 - pkg:composer/kompo/auth@v0.7.16
 - pkg:composer/kompo/auth@v0.7.17
