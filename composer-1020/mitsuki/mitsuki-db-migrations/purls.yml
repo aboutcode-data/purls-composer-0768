@@ -1,3 +1,4 @@
 - pkg:composer/mitsuki/mitsuki-db-migrations@v1.0.0
 - pkg:composer/mitsuki/mitsuki-db-migrations@v1.0.1
 - pkg:composer/mitsuki/mitsuki-db-migrations@v1.1.0
+- pkg:composer/mitsuki/mitsuki-db-migrations@v1.2.0
