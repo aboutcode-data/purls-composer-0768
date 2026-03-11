@@ -17,3 +17,4 @@
 - pkg:composer/stechstudio/laravel-jwt@2.2.1
 - pkg:composer/stechstudio/laravel-jwt@2.3
 - pkg:composer/stechstudio/laravel-jwt@2.4
+- pkg:composer/stechstudio/laravel-jwt@3.0
