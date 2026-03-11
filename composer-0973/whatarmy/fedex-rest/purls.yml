@@ -22,3 +22,6 @@
 - pkg:composer/whatarmy/fedex-rest@0.5.7
 - pkg:composer/whatarmy/fedex-rest@0.5.8
 - pkg:composer/whatarmy/fedex-rest@0.5.9
+- pkg:composer/whatarmy/fedex-rest@0.6.0
+- pkg:composer/whatarmy/fedex-rest@0.6.1
+- pkg:composer/whatarmy/fedex-rest@0.6.2
