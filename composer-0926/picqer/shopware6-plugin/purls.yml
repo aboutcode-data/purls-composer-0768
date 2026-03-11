@@ -2,3 +2,4 @@
 - pkg:composer/picqer/shopware6-plugin@v1.0.0-beta
 - pkg:composer/picqer/shopware6-plugin@v1.1.0
 - pkg:composer/picqer/shopware6-plugin@v1.2.0
+- pkg:composer/picqer/shopware6-plugin@v2.0.0
