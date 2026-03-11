@@ -12,3 +12,4 @@
 - pkg:composer/scriptfusion/pip@3.5.0
 - pkg:composer/scriptfusion/pip@3.5.1
 - pkg:composer/scriptfusion/pip@3.5.2
+- pkg:composer/scriptfusion/pip@3.6.0

@@ -32,3 +32,4 @@
 - pkg:composer/scriptfusion/porter@7.0.2
 - pkg:composer/scriptfusion/porter@7.0.3
 - pkg:composer/scriptfusion/porter@8.0.0
+- pkg:composer/scriptfusion/porter@8.1.0
