@@ -27,3 +27,4 @@
 - pkg:composer/jolicode/slack-php-api@v4.7.0
 - pkg:composer/jolicode/slack-php-api@v4.7.1
 - pkg:composer/jolicode/slack-php-api@v4.8.0
+- pkg:composer/jolicode/slack-php-api@v4.9.0

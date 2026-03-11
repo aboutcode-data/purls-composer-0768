@@ -3,6 +3,11 @@
 - pkg:composer/kematjaya/backup-bundle@1.1
 - pkg:composer/kematjaya/backup-bundle@1.1.1
 - pkg:composer/kematjaya/backup-bundle@2.0
+- pkg:composer/kematjaya/backup-bundle@5.4
+- pkg:composer/kematjaya/backup-bundle@5.4.1
+- pkg:composer/kematjaya/backup-bundle@5.4.2
 - pkg:composer/kematjaya/backup-bundle@7.0
 - pkg:composer/kematjaya/backup-bundle@7.0.1
 - pkg:composer/kematjaya/backup-bundle@8.0
+- pkg:composer/kematjaya/backup-bundle@8.0.1
+- pkg:composer/kematjaya/backup-bundle@8.0.2
