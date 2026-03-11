@@ -14,3 +14,4 @@
 - pkg:composer/brick/reflection@0.5.4
 - pkg:composer/brick/reflection@0.6.0
 - pkg:composer/brick/reflection@0.7.0
+- pkg:composer/brick/reflection@0.7.1
