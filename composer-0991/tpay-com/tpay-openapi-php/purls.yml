@@ -37,3 +37,4 @@
 - pkg:composer/tpay-com/tpay-openapi-php@2.3.0
 - pkg:composer/tpay-com/tpay-openapi-php@2.3.1
 - pkg:composer/tpay-com/tpay-openapi-php@2.4.0
+- pkg:composer/tpay-com/tpay-openapi-php@2.4.1
