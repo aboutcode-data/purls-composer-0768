@@ -15,3 +15,5 @@
 - pkg:composer/postyou/contao-wrapper_tags@2.2.8
 - pkg:composer/postyou/contao-wrapper_tags@2.2.9
 - pkg:composer/postyou/contao-wrapper_tags@2.3.0
+- pkg:composer/postyou/contao-wrapper_tags@2.3.1
+- pkg:composer/postyou/contao-wrapper_tags@3.0.0

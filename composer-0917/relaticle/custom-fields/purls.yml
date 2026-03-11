@@ -107,6 +107,7 @@
 - pkg:composer/relaticle/custom-fields@2.3.2
 - pkg:composer/relaticle/custom-fields@2.3.3
 - pkg:composer/relaticle/custom-fields@2.3.4
+- pkg:composer/relaticle/custom-fields@2.3.5
 - pkg:composer/relaticle/custom-fields@3.0.0-beta1
 - pkg:composer/relaticle/custom-fields@3.0.0-beta10
 - pkg:composer/relaticle/custom-fields@3.0.0-beta12
@@ -127,6 +128,7 @@
 - pkg:composer/relaticle/custom-fields@v3.0.11
 - pkg:composer/relaticle/custom-fields@v3.0.12
 - pkg:composer/relaticle/custom-fields@v3.0.13
+- pkg:composer/relaticle/custom-fields@v3.0.14
 - pkg:composer/relaticle/custom-fields@v3.0.2
 - pkg:composer/relaticle/custom-fields@v3.0.3
 - pkg:composer/relaticle/custom-fields@v3.0.4
