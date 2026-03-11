@@ -4,6 +4,7 @@
 - pkg:composer/andersundsehr/grumphp-xliff-task@10.1.4
 - pkg:composer/andersundsehr/grumphp-xliff-task@10.2.1
 - pkg:composer/andersundsehr/grumphp-xliff-task@10.2.2
+- pkg:composer/andersundsehr/grumphp-xliff-task@11.0.0
 - pkg:composer/andersundsehr/grumphp-xliff-task@2.0.0
 - pkg:composer/andersundsehr/grumphp-xliff-task@2.1.0
 - pkg:composer/andersundsehr/grumphp-xliff-task@2.1.1
