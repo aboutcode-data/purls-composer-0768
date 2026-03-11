@@ -1,5 +1,6 @@
 - pkg:composer/munkireport/munkireport@3.0
 - pkg:composer/munkireport/munkireport@3.1
+- pkg:composer/munkireport/munkireport@5.4
 - pkg:composer/munkireport/munkireport@v1.1
 - pkg:composer/munkireport/munkireport@v1.2
 - pkg:composer/munkireport/munkireport@v1.3
