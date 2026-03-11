@@ -299,6 +299,8 @@
 - pkg:composer/illuminate/pagination@v12.51.0
 - pkg:composer/illuminate/pagination@v12.52.0
 - pkg:composer/illuminate/pagination@v12.53.0
+- pkg:composer/illuminate/pagination@v12.54.0
+- pkg:composer/illuminate/pagination@v12.54.1
 - pkg:composer/illuminate/pagination@v12.6.0
 - pkg:composer/illuminate/pagination@v12.7.0
 - pkg:composer/illuminate/pagination@v12.7.1
