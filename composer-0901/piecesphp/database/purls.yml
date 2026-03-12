@@ -50,3 +50,6 @@
 - pkg:composer/piecesphp/database@v2.5.8
 - pkg:composer/piecesphp/database@v2.5.9
 - pkg:composer/piecesphp/database@v2.6.0
+- pkg:composer/piecesphp/database@v2.6.1
+- pkg:composer/piecesphp/database@v2.6.2
+- pkg:composer/piecesphp/database@v2.6.3
