@@ -1,3 +1,4 @@
 - pkg:composer/silverstripe/superglue@0.1.0
 - pkg:composer/silverstripe/superglue@1.0.0
 - pkg:composer/silverstripe/superglue@2.0.0
+- pkg:composer/silverstripe/superglue@3.0.0

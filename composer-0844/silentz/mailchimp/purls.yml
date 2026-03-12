@@ -60,3 +60,4 @@
 - pkg:composer/silentz/mailchimp@v5.3.2
 - pkg:composer/silentz/mailchimp@v6.0.3
 - pkg:composer/silentz/mailchimp@v6.1.0
+- pkg:composer/silentz/mailchimp@v6.1.1

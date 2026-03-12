@@ -9,3 +9,6 @@
 - pkg:composer/spryker-shop/web-profiler-widget@1.4.3
 - pkg:composer/spryker-shop/web-profiler-widget@1.4.4
 - pkg:composer/spryker-shop/web-profiler-widget@1.5.0
+- pkg:composer/spryker-shop/web-profiler-widget@1.6.0
+- pkg:composer/spryker-shop/web-profiler-widget@1.7.0
+- pkg:composer/spryker-shop/web-profiler-widget@1.8.0
