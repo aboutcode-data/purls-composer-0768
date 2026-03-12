@@ -756,7 +756,13 @@
 - pkg:composer/survos/auth-bundle@2.0.124
 - pkg:composer/survos/auth-bundle@2.0.125
 - pkg:composer/survos/auth-bundle@2.0.126
+- pkg:composer/survos/auth-bundle@2.0.127
+- pkg:composer/survos/auth-bundle@2.0.128
+- pkg:composer/survos/auth-bundle@2.0.129
 - pkg:composer/survos/auth-bundle@2.0.13
+- pkg:composer/survos/auth-bundle@2.0.130
+- pkg:composer/survos/auth-bundle@2.0.131
+- pkg:composer/survos/auth-bundle@2.0.132
 - pkg:composer/survos/auth-bundle@2.0.14
 - pkg:composer/survos/auth-bundle@2.0.15
 - pkg:composer/survos/auth-bundle@2.0.16
