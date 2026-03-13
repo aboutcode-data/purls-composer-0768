@@ -25,4 +25,5 @@
 - pkg:composer/swisnl/laravel-fulltext@0.22.0
 - pkg:composer/swisnl/laravel-fulltext@0.23.0
 - pkg:composer/swisnl/laravel-fulltext@0.23.1
+- pkg:composer/swisnl/laravel-fulltext@0.23.2
 - pkg:composer/swisnl/laravel-fulltext@0.9

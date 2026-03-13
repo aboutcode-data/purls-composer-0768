@@ -5,6 +5,7 @@
 - pkg:composer/t3monitor/t3monitoring_client@10.0.1
 - pkg:composer/t3monitor/t3monitoring_client@10.1.0
 - pkg:composer/t3monitor/t3monitoring_client@10.1.1
+- pkg:composer/t3monitor/t3monitoring_client@10.1.2
 - pkg:composer/t3monitor/t3monitoring_client@9.0.0
 - pkg:composer/t3monitor/t3monitoring_client@9.0.2
 - pkg:composer/t3monitor/t3monitoring_client@9.0.3
