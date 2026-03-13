@@ -14,3 +14,4 @@
 - pkg:composer/upstreamable/docker-nextcloud@30.0.4.0
 - pkg:composer/upstreamable/docker-nextcloud@30.0.9.0
 - pkg:composer/upstreamable/docker-nextcloud@31.0.9.0
+- pkg:composer/upstreamable/docker-nextcloud@32.0.6.0
