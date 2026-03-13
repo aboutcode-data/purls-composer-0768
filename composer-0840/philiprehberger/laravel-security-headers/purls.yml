@@ -1,1 +1,2 @@
 - pkg:composer/philiprehberger/laravel-security-headers@v1.0.0
+- pkg:composer/philiprehberger/laravel-security-headers@v1.1.0
