@@ -29,6 +29,7 @@
 - pkg:composer/spryker/category-storage@2.1.1
 - pkg:composer/spryker/category-storage@2.10.0
 - pkg:composer/spryker/category-storage@2.11.0
+- pkg:composer/spryker/category-storage@2.12.0
 - pkg:composer/spryker/category-storage@2.2.0
 - pkg:composer/spryker/category-storage@2.3.0
 - pkg:composer/spryker/category-storage@2.4.0

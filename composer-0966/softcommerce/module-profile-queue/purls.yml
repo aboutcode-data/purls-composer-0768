@@ -11,3 +11,4 @@
 - pkg:composer/softcommerce/module-profile-queue@1.1.3
 - pkg:composer/softcommerce/module-profile-queue@1.1.4
 - pkg:composer/softcommerce/module-profile-queue@2.0.0
+- pkg:composer/softcommerce/module-profile-queue@2.0.1
