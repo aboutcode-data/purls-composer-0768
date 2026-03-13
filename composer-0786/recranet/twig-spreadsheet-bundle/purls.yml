@@ -4,3 +4,5 @@
 - pkg:composer/recranet/twig-spreadsheet-bundle@2.1
 - pkg:composer/recranet/twig-spreadsheet-bundle@2.2
 - pkg:composer/recranet/twig-spreadsheet-bundle@2.3
+- pkg:composer/recranet/twig-spreadsheet-bundle@2.3.1
+- pkg:composer/recranet/twig-spreadsheet-bundle@2.4
