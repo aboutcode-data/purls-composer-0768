@@ -32,3 +32,7 @@
 - pkg:composer/packagist-conductors/publish-test@5925.0.0
 - pkg:composer/packagist-conductors/publish-test@5926.0.0
 - pkg:composer/packagist-conductors/publish-test@5927.0.0
+- pkg:composer/packagist-conductors/publish-test@5928.0.0
+- pkg:composer/packagist-conductors/publish-test@5929.0.0
+- pkg:composer/packagist-conductors/publish-test@5930.0.0
+- pkg:composer/packagist-conductors/publish-test@5931.0.0

@@ -169,3 +169,4 @@
 - pkg:composer/php-extended/php-charset-object@8.0.9
 - pkg:composer/php-extended/php-charset-object@9.0.0
 - pkg:composer/php-extended/php-charset-object@9.0.1
+- pkg:composer/php-extended/php-charset-object@9.0.2

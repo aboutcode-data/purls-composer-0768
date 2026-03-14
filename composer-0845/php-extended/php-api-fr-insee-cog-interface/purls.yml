@@ -100,3 +100,4 @@
 - pkg:composer/php-extended/php-api-fr-insee-cog-interface@8.1.9
 - pkg:composer/php-extended/php-api-fr-insee-cog-interface@9.0.0
 - pkg:composer/php-extended/php-api-fr-insee-cog-interface@9.0.1
+- pkg:composer/php-extended/php-api-fr-insee-cog-interface@9.0.2
