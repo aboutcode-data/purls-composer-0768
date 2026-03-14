@@ -5,3 +5,4 @@
 - pkg:composer/selective/samesite-cookie@0.3.0
 - pkg:composer/selective/samesite-cookie@0.4.0
 - pkg:composer/selective/samesite-cookie@0.5.0
+- pkg:composer/selective/samesite-cookie@1.0.0
