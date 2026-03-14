@@ -55,6 +55,8 @@
 - pkg:composer/anzusystems/core-dam-bundle@1.42.3
 - pkg:composer/anzusystems/core-dam-bundle@1.43.0
 - pkg:composer/anzusystems/core-dam-bundle@1.44.0
+- pkg:composer/anzusystems/core-dam-bundle@1.45.0
+- pkg:composer/anzusystems/core-dam-bundle@1.45.1
 - pkg:composer/anzusystems/core-dam-bundle@1.5.0
 - pkg:composer/anzusystems/core-dam-bundle@1.5.1
 - pkg:composer/anzusystems/core-dam-bundle@1.6.0
