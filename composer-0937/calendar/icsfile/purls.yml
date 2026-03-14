@@ -60,3 +60,5 @@
 - pkg:composer/calendar/icsfile@9.4.0
 - pkg:composer/calendar/icsfile@9.5.0
 - pkg:composer/calendar/icsfile@9.6.0
+- pkg:composer/calendar/icsfile@9.7.0
+- pkg:composer/calendar/icsfile@9.7.1
