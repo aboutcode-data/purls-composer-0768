@@ -9,6 +9,7 @@
 - pkg:composer/dipeshsukhia/laravel-html-minify@v2.1
 - pkg:composer/dipeshsukhia/laravel-html-minify@v2.2
 - pkg:composer/dipeshsukhia/laravel-html-minify@v2.3
+- pkg:composer/dipeshsukhia/laravel-html-minify@v2.3.1
 - pkg:composer/dipeshsukhia/laravel-html-minify@v3.0
 - pkg:composer/dipeshsukhia/laravel-html-minify@v3.1
 - pkg:composer/dipeshsukhia/laravel-html-minify@v3.2
@@ -18,3 +19,4 @@
 - pkg:composer/dipeshsukhia/laravel-html-minify@v3.3.3
 - pkg:composer/dipeshsukhia/laravel-html-minify@v3.3.4
 - pkg:composer/dipeshsukhia/laravel-html-minify@v3.3.5
+- pkg:composer/dipeshsukhia/laravel-html-minify@v3.3.6

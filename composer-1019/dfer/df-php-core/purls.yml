@@ -89,3 +89,4 @@
 - pkg:composer/dfer/df-php-core@1.8.8
 - pkg:composer/dfer/df-php-core@1.8.9
 - pkg:composer/dfer/df-php-core@1.9.0
+- pkg:composer/dfer/df-php-core@1.9.1
