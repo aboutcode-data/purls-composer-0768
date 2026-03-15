@@ -131,7 +131,11 @@
 - pkg:composer/crosiersource/crosierlib-radx@v1.16.14
 - pkg:composer/crosiersource/crosierlib-radx@v1.16.15
 - pkg:composer/crosiersource/crosierlib-radx@v1.16.16
+- pkg:composer/crosiersource/crosierlib-radx@v1.16.17
+- pkg:composer/crosiersource/crosierlib-radx@v1.16.18
+- pkg:composer/crosiersource/crosierlib-radx@v1.16.19
 - pkg:composer/crosiersource/crosierlib-radx@v1.16.2
+- pkg:composer/crosiersource/crosierlib-radx@v1.16.20
 - pkg:composer/crosiersource/crosierlib-radx@v1.16.3
 - pkg:composer/crosiersource/crosierlib-radx@v1.16.4
 - pkg:composer/crosiersource/crosierlib-radx@v1.16.5
