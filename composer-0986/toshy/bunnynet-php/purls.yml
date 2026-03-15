@@ -49,3 +49,5 @@
 - pkg:composer/toshy/bunnynet-php@7.5.0
 - pkg:composer/toshy/bunnynet-php@8.0.0
 - pkg:composer/toshy/bunnynet-php@8.0.1
+- pkg:composer/toshy/bunnynet-php@8.1.0
+- pkg:composer/toshy/bunnynet-php@9.0.0
