@@ -1,6 +1,10 @@
+- pkg:composer/sixmonkey/sloth@1.0.0
 - pkg:composer/sixmonkey/sloth@v0.0.2
 - pkg:composer/sixmonkey/sloth@v0.0.3
 - pkg:composer/sixmonkey/sloth@v0.0.4
 - pkg:composer/sixmonkey/sloth@v0.0.5
 - pkg:composer/sixmonkey/sloth@v0.0.6
 - pkg:composer/sixmonkey/sloth@v0.0.7
+- pkg:composer/sixmonkey/sloth@v1.0.1
+- pkg:composer/sixmonkey/sloth@v1.0.2
+- pkg:composer/sixmonkey/sloth@v1.0.3
