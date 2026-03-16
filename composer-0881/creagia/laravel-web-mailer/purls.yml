@@ -3,3 +3,4 @@
 - pkg:composer/creagia/laravel-web-mailer@1.0.2
 - pkg:composer/creagia/laravel-web-mailer@1.0.3
 - pkg:composer/creagia/laravel-web-mailer@1.0.4
+- pkg:composer/creagia/laravel-web-mailer@2.0.0
