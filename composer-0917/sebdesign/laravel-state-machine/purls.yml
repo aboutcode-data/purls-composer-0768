@@ -35,3 +35,4 @@
 - pkg:composer/sebdesign/laravel-state-machine@v3.4.4
 - pkg:composer/sebdesign/laravel-state-machine@v3.4.5
 - pkg:composer/sebdesign/laravel-state-machine@v3.4.6
+- pkg:composer/sebdesign/laravel-state-machine@v3.4.7
