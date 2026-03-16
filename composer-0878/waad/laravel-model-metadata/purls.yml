@@ -4,3 +4,4 @@
 - pkg:composer/waad/laravel-model-metadata@v2.1.0
 - pkg:composer/waad/laravel-model-metadata@v2.2.0
 - pkg:composer/waad/laravel-model-metadata@v2.2.1
+- pkg:composer/waad/laravel-model-metadata@v3.0.0
