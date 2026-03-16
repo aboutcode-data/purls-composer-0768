@@ -31,3 +31,4 @@
 - pkg:composer/eternalphp/framework@v2.2.4
 - pkg:composer/eternalphp/framework@v3.0.1
 - pkg:composer/eternalphp/framework@v3.0.2
+- pkg:composer/eternalphp/framework@v3.1.0

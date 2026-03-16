@@ -41,3 +41,4 @@
 - pkg:composer/ellaisys/aws-cognito@v1.3.1
 - pkg:composer/ellaisys/aws-cognito@v1.4.0
 - pkg:composer/ellaisys/aws-cognito@v1.4.1
+- pkg:composer/ellaisys/aws-cognito@v2.0.0

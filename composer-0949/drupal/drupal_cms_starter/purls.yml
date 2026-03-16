@@ -33,3 +33,5 @@
 - pkg:composer/drupal/drupal_cms_starter@2.0.1
 - pkg:composer/drupal/drupal_cms_starter@2.0.2
 - pkg:composer/drupal/drupal_cms_starter@2.0.3
+- pkg:composer/drupal/drupal_cms_starter@2.0.4
+- pkg:composer/drupal/drupal_cms_starter@2.1.0-beta1
