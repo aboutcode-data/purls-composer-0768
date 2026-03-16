@@ -22,3 +22,4 @@
 - pkg:composer/horde/db@v3.0.0alpha5
 - pkg:composer/horde/db@v3.0.0alpha6
 - pkg:composer/horde/db@v3.0.0alpha7
+- pkg:composer/horde/db@v3.0.0alpha8

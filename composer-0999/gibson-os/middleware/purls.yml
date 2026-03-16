@@ -36,3 +36,4 @@
 - pkg:composer/gibson-os/middleware@v4.0.5
 - pkg:composer/gibson-os/middleware@v5.0.0
 - pkg:composer/gibson-os/middleware@v5.0.1
+- pkg:composer/gibson-os/middleware@v5.0.2

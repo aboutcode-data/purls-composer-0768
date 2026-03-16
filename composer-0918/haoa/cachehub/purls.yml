@@ -4,3 +4,5 @@
 - pkg:composer/haoa/cachehub@v1.1.2
 - pkg:composer/haoa/cachehub@v1.2.3
 - pkg:composer/haoa/cachehub@v1.2.4
+- pkg:composer/haoa/cachehub@v2.0.0
+- pkg:composer/haoa/cachehub@v2.0.1

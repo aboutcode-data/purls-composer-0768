@@ -64,3 +64,4 @@
 - pkg:composer/get-stream/stream@v5.0.1
 - pkg:composer/get-stream/stream@v7.0.0
 - pkg:composer/get-stream/stream@v7.1.0
+- pkg:composer/get-stream/stream@v8.0.0

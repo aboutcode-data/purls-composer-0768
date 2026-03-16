@@ -52,3 +52,6 @@
 - pkg:composer/ghianco/sophy-db@1.5.1
 - pkg:composer/ghianco/sophy-db@1.5.2
 - pkg:composer/ghianco/sophy-db@1.5.3
+- pkg:composer/ghianco/sophy-db@1.5.4
+- pkg:composer/ghianco/sophy-db@1.5.5
+- pkg:composer/ghianco/sophy-db@1.5.6

@@ -8,3 +8,4 @@
 - pkg:composer/horde/mail_autoconfig@2.0.0alpha2
 - pkg:composer/horde/mail_autoconfig@v2.0.0alpha3
 - pkg:composer/horde/mail_autoconfig@v2.0.0alpha4
+- pkg:composer/horde/mail_autoconfig@v2.0.0alpha6
