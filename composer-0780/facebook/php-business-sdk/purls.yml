@@ -75,6 +75,7 @@
 - pkg:composer/facebook/php-business-sdk@23.0.3
 - pkg:composer/facebook/php-business-sdk@24.0.0
 - pkg:composer/facebook/php-business-sdk@24.0.1
+- pkg:composer/facebook/php-business-sdk@25.0.0
 - pkg:composer/facebook/php-business-sdk@3.0.0
 - pkg:composer/facebook/php-business-sdk@3.0.1
 - pkg:composer/facebook/php-business-sdk@3.0.2

@@ -10,6 +10,10 @@
 - pkg:composer/gate/gateapi-php@7.2.25
 - pkg:composer/gate/gateapi-php@7.2.26
 - pkg:composer/gate/gateapi-php@7.2.32
+- pkg:composer/gate/gateapi-php@7.2.34
+- pkg:composer/gate/gateapi-php@7.2.36
+- pkg:composer/gate/gateapi-php@7.2.37
+- pkg:composer/gate/gateapi-php@7.2.39
 - pkg:composer/gate/gateapi-php@7.2.4
 - pkg:composer/gate/gateapi-php@7.2.6
 - pkg:composer/gate/gateapi-php@7.2.7

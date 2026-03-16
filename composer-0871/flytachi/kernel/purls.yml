@@ -67,3 +67,4 @@
 - pkg:composer/flytachi/kernel@5.7.9
 - pkg:composer/flytachi/kernel@5.8.0
 - pkg:composer/flytachi/kernel@5.8.1
+- pkg:composer/flytachi/kernel@5.8.2

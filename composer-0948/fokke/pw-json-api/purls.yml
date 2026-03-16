@@ -16,6 +16,7 @@
 - pkg:composer/fokke/pw-json-api@1.2.0
 - pkg:composer/fokke/pw-json-api@1.2.0-beta.0
 - pkg:composer/fokke/pw-json-api@1.2.0-beta.1
+- pkg:composer/fokke/pw-json-api@2.0.0
 - pkg:composer/fokke/pw-json-api@2.0.0-beta.0
 - pkg:composer/fokke/pw-json-api@2.0.0-beta.1
 - pkg:composer/fokke/pw-json-api@2.0.0-beta.2
@@ -23,3 +24,4 @@
 - pkg:composer/fokke/pw-json-api@2.0.0-beta.4
 - pkg:composer/fokke/pw-json-api@2.0.0-beta.5
 - pkg:composer/fokke/pw-json-api@2.0.0-beta.6
+- pkg:composer/fokke/pw-json-api@2.0.0-beta.7

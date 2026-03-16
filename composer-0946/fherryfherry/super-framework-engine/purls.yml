@@ -58,6 +58,10 @@
 - pkg:composer/fherryfherry/super-framework-engine@v1.3.0
 - pkg:composer/fherryfherry/super-framework-engine@v2.0.0
 - pkg:composer/fherryfherry/super-framework-engine@v2.0.1
+- pkg:composer/fherryfherry/super-framework-engine@v2.0.10
+- pkg:composer/fherryfherry/super-framework-engine@v2.0.11
+- pkg:composer/fherryfherry/super-framework-engine@v2.0.12
+- pkg:composer/fherryfherry/super-framework-engine@v2.0.13
 - pkg:composer/fherryfherry/super-framework-engine@v2.0.2
 - pkg:composer/fherryfherry/super-framework-engine@v2.0.3
 - pkg:composer/fherryfherry/super-framework-engine@v2.0.4
@@ -65,3 +69,4 @@
 - pkg:composer/fherryfherry/super-framework-engine@v2.0.6
 - pkg:composer/fherryfherry/super-framework-engine@v2.0.7
 - pkg:composer/fherryfherry/super-framework-engine@v2.0.8
+- pkg:composer/fherryfherry/super-framework-engine@v2.0.9

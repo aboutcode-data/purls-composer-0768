@@ -124,3 +124,10 @@
 - pkg:composer/fusio/model@v4.7.5
 - pkg:composer/fusio/model@v4.7.6
 - pkg:composer/fusio/model@v4.7.7
+- pkg:composer/fusio/model@v4.7.8
+- pkg:composer/fusio/model@v4.7.9
+- pkg:composer/fusio/model@v4.8.0
+- pkg:composer/fusio/model@v4.8.1
+- pkg:composer/fusio/model@v4.8.2
+- pkg:composer/fusio/model@v4.8.3
+- pkg:composer/fusio/model@v4.8.4

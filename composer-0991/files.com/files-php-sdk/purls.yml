@@ -1000,6 +1000,9 @@
 - pkg:composer/files.com/files-php-sdk@v2.0.500
 - pkg:composer/files.com/files-php-sdk@v2.0.501
 - pkg:composer/files.com/files-php-sdk@v2.0.502
+- pkg:composer/files.com/files-php-sdk@v2.0.503
+- pkg:composer/files.com/files-php-sdk@v2.0.504
+- pkg:composer/files.com/files-php-sdk@v2.0.505
 - pkg:composer/files.com/files-php-sdk@v2.0.51
 - pkg:composer/files.com/files-php-sdk@v2.0.52
 - pkg:composer/files.com/files-php-sdk@v2.0.53
