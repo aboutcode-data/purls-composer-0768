@@ -8,3 +8,5 @@
 - pkg:composer/iquety/pubsub@v1.3.0
 - pkg:composer/iquety/pubsub@v1.4.0
 - pkg:composer/iquety/pubsub@v2.0.0
+- pkg:composer/iquety/pubsub@v2.1.0
+- pkg:composer/iquety/pubsub@v2.2.0
