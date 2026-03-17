@@ -57,3 +57,4 @@
 - pkg:composer/tigron/skeleton-transaction@v5.1.2
 - pkg:composer/tigron/skeleton-transaction@v6.0.0
 - pkg:composer/tigron/skeleton-transaction@v6.0.1
+- pkg:composer/tigron/skeleton-transaction@v6.0.2
