@@ -14,3 +14,4 @@
 - pkg:composer/aqarmap/elastic@1.10
 - pkg:composer/aqarmap/elastic@v1.11.0
 - pkg:composer/aqarmap/elastic@v1.11.1
+- pkg:composer/aqarmap/elastic@v1.11.2
