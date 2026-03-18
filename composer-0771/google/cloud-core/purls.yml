@@ -152,6 +152,7 @@
 - pkg:composer/google/cloud-core@v1.7.0
 - pkg:composer/google/cloud-core@v1.71.0
 - pkg:composer/google/cloud-core@v1.71.1
+- pkg:composer/google/cloud-core@v1.71.2
 - pkg:composer/google/cloud-core@v1.8.0
 - pkg:composer/google/cloud-core@v1.8.1
 - pkg:composer/google/cloud-core@v1.9.0

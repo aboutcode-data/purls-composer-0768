@@ -43,3 +43,4 @@
 - pkg:composer/google/cloud-container-analysis@v1.1.1
 - pkg:composer/google/cloud-container-analysis@v1.2.0
 - pkg:composer/google/cloud-container-analysis@v1.2.1
+- pkg:composer/google/cloud-container-analysis@v1.2.2

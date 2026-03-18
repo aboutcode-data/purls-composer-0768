@@ -25,3 +25,4 @@
 - pkg:composer/google/cloud-advisorynotifications@v1.2.0
 - pkg:composer/google/cloud-advisorynotifications@v1.2.1
 - pkg:composer/google/cloud-advisorynotifications@v1.2.3
+- pkg:composer/google/cloud-advisorynotifications@v1.2.4

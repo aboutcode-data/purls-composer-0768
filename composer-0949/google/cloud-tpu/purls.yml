@@ -35,3 +35,4 @@
 - pkg:composer/google/cloud-tpu@v2.2.0
 - pkg:composer/google/cloud-tpu@v2.2.1
 - pkg:composer/google/cloud-tpu@v2.2.2
+- pkg:composer/google/cloud-tpu@v2.3.0

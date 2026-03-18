@@ -20,3 +20,4 @@
 - pkg:composer/google/cloud-securitycentermanagement@v1.3.0
 - pkg:composer/google/cloud-securitycentermanagement@v1.3.1
 - pkg:composer/google/cloud-securitycentermanagement@v1.3.3
+- pkg:composer/google/cloud-securitycentermanagement@v1.4.0

@@ -24,3 +24,4 @@
 - pkg:composer/google/cloud-kms-inventory@v1.2.1
 - pkg:composer/google/cloud-kms-inventory@v1.2.3
 - pkg:composer/google/cloud-kms-inventory@v1.3.0
+- pkg:composer/google/cloud-kms-inventory@v1.4.0

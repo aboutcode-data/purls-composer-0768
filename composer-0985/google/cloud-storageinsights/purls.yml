@@ -21,3 +21,4 @@
 - pkg:composer/google/cloud-storageinsights@v1.3.1
 - pkg:composer/google/cloud-storageinsights@v1.3.2
 - pkg:composer/google/cloud-storageinsights@v1.3.3
+- pkg:composer/google/cloud-storageinsights@v1.4.0
