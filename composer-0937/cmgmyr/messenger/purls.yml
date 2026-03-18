@@ -49,6 +49,7 @@
 - pkg:composer/cmgmyr/messenger@2.3
 - pkg:composer/cmgmyr/messenger@2.30.0
 - pkg:composer/cmgmyr/messenger@2.31.0
+- pkg:composer/cmgmyr/messenger@2.32.0
 - pkg:composer/cmgmyr/messenger@2.4
 - pkg:composer/cmgmyr/messenger@2.5
 - pkg:composer/cmgmyr/messenger@2.5.1
