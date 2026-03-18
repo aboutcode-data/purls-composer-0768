@@ -44,3 +44,4 @@
 - pkg:composer/bepsvpt/laravel-security-header@7.5.0
 - pkg:composer/bepsvpt/laravel-security-header@8.0.0
 - pkg:composer/bepsvpt/laravel-security-header@9.0.0
+- pkg:composer/bepsvpt/laravel-security-header@9.1.0

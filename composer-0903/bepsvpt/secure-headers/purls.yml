@@ -44,3 +44,4 @@
 - pkg:composer/bepsvpt/secure-headers@7.5.0
 - pkg:composer/bepsvpt/secure-headers@8.0.0
 - pkg:composer/bepsvpt/secure-headers@9.0.0
+- pkg:composer/bepsvpt/secure-headers@9.1.0
