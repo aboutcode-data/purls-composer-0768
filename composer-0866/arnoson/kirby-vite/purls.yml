@@ -26,6 +26,8 @@
 - pkg:composer/arnoson/kirby-vite@5.5.1
 - pkg:composer/arnoson/kirby-vite@5.6.0
 - pkg:composer/arnoson/kirby-vite@5.6.1
+- pkg:composer/arnoson/kirby-vite@5.7.0
+- pkg:composer/arnoson/kirby-vite@5.7.1
 - pkg:composer/arnoson/kirby-vite@v1.0
 - pkg:composer/arnoson/kirby-vite@v1.1.0
 - pkg:composer/arnoson/kirby-vite@v2.0.0
