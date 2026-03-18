@@ -75,3 +75,4 @@
 - pkg:composer/cart2quote/module-quotation-encoded@5.0.2
 - pkg:composer/cart2quote/module-quotation-encoded@5.0.3
 - pkg:composer/cart2quote/module-quotation-encoded@5.1.0
+- pkg:composer/cart2quote/module-quotation-encoded@5.1.1
