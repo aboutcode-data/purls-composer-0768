@@ -36,3 +36,5 @@
 - pkg:composer/horde/nag@v5.0.0alpha7
 - pkg:composer/horde/nag@v5.0.0alpha8
 - pkg:composer/horde/nag@v5.0.0alpha9
+- pkg:composer/horde/nag@v5.0.0beta1
+- pkg:composer/horde/nag@v5.0.0beta2
