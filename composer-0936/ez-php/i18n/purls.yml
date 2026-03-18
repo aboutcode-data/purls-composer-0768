@@ -2,3 +2,4 @@
 - pkg:composer/ez-php/i18n@0.2.0
 - pkg:composer/ez-php/i18n@0.3.0
 - pkg:composer/ez-php/i18n@0.4.0
+- pkg:composer/ez-php/i18n@0.4.1
