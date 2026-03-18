@@ -14,3 +14,7 @@
 - pkg:composer/datomatic/laravel-enum-collections@v3.2.1
 - pkg:composer/datomatic/laravel-enum-collections@v3.3.0
 - pkg:composer/datomatic/laravel-enum-collections@v3.3.1
+- pkg:composer/datomatic/laravel-enum-collections@v3.3.2
+- pkg:composer/datomatic/laravel-enum-collections@v3.3.3
+- pkg:composer/datomatic/laravel-enum-collections@v3.4.0
+- pkg:composer/datomatic/laravel-enum-collections@v4.0.0
