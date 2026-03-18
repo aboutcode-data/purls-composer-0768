@@ -92,3 +92,4 @@
 - pkg:composer/dbp/relay-blob-bundle@v0.1.91
 - pkg:composer/dbp/relay-blob-bundle@v0.1.92
 - pkg:composer/dbp/relay-blob-bundle@v0.2.0
+- pkg:composer/dbp/relay-blob-bundle@v0.2.1
