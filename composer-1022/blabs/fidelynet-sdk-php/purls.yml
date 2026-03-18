@@ -52,3 +52,4 @@
 - pkg:composer/blabs/fidelynet-sdk-php@v2.7.3
 - pkg:composer/blabs/fidelynet-sdk-php@v2.7.4
 - pkg:composer/blabs/fidelynet-sdk-php@v2.7.5
+- pkg:composer/blabs/fidelynet-sdk-php@v2.7.6
