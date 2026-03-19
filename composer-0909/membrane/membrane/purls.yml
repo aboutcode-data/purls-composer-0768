@@ -1,6 +1,7 @@
 - pkg:composer/membrane/membrane@0.1.0
 - pkg:composer/membrane/membrane@0.1.1
 - pkg:composer/membrane/membrane@0.10.0
+- pkg:composer/membrane/membrane@0.10.1
 - pkg:composer/membrane/membrane@0.2.0
 - pkg:composer/membrane/membrane@0.3.0
 - pkg:composer/membrane/membrane@0.4.0
