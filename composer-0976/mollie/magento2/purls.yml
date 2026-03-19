@@ -140,3 +140,4 @@
 - pkg:composer/mollie/magento2@v3.0.0-RC2
 - pkg:composer/mollie/magento2@v3.0.0-RC3
 - pkg:composer/mollie/magento2@v3.0.0-RC4
+- pkg:composer/mollie/magento2@v3.0.0-RC5
