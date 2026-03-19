@@ -1,1 +1,5 @@
 - pkg:composer/philiprehberger/laravel-settings@v1.0.0
+- pkg:composer/philiprehberger/laravel-settings@v1.0.1
+- pkg:composer/philiprehberger/laravel-settings@v1.0.2
+- pkg:composer/philiprehberger/laravel-settings@v1.0.3
+- pkg:composer/philiprehberger/laravel-settings@v1.0.4

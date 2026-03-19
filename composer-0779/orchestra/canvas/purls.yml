@@ -6,6 +6,8 @@
 - pkg:composer/orchestra/canvas@v10.0.2
 - pkg:composer/orchestra/canvas@v10.1.0
 - pkg:composer/orchestra/canvas@v10.1.1
+- pkg:composer/orchestra/canvas@v11.0.0
+- pkg:composer/orchestra/canvas@v11.0.1
 - pkg:composer/orchestra/canvas@v4.0.0
 - pkg:composer/orchestra/canvas@v4.1.0
 - pkg:composer/orchestra/canvas@v4.2.0

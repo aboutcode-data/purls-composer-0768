@@ -3,3 +3,4 @@
 - pkg:composer/pagemachine/authorized-keys@2.0.0
 - pkg:composer/pagemachine/authorized-keys@2.1.0
 - pkg:composer/pagemachine/authorized-keys@2.2.0
+- pkg:composer/pagemachine/authorized-keys@2.2.1
