@@ -8,3 +8,4 @@
 - pkg:composer/horde/exception@v3.0.0alpha5
 - pkg:composer/horde/exception@v3.0.0beta1
 - pkg:composer/horde/exception@v3.0.0beta2
+- pkg:composer/horde/exception@v3.0.0beta3

@@ -299,6 +299,7 @@
 - pkg:composer/illuminate/conditionable@v12.54.0
 - pkg:composer/illuminate/conditionable@v12.54.1
 - pkg:composer/illuminate/conditionable@v12.55.0
+- pkg:composer/illuminate/conditionable@v12.55.1
 - pkg:composer/illuminate/conditionable@v12.6.0
 - pkg:composer/illuminate/conditionable@v12.7.0
 - pkg:composer/illuminate/conditionable@v12.7.1
@@ -309,6 +310,8 @@
 - pkg:composer/illuminate/conditionable@v12.9.1
 - pkg:composer/illuminate/conditionable@v12.9.2
 - pkg:composer/illuminate/conditionable@v13.0.0
+- pkg:composer/illuminate/conditionable@v13.1.0
+- pkg:composer/illuminate/conditionable@v13.1.1
 - pkg:composer/illuminate/conditionable@v9.0.0
 - pkg:composer/illuminate/conditionable@v9.0.0-beta.4
 - pkg:composer/illuminate/conditionable@v9.0.0-beta.5
