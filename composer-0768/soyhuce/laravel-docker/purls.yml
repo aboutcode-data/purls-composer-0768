@@ -23,3 +23,4 @@
 - pkg:composer/soyhuce/laravel-docker@2.0.0
 - pkg:composer/soyhuce/laravel-docker@2.1.0
 - pkg:composer/soyhuce/laravel-docker@2.2.0
+- pkg:composer/soyhuce/laravel-docker@2.2.1
