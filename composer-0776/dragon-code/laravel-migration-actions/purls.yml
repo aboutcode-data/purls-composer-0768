@@ -17,6 +17,7 @@
 - pkg:composer/dragon-code/laravel-migration-actions@7.1.0
 - pkg:composer/dragon-code/laravel-migration-actions@7.1.1
 - pkg:composer/dragon-code/laravel-migration-actions@7.1.2
+- pkg:composer/dragon-code/laravel-migration-actions@7.2.0
 - pkg:composer/dragon-code/laravel-migration-actions@v1.0.0
 - pkg:composer/dragon-code/laravel-migration-actions@v1.1.0
 - pkg:composer/dragon-code/laravel-migration-actions@v1.2.0
