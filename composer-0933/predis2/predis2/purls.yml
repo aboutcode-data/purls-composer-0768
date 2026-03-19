@@ -51,3 +51,4 @@
 - pkg:composer/predis2/predis2@v3.3.0
 - pkg:composer/predis2/predis2@v3.4.0
 - pkg:composer/predis2/predis2@v3.4.1
+- pkg:composer/predis2/predis2@v3.4.2

@@ -1,3 +1,4 @@
+- pkg:composer/rebing/graphql-laravel@10.0.0-RC1
 - pkg:composer/rebing/graphql-laravel@2.0.0
 - pkg:composer/rebing/graphql-laravel@2.0.1
 - pkg:composer/rebing/graphql-laravel@2.1.0
@@ -55,6 +56,7 @@
 - pkg:composer/rebing/graphql-laravel@9.14.0
 - pkg:composer/rebing/graphql-laravel@9.15.0
 - pkg:composer/rebing/graphql-laravel@9.16.0
+- pkg:composer/rebing/graphql-laravel@9.17.0
 - pkg:composer/rebing/graphql-laravel@9.2.0
 - pkg:composer/rebing/graphql-laravel@9.3.0
 - pkg:composer/rebing/graphql-laravel@9.4.0

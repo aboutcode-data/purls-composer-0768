@@ -23,9 +23,17 @@
 - pkg:composer/r2luna/brain@2.4.0
 - pkg:composer/r2luna/brain@2.5.0
 - pkg:composer/r2luna/brain@2.6.0
+- pkg:composer/r2luna/brain@2.7.0
+- pkg:composer/r2luna/brain@2.7.1
+- pkg:composer/r2luna/brain@2.7.2
+- pkg:composer/r2luna/brain@2.8.0
 - pkg:composer/r2luna/brain@3.1.0
 - pkg:composer/r2luna/brain@3.2.0
 - pkg:composer/r2luna/brain@3.3.0
 - pkg:composer/r2luna/brain@3.4.0
 - pkg:composer/r2luna/brain@3.5.0
+- pkg:composer/r2luna/brain@3.6.0
+- pkg:composer/r2luna/brain@3.6.1
+- pkg:composer/r2luna/brain@3.6.2
+- pkg:composer/r2luna/brain@3.7.0
 - pkg:composer/r2luna/brain@v3.0.0

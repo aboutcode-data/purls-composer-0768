@@ -29,3 +29,4 @@
 - pkg:composer/rediris-es/simplesamlphp-module-oidc@v6.2.1
 - pkg:composer/rediris-es/simplesamlphp-module-oidc@v6.3.0
 - pkg:composer/rediris-es/simplesamlphp-module-oidc@v6.3.1
+- pkg:composer/rediris-es/simplesamlphp-module-oidc@v6.4.0

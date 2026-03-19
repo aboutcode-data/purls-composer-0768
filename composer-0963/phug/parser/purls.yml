@@ -66,3 +66,4 @@
 - pkg:composer/phug/parser@1.8.3
 - pkg:composer/phug/parser@1.9.0
 - pkg:composer/phug/parser@2.0.0
+- pkg:composer/phug/parser@2.0.1

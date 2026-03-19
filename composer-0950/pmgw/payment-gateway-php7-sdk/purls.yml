@@ -42,4 +42,6 @@
 - pkg:composer/pmgw/payment-gateway-php7-sdk@5.0.0
 - pkg:composer/pmgw/payment-gateway-php7-sdk@5.0.0-beta.1
 - pkg:composer/pmgw/payment-gateway-php7-sdk@5.0.0-beta.2
+- pkg:composer/pmgw/payment-gateway-php7-sdk@5.0.1
 - pkg:composer/pmgw/payment-gateway-php7-sdk@5.0.1-beta.1
+- pkg:composer/pmgw/payment-gateway-php7-sdk@5.1.0-beta.1

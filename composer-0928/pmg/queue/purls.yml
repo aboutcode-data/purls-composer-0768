@@ -22,3 +22,4 @@
 - pkg:composer/pmg/queue@v6.1.1
 - pkg:composer/pmg/queue@v6.1.2
 - pkg:composer/pmg/queue@v6.2.0
+- pkg:composer/pmg/queue@v7.0.0
