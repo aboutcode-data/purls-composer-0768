@@ -29,6 +29,7 @@
 - pkg:composer/anourvalar/laravel-health@1.15.0
 - pkg:composer/anourvalar/laravel-health@1.15.1
 - pkg:composer/anourvalar/laravel-health@1.15.2
+- pkg:composer/anourvalar/laravel-health@1.15.3
 - pkg:composer/anourvalar/laravel-health@1.2.0
 - pkg:composer/anourvalar/laravel-health@1.3.0
 - pkg:composer/anourvalar/laravel-health@1.3.1

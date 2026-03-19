@@ -14,6 +14,7 @@
 - pkg:composer/anourvalar/laravel-interpreter@2.10.1
 - pkg:composer/anourvalar/laravel-interpreter@2.10.10
 - pkg:composer/anourvalar/laravel-interpreter@2.10.11
+- pkg:composer/anourvalar/laravel-interpreter@2.10.12
 - pkg:composer/anourvalar/laravel-interpreter@2.10.2
 - pkg:composer/anourvalar/laravel-interpreter@2.10.3
 - pkg:composer/anourvalar/laravel-interpreter@2.10.4
