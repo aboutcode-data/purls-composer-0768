@@ -41,3 +41,6 @@
 - pkg:composer/larabug/larabug@3.4.0
 - pkg:composer/larabug/larabug@3.5.0
 - pkg:composer/larabug/larabug@3.5.1
+- pkg:composer/larabug/larabug@3.5.2
+- pkg:composer/larabug/larabug@3.6
+- pkg:composer/larabug/larabug@3.6.1
