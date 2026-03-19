@@ -1,3 +1,4 @@
+- pkg:composer/schniper/laravel-localization-helpers@13.0.0
 - pkg:composer/schniper/laravel-localization-helpers@3.0.0
 - pkg:composer/schniper/laravel-localization-helpers@3.0.1
 - pkg:composer/schniper/laravel-localization-helpers@4.0.0

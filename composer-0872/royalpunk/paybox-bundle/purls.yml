@@ -12,3 +12,5 @@
 - pkg:composer/royalpunk/paybox-bundle@v1.7.3
 - pkg:composer/royalpunk/paybox-bundle@v1.7.4
 - pkg:composer/royalpunk/paybox-bundle@v1.7.5
+- pkg:composer/royalpunk/paybox-bundle@v1.8.1
+- pkg:composer/royalpunk/paybox-bundle@v1.8.2

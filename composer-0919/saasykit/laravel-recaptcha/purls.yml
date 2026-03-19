@@ -1,1 +1,2 @@
 - pkg:composer/saasykit/laravel-recaptcha@1.0.0
+- pkg:composer/saasykit/laravel-recaptcha@1.1.1
