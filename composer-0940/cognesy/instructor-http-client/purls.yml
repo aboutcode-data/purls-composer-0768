@@ -80,3 +80,4 @@
 - pkg:composer/cognesy/instructor-http-client@v1.9.1
 - pkg:composer/cognesy/instructor-http-client@v2.0.0
 - pkg:composer/cognesy/instructor-http-client@v2.1.0
+- pkg:composer/cognesy/instructor-http-client@v2.2.0
