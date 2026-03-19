@@ -451,3 +451,4 @@
 - pkg:composer/contao/newsletter-bundle@5.7.0-RC4
 - pkg:composer/contao/newsletter-bundle@5.7.1
 - pkg:composer/contao/newsletter-bundle@5.7.2
+- pkg:composer/contao/newsletter-bundle@5.7.3
