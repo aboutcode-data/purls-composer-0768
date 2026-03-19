@@ -3,3 +3,4 @@
 - pkg:composer/ez-php/validation@0.3.0
 - pkg:composer/ez-php/validation@0.4.0
 - pkg:composer/ez-php/validation@0.4.1
+- pkg:composer/ez-php/validation@0.5.0
