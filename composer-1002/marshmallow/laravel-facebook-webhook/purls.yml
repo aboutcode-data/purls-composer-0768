@@ -8,3 +8,4 @@
 - pkg:composer/marshmallow/laravel-facebook-webhook@v2.2.0
 - pkg:composer/marshmallow/laravel-facebook-webhook@v2.2.1
 - pkg:composer/marshmallow/laravel-facebook-webhook@v2.3.0
+- pkg:composer/marshmallow/laravel-facebook-webhook@v2.4.0

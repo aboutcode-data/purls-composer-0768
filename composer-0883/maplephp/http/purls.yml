@@ -14,3 +14,5 @@
 - pkg:composer/maplephp/http@v2.0.1
 - pkg:composer/maplephp/http@v2.0.2
 - pkg:composer/maplephp/http@v2.1.0
+- pkg:composer/maplephp/http@v2.2.0
+- pkg:composer/maplephp/http@v2.2.1
