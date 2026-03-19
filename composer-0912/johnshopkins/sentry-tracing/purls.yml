@@ -3,3 +3,4 @@
 - pkg:composer/johnshopkins/sentry-tracing@1.2
 - pkg:composer/johnshopkins/sentry-tracing@1.3
 - pkg:composer/johnshopkins/sentry-tracing@1.3.1
+- pkg:composer/johnshopkins/sentry-tracing@1.3.2

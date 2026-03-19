@@ -65,6 +65,7 @@
 - pkg:composer/jonnitto/prettyembedhelper@6.1.1
 - pkg:composer/jonnitto/prettyembedhelper@6.10.0
 - pkg:composer/jonnitto/prettyembedhelper@6.11.0
+- pkg:composer/jonnitto/prettyembedhelper@6.12.0
 - pkg:composer/jonnitto/prettyembedhelper@6.2.0
 - pkg:composer/jonnitto/prettyembedhelper@6.2.1
 - pkg:composer/jonnitto/prettyembedhelper@6.2.2
@@ -88,3 +89,4 @@
 - pkg:composer/jonnitto/prettyembedhelper@8.1.0
 - pkg:composer/jonnitto/prettyembedhelper@8.2.0
 - pkg:composer/jonnitto/prettyembedhelper@8.3.0
+- pkg:composer/jonnitto/prettyembedhelper@8.4.0

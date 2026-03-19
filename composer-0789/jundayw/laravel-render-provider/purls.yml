@@ -8,3 +8,4 @@
 - pkg:composer/jundayw/laravel-render-provider@v4.0.1
 - pkg:composer/jundayw/laravel-render-provider@v4.1.0
 - pkg:composer/jundayw/laravel-render-provider@v5.0.0
+- pkg:composer/jundayw/laravel-render-provider@v6.0.0
