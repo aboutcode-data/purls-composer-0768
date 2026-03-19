@@ -51,6 +51,7 @@
 - pkg:composer/spryker/collector@6.10.1
 - pkg:composer/spryker/collector@6.11.0
 - pkg:composer/spryker/collector@6.12.0
+- pkg:composer/spryker/collector@6.13.0
 - pkg:composer/spryker/collector@6.2.0
 - pkg:composer/spryker/collector@6.2.1
 - pkg:composer/spryker/collector@6.3.0

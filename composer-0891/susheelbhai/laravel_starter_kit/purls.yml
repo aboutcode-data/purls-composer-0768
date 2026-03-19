@@ -72,6 +72,14 @@
 - pkg:composer/susheelbhai/laravel_starter_kit@v3.12.4
 - pkg:composer/susheelbhai/laravel_starter_kit@v3.13.0
 - pkg:composer/susheelbhai/laravel_starter_kit@v3.13.1
+- pkg:composer/susheelbhai/laravel_starter_kit@v3.13.2
+- pkg:composer/susheelbhai/laravel_starter_kit@v3.13.3
+- pkg:composer/susheelbhai/laravel_starter_kit@v3.13.4
+- pkg:composer/susheelbhai/laravel_starter_kit@v3.13.5
+- pkg:composer/susheelbhai/laravel_starter_kit@v3.13.6
+- pkg:composer/susheelbhai/laravel_starter_kit@v3.13.7
+- pkg:composer/susheelbhai/laravel_starter_kit@v3.13.8
+- pkg:composer/susheelbhai/laravel_starter_kit@v3.13.9
 - pkg:composer/susheelbhai/laravel_starter_kit@v3.2.0
 - pkg:composer/susheelbhai/laravel_starter_kit@v3.2.1
 - pkg:composer/susheelbhai/laravel_starter_kit@v3.2.2

@@ -23,3 +23,4 @@
 - pkg:composer/spryker/price-product-schedule-gui@2.8.1
 - pkg:composer/spryker/price-product-schedule-gui@3.0.0
 - pkg:composer/spryker/price-product-schedule-gui@3.1.0
+- pkg:composer/spryker/price-product-schedule-gui@3.2.0

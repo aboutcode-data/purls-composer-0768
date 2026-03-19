@@ -12,3 +12,6 @@
 - pkg:composer/square-bit/laravel-workflow@v12.0.3.2
 - pkg:composer/square-bit/laravel-workflow@v12.1
 - pkg:composer/square-bit/laravel-workflow@v12.1.1
+- pkg:composer/square-bit/laravel-workflow@v12.2
+- pkg:composer/square-bit/laravel-workflow@v12.2.1
+- pkg:composer/square-bit/laravel-workflow@v12.2.2

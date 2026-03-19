@@ -8,6 +8,7 @@
 - pkg:composer/spryker/merchant-relationship-gui@1.10.1
 - pkg:composer/spryker/merchant-relationship-gui@1.11.0
 - pkg:composer/spryker/merchant-relationship-gui@1.12.0
+- pkg:composer/spryker/merchant-relationship-gui@1.13.0
 - pkg:composer/spryker/merchant-relationship-gui@1.2.0
 - pkg:composer/spryker/merchant-relationship-gui@1.2.1
 - pkg:composer/spryker/merchant-relationship-gui@1.2.2
