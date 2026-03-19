@@ -1,0 +1,4 @@
+- pkg:composer/brokenice/laravel-pgsql-partition@0.1.1
+- pkg:composer/brokenice/laravel-pgsql-partition@v0.1.0
+- pkg:composer/brokenice/laravel-pgsql-partition@v1.0.0
+- pkg:composer/brokenice/laravel-pgsql-partition@v1.0.1
