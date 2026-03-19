@@ -12,3 +12,5 @@
 - pkg:composer/netresearch/agent-typo3-ddev@v1.14.2
 - pkg:composer/netresearch/agent-typo3-ddev@v1.14.3
 - pkg:composer/netresearch/agent-typo3-ddev@v1.14.4
+- pkg:composer/netresearch/agent-typo3-ddev@v1.14.5
+- pkg:composer/netresearch/agent-typo3-ddev@v1.15.0

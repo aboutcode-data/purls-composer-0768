@@ -3,3 +3,4 @@
 - pkg:composer/ocolin/global-type@1.4
 - pkg:composer/ocolin/global-type@1.5
 - pkg:composer/ocolin/global-type@1.6
+- pkg:composer/ocolin/global-type@v2.0.0

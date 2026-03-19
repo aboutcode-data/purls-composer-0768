@@ -1,1 +1,5 @@
 - pkg:composer/nsu-soft/yii-cap-captcha@1.0
+- pkg:composer/nsu-soft/yii-cap-captcha@1.1
+- pkg:composer/nsu-soft/yii-cap-captcha@2.0
+- pkg:composer/nsu-soft/yii-cap-captcha@2.1
+- pkg:composer/nsu-soft/yii-cap-captcha@3.0

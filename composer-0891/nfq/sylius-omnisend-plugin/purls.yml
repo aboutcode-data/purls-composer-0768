@@ -1,6 +1,7 @@
 - pkg:composer/nfq/sylius-omnisend-plugin@1.2.11
 - pkg:composer/nfq/sylius-omnisend-plugin@2.0.0
 - pkg:composer/nfq/sylius-omnisend-plugin@3.0.0
+- pkg:composer/nfq/sylius-omnisend-plugin@3.2.0
 - pkg:composer/nfq/sylius-omnisend-plugin@v1.0.0
 - pkg:composer/nfq/sylius-omnisend-plugin@v1.0.1
 - pkg:composer/nfq/sylius-omnisend-plugin@v1.0.2
