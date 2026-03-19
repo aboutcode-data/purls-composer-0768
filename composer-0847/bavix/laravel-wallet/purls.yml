@@ -35,6 +35,7 @@
 - pkg:composer/bavix/laravel-wallet@11.4.1
 - pkg:composer/bavix/laravel-wallet@11.4.2
 - pkg:composer/bavix/laravel-wallet@11.4.3
+- pkg:composer/bavix/laravel-wallet@11.5.0
 - pkg:composer/bavix/laravel-wallet@2.0.0
 - pkg:composer/bavix/laravel-wallet@2.0.1
 - pkg:composer/bavix/laravel-wallet@2.1.0
