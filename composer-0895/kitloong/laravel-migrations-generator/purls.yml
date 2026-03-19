@@ -60,3 +60,4 @@
 - pkg:composer/kitloong/laravel-migrations-generator@v7.1.1
 - pkg:composer/kitloong/laravel-migrations-generator@v7.1.2
 - pkg:composer/kitloong/laravel-migrations-generator@v7.2.0
+- pkg:composer/kitloong/laravel-migrations-generator@v7.3.0

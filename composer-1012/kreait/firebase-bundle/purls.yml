@@ -39,3 +39,4 @@
 - pkg:composer/kreait/firebase-bundle@5.6.0
 - pkg:composer/kreait/firebase-bundle@5.7.0
 - pkg:composer/kreait/firebase-bundle@6.0.0
+- pkg:composer/kreait/firebase-bundle@6.1.0

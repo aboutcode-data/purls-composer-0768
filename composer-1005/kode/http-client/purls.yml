@@ -1,2 +1,5 @@
+- pkg:composer/kode/http-client@2.2.0
+- pkg:composer/kode/http-client@2.2.1
+- pkg:composer/kode/http-client@2.3.0
 - pkg:composer/kode/http-client@v2.1.0
 - pkg:composer/kode/http-client@v2.1.1
