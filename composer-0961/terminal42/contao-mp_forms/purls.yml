@@ -48,3 +48,4 @@
 - pkg:composer/terminal42/contao-mp_forms@5.2.1
 - pkg:composer/terminal42/contao-mp_forms@5.2.2
 - pkg:composer/terminal42/contao-mp_forms@5.2.3
+- pkg:composer/terminal42/contao-mp_forms@5.3.0

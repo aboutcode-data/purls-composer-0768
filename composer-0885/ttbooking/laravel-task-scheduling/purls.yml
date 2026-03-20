@@ -19,3 +19,4 @@
 - pkg:composer/ttbooking/laravel-task-scheduling@v1.3.0
 - pkg:composer/ttbooking/laravel-task-scheduling@v1.3.1
 - pkg:composer/ttbooking/laravel-task-scheduling@v1.4.0
+- pkg:composer/ttbooking/laravel-task-scheduling@v1.5.0
