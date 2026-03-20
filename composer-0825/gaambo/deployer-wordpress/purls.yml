@@ -10,3 +10,4 @@
 - pkg:composer/gaambo/deployer-wordpress@3.0.0
 - pkg:composer/gaambo/deployer-wordpress@3.0.0-alpha
 - pkg:composer/gaambo/deployer-wordpress@3.1.0
+- pkg:composer/gaambo/deployer-wordpress@v4.0.0
