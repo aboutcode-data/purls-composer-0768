@@ -2,3 +2,4 @@
 - pkg:composer/spiral/grpc-client@1.0.0-alpha2
 - pkg:composer/spiral/grpc-client@1.0.0-alpha3
 - pkg:composer/spiral/grpc-client@1.0.0-rc1
+- pkg:composer/spiral/grpc-client@1.0.0-rc2
