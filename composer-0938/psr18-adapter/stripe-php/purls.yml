@@ -1,1 +1,2 @@
 - pkg:composer/psr18-adapter/stripe-php@1.0.0
+- pkg:composer/psr18-adapter/stripe-php@1.1
