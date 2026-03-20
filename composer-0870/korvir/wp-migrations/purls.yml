@@ -11,3 +11,4 @@
 - pkg:composer/korvir/wp-migrations@1.0.3
 - pkg:composer/korvir/wp-migrations@1.0.5
 - pkg:composer/korvir/wp-migrations@1.1.0
+- pkg:composer/korvir/wp-migrations@1.1.1

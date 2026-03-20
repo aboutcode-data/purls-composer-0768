@@ -1,1 +1,2 @@
 - pkg:composer/klsoft/yii3-datareader-doctrine@1.0.0
+- pkg:composer/klsoft/yii3-datareader-doctrine@1.0.1

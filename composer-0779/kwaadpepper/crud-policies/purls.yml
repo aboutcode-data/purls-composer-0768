@@ -43,3 +43,5 @@
 - pkg:composer/kwaadpepper/crud-policies@5.0.0
 - pkg:composer/kwaadpepper/crud-policies@5.0.1
 - pkg:composer/kwaadpepper/crud-policies@5.0.2
+- pkg:composer/kwaadpepper/crud-policies@6.0.0
+- pkg:composer/kwaadpepper/crud-policies@6.0.1
