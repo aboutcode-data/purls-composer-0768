@@ -9,6 +9,7 @@
 - pkg:composer/cviebrock/eloquent-taggable@11.0.1
 - pkg:composer/cviebrock/eloquent-taggable@11.0.2
 - pkg:composer/cviebrock/eloquent-taggable@12.0.0
+- pkg:composer/cviebrock/eloquent-taggable@13.0.0
 - pkg:composer/cviebrock/eloquent-taggable@2.0.0
 - pkg:composer/cviebrock/eloquent-taggable@2.0.0-beta
 - pkg:composer/cviebrock/eloquent-taggable@2.1.0

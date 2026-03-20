@@ -10,6 +10,7 @@
 - pkg:composer/ddr/forge-test-branches@v1.1.7
 - pkg:composer/ddr/forge-test-branches@v1.1.8
 - pkg:composer/ddr/forge-test-branches@v1.1.9
+- pkg:composer/ddr/forge-test-branches@v1.10.0
 - pkg:composer/ddr/forge-test-branches@v1.2.0
 - pkg:composer/ddr/forge-test-branches@v1.3.0
 - pkg:composer/ddr/forge-test-branches@v1.4.0
