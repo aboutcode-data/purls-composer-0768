@@ -77,3 +77,4 @@
 - pkg:composer/directorytree/ldaprecord-laravel@v3.4.0
 - pkg:composer/directorytree/ldaprecord-laravel@v3.4.1
 - pkg:composer/directorytree/ldaprecord-laravel@v3.4.2
+- pkg:composer/directorytree/ldaprecord-laravel@v3.4.3

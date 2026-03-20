@@ -5,6 +5,8 @@
 - pkg:composer/edwilde/silverstripe-cache-control@1.0.0
 - pkg:composer/edwilde/silverstripe-cache-control@1.0.1
 - pkg:composer/edwilde/silverstripe-cache-control@1.0.2
+- pkg:composer/edwilde/silverstripe-cache-control@1.1.0
 - pkg:composer/edwilde/silverstripe-cache-control@2.0.0
 - pkg:composer/edwilde/silverstripe-cache-control@2.0.1
 - pkg:composer/edwilde/silverstripe-cache-control@2.0.2
+- pkg:composer/edwilde/silverstripe-cache-control@2.1.0
