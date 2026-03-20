@@ -23,3 +23,6 @@
 - pkg:composer/mulertech/docker-dev@v3.0.0
 - pkg:composer/mulertech/docker-dev@v3.1.0
 - pkg:composer/mulertech/docker-dev@v3.1.1
+- pkg:composer/mulertech/docker-dev@v3.1.2
+- pkg:composer/mulertech/docker-dev@v3.1.3
+- pkg:composer/mulertech/docker-dev@v3.1.4
