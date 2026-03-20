@@ -10,3 +10,4 @@
 - pkg:composer/joggapp/laravel-aws-sns@v6.0.0
 - pkg:composer/joggapp/laravel-aws-sns@v7.0.0
 - pkg:composer/joggapp/laravel-aws-sns@v8.0.0
+- pkg:composer/joggapp/laravel-aws-sns@v9.0.0
