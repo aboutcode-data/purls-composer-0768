@@ -2,3 +2,4 @@
 - pkg:composer/php-standard-library/tree@6.0.1
 - pkg:composer/php-standard-library/tree@6.0.2
 - pkg:composer/php-standard-library/tree@6.0.3
+- pkg:composer/php-standard-library/tree@6.1.0

@@ -43,3 +43,4 @@
 - pkg:composer/overtrue/laravel-follow@5.1.1
 - pkg:composer/overtrue/laravel-follow@5.2.0
 - pkg:composer/overtrue/laravel-follow@5.3.0
+- pkg:composer/overtrue/laravel-follow@6.0.0
