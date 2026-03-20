@@ -3,3 +3,4 @@
 - pkg:composer/micro/plugin-logger-core@2.0.0-alpha
 - pkg:composer/micro/plugin-logger-core@v1.1
 - pkg:composer/micro/plugin-logger-core@v1.6.0
+- pkg:composer/micro/plugin-logger-core@v2.0.0-alpha1

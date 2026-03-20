@@ -10,3 +10,4 @@
 - pkg:composer/micro/autowire@v1.6.0-rc2
 - pkg:composer/micro/autowire@v1.6.0-rc3
 - pkg:composer/micro/autowire@v1.6.4
+- pkg:composer/micro/autowire@v2.0.0-alpha1

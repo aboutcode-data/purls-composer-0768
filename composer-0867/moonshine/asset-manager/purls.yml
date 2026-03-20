@@ -6,3 +6,4 @@
 - pkg:composer/moonshine/asset-manager@3.6.0
 - pkg:composer/moonshine/asset-manager@3.7.0
 - pkg:composer/moonshine/asset-manager@4.0.0
+- pkg:composer/moonshine/asset-manager@4.9.1
