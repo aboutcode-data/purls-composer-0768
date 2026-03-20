@@ -50,3 +50,4 @@
 - pkg:composer/rongcloud/php-sdk@v3.3.7
 - pkg:composer/rongcloud/php-sdk@v3.4.0
 - pkg:composer/rongcloud/php-sdk@v3.4.1
+- pkg:composer/rongcloud/php-sdk@v3.4.2
