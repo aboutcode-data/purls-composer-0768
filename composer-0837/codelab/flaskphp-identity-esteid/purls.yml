@@ -16,6 +16,8 @@
 - pkg:composer/codelab/flaskphp-identity-esteid@v2.0.7
 - pkg:composer/codelab/flaskphp-identity-esteid@v3.0.0
 - pkg:composer/codelab/flaskphp-identity-esteid@v3.0.1
+- pkg:composer/codelab/flaskphp-identity-esteid@v3.0.10
+- pkg:composer/codelab/flaskphp-identity-esteid@v3.0.11
 - pkg:composer/codelab/flaskphp-identity-esteid@v3.0.2
 - pkg:composer/codelab/flaskphp-identity-esteid@v3.0.3
 - pkg:composer/codelab/flaskphp-identity-esteid@v3.0.4
