@@ -203,3 +203,4 @@
 - pkg:composer/google/protobuf@v5.34.0
 - pkg:composer/google/protobuf@v5.34.0RC1
 - pkg:composer/google/protobuf@v5.34.0RC2
+- pkg:composer/google/protobuf@v5.34.1

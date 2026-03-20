@@ -13,3 +13,4 @@
 - pkg:composer/graham-campbell/bounded-cache@v2.2.0
 - pkg:composer/graham-campbell/bounded-cache@v2.2.1
 - pkg:composer/graham-campbell/bounded-cache@v3.0.0
+- pkg:composer/graham-campbell/bounded-cache@v3.1.0

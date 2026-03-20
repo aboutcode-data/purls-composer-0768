@@ -48,6 +48,9 @@
 - pkg:composer/grafite/html@v1.2.0
 - pkg:composer/grafite/html@v1.2.1
 - pkg:composer/grafite/html@v1.20.0
+- pkg:composer/grafite/html@v1.21.0
+- pkg:composer/grafite/html@v1.21.1
+- pkg:composer/grafite/html@v1.21.2
 - pkg:composer/grafite/html@v1.3.0
 - pkg:composer/grafite/html@v1.3.1
 - pkg:composer/grafite/html@v1.4.0
