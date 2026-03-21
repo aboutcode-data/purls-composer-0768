@@ -55,6 +55,7 @@
 - pkg:composer/paycomet/payment@2.4.41
 - pkg:composer/paycomet/payment@2.4.42
 - pkg:composer/paycomet/payment@2.4.43
+- pkg:composer/paycomet/payment@2.4.44
 - pkg:composer/paycomet/payment@2.4.5
 - pkg:composer/paycomet/payment@2.4.6
 - pkg:composer/paycomet/payment@2.4.7

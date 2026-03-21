@@ -6,3 +6,4 @@
 - pkg:composer/overtrue/laravel-easy-sms@2.2.0
 - pkg:composer/overtrue/laravel-easy-sms@2.3.0
 - pkg:composer/overtrue/laravel-easy-sms@3.0.0
+- pkg:composer/overtrue/laravel-easy-sms@v4.0.0
