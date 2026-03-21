@@ -7,3 +7,5 @@
 - pkg:composer/priorist/edm-sdk@0.6.1
 - pkg:composer/priorist/edm-sdk@1.0.0
 - pkg:composer/priorist/edm-sdk@1.1.0
+- pkg:composer/priorist/edm-sdk@1.1.1
+- pkg:composer/priorist/edm-sdk@1.1.2

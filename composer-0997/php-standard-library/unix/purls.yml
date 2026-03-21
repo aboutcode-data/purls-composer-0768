@@ -3,3 +3,4 @@
 - pkg:composer/php-standard-library/unix@6.0.2
 - pkg:composer/php-standard-library/unix@6.0.3
 - pkg:composer/php-standard-library/unix@6.1.0
+- pkg:composer/php-standard-library/unix@6.1.1

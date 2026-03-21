@@ -1,1 +1,3 @@
 - pkg:composer/quellabs/canvas-payments-multisafepay@1.0.0
+- pkg:composer/quellabs/canvas-payments-multisafepay@1.0.1
+- pkg:composer/quellabs/canvas-payments-multisafepay@1.0.2

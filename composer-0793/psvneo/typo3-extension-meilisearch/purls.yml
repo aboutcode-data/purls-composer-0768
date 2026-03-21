@@ -17,4 +17,5 @@
 - pkg:composer/psvneo/typo3-extension-meilisearch@0.7.0
 - pkg:composer/psvneo/typo3-extension-meilisearch@0.7.2
 - pkg:composer/psvneo/typo3-extension-meilisearch@0.7.3
+- pkg:composer/psvneo/typo3-extension-meilisearch@0.8.0
 - pkg:composer/psvneo/typo3-extension-meilisearch@0.9.0
