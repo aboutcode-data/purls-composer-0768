@@ -14,3 +14,4 @@
 - pkg:composer/genealabs/laravel-changelog@10.0.0
 - pkg:composer/genealabs/laravel-changelog@10.0.1
 - pkg:composer/genealabs/laravel-changelog@11.0
+- pkg:composer/genealabs/laravel-changelog@13.0.0
