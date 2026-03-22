@@ -12,3 +12,4 @@
 - pkg:composer/horde/css_parser@v2.0.0alpha3
 - pkg:composer/horde/css_parser@v2.0.0alpha4
 - pkg:composer/horde/css_parser@v2.0.0beta1
+- pkg:composer/horde/css_parser@v2.0.0beta4
