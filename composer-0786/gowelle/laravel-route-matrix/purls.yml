@@ -1,3 +1,5 @@
 - pkg:composer/gowelle/laravel-route-matrix@v1.1.0
 - pkg:composer/gowelle/laravel-route-matrix@v1.1.1
 - pkg:composer/gowelle/laravel-route-matrix@v1.2.0
+- pkg:composer/gowelle/laravel-route-matrix@v2.0.0
+- pkg:composer/gowelle/laravel-route-matrix@v2.0.1
