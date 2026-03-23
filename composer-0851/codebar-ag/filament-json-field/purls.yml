@@ -18,5 +18,9 @@
 - pkg:composer/codebar-ag/filament-json-field@v12.6.0
 - pkg:composer/codebar-ag/filament-json-field@v13.0
 - pkg:composer/codebar-ag/filament-json-field@v13.0.1
+- pkg:composer/codebar-ag/filament-json-field@v13.1.0
+- pkg:composer/codebar-ag/filament-json-field@v13.2.0
+- pkg:composer/codebar-ag/filament-json-field@v13.3.0
+- pkg:composer/codebar-ag/filament-json-field@v13.4.0
 - pkg:composer/codebar-ag/filament-json-field@v2.0
 - pkg:composer/codebar-ag/filament-json-field@v2.0.1
