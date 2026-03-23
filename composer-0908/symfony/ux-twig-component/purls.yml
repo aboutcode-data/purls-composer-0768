@@ -40,6 +40,7 @@
 - pkg:composer/symfony/ux-twig-component@v2.31.0
 - pkg:composer/symfony/ux-twig-component@v2.32.0
 - pkg:composer/symfony/ux-twig-component@v2.33.0
+- pkg:composer/symfony/ux-twig-component@v2.34.0
 - pkg:composer/symfony/ux-twig-component@v2.4.0
 - pkg:composer/symfony/ux-twig-component@v2.5.0
 - pkg:composer/symfony/ux-twig-component@v2.6.0
