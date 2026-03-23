@@ -1,1 +1,4 @@
 - pkg:composer/aiarmada/filament-authz@v1.0.0
+- pkg:composer/aiarmada/filament-authz@v1.0.1
+- pkg:composer/aiarmada/filament-authz@v1.0.2
+- pkg:composer/aiarmada/filament-authz@v13.0.1

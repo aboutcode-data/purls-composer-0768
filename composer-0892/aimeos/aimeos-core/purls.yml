@@ -423,3 +423,4 @@
 - pkg:composer/aimeos/aimeos-core@2025.07.1
 - pkg:composer/aimeos/aimeos-core@2025.10.1
 - pkg:composer/aimeos/aimeos-core@2025.10.2
+- pkg:composer/aimeos/aimeos-core@2025.10.3

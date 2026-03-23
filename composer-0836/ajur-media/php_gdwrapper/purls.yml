@@ -1,3 +1,4 @@
+- pkg:composer/ajur-media/php_gdwrapper@1.100.0
 - pkg:composer/ajur-media/php_gdwrapper@1.3.0
 - pkg:composer/ajur-media/php_gdwrapper@1.99.0
 - pkg:composer/ajur-media/php_gdwrapper@1.99.1
