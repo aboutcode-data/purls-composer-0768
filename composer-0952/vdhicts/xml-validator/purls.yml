@@ -1,3 +1,4 @@
 - pkg:composer/vdhicts/xml-validator@1.0.0
 - pkg:composer/vdhicts/xml-validator@2.0.0
 - pkg:composer/vdhicts/xml-validator@2.1.0
+- pkg:composer/vdhicts/xml-validator@v3.0.0

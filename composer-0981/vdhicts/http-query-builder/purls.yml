@@ -1,3 +1,4 @@
 - pkg:composer/vdhicts/http-query-builder@v1.0.0
 - pkg:composer/vdhicts/http-query-builder@v2.0.0
 - pkg:composer/vdhicts/http-query-builder@v2.0.1
+- pkg:composer/vdhicts/http-query-builder@v2.1.0

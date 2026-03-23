@@ -431,6 +431,7 @@
 - pkg:composer/vimeo/psalm@6.15.0
 - pkg:composer/vimeo/psalm@6.15.1
 - pkg:composer/vimeo/psalm@6.16.0
+- pkg:composer/vimeo/psalm@6.16.1
 - pkg:composer/vimeo/psalm@6.2.0
 - pkg:composer/vimeo/psalm@6.3.0
 - pkg:composer/vimeo/psalm@6.4.0
