@@ -4,6 +4,7 @@
 - pkg:composer/bentools/webpush-bundle@0.12
 - pkg:composer/bentools/webpush-bundle@0.13
 - pkg:composer/bentools/webpush-bundle@0.13.1
+- pkg:composer/bentools/webpush-bundle@0.14
 - pkg:composer/bentools/webpush-bundle@0.2
 - pkg:composer/bentools/webpush-bundle@0.2.1
 - pkg:composer/bentools/webpush-bundle@0.3

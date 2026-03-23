@@ -25,6 +25,7 @@
 - pkg:composer/backpack/newscrud@5.1.0
 - pkg:composer/backpack/newscrud@5.1.1
 - pkg:composer/backpack/newscrud@5.2.0
+- pkg:composer/backpack/newscrud@5.2.1
 - pkg:composer/backpack/newscrud@v3.0.3
 - pkg:composer/backpack/newscrud@v4.0.1
 - pkg:composer/backpack/newscrud@v4.0.2

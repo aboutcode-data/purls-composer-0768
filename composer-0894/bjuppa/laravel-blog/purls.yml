@@ -13,6 +13,8 @@
 - pkg:composer/bjuppa/laravel-blog@v1.1
 - pkg:composer/bjuppa/laravel-blog@v1.10.0
 - pkg:composer/bjuppa/laravel-blog@v1.11.0
+- pkg:composer/bjuppa/laravel-blog@v1.11.1
+- pkg:composer/bjuppa/laravel-blog@v1.11.2
 - pkg:composer/bjuppa/laravel-blog@v1.2
 - pkg:composer/bjuppa/laravel-blog@v1.3
 - pkg:composer/bjuppa/laravel-blog@v1.3.1

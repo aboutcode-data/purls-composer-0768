@@ -89,6 +89,10 @@
 - pkg:composer/basic-hub/es-core@3.0.72
 - pkg:composer/basic-hub/es-core@3.0.73
 - pkg:composer/basic-hub/es-core@3.0.75
+- pkg:composer/basic-hub/es-core@3.0.76
+- pkg:composer/basic-hub/es-core@3.0.77
+- pkg:composer/basic-hub/es-core@3.0.78
+- pkg:composer/basic-hub/es-core@3.0.79
 - pkg:composer/basic-hub/es-core@3.0.8
 - pkg:composer/basic-hub/es-core@3.0.9
 - pkg:composer/basic-hub/es-core@v1.0.0
