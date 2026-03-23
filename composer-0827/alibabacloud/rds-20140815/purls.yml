@@ -24,6 +24,8 @@
 - pkg:composer/alibabacloud/rds-20140815@13.5.0
 - pkg:composer/alibabacloud/rds-20140815@13.5.1
 - pkg:composer/alibabacloud/rds-20140815@13.6.0
+- pkg:composer/alibabacloud/rds-20140815@13.7.0
+- pkg:composer/alibabacloud/rds-20140815@13.7.1
 - pkg:composer/alibabacloud/rds-20140815@2.0.0
 - pkg:composer/alibabacloud/rds-20140815@2.0.1
 - pkg:composer/alibabacloud/rds-20140815@2.0.2

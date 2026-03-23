@@ -40,6 +40,7 @@
 - pkg:composer/augustash/ddev-drupal@1.1.35
 - pkg:composer/augustash/ddev-drupal@1.1.36
 - pkg:composer/augustash/ddev-drupal@1.1.37
+- pkg:composer/augustash/ddev-drupal@1.1.38
 - pkg:composer/augustash/ddev-drupal@1.1.4
 - pkg:composer/augustash/ddev-drupal@1.1.5
 - pkg:composer/augustash/ddev-drupal@1.1.6
