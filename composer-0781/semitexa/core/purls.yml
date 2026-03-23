@@ -1,6 +1,8 @@
 - pkg:composer/semitexa/core@1.1.0
 - pkg:composer/semitexa/core@1.1.1
 - pkg:composer/semitexa/core@1.1.45
+- pkg:composer/semitexa/core@1.1.56
+- pkg:composer/semitexa/core@1.1.58
 - pkg:composer/semitexa/core@2025.12.27-alpha
 - pkg:composer/semitexa/core@v1.0.0
 - pkg:composer/semitexa/core@v1.0.1

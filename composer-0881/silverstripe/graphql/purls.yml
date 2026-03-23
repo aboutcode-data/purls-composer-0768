@@ -132,6 +132,7 @@
 - pkg:composer/silverstripe/graphql@5.3.0-beta1
 - pkg:composer/silverstripe/graphql@5.3.0-rc1
 - pkg:composer/silverstripe/graphql@5.3.1
+- pkg:composer/silverstripe/graphql@5.3.2
 - pkg:composer/silverstripe/graphql@6.0.0
 - pkg:composer/silverstripe/graphql@6.0.0-alpha1
 - pkg:composer/silverstripe/graphql@6.0.0-beta1
@@ -139,3 +140,4 @@
 - pkg:composer/silverstripe/graphql@6.1.0
 - pkg:composer/silverstripe/graphql@6.1.0-beta1
 - pkg:composer/silverstripe/graphql@6.1.0-rc1
+- pkg:composer/silverstripe/graphql@6.1.1
