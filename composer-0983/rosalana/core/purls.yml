@@ -1,6 +1,10 @@
 - pkg:composer/rosalana/core@v0.1.0
 - pkg:composer/rosalana/core@v0.10.0
 - pkg:composer/rosalana/core@v0.10.1
+- pkg:composer/rosalana/core@v0.10.2
+- pkg:composer/rosalana/core@v0.10.3
+- pkg:composer/rosalana/core@v0.10.4
+- pkg:composer/rosalana/core@v0.10.5
 - pkg:composer/rosalana/core@v0.2.0
 - pkg:composer/rosalana/core@v0.2.1
 - pkg:composer/rosalana/core@v0.2.2
