@@ -10,6 +10,7 @@
 - pkg:composer/yajra/laravel-auditable@v12.0.0
 - pkg:composer/yajra/laravel-auditable@v12.0.1
 - pkg:composer/yajra/laravel-auditable@v12.0.2
+- pkg:composer/yajra/laravel-auditable@v13.0.0
 - pkg:composer/yajra/laravel-auditable@v2.0.0
 - pkg:composer/yajra/laravel-auditable@v2.0.1
 - pkg:composer/yajra/laravel-auditable@v3.0.0

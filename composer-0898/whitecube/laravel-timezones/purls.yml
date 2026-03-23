@@ -13,3 +13,4 @@
 - pkg:composer/whitecube/laravel-timezones@v1.2.3
 - pkg:composer/whitecube/laravel-timezones@v1.2.4
 - pkg:composer/whitecube/laravel-timezones@v1.3.0
+- pkg:composer/whitecube/laravel-timezones@v1.4.0

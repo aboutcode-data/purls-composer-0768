@@ -1,4 +1,6 @@
 - pkg:composer/wickedreports/api-core@0.1
+- pkg:composer/wickedreports/api-core@0.10
+- pkg:composer/wickedreports/api-core@0.11
 - pkg:composer/wickedreports/api-core@0.2
 - pkg:composer/wickedreports/api-core@0.2.1
 - pkg:composer/wickedreports/api-core@0.2.2

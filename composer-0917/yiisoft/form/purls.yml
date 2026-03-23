@@ -5,3 +5,4 @@
 - pkg:composer/yiisoft/form@1.4.0
 - pkg:composer/yiisoft/form@1.5.0
 - pkg:composer/yiisoft/form@1.5.1
+- pkg:composer/yiisoft/form@1.5.2

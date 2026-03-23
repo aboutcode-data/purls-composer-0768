@@ -11,6 +11,7 @@
 - pkg:composer/yajra/laravel-acl@v12.2.0
 - pkg:composer/yajra/laravel-acl@v12.3.0
 - pkg:composer/yajra/laravel-acl@v12.3.1
+- pkg:composer/yajra/laravel-acl@v13.0.0
 - pkg:composer/yajra/laravel-acl@v2.0.0
 - pkg:composer/yajra/laravel-acl@v2.0.1
 - pkg:composer/yajra/laravel-acl@v2.0.2

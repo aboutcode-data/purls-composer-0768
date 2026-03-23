@@ -8,3 +8,4 @@
 - pkg:composer/xcoorp/laravel-passport-control@v2.0.0-alpha.3
 - pkg:composer/xcoorp/laravel-passport-control@v2.0.0-alpha.4
 - pkg:composer/xcoorp/laravel-passport-control@v2.0.0-alpha.5
+- pkg:composer/xcoorp/laravel-passport-control@v2.0.1
