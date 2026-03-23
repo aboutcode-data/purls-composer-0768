@@ -2,6 +2,8 @@
 - pkg:composer/pmvc-plugin/controller@0.10.6
 - pkg:composer/pmvc-plugin/controller@0.11.0
 - pkg:composer/pmvc-plugin/controller@0.11.1
+- pkg:composer/pmvc-plugin/controller@0.12.0
+- pkg:composer/pmvc-plugin/controller@0.12.1
 - pkg:composer/pmvc-plugin/controller@0.2.21
 - pkg:composer/pmvc-plugin/controller@0.3.10
 - pkg:composer/pmvc-plugin/controller@0.3.6

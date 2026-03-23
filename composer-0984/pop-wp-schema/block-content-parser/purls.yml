@@ -77,6 +77,7 @@
 - pkg:composer/pop-wp-schema/block-content-parser@16.1.0
 - pkg:composer/pop-wp-schema/block-content-parser@17.0.0
 - pkg:composer/pop-wp-schema/block-content-parser@17.0.1
+- pkg:composer/pop-wp-schema/block-content-parser@17.1.0
 - pkg:composer/pop-wp-schema/block-content-parser@2.0.1
 - pkg:composer/pop-wp-schema/block-content-parser@2.1.0
 - pkg:composer/pop-wp-schema/block-content-parser@2.1.1

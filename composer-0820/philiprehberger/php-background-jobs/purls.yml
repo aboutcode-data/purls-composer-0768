@@ -1,3 +1,4 @@
 - pkg:composer/philiprehberger/php-background-jobs@v1.0.0
 - pkg:composer/philiprehberger/php-background-jobs@v1.0.1
 - pkg:composer/philiprehberger/php-background-jobs@v1.0.2
+- pkg:composer/philiprehberger/php-background-jobs@v1.1.0
