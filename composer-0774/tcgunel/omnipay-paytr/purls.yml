@@ -9,3 +9,4 @@
 - pkg:composer/tcgunel/omnipay-paytr@v1.0.8
 - pkg:composer/tcgunel/omnipay-paytr@v1.0.9
 - pkg:composer/tcgunel/omnipay-paytr@v2.0.0
+- pkg:composer/tcgunel/omnipay-paytr@v3.0.0
