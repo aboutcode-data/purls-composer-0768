@@ -28,6 +28,8 @@
 - pkg:composer/enzolarosa/translator@v1.12.1
 - pkg:composer/enzolarosa/translator@v1.12.2
 - pkg:composer/enzolarosa/translator@v1.13.00
+- pkg:composer/enzolarosa/translator@v1.13.1
+- pkg:composer/enzolarosa/translator@v1.13.2
 - pkg:composer/enzolarosa/translator@v1.2.0
 - pkg:composer/enzolarosa/translator@v1.3.0
 - pkg:composer/enzolarosa/translator@v1.5.0
