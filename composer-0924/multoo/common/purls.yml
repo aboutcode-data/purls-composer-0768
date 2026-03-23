@@ -14,3 +14,6 @@
 - pkg:composer/multoo/common@v1.4.4
 - pkg:composer/multoo/common@v1.5.0
 - pkg:composer/multoo/common@v1.5.1
+- pkg:composer/multoo/common@v1.6.0
+- pkg:composer/multoo/common@v1.7.0
+- pkg:composer/multoo/common@v1.8.0
