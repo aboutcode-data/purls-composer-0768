@@ -34,3 +34,4 @@
 - pkg:composer/rollerworks/search-symfony-validator@v2.0.0-BETA7
 - pkg:composer/rollerworks/search-symfony-validator@v2.0.0-BETA8
 - pkg:composer/rollerworks/search-symfony-validator@v2.0.0-BETA9
+- pkg:composer/rollerworks/search-symfony-validator@v2.0.0-RC1
