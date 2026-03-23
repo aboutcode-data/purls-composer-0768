@@ -64,3 +64,4 @@
 - pkg:composer/tempest/http-client@v3.4.1
 - pkg:composer/tempest/http-client@v3.5.0
 - pkg:composer/tempest/http-client@v3.6.0
+- pkg:composer/tempest/http-client@v3.6.1
