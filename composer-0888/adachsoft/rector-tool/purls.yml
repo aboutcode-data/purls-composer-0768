@@ -4,3 +4,4 @@
 - pkg:composer/adachsoft/rector-tool@0.2.1
 - pkg:composer/adachsoft/rector-tool@0.2.2
 - pkg:composer/adachsoft/rector-tool@0.2.3
+- pkg:composer/adachsoft/rector-tool@v0.3.0
