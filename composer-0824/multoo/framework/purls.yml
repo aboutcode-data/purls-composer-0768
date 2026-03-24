@@ -10,6 +10,8 @@
 - pkg:composer/multoo/framework@v10.0.4
 - pkg:composer/multoo/framework@v10.0.5
 - pkg:composer/multoo/framework@v11.0.0
+- pkg:composer/multoo/framework@v11.0.1
+- pkg:composer/multoo/framework@v11.1.0
 - pkg:composer/multoo/framework@v2.0.0
 - pkg:composer/multoo/framework@v2.4.1
 - pkg:composer/multoo/framework@v3.0.0

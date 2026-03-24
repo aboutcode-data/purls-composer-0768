@@ -32,3 +32,6 @@
 - pkg:composer/nasirkhan/module-manager@v5.6.0
 - pkg:composer/nasirkhan/module-manager@v5.7.0
 - pkg:composer/nasirkhan/module-manager@v6.0.0
+- pkg:composer/nasirkhan/module-manager@v6.1.0
+- pkg:composer/nasirkhan/module-manager@v6.2.0
+- pkg:composer/nasirkhan/module-manager@v6.3.0
