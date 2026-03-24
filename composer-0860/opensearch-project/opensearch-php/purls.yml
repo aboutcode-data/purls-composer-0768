@@ -18,3 +18,4 @@
 - pkg:composer/opensearch-project/opensearch-php@2.4.6
 - pkg:composer/opensearch-project/opensearch-php@2.5.0
 - pkg:composer/opensearch-project/opensearch-php@2.5.1
+- pkg:composer/opensearch-project/opensearch-php@2.6.0
