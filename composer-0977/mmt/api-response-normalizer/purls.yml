@@ -1,1 +1,2 @@
 - pkg:composer/mmt/api-response-normalizer@1.0.0
+- pkg:composer/mmt/api-response-normalizer@v1.1.2
