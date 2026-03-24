@@ -107,6 +107,7 @@
 - pkg:composer/pop-cms-schema/user-roles-wp@17.0.0
 - pkg:composer/pop-cms-schema/user-roles-wp@17.0.1
 - pkg:composer/pop-cms-schema/user-roles-wp@17.1.0
+- pkg:composer/pop-cms-schema/user-roles-wp@17.1.1
 - pkg:composer/pop-cms-schema/user-roles-wp@2.0.1
 - pkg:composer/pop-cms-schema/user-roles-wp@2.1.0
 - pkg:composer/pop-cms-schema/user-roles-wp@2.1.1
