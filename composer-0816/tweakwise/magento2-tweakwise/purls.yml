@@ -53,6 +53,7 @@
 - pkg:composer/tweakwise/magento2-tweakwise@v8.0.0
 - pkg:composer/tweakwise/magento2-tweakwise@v8.1.0
 - pkg:composer/tweakwise/magento2-tweakwise@v8.10.0
+- pkg:composer/tweakwise/magento2-tweakwise@v8.11.0
 - pkg:composer/tweakwise/magento2-tweakwise@v8.2.0
 - pkg:composer/tweakwise/magento2-tweakwise@v8.3.0
 - pkg:composer/tweakwise/magento2-tweakwise@v8.3.1

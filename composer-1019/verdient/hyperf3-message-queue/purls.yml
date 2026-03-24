@@ -1,1 +1,2 @@
 - pkg:composer/verdient/hyperf3-message-queue@2.0.0
+- pkg:composer/verdient/hyperf3-message-queue@2.0.1
