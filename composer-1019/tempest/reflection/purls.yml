@@ -66,3 +66,4 @@
 - pkg:composer/tempest/reflection@v3.6.1
 - pkg:composer/tempest/reflection@v3.6.2
 - pkg:composer/tempest/reflection@v3.6.3
+- pkg:composer/tempest/reflection@v3.7.0

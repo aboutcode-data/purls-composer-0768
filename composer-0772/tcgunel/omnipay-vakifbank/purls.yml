@@ -11,3 +11,5 @@
 - pkg:composer/tcgunel/omnipay-vakifbank@v2.0.0
 - pkg:composer/tcgunel/omnipay-vakifbank@v2.1.0
 - pkg:composer/tcgunel/omnipay-vakifbank@v3.0.0
+- pkg:composer/tcgunel/omnipay-vakifbank@v3.1.0
+- pkg:composer/tcgunel/omnipay-vakifbank@v3.1.1

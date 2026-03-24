@@ -21,3 +21,5 @@
 - pkg:composer/teltek/pumukit-opencast-bundle@4.0.0
 - pkg:composer/teltek/pumukit-opencast-bundle@4.0.1
 - pkg:composer/teltek/pumukit-opencast-bundle@5.0.0
+- pkg:composer/teltek/pumukit-opencast-bundle@5.0.1
+- pkg:composer/teltek/pumukit-opencast-bundle@5.0.2

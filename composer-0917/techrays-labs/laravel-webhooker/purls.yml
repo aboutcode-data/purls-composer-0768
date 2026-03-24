@@ -1,2 +1,4 @@
 - pkg:composer/techrays-labs/laravel-webhooker@0.1.0
 - pkg:composer/techrays-labs/laravel-webhooker@0.2.0
+- pkg:composer/techrays-labs/laravel-webhooker@0.2.1
+- pkg:composer/techrays-labs/laravel-webhooker@1.0.0
