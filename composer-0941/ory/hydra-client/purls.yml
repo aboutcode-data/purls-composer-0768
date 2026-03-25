@@ -44,3 +44,4 @@
 - pkg:composer/ory/hydra-client@v2.2.1
 - pkg:composer/ory/hydra-client@v2.4.0-alpha.1
 - pkg:composer/ory/hydra-client@v25.4.0
+- pkg:composer/ory/hydra-client@v26.2.0
