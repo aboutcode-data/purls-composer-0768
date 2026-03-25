@@ -33,6 +33,7 @@
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.39
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.4
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.40
+- pkg:composer/stitch-digital/simpro-php-sdk@0.0.41
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.5
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.6
 - pkg:composer/stitch-digital/simpro-php-sdk@0.0.7

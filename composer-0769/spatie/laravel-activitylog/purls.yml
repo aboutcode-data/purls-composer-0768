@@ -123,4 +123,5 @@
 - pkg:composer/spatie/laravel-activitylog@4.8.0
 - pkg:composer/spatie/laravel-activitylog@4.9.0
 - pkg:composer/spatie/laravel-activitylog@4.9.1
+- pkg:composer/spatie/laravel-activitylog@5.0.0
 - pkg:composer/spatie/laravel-activitylog@v1.16.0
