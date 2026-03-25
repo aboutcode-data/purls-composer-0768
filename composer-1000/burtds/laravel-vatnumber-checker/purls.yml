@@ -1,6 +1,7 @@
 - pkg:composer/burtds/laravel-vatnumber-checker@v1.0.0
 - pkg:composer/burtds/laravel-vatnumber-checker@v1.0.1
 - pkg:composer/burtds/laravel-vatnumber-checker@v1.0.10
+- pkg:composer/burtds/laravel-vatnumber-checker@v1.0.11
 - pkg:composer/burtds/laravel-vatnumber-checker@v1.0.2
 - pkg:composer/burtds/laravel-vatnumber-checker@v1.0.3
 - pkg:composer/burtds/laravel-vatnumber-checker@v1.0.4

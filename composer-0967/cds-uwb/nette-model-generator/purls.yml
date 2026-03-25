@@ -8,3 +8,5 @@
 - pkg:composer/cds-uwb/nette-model-generator@v0.3.3
 - pkg:composer/cds-uwb/nette-model-generator@v0.3.4
 - pkg:composer/cds-uwb/nette-model-generator@v0.3.5
+- pkg:composer/cds-uwb/nette-model-generator@v0.4.0
+- pkg:composer/cds-uwb/nette-model-generator@v0.4.1

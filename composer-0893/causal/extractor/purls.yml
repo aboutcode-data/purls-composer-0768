@@ -28,3 +28,5 @@
 - pkg:composer/causal/extractor@2.5.0
 - pkg:composer/causal/extractor@2.5.1
 - pkg:composer/causal/extractor@2.5.2
+- pkg:composer/causal/extractor@2.6.0
+- pkg:composer/causal/extractor@2.6.1
