@@ -71,3 +71,4 @@
 - pkg:composer/damienharper/doctrine-audit-bundle@7.0.1
 - pkg:composer/damienharper/doctrine-audit-bundle@7.1.0
 - pkg:composer/damienharper/doctrine-audit-bundle@7.2.0
+- pkg:composer/damienharper/doctrine-audit-bundle@7.2.1
