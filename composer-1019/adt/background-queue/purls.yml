@@ -187,3 +187,4 @@
 - pkg:composer/adt/background-queue@v5.1.2
 - pkg:composer/adt/background-queue@v5.2
 - pkg:composer/adt/background-queue@v5.2.1
+- pkg:composer/adt/background-queue@v5.3

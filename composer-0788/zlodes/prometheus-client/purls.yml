@@ -32,4 +32,3 @@
 - pkg:composer/zlodes/prometheus-client@2.0.4
 - pkg:composer/zlodes/prometheus-client@2.1.0
 - pkg:composer/zlodes/prometheus-client@2.2.0
-- pkg:composer/zlodes/prometheus-client@2.3.0
