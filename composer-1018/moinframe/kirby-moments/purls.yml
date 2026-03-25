@@ -3,6 +3,7 @@
 - pkg:composer/moinframe/kirby-moments@1.0.0-beta.4
 - pkg:composer/moinframe/kirby-moments@1.0.0-beta.5
 - pkg:composer/moinframe/kirby-moments@1.0.0-beta.6
+- pkg:composer/moinframe/kirby-moments@2.0.0
 - pkg:composer/moinframe/kirby-moments@2.0.0-beta.0
 - pkg:composer/moinframe/kirby-moments@2.0.0-beta.1
 - pkg:composer/moinframe/kirby-moments@2.0.0-beta.2
@@ -13,3 +14,4 @@
 - pkg:composer/moinframe/kirby-moments@2.0.0-beta.7
 - pkg:composer/moinframe/kirby-moments@2.0.0-beta.8
 - pkg:composer/moinframe/kirby-moments@2.0.0-beta.9
+- pkg:composer/moinframe/kirby-moments@2.0.1
