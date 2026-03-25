@@ -13,3 +13,4 @@
 - pkg:composer/shaffe/laravel-mail-log-channel@v2.6.0
 - pkg:composer/shaffe/laravel-mail-log-channel@v3.0.0
 - pkg:composer/shaffe/laravel-mail-log-channel@v3.0.1
+- pkg:composer/shaffe/laravel-mail-log-channel@v3.0.2
