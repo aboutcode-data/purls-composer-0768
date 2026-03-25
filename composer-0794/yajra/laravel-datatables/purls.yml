@@ -8,4 +8,5 @@
 - pkg:composer/yajra/laravel-datatables@v10.1.0
 - pkg:composer/yajra/laravel-datatables@v11.0.0
 - pkg:composer/yajra/laravel-datatables@v12.0.0
+- pkg:composer/yajra/laravel-datatables@v13.0.0
 - pkg:composer/yajra/laravel-datatables@v9.0.0
