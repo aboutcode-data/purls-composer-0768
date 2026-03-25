@@ -34,3 +34,4 @@
 - pkg:composer/guava/calendar@3.0.0
 - pkg:composer/guava/calendar@3.0.1
 - pkg:composer/guava/calendar@3.0.2
+- pkg:composer/guava/calendar@3.1.0
