@@ -18,6 +18,7 @@
 - pkg:composer/flavorly/laravel-helpers@v0.13.11
 - pkg:composer/flavorly/laravel-helpers@v0.13.12
 - pkg:composer/flavorly/laravel-helpers@v0.13.13
+- pkg:composer/flavorly/laravel-helpers@v0.13.14
 - pkg:composer/flavorly/laravel-helpers@v0.13.2
 - pkg:composer/flavorly/laravel-helpers@v0.13.3
 - pkg:composer/flavorly/laravel-helpers@v0.13.4

@@ -19,3 +19,5 @@
 - pkg:composer/farhanshares/laravel-mediaman@v1.0.0-rc1
 - pkg:composer/farhanshares/laravel-mediaman@v1.0.0-rc2
 - pkg:composer/farhanshares/laravel-mediaman@v1.0.1
+- pkg:composer/farhanshares/laravel-mediaman@v1.1.0
+- pkg:composer/farhanshares/laravel-mediaman@v1.2.0
