@@ -65,3 +65,4 @@
 - pkg:composer/doctrine/phpcr-odm@2.0.1
 - pkg:composer/doctrine/phpcr-odm@2.1.0
 - pkg:composer/doctrine/phpcr-odm@2.1.1
+- pkg:composer/doctrine/phpcr-odm@3.0.0
