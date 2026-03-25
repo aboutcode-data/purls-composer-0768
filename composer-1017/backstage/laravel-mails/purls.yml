@@ -122,3 +122,4 @@
 - pkg:composer/backstage/laravel-mails@v2.0.9
 - pkg:composer/backstage/laravel-mails@v2.1.0
 - pkg:composer/backstage/laravel-mails@v2.2.0
+- pkg:composer/backstage/laravel-mails@v2.3.0
