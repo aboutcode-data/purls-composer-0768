@@ -2,3 +2,4 @@
 - pkg:composer/b2brouter/b2brouter-php@v0.9.1
 - pkg:composer/b2brouter/b2brouter-php@v1.0.0
 - pkg:composer/b2brouter/b2brouter-php@v1.1.0
+- pkg:composer/b2brouter/b2brouter-php@v1.2.0
