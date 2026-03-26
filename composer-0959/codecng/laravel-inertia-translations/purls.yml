@@ -1,3 +1,5 @@
+- pkg:composer/codecng/laravel-inertia-translations@1.2.0
+- pkg:composer/codecng/laravel-inertia-translations@1.2.1
 - pkg:composer/codecng/laravel-inertia-translations@v1.0.0
 - pkg:composer/codecng/laravel-inertia-translations@v1.0.1
 - pkg:composer/codecng/laravel-inertia-translations@v1.1.0
