@@ -111,6 +111,8 @@
 - pkg:composer/aoe/restler@12.0.6
 - pkg:composer/aoe/restler@12.1.0
 - pkg:composer/aoe/restler@12.1.1
+- pkg:composer/aoe/restler@12.2.0
+- pkg:composer/aoe/restler@12.2.1
 - pkg:composer/aoe/restler@2.0.0
 - pkg:composer/aoe/restler@2.0.1
 - pkg:composer/aoe/restler@2.0.2

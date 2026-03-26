@@ -8,6 +8,7 @@
 - pkg:composer/anourvalar/http-client@1.10.12
 - pkg:composer/anourvalar/http-client@1.10.13
 - pkg:composer/anourvalar/http-client@1.10.14
+- pkg:composer/anourvalar/http-client@1.10.15
 - pkg:composer/anourvalar/http-client@1.10.2
 - pkg:composer/anourvalar/http-client@1.10.3
 - pkg:composer/anourvalar/http-client@1.10.4
