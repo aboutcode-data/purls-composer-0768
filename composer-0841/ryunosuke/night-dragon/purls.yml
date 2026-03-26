@@ -26,6 +26,7 @@
 - pkg:composer/ryunosuke/night-dragon@v1.2.7
 - pkg:composer/ryunosuke/night-dragon@v1.2.8
 - pkg:composer/ryunosuke/night-dragon@v1.2.9
+- pkg:composer/ryunosuke/night-dragon@v1.3.0
 - pkg:composer/ryunosuke/night-dragon@v2.0.0
 - pkg:composer/ryunosuke/night-dragon@v2.0.1
 - pkg:composer/ryunosuke/night-dragon@v2.0.2
@@ -34,3 +35,4 @@
 - pkg:composer/ryunosuke/night-dragon@v2.0.5
 - pkg:composer/ryunosuke/night-dragon@v2.0.6
 - pkg:composer/ryunosuke/night-dragon@v2.0.7
+- pkg:composer/ryunosuke/night-dragon@v2.1.0
