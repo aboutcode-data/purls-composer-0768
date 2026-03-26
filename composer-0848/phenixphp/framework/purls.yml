@@ -14,3 +14,5 @@
 - pkg:composer/phenixphp/framework@0.6.0
 - pkg:composer/phenixphp/framework@0.7.0
 - pkg:composer/phenixphp/framework@0.8.0
+- pkg:composer/phenixphp/framework@0.8.1
+- pkg:composer/phenixphp/framework@0.8.2
