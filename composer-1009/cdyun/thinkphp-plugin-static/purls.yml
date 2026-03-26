@@ -1,3 +1,4 @@
 - pkg:composer/cdyun/thinkphp-plugin-static@v1.0.0
 - pkg:composer/cdyun/thinkphp-plugin-static@v1.0.1
 - pkg:composer/cdyun/thinkphp-plugin-static@v1.0.2
+- pkg:composer/cdyun/thinkphp-plugin-static@v1.0.3
