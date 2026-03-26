@@ -21,3 +21,4 @@
 - pkg:composer/wp-cli/wp-config-transformer@v1.4.2
 - pkg:composer/wp-cli/wp-config-transformer@v1.4.3
 - pkg:composer/wp-cli/wp-config-transformer@v1.4.4
+- pkg:composer/wp-cli/wp-config-transformer@v1.4.5
