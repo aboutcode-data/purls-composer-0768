@@ -27,6 +27,7 @@
 - pkg:composer/symfonycasts/reset-password-bundle@v1.23.1
 - pkg:composer/symfonycasts/reset-password-bundle@v1.23.2
 - pkg:composer/symfonycasts/reset-password-bundle@v1.24.0
+- pkg:composer/symfonycasts/reset-password-bundle@v1.25.0
 - pkg:composer/symfonycasts/reset-password-bundle@v1.3.0
 - pkg:composer/symfonycasts/reset-password-bundle@v1.4.0
 - pkg:composer/symfonycasts/reset-password-bundle@v1.5.0
