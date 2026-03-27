@@ -1,3 +1,4 @@
+- pkg:composer/backstage/laravel-users@2.0.0-beta3
 - pkg:composer/backstage/laravel-users@v0.0.1
 - pkg:composer/backstage/laravel-users@v0.0.10
 - pkg:composer/backstage/laravel-users@v0.0.11
@@ -109,7 +110,6 @@
 - pkg:composer/backstage/laravel-users@v2.0.0-beta27
 - pkg:composer/backstage/laravel-users@v2.0.0-beta28
 - pkg:composer/backstage/laravel-users@v2.0.0-beta29
-- pkg:composer/backstage/laravel-users@v2.0.0-beta3
 - pkg:composer/backstage/laravel-users@v2.0.0-beta30
 - pkg:composer/backstage/laravel-users@v2.0.0-beta31
 - pkg:composer/backstage/laravel-users@v2.0.0-beta32
@@ -201,3 +201,5 @@
 - pkg:composer/backstage/laravel-users@v2.0.7
 - pkg:composer/backstage/laravel-users@v2.0.8
 - pkg:composer/backstage/laravel-users@v2.0.9
+- pkg:composer/backstage/laravel-users@v4.0.0
+- pkg:composer/backstage/laravel-users@v4.0.1

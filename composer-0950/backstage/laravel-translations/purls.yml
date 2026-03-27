@@ -1,3 +1,4 @@
+- pkg:composer/backstage/laravel-translations@2.0.0-beta3
 - pkg:composer/backstage/laravel-translations@v0.1.0
 - pkg:composer/backstage/laravel-translations@v0.1.1
 - pkg:composer/backstage/laravel-translations@v0.1.10
@@ -146,7 +147,6 @@
 - pkg:composer/backstage/laravel-translations@v2.0.0-beta27
 - pkg:composer/backstage/laravel-translations@v2.0.0-beta28
 - pkg:composer/backstage/laravel-translations@v2.0.0-beta29
-- pkg:composer/backstage/laravel-translations@v2.0.0-beta3
 - pkg:composer/backstage/laravel-translations@v2.0.0-beta30
 - pkg:composer/backstage/laravel-translations@v2.0.0-beta31
 - pkg:composer/backstage/laravel-translations@v2.0.0-beta32
@@ -238,3 +238,5 @@
 - pkg:composer/backstage/laravel-translations@v2.0.7
 - pkg:composer/backstage/laravel-translations@v2.0.8
 - pkg:composer/backstage/laravel-translations@v2.0.9
+- pkg:composer/backstage/laravel-translations@v4.0.0
+- pkg:composer/backstage/laravel-translations@v4.0.1
