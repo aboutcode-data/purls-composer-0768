@@ -125,5 +125,12 @@
 - pkg:composer/backstage/laravel-mails@v2.3.0
 - pkg:composer/backstage/laravel-mails@v3.0.0
 - pkg:composer/backstage/laravel-mails@v3.0.1
+- pkg:composer/backstage/laravel-mails@v3.0.10
+- pkg:composer/backstage/laravel-mails@v3.0.11
+- pkg:composer/backstage/laravel-mails@v3.0.12
+- pkg:composer/backstage/laravel-mails@v3.0.13
+- pkg:composer/backstage/laravel-mails@v3.0.14
 - pkg:composer/backstage/laravel-mails@v3.0.2
 - pkg:composer/backstage/laravel-mails@v3.0.3
+- pkg:composer/backstage/laravel-mails@v3.0.8
+- pkg:composer/backstage/laravel-mails@v3.0.9
