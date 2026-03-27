@@ -45,6 +45,7 @@
 - pkg:composer/wp-cli/core-command@v2.1.24
 - pkg:composer/wp-cli/core-command@v2.1.25
 - pkg:composer/wp-cli/core-command@v2.1.26
+- pkg:composer/wp-cli/core-command@v2.1.27
 - pkg:composer/wp-cli/core-command@v2.1.3
 - pkg:composer/wp-cli/core-command@v2.1.4
 - pkg:composer/wp-cli/core-command@v2.1.5
