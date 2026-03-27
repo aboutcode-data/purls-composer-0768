@@ -1,5 +1,6 @@
 - pkg:composer/alloy/pyrite@1.0
 - pkg:composer/alloy/pyrite@1.0.1
+- pkg:composer/alloy/pyrite@1.0.10
 - pkg:composer/alloy/pyrite@1.0.2
 - pkg:composer/alloy/pyrite@1.0.3
 - pkg:composer/alloy/pyrite@1.0.4

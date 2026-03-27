@@ -338,3 +338,5 @@
 - pkg:composer/andrevanzuydam/tina4php@v3.8.3
 - pkg:composer/andrevanzuydam/tina4php@v3.8.7
 - pkg:composer/andrevanzuydam/tina4php@v3.9.0
+- pkg:composer/andrevanzuydam/tina4php@v3.9.1
+- pkg:composer/andrevanzuydam/tina4php@v3.9.2
