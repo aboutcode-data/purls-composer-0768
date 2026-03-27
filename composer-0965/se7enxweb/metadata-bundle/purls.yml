@@ -1,6 +1,8 @@
 - pkg:composer/se7enxweb/metadata-bundle@2.0.0
 - pkg:composer/se7enxweb/metadata-bundle@2.0.1
 - pkg:composer/se7enxweb/metadata-bundle@3.0.0
+- pkg:composer/se7enxweb/metadata-bundle@3.3.1
+- pkg:composer/se7enxweb/metadata-bundle@3.3.2
 - pkg:composer/se7enxweb/metadata-bundle@4.0.0
 - pkg:composer/se7enxweb/metadata-bundle@v3.0.1
 - pkg:composer/se7enxweb/metadata-bundle@v3.0.2
