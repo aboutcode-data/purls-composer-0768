@@ -11,6 +11,7 @@
 - pkg:composer/solcre/solcre-email-schedule@3.4.4
 - pkg:composer/solcre/solcre-email-schedule@3.4.5
 - pkg:composer/solcre/solcre-email-schedule@3.4.6
+- pkg:composer/solcre/solcre-email-schedule@3.4.7
 - pkg:composer/solcre/solcre-email-schedule@4.0.0
 - pkg:composer/solcre/solcre-email-schedule@4.1.0
 - pkg:composer/solcre/solcre-email-schedule@4.2.0
