@@ -7,4 +7,6 @@
 - pkg:composer/epolabs/boundly@v0.5.3-alpha
 - pkg:composer/epolabs/boundly@v0.5.4-alpha
 - pkg:composer/epolabs/boundly@v0.6.0-alpha
-- pkg:composer/epolabs/boundly@v0.9.0
+- pkg:composer/epolabs/boundly@v0.9.0-alpha
+- pkg:composer/epolabs/boundly@v0.9.1
+- pkg:composer/epolabs/boundly@v0.9.1-alpha
