@@ -14,5 +14,6 @@
 - pkg:composer/buzztech/boi-backend@0.3.6
 - pkg:composer/buzztech/boi-backend@0.3.8
 - pkg:composer/buzztech/boi-backend@0.3.9
+- pkg:composer/buzztech/boi-backend@0.4.0
 - pkg:composer/buzztech/boi-backend@v0.1.0
 - pkg:composer/buzztech/boi-backend@v0.2.0
