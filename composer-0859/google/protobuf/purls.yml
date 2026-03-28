@@ -112,6 +112,7 @@
 - pkg:composer/google/protobuf@v3.25.6
 - pkg:composer/google/protobuf@v3.25.7
 - pkg:composer/google/protobuf@v3.25.8
+- pkg:composer/google/protobuf@v3.25.9
 - pkg:composer/google/protobuf@v3.3.0
 - pkg:composer/google/protobuf@v3.3.0rc1
 - pkg:composer/google/protobuf@v3.3.1
