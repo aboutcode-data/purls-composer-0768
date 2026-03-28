@@ -76,6 +76,7 @@
 - pkg:composer/alibabacloud/polardb-20170801@6.1.8
 - pkg:composer/alibabacloud/polardb-20170801@6.1.9
 - pkg:composer/alibabacloud/polardb-20170801@6.10.0
+- pkg:composer/alibabacloud/polardb-20170801@6.10.1
 - pkg:composer/alibabacloud/polardb-20170801@6.2.0
 - pkg:composer/alibabacloud/polardb-20170801@6.2.1
 - pkg:composer/alibabacloud/polardb-20170801@6.2.2
