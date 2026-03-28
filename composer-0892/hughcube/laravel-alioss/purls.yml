@@ -24,3 +24,7 @@
 - pkg:composer/hughcube/laravel-alioss@v1.3.0
 - pkg:composer/hughcube/laravel-alioss@v1.3.1
 - pkg:composer/hughcube/laravel-alioss@v1.4.0
+- pkg:composer/hughcube/laravel-alioss@v2.0.0
+- pkg:composer/hughcube/laravel-alioss@v2.1.0
+- pkg:composer/hughcube/laravel-alioss@v2.1.1
+- pkg:composer/hughcube/laravel-alioss@v2.2.0
