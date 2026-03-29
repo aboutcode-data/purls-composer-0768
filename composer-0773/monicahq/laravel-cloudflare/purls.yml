@@ -26,3 +26,4 @@
 - pkg:composer/monicahq/laravel-cloudflare@3.7.1
 - pkg:composer/monicahq/laravel-cloudflare@3.8.0
 - pkg:composer/monicahq/laravel-cloudflare@4.0.0
+- pkg:composer/monicahq/laravel-cloudflare@4.1.0

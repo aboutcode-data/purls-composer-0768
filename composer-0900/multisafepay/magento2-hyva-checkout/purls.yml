@@ -9,3 +9,4 @@
 - pkg:composer/multisafepay/magento2-hyva-checkout@2.5.0
 - pkg:composer/multisafepay/magento2-hyva-checkout@2.6.0
 - pkg:composer/multisafepay/magento2-hyva-checkout@3.0.0
+- pkg:composer/multisafepay/magento2-hyva-checkout@3.0.1
