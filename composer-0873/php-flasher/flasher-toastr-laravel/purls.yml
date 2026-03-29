@@ -129,3 +129,4 @@
 - pkg:composer/php-flasher/flasher-toastr-laravel@v2.3.0
 - pkg:composer/php-flasher/flasher-toastr-laravel@v2.4.0
 - pkg:composer/php-flasher/flasher-toastr-laravel@v2.5.0
+- pkg:composer/php-flasher/flasher-toastr-laravel@v2.5.1

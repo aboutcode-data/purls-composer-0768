@@ -1,0 +1,7 @@
+- pkg:composer/php-opcua/opcua-client@v1.0.0
+- pkg:composer/php-opcua/opcua-client@v1.0.1
+- pkg:composer/php-opcua/opcua-client@v1.1.0
+- pkg:composer/php-opcua/opcua-client@v1.1.1
+- pkg:composer/php-opcua/opcua-client@v2.0.0
+- pkg:composer/php-opcua/opcua-client@v3.0.0
+- pkg:composer/php-opcua/opcua-client@v4.0.0
