@@ -6,6 +6,10 @@
 - pkg:composer/markwalet/laravel-git-state@v1.0.5
 - pkg:composer/markwalet/laravel-git-state@v1.0.6
 - pkg:composer/markwalet/laravel-git-state@v1.1.0
+- pkg:composer/markwalet/laravel-git-state@v1.10.0
+- pkg:composer/markwalet/laravel-git-state@v1.11.0
+- pkg:composer/markwalet/laravel-git-state@v1.11.1
+- pkg:composer/markwalet/laravel-git-state@v1.11.2
 - pkg:composer/markwalet/laravel-git-state@v1.2.0
 - pkg:composer/markwalet/laravel-git-state@v1.3.0
 - pkg:composer/markwalet/laravel-git-state@v1.4.0

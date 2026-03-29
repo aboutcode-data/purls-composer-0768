@@ -11,6 +11,9 @@
 - pkg:composer/megaads/sitemap-generator@1.5.20
 - pkg:composer/megaads/sitemap-generator@1.5.21
 - pkg:composer/megaads/sitemap-generator@1.5.22
+- pkg:composer/megaads/sitemap-generator@1.5.23
+- pkg:composer/megaads/sitemap-generator@1.5.24
+- pkg:composer/megaads/sitemap-generator@1.5.25
 - pkg:composer/megaads/sitemap-generator@v1.0.1
 - pkg:composer/megaads/sitemap-generator@v1.0.2
 - pkg:composer/megaads/sitemap-generator@v1.0.4

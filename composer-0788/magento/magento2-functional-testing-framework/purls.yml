@@ -67,6 +67,7 @@
 - pkg:composer/magento/magento2-functional-testing-framework@3.13.2
 - pkg:composer/magento/magento2-functional-testing-framework@3.13.3
 - pkg:composer/magento/magento2-functional-testing-framework@3.13.4
+- pkg:composer/magento/magento2-functional-testing-framework@3.13.5
 - pkg:composer/magento/magento2-functional-testing-framework@3.2.0
 - pkg:composer/magento/magento2-functional-testing-framework@3.2.1
 - pkg:composer/magento/magento2-functional-testing-framework@3.3.0
@@ -91,6 +92,7 @@
 - pkg:composer/magento/magento2-functional-testing-framework@4.3.10
 - pkg:composer/magento/magento2-functional-testing-framework@4.3.11
 - pkg:composer/magento/magento2-functional-testing-framework@4.3.12
+- pkg:composer/magento/magento2-functional-testing-framework@4.3.13
 - pkg:composer/magento/magento2-functional-testing-framework@4.3.2
 - pkg:composer/magento/magento2-functional-testing-framework@4.3.3
 - pkg:composer/magento/magento2-functional-testing-framework@4.3.4
@@ -110,6 +112,7 @@
 - pkg:composer/magento/magento2-functional-testing-framework@4.7.3
 - pkg:composer/magento/magento2-functional-testing-framework@4.7.4
 - pkg:composer/magento/magento2-functional-testing-framework@4.7.5
+- pkg:composer/magento/magento2-functional-testing-framework@4.7.6
 - pkg:composer/magento/magento2-functional-testing-framework@4.8.0
 - pkg:composer/magento/magento2-functional-testing-framework@4.8.1
 - pkg:composer/magento/magento2-functional-testing-framework@4.8.2

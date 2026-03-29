@@ -16,3 +16,4 @@
 - pkg:composer/metarush/data-mapper@v1.7.1
 - pkg:composer/metarush/data-mapper@v1.7.2
 - pkg:composer/metarush/data-mapper@v1.7.3
+- pkg:composer/metarush/data-mapper@v2.0.0
