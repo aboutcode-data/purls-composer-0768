@@ -2,6 +2,7 @@
 - pkg:composer/konekt/html@6.5.1
 - pkg:composer/konekt/html@6.6.0
 - pkg:composer/konekt/html@6.7.0
+- pkg:composer/konekt/html@6.8.0
 - pkg:composer/konekt/html@v5.0.0
 - pkg:composer/konekt/html@v5.0.1
 - pkg:composer/konekt/html@v5.0.2

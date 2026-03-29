@@ -47,6 +47,7 @@
 - pkg:composer/kitware/cdash@v3.9.0
 - pkg:composer/kitware/cdash@v4.0.0
 - pkg:composer/kitware/cdash@v4.1.0
+- pkg:composer/kitware/cdash@v4.10.0
 - pkg:composer/kitware/cdash@v4.2.0
 - pkg:composer/kitware/cdash@v4.3.0
 - pkg:composer/kitware/cdash@v4.4.0

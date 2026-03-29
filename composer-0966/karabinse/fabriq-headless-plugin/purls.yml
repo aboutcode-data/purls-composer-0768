@@ -5,3 +5,6 @@
 - pkg:composer/karabinse/fabriq-headless-plugin@1.4.0
 - pkg:composer/karabinse/fabriq-headless-plugin@1.5.0
 - pkg:composer/karabinse/fabriq-headless-plugin@1.6.0
+- pkg:composer/karabinse/fabriq-headless-plugin@1.7.0
+- pkg:composer/karabinse/fabriq-headless-plugin@2.0.0
+- pkg:composer/karabinse/fabriq-headless-plugin@2.0.1
