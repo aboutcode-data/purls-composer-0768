@@ -5,3 +5,5 @@
 - pkg:composer/helgesverre/pest-to-phpunit@v0.0.5
 - pkg:composer/helgesverre/pest-to-phpunit@v0.0.6
 - pkg:composer/helgesverre/pest-to-phpunit@v0.0.7
+- pkg:composer/helgesverre/pest-to-phpunit@v0.0.8
+- pkg:composer/helgesverre/pest-to-phpunit@v0.0.9
