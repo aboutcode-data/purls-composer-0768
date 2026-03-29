@@ -24,3 +24,4 @@
 - pkg:composer/open-telemetry/contrib-aws@1.0.0beta7
 - pkg:composer/open-telemetry/contrib-aws@1.0.0beta8
 - pkg:composer/open-telemetry/contrib-aws@1.0.0beta9
+- pkg:composer/open-telemetry/contrib-aws@1.1.0

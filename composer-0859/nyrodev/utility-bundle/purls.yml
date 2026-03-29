@@ -41,6 +41,7 @@
 - pkg:composer/nyrodev/utility-bundle@v5.4
 - pkg:composer/nyrodev/utility-bundle@v5.5
 - pkg:composer/nyrodev/utility-bundle@v5.6
+- pkg:composer/nyrodev/utility-bundle@v5.7
 - pkg:composer/nyrodev/utility-bundle@v6.0
 - pkg:composer/nyrodev/utility-bundle@v6.1
 - pkg:composer/nyrodev/utility-bundle@v6.2

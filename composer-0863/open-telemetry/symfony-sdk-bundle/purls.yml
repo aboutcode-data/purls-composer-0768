@@ -12,3 +12,4 @@
 - pkg:composer/open-telemetry/symfony-sdk-bundle@0.0.27
 - pkg:composer/open-telemetry/symfony-sdk-bundle@0.0.28
 - pkg:composer/open-telemetry/symfony-sdk-bundle@0.1.0
+- pkg:composer/open-telemetry/symfony-sdk-bundle@0.2.0

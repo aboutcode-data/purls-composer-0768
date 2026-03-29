@@ -4,3 +4,4 @@
 - pkg:composer/open-telemetry/opentelemetry-auto-ext-amqp@0.0.4
 - pkg:composer/open-telemetry/opentelemetry-auto-ext-amqp@0.0.5
 - pkg:composer/open-telemetry/opentelemetry-auto-ext-amqp@0.0.6
+- pkg:composer/open-telemetry/opentelemetry-auto-ext-amqp@0.0.7
