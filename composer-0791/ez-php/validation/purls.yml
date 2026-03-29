@@ -21,3 +21,6 @@
 - pkg:composer/ez-php/validation@0.9.3
 - pkg:composer/ez-php/validation@1.0.0
 - pkg:composer/ez-php/validation@1.0.1
+- pkg:composer/ez-php/validation@1.1.0
+- pkg:composer/ez-php/validation@1.1.1
+- pkg:composer/ez-php/validation@1.2.0

@@ -13,8 +13,5 @@
 - pkg:composer/fabiodoppio/mvc@2.31
 - pkg:composer/fabiodoppio/mvc@2.32
 - pkg:composer/fabiodoppio/mvc@3.0
-- pkg:composer/fabiodoppio/mvc@3.01
-- pkg:composer/fabiodoppio/mvc@3.02
-- pkg:composer/fabiodoppio/mvc@3.03
-- pkg:composer/fabiodoppio/mvc@3.04
 - pkg:composer/fabiodoppio/mvc@3.1
+- pkg:composer/fabiodoppio/mvc@3.2

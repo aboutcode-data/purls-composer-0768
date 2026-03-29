@@ -22,3 +22,6 @@
 - pkg:composer/ez-php/docker@0.9.3
 - pkg:composer/ez-php/docker@1.0.0
 - pkg:composer/ez-php/docker@1.0.1
+- pkg:composer/ez-php/docker@1.1.0
+- pkg:composer/ez-php/docker@1.1.1
+- pkg:composer/ez-php/docker@1.2.0
