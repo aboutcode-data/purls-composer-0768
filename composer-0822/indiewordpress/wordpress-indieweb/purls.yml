@@ -33,3 +33,5 @@
 - pkg:composer/indiewordpress/wordpress-indieweb@4.0.4
 - pkg:composer/indiewordpress/wordpress-indieweb@4.0.5
 - pkg:composer/indiewordpress/wordpress-indieweb@5.0.0
+- pkg:composer/indiewordpress/wordpress-indieweb@5.1.0
+- pkg:composer/indiewordpress/wordpress-indieweb@5.1.1

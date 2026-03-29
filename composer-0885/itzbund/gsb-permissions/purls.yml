@@ -46,3 +46,5 @@
 - pkg:composer/itzbund/gsb-permissions@v1.5.1
 - pkg:composer/itzbund/gsb-permissions@v1.5.2
 - pkg:composer/itzbund/gsb-permissions@v1.5.2-rc.1
+- pkg:composer/itzbund/gsb-permissions@v1.5.3
+- pkg:composer/itzbund/gsb-permissions@v1.6.0-rc.1
