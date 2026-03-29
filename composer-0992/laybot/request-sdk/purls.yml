@@ -6,3 +6,10 @@
 - pkg:composer/laybot/request-sdk@v0.3.4
 - pkg:composer/laybot/request-sdk@v0.3.5
 - pkg:composer/laybot/request-sdk@v0.3.6
+- pkg:composer/laybot/request-sdk@v0.5.0
+- pkg:composer/laybot/request-sdk@v0.5.1
+- pkg:composer/laybot/request-sdk@v0.5.2
+- pkg:composer/laybot/request-sdk@v0.5.3
+- pkg:composer/laybot/request-sdk@v0.5.4
+- pkg:composer/laybot/request-sdk@v0.5.5
+- pkg:composer/laybot/request-sdk@v0.5.6

@@ -1,3 +1,4 @@
 - pkg:composer/laratusk/laravel-mailgun-multi@v4.0.0
 - pkg:composer/laratusk/laravel-mailgun-multi@v4.0.1
 - pkg:composer/laratusk/laravel-mailgun-multi@v4.1.0
+- pkg:composer/laratusk/laravel-mailgun-multi@v4.2.0

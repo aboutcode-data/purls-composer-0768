@@ -10,3 +10,5 @@
 - pkg:composer/lambdatt-php/bpm@v0.1.7
 - pkg:composer/lambdatt-php/bpm@v0.1.8
 - pkg:composer/lambdatt-php/bpm@v0.1.9
+- pkg:composer/lambdatt-php/bpm@v0.2.0
+- pkg:composer/lambdatt-php/bpm@v0.2.1
