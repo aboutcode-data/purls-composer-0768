@@ -16,3 +16,4 @@
 - pkg:composer/ez-php/rate-limiter@1.0.1
 - pkg:composer/ez-php/rate-limiter@1.1.0
 - pkg:composer/ez-php/rate-limiter@1.1.1
+- pkg:composer/ez-php/rate-limiter@1.2.0
