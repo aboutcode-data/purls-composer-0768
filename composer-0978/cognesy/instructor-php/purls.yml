@@ -190,3 +190,5 @@
 - pkg:composer/cognesy/instructor-php@v2.0.0
 - pkg:composer/cognesy/instructor-php@v2.1.0
 - pkg:composer/cognesy/instructor-php@v2.2.0
+- pkg:composer/cognesy/instructor-php@v2.3.0
+- pkg:composer/cognesy/instructor-php@v2.3.1

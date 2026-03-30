@@ -211,3 +211,5 @@
 - pkg:composer/condoedge/utils@v0.2.97
 - pkg:composer/condoedge/utils@v0.2.98
 - pkg:composer/condoedge/utils@v0.2.99
+- pkg:composer/condoedge/utils@v0.3.0
+- pkg:composer/condoedge/utils@v0.4.0
