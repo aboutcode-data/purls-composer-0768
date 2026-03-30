@@ -6,3 +6,4 @@
 - pkg:composer/edgetelemetrics/timebucket@v0.3.2
 - pkg:composer/edgetelemetrics/timebucket@v0.4
 - pkg:composer/edgetelemetrics/timebucket@v0.4.1
+- pkg:composer/edgetelemetrics/timebucket@v1.0.0
