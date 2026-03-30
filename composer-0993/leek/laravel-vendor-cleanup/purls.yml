@@ -1,1 +1,2 @@
+- pkg:composer/leek/laravel-vendor-cleanup@v0.10.0
 - pkg:composer/leek/laravel-vendor-cleanup@v0.9.0
