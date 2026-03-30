@@ -53,6 +53,8 @@
 - pkg:composer/gecche/laravel-multidomain@v11.2
 - pkg:composer/gecche/laravel-multidomain@v12.0
 - pkg:composer/gecche/laravel-multidomain@v12.1
+- pkg:composer/gecche/laravel-multidomain@v12.2
+- pkg:composer/gecche/laravel-multidomain@v13.0
 - pkg:composer/gecche/laravel-multidomain@v2.0
 - pkg:composer/gecche/laravel-multidomain@v2.1
 - pkg:composer/gecche/laravel-multidomain@v2.2
