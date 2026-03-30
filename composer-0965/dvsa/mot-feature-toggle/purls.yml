@@ -1,3 +1,4 @@
 - pkg:composer/dvsa/mot-feature-toggle@v1.0.0
 - pkg:composer/dvsa/mot-feature-toggle@v2.0.0
 - pkg:composer/dvsa/mot-feature-toggle@v3.0.0
+- pkg:composer/dvsa/mot-feature-toggle@v3.1.0
