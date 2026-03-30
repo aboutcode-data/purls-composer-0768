@@ -3,3 +3,7 @@
 - pkg:composer/nylo/laravel-nylo-auth@v1.2.0
 - pkg:composer/nylo/laravel-nylo-auth@v1.2.1
 - pkg:composer/nylo/laravel-nylo-auth@v1.3.0
+- pkg:composer/nylo/laravel-nylo-auth@v1.3.1
+- pkg:composer/nylo/laravel-nylo-auth@v1.3.2
+- pkg:composer/nylo/laravel-nylo-auth@v1.3.3
+- pkg:composer/nylo/laravel-nylo-auth@v2.0.0

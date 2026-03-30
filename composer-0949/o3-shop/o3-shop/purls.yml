@@ -1,3 +1,4 @@
+- pkg:composer/o3-shop/o3-shop@1.5.4-RC3
 - pkg:composer/o3-shop/o3-shop@v1.0
 - pkg:composer/o3-shop/o3-shop@v1.1
 - pkg:composer/o3-shop/o3-shop@v1.2
@@ -28,3 +29,4 @@
 - pkg:composer/o3-shop/o3-shop@v1.5.4-RC1
 - pkg:composer/o3-shop/o3-shop@v1.5.4-RC2
 - pkg:composer/o3-shop/o3-shop@v1.5.4-RC4
+- pkg:composer/o3-shop/o3-shop@v1.5.4-RC5
