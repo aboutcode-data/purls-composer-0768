@@ -11,3 +11,5 @@
 - pkg:composer/lyrasoft/backup@2.0.5
 - pkg:composer/lyrasoft/backup@2.0.6
 - pkg:composer/lyrasoft/backup@2.0.7
+- pkg:composer/lyrasoft/backup@2.0.8
+- pkg:composer/lyrasoft/backup@2.1.0
