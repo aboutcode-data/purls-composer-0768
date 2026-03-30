@@ -29,3 +29,4 @@
 - pkg:composer/myparcelcom/auth-module@v2.3.8
 - pkg:composer/myparcelcom/auth-module@v2.3.9
 - pkg:composer/myparcelcom/auth-module@v3.0.0
+- pkg:composer/myparcelcom/auth-module@v3.0.1

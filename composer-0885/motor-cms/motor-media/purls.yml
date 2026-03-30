@@ -108,6 +108,9 @@
 - pkg:composer/motor-cms/motor-media@2026.13.0-beta10
 - pkg:composer/motor-cms/motor-media@2026.13.1-beta10
 - pkg:composer/motor-cms/motor-media@2026.13.2-beta10
+- pkg:composer/motor-cms/motor-media@2026.14.0-beta0
+- pkg:composer/motor-cms/motor-media@2026.14.1-beta0
+- pkg:composer/motor-cms/motor-media@2026.14.2-beta0
 - pkg:composer/motor-cms/motor-media@2026.2.0
 - pkg:composer/motor-cms/motor-media@2026.4.0-RC
 - pkg:composer/motor-cms/motor-media@2026.4.1-RC
