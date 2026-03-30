@@ -1,3 +1,4 @@
 - pkg:composer/georgebent/mongodb-migrations-bundle@v1.0.0
 - pkg:composer/georgebent/mongodb-migrations-bundle@v1.0.1
 - pkg:composer/georgebent/mongodb-migrations-bundle@v1.1.0
+- pkg:composer/georgebent/mongodb-migrations-bundle@v1.2.0
