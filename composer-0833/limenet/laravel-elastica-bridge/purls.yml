@@ -16,3 +16,4 @@
 - pkg:composer/limenet/laravel-elastica-bridge@v1.9.0
 - pkg:composer/limenet/laravel-elastica-bridge@v2.0.0
 - pkg:composer/limenet/laravel-elastica-bridge@v2.0.0-beta.1
+- pkg:composer/limenet/laravel-elastica-bridge@v2.1.0
