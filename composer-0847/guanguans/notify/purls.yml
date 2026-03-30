@@ -81,6 +81,7 @@
 - pkg:composer/guanguans/notify@4.1.1
 - pkg:composer/guanguans/notify@5.0.0
 - pkg:composer/guanguans/notify@5.1.0
+- pkg:composer/guanguans/notify@5.2.0
 - pkg:composer/guanguans/notify@v1.0.0
 - pkg:composer/guanguans/notify@v1.0.1
 - pkg:composer/guanguans/notify@v1.0.2
