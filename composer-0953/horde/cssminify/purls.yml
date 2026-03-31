@@ -9,3 +9,5 @@
 - pkg:composer/horde/cssminify@v2.0.0beta1
 - pkg:composer/horde/cssminify@v2.0.0beta3
 - pkg:composer/horde/cssminify@v2.0.0beta4
+- pkg:composer/horde/cssminify@v2.0.0beta5
+- pkg:composer/horde/cssminify@v2.0.0beta6
