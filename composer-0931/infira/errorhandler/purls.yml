@@ -25,3 +25,5 @@
 - pkg:composer/infira/errorhandler@v2.1.1
 - pkg:composer/infira/errorhandler@v3.0
 - pkg:composer/infira/errorhandler@v3.1
+- pkg:composer/infira/errorhandler@v3.1.1
+- pkg:composer/infira/errorhandler@v3.1.2

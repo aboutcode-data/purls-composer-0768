@@ -1,3 +1,4 @@
 - pkg:composer/innis/nostr-relay@v0.1.0
 - pkg:composer/innis/nostr-relay@v0.1.1
 - pkg:composer/innis/nostr-relay@v0.1.2
+- pkg:composer/innis/nostr-relay@v0.1.3
