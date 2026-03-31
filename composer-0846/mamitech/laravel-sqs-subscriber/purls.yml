@@ -6,3 +6,4 @@
 - pkg:composer/mamitech/laravel-sqs-subscriber@v3.0
 - pkg:composer/mamitech/laravel-sqs-subscriber@v3.1
 - pkg:composer/mamitech/laravel-sqs-subscriber@v3.2
+- pkg:composer/mamitech/laravel-sqs-subscriber@v3.3
