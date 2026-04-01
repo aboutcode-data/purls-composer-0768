@@ -8,3 +8,4 @@
 - pkg:composer/pensopay/magento2-gateway@1.0.7
 - pkg:composer/pensopay/magento2-gateway@1.0.8
 - pkg:composer/pensopay/magento2-gateway@1.0.9
+- pkg:composer/pensopay/magento2-gateway@1.1.0

@@ -140,6 +140,7 @@
 - pkg:composer/pantheon-systems/cli@4.1.4
 - pkg:composer/pantheon-systems/cli@4.1.6
 - pkg:composer/pantheon-systems/cli@4.1.7
+- pkg:composer/pantheon-systems/cli@4.1.8
 - pkg:composer/pantheon-systems/cli@4.2.0-rc.1
 - pkg:composer/pantheon-systems/cli@v0.0.0-alpha
 - pkg:composer/pantheon-systems/cli@v3.0.0-alpha3

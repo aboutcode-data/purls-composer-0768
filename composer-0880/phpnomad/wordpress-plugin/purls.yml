@@ -1,1 +1,2 @@
 - pkg:composer/phpnomad/wordpress-plugin@1.0.0
+- pkg:composer/phpnomad/wordpress-plugin@2.0.0
