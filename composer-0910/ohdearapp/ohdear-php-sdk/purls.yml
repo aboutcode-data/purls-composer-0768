@@ -57,3 +57,4 @@
 - pkg:composer/ohdearapp/ohdear-php-sdk@4.4.2
 - pkg:composer/ohdearapp/ohdear-php-sdk@4.4.3
 - pkg:composer/ohdearapp/ohdear-php-sdk@4.6.0
+- pkg:composer/ohdearapp/ohdear-php-sdk@4.7.0

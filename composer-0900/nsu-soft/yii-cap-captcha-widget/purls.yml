@@ -1,3 +1,4 @@
+- pkg:composer/nsu-soft/yii-cap-captcha-widget@1.0
 - pkg:composer/nsu-soft/yii-cap-captcha-widget@1.0-alpha
 - pkg:composer/nsu-soft/yii-cap-captcha-widget@1.0-beta
 - pkg:composer/nsu-soft/yii-cap-captcha-widget@1.0-rc1
