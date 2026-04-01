@@ -14,3 +14,4 @@
 - pkg:composer/horde/css_parser@v2.0.0beta1
 - pkg:composer/horde/css_parser@v2.0.0beta4
 - pkg:composer/horde/css_parser@v2.0.0beta5
+- pkg:composer/horde/css_parser@v2.0.0beta6
