@@ -21,3 +21,4 @@
 - pkg:composer/matomo/referrer-spam-list@4.0.1
 - pkg:composer/matomo/referrer-spam-list@4.0.2
 - pkg:composer/matomo/referrer-spam-list@4.0.3
+- pkg:composer/matomo/referrer-spam-list@4.0.4
