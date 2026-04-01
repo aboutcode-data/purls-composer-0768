@@ -25,6 +25,7 @@
 - pkg:composer/eventjet/coding-standard@3.16.0
 - pkg:composer/eventjet/coding-standard@3.17.0
 - pkg:composer/eventjet/coding-standard@3.18.0
+- pkg:composer/eventjet/coding-standard@3.18.1
 - pkg:composer/eventjet/coding-standard@3.2.0
 - pkg:composer/eventjet/coding-standard@3.3.0
 - pkg:composer/eventjet/coding-standard@3.4.0

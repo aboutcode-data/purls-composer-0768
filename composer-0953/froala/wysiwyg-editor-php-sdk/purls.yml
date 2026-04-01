@@ -44,3 +44,4 @@
 - pkg:composer/froala/wysiwyg-editor-php-sdk@4.7.1
 - pkg:composer/froala/wysiwyg-editor-php-sdk@5.0.0
 - pkg:composer/froala/wysiwyg-editor-php-sdk@5.0.1
+- pkg:composer/froala/wysiwyg-editor-php-sdk@5.1.0
