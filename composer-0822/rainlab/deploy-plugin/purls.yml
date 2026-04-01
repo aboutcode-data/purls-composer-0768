@@ -21,3 +21,4 @@
 - pkg:composer/rainlab/deploy-plugin@v3.2.0
 - pkg:composer/rainlab/deploy-plugin@v3.3.0
 - pkg:composer/rainlab/deploy-plugin@v3.3.2
+- pkg:composer/rainlab/deploy-plugin@v3.3.3

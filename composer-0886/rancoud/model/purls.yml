@@ -23,3 +23,5 @@
 - pkg:composer/rancoud/model@4.2.0
 - pkg:composer/rancoud/model@4.3.0
 - pkg:composer/rancoud/model@5.0.0
+- pkg:composer/rancoud/model@5.0.1
+- pkg:composer/rancoud/model@5.0.2

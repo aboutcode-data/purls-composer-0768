@@ -28,3 +28,7 @@
 - pkg:composer/psvneo/t3-extension-merchants@5.1.2
 - pkg:composer/psvneo/t3-extension-merchants@6.0.0
 - pkg:composer/psvneo/t3-extension-merchants@6.0.1
+- pkg:composer/psvneo/t3-extension-merchants@7.0.0
+- pkg:composer/psvneo/t3-extension-merchants@7.0.1
+- pkg:composer/psvneo/t3-extension-merchants@8.0.0
+- pkg:composer/psvneo/t3-extension-merchants@8.0.1

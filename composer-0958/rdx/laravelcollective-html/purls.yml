@@ -1,3 +1,4 @@
+- pkg:composer/rdx/laravelcollective-html@6.10
 - pkg:composer/rdx/laravelcollective-html@6.7
 - pkg:composer/rdx/laravelcollective-html@6.8
 - pkg:composer/rdx/laravelcollective-html@6.9
