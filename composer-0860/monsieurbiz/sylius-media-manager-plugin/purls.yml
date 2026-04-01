@@ -24,5 +24,7 @@
 - pkg:composer/monsieurbiz/sylius-media-manager-plugin@v2.0.6
 - pkg:composer/monsieurbiz/sylius-media-manager-plugin@v2.0.7
 - pkg:composer/monsieurbiz/sylius-media-manager-plugin@v2.0.8
+- pkg:composer/monsieurbiz/sylius-media-manager-plugin@v2.0.9
 - pkg:composer/monsieurbiz/sylius-media-manager-plugin@v3.0.0
 - pkg:composer/monsieurbiz/sylius-media-manager-plugin@v3.0.1
+- pkg:composer/monsieurbiz/sylius-media-manager-plugin@v3.0.2

@@ -2,4 +2,3 @@
 - pkg:composer/micro/plugin-doctrine@2.0.0-alpha
 - pkg:composer/micro/plugin-doctrine@v1.6.0
 - pkg:composer/micro/plugin-doctrine@v1.6.1.1
-- pkg:composer/micro/plugin-doctrine@v2.0.0-alpha1

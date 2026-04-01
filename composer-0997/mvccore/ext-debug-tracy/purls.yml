@@ -28,3 +28,4 @@
 - pkg:composer/mvccore/ext-debug-tracy@v5.3.4
 - pkg:composer/mvccore/ext-debug-tracy@v5.3.5
 - pkg:composer/mvccore/ext-debug-tracy@v5.3.6
+- pkg:composer/mvccore/ext-debug-tracy@v5.3.7
