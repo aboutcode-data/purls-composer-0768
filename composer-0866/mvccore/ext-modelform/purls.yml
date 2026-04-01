@@ -40,3 +40,4 @@
 - pkg:composer/mvccore/ext-modelform@v5.2.5
 - pkg:composer/mvccore/ext-modelform@v5.3.0
 - pkg:composer/mvccore/ext-modelform@v5.3.1
+- pkg:composer/mvccore/ext-modelform@v5.3.2

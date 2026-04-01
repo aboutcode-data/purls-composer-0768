@@ -6,3 +6,4 @@
 - pkg:composer/mvccore/ext-cache@v5.3.0
 - pkg:composer/mvccore/ext-cache@v5.3.1
 - pkg:composer/mvccore/ext-cache@v5.3.2
+- pkg:composer/mvccore/ext-cache@v5.3.3

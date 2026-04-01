@@ -68,3 +68,4 @@
 - pkg:composer/mvccore/ext-controller-datagrid@v5.3.6
 - pkg:composer/mvccore/ext-controller-datagrid@v5.3.7
 - pkg:composer/mvccore/ext-controller-datagrid@v5.3.8
+- pkg:composer/mvccore/ext-controller-datagrid@v5.3.9

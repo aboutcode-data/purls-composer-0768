@@ -16,3 +16,4 @@
 - pkg:composer/mvccore/ext-translator@v5.2.6
 - pkg:composer/mvccore/ext-translator@v5.2.7
 - pkg:composer/mvccore/ext-translator@v5.3.0
+- pkg:composer/mvccore/ext-translator@v5.3.1
