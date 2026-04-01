@@ -65,6 +65,7 @@
 - pkg:composer/helsingborg-stad/broken-link-detector@4.2.22
 - pkg:composer/helsingborg-stad/broken-link-detector@4.2.24
 - pkg:composer/helsingborg-stad/broken-link-detector@4.2.26
+- pkg:composer/helsingborg-stad/broken-link-detector@4.2.28
 - pkg:composer/helsingborg-stad/broken-link-detector@4.2.3
 - pkg:composer/helsingborg-stad/broken-link-detector@4.2.4
 - pkg:composer/helsingborg-stad/broken-link-detector@4.2.5
