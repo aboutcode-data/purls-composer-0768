@@ -72,3 +72,5 @@
 - pkg:composer/malzariey/filament-daterangepicker-filter@4.1.beta
 - pkg:composer/malzariey/filament-daterangepicker-filter@4.1.beta.1
 - pkg:composer/malzariey/filament-daterangepicker-filter@4.1.beta.2
+- pkg:composer/malzariey/filament-daterangepicker-filter@5.0.0
+- pkg:composer/malzariey/filament-daterangepicker-filter@5.0.1
