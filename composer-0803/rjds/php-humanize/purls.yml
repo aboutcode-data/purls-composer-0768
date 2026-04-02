@@ -7,3 +7,5 @@
 - pkg:composer/rjds/php-humanize@v2.1.0
 - pkg:composer/rjds/php-humanize@v2.2.0
 - pkg:composer/rjds/php-humanize@v2.3.0
+- pkg:composer/rjds/php-humanize@v2.4.0
+- pkg:composer/rjds/php-humanize@v3.0.0

@@ -1,6 +1,7 @@
 - pkg:composer/rollerworks/search-symfony-validator@v1.0.0
 - pkg:composer/rollerworks/search-symfony-validator@v1.0.0-beta1
 - pkg:composer/rollerworks/search-symfony-validator@v1.0.1
+- pkg:composer/rollerworks/search-symfony-validator@v2.0.0
 - pkg:composer/rollerworks/search-symfony-validator@v2.0.0-ALPHA1
 - pkg:composer/rollerworks/search-symfony-validator@v2.0.0-ALPHA10
 - pkg:composer/rollerworks/search-symfony-validator@v2.0.0-ALPHA11

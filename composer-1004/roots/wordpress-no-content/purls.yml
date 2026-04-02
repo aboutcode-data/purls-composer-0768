@@ -71,6 +71,7 @@
 - pkg:composer/roots/wordpress-no-content@4.7.30
 - pkg:composer/roots/wordpress-no-content@4.7.31
 - pkg:composer/roots/wordpress-no-content@4.7.32
+- pkg:composer/roots/wordpress-no-content@4.7.33
 - pkg:composer/roots/wordpress-no-content@4.8.19
 - pkg:composer/roots/wordpress-no-content@4.8.20
 - pkg:composer/roots/wordpress-no-content@4.8.21

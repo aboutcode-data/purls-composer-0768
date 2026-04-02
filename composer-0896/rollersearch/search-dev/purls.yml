@@ -18,6 +18,7 @@
 - pkg:composer/rollersearch/search-dev@v1.1.1
 - pkg:composer/rollersearch/search-dev@v1.2.0
 - pkg:composer/rollersearch/search-dev@v1.2.1
+- pkg:composer/rollersearch/search-dev@v2.0.0
 - pkg:composer/rollersearch/search-dev@v2.0.0-ALPHA1
 - pkg:composer/rollersearch/search-dev@v2.0.0-ALPHA10
 - pkg:composer/rollersearch/search-dev@v2.0.0-ALPHA11

@@ -4,3 +4,4 @@
 - pkg:composer/rickgoemans/laravel-enum-helpers@v4.0.0
 - pkg:composer/rickgoemans/laravel-enum-helpers@v4.1.0
 - pkg:composer/rickgoemans/laravel-enum-helpers@v4.2.0
+- pkg:composer/rickgoemans/laravel-enum-helpers@v5.0.0
