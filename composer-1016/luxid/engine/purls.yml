@@ -53,3 +53,4 @@
 - pkg:composer/luxid/engine@v0.6.7
 - pkg:composer/luxid/engine@v0.6.8
 - pkg:composer/luxid/engine@v0.6.9
+- pkg:composer/luxid/engine@v0.7.0
