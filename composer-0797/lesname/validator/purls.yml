@@ -26,6 +26,7 @@
 - pkg:composer/lesname/validator@0.5.1
 - pkg:composer/lesname/validator@0.6.0
 - pkg:composer/lesname/validator@0.6.1
+- pkg:composer/lesname/validator@0.6.10
 - pkg:composer/lesname/validator@0.6.2
 - pkg:composer/lesname/validator@0.6.3
 - pkg:composer/lesname/validator@0.6.4
