@@ -12,3 +12,4 @@
 - pkg:composer/spryker/content-storage@2.5.0
 - pkg:composer/spryker/content-storage@2.6.0
 - pkg:composer/spryker/content-storage@2.7.0
+- pkg:composer/spryker/content-storage@2.8.0

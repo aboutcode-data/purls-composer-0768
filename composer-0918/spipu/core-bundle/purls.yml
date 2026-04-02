@@ -28,3 +28,4 @@
 - pkg:composer/spipu/core-bundle@v4.0.6
 - pkg:composer/spipu/core-bundle@v4.0.7
 - pkg:composer/spipu/core-bundle@v4.0.8
+- pkg:composer/spipu/core-bundle@v4.2.0

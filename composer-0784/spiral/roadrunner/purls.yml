@@ -255,6 +255,7 @@
 - pkg:composer/spiral/roadrunner@v2025.1.0
 - pkg:composer/spiral/roadrunner@v2025.1.1
 - pkg:composer/spiral/roadrunner@v2025.1.11
+- pkg:composer/spiral/roadrunner@v2025.1.12
 - pkg:composer/spiral/roadrunner@v2025.1.2
 - pkg:composer/spiral/roadrunner@v2025.1.3
 - pkg:composer/spiral/roadrunner@v2025.1.4

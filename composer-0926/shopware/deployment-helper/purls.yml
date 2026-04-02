@@ -23,6 +23,8 @@
 - pkg:composer/shopware/deployment-helper@0.0.3
 - pkg:composer/shopware/deployment-helper@0.0.30
 - pkg:composer/shopware/deployment-helper@0.0.31
+- pkg:composer/shopware/deployment-helper@0.0.32
+- pkg:composer/shopware/deployment-helper@0.0.33
 - pkg:composer/shopware/deployment-helper@0.0.4
 - pkg:composer/shopware/deployment-helper@0.0.5
 - pkg:composer/shopware/deployment-helper@0.0.6

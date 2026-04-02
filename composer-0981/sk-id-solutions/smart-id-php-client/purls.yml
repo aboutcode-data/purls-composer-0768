@@ -15,3 +15,4 @@
 - pkg:composer/sk-id-solutions/smart-id-php-client@v1.5.1
 - pkg:composer/sk-id-solutions/smart-id-php-client@v1.5.2
 - pkg:composer/sk-id-solutions/smart-id-php-client@v2.3.3
+- pkg:composer/sk-id-solutions/smart-id-php-client@v3.0.0

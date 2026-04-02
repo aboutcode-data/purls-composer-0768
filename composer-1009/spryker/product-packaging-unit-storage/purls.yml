@@ -21,3 +21,4 @@
 - pkg:composer/spryker/product-packaging-unit-storage@5.2.0
 - pkg:composer/spryker/product-packaging-unit-storage@5.2.1
 - pkg:composer/spryker/product-packaging-unit-storage@5.3.0
+- pkg:composer/spryker/product-packaging-unit-storage@5.4.0
