@@ -1,3 +1,4 @@
+- pkg:composer/micro/plugin-http-core@1.6.3
 - pkg:composer/micro/plugin-http-core@2.0.0-alpha
 - pkg:composer/micro/plugin-http-core@v1.0
 - pkg:composer/micro/plugin-http-core@v1.0-rc
