@@ -12,3 +12,4 @@
 - pkg:composer/precision-soft/symfony-phpunit@v2.1.0
 - pkg:composer/precision-soft/symfony-phpunit@v2.1.1
 - pkg:composer/precision-soft/symfony-phpunit@v2.1.2
+- pkg:composer/precision-soft/symfony-phpunit@v2.1.3
