@@ -15,6 +15,7 @@
 - pkg:composer/symfony/object-mapper@v7.4.4
 - pkg:composer/symfony/object-mapper@v7.4.5
 - pkg:composer/symfony/object-mapper@v7.4.6
+- pkg:composer/symfony/object-mapper@v7.4.8
 - pkg:composer/symfony/object-mapper@v8.0.0
 - pkg:composer/symfony/object-mapper@v8.0.0-BETA1
 - pkg:composer/symfony/object-mapper@v8.0.0-BETA2
@@ -24,3 +25,4 @@
 - pkg:composer/symfony/object-mapper@v8.0.4
 - pkg:composer/symfony/object-mapper@v8.0.5
 - pkg:composer/symfony/object-mapper@v8.0.6
+- pkg:composer/symfony/object-mapper@v8.0.8

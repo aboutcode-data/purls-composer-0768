@@ -17,3 +17,4 @@
 - pkg:composer/statamic-rad-pack/typesense@v2.4.0
 - pkg:composer/statamic-rad-pack/typesense@v3.0.0
 - pkg:composer/statamic-rad-pack/typesense@v3.1.0
+- pkg:composer/statamic-rad-pack/typesense@v3.2.0

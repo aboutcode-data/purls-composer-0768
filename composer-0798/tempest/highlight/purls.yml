@@ -39,7 +39,10 @@
 - pkg:composer/tempest/highlight@2.17.0
 - pkg:composer/tempest/highlight@2.17.1
 - pkg:composer/tempest/highlight@2.17.2
+- pkg:composer/tempest/highlight@2.18.0
+- pkg:composer/tempest/highlight@2.19.0
 - pkg:composer/tempest/highlight@2.2.0
+- pkg:composer/tempest/highlight@2.20.0
 - pkg:composer/tempest/highlight@2.3.0
 - pkg:composer/tempest/highlight@2.3.1
 - pkg:composer/tempest/highlight@2.3.2

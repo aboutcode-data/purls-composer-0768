@@ -65,3 +65,4 @@
 - pkg:composer/tempest/router@v3.7.0
 - pkg:composer/tempest/router@v3.7.1
 - pkg:composer/tempest/router@v3.8.0
+- pkg:composer/tempest/router@v3.9.0

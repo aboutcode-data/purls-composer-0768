@@ -47,3 +47,4 @@
 - pkg:composer/tempest/process@v3.7.0
 - pkg:composer/tempest/process@v3.7.1
 - pkg:composer/tempest/process@v3.8.0
+- pkg:composer/tempest/process@v3.9.0

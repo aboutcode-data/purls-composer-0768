@@ -60,6 +60,7 @@
 - pkg:composer/symfony/monolog-bundle@v3.10.0
 - pkg:composer/symfony/monolog-bundle@v3.11.0
 - pkg:composer/symfony/monolog-bundle@v3.11.1
+- pkg:composer/symfony/monolog-bundle@v3.11.2
 - pkg:composer/symfony/monolog-bundle@v3.2.0
 - pkg:composer/symfony/monolog-bundle@v3.3.0
 - pkg:composer/symfony/monolog-bundle@v3.3.1
@@ -72,3 +73,4 @@
 - pkg:composer/symfony/monolog-bundle@v3.9.0
 - pkg:composer/symfony/monolog-bundle@v4.0.0
 - pkg:composer/symfony/monolog-bundle@v4.0.1
+- pkg:composer/symfony/monolog-bundle@v4.0.2

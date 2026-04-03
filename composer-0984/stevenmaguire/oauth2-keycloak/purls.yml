@@ -14,3 +14,4 @@
 - pkg:composer/stevenmaguire/oauth2-keycloak@5.1.0
 - pkg:composer/stevenmaguire/oauth2-keycloak@6.0.0
 - pkg:composer/stevenmaguire/oauth2-keycloak@6.1.0
+- pkg:composer/stevenmaguire/oauth2-keycloak@6.1.1
