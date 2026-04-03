@@ -2,3 +2,6 @@
 - pkg:composer/thesis/hot-reload@0.1.1
 - pkg:composer/thesis/hot-reload@0.1.2
 - pkg:composer/thesis/hot-reload@0.2.0
+- pkg:composer/thesis/hot-reload@0.3.0
+- pkg:composer/thesis/hot-reload@0.3.1
+- pkg:composer/thesis/hot-reload@0.4.0

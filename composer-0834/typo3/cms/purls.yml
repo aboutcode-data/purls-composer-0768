@@ -266,6 +266,7 @@
 - pkg:composer/typo3/cms@v14.0.2
 - pkg:composer/typo3/cms@v14.1.0
 - pkg:composer/typo3/cms@v14.1.1
+- pkg:composer/typo3/cms@v14.2.0
 - pkg:composer/typo3/cms@v7.6.20
 - pkg:composer/typo3/cms@v7.6.21
 - pkg:composer/typo3/cms@v7.6.22
