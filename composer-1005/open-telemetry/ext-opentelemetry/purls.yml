@@ -2,3 +2,4 @@
 - pkg:composer/open-telemetry/ext-opentelemetry@1.2.0
 - pkg:composer/open-telemetry/ext-opentelemetry@1.2.1
 - pkg:composer/open-telemetry/ext-opentelemetry@1.3.0
+- pkg:composer/open-telemetry/ext-opentelemetry@1.3.1
