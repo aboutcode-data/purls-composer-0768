@@ -30,3 +30,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp-module-oidc@v6.3.0
 - pkg:composer/simplesamlphp/simplesamlphp-module-oidc@v6.3.1
 - pkg:composer/simplesamlphp/simplesamlphp-module-oidc@v6.4.0
+- pkg:composer/simplesamlphp/simplesamlphp-module-oidc@v6.4.1
