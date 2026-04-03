@@ -10,3 +10,5 @@
 - pkg:composer/web-id/breadcrumb@1.2.4
 - pkg:composer/web-id/breadcrumb@2.0.0
 - pkg:composer/web-id/breadcrumb@2.1.0
+- pkg:composer/web-id/breadcrumb@3.0.0
+- pkg:composer/web-id/breadcrumb@3.0.1

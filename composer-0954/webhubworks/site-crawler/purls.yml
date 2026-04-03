@@ -20,3 +20,7 @@
 - pkg:composer/webhubworks/site-crawler@2.2.0
 - pkg:composer/webhubworks/site-crawler@2.3.0
 - pkg:composer/webhubworks/site-crawler@2.3.1
+- pkg:composer/webhubworks/site-crawler@3.0.0
+- pkg:composer/webhubworks/site-crawler@3.1.0
+- pkg:composer/webhubworks/site-crawler@3.1.1
+- pkg:composer/webhubworks/site-crawler@3.1.2
