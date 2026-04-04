@@ -26,6 +26,8 @@
 - pkg:composer/nyrodev/utility-bundle@v4.14
 - pkg:composer/nyrodev/utility-bundle@v4.15
 - pkg:composer/nyrodev/utility-bundle@v4.16
+- pkg:composer/nyrodev/utility-bundle@v4.17
+- pkg:composer/nyrodev/utility-bundle@v4.18
 - pkg:composer/nyrodev/utility-bundle@v4.2
 - pkg:composer/nyrodev/utility-bundle@v4.3
 - pkg:composer/nyrodev/utility-bundle@v4.4
@@ -42,9 +44,11 @@
 - pkg:composer/nyrodev/utility-bundle@v5.5
 - pkg:composer/nyrodev/utility-bundle@v5.6
 - pkg:composer/nyrodev/utility-bundle@v5.7
+- pkg:composer/nyrodev/utility-bundle@v5.8
 - pkg:composer/nyrodev/utility-bundle@v6.0
 - pkg:composer/nyrodev/utility-bundle@v6.1
 - pkg:composer/nyrodev/utility-bundle@v6.2
+- pkg:composer/nyrodev/utility-bundle@v6.3
 - pkg:composer/nyrodev/utility-bundle@v7.0
 - pkg:composer/nyrodev/utility-bundle@v7.1
 - pkg:composer/nyrodev/utility-bundle@v7.2
