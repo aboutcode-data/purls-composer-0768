@@ -19,6 +19,7 @@
 - pkg:composer/wp-cli/eval-command@v2.1.2
 - pkg:composer/wp-cli/eval-command@v2.2.0
 - pkg:composer/wp-cli/eval-command@v2.2.1
+- pkg:composer/wp-cli/eval-command@v2.2.10
 - pkg:composer/wp-cli/eval-command@v2.2.2
 - pkg:composer/wp-cli/eval-command@v2.2.3
 - pkg:composer/wp-cli/eval-command@v2.2.4

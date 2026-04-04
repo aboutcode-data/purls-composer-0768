@@ -9,7 +9,9 @@
 - pkg:composer/wp-php-toolkit/cli@0.0.19
 - pkg:composer/wp-php-toolkit/cli@0.0.6
 - pkg:composer/wp-php-toolkit/cli@0.0.7
+- pkg:composer/wp-php-toolkit/cli@v0.0.1-alpha
 - pkg:composer/wp-php-toolkit/cli@v0.0.15-alpha
+- pkg:composer/wp-php-toolkit/cli@v0.0.2-alpha
 - pkg:composer/wp-php-toolkit/cli@v0.0.3-alpha
 - pkg:composer/wp-php-toolkit/cli@v0.0.4-alpha
 - pkg:composer/wp-php-toolkit/cli@v0.0.5-alpha
@@ -27,3 +29,5 @@
 - pkg:composer/wp-php-toolkit/cli@v0.3.1
 - pkg:composer/wp-php-toolkit/cli@v0.4.0
 - pkg:composer/wp-php-toolkit/cli@v0.4.1
+- pkg:composer/wp-php-toolkit/cli@v0.5.0
+- pkg:composer/wp-php-toolkit/cli@v0.5.1

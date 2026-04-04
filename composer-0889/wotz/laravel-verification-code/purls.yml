@@ -17,3 +17,4 @@
 - pkg:composer/wotz/laravel-verification-code@2.1.1
 - pkg:composer/wotz/laravel-verification-code@3.0.0
 - pkg:composer/wotz/laravel-verification-code@3.1.0
+- pkg:composer/wotz/laravel-verification-code@4.0.0

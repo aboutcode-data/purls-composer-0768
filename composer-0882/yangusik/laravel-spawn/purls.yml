@@ -1,1 +1,3 @@
 - pkg:composer/yangusik/laravel-spawn@v0.1.0
+- pkg:composer/yangusik/laravel-spawn@v0.2.0
+- pkg:composer/yangusik/laravel-spawn@v0.2.1
