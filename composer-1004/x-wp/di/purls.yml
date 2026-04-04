@@ -34,6 +34,7 @@
 - pkg:composer/x-wp/di@v1.8.1
 - pkg:composer/x-wp/di@v1.9.0
 - pkg:composer/x-wp/di@v1.9.1
+- pkg:composer/x-wp/di@v1.9.2
 - pkg:composer/x-wp/di@v2.0.0-alpha.1
 - pkg:composer/x-wp/di@v2.0.0-alpha.2
 - pkg:composer/x-wp/di@v2.0.0-alpha.3
