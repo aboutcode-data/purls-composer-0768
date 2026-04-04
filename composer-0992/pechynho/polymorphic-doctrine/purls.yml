@@ -1,2 +1,4 @@
 - pkg:composer/pechynho/polymorphic-doctrine@0.0.1
 - pkg:composer/pechynho/polymorphic-doctrine@0.0.2
+- pkg:composer/pechynho/polymorphic-doctrine@v0.1.0
+- pkg:composer/pechynho/polymorphic-doctrine@v0.2.0
