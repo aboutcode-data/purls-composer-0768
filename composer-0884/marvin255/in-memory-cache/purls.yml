@@ -12,3 +12,5 @@
 - pkg:composer/marvin255/in-memory-cache@v2.3.3
 - pkg:composer/marvin255/in-memory-cache@v3.0.0
 - pkg:composer/marvin255/in-memory-cache@v3.0.1
+- pkg:composer/marvin255/in-memory-cache@v3.0.2
+- pkg:composer/marvin255/in-memory-cache@v3.0.3
