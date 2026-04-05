@@ -53,3 +53,4 @@
 - pkg:composer/sebastian/environment@9.0.0
 - pkg:composer/sebastian/environment@9.0.1
 - pkg:composer/sebastian/environment@9.1.0
+- pkg:composer/sebastian/environment@9.2.0
