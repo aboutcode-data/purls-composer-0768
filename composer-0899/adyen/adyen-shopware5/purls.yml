@@ -69,3 +69,5 @@
 - pkg:composer/adyen/adyen-shopware5@5.0.3
 - pkg:composer/adyen/adyen-shopware5@5.0.4
 - pkg:composer/adyen/adyen-shopware5@5.0.5
+- pkg:composer/adyen/adyen-shopware5@5.1.0
+- pkg:composer/adyen/adyen-shopware5@5.1.1

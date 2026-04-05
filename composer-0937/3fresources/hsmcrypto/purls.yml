@@ -22,3 +22,5 @@
 - pkg:composer/3fresources/hsmcrypto@v1.0.8
 - pkg:composer/3fresources/hsmcrypto@v1.0.9
 - pkg:composer/3fresources/hsmcrypto@v1.1.0
+- pkg:composer/3fresources/hsmcrypto@v1.1.1
+- pkg:composer/3fresources/hsmcrypto@v1.1.2

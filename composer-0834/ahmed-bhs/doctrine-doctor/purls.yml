@@ -45,3 +45,6 @@
 - pkg:composer/ahmed-bhs/doctrine-doctor@v2.8.0
 - pkg:composer/ahmed-bhs/doctrine-doctor@v2.8.0-beta.1
 - pkg:composer/ahmed-bhs/doctrine-doctor@v2.8.0-beta.2
+- pkg:composer/ahmed-bhs/doctrine-doctor@v2.8.1
+- pkg:composer/ahmed-bhs/doctrine-doctor@v2.8.2
+- pkg:composer/ahmed-bhs/doctrine-doctor@v2.8.3

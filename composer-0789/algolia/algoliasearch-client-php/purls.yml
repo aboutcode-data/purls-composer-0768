@@ -257,6 +257,7 @@
 - pkg:composer/algolia/algoliasearch-client-php@4.4.3
 - pkg:composer/algolia/algoliasearch-client-php@4.4.4
 - pkg:composer/algolia/algoliasearch-client-php@4.40.0
+- pkg:composer/algolia/algoliasearch-client-php@4.41.0
 - pkg:composer/algolia/algoliasearch-client-php@4.5.0
 - pkg:composer/algolia/algoliasearch-client-php@4.6.0
 - pkg:composer/algolia/algoliasearch-client-php@4.6.1

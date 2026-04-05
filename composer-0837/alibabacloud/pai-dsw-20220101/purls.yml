@@ -52,3 +52,4 @@
 - pkg:composer/alibabacloud/pai-dsw-20220101@2.3.4
 - pkg:composer/alibabacloud/pai-dsw-20220101@2.3.5
 - pkg:composer/alibabacloud/pai-dsw-20220101@2.3.6
+- pkg:composer/alibabacloud/pai-dsw-20220101@2.4.0
