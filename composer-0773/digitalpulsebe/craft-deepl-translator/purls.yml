@@ -84,6 +84,8 @@
 - pkg:composer/digitalpulsebe/craft-deepl-translator@2.23.0
 - pkg:composer/digitalpulsebe/craft-deepl-translator@2.23.1
 - pkg:composer/digitalpulsebe/craft-deepl-translator@2.23.2
+- pkg:composer/digitalpulsebe/craft-deepl-translator@2.24.0
+- pkg:composer/digitalpulsebe/craft-deepl-translator@2.25.0
 - pkg:composer/digitalpulsebe/craft-deepl-translator@2.3.0
 - pkg:composer/digitalpulsebe/craft-deepl-translator@2.4.0
 - pkg:composer/digitalpulsebe/craft-deepl-translator@2.5.0

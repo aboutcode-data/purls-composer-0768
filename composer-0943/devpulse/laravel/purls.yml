@@ -1,3 +1,4 @@
+- pkg:composer/devpulse/laravel@2.0.0
 - pkg:composer/devpulse/laravel@v1.0.0
 - pkg:composer/devpulse/laravel@v1.0.1
 - pkg:composer/devpulse/laravel@v1.0.2

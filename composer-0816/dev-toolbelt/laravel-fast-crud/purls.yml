@@ -9,3 +9,6 @@
 - pkg:composer/dev-toolbelt/laravel-fast-crud@1.0.8
 - pkg:composer/dev-toolbelt/laravel-fast-crud@1.1.0
 - pkg:composer/dev-toolbelt/laravel-fast-crud@1.2.0
+- pkg:composer/dev-toolbelt/laravel-fast-crud@1.2.1
+- pkg:composer/dev-toolbelt/laravel-fast-crud@1.2.2
+- pkg:composer/dev-toolbelt/laravel-fast-crud@1.2.3
