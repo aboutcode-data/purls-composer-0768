@@ -2,6 +2,7 @@
 - pkg:composer/lindemannrock/craft-sms-manager@5.1.0
 - pkg:composer/lindemannrock/craft-sms-manager@5.10.0
 - pkg:composer/lindemannrock/craft-sms-manager@5.10.1
+- pkg:composer/lindemannrock/craft-sms-manager@5.10.2
 - pkg:composer/lindemannrock/craft-sms-manager@5.2.0
 - pkg:composer/lindemannrock/craft-sms-manager@5.2.1
 - pkg:composer/lindemannrock/craft-sms-manager@5.2.2
