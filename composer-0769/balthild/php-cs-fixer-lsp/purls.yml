@@ -11,3 +11,4 @@
 - pkg:composer/balthild/php-cs-fixer-lsp@v0.1.8
 - pkg:composer/balthild/php-cs-fixer-lsp@v0.1.9
 - pkg:composer/balthild/php-cs-fixer-lsp@v1.0.0
+- pkg:composer/balthild/php-cs-fixer-lsp@v1.1.0

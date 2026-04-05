@@ -18,3 +18,4 @@
 - pkg:composer/bzrk/php-stream@1.0
 - pkg:composer/bzrk/php-stream@1.01
 - pkg:composer/bzrk/php-stream@2.00
+- pkg:composer/bzrk/php-stream@3.00
