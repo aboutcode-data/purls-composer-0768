@@ -1,3 +1,4 @@
+- pkg:composer/quasimo/flarum-ext-tag-sidebar@2.0.0
 - pkg:composer/quasimo/flarum-ext-tag-sidebar@v1.0.0
 - pkg:composer/quasimo/flarum-ext-tag-sidebar@v1.0.1
 - pkg:composer/quasimo/flarum-ext-tag-sidebar@v1.0.10
@@ -13,4 +14,6 @@
 - pkg:composer/quasimo/flarum-ext-tag-sidebar@v1.0.8
 - pkg:composer/quasimo/flarum-ext-tag-sidebar@v1.0.9
 - pkg:composer/quasimo/flarum-ext-tag-sidebar@v1.1.0
-- pkg:composer/quasimo/flarum-ext-tag-sidebar@v2.0.0
+- pkg:composer/quasimo/flarum-ext-tag-sidebar@v2.0.2
+- pkg:composer/quasimo/flarum-ext-tag-sidebar@v2.0.3
+- pkg:composer/quasimo/flarum-ext-tag-sidebar@v2.0.4
