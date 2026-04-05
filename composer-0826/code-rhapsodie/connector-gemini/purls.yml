@@ -3,3 +3,5 @@
 - pkg:composer/code-rhapsodie/connector-gemini@v1.0.2
 - pkg:composer/code-rhapsodie/connector-gemini@v1.0.3
 - pkg:composer/code-rhapsodie/connector-gemini@v1.1.0
+- pkg:composer/code-rhapsodie/connector-gemini@v1.1.1
+- pkg:composer/code-rhapsodie/connector-gemini@v1.1.2

@@ -121,6 +121,8 @@
 - pkg:composer/condoedge/utils@v0.2.15
 - pkg:composer/condoedge/utils@v0.2.151
 - pkg:composer/condoedge/utils@v0.2.152
+- pkg:composer/condoedge/utils@v0.2.153
+- pkg:composer/condoedge/utils@v0.2.154
 - pkg:composer/condoedge/utils@v0.2.16
 - pkg:composer/condoedge/utils@v0.2.17
 - pkg:composer/condoedge/utils@v0.2.18
