@@ -20,3 +20,5 @@
 - pkg:composer/spipu/user-bundle@v4.0.3
 - pkg:composer/spipu/user-bundle@v4.0.4
 - pkg:composer/spipu/user-bundle@v4.2.0
+- pkg:composer/spipu/user-bundle@v4.2.1
+- pkg:composer/spipu/user-bundle@v4.2.2
