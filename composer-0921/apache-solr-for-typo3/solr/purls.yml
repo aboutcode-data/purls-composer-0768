@@ -57,6 +57,7 @@
 - pkg:composer/apache-solr-for-typo3/solr@13.0.4
 - pkg:composer/apache-solr-for-typo3/solr@13.1.0
 - pkg:composer/apache-solr-for-typo3/solr@13.1.1
+- pkg:composer/apache-solr-for-typo3/solr@14.0.0-alpha1
 - pkg:composer/apache-solr-for-typo3/solr@3.1.0
 - pkg:composer/apache-solr-for-typo3/solr@3.1.0-beta
 - pkg:composer/apache-solr-for-typo3/solr@3.1.1

@@ -1,2 +1,3 @@
 - pkg:composer/api-check/php-laravel-client@1.0
 - pkg:composer/api-check/php-laravel-client@1.1
+- pkg:composer/api-check/php-laravel-client@v2.0.0

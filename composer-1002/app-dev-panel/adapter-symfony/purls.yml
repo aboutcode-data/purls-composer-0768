@@ -1,0 +1,4 @@
+- pkg:composer/app-dev-panel/adapter-symfony@0.0.1
+- pkg:composer/app-dev-panel/adapter-symfony@0.0.2
+- pkg:composer/app-dev-panel/adapter-symfony@v0.0.4
+- pkg:composer/app-dev-panel/adapter-symfony@v0.1

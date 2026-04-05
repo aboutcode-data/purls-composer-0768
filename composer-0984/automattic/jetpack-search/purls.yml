@@ -231,6 +231,7 @@
 - pkg:composer/automattic/jetpack-search@v0.56.3
 - pkg:composer/automattic/jetpack-search@v0.56.4
 - pkg:composer/automattic/jetpack-search@v0.56.5
+- pkg:composer/automattic/jetpack-search@v0.56.6
 - pkg:composer/automattic/jetpack-search@v0.6.0
 - pkg:composer/automattic/jetpack-search@v0.7.0
 - pkg:composer/automattic/jetpack-search@v0.8.0
