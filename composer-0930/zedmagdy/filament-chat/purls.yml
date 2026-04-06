@@ -1,5 +1,7 @@
+- pkg:composer/zedmagdy/filament-chat@0.6.0
 - pkg:composer/zedmagdy/filament-chat@v0.1.0
 - pkg:composer/zedmagdy/filament-chat@v0.2.0
 - pkg:composer/zedmagdy/filament-chat@v0.3.0
 - pkg:composer/zedmagdy/filament-chat@v0.4.0
 - pkg:composer/zedmagdy/filament-chat@v0.5.0
+- pkg:composer/zedmagdy/filament-chat@v0.7.0
