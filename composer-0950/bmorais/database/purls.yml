@@ -97,3 +97,7 @@
 - pkg:composer/bmorais/database@v2.0.7
 - pkg:composer/bmorais/database@v2.0.8
 - pkg:composer/bmorais/database@v2.0.9
+- pkg:composer/bmorais/database@v3.0.0
+- pkg:composer/bmorais/database@v3.0.1
+- pkg:composer/bmorais/database@v3.0.2
+- pkg:composer/bmorais/database@v3.0.3
