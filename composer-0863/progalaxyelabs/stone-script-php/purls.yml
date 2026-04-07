@@ -60,6 +60,8 @@
 - pkg:composer/progalaxyelabs/stone-script-php@v3.12.2
 - pkg:composer/progalaxyelabs/stone-script-php@v3.13.0
 - pkg:composer/progalaxyelabs/stone-script-php@v3.14.0
+- pkg:composer/progalaxyelabs/stone-script-php@v3.14.1
+- pkg:composer/progalaxyelabs/stone-script-php@v3.14.2
 - pkg:composer/progalaxyelabs/stone-script-php@v3.2.0
 - pkg:composer/progalaxyelabs/stone-script-php@v3.3.0
 - pkg:composer/progalaxyelabs/stone-script-php@v3.3.1

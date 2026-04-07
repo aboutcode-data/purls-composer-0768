@@ -1,3 +1,4 @@
+- pkg:composer/php-extended/placeholder-phpunit@10.0.0
 - pkg:composer/php-extended/placeholder-phpunit@8.0.0
 - pkg:composer/php-extended/placeholder-phpunit@8.0.1
 - pkg:composer/php-extended/placeholder-phpunit@8.0.10
