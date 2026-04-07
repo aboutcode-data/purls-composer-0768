@@ -64,3 +64,5 @@
 - pkg:composer/remp/crm-gifts-module@4.2.0
 - pkg:composer/remp/crm-gifts-module@4.3.0
 - pkg:composer/remp/crm-gifts-module@4.4.0
+- pkg:composer/remp/crm-gifts-module@5.0.0
+- pkg:composer/remp/crm-gifts-module@5.0.1

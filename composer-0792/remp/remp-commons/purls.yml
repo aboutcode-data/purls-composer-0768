@@ -49,3 +49,5 @@
 - pkg:composer/remp/remp-commons@4.2.5
 - pkg:composer/remp/remp-commons@4.3.0
 - pkg:composer/remp/remp-commons@4.3.1
+- pkg:composer/remp/remp-commons@5.0.0
+- pkg:composer/remp/remp-commons@5.0.1

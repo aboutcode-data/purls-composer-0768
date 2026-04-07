@@ -161,6 +161,7 @@
 - pkg:composer/riclep/laravel-storyblok@2.51.1
 - pkg:composer/riclep/laravel-storyblok@2.51.2
 - pkg:composer/riclep/laravel-storyblok@2.52.0
+- pkg:composer/riclep/laravel-storyblok@2.53.0
 - pkg:composer/riclep/laravel-storyblok@2.6.0
 - pkg:composer/riclep/laravel-storyblok@2.6.1
 - pkg:composer/riclep/laravel-storyblok@2.7.0

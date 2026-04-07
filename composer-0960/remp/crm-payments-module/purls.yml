@@ -86,3 +86,5 @@
 - pkg:composer/remp/crm-payments-module@4.3.0
 - pkg:composer/remp/crm-payments-module@4.4.0
 - pkg:composer/remp/crm-payments-module@4.4.1
+- pkg:composer/remp/crm-payments-module@5.0.0
+- pkg:composer/remp/crm-payments-module@5.0.1
