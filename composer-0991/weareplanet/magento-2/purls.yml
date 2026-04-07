@@ -32,5 +32,6 @@
 - pkg:composer/weareplanet/magento-2@2.1.7
 - pkg:composer/weareplanet/magento-2@2.1.8
 - pkg:composer/weareplanet/magento-2@2.1.9
+- pkg:composer/weareplanet/magento-2@3.0.0
 - pkg:composer/weareplanet/magento-2@3.0.0-beta
 - pkg:composer/weareplanet/magento-2@3.0.0-beta-1
