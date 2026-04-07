@@ -27,6 +27,8 @@
 - pkg:composer/clearchecks/spark-aurelius@v19.0.0
 - pkg:composer/clearchecks/spark-aurelius@v20.0.0
 - pkg:composer/clearchecks/spark-aurelius@v21.0.0
+- pkg:composer/clearchecks/spark-aurelius@v22.0.0
+- pkg:composer/clearchecks/spark-aurelius@v22.0.1
 - pkg:composer/clearchecks/spark-aurelius@v6.0.0
 - pkg:composer/clearchecks/spark-aurelius@v6.0.1
 - pkg:composer/clearchecks/spark-aurelius@v6.0.10
