@@ -5,3 +5,4 @@
 - pkg:composer/tamkeen-tech/laravel-enum-state-machine@v1.2.3
 - pkg:composer/tamkeen-tech/laravel-enum-state-machine@v1.2.4
 - pkg:composer/tamkeen-tech/laravel-enum-state-machine@v2.0.0
+- pkg:composer/tamkeen-tech/laravel-enum-state-machine@v3.0.0
