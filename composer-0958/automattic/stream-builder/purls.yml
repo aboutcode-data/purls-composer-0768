@@ -14,3 +14,4 @@
 - pkg:composer/automattic/stream-builder@0.9.1
 - pkg:composer/automattic/stream-builder@0.9.2
 - pkg:composer/automattic/stream-builder@1.0.0
+- pkg:composer/automattic/stream-builder@1.1
