@@ -1,3 +1,4 @@
 - pkg:composer/flow-php/arrow-ext@0.34.1
 - pkg:composer/flow-php/arrow-ext@0.34.2
 - pkg:composer/flow-php/arrow-ext@0.34.3
+- pkg:composer/flow-php/arrow-ext@0.35.0

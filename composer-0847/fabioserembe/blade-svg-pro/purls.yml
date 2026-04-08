@@ -1,5 +1,6 @@
 - pkg:composer/fabioserembe/blade-svg-pro@1.0.0
 - pkg:composer/fabioserembe/blade-svg-pro@1.0.1
+- pkg:composer/fabioserembe/blade-svg-pro@1.0.10
 - pkg:composer/fabioserembe/blade-svg-pro@1.0.2
 - pkg:composer/fabioserembe/blade-svg-pro@1.0.3
 - pkg:composer/fabioserembe/blade-svg-pro@1.0.4
@@ -9,3 +10,4 @@
 - pkg:composer/fabioserembe/blade-svg-pro@1.0.8
 - pkg:composer/fabioserembe/blade-svg-pro@1.0.9
 - pkg:composer/fabioserembe/blade-svg-pro@1.0.9.1
+- pkg:composer/fabioserembe/blade-svg-pro@1.1.0
