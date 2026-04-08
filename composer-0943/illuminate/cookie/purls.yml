@@ -321,6 +321,7 @@
 - pkg:composer/illuminate/cookie@v13.1.1
 - pkg:composer/illuminate/cookie@v13.2.0
 - pkg:composer/illuminate/cookie@v13.3.0
+- pkg:composer/illuminate/cookie@v13.4.0
 - pkg:composer/illuminate/cookie@v4.0.0
 - pkg:composer/illuminate/cookie@v4.0.0-BETA2
 - pkg:composer/illuminate/cookie@v4.0.0-BETA3

@@ -4,6 +4,8 @@
 - pkg:composer/iats-payments/civicrm@1.10.2
 - pkg:composer/iats-payments/civicrm@1.10.3
 - pkg:composer/iats-payments/civicrm@1.11.0
+- pkg:composer/iats-payments/civicrm@1.11.1
+- pkg:composer/iats-payments/civicrm@1.11.2
 - pkg:composer/iats-payments/civicrm@1.4.2
 - pkg:composer/iats-payments/civicrm@1.4.3
 - pkg:composer/iats-payments/civicrm@1.5.0
