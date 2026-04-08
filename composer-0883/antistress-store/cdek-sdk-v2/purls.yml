@@ -17,3 +17,5 @@
 - pkg:composer/antistress-store/cdek-sdk-v2@v1.5
 - pkg:composer/antistress-store/cdek-sdk-v2@v1.5.1
 - pkg:composer/antistress-store/cdek-sdk-v2@v1.5.2
+- pkg:composer/antistress-store/cdek-sdk-v2@v1.5.3
+- pkg:composer/antistress-store/cdek-sdk-v2@v1.6
