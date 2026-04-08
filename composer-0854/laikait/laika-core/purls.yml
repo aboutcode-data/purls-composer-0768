@@ -30,3 +30,5 @@
 - pkg:composer/laikait/laika-core@v2.6.1
 - pkg:composer/laikait/laika-core@v2.6.2
 - pkg:composer/laikait/laika-core@v2.6.3
+- pkg:composer/laikait/laika-core@v3.0.0
+- pkg:composer/laikait/laika-core@v3.0.1
