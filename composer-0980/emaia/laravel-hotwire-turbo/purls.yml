@@ -1,3 +1,4 @@
+- pkg:composer/emaia/laravel-hotwire-turbo@0.4.1
 - pkg:composer/emaia/laravel-hotwire-turbo@v0.1
 - pkg:composer/emaia/laravel-hotwire-turbo@v0.1.1
 - pkg:composer/emaia/laravel-hotwire-turbo@v0.1.2
@@ -7,3 +8,8 @@
 - pkg:composer/emaia/laravel-hotwire-turbo@v0.1.6
 - pkg:composer/emaia/laravel-hotwire-turbo@v0.1.7
 - pkg:composer/emaia/laravel-hotwire-turbo@v0.1.8
+- pkg:composer/emaia/laravel-hotwire-turbo@v0.1.9
+- pkg:composer/emaia/laravel-hotwire-turbo@v0.2.0
+- pkg:composer/emaia/laravel-hotwire-turbo@v0.3.0
+- pkg:composer/emaia/laravel-hotwire-turbo@v0.3.1
+- pkg:composer/emaia/laravel-hotwire-turbo@v0.4.0

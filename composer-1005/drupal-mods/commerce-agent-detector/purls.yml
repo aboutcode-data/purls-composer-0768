@@ -8,3 +8,7 @@
 - pkg:composer/drupal-mods/commerce-agent-detector@1.0.0-alpha7
 - pkg:composer/drupal-mods/commerce-agent-detector@1.0.0-alpha8
 - pkg:composer/drupal-mods/commerce-agent-detector@1.0.0-alpha9
+- pkg:composer/drupal-mods/commerce-agent-detector@1.0.0-beta1
+- pkg:composer/drupal-mods/commerce-agent-detector@1.0.0-beta2
+- pkg:composer/drupal-mods/commerce-agent-detector@1.0.0-beta3
+- pkg:composer/drupal-mods/commerce-agent-detector@1.0.0-beta4

@@ -26,3 +26,4 @@
 - pkg:composer/drupal/localgov_microsites@4.2.1
 - pkg:composer/drupal/localgov_microsites@4.3.0
 - pkg:composer/drupal/localgov_microsites@4.5.0
+- pkg:composer/drupal/localgov_microsites@4.5.1

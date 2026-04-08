@@ -1,2 +1,3 @@
 - pkg:composer/digitalmanagerguru/laravel-pubsub-queue@1.0.0
 - pkg:composer/digitalmanagerguru/laravel-pubsub-queue@2.0.0
+- pkg:composer/digitalmanagerguru/laravel-pubsub-queue@3.0.0

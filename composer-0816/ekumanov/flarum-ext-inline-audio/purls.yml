@@ -1,6 +1,5 @@
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v1.0.0
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v1.0.1
-- pkg:composer/ekumanov/flarum-ext-inline-audio@v1.0.4
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v1.1.0
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v1.1.1
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v1.2.0
@@ -10,6 +9,7 @@
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v1.5.0
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v1.5.1
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v1.7.0
+- pkg:composer/ekumanov/flarum-ext-inline-audio@v1.8.0
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v2.0.0
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v2.0.0-beta.1
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v2.0.0-beta.2
@@ -22,3 +22,4 @@
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v2.6.0
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v2.7.0
 - pkg:composer/ekumanov/flarum-ext-inline-audio@v2.7.1
+- pkg:composer/ekumanov/flarum-ext-inline-audio@v2.8.0

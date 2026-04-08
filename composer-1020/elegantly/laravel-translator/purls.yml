@@ -85,3 +85,6 @@
 - pkg:composer/elegantly/laravel-translator@v3.4.2
 - pkg:composer/elegantly/laravel-translator@v3.4.3
 - pkg:composer/elegantly/laravel-translator@v3.5.0
+- pkg:composer/elegantly/laravel-translator@v3.6.0
+- pkg:composer/elegantly/laravel-translator@v3.6.1
+- pkg:composer/elegantly/laravel-translator@v3.6.2
