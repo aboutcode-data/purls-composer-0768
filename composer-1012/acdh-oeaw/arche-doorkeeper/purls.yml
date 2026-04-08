@@ -57,6 +57,7 @@
 - pkg:composer/acdh-oeaw/arche-doorkeeper@6.12.1
 - pkg:composer/acdh-oeaw/arche-doorkeeper@6.13.0
 - pkg:composer/acdh-oeaw/arche-doorkeeper@6.14.0
+- pkg:composer/acdh-oeaw/arche-doorkeeper@6.14.1
 - pkg:composer/acdh-oeaw/arche-doorkeeper@6.2.0
 - pkg:composer/acdh-oeaw/arche-doorkeeper@6.2.1
 - pkg:composer/acdh-oeaw/arche-doorkeeper@6.3.0
