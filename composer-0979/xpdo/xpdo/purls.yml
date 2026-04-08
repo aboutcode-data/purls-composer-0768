@@ -14,3 +14,4 @@
 - pkg:composer/xpdo/xpdo@v3.1.5
 - pkg:composer/xpdo/xpdo@v3.1.6
 - pkg:composer/xpdo/xpdo@v3.1.7
+- pkg:composer/xpdo/xpdo@v3.2.0

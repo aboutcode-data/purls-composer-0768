@@ -1,1 +1,2 @@
 - pkg:composer/webpatser/fledge-fiber-redis@v0.1.0
+- pkg:composer/webpatser/fledge-fiber-redis@v13.3.0.0
