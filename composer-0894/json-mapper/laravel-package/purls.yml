@@ -11,3 +11,4 @@
 - pkg:composer/json-mapper/laravel-package@2.4.0
 - pkg:composer/json-mapper/laravel-package@2.5.0
 - pkg:composer/json-mapper/laravel-package@2.6.0
+- pkg:composer/json-mapper/laravel-package@3.0.0

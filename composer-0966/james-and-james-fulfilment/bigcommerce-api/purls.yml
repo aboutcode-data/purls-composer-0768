@@ -1,1 +1,2 @@
 - pkg:composer/james-and-james-fulfilment/bigcommerce-api@3.4
+- pkg:composer/james-and-james-fulfilment/bigcommerce-api@v3.5
