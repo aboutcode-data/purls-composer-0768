@@ -5,3 +5,4 @@
 - pkg:composer/torq/pimcore-helpers-bundle@1.3.0
 - pkg:composer/torq/pimcore-helpers-bundle@2.0.0
 - pkg:composer/torq/pimcore-helpers-bundle@v2.1.0
+- pkg:composer/torq/pimcore-helpers-bundle@v2.1.1
