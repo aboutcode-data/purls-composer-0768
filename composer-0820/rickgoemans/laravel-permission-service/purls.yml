@@ -5,3 +5,4 @@
 - pkg:composer/rickgoemans/laravel-permission-service@v3.1
 - pkg:composer/rickgoemans/laravel-permission-service@v4.0.0
 - pkg:composer/rickgoemans/laravel-permission-service@v5.0.0
+- pkg:composer/rickgoemans/laravel-permission-service@v6.0.0
