@@ -35,6 +35,7 @@
 - pkg:composer/alibabacloud/csas-20230120@1.14.7
 - pkg:composer/alibabacloud/csas-20230120@1.14.8
 - pkg:composer/alibabacloud/csas-20230120@1.14.9
+- pkg:composer/alibabacloud/csas-20230120@1.15.0
 - pkg:composer/alibabacloud/csas-20230120@1.2.0
 - pkg:composer/alibabacloud/csas-20230120@1.2.1
 - pkg:composer/alibabacloud/csas-20230120@1.3.0
