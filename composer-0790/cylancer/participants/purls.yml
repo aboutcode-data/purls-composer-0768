@@ -23,6 +23,7 @@
 - pkg:composer/cylancer/participants@5.10.0
 - pkg:composer/cylancer/participants@5.11.0
 - pkg:composer/cylancer/participants@5.11.1
+- pkg:composer/cylancer/participants@5.11.3
 - pkg:composer/cylancer/participants@5.2.0
 - pkg:composer/cylancer/participants@5.7.0
 - pkg:composer/cylancer/participants@5.7.12

@@ -11,6 +11,7 @@
 - pkg:composer/ddouggs/test_command@v0.0.2
 - pkg:composer/ddouggs/test_command@v0.0.20
 - pkg:composer/ddouggs/test_command@v0.0.21
+- pkg:composer/ddouggs/test_command@v0.0.22
 - pkg:composer/ddouggs/test_command@v0.0.4
 - pkg:composer/ddouggs/test_command@v0.0.5
 - pkg:composer/ddouggs/test_command@v0.0.6
