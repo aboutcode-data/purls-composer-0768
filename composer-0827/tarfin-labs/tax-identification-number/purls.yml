@@ -1,3 +1,4 @@
+- pkg:composer/tarfin-labs/tax-identification-number@2.0.0
 - pkg:composer/tarfin-labs/tax-identification-number@v1.0.0
 - pkg:composer/tarfin-labs/tax-identification-number@v1.0.1
 - pkg:composer/tarfin-labs/tax-identification-number@v1.1.0
