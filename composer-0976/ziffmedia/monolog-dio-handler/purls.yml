@@ -2,3 +2,4 @@
 - pkg:composer/ziffmedia/monolog-dio-handler@v1.0.0-rc.1
 - pkg:composer/ziffmedia/monolog-dio-handler@v2.0.0
 - pkg:composer/ziffmedia/monolog-dio-handler@v2.0.0-rc.1
+- pkg:composer/ziffmedia/monolog-dio-handler@v2.0.1
