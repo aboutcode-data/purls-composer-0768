@@ -22,3 +22,4 @@
 - pkg:composer/flow-php/etl-adapter-excel@0.34.2
 - pkg:composer/flow-php/etl-adapter-excel@0.34.3
 - pkg:composer/flow-php/etl-adapter-excel@0.35.0
+- pkg:composer/flow-php/etl-adapter-excel@0.35.1
