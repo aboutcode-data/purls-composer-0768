@@ -1,3 +1,7 @@
+- pkg:composer/charcoal-dev/cli@0.2.10
+- pkg:composer/charcoal-dev/cli@0.2.11
+- pkg:composer/charcoal-dev/cli@0.2.12
 - pkg:composer/charcoal-dev/cli@0.2.6
 - pkg:composer/charcoal-dev/cli@0.2.7
 - pkg:composer/charcoal-dev/cli@0.2.8
+- pkg:composer/charcoal-dev/cli@0.2.9

@@ -66,3 +66,4 @@
 - pkg:composer/cego/request-log@3.0.0
 - pkg:composer/cego/request-log@3.0.1
 - pkg:composer/cego/request-log@3.0.2
+- pkg:composer/cego/request-log@3.1.0
