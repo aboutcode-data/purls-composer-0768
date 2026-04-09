@@ -20,3 +20,4 @@
 - pkg:composer/blitz-php/schild@1.5.0
 - pkg:composer/blitz-php/schild@1.5.1
 - pkg:composer/blitz-php/schild@1.6.0-rc
+- pkg:composer/blitz-php/schild@1.7.0-rc

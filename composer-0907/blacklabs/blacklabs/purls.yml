@@ -47,3 +47,4 @@
 - pkg:composer/blacklabs/blacklabs@v1.8.2
 - pkg:composer/blacklabs/blacklabs@v1.9.0
 - pkg:composer/blacklabs/blacklabs@v2.0.0
+- pkg:composer/blacklabs/blacklabs@v2.0.1

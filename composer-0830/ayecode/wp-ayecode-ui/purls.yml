@@ -143,3 +143,4 @@
 - pkg:composer/ayecode/wp-ayecode-ui@0.2.6
 - pkg:composer/ayecode/wp-ayecode-ui@0.2.8
 - pkg:composer/ayecode/wp-ayecode-ui@0.2.9
+- pkg:composer/ayecode/wp-ayecode-ui@3.0.0-beta
