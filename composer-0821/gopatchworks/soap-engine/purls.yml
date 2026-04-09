@@ -7,6 +7,7 @@
 - pkg:composer/gopatchworks/soap-engine@2.6.0
 - pkg:composer/gopatchworks/soap-engine@2.7.0
 - pkg:composer/gopatchworks/soap-engine@2.7.1
+- pkg:composer/gopatchworks/soap-engine@3.0.0
 - pkg:composer/gopatchworks/soap-engine@v0.1.0
 - pkg:composer/gopatchworks/soap-engine@v1.0.0
 - pkg:composer/gopatchworks/soap-engine@v1.1.0
