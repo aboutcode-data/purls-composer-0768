@@ -35,3 +35,4 @@
 - pkg:composer/dbp/relay-esign-bundle@v0.6.0
 - pkg:composer/dbp/relay-esign-bundle@v0.6.1
 - pkg:composer/dbp/relay-esign-bundle@v0.6.2
+- pkg:composer/dbp/relay-esign-bundle@v0.6.3
