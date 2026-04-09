@@ -84,3 +84,4 @@
 - pkg:composer/amplify/frontend@1.7.9
 - pkg:composer/amplify/frontend@1.8.0
 - pkg:composer/amplify/frontend@1.8.1
+- pkg:composer/amplify/frontend@1.8.2
