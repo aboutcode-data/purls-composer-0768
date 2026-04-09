@@ -13,3 +13,4 @@
 - pkg:composer/wyzen-packages/doctrine-simple-query-builder@v3.1.0
 - pkg:composer/wyzen-packages/doctrine-simple-query-builder@v3.1.1
 - pkg:composer/wyzen-packages/doctrine-simple-query-builder@v3.2.0
+- pkg:composer/wyzen-packages/doctrine-simple-query-builder@v4.4.0
