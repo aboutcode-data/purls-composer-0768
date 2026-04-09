@@ -12,3 +12,4 @@
 - pkg:composer/dominikb/composer-license-checker@2.5.1
 - pkg:composer/dominikb/composer-license-checker@2.6.0
 - pkg:composer/dominikb/composer-license-checker@2.7.0
+- pkg:composer/dominikb/composer-license-checker@3.0.0

@@ -111,3 +111,4 @@
 - pkg:composer/egroupware/openid@26.2.20260216
 - pkg:composer/egroupware/openid@26.2.20260224
 - pkg:composer/egroupware/openid@26.3.20260316
+- pkg:composer/egroupware/openid@26.4.20260408
