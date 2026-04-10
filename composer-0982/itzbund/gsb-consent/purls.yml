@@ -65,6 +65,7 @@
 - pkg:composer/itzbund/gsb-consent@v1.7.0-rc.1
 - pkg:composer/itzbund/gsb-consent@v1.7.1
 - pkg:composer/itzbund/gsb-consent@v1.7.10
+- pkg:composer/itzbund/gsb-consent@v1.7.11
 - pkg:composer/itzbund/gsb-consent@v1.7.2
 - pkg:composer/itzbund/gsb-consent@v1.7.3
 - pkg:composer/itzbund/gsb-consent@v1.7.4

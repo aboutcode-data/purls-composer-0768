@@ -25,3 +25,6 @@
 - pkg:composer/javaabu/efaas-socialite@v3.6.0
 - pkg:composer/javaabu/efaas-socialite@v3.7.0
 - pkg:composer/javaabu/efaas-socialite@v3.8.0
+- pkg:composer/javaabu/efaas-socialite@v4.0.0
+- pkg:composer/javaabu/efaas-socialite@v4.1.0
+- pkg:composer/javaabu/efaas-socialite@v4.1.1
