@@ -1,2 +1,3 @@
 - pkg:composer/firemultimedia/mautic-totp-bundle@1.0.0
 - pkg:composer/firemultimedia/mautic-totp-bundle@1.1.0
+- pkg:composer/firemultimedia/mautic-totp-bundle@1.1.1
