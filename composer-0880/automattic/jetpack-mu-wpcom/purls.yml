@@ -155,6 +155,7 @@
 - pkg:composer/automattic/jetpack-mu-wpcom@v5.9.0
 - pkg:composer/automattic/jetpack-mu-wpcom@v6.0.0
 - pkg:composer/automattic/jetpack-mu-wpcom@v6.1.0
+- pkg:composer/automattic/jetpack-mu-wpcom@v6.10.0
 - pkg:composer/automattic/jetpack-mu-wpcom@v6.2.0
 - pkg:composer/automattic/jetpack-mu-wpcom@v6.3.0
 - pkg:composer/automattic/jetpack-mu-wpcom@v6.3.1
