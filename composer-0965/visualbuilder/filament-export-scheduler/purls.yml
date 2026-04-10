@@ -66,5 +66,6 @@
 - pkg:composer/visualbuilder/filament-export-scheduler@5.0.4
 - pkg:composer/visualbuilder/filament-export-scheduler@5.0.5
 - pkg:composer/visualbuilder/filament-export-scheduler@5.0.6
+- pkg:composer/visualbuilder/filament-export-scheduler@5.0.7
 - pkg:composer/visualbuilder/filament-export-scheduler@v4.0.4
 - pkg:composer/visualbuilder/filament-export-scheduler@v4.0.5
