@@ -3,6 +3,10 @@
 - pkg:composer/increase/increase@v0.100.0
 - pkg:composer/increase/increase@v0.101.0
 - pkg:composer/increase/increase@v0.102.0
+- pkg:composer/increase/increase@v0.102.1
+- pkg:composer/increase/increase@v0.103.0
+- pkg:composer/increase/increase@v0.104.0
+- pkg:composer/increase/increase@v0.105.0
 - pkg:composer/increase/increase@v0.11.0
 - pkg:composer/increase/increase@v0.12.0
 - pkg:composer/increase/increase@v0.13.0
