@@ -3,6 +3,9 @@
 - pkg:composer/rouxcool/laravel-redis-advanced-cache@1.2.1
 - pkg:composer/rouxcool/laravel-redis-advanced-cache@1.2.10
 - pkg:composer/rouxcool/laravel-redis-advanced-cache@1.2.11
+- pkg:composer/rouxcool/laravel-redis-advanced-cache@1.2.12
+- pkg:composer/rouxcool/laravel-redis-advanced-cache@1.2.14
+- pkg:composer/rouxcool/laravel-redis-advanced-cache@1.2.15
 - pkg:composer/rouxcool/laravel-redis-advanced-cache@1.2.4
 - pkg:composer/rouxcool/laravel-redis-advanced-cache@1.2.6
 - pkg:composer/rouxcool/laravel-redis-advanced-cache@1.2.7
