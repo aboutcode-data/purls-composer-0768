@@ -85,6 +85,7 @@
 - pkg:composer/olmo/laravel-frontend@0.0.178
 - pkg:composer/olmo/laravel-frontend@0.0.179
 - pkg:composer/olmo/laravel-frontend@0.0.18
+- pkg:composer/olmo/laravel-frontend@0.0.181
 - pkg:composer/olmo/laravel-frontend@0.0.19
 - pkg:composer/olmo/laravel-frontend@0.0.2
 - pkg:composer/olmo/laravel-frontend@0.0.20

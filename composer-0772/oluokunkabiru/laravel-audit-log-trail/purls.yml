@@ -2,3 +2,4 @@
 - pkg:composer/oluokunkabiru/laravel-audit-log-trail@v1.0.1
 - pkg:composer/oluokunkabiru/laravel-audit-log-trail@v2.0.0
 - pkg:composer/oluokunkabiru/laravel-audit-log-trail@v2.0.1
+- pkg:composer/oluokunkabiru/laravel-audit-log-trail@v2.1.1

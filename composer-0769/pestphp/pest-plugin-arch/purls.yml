@@ -22,3 +22,5 @@
 - pkg:composer/pestphp/pest-plugin-arch@v3.1.0
 - pkg:composer/pestphp/pest-plugin-arch@v3.1.1
 - pkg:composer/pestphp/pest-plugin-arch@v4.0.0
+- pkg:composer/pestphp/pest-plugin-arch@v4.0.1
+- pkg:composer/pestphp/pest-plugin-arch@v4.0.2
