@@ -16,3 +16,4 @@
 - pkg:composer/lion/authentication@v5.8.0
 - pkg:composer/lion/authentication@v5.9.0
 - pkg:composer/lion/authentication@v6.0.0
+- pkg:composer/lion/authentication@v6.0.1
