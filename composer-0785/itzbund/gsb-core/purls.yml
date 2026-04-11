@@ -536,6 +536,7 @@
 - pkg:composer/itzbund/gsb-core@v4.12.1
 - pkg:composer/itzbund/gsb-core@v4.12.1-rc.1
 - pkg:composer/itzbund/gsb-core@v4.12.2-rc.1
+- pkg:composer/itzbund/gsb-core@v4.12.2-rc.2
 - pkg:composer/itzbund/gsb-core@v4.2.0
 - pkg:composer/itzbund/gsb-core@v4.2.0-rc.1
 - pkg:composer/itzbund/gsb-core@v4.2.0-rc.10

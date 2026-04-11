@@ -1,3 +1,4 @@
 - pkg:composer/isend-ai/php-sdk@v1.0.0
 - pkg:composer/isend-ai/php-sdk@v1.0.1
 - pkg:composer/isend-ai/php-sdk@v1.0.2
+- pkg:composer/isend-ai/php-sdk@v1.0.3
