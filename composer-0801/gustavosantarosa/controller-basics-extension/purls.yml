@@ -81,6 +81,7 @@
 - pkg:composer/gustavosantarosa/controller-basics-extension@3.4.0
 - pkg:composer/gustavosantarosa/controller-basics-extension@3.5.0
 - pkg:composer/gustavosantarosa/controller-basics-extension@3.5.1
+- pkg:composer/gustavosantarosa/controller-basics-extension@3.5.10
 - pkg:composer/gustavosantarosa/controller-basics-extension@3.5.2
 - pkg:composer/gustavosantarosa/controller-basics-extension@3.5.3
 - pkg:composer/gustavosantarosa/controller-basics-extension@3.5.4
@@ -90,3 +91,4 @@
 - pkg:composer/gustavosantarosa/controller-basics-extension@3.5.8
 - pkg:composer/gustavosantarosa/controller-basics-extension@3.5.9
 - pkg:composer/gustavosantarosa/controller-basics-extension@3.6.0
+- pkg:composer/gustavosantarosa/controller-basics-extension@3.6.1
