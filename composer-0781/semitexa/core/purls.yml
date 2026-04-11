@@ -17,6 +17,8 @@
 - pkg:composer/semitexa/core@2026.04.07.1133
 - pkg:composer/semitexa/core@2026.04.07.1933
 - pkg:composer/semitexa/core@2026.04.07.2058
+- pkg:composer/semitexa/core@2026.04.08.2025
+- pkg:composer/semitexa/core@2026.04.09.1145
 - pkg:composer/semitexa/core@v1.0.0
 - pkg:composer/semitexa/core@v1.0.1
 - pkg:composer/semitexa/core@v1.0.10
@@ -79,4 +81,3 @@
 - pkg:composer/semitexa/core@v1.1.53
 - pkg:composer/semitexa/core@v1.1.54
 - pkg:composer/semitexa/core@v1.1.60
-- pkg:composer/semitexa/core@v1.1.66

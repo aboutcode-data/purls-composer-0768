@@ -2,3 +2,4 @@
 - pkg:composer/setasign/setapdf-signer-addon-google-cloud-kms@v1.1.0
 - pkg:composer/setasign/setapdf-signer-addon-google-cloud-kms@v1.1.1
 - pkg:composer/setasign/setapdf-signer-addon-google-cloud-kms@v1.1.2
+- pkg:composer/setasign/setapdf-signer-addon-google-cloud-kms@v2.0.0

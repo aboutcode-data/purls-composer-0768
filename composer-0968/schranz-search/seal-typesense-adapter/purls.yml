@@ -4,6 +4,7 @@
 - pkg:composer/schranz-search/seal-typesense-adapter@0.10.1
 - pkg:composer/schranz-search/seal-typesense-adapter@0.11.0
 - pkg:composer/schranz-search/seal-typesense-adapter@0.12.0
+- pkg:composer/schranz-search/seal-typesense-adapter@0.12.10
 - pkg:composer/schranz-search/seal-typesense-adapter@0.12.2
 - pkg:composer/schranz-search/seal-typesense-adapter@0.12.4
 - pkg:composer/schranz-search/seal-typesense-adapter@0.12.5

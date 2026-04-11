@@ -5,6 +5,7 @@
 - pkg:composer/schranz-search/mezzio-module@0.10.2
 - pkg:composer/schranz-search/mezzio-module@0.11.0
 - pkg:composer/schranz-search/mezzio-module@0.12.0
+- pkg:composer/schranz-search/mezzio-module@0.12.10
 - pkg:composer/schranz-search/mezzio-module@0.12.2
 - pkg:composer/schranz-search/mezzio-module@0.12.5
 - pkg:composer/schranz-search/mezzio-module@0.12.6
