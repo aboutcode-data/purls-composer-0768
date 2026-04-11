@@ -28,3 +28,4 @@
 - pkg:composer/assegaiphp/console@0.4.6
 - pkg:composer/assegaiphp/console@0.4.7
 - pkg:composer/assegaiphp/console@0.8.0
+- pkg:composer/assegaiphp/console@0.8.1
