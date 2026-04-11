@@ -5,3 +5,5 @@
 - pkg:composer/miropay/payment-sdk@v1.0.3
 - pkg:composer/miropay/payment-sdk@v1.0.4
 - pkg:composer/miropay/payment-sdk@v1.0.5
+- pkg:composer/miropay/payment-sdk@v1.0.6
+- pkg:composer/miropay/payment-sdk@v1.0.7

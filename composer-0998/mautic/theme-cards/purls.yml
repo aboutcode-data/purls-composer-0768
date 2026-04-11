@@ -72,4 +72,5 @@
 - pkg:composer/mautic/theme-cards@7.0.0-rc
 - pkg:composer/mautic/theme-cards@7.0.0-rc2
 - pkg:composer/mautic/theme-cards@7.0.1
+- pkg:composer/mautic/theme-cards@7.0.2
 - pkg:composer/mautic/theme-cards@7.1.0-rc

@@ -45,6 +45,7 @@
 - pkg:composer/mezzio/mezzio-skeleton@3.15.1
 - pkg:composer/mezzio/mezzio-skeleton@3.16.0
 - pkg:composer/mezzio/mezzio-skeleton@3.17.0
+- pkg:composer/mezzio/mezzio-skeleton@3.18.0
 - pkg:composer/mezzio/mezzio-skeleton@3.2.0
 - pkg:composer/mezzio/mezzio-skeleton@3.2.1
 - pkg:composer/mezzio/mezzio-skeleton@3.2.2
