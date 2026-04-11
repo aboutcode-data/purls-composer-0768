@@ -8,3 +8,5 @@
 - pkg:composer/pimcore/studio-ui-bundle@v0.5.20
 - pkg:composer/pimcore/studio-ui-bundle@v0.6.30
 - pkg:composer/pimcore/studio-ui-bundle@v0.9.30
+- pkg:composer/pimcore/studio-ui-bundle@v2025.4.0
+- pkg:composer/pimcore/studio-ui-bundle@v2026.1.0

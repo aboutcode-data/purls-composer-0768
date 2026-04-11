@@ -17,3 +17,4 @@
 - pkg:composer/phpdocumentor/guides-theme-bootstrap@1.5.0
 - pkg:composer/phpdocumentor/guides-theme-bootstrap@1.7.0
 - pkg:composer/phpdocumentor/guides-theme-bootstrap@1.9.6
+- pkg:composer/phpdocumentor/guides-theme-bootstrap@1.9.7

@@ -8,5 +8,7 @@
 - pkg:composer/pimcore/payment-provider-paypal-smart-payment-button@v2.0.0-BETA1
 - pkg:composer/pimcore/payment-provider-paypal-smart-payment-button@v2.0.0-RC1
 - pkg:composer/pimcore/payment-provider-paypal-smart-payment-button@v2.0.1
+- pkg:composer/pimcore/payment-provider-paypal-smart-payment-button@v2026.1.0
 - pkg:composer/pimcore/payment-provider-paypal-smart-payment-button@v3.0.0
 - pkg:composer/pimcore/payment-provider-paypal-smart-payment-button@v3.0.0-RC1
+- pkg:composer/pimcore/payment-provider-paypal-smart-payment-button@v3.1.0

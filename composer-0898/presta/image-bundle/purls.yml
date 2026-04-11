@@ -31,3 +31,4 @@
 - pkg:composer/presta/image-bundle@v2.5.1
 - pkg:composer/presta/image-bundle@v3.0.0
 - pkg:composer/presta/image-bundle@v4.0.0
+- pkg:composer/presta/image-bundle@v4.0.1
