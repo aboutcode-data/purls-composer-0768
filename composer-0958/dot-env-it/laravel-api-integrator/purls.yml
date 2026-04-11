@@ -4,3 +4,4 @@
 - pkg:composer/dot-env-it/laravel-api-integrator@v1.2.0
 - pkg:composer/dot-env-it/laravel-api-integrator@v1.3.0
 - pkg:composer/dot-env-it/laravel-api-integrator@v1.3.1
+- pkg:composer/dot-env-it/laravel-api-integrator@v1.4.0
