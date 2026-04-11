@@ -35,3 +35,4 @@
 - pkg:composer/laravel-enso/countries@2.4.2
 - pkg:composer/laravel-enso/countries@2.5.0
 - pkg:composer/laravel-enso/countries@2.6.0
+- pkg:composer/laravel-enso/countries@2.7.0

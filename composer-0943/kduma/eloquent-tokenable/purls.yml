@@ -6,3 +6,4 @@
 - pkg:composer/kduma/eloquent-tokenable@v1.1.1
 - pkg:composer/kduma/eloquent-tokenable@v1.1.2
 - pkg:composer/kduma/eloquent-tokenable@v1.2.0
+- pkg:composer/kduma/eloquent-tokenable@v3.0.0

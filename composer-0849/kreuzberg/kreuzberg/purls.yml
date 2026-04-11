@@ -64,3 +64,6 @@
 - pkg:composer/kreuzberg/kreuzberg@4.7.2
 - pkg:composer/kreuzberg/kreuzberg@4.7.3
 - pkg:composer/kreuzberg/kreuzberg@4.7.4
+- pkg:composer/kreuzberg/kreuzberg@4.8.0
+- pkg:composer/kreuzberg/kreuzberg@4.8.1
+- pkg:composer/kreuzberg/kreuzberg@4.8.2

@@ -47,3 +47,4 @@
 - pkg:composer/laravel-enso/historytracker@2.2.0
 - pkg:composer/laravel-enso/historytracker@2.3.0
 - pkg:composer/laravel-enso/historytracker@2.4.0
+- pkg:composer/laravel-enso/historytracker@3.0.0

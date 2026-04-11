@@ -45,3 +45,4 @@
 - pkg:composer/laravel-enso/cnpvalidator@3.1.0
 - pkg:composer/laravel-enso/cnpvalidator@3.2.0
 - pkg:composer/laravel-enso/cnpvalidator@3.3.0
+- pkg:composer/laravel-enso/cnpvalidator@4.0.0

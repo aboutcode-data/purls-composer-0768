@@ -406,6 +406,7 @@
 - pkg:composer/laravel-enso/dataimport@6.1.7
 - pkg:composer/laravel-enso/dataimport@6.1.8
 - pkg:composer/laravel-enso/dataimport@6.1.9
+- pkg:composer/laravel-enso/dataimport@6.10.0
 - pkg:composer/laravel-enso/dataimport@6.2.0
 - pkg:composer/laravel-enso/dataimport@6.2.1
 - pkg:composer/laravel-enso/dataimport@6.3.0
