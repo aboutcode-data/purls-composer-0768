@@ -1,3 +1,4 @@
 - pkg:composer/juniora/laravel-translation-loader@v2.8.1
 - pkg:composer/juniora/laravel-translation-loader@v2.8.2
 - pkg:composer/juniora/laravel-translation-loader@v2.9.0
+- pkg:composer/juniora/laravel-translation-loader@v2.9.1
