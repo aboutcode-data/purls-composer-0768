@@ -22,3 +22,6 @@
 - pkg:composer/nht/notification@v2.5.0
 - pkg:composer/nht/notification@v2.6.0
 - pkg:composer/nht/notification@v2.7.0
+- pkg:composer/nht/notification@v2.8.0
+- pkg:composer/nht/notification@v2.9.0
+- pkg:composer/nht/notification@v3.0.0

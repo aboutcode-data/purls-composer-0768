@@ -13,3 +13,4 @@
 - pkg:composer/mtownsend/request-xml@2.5.0
 - pkg:composer/mtownsend/request-xml@2.5.1
 - pkg:composer/mtownsend/request-xml@2.6.0
+- pkg:composer/mtownsend/request-xml@2.7.0

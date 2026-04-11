@@ -171,6 +171,7 @@
 - pkg:composer/nelmio/api-doc-bundle@v5.0.1
 - pkg:composer/nelmio/api-doc-bundle@v5.0.2
 - pkg:composer/nelmio/api-doc-bundle@v5.1.0
+- pkg:composer/nelmio/api-doc-bundle@v5.10.0
 - pkg:composer/nelmio/api-doc-bundle@v5.2.0
 - pkg:composer/nelmio/api-doc-bundle@v5.2.1
 - pkg:composer/nelmio/api-doc-bundle@v5.3.0
