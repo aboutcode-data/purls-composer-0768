@@ -41,6 +41,7 @@
 - pkg:composer/catchadmin/core@0.4.7
 - pkg:composer/catchadmin/core@0.4.8
 - pkg:composer/catchadmin/core@1.0.0
+- pkg:composer/catchadmin/core@1.2.0
 - pkg:composer/catchadmin/core@v1.0.1
 - pkg:composer/catchadmin/core@v1.0.2
 - pkg:composer/catchadmin/core@v1.0.3
