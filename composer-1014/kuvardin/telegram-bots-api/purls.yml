@@ -6,3 +6,4 @@
 - pkg:composer/kuvardin/telegram-bots-api@v7.6
 - pkg:composer/kuvardin/telegram-bots-api@v7.7
 - pkg:composer/kuvardin/telegram-bots-api@v7.8
+- pkg:composer/kuvardin/telegram-bots-api@v9.6
