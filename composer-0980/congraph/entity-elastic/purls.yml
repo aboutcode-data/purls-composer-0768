@@ -11,3 +11,4 @@
 - pkg:composer/congraph/entity-elastic@v2.0.0
 - pkg:composer/congraph/entity-elastic@v2.0.1
 - pkg:composer/congraph/entity-elastic@v2.0.2
+- pkg:composer/congraph/entity-elastic@v2.0.3

@@ -2,3 +2,4 @@
 - pkg:composer/congraph/contracts@v1.0beta
 - pkg:composer/congraph/contracts@v1.1.0
 - pkg:composer/congraph/contracts@v2.0.0
+- pkg:composer/congraph/contracts@v2.0.3
