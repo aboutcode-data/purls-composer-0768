@@ -42,7 +42,6 @@
 - pkg:composer/granadaorm/granada@3.1.6
 - pkg:composer/granadaorm/granada@4.0.0
 - pkg:composer/granadaorm/granada@4.0.1
-- pkg:composer/granadaorm/granada@4.0.10
 - pkg:composer/granadaorm/granada@4.0.2
 - pkg:composer/granadaorm/granada@4.0.3
 - pkg:composer/granadaorm/granada@4.0.4
