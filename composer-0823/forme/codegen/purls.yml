@@ -100,9 +100,6 @@
 - pkg:composer/forme/codegen@v2.7.3
 - pkg:composer/forme/codegen@v2.7.4
 - pkg:composer/forme/codegen@v2.7.5
-- pkg:composer/forme/codegen@v2.8.0
-- pkg:composer/forme/codegen@v2.8.1
-- pkg:composer/forme/codegen@v2.8.2
 - pkg:composer/forme/codegen@v3.0.0
 - pkg:composer/forme/codegen@v3.0.1
 - pkg:composer/forme/codegen@v3.0.2
