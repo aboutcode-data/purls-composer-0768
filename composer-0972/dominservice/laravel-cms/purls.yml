@@ -79,3 +79,4 @@
 - pkg:composer/dominservice/laravel-cms@4.3.1
 - pkg:composer/dominservice/laravel-cms@4.4.0
 - pkg:composer/dominservice/laravel-cms@4.4.1
+- pkg:composer/dominservice/laravel-cms@4.4.2
