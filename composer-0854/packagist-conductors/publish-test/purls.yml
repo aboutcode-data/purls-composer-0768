@@ -1,18 +1,3 @@
-- pkg:composer/packagist-conductors/publish-test@6011.0.0
-- pkg:composer/packagist-conductors/publish-test@6012.0.0
-- pkg:composer/packagist-conductors/publish-test@6013.0.0
-- pkg:composer/packagist-conductors/publish-test@6014.0.0
-- pkg:composer/packagist-conductors/publish-test@6015.0.0
-- pkg:composer/packagist-conductors/publish-test@6016.0.0
-- pkg:composer/packagist-conductors/publish-test@6017.0.0
-- pkg:composer/packagist-conductors/publish-test@6018.0.0
-- pkg:composer/packagist-conductors/publish-test@6019.0.0
-- pkg:composer/packagist-conductors/publish-test@6020.0.0
-- pkg:composer/packagist-conductors/publish-test@6021.0.0
-- pkg:composer/packagist-conductors/publish-test@6022.0.0
-- pkg:composer/packagist-conductors/publish-test@6023.0.0
-- pkg:composer/packagist-conductors/publish-test@6024.0.0
-- pkg:composer/packagist-conductors/publish-test@6025.0.0
 - pkg:composer/packagist-conductors/publish-test@6026.0.0
 - pkg:composer/packagist-conductors/publish-test@6027.0.0
 - pkg:composer/packagist-conductors/publish-test@6028.0.0
@@ -23,3 +8,6 @@
 - pkg:composer/packagist-conductors/publish-test@6033.0.0
 - pkg:composer/packagist-conductors/publish-test@6034.0.0
 - pkg:composer/packagist-conductors/publish-test@6035.0.0
+- pkg:composer/packagist-conductors/publish-test@6036.0.0
+- pkg:composer/packagist-conductors/publish-test@6037.0.0
+- pkg:composer/packagist-conductors/publish-test@6038.0.0
