@@ -24,8 +24,7 @@
 - pkg:composer/php-ds/ext-ds@v1.2.9
 - pkg:composer/php-ds/ext-ds@v1.3.0
 - pkg:composer/php-ds/ext-ds@v1.4.0
-- pkg:composer/php-ds/ext-ds@v1.4.1
 - pkg:composer/php-ds/ext-ds@v1.5.0
 - pkg:composer/php-ds/ext-ds@v1.6.0
-- pkg:composer/php-ds/ext-ds@v1.7.0
 - pkg:composer/php-ds/ext-ds@v1.8.0
+- pkg:composer/php-ds/ext-ds@v2.0.0

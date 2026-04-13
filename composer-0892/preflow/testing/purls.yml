@@ -1,5 +1,8 @@
 - pkg:composer/preflow/testing@v0.1.0
 - pkg:composer/preflow/testing@v0.1.1
+- pkg:composer/preflow/testing@v0.10.0
+- pkg:composer/preflow/testing@v0.10.1
+- pkg:composer/preflow/testing@v0.10.2
 - pkg:composer/preflow/testing@v0.2.0
 - pkg:composer/preflow/testing@v0.2.1
 - pkg:composer/preflow/testing@v0.2.2
@@ -11,3 +14,8 @@
 - pkg:composer/preflow/testing@v0.4.0
 - pkg:composer/preflow/testing@v0.4.1
 - pkg:composer/preflow/testing@v0.5.0
+- pkg:composer/preflow/testing@v0.6.0
+- pkg:composer/preflow/testing@v0.7.0
+- pkg:composer/preflow/testing@v0.8.0
+- pkg:composer/preflow/testing@v0.9.0
+- pkg:composer/preflow/testing@v0.9.1

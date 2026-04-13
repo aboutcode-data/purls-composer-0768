@@ -14,9 +14,12 @@
 - pkg:composer/pentiminax/ux-sweet-alert@v0.16.0
 - pkg:composer/pentiminax/ux-sweet-alert@v0.17.0
 - pkg:composer/pentiminax/ux-sweet-alert@v0.18.0
+- pkg:composer/pentiminax/ux-sweet-alert@v0.19.0
 - pkg:composer/pentiminax/ux-sweet-alert@v0.2.0
 - pkg:composer/pentiminax/ux-sweet-alert@v0.2.1
 - pkg:composer/pentiminax/ux-sweet-alert@v0.2.2
+- pkg:composer/pentiminax/ux-sweet-alert@v0.20.0
+- pkg:composer/pentiminax/ux-sweet-alert@v0.20.1
 - pkg:composer/pentiminax/ux-sweet-alert@v0.3.0
 - pkg:composer/pentiminax/ux-sweet-alert@v0.3.1
 - pkg:composer/pentiminax/ux-sweet-alert@v0.3.2

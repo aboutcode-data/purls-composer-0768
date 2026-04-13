@@ -131,3 +131,4 @@
 - pkg:composer/php-flasher/flasher@v2.5.0
 - pkg:composer/php-flasher/flasher@v2.5.1
 - pkg:composer/php-flasher/flasher@v2.5.2
+- pkg:composer/php-flasher/flasher@v2.6.0

@@ -8,3 +8,4 @@
 - pkg:composer/php-opcua/opcua-client@v4.0.1
 - pkg:composer/php-opcua/opcua-client@v4.0.2
 - pkg:composer/php-opcua/opcua-client@v4.0.3
+- pkg:composer/php-opcua/opcua-client@v4.1.0
