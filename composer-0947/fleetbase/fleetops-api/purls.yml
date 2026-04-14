@@ -101,6 +101,7 @@
 - pkg:composer/fleetbase/fleetops-api@0.6.36
 - pkg:composer/fleetbase/fleetops-api@0.6.37
 - pkg:composer/fleetbase/fleetops-api@0.6.38
+- pkg:composer/fleetbase/fleetops-api@0.6.39
 - pkg:composer/fleetbase/fleetops-api@0.6.4
 - pkg:composer/fleetbase/fleetops-api@0.6.5
 - pkg:composer/fleetbase/fleetops-api@0.6.6
