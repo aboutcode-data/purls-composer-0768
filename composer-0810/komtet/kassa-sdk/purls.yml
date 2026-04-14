@@ -23,6 +23,7 @@
 - pkg:composer/komtet/kassa-sdk@10.2.2
 - pkg:composer/komtet/kassa-sdk@10.2.3
 - pkg:composer/komtet/kassa-sdk@11.0.0
+- pkg:composer/komtet/kassa-sdk@11.1.0
 - pkg:composer/komtet/kassa-sdk@2.0.0
 - pkg:composer/komtet/kassa-sdk@2.0.1
 - pkg:composer/komtet/kassa-sdk@2.0.2
