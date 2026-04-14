@@ -108,7 +108,6 @@
 - pkg:composer/pop-schema/tags@17.0.1
 - pkg:composer/pop-schema/tags@17.1.0
 - pkg:composer/pop-schema/tags@17.1.1
-- pkg:composer/pop-schema/tags@17.1.2
 - pkg:composer/pop-schema/tags@2.0.1
 - pkg:composer/pop-schema/tags@2.1.0
 - pkg:composer/pop-schema/tags@2.1.1
