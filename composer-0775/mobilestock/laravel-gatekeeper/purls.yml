@@ -112,6 +112,9 @@
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.1099
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.11
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.110
+- pkg:composer/mobilestock/laravel-gatekeeper@v0.0.1100
+- pkg:composer/mobilestock/laravel-gatekeeper@v0.0.1101
+- pkg:composer/mobilestock/laravel-gatekeeper@v0.0.1102
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.111
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.112
 - pkg:composer/mobilestock/laravel-gatekeeper@v0.0.113
