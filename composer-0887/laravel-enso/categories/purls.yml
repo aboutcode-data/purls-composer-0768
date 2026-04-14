@@ -79,3 +79,5 @@
 - pkg:composer/laravel-enso/categories@3.6.5
 - pkg:composer/laravel-enso/categories@3.7.0
 - pkg:composer/laravel-enso/categories@3.8.0
+- pkg:composer/laravel-enso/categories@3.9.0
+- pkg:composer/laravel-enso/categories@3.9.1
