@@ -10,3 +10,4 @@
 - pkg:composer/stadiamaps/api@v3.3.0
 - pkg:composer/stadiamaps/api@v4.0.0
 - pkg:composer/stadiamaps/api@v4.0.1
+- pkg:composer/stadiamaps/api@v5.0.0

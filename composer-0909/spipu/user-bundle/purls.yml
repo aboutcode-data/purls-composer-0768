@@ -22,3 +22,5 @@
 - pkg:composer/spipu/user-bundle@v4.2.0
 - pkg:composer/spipu/user-bundle@v4.2.1
 - pkg:composer/spipu/user-bundle@v4.2.2
+- pkg:composer/spipu/user-bundle@v5.0.0
+- pkg:composer/spipu/user-bundle@v5.0.1

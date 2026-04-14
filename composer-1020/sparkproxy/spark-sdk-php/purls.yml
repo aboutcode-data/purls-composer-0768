@@ -11,6 +11,8 @@
 - pkg:composer/sparkproxy/spark-sdk-php@0.14.1
 - pkg:composer/sparkproxy/spark-sdk-php@0.14.2
 - pkg:composer/sparkproxy/spark-sdk-php@0.14.3
+- pkg:composer/sparkproxy/spark-sdk-php@0.15.0
+- pkg:composer/sparkproxy/spark-sdk-php@0.15.1
 - pkg:composer/sparkproxy/spark-sdk-php@0.2.0
 - pkg:composer/sparkproxy/spark-sdk-php@0.3.0
 - pkg:composer/sparkproxy/spark-sdk-php@0.4.0

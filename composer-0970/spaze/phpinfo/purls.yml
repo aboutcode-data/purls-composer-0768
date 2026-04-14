@@ -9,3 +9,5 @@
 - pkg:composer/spaze/phpinfo@v1.3.0
 - pkg:composer/spaze/phpinfo@v1.3.1
 - pkg:composer/spaze/phpinfo@v1.4.0
+- pkg:composer/spaze/phpinfo@v2.0.0
+- pkg:composer/spaze/phpinfo@v2.0.1
