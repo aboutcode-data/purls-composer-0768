@@ -24,3 +24,5 @@
 - pkg:composer/symfony/ux-leaflet-map@v2.32.0
 - pkg:composer/symfony/ux-leaflet-map@v2.33.0
 - pkg:composer/symfony/ux-leaflet-map@v2.34.0
+- pkg:composer/symfony/ux-leaflet-map@v2.35.0
+- pkg:composer/symfony/ux-leaflet-map@v3.0.0

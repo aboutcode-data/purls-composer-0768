@@ -403,6 +403,7 @@
 - pkg:composer/tencentcloud/organization@3.0.1527
 - pkg:composer/tencentcloud/organization@3.0.1535
 - pkg:composer/tencentcloud/organization@3.0.1544
+- pkg:composer/tencentcloud/organization@3.0.1565
 - pkg:composer/tencentcloud/organization@3.0.248
 - pkg:composer/tencentcloud/organization@3.0.249
 - pkg:composer/tencentcloud/organization@3.0.250

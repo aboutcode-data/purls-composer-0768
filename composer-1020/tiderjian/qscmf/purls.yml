@@ -50,6 +50,8 @@
 - pkg:composer/tiderjian/qscmf@v14.0.0
 - pkg:composer/tiderjian/qscmf@v14.0.1
 - pkg:composer/tiderjian/qscmf@v14.0.2
+- pkg:composer/tiderjian/qscmf@v15.0.0
+- pkg:composer/tiderjian/qscmf@v15.0.1
 - pkg:composer/tiderjian/qscmf@v2.0.0
 - pkg:composer/tiderjian/qscmf@v2.0.1
 - pkg:composer/tiderjian/qscmf@v2.0.2

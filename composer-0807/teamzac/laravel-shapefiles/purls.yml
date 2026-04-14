@@ -6,3 +6,4 @@
 - pkg:composer/teamzac/laravel-shapefiles@v0.1
 - pkg:composer/teamzac/laravel-shapefiles@v0.5.0
 - pkg:composer/teamzac/laravel-shapefiles@v0.6.0
+- pkg:composer/teamzac/laravel-shapefiles@v0.6.1

@@ -7,3 +7,8 @@
 - pkg:composer/tiny-blocks/docker-container@1.4.0
 - pkg:composer/tiny-blocks/docker-container@1.5.0
 - pkg:composer/tiny-blocks/docker-container@2.0.0
+- pkg:composer/tiny-blocks/docker-container@2.1.0
+- pkg:composer/tiny-blocks/docker-container@2.2.0
+- pkg:composer/tiny-blocks/docker-container@2.3.0
+- pkg:composer/tiny-blocks/docker-container@2.4.0
+- pkg:composer/tiny-blocks/docker-container@2.5.0

@@ -33,3 +33,4 @@
 - pkg:composer/symfony/ux-toggle-password@v2.32.0
 - pkg:composer/symfony/ux-toggle-password@v2.33.0
 - pkg:composer/symfony/ux-toggle-password@v2.34.0
+- pkg:composer/symfony/ux-toggle-password@v2.35.0

@@ -156,6 +156,7 @@
 - pkg:composer/taes/fetcher@0.5.43
 - pkg:composer/taes/fetcher@0.5.44
 - pkg:composer/taes/fetcher@0.5.45
+- pkg:composer/taes/fetcher@0.5.46
 - pkg:composer/taes/fetcher@0.5.7
 - pkg:composer/taes/fetcher@0.5.8
 - pkg:composer/taes/fetcher@0.5.9

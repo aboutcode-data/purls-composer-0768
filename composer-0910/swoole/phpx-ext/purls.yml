@@ -1,1 +1,2 @@
+- pkg:composer/swoole/phpx-ext@2.1.0
 - pkg:composer/swoole/phpx-ext@v1.0.0
