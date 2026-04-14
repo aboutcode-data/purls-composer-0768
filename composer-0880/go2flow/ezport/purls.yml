@@ -36,6 +36,7 @@
 - pkg:composer/go2flow/ezport@0.13.18
 - pkg:composer/go2flow/ezport@0.13.19
 - pkg:composer/go2flow/ezport@0.13.2
+- pkg:composer/go2flow/ezport@0.13.20
 - pkg:composer/go2flow/ezport@0.13.3
 - pkg:composer/go2flow/ezport@0.13.4
 - pkg:composer/go2flow/ezport@0.13.5
