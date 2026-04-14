@@ -42,6 +42,7 @@
 - pkg:composer/se7enxweb/ezplatform-admin-ui-assets@v5.3.3
 - pkg:composer/se7enxweb/ezplatform-admin-ui-assets@v5.3.4
 - pkg:composer/se7enxweb/ezplatform-admin-ui-assets@v5.3.5
+- pkg:composer/se7enxweb/ezplatform-admin-ui-assets@v5.3.6
 - pkg:composer/se7enxweb/ezplatform-admin-ui-assets@v6.0.0-alpha1
 - pkg:composer/se7enxweb/ezplatform-admin-ui-assets@v6.0.0-alpha2
 - pkg:composer/se7enxweb/ezplatform-admin-ui-assets@v6.0.0-alpha3
