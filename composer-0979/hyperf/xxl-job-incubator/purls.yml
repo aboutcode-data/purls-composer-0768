@@ -9,6 +9,7 @@
 - pkg:composer/hyperf/xxl-job-incubator@v0.2.4
 - pkg:composer/hyperf/xxl-job-incubator@v0.2.5
 - pkg:composer/hyperf/xxl-job-incubator@v0.2.6
+- pkg:composer/hyperf/xxl-job-incubator@v0.2.7
 - pkg:composer/hyperf/xxl-job-incubator@v0.3.0
 - pkg:composer/hyperf/xxl-job-incubator@v0.3.1
 - pkg:composer/hyperf/xxl-job-incubator@v0.3.2
