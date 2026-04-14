@@ -1,1 +1,2 @@
 - pkg:composer/wordpress/php-mcp-schema@v0.1.0
+- pkg:composer/wordpress/php-mcp-schema@v0.1.1

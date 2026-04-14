@@ -44,3 +44,4 @@
 - pkg:composer/wp-cli/package-command@v2.6.0
 - pkg:composer/wp-cli/package-command@v2.6.1
 - pkg:composer/wp-cli/package-command@v2.7.0
+- pkg:composer/wp-cli/package-command@v2.7.1

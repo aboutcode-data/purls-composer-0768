@@ -10,6 +10,7 @@
 - pkg:composer/webfiori/database@1.2.0
 - pkg:composer/webfiori/database@2.0.0
 - pkg:composer/webfiori/database@2.0.1
+- pkg:composer/webfiori/database@2.0.2
 - pkg:composer/webfiori/database@v0.1
 - pkg:composer/webfiori/database@v0.2
 - pkg:composer/webfiori/database@v0.2.1
