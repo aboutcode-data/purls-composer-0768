@@ -41,3 +41,4 @@
 - pkg:composer/redot/datatables@v2.2.6
 - pkg:composer/redot/datatables@v3.0.0
 - pkg:composer/redot/datatables@v3.0.1
+- pkg:composer/redot/datatables@v3.0.2

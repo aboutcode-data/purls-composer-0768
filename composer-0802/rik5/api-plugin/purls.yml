@@ -1,3 +1,5 @@
 - pkg:composer/rik5/api-plugin@v1.0.0
 - pkg:composer/rik5/api-plugin@v1.0.1
 - pkg:composer/rik5/api-plugin@v1.0.2
+- pkg:composer/rik5/api-plugin@v6.0.0
+- pkg:composer/rik5/api-plugin@v7.0.0
