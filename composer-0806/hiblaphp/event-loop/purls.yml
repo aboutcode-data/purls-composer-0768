@@ -1,2 +1,4 @@
 - pkg:composer/hiblaphp/event-loop@1.0.0-alpha.1
 - pkg:composer/hiblaphp/event-loop@1.0.0-alpha.2
+- pkg:composer/hiblaphp/event-loop@1.0.0-alpha.3
+- pkg:composer/hiblaphp/event-loop@1.0.0-alpha.4
