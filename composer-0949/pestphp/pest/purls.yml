@@ -229,3 +229,4 @@
 - pkg:composer/pestphp/pest@v4.4.6
 - pkg:composer/pestphp/pest@v4.5.0
 - pkg:composer/pestphp/pest@v4.6.0
+- pkg:composer/pestphp/pest@v4.6.1
