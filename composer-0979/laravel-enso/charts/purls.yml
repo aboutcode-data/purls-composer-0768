@@ -102,3 +102,4 @@
 - pkg:composer/laravel-enso/charts@4.5.0
 - pkg:composer/laravel-enso/charts@4.6.0
 - pkg:composer/laravel-enso/charts@4.7.0
+- pkg:composer/laravel-enso/charts@4.7.1

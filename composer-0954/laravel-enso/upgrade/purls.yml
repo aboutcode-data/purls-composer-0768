@@ -18,6 +18,7 @@
 - pkg:composer/laravel-enso/upgrade@2.12.2
 - pkg:composer/laravel-enso/upgrade@2.13.0
 - pkg:composer/laravel-enso/upgrade@2.13.1
+- pkg:composer/laravel-enso/upgrade@2.14.0
 - pkg:composer/laravel-enso/upgrade@2.2.0
 - pkg:composer/laravel-enso/upgrade@2.3.0
 - pkg:composer/laravel-enso/upgrade@2.3.1

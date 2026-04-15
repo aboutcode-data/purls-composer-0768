@@ -188,6 +188,10 @@
 - pkg:composer/laravel-enso/core@11.1.1
 - pkg:composer/laravel-enso/core@12.0.0
 - pkg:composer/laravel-enso/core@12.1.0
+- pkg:composer/laravel-enso/core@12.1.1
+- pkg:composer/laravel-enso/core@12.1.2
+- pkg:composer/laravel-enso/core@12.2.0
+- pkg:composer/laravel-enso/core@12.2.1
 - pkg:composer/laravel-enso/core@13.0.0
 - pkg:composer/laravel-enso/core@2.0.0
 - pkg:composer/laravel-enso/core@2.0.1
