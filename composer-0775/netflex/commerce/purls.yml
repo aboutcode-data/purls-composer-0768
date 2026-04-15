@@ -295,3 +295,5 @@
 - pkg:composer/netflex/commerce@v6.5.0
 - pkg:composer/netflex/commerce@v6.6.0
 - pkg:composer/netflex/commerce@v6.7.0
+- pkg:composer/netflex/commerce@v6.7.1
+- pkg:composer/netflex/commerce@v6.7.2

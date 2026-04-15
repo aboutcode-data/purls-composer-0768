@@ -282,3 +282,5 @@
 - pkg:composer/netflex/encryption@v6.5.0
 - pkg:composer/netflex/encryption@v6.6.0
 - pkg:composer/netflex/encryption@v6.7.0
+- pkg:composer/netflex/encryption@v6.7.1
+- pkg:composer/netflex/encryption@v6.7.2
