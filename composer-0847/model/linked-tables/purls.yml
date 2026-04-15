@@ -24,3 +24,5 @@
 - pkg:composer/model/linked-tables@v0.2.3
 - pkg:composer/model/linked-tables@v0.2.4
 - pkg:composer/model/linked-tables@v0.2.5
+- pkg:composer/model/linked-tables@v0.2.6
+- pkg:composer/model/linked-tables@v0.2.7
