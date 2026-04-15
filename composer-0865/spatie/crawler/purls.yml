@@ -121,3 +121,4 @@
 - pkg:composer/spatie/crawler@9.1.0
 - pkg:composer/spatie/crawler@9.2.0
 - pkg:composer/spatie/crawler@9.2.1
+- pkg:composer/spatie/crawler@9.3.0

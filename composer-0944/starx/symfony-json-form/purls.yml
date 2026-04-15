@@ -9,9 +9,11 @@
 - pkg:composer/starx/symfony-json-form@v0.15.0
 - pkg:composer/starx/symfony-json-form@v0.16.0
 - pkg:composer/starx/symfony-json-form@v0.17.0
+- pkg:composer/starx/symfony-json-form@v0.17.1
 - pkg:composer/starx/symfony-json-form@v0.8.0
 - pkg:composer/starx/symfony-json-form@v0.8.1
 - pkg:composer/starx/symfony-json-form@v0.8.2
 - pkg:composer/starx/symfony-json-form@v0.8.3
 - pkg:composer/starx/symfony-json-form@v0.9.0
 - pkg:composer/starx/symfony-json-form@v0.9.1
+- pkg:composer/starx/symfony-json-form@v1.0.0
