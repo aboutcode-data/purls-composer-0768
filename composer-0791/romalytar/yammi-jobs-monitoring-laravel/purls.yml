@@ -2,3 +2,5 @@
 - pkg:composer/romalytar/yammi-jobs-monitoring-laravel@v1.1.0
 - pkg:composer/romalytar/yammi-jobs-monitoring-laravel@v1.2.0
 - pkg:composer/romalytar/yammi-jobs-monitoring-laravel@v1.3.0
+- pkg:composer/romalytar/yammi-jobs-monitoring-laravel@v2.0.0
+- pkg:composer/romalytar/yammi-jobs-monitoring-laravel@v2.1.0

@@ -80,6 +80,8 @@
 - pkg:composer/shieldforce/checkout-payment@v5.73.0
 - pkg:composer/shieldforce/checkout-payment@v5.74.0
 - pkg:composer/shieldforce/checkout-payment@v5.75.0
+- pkg:composer/shieldforce/checkout-payment@v5.76.0
+- pkg:composer/shieldforce/checkout-payment@v5.77.0
 - pkg:composer/shieldforce/checkout-payment@v5.8.2
 - pkg:composer/shieldforce/checkout-payment@v5.9.2
 - pkg:composer/shieldforce/checkout-payment@v5.9.3
