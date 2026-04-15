@@ -6,3 +6,4 @@
 - pkg:composer/prestashop/ps_viewedproduct@v1.2.3
 - pkg:composer/prestashop/ps_viewedproduct@v1.2.4
 - pkg:composer/prestashop/ps_viewedproduct@v1.2.5
+- pkg:composer/prestashop/ps_viewedproduct@v2.0.0

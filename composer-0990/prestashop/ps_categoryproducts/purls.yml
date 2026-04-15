@@ -5,3 +5,4 @@
 - pkg:composer/prestashop/ps_categoryproducts@v1.0.6
 - pkg:composer/prestashop/ps_categoryproducts@v1.0.7
 - pkg:composer/prestashop/ps_categoryproducts@v1.0.8
+- pkg:composer/prestashop/ps_categoryproducts@v2.0.0

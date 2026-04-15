@@ -88,8 +88,10 @@
 - pkg:composer/programster/core-libs@2.5.2
 - pkg:composer/programster/core-libs@2.5.3
 - pkg:composer/programster/core-libs@2.5.4
+- pkg:composer/programster/core-libs@2.5.5
 - pkg:composer/programster/core-libs@2.6.0
 - pkg:composer/programster/core-libs@2.6.1
 - pkg:composer/programster/core-libs@2.6.2
 - pkg:composer/programster/core-libs@2.6.3
 - pkg:composer/programster/core-libs@2.6.4
+- pkg:composer/programster/core-libs@2.6.5
