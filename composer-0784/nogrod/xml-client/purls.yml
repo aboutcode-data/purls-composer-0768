@@ -9,3 +9,5 @@
 - pkg:composer/nogrod/xml-client@v0.3.1
 - pkg:composer/nogrod/xml-client@v0.3.2
 - pkg:composer/nogrod/xml-client@v0.4.0
+- pkg:composer/nogrod/xml-client@v0.4.1
+- pkg:composer/nogrod/xml-client@v0.4.2
