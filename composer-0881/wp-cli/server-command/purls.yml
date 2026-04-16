@@ -19,6 +19,7 @@
 - pkg:composer/wp-cli/server-command@v2.0.16
 - pkg:composer/wp-cli/server-command@v2.0.17
 - pkg:composer/wp-cli/server-command@v2.0.18
+- pkg:composer/wp-cli/server-command@v2.0.19
 - pkg:composer/wp-cli/server-command@v2.0.2
 - pkg:composer/wp-cli/server-command@v2.0.3
 - pkg:composer/wp-cli/server-command@v2.0.4

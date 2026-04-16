@@ -125,3 +125,4 @@
 - pkg:composer/wp-cli/wp-cli-tests@v5.1.5
 - pkg:composer/wp-cli/wp-cli-tests@v5.1.6
 - pkg:composer/wp-cli/wp-cli-tests@v5.1.7
+- pkg:composer/wp-cli/wp-cli-tests@v5.1.8

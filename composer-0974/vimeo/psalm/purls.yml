@@ -469,6 +469,8 @@
 - pkg:composer/vimeo/psalm@7.0.0-beta15
 - pkg:composer/vimeo/psalm@7.0.0-beta16
 - pkg:composer/vimeo/psalm@7.0.0-beta17
+- pkg:composer/vimeo/psalm@7.0.0-beta18
+- pkg:composer/vimeo/psalm@7.0.0-beta19
 - pkg:composer/vimeo/psalm@7.0.0-beta2
 - pkg:composer/vimeo/psalm@7.0.0-beta3
 - pkg:composer/vimeo/psalm@7.0.0-beta4
