@@ -63,3 +63,4 @@
 - pkg:composer/spatie/schema-org@3.8.0
 - pkg:composer/spatie/schema-org@3.9.0
 - pkg:composer/spatie/schema-org@4.0.0
+- pkg:composer/spatie/schema-org@4.0.1
