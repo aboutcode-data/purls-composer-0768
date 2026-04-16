@@ -71,6 +71,7 @@
 - pkg:composer/sylius/grid@v1.14.1
 - pkg:composer/sylius/grid@v1.15.0
 - pkg:composer/sylius/grid@v1.15.0-ALPHA.1
+- pkg:composer/sylius/grid@v1.15.1
 - pkg:composer/sylius/grid@v1.2.0
 - pkg:composer/sylius/grid@v1.2.0-BETA
 - pkg:composer/sylius/grid@v1.2.0-RC

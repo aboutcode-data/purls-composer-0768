@@ -95,6 +95,7 @@
 - pkg:composer/sylius/resource-bundle@v1.13.1
 - pkg:composer/sylius/resource-bundle@v1.14.0
 - pkg:composer/sylius/resource-bundle@v1.14.0-ALPHA.1
+- pkg:composer/sylius/resource-bundle@v1.14.1
 - pkg:composer/sylius/resource-bundle@v1.2.0
 - pkg:composer/sylius/resource-bundle@v1.2.0-BETA
 - pkg:composer/sylius/resource-bundle@v1.2.0-RC
