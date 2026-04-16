@@ -48,6 +48,7 @@
 - pkg:composer/mezzio/mezzio-swoole@4.11.0
 - pkg:composer/mezzio/mezzio-swoole@4.12.0
 - pkg:composer/mezzio/mezzio-swoole@4.13.0
+- pkg:composer/mezzio/mezzio-swoole@4.14.0
 - pkg:composer/mezzio/mezzio-swoole@4.2.0
 - pkg:composer/mezzio/mezzio-swoole@4.3.0
 - pkg:composer/mezzio/mezzio-swoole@4.4.0
