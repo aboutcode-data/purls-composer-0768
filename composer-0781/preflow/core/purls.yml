@@ -10,6 +10,7 @@
 - pkg:composer/preflow/core@v0.11.2
 - pkg:composer/preflow/core@v0.11.3
 - pkg:composer/preflow/core@v0.11.4
+- pkg:composer/preflow/core@v0.12.0
 - pkg:composer/preflow/core@v0.2.0
 - pkg:composer/preflow/core@v0.2.1
 - pkg:composer/preflow/core@v0.2.2
