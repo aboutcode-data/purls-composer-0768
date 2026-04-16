@@ -1,2 +1,5 @@
 - pkg:composer/samody/laravel-migration-preflight@v1.0.0
 - pkg:composer/samody/laravel-migration-preflight@v1.0.4
+- pkg:composer/samody/laravel-migration-preflight@v1.0.5
+- pkg:composer/samody/laravel-migration-preflight@v1.0.6
+- pkg:composer/samody/laravel-migration-preflight@v1.0.7
