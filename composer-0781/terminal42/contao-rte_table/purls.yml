@@ -10,3 +10,4 @@
 - pkg:composer/terminal42/contao-rte_table@1.0.9
 - pkg:composer/terminal42/contao-rte_table@2.0.0
 - pkg:composer/terminal42/contao-rte_table@2.1.0
+- pkg:composer/terminal42/contao-rte_table@2.1.1

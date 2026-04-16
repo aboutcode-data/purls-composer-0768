@@ -29,6 +29,7 @@
 - pkg:composer/techdivision/import-cli@13.0.0
 - pkg:composer/techdivision/import-cli@13.1.0
 - pkg:composer/techdivision/import-cli@13.1.0-alpha
+- pkg:composer/techdivision/import-cli@13.2.0-alpha
 - pkg:composer/techdivision/import-cli@2.0.0
 - pkg:composer/techdivision/import-cli@3.0.0
 - pkg:composer/techdivision/import-cli@3.0.1

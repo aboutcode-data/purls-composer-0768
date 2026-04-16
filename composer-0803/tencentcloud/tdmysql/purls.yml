@@ -1,3 +1,4 @@
 - pkg:composer/tencentcloud/tdmysql@3.0.1536
 - pkg:composer/tencentcloud/tdmysql@3.0.1547
 - pkg:composer/tencentcloud/tdmysql@3.0.1559
+- pkg:composer/tencentcloud/tdmysql@3.0.1570

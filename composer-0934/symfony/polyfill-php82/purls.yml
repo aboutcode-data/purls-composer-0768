@@ -7,3 +7,5 @@
 - pkg:composer/symfony/polyfill-php82@v1.32.0
 - pkg:composer/symfony/polyfill-php82@v1.33.0
 - pkg:composer/symfony/polyfill-php82@v1.34.0
+- pkg:composer/symfony/polyfill-php82@v1.35.0
+- pkg:composer/symfony/polyfill-php82@v1.36.0

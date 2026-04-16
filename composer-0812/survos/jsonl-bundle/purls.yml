@@ -86,6 +86,8 @@
 - pkg:composer/survos/jsonl-bundle@2.0.195
 - pkg:composer/survos/jsonl-bundle@2.0.196
 - pkg:composer/survos/jsonl-bundle@2.0.197
+- pkg:composer/survos/jsonl-bundle@2.0.198
+- pkg:composer/survos/jsonl-bundle@2.0.199
 - pkg:composer/survos/jsonl-bundle@2.0.27
 - pkg:composer/survos/jsonl-bundle@2.0.28
 - pkg:composer/survos/jsonl-bundle@2.0.29
