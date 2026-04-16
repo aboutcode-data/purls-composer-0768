@@ -1077,6 +1077,9 @@
 - pkg:composer/mobilestock/scribe-tdd@v1.0.999
 - pkg:composer/mobilestock/scribe-tdd@v2.0.0
 - pkg:composer/mobilestock/scribe-tdd@v2.0.1
+- pkg:composer/mobilestock/scribe-tdd@v2.0.10
+- pkg:composer/mobilestock/scribe-tdd@v2.0.11
+- pkg:composer/mobilestock/scribe-tdd@v2.0.12
 - pkg:composer/mobilestock/scribe-tdd@v2.0.2
 - pkg:composer/mobilestock/scribe-tdd@v2.0.3
 - pkg:composer/mobilestock/scribe-tdd@v2.0.4
