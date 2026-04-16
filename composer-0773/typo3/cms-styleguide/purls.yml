@@ -89,6 +89,7 @@
 - pkg:composer/typo3/cms-styleguide@v13.4.25
 - pkg:composer/typo3/cms-styleguide@v13.4.26
 - pkg:composer/typo3/cms-styleguide@v13.4.27
+- pkg:composer/typo3/cms-styleguide@v13.4.28
 - pkg:composer/typo3/cms-styleguide@v13.4.3
 - pkg:composer/typo3/cms-styleguide@v13.4.4
 - pkg:composer/typo3/cms-styleguide@v13.4.5

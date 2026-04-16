@@ -139,6 +139,7 @@
 - pkg:composer/typo3/cms-impexp@v12.4.42
 - pkg:composer/typo3/cms-impexp@v12.4.43
 - pkg:composer/typo3/cms-impexp@v12.4.44
+- pkg:composer/typo3/cms-impexp@v12.4.45
 - pkg:composer/typo3/cms-impexp@v12.4.5
 - pkg:composer/typo3/cms-impexp@v12.4.6
 - pkg:composer/typo3/cms-impexp@v12.4.7
@@ -172,6 +173,7 @@
 - pkg:composer/typo3/cms-impexp@v13.4.25
 - pkg:composer/typo3/cms-impexp@v13.4.26
 - pkg:composer/typo3/cms-impexp@v13.4.27
+- pkg:composer/typo3/cms-impexp@v13.4.28
 - pkg:composer/typo3/cms-impexp@v13.4.3
 - pkg:composer/typo3/cms-impexp@v13.4.4
 - pkg:composer/typo3/cms-impexp@v13.4.5
