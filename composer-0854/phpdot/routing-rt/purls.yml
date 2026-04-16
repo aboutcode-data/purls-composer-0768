@@ -1,2 +1,6 @@
 - pkg:composer/phpdot/routing-rt@v1.0.0
 - pkg:composer/phpdot/routing-rt@v1.1.0
+- pkg:composer/phpdot/routing-rt@v2.0.0
+- pkg:composer/phpdot/routing-rt@v2.1.0
+- pkg:composer/phpdot/routing-rt@v2.2.0
+- pkg:composer/phpdot/routing-rt@v2.3.0
