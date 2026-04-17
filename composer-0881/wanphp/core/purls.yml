@@ -29,3 +29,4 @@
 - pkg:composer/wanphp/core@v1.0.8
 - pkg:composer/wanphp/core@v1.0.9
 - pkg:composer/wanphp/core@v2.0.0-alpha
+- pkg:composer/wanphp/core@v2.0.0-alpha1
