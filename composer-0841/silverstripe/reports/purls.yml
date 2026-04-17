@@ -207,5 +207,6 @@
 - pkg:composer/silverstripe/reports@6.1.0-beta1
 - pkg:composer/silverstripe/reports@6.1.0-rc1
 - pkg:composer/silverstripe/reports@6.1.1
+- pkg:composer/silverstripe/reports@6.2.0
 - pkg:composer/silverstripe/reports@6.2.0-beta1
 - pkg:composer/silverstripe/reports@6.2.0-rc1
