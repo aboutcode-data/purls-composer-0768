@@ -138,6 +138,7 @@
 - pkg:composer/shopware/administration@v6.6.10.13
 - pkg:composer/shopware/administration@v6.6.10.14
 - pkg:composer/shopware/administration@v6.6.10.15
+- pkg:composer/shopware/administration@v6.6.10.16
 - pkg:composer/shopware/administration@v6.6.10.2
 - pkg:composer/shopware/administration@v6.6.10.3
 - pkg:composer/shopware/administration@v6.6.10.4
