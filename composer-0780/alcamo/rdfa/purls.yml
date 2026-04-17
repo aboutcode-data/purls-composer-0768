@@ -25,6 +25,7 @@
 - pkg:composer/alcamo/rdfa@0.12.21
 - pkg:composer/alcamo/rdfa@0.12.22
 - pkg:composer/alcamo/rdfa@0.12.23
+- pkg:composer/alcamo/rdfa@0.12.24
 - pkg:composer/alcamo/rdfa@0.12.3
 - pkg:composer/alcamo/rdfa@0.12.4
 - pkg:composer/alcamo/rdfa@0.12.5
@@ -32,6 +33,7 @@
 - pkg:composer/alcamo/rdfa@0.12.7
 - pkg:composer/alcamo/rdfa@0.12.8
 - pkg:composer/alcamo/rdfa@0.12.9
+- pkg:composer/alcamo/rdfa@0.13.0
 - pkg:composer/alcamo/rdfa@0.2
 - pkg:composer/alcamo/rdfa@0.3
 - pkg:composer/alcamo/rdfa@0.4

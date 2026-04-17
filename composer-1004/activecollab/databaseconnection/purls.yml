@@ -9,6 +9,7 @@
 - pkg:composer/activecollab/databaseconnection@2.1.0
 - pkg:composer/activecollab/databaseconnection@2.1.1
 - pkg:composer/activecollab/databaseconnection@3.0.0
+- pkg:composer/activecollab/databaseconnection@3.0.1
 - pkg:composer/activecollab/databaseconnection@4.0.0
 - pkg:composer/activecollab/databaseconnection@5.0.0
 - pkg:composer/activecollab/databaseconnection@5.1.0

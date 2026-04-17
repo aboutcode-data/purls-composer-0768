@@ -1,5 +1,7 @@
 - pkg:composer/aedart/athenaeum-http-cookies@10.0.0
 - pkg:composer/aedart/athenaeum-http-cookies@10.1.0
+- pkg:composer/aedart/athenaeum-http-cookies@10.2.0
+- pkg:composer/aedart/athenaeum-http-cookies@10.3.0
 - pkg:composer/aedart/athenaeum-http-cookies@4.0.1
 - pkg:composer/aedart/athenaeum-http-cookies@4.1.0
 - pkg:composer/aedart/athenaeum-http-cookies@4.2.0

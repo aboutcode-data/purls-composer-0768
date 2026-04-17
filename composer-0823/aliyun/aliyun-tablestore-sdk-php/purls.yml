@@ -15,3 +15,4 @@
 - pkg:composer/aliyun/aliyun-tablestore-sdk-php@v5.1.4
 - pkg:composer/aliyun/aliyun-tablestore-sdk-php@v5.1.5
 - pkg:composer/aliyun/aliyun-tablestore-sdk-php@v6.0.0
+- pkg:composer/aliyun/aliyun-tablestore-sdk-php@v6.0.1

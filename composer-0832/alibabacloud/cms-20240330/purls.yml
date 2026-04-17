@@ -34,3 +34,6 @@
 - pkg:composer/alibabacloud/cms-20240330@6.4.0
 - pkg:composer/alibabacloud/cms-20240330@6.5.0
 - pkg:composer/alibabacloud/cms-20240330@7.0.0
+- pkg:composer/alibabacloud/cms-20240330@7.0.1
+- pkg:composer/alibabacloud/cms-20240330@7.0.2
+- pkg:composer/alibabacloud/cms-20240330@7.1.0
