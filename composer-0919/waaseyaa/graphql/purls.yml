@@ -46,6 +46,8 @@
 - pkg:composer/waaseyaa/graphql@v0.1.0-alpha.140
 - pkg:composer/waaseyaa/graphql@v0.1.0-alpha.141
 - pkg:composer/waaseyaa/graphql@v0.1.0-alpha.142
+- pkg:composer/waaseyaa/graphql@v0.1.0-alpha.144
+- pkg:composer/waaseyaa/graphql@v0.1.0-alpha.145
 - pkg:composer/waaseyaa/graphql@v0.1.0-alpha.15
 - pkg:composer/waaseyaa/graphql@v0.1.0-alpha.16
 - pkg:composer/waaseyaa/graphql@v0.1.0-alpha.17
