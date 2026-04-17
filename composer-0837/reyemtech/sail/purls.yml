@@ -48,3 +48,5 @@
 - pkg:composer/reyemtech/sail@v1.51.1
 - pkg:composer/reyemtech/sail@v2.0.0
 - pkg:composer/reyemtech/sail@v2.1.0
+- pkg:composer/reyemtech/sail@v3.0.0
+- pkg:composer/reyemtech/sail@v3.0.1
