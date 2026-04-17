@@ -6,6 +6,8 @@
 - pkg:composer/pentacore/laravel-typefinder@4.0.0
 - pkg:composer/pentacore/laravel-typefinder@4.0.1
 - pkg:composer/pentacore/laravel-typefinder@4.0.2
+- pkg:composer/pentacore/laravel-typefinder@4.1.0
+- pkg:composer/pentacore/laravel-typefinder@4.2.0
 - pkg:composer/pentacore/laravel-typefinder@v1.0.0
 - pkg:composer/pentacore/laravel-typefinder@v1.0.1
 - pkg:composer/pentacore/laravel-typefinder@v1.1.0

@@ -100,3 +100,4 @@
 - pkg:composer/php-extended/php-merge-interface@9.0.0
 - pkg:composer/php-extended/php-merge-interface@9.0.1
 - pkg:composer/php-extended/php-merge-interface@9.0.2
+- pkg:composer/php-extended/php-merge-interface@9.0.3
