@@ -29,3 +29,4 @@
 - pkg:composer/plank/laravel-metable@6.1.0
 - pkg:composer/plank/laravel-metable@6.2.0
 - pkg:composer/plank/laravel-metable@6.3.0
+- pkg:composer/plank/laravel-metable@6.3.1
