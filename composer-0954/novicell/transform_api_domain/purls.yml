@@ -8,3 +8,7 @@
 - pkg:composer/novicell/transform_api_domain@1.2.3
 - pkg:composer/novicell/transform_api_domain@1.2.4
 - pkg:composer/novicell/transform_api_domain@1.2.5
+- pkg:composer/novicell/transform_api_domain@1.3.0
+- pkg:composer/novicell/transform_api_domain@1.3.1
+- pkg:composer/novicell/transform_api_domain@1.4.0
+- pkg:composer/novicell/transform_api_domain@1.4.1
