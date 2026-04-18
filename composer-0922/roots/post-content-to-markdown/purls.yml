@@ -5,3 +5,4 @@
 - pkg:composer/roots/post-content-to-markdown@v1.2.2
 - pkg:composer/roots/post-content-to-markdown@v1.3.0
 - pkg:composer/roots/post-content-to-markdown@v1.3.1
+- pkg:composer/roots/post-content-to-markdown@v1.4.0
