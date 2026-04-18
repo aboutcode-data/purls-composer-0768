@@ -1,6 +1,7 @@
 - pkg:composer/orchidjs/tom-select@2.4.4
 - pkg:composer/orchidjs/tom-select@2.5.0
 - pkg:composer/orchidjs/tom-select@2.5.2
+- pkg:composer/orchidjs/tom-select@2.6.0
 - pkg:composer/orchidjs/tom-select@v1.2.0
 - pkg:composer/orchidjs/tom-select@v1.2.1
 - pkg:composer/orchidjs/tom-select@v1.2.2
