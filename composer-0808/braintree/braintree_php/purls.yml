@@ -127,6 +127,8 @@
 - pkg:composer/braintree/braintree_php@6.30.0
 - pkg:composer/braintree/braintree_php@6.31.0
 - pkg:composer/braintree/braintree_php@6.32.0
+- pkg:composer/braintree/braintree_php@6.33.0
+- pkg:composer/braintree/braintree_php@6.33.1
 - pkg:composer/braintree/braintree_php@6.4.0
 - pkg:composer/braintree/braintree_php@6.4.1
 - pkg:composer/braintree/braintree_php@6.5.0

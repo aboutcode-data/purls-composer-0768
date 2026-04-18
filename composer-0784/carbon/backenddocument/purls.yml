@@ -26,3 +26,4 @@
 - pkg:composer/carbon/backenddocument@5.6.2
 - pkg:composer/carbon/backenddocument@5.6.3
 - pkg:composer/carbon/backenddocument@5.7.0
+- pkg:composer/carbon/backenddocument@5.7.1

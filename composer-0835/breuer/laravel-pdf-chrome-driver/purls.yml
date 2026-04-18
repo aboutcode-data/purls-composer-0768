@@ -17,3 +17,4 @@
 - pkg:composer/breuer/laravel-pdf-chrome-driver@v1.0.0-alpha
 - pkg:composer/breuer/laravel-pdf-chrome-driver@v2.0.0
 - pkg:composer/breuer/laravel-pdf-chrome-driver@v2.0.1
+- pkg:composer/breuer/laravel-pdf-chrome-driver@v2.0.2

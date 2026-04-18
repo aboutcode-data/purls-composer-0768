@@ -106,3 +106,4 @@
 - pkg:composer/cakephp/migrations@5.0.2
 - pkg:composer/cakephp/migrations@5.0.3
 - pkg:composer/cakephp/migrations@5.0.4
+- pkg:composer/cakephp/migrations@5.1.0

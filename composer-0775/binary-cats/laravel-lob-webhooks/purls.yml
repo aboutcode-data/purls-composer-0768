@@ -4,4 +4,6 @@
 - pkg:composer/binary-cats/laravel-lob-webhooks@1.0.3
 - pkg:composer/binary-cats/laravel-lob-webhooks@1.1.0
 - pkg:composer/binary-cats/laravel-lob-webhooks@1.2.0
+- pkg:composer/binary-cats/laravel-lob-webhooks@10.0.0
+- pkg:composer/binary-cats/laravel-lob-webhooks@10.1.0
 - pkg:composer/binary-cats/laravel-lob-webhooks@9.0.0

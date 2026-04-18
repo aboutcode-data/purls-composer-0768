@@ -4,3 +4,4 @@
 - pkg:composer/blesta/paypal_checkout@1.0.3
 - pkg:composer/blesta/paypal_checkout@1.0.4
 - pkg:composer/blesta/paypal_checkout@1.0.5
+- pkg:composer/blesta/paypal_checkout@2.0.0
