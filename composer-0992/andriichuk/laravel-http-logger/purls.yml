@@ -10,3 +10,4 @@
 - pkg:composer/andriichuk/laravel-http-logger@0.2.5
 - pkg:composer/andriichuk/laravel-http-logger@0.2.6
 - pkg:composer/andriichuk/laravel-http-logger@0.2.7
+- pkg:composer/andriichuk/laravel-http-logger@0.2.8

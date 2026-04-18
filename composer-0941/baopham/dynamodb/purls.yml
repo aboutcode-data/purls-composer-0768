@@ -75,3 +75,4 @@
 - pkg:composer/baopham/dynamodb@6.5.0
 - pkg:composer/baopham/dynamodb@6.6.0
 - pkg:composer/baopham/dynamodb@7.0.0
+- pkg:composer/baopham/dynamodb@7.1.0

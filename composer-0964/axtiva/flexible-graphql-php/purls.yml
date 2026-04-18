@@ -23,3 +23,5 @@
 - pkg:composer/axtiva/flexible-graphql-php@v2.2.0
 - pkg:composer/axtiva/flexible-graphql-php@v3.0.0
 - pkg:composer/axtiva/flexible-graphql-php@v3.0.1
+- pkg:composer/axtiva/flexible-graphql-php@v3.0.2
+- pkg:composer/axtiva/flexible-graphql-php@v3.1.0

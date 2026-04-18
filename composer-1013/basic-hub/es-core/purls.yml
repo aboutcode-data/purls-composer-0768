@@ -105,6 +105,8 @@
 - pkg:composer/basic-hub/es-core@3.0.89
 - pkg:composer/basic-hub/es-core@3.0.9
 - pkg:composer/basic-hub/es-core@3.0.90
+- pkg:composer/basic-hub/es-core@3.0.91
+- pkg:composer/basic-hub/es-core@3.0.92
 - pkg:composer/basic-hub/es-core@v1.0.0
 - pkg:composer/basic-hub/es-core@v1.0.0-beta.1
 - pkg:composer/basic-hub/es-core@v1.0.1

@@ -7,3 +7,5 @@
 - pkg:composer/astrotomic/laravel-vcard@0.5.0
 - pkg:composer/astrotomic/laravel-vcard@0.6.0
 - pkg:composer/astrotomic/laravel-vcard@0.7.0
+- pkg:composer/astrotomic/laravel-vcard@0.8.0
+- pkg:composer/astrotomic/laravel-vcard@0.8.1

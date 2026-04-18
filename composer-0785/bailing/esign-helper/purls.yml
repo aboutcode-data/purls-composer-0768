@@ -3,3 +3,5 @@
 - pkg:composer/bailing/esign-helper@v3.0.3
 - pkg:composer/bailing/esign-helper@v3.1.0
 - pkg:composer/bailing/esign-helper@v3.1.1
+- pkg:composer/bailing/esign-helper@v3.1.2
+- pkg:composer/bailing/esign-helper@v3.1.3
