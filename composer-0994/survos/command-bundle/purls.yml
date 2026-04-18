@@ -817,6 +817,7 @@
 - pkg:composer/survos/command-bundle@2.0.200
 - pkg:composer/survos/command-bundle@2.0.201
 - pkg:composer/survos/command-bundle@2.0.202
+- pkg:composer/survos/command-bundle@2.0.203
 - pkg:composer/survos/command-bundle@2.0.21
 - pkg:composer/survos/command-bundle@2.0.22
 - pkg:composer/survos/command-bundle@2.0.23
