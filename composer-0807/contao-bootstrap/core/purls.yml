@@ -31,3 +31,4 @@
 - pkg:composer/contao-bootstrap/core@3.0.0
 - pkg:composer/contao-bootstrap/core@3.0.1
 - pkg:composer/contao-bootstrap/core@3.0.2
+- pkg:composer/contao-bootstrap/core@3.0.3

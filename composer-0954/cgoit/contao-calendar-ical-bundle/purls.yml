@@ -61,6 +61,7 @@
 - pkg:composer/cgoit/contao-calendar-ical-bundle@5.9.12
 - pkg:composer/cgoit/contao-calendar-ical-bundle@5.9.13
 - pkg:composer/cgoit/contao-calendar-ical-bundle@5.9.14
+- pkg:composer/cgoit/contao-calendar-ical-bundle@5.9.15
 - pkg:composer/cgoit/contao-calendar-ical-bundle@5.9.2
 - pkg:composer/cgoit/contao-calendar-ical-bundle@5.9.3
 - pkg:composer/cgoit/contao-calendar-ical-bundle@5.9.4

@@ -61,3 +61,4 @@
 - pkg:composer/crazywhalecc/static-php-cli@2.8.2
 - pkg:composer/crazywhalecc/static-php-cli@2.8.3
 - pkg:composer/crazywhalecc/static-php-cli@2.8.4
+- pkg:composer/crazywhalecc/static-php-cli@2.8.5

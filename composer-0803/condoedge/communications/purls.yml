@@ -30,6 +30,8 @@
 - pkg:composer/condoedge/communications@v0.2.18
 - pkg:composer/condoedge/communications@v0.2.19
 - pkg:composer/condoedge/communications@v0.2.2
+- pkg:composer/condoedge/communications@v0.2.20
+- pkg:composer/condoedge/communications@v0.2.21
 - pkg:composer/condoedge/communications@v0.2.3
 - pkg:composer/condoedge/communications@v0.2.4
 - pkg:composer/condoedge/communications@v0.2.5
