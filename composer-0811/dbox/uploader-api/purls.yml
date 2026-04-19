@@ -24,3 +24,5 @@
 - pkg:composer/dbox/uploader-api@7.8.0
 - pkg:composer/dbox/uploader-api@7.9.0
 - pkg:composer/dbox/uploader-api@7.9.1
+- pkg:composer/dbox/uploader-api@7.9.2
+- pkg:composer/dbox/uploader-api@7.9.3

@@ -18,3 +18,4 @@
 - pkg:composer/diecoding/yii2-flysystem@v1.7.2
 - pkg:composer/diecoding/yii2-flysystem@v1.7.3
 - pkg:composer/diecoding/yii2-flysystem@v1.7.4
+- pkg:composer/diecoding/yii2-flysystem@v1.8.0
