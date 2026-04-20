@@ -1,3 +1,6 @@
 - pkg:composer/apntalk/esl-replay@v0.9.0
 - pkg:composer/apntalk/esl-replay@v0.9.1
 - pkg:composer/apntalk/esl-replay@v0.9.2
+- pkg:composer/apntalk/esl-replay@v0.9.3
+- pkg:composer/apntalk/esl-replay@v0.9.3-rc1
+- pkg:composer/apntalk/esl-replay@v0.9.4
