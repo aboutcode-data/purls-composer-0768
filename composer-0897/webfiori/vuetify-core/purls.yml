@@ -24,3 +24,4 @@
 - pkg:composer/webfiori/vuetify-core@v1.4.1
 - pkg:composer/webfiori/vuetify-core@v1.4.2
 - pkg:composer/webfiori/vuetify-core@v2.0.0
+- pkg:composer/webfiori/vuetify-core@v3.0.0
