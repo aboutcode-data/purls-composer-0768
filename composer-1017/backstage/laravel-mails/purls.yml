@@ -67,3 +67,4 @@
 - pkg:composer/backstage/laravel-mails@v4.0.5
 - pkg:composer/backstage/laravel-mails@v4.0.6
 - pkg:composer/backstage/laravel-mails@v4.0.7
+- pkg:composer/backstage/laravel-mails@v4.0.8
