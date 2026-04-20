@@ -4,3 +4,9 @@
 - pkg:composer/zhaohai/rocketmq-client-php@v1.0.4
 - pkg:composer/zhaohai/rocketmq-client-php@v1.0.5
 - pkg:composer/zhaohai/rocketmq-client-php@v1.0.6
+- pkg:composer/zhaohai/rocketmq-client-php@v1.0.7
+- pkg:composer/zhaohai/rocketmq-client-php@v1.0.8
+- pkg:composer/zhaohai/rocketmq-client-php@v1.0.9
+- pkg:composer/zhaohai/rocketmq-client-php@v1.1.0
+- pkg:composer/zhaohai/rocketmq-client-php@v1.1.1
+- pkg:composer/zhaohai/rocketmq-client-php@v1.1.2
