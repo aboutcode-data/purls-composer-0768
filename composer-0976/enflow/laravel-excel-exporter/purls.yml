@@ -1,1 +1,2 @@
 - pkg:composer/enflow/laravel-excel-exporter@1.0.0
+- pkg:composer/enflow/laravel-excel-exporter@1.3.0
