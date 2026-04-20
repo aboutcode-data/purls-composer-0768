@@ -10,3 +10,4 @@
 - pkg:composer/digifactory/laravel-svg-fixer-middleware@v4.1.0
 - pkg:composer/digifactory/laravel-svg-fixer-middleware@v4.1.1
 - pkg:composer/digifactory/laravel-svg-fixer-middleware@v5.0.0
+- pkg:composer/digifactory/laravel-svg-fixer-middleware@v5.0.1
