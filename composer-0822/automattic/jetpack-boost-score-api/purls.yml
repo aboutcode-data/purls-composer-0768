@@ -98,6 +98,7 @@
 - pkg:composer/automattic/jetpack-boost-score-api@v1.0.35
 - pkg:composer/automattic/jetpack-boost-score-api@v1.0.36
 - pkg:composer/automattic/jetpack-boost-score-api@v1.0.37
+- pkg:composer/automattic/jetpack-boost-score-api@v1.0.38
 - pkg:composer/automattic/jetpack-boost-score-api@v1.0.4
 - pkg:composer/automattic/jetpack-boost-score-api@v1.0.5
 - pkg:composer/automattic/jetpack-boost-score-api@v1.0.6

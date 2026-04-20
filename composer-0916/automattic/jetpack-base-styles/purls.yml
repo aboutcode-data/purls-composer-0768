@@ -113,3 +113,4 @@
 - pkg:composer/automattic/jetpack-base-styles@v1.0.7
 - pkg:composer/automattic/jetpack-base-styles@v1.0.8
 - pkg:composer/automattic/jetpack-base-styles@v1.0.9
+- pkg:composer/automattic/jetpack-base-styles@v1.1.0
