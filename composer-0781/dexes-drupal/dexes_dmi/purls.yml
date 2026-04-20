@@ -66,6 +66,7 @@
 - pkg:composer/dexes-drupal/dexes_dmi@0.35.1
 - pkg:composer/dexes-drupal/dexes_dmi@0.35.2
 - pkg:composer/dexes-drupal/dexes_dmi@0.35.3
+- pkg:composer/dexes-drupal/dexes_dmi@0.35.4
 - pkg:composer/dexes-drupal/dexes_dmi@0.4.0
 - pkg:composer/dexes-drupal/dexes_dmi@0.5.0
 - pkg:composer/dexes-drupal/dexes_dmi@0.6.0
