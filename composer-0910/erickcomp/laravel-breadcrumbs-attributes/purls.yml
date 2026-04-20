@@ -5,6 +5,7 @@
 - pkg:composer/erickcomp/laravel-breadcrumbs-attributes@2.8
 - pkg:composer/erickcomp/laravel-breadcrumbs-attributes@3.0
 - pkg:composer/erickcomp/laravel-breadcrumbs-attributes@3.0.1
+- pkg:composer/erickcomp/laravel-breadcrumbs-attributes@3.1.0
 - pkg:composer/erickcomp/laravel-breadcrumbs-attributes@v1.0.0
 - pkg:composer/erickcomp/laravel-breadcrumbs-attributes@v1.0.1
 - pkg:composer/erickcomp/laravel-breadcrumbs-attributes@v2.0.0

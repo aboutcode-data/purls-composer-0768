@@ -5,3 +5,4 @@
 - pkg:composer/e4se/laravel-telegram-oidc@v0.0.5
 - pkg:composer/e4se/laravel-telegram-oidc@v0.0.6
 - pkg:composer/e4se/laravel-telegram-oidc@v1.0.0
+- pkg:composer/e4se/laravel-telegram-oidc@v1.1.0

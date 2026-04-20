@@ -90,6 +90,7 @@
 - pkg:composer/drupal/core-diff@10.5.6
 - pkg:composer/drupal/core-diff@10.5.7
 - pkg:composer/drupal/core-diff@10.5.8
+- pkg:composer/drupal/core-diff@10.5.9
 - pkg:composer/drupal/core-diff@10.6.0
 - pkg:composer/drupal/core-diff@10.6.0-beta1
 - pkg:composer/drupal/core-diff@10.6.0-rc1
@@ -99,6 +100,7 @@
 - pkg:composer/drupal/core-diff@10.6.4
 - pkg:composer/drupal/core-diff@10.6.5
 - pkg:composer/drupal/core-diff@10.6.6
+- pkg:composer/drupal/core-diff@10.6.7
 - pkg:composer/drupal/core-diff@11.0.0
 - pkg:composer/drupal/core-diff@11.0.0-alpha1
 - pkg:composer/drupal/core-diff@11.0.0-beta1
@@ -135,6 +137,7 @@
 - pkg:composer/drupal/core-diff@11.2.0-rc2
 - pkg:composer/drupal/core-diff@11.2.1
 - pkg:composer/drupal/core-diff@11.2.10
+- pkg:composer/drupal/core-diff@11.2.11
 - pkg:composer/drupal/core-diff@11.2.2
 - pkg:composer/drupal/core-diff@11.2.3
 - pkg:composer/drupal/core-diff@11.2.4
@@ -154,6 +157,8 @@
 - pkg:composer/drupal/core-diff@11.3.4
 - pkg:composer/drupal/core-diff@11.3.5
 - pkg:composer/drupal/core-diff@11.3.6
+- pkg:composer/drupal/core-diff@11.3.7
+- pkg:composer/drupal/core-diff@11.3.8
 - pkg:composer/drupal/core-diff@8.1.0
 - pkg:composer/drupal/core-diff@8.1.1
 - pkg:composer/drupal/core-diff@8.1.10
