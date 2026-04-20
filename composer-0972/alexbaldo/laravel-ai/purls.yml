@@ -1,4 +1,6 @@
 - pkg:composer/alexbaldo/laravel-ai@v0.4.10
+- pkg:composer/alexbaldo/laravel-ai@v0.4.11
+- pkg:composer/alexbaldo/laravel-ai@v0.4.12
 - pkg:composer/alexbaldo/laravel-ai@v0.4.5
 - pkg:composer/alexbaldo/laravel-ai@v0.4.6
 - pkg:composer/alexbaldo/laravel-ai@v0.4.7
