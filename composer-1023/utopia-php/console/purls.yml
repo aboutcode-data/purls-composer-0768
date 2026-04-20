@@ -1,2 +1,4 @@
 - pkg:composer/utopia-php/console@0.0.1
 - pkg:composer/utopia-php/console@0.1.1
+- pkg:composer/utopia-php/console@0.2.0
+- pkg:composer/utopia-php/console@0.2.1

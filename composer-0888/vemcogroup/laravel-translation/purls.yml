@@ -27,3 +27,5 @@
 - pkg:composer/vemcogroup/laravel-translation@3.0.7
 - pkg:composer/vemcogroup/laravel-translation@3.0.8
 - pkg:composer/vemcogroup/laravel-translation@3.0.9
+- pkg:composer/vemcogroup/laravel-translation@3.1.0
+- pkg:composer/vemcogroup/laravel-translation@3.1.1
