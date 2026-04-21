@@ -7,3 +7,4 @@
 - pkg:composer/flow-php/telemetry@0.34.3
 - pkg:composer/flow-php/telemetry@0.35.0
 - pkg:composer/flow-php/telemetry@0.35.1
+- pkg:composer/flow-php/telemetry@0.36.0
