@@ -4,6 +4,7 @@
 - pkg:composer/gopay/payments-sdk-php@1.10.3
 - pkg:composer/gopay/payments-sdk-php@1.10.4
 - pkg:composer/gopay/payments-sdk-php@1.11.0
+- pkg:composer/gopay/payments-sdk-php@1.11.1
 - pkg:composer/gopay/payments-sdk-php@1.8.0
 - pkg:composer/gopay/payments-sdk-php@1.9.0
 - pkg:composer/gopay/payments-sdk-php@v1.0.0

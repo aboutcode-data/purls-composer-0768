@@ -14,6 +14,7 @@
 - pkg:composer/gustavosantarosa/pagarme-sdk@1.0.5
 - pkg:composer/gustavosantarosa/pagarme-sdk@1.1.0
 - pkg:composer/gustavosantarosa/pagarme-sdk@1.1.1
+- pkg:composer/gustavosantarosa/pagarme-sdk@1.1.10
 - pkg:composer/gustavosantarosa/pagarme-sdk@1.1.2
 - pkg:composer/gustavosantarosa/pagarme-sdk@1.1.3
 - pkg:composer/gustavosantarosa/pagarme-sdk@1.1.4
@@ -21,3 +22,4 @@
 - pkg:composer/gustavosantarosa/pagarme-sdk@1.1.6
 - pkg:composer/gustavosantarosa/pagarme-sdk@1.1.7
 - pkg:composer/gustavosantarosa/pagarme-sdk@1.1.8
+- pkg:composer/gustavosantarosa/pagarme-sdk@1.1.9
