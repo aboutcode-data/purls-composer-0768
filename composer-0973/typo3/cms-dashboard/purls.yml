@@ -182,3 +182,4 @@
 - pkg:composer/typo3/cms-dashboard@v14.1.0
 - pkg:composer/typo3/cms-dashboard@v14.1.1
 - pkg:composer/typo3/cms-dashboard@v14.2.0
+- pkg:composer/typo3/cms-dashboard@v14.3.0
