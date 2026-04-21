@@ -184,10 +184,9 @@
 - pkg:composer/alexssssss/ormmodel@v15.1.7
 - pkg:composer/alexssssss/ormmodel@v15.1.8
 - pkg:composer/alexssssss/ormmodel@v15.1.9
-- pkg:composer/alexssssss/ormmodel@v16.0.0
-- pkg:composer/alexssssss/ormmodel@v16.0.1
-- pkg:composer/alexssssss/ormmodel@v16.0.2
 - pkg:composer/alexssssss/ormmodel@v16.0.4
+- pkg:composer/alexssssss/ormmodel@v16.0.5
+- pkg:composer/alexssssss/ormmodel@v16.0.6
 - pkg:composer/alexssssss/ormmodel@v2.0.0
 - pkg:composer/alexssssss/ormmodel@v2.0.1
 - pkg:composer/alexssssss/ormmodel@v2.0.2
