@@ -32,3 +32,4 @@
 - pkg:composer/coliving/api-guard@v4.2.0
 - pkg:composer/coliving/api-guard@v4.3.0
 - pkg:composer/coliving/api-guard@v4.4.0
+- pkg:composer/coliving/api-guard@v4.5.0
