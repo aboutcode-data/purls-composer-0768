@@ -9,3 +9,5 @@
 - pkg:composer/horizom/http@5.0.2
 - pkg:composer/horizom/http@5.1.0
 - pkg:composer/horizom/http@5.1.1
+- pkg:composer/horizom/http@5.2.0
+- pkg:composer/horizom/http@5.2.1

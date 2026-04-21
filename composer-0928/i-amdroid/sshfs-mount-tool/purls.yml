@@ -12,3 +12,4 @@
 - pkg:composer/i-amdroid/sshfs-mount-tool@4.0.0
 - pkg:composer/i-amdroid/sshfs-mount-tool@4.1.0
 - pkg:composer/i-amdroid/sshfs-mount-tool@4.2.0
+- pkg:composer/i-amdroid/sshfs-mount-tool@5.0.0

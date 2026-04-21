@@ -150,6 +150,8 @@
 - pkg:composer/iis/blocks@v7.0.35
 - pkg:composer/iis/blocks@v7.0.36
 - pkg:composer/iis/blocks@v7.0.37
+- pkg:composer/iis/blocks@v7.0.38
+- pkg:composer/iis/blocks@v7.0.39
 - pkg:composer/iis/blocks@v7.0.4
 - pkg:composer/iis/blocks@v7.0.5
 - pkg:composer/iis/blocks@v7.0.6
