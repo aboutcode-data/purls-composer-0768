@@ -1,1 +1,2 @@
 - pkg:composer/blockstudio/phpstan@v0.1.0
+- pkg:composer/blockstudio/phpstan@v0.1.1
