@@ -43,3 +43,4 @@
 - pkg:composer/buckaroo/shopware6@3.2.3
 - pkg:composer/buckaroo/shopware6@3.2.4
 - pkg:composer/buckaroo/shopware6@3.3.0
+- pkg:composer/buckaroo/shopware6@3.3.1
