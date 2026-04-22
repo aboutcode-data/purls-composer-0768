@@ -1,1 +1,2 @@
 - pkg:composer/jooservices/laravel-events@1.0.0
+- pkg:composer/jooservices/laravel-events@v1.1.0

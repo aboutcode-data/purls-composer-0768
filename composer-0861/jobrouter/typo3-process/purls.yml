@@ -17,3 +17,4 @@
 - pkg:composer/jobrouter/typo3-process@v3.0.1
 - pkg:composer/jobrouter/typo3-process@v4.0.0
 - pkg:composer/jobrouter/typo3-process@v4.0.1
+- pkg:composer/jobrouter/typo3-process@v5.0.0

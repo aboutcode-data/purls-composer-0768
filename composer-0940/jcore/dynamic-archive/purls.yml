@@ -25,6 +25,7 @@
 - pkg:composer/jcore/dynamic-archive@v0.21.0
 - pkg:composer/jcore/dynamic-archive@v0.22.0
 - pkg:composer/jcore/dynamic-archive@v0.23.0
+- pkg:composer/jcore/dynamic-archive@v0.23.1
 - pkg:composer/jcore/dynamic-archive@v0.3.0
 - pkg:composer/jcore/dynamic-archive@v0.4.0
 - pkg:composer/jcore/dynamic-archive@v0.4.1

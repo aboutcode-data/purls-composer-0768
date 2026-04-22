@@ -41,6 +41,7 @@
 - pkg:composer/johnshopkins/twig-extensions@v0.29.1
 - pkg:composer/johnshopkins/twig-extensions@v0.29.2
 - pkg:composer/johnshopkins/twig-extensions@v0.29.3
+- pkg:composer/johnshopkins/twig-extensions@v0.29.4
 - pkg:composer/johnshopkins/twig-extensions@v0.4
 - pkg:composer/johnshopkins/twig-extensions@v0.5
 - pkg:composer/johnshopkins/twig-extensions@v0.6
