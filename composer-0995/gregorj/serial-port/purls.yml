@@ -3,3 +3,4 @@
 - pkg:composer/gregorj/serial-port@v1.0.2
 - pkg:composer/gregorj/serial-port@v1.0.3
 - pkg:composer/gregorj/serial-port@v1.1.0
+- pkg:composer/gregorj/serial-port@v2.0.0
