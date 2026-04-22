@@ -5,5 +5,6 @@
 - pkg:composer/adriansuter/php-autoload-override@1.4
 - pkg:composer/adriansuter/php-autoload-override@1.5
 - pkg:composer/adriansuter/php-autoload-override@2.0
+- pkg:composer/adriansuter/php-autoload-override@2.1
 - pkg:composer/adriansuter/php-autoload-override@v0.1-alpha
 - pkg:composer/adriansuter/php-autoload-override@v0.1-beta
