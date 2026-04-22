@@ -96,3 +96,4 @@
 - pkg:composer/bartlett/php-compatinfo@7.2.3
 - pkg:composer/bartlett/php-compatinfo@7.2.4
 - pkg:composer/bartlett/php-compatinfo@7.2.5
+- pkg:composer/bartlett/php-compatinfo@7.2.6
