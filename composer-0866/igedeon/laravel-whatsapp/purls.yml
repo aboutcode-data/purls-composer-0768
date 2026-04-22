@@ -23,3 +23,6 @@
 - pkg:composer/igedeon/laravel-whatsapp@v1.4.6
 - pkg:composer/igedeon/laravel-whatsapp@v1.4.7
 - pkg:composer/igedeon/laravel-whatsapp@v1.5.0
+- pkg:composer/igedeon/laravel-whatsapp@v1.6.0
+- pkg:composer/igedeon/laravel-whatsapp@v1.6.1
+- pkg:composer/igedeon/laravel-whatsapp@v1.6.2
