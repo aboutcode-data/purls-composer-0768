@@ -320,6 +320,7 @@
 - pkg:composer/ecotone/jms-converter@1.308.0
 - pkg:composer/ecotone/jms-converter@1.309.0
 - pkg:composer/ecotone/jms-converter@1.309.1
+- pkg:composer/ecotone/jms-converter@1.309.2
 - pkg:composer/ecotone/jms-converter@1.31.0
 - pkg:composer/ecotone/jms-converter@1.31.1
 - pkg:composer/ecotone/jms-converter@1.32.0
