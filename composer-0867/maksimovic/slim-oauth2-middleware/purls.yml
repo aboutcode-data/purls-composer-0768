@@ -16,6 +16,5 @@
 - pkg:composer/maksimovic/slim-oauth2-middleware@v3.3.1
 - pkg:composer/maksimovic/slim-oauth2-middleware@v3.3.2
 - pkg:composer/maksimovic/slim-oauth2-middleware@v3.4.0
-- pkg:composer/maksimovic/slim-oauth2-middleware@v3.4.1
 - pkg:composer/maksimovic/slim-oauth2-middleware@v4.0.1
 - pkg:composer/maksimovic/slim-oauth2-middleware@v4.0.2
