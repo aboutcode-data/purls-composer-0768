@@ -29,3 +29,4 @@
 - pkg:composer/blitz-php/framework@1.0.6-rc
 - pkg:composer/blitz-php/framework@1.0.7-rc
 - pkg:composer/blitz-php/framework@1.0.8-rc
+- pkg:composer/blitz-php/framework@1.0.9-rc
