@@ -22,3 +22,4 @@
 - pkg:composer/apirone/apirone-sdk-php@1.2.9
 - pkg:composer/apirone/apirone-sdk-php@2.0.0
 - pkg:composer/apirone/apirone-sdk-php@2.0.1
+- pkg:composer/apirone/apirone-sdk-php@2.0.2-rc.0
