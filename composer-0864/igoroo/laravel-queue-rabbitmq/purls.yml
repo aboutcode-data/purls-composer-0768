@@ -1,0 +1,2 @@
+- pkg:composer/igoroo/laravel-queue-rabbitmq@1.0
+- pkg:composer/igoroo/laravel-queue-rabbitmq@1.0.1
