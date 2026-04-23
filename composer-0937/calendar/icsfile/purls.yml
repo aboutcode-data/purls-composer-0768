@@ -2,6 +2,7 @@
 - pkg:composer/calendar/icsfile@1.1.1
 - pkg:composer/calendar/icsfile@10.0.0
 - pkg:composer/calendar/icsfile@10.0.1
+- pkg:composer/calendar/icsfile@10.0.2
 - pkg:composer/calendar/icsfile@2.0.0
 - pkg:composer/calendar/icsfile@2.1.0
 - pkg:composer/calendar/icsfile@2.1.1

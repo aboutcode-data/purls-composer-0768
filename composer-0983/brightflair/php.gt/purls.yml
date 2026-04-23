@@ -19,3 +19,4 @@
 - pkg:composer/brightflair/php.gt@v4.0.5
 - pkg:composer/brightflair/php.gt@v4.0.6
 - pkg:composer/brightflair/php.gt@v4.1.0
+- pkg:composer/brightflair/php.gt@v5.0.0
