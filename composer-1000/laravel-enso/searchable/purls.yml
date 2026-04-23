@@ -52,3 +52,4 @@
 - pkg:composer/laravel-enso/searchable@2.6.0
 - pkg:composer/laravel-enso/searchable@2.7.0
 - pkg:composer/laravel-enso/searchable@2.7.1
+- pkg:composer/laravel-enso/searchable@2.7.2

@@ -192,7 +192,11 @@
 - pkg:composer/laravel-enso/core@12.1.2
 - pkg:composer/laravel-enso/core@12.2.0
 - pkg:composer/laravel-enso/core@12.2.1
-- pkg:composer/laravel-enso/core@13.0.0
+- pkg:composer/laravel-enso/core@12.2.2
+- pkg:composer/laravel-enso/core@12.2.3
+- pkg:composer/laravel-enso/core@12.2.4
+- pkg:composer/laravel-enso/core@12.2.5
+- pkg:composer/laravel-enso/core@12.2.6
 - pkg:composer/laravel-enso/core@2.0.0
 - pkg:composer/laravel-enso/core@2.0.1
 - pkg:composer/laravel-enso/core@2.0.10

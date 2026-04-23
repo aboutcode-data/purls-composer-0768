@@ -216,3 +216,5 @@
 - pkg:composer/laravel-enso/documentsmanager@5.4.2
 - pkg:composer/laravel-enso/documentsmanager@5.4.3
 - pkg:composer/laravel-enso/documentsmanager@5.4.4
+- pkg:composer/laravel-enso/documentsmanager@5.4.5
+- pkg:composer/laravel-enso/documentsmanager@5.4.6

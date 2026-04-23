@@ -271,3 +271,4 @@
 - pkg:composer/laravel-enso/formbuilder@5.0.0
 - pkg:composer/laravel-enso/formbuilder@5.1.0
 - pkg:composer/laravel-enso/formbuilder@5.1.1
+- pkg:composer/laravel-enso/formbuilder@5.1.2
