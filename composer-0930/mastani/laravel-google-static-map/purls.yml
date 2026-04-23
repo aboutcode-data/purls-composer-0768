@@ -11,3 +11,4 @@
 - pkg:composer/mastani/laravel-google-static-map@v1.3
 - pkg:composer/mastani/laravel-google-static-map@v1.4
 - pkg:composer/mastani/laravel-google-static-map@v1.5
+- pkg:composer/mastani/laravel-google-static-map@v2.6
