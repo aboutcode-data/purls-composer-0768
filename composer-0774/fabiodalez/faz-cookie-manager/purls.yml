@@ -12,6 +12,9 @@
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.11.3
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.12.0
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.12.1
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.13.0
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.13.1
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.13.2
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.2.0
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.2.1
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.3.0

@@ -569,6 +569,7 @@
 - pkg:composer/filament/spark-billing-provider@v4.10.1
 - pkg:composer/filament/spark-billing-provider@v4.10.2
 - pkg:composer/filament/spark-billing-provider@v4.11.0
+- pkg:composer/filament/spark-billing-provider@v4.11.1
 - pkg:composer/filament/spark-billing-provider@v4.2.0
 - pkg:composer/filament/spark-billing-provider@v4.2.1
 - pkg:composer/filament/spark-billing-provider@v4.2.2
@@ -637,3 +638,4 @@
 - pkg:composer/filament/spark-billing-provider@v5.5.1
 - pkg:composer/filament/spark-billing-provider@v5.5.2
 - pkg:composer/filament/spark-billing-provider@v5.6.0
+- pkg:composer/filament/spark-billing-provider@v5.6.1
