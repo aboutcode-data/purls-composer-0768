@@ -2,3 +2,5 @@
 - pkg:composer/jekka/shopee-php@v1.1
 - pkg:composer/jekka/shopee-php@v1.2
 - pkg:composer/jekka/shopee-php@v1.21
+- pkg:composer/jekka/shopee-php@v1.3.0
+- pkg:composer/jekka/shopee-php@v2.0.0
