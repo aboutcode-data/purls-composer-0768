@@ -19,3 +19,5 @@
 - pkg:composer/digbang/settings@v4.0.1
 - pkg:composer/digbang/settings@v4.0.2
 - pkg:composer/digbang/settings@v5.0.0
+- pkg:composer/digbang/settings@v6.0.0
+- pkg:composer/digbang/settings@v6.1.0

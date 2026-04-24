@@ -32,3 +32,4 @@
 - pkg:composer/durable-workflow/waterline@2.0.0-alpha.2
 - pkg:composer/durable-workflow/waterline@2.0.0-alpha.3
 - pkg:composer/durable-workflow/waterline@2.0.0-alpha.4
+- pkg:composer/durable-workflow/waterline@2.0.0-alpha.5
