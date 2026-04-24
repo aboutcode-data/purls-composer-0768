@@ -54,3 +54,4 @@
 - pkg:composer/commifreak/yii2-ldap-auth@v1.5.3
 - pkg:composer/commifreak/yii2-ldap-auth@v1.5.4
 - pkg:composer/commifreak/yii2-ldap-auth@v1.5.5
+- pkg:composer/commifreak/yii2-ldap-auth@v1.5.6
