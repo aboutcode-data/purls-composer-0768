@@ -1,1 +1,5 @@
 - pkg:composer/alik-laravel/inertia-table@v0.1.0
+- pkg:composer/alik-laravel/inertia-table@v0.1.1
+- pkg:composer/alik-laravel/inertia-table@v0.1.2
+- pkg:composer/alik-laravel/inertia-table@v0.1.3
+- pkg:composer/alik-laravel/inertia-table@v0.1.4
