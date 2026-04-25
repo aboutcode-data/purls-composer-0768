@@ -15,3 +15,4 @@
 - pkg:composer/phpgt/csrf@v1.7.2
 - pkg:composer/phpgt/csrf@v1.8.0
 - pkg:composer/phpgt/csrf@v1.9.0
+- pkg:composer/phpgt/csrf@v1.9.1

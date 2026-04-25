@@ -5,7 +5,9 @@
 - pkg:composer/php-soap/psr18-transport@1.6.0
 - pkg:composer/php-soap/psr18-transport@1.7.0
 - pkg:composer/php-soap/psr18-transport@1.8.0
+- pkg:composer/php-soap/psr18-transport@1.9.0
 - pkg:composer/php-soap/psr18-transport@2.0.0
+- pkg:composer/php-soap/psr18-transport@2.1.0
 - pkg:composer/php-soap/psr18-transport@v0.1.0
 - pkg:composer/php-soap/psr18-transport@v1.0.0
 - pkg:composer/php-soap/psr18-transport@v1.1.0

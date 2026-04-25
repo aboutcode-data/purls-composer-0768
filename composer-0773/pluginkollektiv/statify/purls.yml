@@ -12,3 +12,4 @@
 - pkg:composer/pluginkollektiv/statify@1.8.3
 - pkg:composer/pluginkollektiv/statify@1.8.4
 - pkg:composer/pluginkollektiv/statify@1.8.5
+- pkg:composer/pluginkollektiv/statify@2.0.0-beta.1

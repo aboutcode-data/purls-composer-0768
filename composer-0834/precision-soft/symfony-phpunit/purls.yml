@@ -21,3 +21,7 @@
 - pkg:composer/precision-soft/symfony-phpunit@v3.2.1
 - pkg:composer/precision-soft/symfony-phpunit@v3.3.0
 - pkg:composer/precision-soft/symfony-phpunit@v3.3.1
+- pkg:composer/precision-soft/symfony-phpunit@v3.4.0
+- pkg:composer/precision-soft/symfony-phpunit@v3.4.1
+- pkg:composer/precision-soft/symfony-phpunit@v3.4.2
+- pkg:composer/precision-soft/symfony-phpunit@v3.4.3

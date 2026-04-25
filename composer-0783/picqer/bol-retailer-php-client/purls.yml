@@ -22,6 +22,7 @@
 - pkg:composer/picqer/bol-retailer-php-client@v10.4.0
 - pkg:composer/picqer/bol-retailer-php-client@v10.5.0
 - pkg:composer/picqer/bol-retailer-php-client@v10.6.0
+- pkg:composer/picqer/bol-retailer-php-client@v10.7.0
 - pkg:composer/picqer/bol-retailer-php-client@v4.0.0
 - pkg:composer/picqer/bol-retailer-php-client@v4.0.1
 - pkg:composer/picqer/bol-retailer-php-client@v5.0.0

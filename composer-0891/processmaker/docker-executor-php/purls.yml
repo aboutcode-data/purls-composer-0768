@@ -7,3 +7,4 @@
 - pkg:composer/processmaker/docker-executor-php@1.4.0
 - pkg:composer/processmaker/docker-executor-php@1.4.1
 - pkg:composer/processmaker/docker-executor-php@1.4.2
+- pkg:composer/processmaker/docker-executor-php@1.4.3
