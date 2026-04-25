@@ -1,2 +1,5 @@
 - pkg:composer/rkt/magento-data@1.0.0
 - pkg:composer/rkt/magento-data@1.0.1
+- pkg:composer/rkt/magento-data@2.0-rc1
+- pkg:composer/rkt/magento-data@2.0-rc2
+- pkg:composer/rkt/magento-data@2.0.0

@@ -143,6 +143,8 @@
 - pkg:composer/roadiz/user-bundle@v2.3.40
 - pkg:composer/roadiz/user-bundle@v2.3.41
 - pkg:composer/roadiz/user-bundle@v2.3.42
+- pkg:composer/roadiz/user-bundle@v2.3.43
+- pkg:composer/roadiz/user-bundle@v2.3.44
 - pkg:composer/roadiz/user-bundle@v2.3.5
 - pkg:composer/roadiz/user-bundle@v2.3.6
 - pkg:composer/roadiz/user-bundle@v2.3.7
@@ -215,6 +217,9 @@
 - pkg:composer/roadiz/user-bundle@v2.5.42
 - pkg:composer/roadiz/user-bundle@v2.5.43
 - pkg:composer/roadiz/user-bundle@v2.5.44
+- pkg:composer/roadiz/user-bundle@v2.5.45
+- pkg:composer/roadiz/user-bundle@v2.5.46
+- pkg:composer/roadiz/user-bundle@v2.5.47
 - pkg:composer/roadiz/user-bundle@v2.5.5
 - pkg:composer/roadiz/user-bundle@v2.5.6
 - pkg:composer/roadiz/user-bundle@v2.5.7
@@ -245,6 +250,8 @@
 - pkg:composer/roadiz/user-bundle@v2.6.29
 - pkg:composer/roadiz/user-bundle@v2.6.3
 - pkg:composer/roadiz/user-bundle@v2.6.30
+- pkg:composer/roadiz/user-bundle@v2.6.31
+- pkg:composer/roadiz/user-bundle@v2.6.32
 - pkg:composer/roadiz/user-bundle@v2.6.4
 - pkg:composer/roadiz/user-bundle@v2.6.5
 - pkg:composer/roadiz/user-bundle@v2.6.6
@@ -260,6 +267,8 @@
 - pkg:composer/roadiz/user-bundle@v2.7.14
 - pkg:composer/roadiz/user-bundle@v2.7.15
 - pkg:composer/roadiz/user-bundle@v2.7.16
+- pkg:composer/roadiz/user-bundle@v2.7.17
+- pkg:composer/roadiz/user-bundle@v2.7.18
 - pkg:composer/roadiz/user-bundle@v2.7.2
 - pkg:composer/roadiz/user-bundle@v2.7.3
 - pkg:composer/roadiz/user-bundle@v2.7.4

@@ -1,6 +1,7 @@
 - pkg:composer/rhukster/dom-sanitizer@1.0.0
 - pkg:composer/rhukster/dom-sanitizer@1.0.1
 - pkg:composer/rhukster/dom-sanitizer@1.0.10
+- pkg:composer/rhukster/dom-sanitizer@1.0.11
 - pkg:composer/rhukster/dom-sanitizer@1.0.2
 - pkg:composer/rhukster/dom-sanitizer@1.0.3
 - pkg:composer/rhukster/dom-sanitizer@1.0.4

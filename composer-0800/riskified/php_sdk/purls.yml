@@ -1,4 +1,5 @@
 - pkg:composer/riskified/php_sdk@v1.10.0
+- pkg:composer/riskified/php_sdk@v1.10.1
 - pkg:composer/riskified/php_sdk@v1.6.4
 - pkg:composer/riskified/php_sdk@v1.6.5
 - pkg:composer/riskified/php_sdk@v1.6.6
