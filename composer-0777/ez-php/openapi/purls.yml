@@ -9,3 +9,5 @@
 - pkg:composer/ez-php/openapi@1.7.0
 - pkg:composer/ez-php/openapi@1.7.1
 - pkg:composer/ez-php/openapi@1.8.0
+- pkg:composer/ez-php/openapi@1.9.0
+- pkg:composer/ez-php/openapi@1.9.1

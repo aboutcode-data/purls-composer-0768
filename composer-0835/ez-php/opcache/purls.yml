@@ -11,3 +11,5 @@
 - pkg:composer/ez-php/opcache@1.7.0
 - pkg:composer/ez-php/opcache@1.7.1
 - pkg:composer/ez-php/opcache@1.8.0
+- pkg:composer/ez-php/opcache@1.9.0
+- pkg:composer/ez-php/opcache@1.9.1
