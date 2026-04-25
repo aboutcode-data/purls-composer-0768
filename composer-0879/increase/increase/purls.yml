@@ -27,6 +27,7 @@
 - pkg:composer/increase/increase@v0.12.0
 - pkg:composer/increase/increase@v0.120.0
 - pkg:composer/increase/increase@v0.121.0
+- pkg:composer/increase/increase@v0.121.1
 - pkg:composer/increase/increase@v0.13.0
 - pkg:composer/increase/increase@v0.14.0
 - pkg:composer/increase/increase@v0.15.0
