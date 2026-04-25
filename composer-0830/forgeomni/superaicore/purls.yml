@@ -9,7 +9,6 @@
 - pkg:composer/forgeomni/superaicore@v0.6.0
 - pkg:composer/forgeomni/superaicore@v0.6.1
 - pkg:composer/forgeomni/superaicore@v0.6.2
-- pkg:composer/forgeomni/superaicore@v0.6.3
 - pkg:composer/forgeomni/superaicore@v0.6.5
 - pkg:composer/forgeomni/superaicore@v0.6.6
 - pkg:composer/forgeomni/superaicore@v0.6.7
@@ -19,3 +18,4 @@
 - pkg:composer/forgeomni/superaicore@v0.7.1
 - pkg:composer/forgeomni/superaicore@v0.7.2
 - pkg:composer/forgeomni/superaicore@v0.8.0
+- pkg:composer/forgeomni/superaicore@v0.8.1
