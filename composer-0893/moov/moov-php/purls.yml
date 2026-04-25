@@ -167,6 +167,7 @@
 - pkg:composer/moov/moov-php@v24.2.0
 - pkg:composer/moov/moov-php@v24.2.1
 - pkg:composer/moov/moov-php@v24.2.2
+- pkg:composer/moov/moov-php@v24.2.3
 - pkg:composer/moov/moov-php@v25.1.0
 - pkg:composer/moov/moov-php@v25.1.1
 - pkg:composer/moov/moov-php@v25.1.10
@@ -199,9 +200,11 @@
 - pkg:composer/moov/moov-php@v25.11.0
 - pkg:composer/moov/moov-php@v25.11.1
 - pkg:composer/moov/moov-php@v25.11.2
+- pkg:composer/moov/moov-php@v25.11.3
 - pkg:composer/moov/moov-php@v25.2.0
 - pkg:composer/moov/moov-php@v25.2.1
 - pkg:composer/moov/moov-php@v25.2.2
+- pkg:composer/moov/moov-php@v25.2.3
 - pkg:composer/moov/moov-php@v25.4.0
 - pkg:composer/moov/moov-php@v25.4.0-beta.0
 - pkg:composer/moov/moov-php@v25.4.1
@@ -220,6 +223,7 @@
 - pkg:composer/moov/moov-php@v25.5.0
 - pkg:composer/moov/moov-php@v25.5.1
 - pkg:composer/moov/moov-php@v25.5.2
+- pkg:composer/moov/moov-php@v25.5.3
 - pkg:composer/moov/moov-php@v25.7.0
 - pkg:composer/moov/moov-php@v25.7.1
 - pkg:composer/moov/moov-php@v25.7.10
@@ -237,6 +241,7 @@
 - pkg:composer/moov/moov-php@v25.8.0
 - pkg:composer/moov/moov-php@v25.8.1
 - pkg:composer/moov/moov-php@v25.8.2
+- pkg:composer/moov/moov-php@v25.8.3
 - pkg:composer/moov/moov-php@v26.1.0
 - pkg:composer/moov/moov-php@v26.1.1
 - pkg:composer/moov/moov-php@v26.1.10
@@ -254,6 +259,7 @@
 - pkg:composer/moov/moov-php@v26.2.0
 - pkg:composer/moov/moov-php@v26.2.1
 - pkg:composer/moov/moov-php@v26.2.2
+- pkg:composer/moov/moov-php@v26.2.3
 - pkg:composer/moov/moov-php@v26.4.0
 - pkg:composer/moov/moov-php@v26.4.0-beta.0
 - pkg:composer/moov/moov-php@v26.4.0-beta.1
@@ -276,3 +282,4 @@
 - pkg:composer/moov/moov-php@v26.4.0-beta.7
 - pkg:composer/moov/moov-php@v26.4.0-beta.8
 - pkg:composer/moov/moov-php@v26.4.0-beta.9
+- pkg:composer/moov/moov-php@v26.4.1
