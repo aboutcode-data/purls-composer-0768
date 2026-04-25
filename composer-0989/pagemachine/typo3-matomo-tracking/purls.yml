@@ -7,3 +7,4 @@
 - pkg:composer/pagemachine/typo3-matomo-tracking@1.6.4
 - pkg:composer/pagemachine/typo3-matomo-tracking@1.6.5
 - pkg:composer/pagemachine/typo3-matomo-tracking@1.6.6
+- pkg:composer/pagemachine/typo3-matomo-tracking@2.0.0

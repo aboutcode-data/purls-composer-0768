@@ -208,3 +208,6 @@
 - pkg:composer/oat-sa/extension-tao-itemqti-pci@v9.1.9
 - pkg:composer/oat-sa/extension-tao-itemqti-pci@v9.2.0
 - pkg:composer/oat-sa/extension-tao-itemqti-pci@v9.2.1
+- pkg:composer/oat-sa/extension-tao-itemqti-pci@v9.2.2
+- pkg:composer/oat-sa/extension-tao-itemqti-pci@v9.2.3
+- pkg:composer/oat-sa/extension-tao-itemqti-pci@v9.3.0

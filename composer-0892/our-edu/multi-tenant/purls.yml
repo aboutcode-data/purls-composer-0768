@@ -13,3 +13,6 @@
 - pkg:composer/our-edu/multi-tenant@1.1.7
 - pkg:composer/our-edu/multi-tenant@1.1.8
 - pkg:composer/our-edu/multi-tenant@1.1.9
+- pkg:composer/our-edu/multi-tenant@v1.1.14
+- pkg:composer/our-edu/multi-tenant@v1.1.15
+- pkg:composer/our-edu/multi-tenant@v1.1.16

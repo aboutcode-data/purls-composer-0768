@@ -31,3 +31,4 @@
 - pkg:composer/overtrue/laravel-uploader@3.1.0
 - pkg:composer/overtrue/laravel-uploader@3.2.0
 - pkg:composer/overtrue/laravel-uploader@3.3.0
+- pkg:composer/overtrue/laravel-uploader@3.4.0

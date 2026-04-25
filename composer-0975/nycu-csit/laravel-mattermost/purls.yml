@@ -1,1 +1,2 @@
 - pkg:composer/nycu-csit/laravel-mattermost@v0.1.0
+- pkg:composer/nycu-csit/laravel-mattermost@v0.1.1

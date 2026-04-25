@@ -18,4 +18,6 @@
 - pkg:composer/opus4-repo/framework@4.8.0.2
 - pkg:composer/opus4-repo/framework@4.8.0.3
 - pkg:composer/opus4-repo/framework@4.8.0.4
+- pkg:composer/opus4-repo/framework@4.8.0.5
 - pkg:composer/opus4-repo/framework@4.9
+- pkg:composer/opus4-repo/framework@4.9.1
