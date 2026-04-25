@@ -8,3 +8,4 @@
 - pkg:composer/simsoft/validator@2.0.1
 - pkg:composer/simsoft/validator@2.0.2
 - pkg:composer/simsoft/validator@2.0.3
+- pkg:composer/simsoft/validator@3.0.0

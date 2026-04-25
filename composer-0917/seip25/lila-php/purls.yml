@@ -1,3 +1,4 @@
+- pkg:composer/seip25/lila-php@1.41
 - pkg:composer/seip25/lila-php@v1.0.0
 - pkg:composer/seip25/lila-php@v1.0.1
 - pkg:composer/seip25/lila-php@v1.0.2
@@ -31,3 +32,15 @@
 - pkg:composer/seip25/lila-php@v1.28
 - pkg:composer/seip25/lila-php@v1.29
 - pkg:composer/seip25/lila-php@v1.30
+- pkg:composer/seip25/lila-php@v1.31
+- pkg:composer/seip25/lila-php@v1.32
+- pkg:composer/seip25/lila-php@v1.33
+- pkg:composer/seip25/lila-php@v1.34
+- pkg:composer/seip25/lila-php@v1.35
+- pkg:composer/seip25/lila-php@v1.36
+- pkg:composer/seip25/lila-php@v1.37
+- pkg:composer/seip25/lila-php@v1.38
+- pkg:composer/seip25/lila-php@v1.39
+- pkg:composer/seip25/lila-php@v1.40
+- pkg:composer/seip25/lila-php@v1.42
+- pkg:composer/seip25/lila-php@v1.43

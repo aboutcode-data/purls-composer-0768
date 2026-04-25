@@ -8,3 +8,5 @@
 - pkg:composer/sevendays/filament-page-builder@3.0.6
 - pkg:composer/sevendays/filament-page-builder@3.0.7
 - pkg:composer/sevendays/filament-page-builder@3.0.8
+- pkg:composer/sevendays/filament-page-builder@3.0.9
+- pkg:composer/sevendays/filament-page-builder@4.0.0

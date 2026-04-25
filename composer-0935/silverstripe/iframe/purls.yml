@@ -51,3 +51,4 @@
 - pkg:composer/silverstripe/iframe@3.3.0
 - pkg:composer/silverstripe/iframe@3.3.0-beta1
 - pkg:composer/silverstripe/iframe@3.3.0-rc1
+- pkg:composer/silverstripe/iframe@4.0.0

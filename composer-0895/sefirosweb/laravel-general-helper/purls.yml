@@ -13,3 +13,7 @@
 - pkg:composer/sefirosweb/laravel-general-helper@1.5.3
 - pkg:composer/sefirosweb/laravel-general-helper@1.5.4
 - pkg:composer/sefirosweb/laravel-general-helper@1.5.5
+- pkg:composer/sefirosweb/laravel-general-helper@v12.0.0
+- pkg:composer/sefirosweb/laravel-general-helper@v12.0.1
+- pkg:composer/sefirosweb/laravel-general-helper@v12.0.2
+- pkg:composer/sefirosweb/laravel-general-helper@v12.0.3
