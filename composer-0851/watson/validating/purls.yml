@@ -88,3 +88,5 @@
 - pkg:composer/watson/validating@8.2.0
 - pkg:composer/watson/validating@8.3.0
 - pkg:composer/watson/validating@8.3.1
+- pkg:composer/watson/validating@8.4.0
+- pkg:composer/watson/validating@8.4.1

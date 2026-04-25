@@ -6,3 +6,5 @@
 - pkg:composer/vonage/vonage-laravel@1.0.3
 - pkg:composer/vonage/vonage-laravel@1.0.4
 - pkg:composer/vonage/vonage-laravel@1.0.5
+- pkg:composer/vonage/vonage-laravel@1.1.0
+- pkg:composer/vonage/vonage-laravel@1.2.0

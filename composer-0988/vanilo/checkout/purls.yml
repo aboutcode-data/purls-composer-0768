@@ -28,3 +28,4 @@
 - pkg:composer/vanilo/checkout@4.2.0
 - pkg:composer/vanilo/checkout@5.0.0
 - pkg:composer/vanilo/checkout@5.1.0
+- pkg:composer/vanilo/checkout@5.2.0

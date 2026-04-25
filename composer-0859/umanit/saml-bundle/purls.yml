@@ -37,6 +37,7 @@
 - pkg:composer/umanit/saml-bundle@1.0.3
 - pkg:composer/umanit/saml-bundle@1.0.30
 - pkg:composer/umanit/saml-bundle@1.0.31
+- pkg:composer/umanit/saml-bundle@1.0.32
 - pkg:composer/umanit/saml-bundle@1.0.4
 - pkg:composer/umanit/saml-bundle@1.0.5
 - pkg:composer/umanit/saml-bundle@1.0.6
