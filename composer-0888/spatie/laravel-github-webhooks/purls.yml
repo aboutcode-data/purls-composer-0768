@@ -11,3 +11,4 @@
 - pkg:composer/spatie/laravel-github-webhooks@1.2.3
 - pkg:composer/spatie/laravel-github-webhooks@1.2.4
 - pkg:composer/spatie/laravel-github-webhooks@1.3.0
+- pkg:composer/spatie/laravel-github-webhooks@1.3.1

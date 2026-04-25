@@ -281,11 +281,15 @@
 - pkg:composer/stripe/stripe-php@v2.2.0
 - pkg:composer/stripe/stripe-php@v2.3.0
 - pkg:composer/stripe/stripe-php@v20.0.0
+- pkg:composer/stripe/stripe-php@v20.1.0
 - pkg:composer/stripe/stripe-php@v20.1.0-alpha.1
 - pkg:composer/stripe/stripe-php@v20.1.0-alpha.2
 - pkg:composer/stripe/stripe-php@v20.1.0-alpha.3
 - pkg:composer/stripe/stripe-php@v20.1.0-alpha.4
 - pkg:composer/stripe/stripe-php@v20.1.0-beta.1
+- pkg:composer/stripe/stripe-php@v20.2.0-alpha.1
+- pkg:composer/stripe/stripe-php@v20.2.0-beta.1
+- pkg:composer/stripe/stripe-php@v20.2.0-beta.2
 - pkg:composer/stripe/stripe-php@v3.0.0
 - pkg:composer/stripe/stripe-php@v3.1.0
 - pkg:composer/stripe/stripe-php@v3.10.0

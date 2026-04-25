@@ -11,6 +11,7 @@
 - pkg:composer/sunnysideup/cms_edit_link_field@12.2.0
 - pkg:composer/sunnysideup/cms_edit_link_field@12.2.1
 - pkg:composer/sunnysideup/cms_edit_link_field@12.2.2
+- pkg:composer/sunnysideup/cms_edit_link_field@13.0.0
 - pkg:composer/sunnysideup/cms_edit_link_field@2.0.0
 - pkg:composer/sunnysideup/cms_edit_link_field@3.0.0
 - pkg:composer/sunnysideup/cms_edit_link_field@3.1.0

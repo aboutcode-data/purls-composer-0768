@@ -3,3 +3,5 @@
 - pkg:composer/spryker-feature/ai-commerce@0.3.0
 - pkg:composer/spryker-feature/ai-commerce@0.4.0
 - pkg:composer/spryker-feature/ai-commerce@0.4.1
+- pkg:composer/spryker-feature/ai-commerce@0.4.2
+- pkg:composer/spryker-feature/ai-commerce@0.5.0
