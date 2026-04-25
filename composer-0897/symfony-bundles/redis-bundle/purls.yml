@@ -9,6 +9,7 @@
 - pkg:composer/symfony-bundles/redis-bundle@3.1.5
 - pkg:composer/symfony-bundles/redis-bundle@3.1.6
 - pkg:composer/symfony-bundles/redis-bundle@3.1.7
+- pkg:composer/symfony-bundles/redis-bundle@3.1.8
 - pkg:composer/symfony-bundles/redis-bundle@v1.0.0
 - pkg:composer/symfony-bundles/redis-bundle@v1.0.1
 - pkg:composer/symfony-bundles/redis-bundle@v2.0.0

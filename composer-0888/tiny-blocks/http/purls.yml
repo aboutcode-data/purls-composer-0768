@@ -28,3 +28,4 @@
 - pkg:composer/tiny-blocks/http@4.8.0
 - pkg:composer/tiny-blocks/http@4.9.0
 - pkg:composer/tiny-blocks/http@4.9.1
+- pkg:composer/tiny-blocks/http@4.9.2

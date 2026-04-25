@@ -26,3 +26,4 @@
 - pkg:composer/tapp/laravel-airtable@v2.3
 - pkg:composer/tapp/laravel-airtable@v3.0.0
 - pkg:composer/tapp/laravel-airtable@v3.0.1
+- pkg:composer/tapp/laravel-airtable@v3.1.0

@@ -1,1 +1,2 @@
 - pkg:composer/symfony/ai-sqlite-store@v0.7.0
+- pkg:composer/symfony/ai-sqlite-store@v0.8.0
