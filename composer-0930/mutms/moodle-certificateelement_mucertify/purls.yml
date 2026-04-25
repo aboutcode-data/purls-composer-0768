@@ -1,6 +1,8 @@
 - pkg:composer/mutms/moodle-certificateelement_mucertify@v4.5.10.04
 - pkg:composer/mutms/moodle-certificateelement_mucertify@v4.5.10.05
 - pkg:composer/mutms/moodle-certificateelement_mucertify@v4.5.10.06
+- pkg:composer/mutms/moodle-certificateelement_mucertify@v4.5.11.01
 - pkg:composer/mutms/moodle-certificateelement_mucertify@v5.0.6.04
 - pkg:composer/mutms/moodle-certificateelement_mucertify@v5.0.6.05
 - pkg:composer/mutms/moodle-certificateelement_mucertify@v5.0.6.06
+- pkg:composer/mutms/moodle-certificateelement_mucertify@v5.0.7.01

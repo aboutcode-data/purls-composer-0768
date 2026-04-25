@@ -21,3 +21,4 @@
 - pkg:composer/netresearch/nr-llm@v0.4.9
 - pkg:composer/netresearch/nr-llm@v0.5.0
 - pkg:composer/netresearch/nr-llm@v0.6.0
+- pkg:composer/netresearch/nr-llm@v0.7.0

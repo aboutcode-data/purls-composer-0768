@@ -2,3 +2,5 @@
 - pkg:composer/ndamiens/mailutils@v1.0.1
 - pkg:composer/ndamiens/mailutils@v1.0.2
 - pkg:composer/ndamiens/mailutils@v1.0.3
+- pkg:composer/ndamiens/mailutils@v1.1.0
+- pkg:composer/ndamiens/mailutils@v1.1.1

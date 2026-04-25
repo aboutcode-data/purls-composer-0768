@@ -7,3 +7,6 @@
 - pkg:composer/niduranga/laravel-dev-guard@v1.6.0
 - pkg:composer/niduranga/laravel-dev-guard@v1.7.0
 - pkg:composer/niduranga/laravel-dev-guard@v1.8.0
+- pkg:composer/niduranga/laravel-dev-guard@v1.9.0
+- pkg:composer/niduranga/laravel-dev-guard@v2.0.0
+- pkg:composer/niduranga/laravel-dev-guard@v2.1.0

@@ -18,3 +18,4 @@
 - pkg:composer/motley/ecs-config@2.0
 - pkg:composer/motley/ecs-config@2.1
 - pkg:composer/motley/ecs-config@3.0
+- pkg:composer/motley/ecs-config@3.0.1
