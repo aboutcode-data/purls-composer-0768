@@ -62,6 +62,8 @@
 - pkg:composer/kreuzberg-dev/html-to-markdown@3.2.6
 - pkg:composer/kreuzberg-dev/html-to-markdown@3.3.0
 - pkg:composer/kreuzberg-dev/html-to-markdown@3.3.1
+- pkg:composer/kreuzberg-dev/html-to-markdown@3.3.2
+- pkg:composer/kreuzberg-dev/html-to-markdown@3.3.3
 - pkg:composer/kreuzberg-dev/html-to-markdown@v2.10.0
 - pkg:composer/kreuzberg-dev/html-to-markdown@v2.10.1
 - pkg:composer/kreuzberg-dev/html-to-markdown@v2.11.0
