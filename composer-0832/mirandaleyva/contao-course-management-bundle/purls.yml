@@ -1,4 +1,9 @@
 - pkg:composer/mirandaleyva/contao-course-management-bundle@v0.1
+- pkg:composer/mirandaleyva/contao-course-management-bundle@v0.10
+- pkg:composer/mirandaleyva/contao-course-management-bundle@v0.11
+- pkg:composer/mirandaleyva/contao-course-management-bundle@v0.12
+- pkg:composer/mirandaleyva/contao-course-management-bundle@v0.13
+- pkg:composer/mirandaleyva/contao-course-management-bundle@v0.14
 - pkg:composer/mirandaleyva/contao-course-management-bundle@v0.2
 - pkg:composer/mirandaleyva/contao-course-management-bundle@v0.2.1
 - pkg:composer/mirandaleyva/contao-course-management-bundle@v0.3
@@ -7,3 +12,5 @@
 - pkg:composer/mirandaleyva/contao-course-management-bundle@v0.6
 - pkg:composer/mirandaleyva/contao-course-management-bundle@v0.7
 - pkg:composer/mirandaleyva/contao-course-management-bundle@v0.8
+- pkg:composer/mirandaleyva/contao-course-management-bundle@v0.9
+- pkg:composer/mirandaleyva/contao-course-management-bundle@v1.0

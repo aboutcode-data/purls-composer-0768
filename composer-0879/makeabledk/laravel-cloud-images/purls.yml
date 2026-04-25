@@ -25,3 +25,4 @@
 - pkg:composer/makeabledk/laravel-cloud-images@v4.3.0
 - pkg:composer/makeabledk/laravel-cloud-images@v4.3.1
 - pkg:composer/makeabledk/laravel-cloud-images@v4.3.2
+- pkg:composer/makeabledk/laravel-cloud-images@v4.4.0
