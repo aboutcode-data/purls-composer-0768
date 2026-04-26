@@ -1,3 +1,4 @@
 - pkg:composer/oasis/event@v1.0.0
 - pkg:composer/oasis/event@v1.0.1
 - pkg:composer/oasis/event@v2.0.0
+- pkg:composer/oasis/event@v3.0.0
