@@ -13,3 +13,4 @@
 - pkg:composer/kreuzberg/liter-llm@1.2.1
 - pkg:composer/kreuzberg/liter-llm@1.2.2
 - pkg:composer/kreuzberg/liter-llm@1.3.0
+- pkg:composer/kreuzberg/liter-llm@1.4.0-rc.1
