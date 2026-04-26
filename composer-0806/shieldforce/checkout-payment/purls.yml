@@ -102,3 +102,4 @@
 - pkg:composer/shieldforce/checkout-payment@v5.92.0
 - pkg:composer/shieldforce/checkout-payment@v5.93.0
 - pkg:composer/shieldforce/checkout-payment@v5.94.0
+- pkg:composer/shieldforce/checkout-payment@v5.95.0
