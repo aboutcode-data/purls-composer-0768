@@ -4,3 +4,4 @@
 - pkg:composer/pocketarc/laravel-integrations-adapters@1.3.0
 - pkg:composer/pocketarc/laravel-integrations-adapters@1.3.1
 - pkg:composer/pocketarc/laravel-integrations-adapters@1.4.0
+- pkg:composer/pocketarc/laravel-integrations-adapters@2.0.0
