@@ -1,1 +1,2 @@
 - pkg:composer/phpdot/container-swoole@v1.0.0
+- pkg:composer/phpdot/container-swoole@v1.1.0

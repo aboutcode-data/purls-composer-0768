@@ -43,3 +43,4 @@
 - pkg:composer/php-extended/php-json-schema-interface@9.0.2
 - pkg:composer/php-extended/php-json-schema-interface@9.0.3
 - pkg:composer/php-extended/php-json-schema-interface@9.0.4
+- pkg:composer/php-extended/php-json-schema-interface@9.0.5

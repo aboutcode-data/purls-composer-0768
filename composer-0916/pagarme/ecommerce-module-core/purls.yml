@@ -8,6 +8,7 @@
 - pkg:composer/pagarme/ecommerce-module-core@1.2.0
 - pkg:composer/pagarme/ecommerce-module-core@2.0.1
 - pkg:composer/pagarme/ecommerce-module-core@2.1.0
+- pkg:composer/pagarme/ecommerce-module-core@2.10.0
 - pkg:composer/pagarme/ecommerce-module-core@2.2.0
 - pkg:composer/pagarme/ecommerce-module-core@2.2.1
 - pkg:composer/pagarme/ecommerce-module-core@2.2.2

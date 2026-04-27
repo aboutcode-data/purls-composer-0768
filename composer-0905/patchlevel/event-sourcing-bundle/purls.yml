@@ -50,6 +50,7 @@
 - pkg:composer/patchlevel/event-sourcing-bundle@3.14.1
 - pkg:composer/patchlevel/event-sourcing-bundle@3.15.0
 - pkg:composer/patchlevel/event-sourcing-bundle@3.16.0
+- pkg:composer/patchlevel/event-sourcing-bundle@3.16.1
 - pkg:composer/patchlevel/event-sourcing-bundle@3.2.0
 - pkg:composer/patchlevel/event-sourcing-bundle@3.3.0
 - pkg:composer/patchlevel/event-sourcing-bundle@3.4.0
