@@ -12,6 +12,8 @@
 - pkg:composer/studio-design/studio-auth-php@v0.2.22
 - pkg:composer/studio-design/studio-auth-php@v0.2.23
 - pkg:composer/studio-design/studio-auth-php@v0.2.24
+- pkg:composer/studio-design/studio-auth-php@v0.2.25-rc.3
+- pkg:composer/studio-design/studio-auth-php@v0.2.25-rc.4
 - pkg:composer/studio-design/studio-auth-php@v0.2.5
 - pkg:composer/studio-design/studio-auth-php@v0.2.7
 - pkg:composer/studio-design/studio-auth-php@v0.2.8

@@ -105,6 +105,8 @@
 - pkg:composer/survos/lingua-bundle@2.0.202
 - pkg:composer/survos/lingua-bundle@2.0.203
 - pkg:composer/survos/lingua-bundle@2.0.204
+- pkg:composer/survos/lingua-bundle@2.0.205
+- pkg:composer/survos/lingua-bundle@2.0.206
 - pkg:composer/survos/lingua-bundle@2.0.21
 - pkg:composer/survos/lingua-bundle@2.0.22
 - pkg:composer/survos/lingua-bundle@2.0.23
