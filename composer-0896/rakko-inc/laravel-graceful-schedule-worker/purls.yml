@@ -2,3 +2,4 @@
 - pkg:composer/rakko-inc/laravel-graceful-schedule-worker@0.2.0
 - pkg:composer/rakko-inc/laravel-graceful-schedule-worker@0.3.0
 - pkg:composer/rakko-inc/laravel-graceful-schedule-worker@0.4.0
+- pkg:composer/rakko-inc/laravel-graceful-schedule-worker@0.4.1
