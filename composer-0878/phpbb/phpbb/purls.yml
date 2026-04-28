@@ -108,3 +108,4 @@
 - pkg:composer/phpbb/phpbb@3.3.9
 - pkg:composer/phpbb/phpbb@3.3.9-RC1
 - pkg:composer/phpbb/phpbb@4.0.0-a1
+- pkg:composer/phpbb/phpbb@4.0.0-a2
