@@ -4,3 +4,6 @@
 - pkg:composer/phpdot/http@v2.0.0
 - pkg:composer/phpdot/http@v2.1.0
 - pkg:composer/phpdot/http@v2.2.0
+- pkg:composer/phpdot/http@v2.3.0
+- pkg:composer/phpdot/http@v2.4.0
+- pkg:composer/phpdot/http@v2.5.0
