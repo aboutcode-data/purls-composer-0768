@@ -14,3 +14,7 @@
 - pkg:composer/shoxcie/batch-http-client@v3.0.0-beta74
 - pkg:composer/shoxcie/batch-http-client@v3.0.1
 - pkg:composer/shoxcie/batch-http-client@v3.0.1-beta74
+- pkg:composer/shoxcie/batch-http-client@v3.1.0
+- pkg:composer/shoxcie/batch-http-client@v3.1.0-beta74
+- pkg:composer/shoxcie/batch-http-client@v4.0.0
+- pkg:composer/shoxcie/batch-http-client@v4.0.0-beta74

@@ -39,6 +39,7 @@
 - pkg:composer/slim/slim@3.12.3
 - pkg:composer/slim/slim@3.12.4
 - pkg:composer/slim/slim@3.12.5
+- pkg:composer/slim/slim@3.13.0
 - pkg:composer/slim/slim@3.2.0
 - pkg:composer/slim/slim@3.2.1
 - pkg:composer/slim/slim@3.2.2
