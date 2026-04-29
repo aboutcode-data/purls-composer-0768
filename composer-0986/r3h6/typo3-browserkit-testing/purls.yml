@@ -19,3 +19,5 @@
 - pkg:composer/r3h6/typo3-browserkit-testing@0.6.5-alpha
 - pkg:composer/r3h6/typo3-browserkit-testing@0.6.6-alpha
 - pkg:composer/r3h6/typo3-browserkit-testing@0.6.7-alpha
+- pkg:composer/r3h6/typo3-browserkit-testing@0.7.0-alpha
+- pkg:composer/r3h6/typo3-browserkit-testing@0.7.1-alpha
