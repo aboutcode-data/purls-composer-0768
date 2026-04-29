@@ -14,3 +14,6 @@
 - pkg:composer/sunnysideup/silverstripe-externalurlfield@3.1.0
 - pkg:composer/sunnysideup/silverstripe-externalurlfield@3.2.0
 - pkg:composer/sunnysideup/silverstripe-externalurlfield@3.2.1
+- pkg:composer/sunnysideup/silverstripe-externalurlfield@4.0.0
+- pkg:composer/sunnysideup/silverstripe-externalurlfield@4.0.1
+- pkg:composer/sunnysideup/silverstripe-externalurlfield@4.0.2

@@ -576,6 +576,8 @@
 - pkg:composer/tencentcloud/common@3.0.1575
 - pkg:composer/tencentcloud/common@3.0.1576
 - pkg:composer/tencentcloud/common@3.0.1577
+- pkg:composer/tencentcloud/common@3.0.1578
+- pkg:composer/tencentcloud/common@3.0.1579
 - pkg:composer/tencentcloud/common@3.0.248
 - pkg:composer/tencentcloud/common@3.0.249
 - pkg:composer/tencentcloud/common@3.0.250
