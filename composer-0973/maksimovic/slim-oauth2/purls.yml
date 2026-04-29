@@ -1,3 +1,4 @@
+- pkg:composer/maksimovic/slim-oauth2@5.0.0
 - pkg:composer/maksimovic/slim-oauth2@v0.1.0
 - pkg:composer/maksimovic/slim-oauth2@v0.1.1
 - pkg:composer/maksimovic/slim-oauth2@v0.1.2

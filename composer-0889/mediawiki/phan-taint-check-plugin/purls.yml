@@ -6,6 +6,7 @@
 - pkg:composer/mediawiki/phan-taint-check-plugin@1.4.0
 - pkg:composer/mediawiki/phan-taint-check-plugin@1.5.0
 - pkg:composer/mediawiki/phan-taint-check-plugin@1.5.1
+- pkg:composer/mediawiki/phan-taint-check-plugin@10.0.0
 - pkg:composer/mediawiki/phan-taint-check-plugin@2.0.0
 - pkg:composer/mediawiki/phan-taint-check-plugin@2.0.1
 - pkg:composer/mediawiki/phan-taint-check-plugin@2.0.2
