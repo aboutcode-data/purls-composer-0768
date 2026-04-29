@@ -193,3 +193,4 @@
 - pkg:composer/outeredge/magento-base-module@5.3.1
 - pkg:composer/outeredge/magento-base-module@5.4.0
 - pkg:composer/outeredge/magento-base-module@5.4.1
+- pkg:composer/outeredge/magento-base-module@5.4.2
