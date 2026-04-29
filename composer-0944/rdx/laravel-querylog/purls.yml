@@ -13,3 +13,4 @@
 - pkg:composer/rdx/laravel-querylog@3.6
 - pkg:composer/rdx/laravel-querylog@3.7
 - pkg:composer/rdx/laravel-querylog@3.8
+- pkg:composer/rdx/laravel-querylog@3.9

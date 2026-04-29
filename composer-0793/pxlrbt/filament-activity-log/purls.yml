@@ -30,3 +30,6 @@
 - pkg:composer/pxlrbt/filament-activity-log@v2.1.0
 - pkg:composer/pxlrbt/filament-activity-log@v2.1.1
 - pkg:composer/pxlrbt/filament-activity-log@v2.2.0
+- pkg:composer/pxlrbt/filament-activity-log@v3.0.0
+- pkg:composer/pxlrbt/filament-activity-log@v3.1.0
+- pkg:composer/pxlrbt/filament-activity-log@v3.1.1
