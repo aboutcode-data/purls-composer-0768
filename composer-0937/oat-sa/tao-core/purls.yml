@@ -1040,6 +1040,7 @@
 - pkg:composer/oat-sa/tao-core@v56.1.13
 - pkg:composer/oat-sa/tao-core@v56.1.14
 - pkg:composer/oat-sa/tao-core@v56.1.15
+- pkg:composer/oat-sa/tao-core@v56.1.15.1
 - pkg:composer/oat-sa/tao-core@v56.1.16
 - pkg:composer/oat-sa/tao-core@v56.1.17
 - pkg:composer/oat-sa/tao-core@v56.1.18

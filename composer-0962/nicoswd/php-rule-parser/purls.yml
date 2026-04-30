@@ -20,3 +20,4 @@
 - pkg:composer/nicoswd/php-rule-parser@v0.3.4
 - pkg:composer/nicoswd/php-rule-parser@v0.3.5
 - pkg:composer/nicoswd/php-rule-parser@v0.8
+- pkg:composer/nicoswd/php-rule-parser@v1.0
