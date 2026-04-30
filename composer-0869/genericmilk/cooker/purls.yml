@@ -1,6 +1,7 @@
 - pkg:composer/genericmilk/cooker@1.1
 - pkg:composer/genericmilk/cooker@1.1.1
 - pkg:composer/genericmilk/cooker@1.1.2
+- pkg:composer/genericmilk/cooker@10.0.0
 - pkg:composer/genericmilk/cooker@2.0.0
 - pkg:composer/genericmilk/cooker@2.1.0
 - pkg:composer/genericmilk/cooker@2.1.1

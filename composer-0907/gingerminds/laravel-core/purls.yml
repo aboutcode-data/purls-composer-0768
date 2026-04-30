@@ -3,3 +3,4 @@
 - pkg:composer/gingerminds/laravel-core@1.2.0
 - pkg:composer/gingerminds/laravel-core@2.0.0
 - pkg:composer/gingerminds/laravel-core@2.1.0
+- pkg:composer/gingerminds/laravel-core@2.2.0

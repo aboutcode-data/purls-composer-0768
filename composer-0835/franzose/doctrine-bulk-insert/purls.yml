@@ -5,3 +5,4 @@
 - pkg:composer/franzose/doctrine-bulk-insert@v1.2
 - pkg:composer/franzose/doctrine-bulk-insert@v2.0
 - pkg:composer/franzose/doctrine-bulk-insert@v2.1
+- pkg:composer/franzose/doctrine-bulk-insert@v2.1.1

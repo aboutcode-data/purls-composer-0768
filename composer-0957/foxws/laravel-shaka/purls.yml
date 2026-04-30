@@ -22,3 +22,4 @@
 - pkg:composer/foxws/laravel-shaka@1.9.0
 - pkg:composer/foxws/laravel-shaka@2.0.0
 - pkg:composer/foxws/laravel-shaka@2.0.1
+- pkg:composer/foxws/laravel-shaka@2.0.2

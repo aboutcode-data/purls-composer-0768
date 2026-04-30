@@ -57,6 +57,7 @@
 - pkg:composer/girosolution/girocheckout-sdk@2.4.9
 - pkg:composer/girosolution/girocheckout-sdk@2.6.0
 - pkg:composer/girosolution/girocheckout-sdk@2.6.1
+- pkg:composer/girosolution/girocheckout-sdk@2.6.10
 - pkg:composer/girosolution/girocheckout-sdk@2.6.2
 - pkg:composer/girosolution/girocheckout-sdk@2.6.4
 - pkg:composer/girosolution/girocheckout-sdk@2.6.4.1

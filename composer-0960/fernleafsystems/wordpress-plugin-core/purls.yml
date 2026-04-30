@@ -47,6 +47,7 @@
 - pkg:composer/fernleafsystems/wordpress-plugin-core@2.4.0
 - pkg:composer/fernleafsystems/wordpress-plugin-core@2.4.1
 - pkg:composer/fernleafsystems/wordpress-plugin-core@2.4.10
+- pkg:composer/fernleafsystems/wordpress-plugin-core@2.4.11
 - pkg:composer/fernleafsystems/wordpress-plugin-core@2.4.2
 - pkg:composer/fernleafsystems/wordpress-plugin-core@2.4.3
 - pkg:composer/fernleafsystems/wordpress-plugin-core@2.4.4

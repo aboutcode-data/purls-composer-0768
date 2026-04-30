@@ -33,8 +33,10 @@
 - pkg:composer/fof/sitemap@2.6.0
 - pkg:composer/fof/sitemap@2.6.0-beta.1
 - pkg:composer/fof/sitemap@2.6.0-beta.2
+- pkg:composer/fof/sitemap@2.6.1
 - pkg:composer/fof/sitemap@3.0.0-beta.1
 - pkg:composer/fof/sitemap@3.0.0-beta.2
 - pkg:composer/fof/sitemap@3.0.0-beta.3
 - pkg:composer/fof/sitemap@3.0.0-beta.4
 - pkg:composer/fof/sitemap@3.0.0-beta.5
+- pkg:composer/fof/sitemap@3.0.0-beta.6
