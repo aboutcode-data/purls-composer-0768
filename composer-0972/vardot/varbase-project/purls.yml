@@ -33,6 +33,7 @@
 - pkg:composer/vardot/varbase-project@10.1.0-alpha3
 - pkg:composer/vardot/varbase-project@10.1.0-beta1
 - pkg:composer/vardot/varbase-project@10.1.0-rc1
+- pkg:composer/vardot/varbase-project@11.0.0
 - pkg:composer/vardot/varbase-project@8.4.06
 - pkg:composer/vardot/varbase-project@8.4.07
 - pkg:composer/vardot/varbase-project@8.4.08
