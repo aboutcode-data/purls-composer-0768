@@ -24,3 +24,6 @@
 - pkg:composer/decodelabs/prophet@v0.5.2
 - pkg:composer/decodelabs/prophet@v0.5.3
 - pkg:composer/decodelabs/prophet@v0.5.4
+- pkg:composer/decodelabs/prophet@v0.6.0
+- pkg:composer/decodelabs/prophet@v0.6.1
+- pkg:composer/decodelabs/prophet@v0.6.2

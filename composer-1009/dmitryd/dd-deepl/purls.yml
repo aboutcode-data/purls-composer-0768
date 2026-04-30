@@ -3,6 +3,8 @@
 - pkg:composer/dmitryd/dd-deepl@12.2.0
 - pkg:composer/dmitryd/dd-deepl@12.8.2
 - pkg:composer/dmitryd/dd-deepl@13.0.0
+- pkg:composer/dmitryd/dd-deepl@14.0.1
+- pkg:composer/dmitryd/dd-deepl@14.0.2
 - pkg:composer/dmitryd/dd-deepl@v11.0.0
 - pkg:composer/dmitryd/dd-deepl@v11.2.0
 - pkg:composer/dmitryd/dd-deepl@v11.2.1
@@ -39,3 +41,4 @@
 - pkg:composer/dmitryd/dd-deepl@v13.1.0
 - pkg:composer/dmitryd/dd-deepl@v13.1.1
 - pkg:composer/dmitryd/dd-deepl@v13.1.2
+- pkg:composer/dmitryd/dd-deepl@v14.0.0
