@@ -19,6 +19,7 @@
 - pkg:composer/horde/mnemo@4.2.9
 - pkg:composer/horde/mnemo@5.0.0alpha1
 - pkg:composer/horde/mnemo@5.0.0alpha2
+- pkg:composer/horde/mnemo@v5.0.0alpha10
 - pkg:composer/horde/mnemo@v5.0.0alpha3
 - pkg:composer/horde/mnemo@v5.0.0alpha4
 - pkg:composer/horde/mnemo@v5.0.0alpha5
@@ -27,3 +28,5 @@
 - pkg:composer/horde/mnemo@v5.0.0alpha8
 - pkg:composer/horde/mnemo@v5.0.0alpha9
 - pkg:composer/horde/mnemo@v5.0.0beta1
+- pkg:composer/horde/mnemo@v5.0.0beta2
+- pkg:composer/horde/mnemo@v5.0.0beta3

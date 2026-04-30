@@ -1892,6 +1892,17 @@
 - pkg:composer/helsingborg-stad/municipio@6.4.8
 - pkg:composer/helsingborg-stad/municipio@6.4.9
 - pkg:composer/helsingborg-stad/municipio@6.40.0
+- pkg:composer/helsingborg-stad/municipio@6.40.10
+- pkg:composer/helsingborg-stad/municipio@6.40.12
+- pkg:composer/helsingborg-stad/municipio@6.40.14
+- pkg:composer/helsingborg-stad/municipio@6.40.16
+- pkg:composer/helsingborg-stad/municipio@6.40.18
+- pkg:composer/helsingborg-stad/municipio@6.40.2
+- pkg:composer/helsingborg-stad/municipio@6.40.20
+- pkg:composer/helsingborg-stad/municipio@6.40.22
+- pkg:composer/helsingborg-stad/municipio@6.40.4
+- pkg:composer/helsingborg-stad/municipio@6.40.6
+- pkg:composer/helsingborg-stad/municipio@6.40.8
 - pkg:composer/helsingborg-stad/municipio@6.5.0
 - pkg:composer/helsingborg-stad/municipio@6.5.1
 - pkg:composer/helsingborg-stad/municipio@6.5.11
@@ -1967,6 +1978,9 @@
 - pkg:composer/helsingborg-stad/municipio@7.0.0-alpha.172
 - pkg:composer/helsingborg-stad/municipio@7.0.0-alpha.175
 - pkg:composer/helsingborg-stad/municipio@7.0.0-alpha.177
+- pkg:composer/helsingborg-stad/municipio@7.0.0-alpha.180
+- pkg:composer/helsingborg-stad/municipio@7.0.0-alpha.185
+- pkg:composer/helsingborg-stad/municipio@7.0.0-alpha.188
 - pkg:composer/helsingborg-stad/municipio@7.0.0-alpha.74
 - pkg:composer/helsingborg-stad/municipio@7.0.0-alpha.78
 - pkg:composer/helsingborg-stad/municipio@7.0.0-alpha.80
