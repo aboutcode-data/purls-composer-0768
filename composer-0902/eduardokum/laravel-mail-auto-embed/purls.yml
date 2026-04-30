@@ -11,3 +11,4 @@
 - pkg:composer/eduardokum/laravel-mail-auto-embed@2.10.1
 - pkg:composer/eduardokum/laravel-mail-auto-embed@2.11
 - pkg:composer/eduardokum/laravel-mail-auto-embed@2.12
+- pkg:composer/eduardokum/laravel-mail-auto-embed@2.13

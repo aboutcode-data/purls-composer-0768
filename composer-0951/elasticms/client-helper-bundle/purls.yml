@@ -361,6 +361,7 @@
 - pkg:composer/elasticms/client-helper-bundle@6.9.10
 - pkg:composer/elasticms/client-helper-bundle@6.9.11
 - pkg:composer/elasticms/client-helper-bundle@6.9.12
+- pkg:composer/elasticms/client-helper-bundle@6.9.13
 - pkg:composer/elasticms/client-helper-bundle@6.9.2
 - pkg:composer/elasticms/client-helper-bundle@6.9.3
 - pkg:composer/elasticms/client-helper-bundle@6.9.4
@@ -371,6 +372,7 @@
 - pkg:composer/elasticms/client-helper-bundle@6.9.9
 - pkg:composer/elasticms/client-helper-bundle@7.0.0
 - pkg:composer/elasticms/client-helper-bundle@7.1.0
+- pkg:composer/elasticms/client-helper-bundle@7.2.0
 - pkg:composer/elasticms/client-helper-bundle@V0.0.1
 - pkg:composer/elasticms/client-helper-bundle@V0.0.2
 - pkg:composer/elasticms/client-helper-bundle@v0.0.3
