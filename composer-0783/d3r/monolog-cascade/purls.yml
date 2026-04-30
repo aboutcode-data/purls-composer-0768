@@ -16,3 +16,4 @@
 - pkg:composer/d3r/monolog-cascade@0.6.3
 - pkg:composer/d3r/monolog-cascade@1.0.0
 - pkg:composer/d3r/monolog-cascade@1.0.1
+- pkg:composer/d3r/monolog-cascade@1.0.2

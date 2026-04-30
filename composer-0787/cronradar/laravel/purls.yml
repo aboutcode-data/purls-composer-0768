@@ -1,5 +1,6 @@
 - pkg:composer/cronradar/laravel@0.0.7
 - pkg:composer/cronradar/laravel@0.0.8
+- pkg:composer/cronradar/laravel@0.0.9
 - pkg:composer/cronradar/laravel@v0.0.1
 - pkg:composer/cronradar/laravel@v0.0.2
 - pkg:composer/cronradar/laravel@v0.0.3

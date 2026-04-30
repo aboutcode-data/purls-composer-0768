@@ -453,3 +453,4 @@
 - pkg:composer/contao/newsletter-bundle@5.7.1
 - pkg:composer/contao/newsletter-bundle@5.7.2
 - pkg:composer/contao/newsletter-bundle@5.7.3
+- pkg:composer/contao/newsletter-bundle@5.7.4
