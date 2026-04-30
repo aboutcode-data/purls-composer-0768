@@ -30,7 +30,9 @@
 - pkg:composer/zen-geeks/laravel-admin@1.9.9
 - pkg:composer/zen-geeks/laravel-admin@2.0.1
 - pkg:composer/zen-geeks/laravel-admin@2.0.10
+- pkg:composer/zen-geeks/laravel-admin@2.0.11
 - pkg:composer/zen-geeks/laravel-admin@2.0.12
+- pkg:composer/zen-geeks/laravel-admin@2.0.13
 - pkg:composer/zen-geeks/laravel-admin@2.0.2
 - pkg:composer/zen-geeks/laravel-admin@2.0.3
 - pkg:composer/zen-geeks/laravel-admin@2.0.4

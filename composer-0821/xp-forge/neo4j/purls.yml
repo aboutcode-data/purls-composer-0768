@@ -8,3 +8,4 @@
 - pkg:composer/xp-forge/neo4j@v1.1.2
 - pkg:composer/xp-forge/neo4j@v1.2.0
 - pkg:composer/xp-forge/neo4j@v2.0.0
+- pkg:composer/xp-forge/neo4j@v2.1.0
