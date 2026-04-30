@@ -215,3 +215,4 @@
 - pkg:composer/oro/commerce@6.1.9
 - pkg:composer/oro/commerce@7.0.0
 - pkg:composer/oro/commerce@7.0.0-rc
+- pkg:composer/oro/commerce@7.0.1
