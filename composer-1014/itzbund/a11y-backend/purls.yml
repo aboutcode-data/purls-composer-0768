@@ -496,3 +496,6 @@
 - pkg:composer/itzbund/a11y-backend@v2.1.0-rc.9
 - pkg:composer/itzbund/a11y-backend@v2.1.1-rc.1
 - pkg:composer/itzbund/a11y-backend@v2.1.1-rc.2
+- pkg:composer/itzbund/a11y-backend@v2.1.1-rc.3
+- pkg:composer/itzbund/a11y-backend@v2.2.0-rc.1
+- pkg:composer/itzbund/a11y-backend@v2.2.0-rc.2
