@@ -19,3 +19,5 @@
 - pkg:composer/quimcalpe/router@2.3.0
 - pkg:composer/quimcalpe/router@3.0.0
 - pkg:composer/quimcalpe/router@4.0.0
+- pkg:composer/quimcalpe/router@4.1.0
+- pkg:composer/quimcalpe/router@4.2.0

@@ -1,1 +1,2 @@
 - pkg:composer/rdkafka/rdkafka@6.0.5
+- pkg:composer/rdkafka/rdkafka@7.0.0alpha1
