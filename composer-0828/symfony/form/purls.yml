@@ -706,6 +706,7 @@
 - pkg:composer/symfony/form@v7.4.6
 - pkg:composer/symfony/form@v7.4.7
 - pkg:composer/symfony/form@v7.4.8
+- pkg:composer/symfony/form@v7.4.9
 - pkg:composer/symfony/form@v8.0.0
 - pkg:composer/symfony/form@v8.0.0-BETA1
 - pkg:composer/symfony/form@v8.0.0-BETA2
@@ -717,3 +718,4 @@
 - pkg:composer/symfony/form@v8.0.6
 - pkg:composer/symfony/form@v8.0.7
 - pkg:composer/symfony/form@v8.0.8
+- pkg:composer/symfony/form@v8.0.9
