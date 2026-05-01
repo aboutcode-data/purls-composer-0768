@@ -22,3 +22,6 @@
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-34
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-36
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-37
+- pkg:composer/vortos/vortos-docker@v1.0.0-alpha-38
+- pkg:composer/vortos/vortos-docker@v1.0.0-alpha-39
+- pkg:composer/vortos/vortos-docker@v1.0.0-alpha-40
