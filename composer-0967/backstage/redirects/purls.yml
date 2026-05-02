@@ -84,6 +84,7 @@
 - pkg:composer/backstage/redirects@v4.0.0
 - pkg:composer/backstage/redirects@v4.0.1
 - pkg:composer/backstage/redirects@v4.0.10
+- pkg:composer/backstage/redirects@v4.0.11
 - pkg:composer/backstage/redirects@v4.0.2
 - pkg:composer/backstage/redirects@v4.0.3
 - pkg:composer/backstage/redirects@v4.0.4

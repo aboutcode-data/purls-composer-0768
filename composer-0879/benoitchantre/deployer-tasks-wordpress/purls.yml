@@ -9,3 +9,4 @@
 - pkg:composer/benoitchantre/deployer-tasks-wordpress@0.5.1
 - pkg:composer/benoitchantre/deployer-tasks-wordpress@1.0.0
 - pkg:composer/benoitchantre/deployer-tasks-wordpress@1.1.0
+- pkg:composer/benoitchantre/deployer-tasks-wordpress@2.0.0

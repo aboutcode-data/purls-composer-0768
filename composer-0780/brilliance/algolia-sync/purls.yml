@@ -69,3 +69,4 @@
 - pkg:composer/brilliance/algolia-sync@v5.2.1-beta
 - pkg:composer/brilliance/algolia-sync@v5.2.2-beta
 - pkg:composer/brilliance/algolia-sync@v5.2.3-beta
+- pkg:composer/brilliance/algolia-sync@v5.2.4-beta
