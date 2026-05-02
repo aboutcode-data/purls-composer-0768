@@ -64,3 +64,4 @@
 - pkg:composer/amphp/http-server@v3.4.2
 - pkg:composer/amphp/http-server@v3.4.3
 - pkg:composer/amphp/http-server@v3.4.4
+- pkg:composer/amphp/http-server@v3.4.5

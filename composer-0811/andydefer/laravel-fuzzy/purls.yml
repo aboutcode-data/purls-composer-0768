@@ -32,3 +32,12 @@
 - pkg:composer/andydefer/laravel-fuzzy@0.9.1
 - pkg:composer/andydefer/laravel-fuzzy@0.9.2
 - pkg:composer/andydefer/laravel-fuzzy@0.9.3
+- pkg:composer/andydefer/laravel-fuzzy@1.0.0
+- pkg:composer/andydefer/laravel-fuzzy@1.1.0
+- pkg:composer/andydefer/laravel-fuzzy@1.1.1
+- pkg:composer/andydefer/laravel-fuzzy@1.2.0
+- pkg:composer/andydefer/laravel-fuzzy@1.2.1
+- pkg:composer/andydefer/laravel-fuzzy@1.2.2
+- pkg:composer/andydefer/laravel-fuzzy@1.2.3
+- pkg:composer/andydefer/laravel-fuzzy@1.2.5
+- pkg:composer/andydefer/laravel-fuzzy@2.0.0
