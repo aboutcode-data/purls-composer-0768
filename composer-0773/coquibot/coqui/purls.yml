@@ -1,1 +1,5 @@
 - pkg:composer/coquibot/coqui@0.0.1
+- pkg:composer/coquibot/coqui@v0.0.21
+- pkg:composer/coquibot/coqui@v0.0.22
+- pkg:composer/coquibot/coqui@v0.0.23
+- pkg:composer/coquibot/coqui@v0.0.24
