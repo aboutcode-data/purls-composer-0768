@@ -23,6 +23,7 @@
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v1.3.8
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v1.3.9
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v1.4.0
+- pkg:composer/datenkraft/bb-fulfillment-api-php-client@v1.4.1
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.2.0
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.2.1
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.2.10
@@ -70,6 +71,7 @@
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.3.116
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.3.117
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.3.118
+- pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.3.119
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.3.12
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.3.13
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.3.14
@@ -167,3 +169,4 @@
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.3.98
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.3.99
 - pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.4.0
+- pkg:composer/datenkraft/bb-fulfillment-api-php-client@v2.4.1

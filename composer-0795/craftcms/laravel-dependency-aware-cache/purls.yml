@@ -6,3 +6,6 @@
 - pkg:composer/craftcms/laravel-dependency-aware-cache@1.0.5
 - pkg:composer/craftcms/laravel-dependency-aware-cache@1.1.0
 - pkg:composer/craftcms/laravel-dependency-aware-cache@1.2.0
+- pkg:composer/craftcms/laravel-dependency-aware-cache@1.2.1
+- pkg:composer/craftcms/laravel-dependency-aware-cache@1.2.2
+- pkg:composer/craftcms/laravel-dependency-aware-cache@1.2.3
