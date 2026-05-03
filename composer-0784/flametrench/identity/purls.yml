@@ -1,5 +1,6 @@
 - pkg:composer/flametrench/identity@v0.0.1
 - pkg:composer/flametrench/identity@v0.1.0
+- pkg:composer/flametrench/identity@v0.2.0
 - pkg:composer/flametrench/identity@v0.2.0-rc.1
 - pkg:composer/flametrench/identity@v0.2.0-rc.2
 - pkg:composer/flametrench/identity@v0.2.0-rc.3

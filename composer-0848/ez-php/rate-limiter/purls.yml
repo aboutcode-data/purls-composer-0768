@@ -30,3 +30,4 @@
 - pkg:composer/ez-php/rate-limiter@1.8.0
 - pkg:composer/ez-php/rate-limiter@1.9.0
 - pkg:composer/ez-php/rate-limiter@1.9.1
+- pkg:composer/ez-php/rate-limiter@1.9.2
