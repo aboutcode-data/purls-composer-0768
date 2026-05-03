@@ -1,1 +1,2 @@
 - pkg:composer/giginc/cakephp5-driver-bigquery@1.0.0
+- pkg:composer/giginc/cakephp5-driver-bigquery@1.0.1
