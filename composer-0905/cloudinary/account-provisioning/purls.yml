@@ -4,3 +4,4 @@
 - pkg:composer/cloudinary/account-provisioning@0.0.5
 - pkg:composer/cloudinary/account-provisioning@0.0.6
 - pkg:composer/cloudinary/account-provisioning@0.1.0
+- pkg:composer/cloudinary/account-provisioning@v0.2.0

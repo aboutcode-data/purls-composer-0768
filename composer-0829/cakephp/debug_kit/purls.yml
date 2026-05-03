@@ -160,3 +160,4 @@
 - pkg:composer/cakephp/debug_kit@5.1.5
 - pkg:composer/cakephp/debug_kit@5.2.0
 - pkg:composer/cakephp/debug_kit@5.2.1
+- pkg:composer/cakephp/debug_kit@5.2.2
