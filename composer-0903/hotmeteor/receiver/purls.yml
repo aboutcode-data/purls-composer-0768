@@ -19,3 +19,4 @@
 - pkg:composer/hotmeteor/receiver@v0.2.0.1
 - pkg:composer/hotmeteor/receiver@v0.3
 - pkg:composer/hotmeteor/receiver@v0.4
+- pkg:composer/hotmeteor/receiver@v1.0.0
