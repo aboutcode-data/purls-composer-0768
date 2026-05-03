@@ -3,3 +3,7 @@
 - pkg:composer/alle-ai/anthropic-api-php@1.2.1
 - pkg:composer/alle-ai/anthropic-api-php@1.2.2
 - pkg:composer/alle-ai/anthropic-api-php@1.3
+- pkg:composer/alle-ai/anthropic-api-php@v2.0.0
+- pkg:composer/alle-ai/anthropic-api-php@v2.0.0-beta.1
+- pkg:composer/alle-ai/anthropic-api-php@v2.0.0-beta.2
+- pkg:composer/alle-ai/anthropic-api-php@v2.0.0-beta.3
