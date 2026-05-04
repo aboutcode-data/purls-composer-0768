@@ -1,5 +1,6 @@
 - pkg:composer/jeremykenedy/laravel-exception-notifier@V4.0.0
 - pkg:composer/jeremykenedy/laravel-exception-notifier@V4.1.0
+- pkg:composer/jeremykenedy/laravel-exception-notifier@V4.2.0
 - pkg:composer/jeremykenedy/laravel-exception-notifier@v0.0.2
 - pkg:composer/jeremykenedy/laravel-exception-notifier@v1.0.0
 - pkg:composer/jeremykenedy/laravel-exception-notifier@v1.1.0

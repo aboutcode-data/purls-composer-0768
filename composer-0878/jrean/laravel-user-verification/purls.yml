@@ -4,6 +4,7 @@
 - pkg:composer/jrean/laravel-user-verification@v11.0.0
 - pkg:composer/jrean/laravel-user-verification@v12.0.0
 - pkg:composer/jrean/laravel-user-verification@v13.0.0
+- pkg:composer/jrean/laravel-user-verification@v14.0.0
 - pkg:composer/jrean/laravel-user-verification@v2.0
 - pkg:composer/jrean/laravel-user-verification@v2.0.1
 - pkg:composer/jrean/laravel-user-verification@v2.0.2

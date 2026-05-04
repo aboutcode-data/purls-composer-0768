@@ -16,3 +16,4 @@
 - pkg:composer/jorijn/laravel-security-checker@v2.4.0
 - pkg:composer/jorijn/laravel-security-checker@v2.5.0
 - pkg:composer/jorijn/laravel-security-checker@v2.6.0
+- pkg:composer/jorijn/laravel-security-checker@v3.0.0
