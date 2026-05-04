@@ -37,6 +37,7 @@
 - pkg:composer/assoconnect/doctrine-types-bundle@v2.14.1
 - pkg:composer/assoconnect/doctrine-types-bundle@v2.15.0
 - pkg:composer/assoconnect/doctrine-types-bundle@v2.15.1
+- pkg:composer/assoconnect/doctrine-types-bundle@v2.16.0
 - pkg:composer/assoconnect/doctrine-types-bundle@v2.2
 - pkg:composer/assoconnect/doctrine-types-bundle@v2.2.1
 - pkg:composer/assoconnect/doctrine-types-bundle@v2.3

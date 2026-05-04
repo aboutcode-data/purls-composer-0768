@@ -45,12 +45,15 @@
 - pkg:composer/andrevanzuydam/tina4php@3.11.30
 - pkg:composer/andrevanzuydam/tina4php@3.11.31
 - pkg:composer/andrevanzuydam/tina4php@3.11.32
+- pkg:composer/andrevanzuydam/tina4php@3.11.36
 - pkg:composer/andrevanzuydam/tina4php@3.11.4
 - pkg:composer/andrevanzuydam/tina4php@3.11.5
 - pkg:composer/andrevanzuydam/tina4php@3.11.6
 - pkg:composer/andrevanzuydam/tina4php@3.11.7
 - pkg:composer/andrevanzuydam/tina4php@3.11.8
 - pkg:composer/andrevanzuydam/tina4php@3.11.9
+- pkg:composer/andrevanzuydam/tina4php@3.12.0
+- pkg:composer/andrevanzuydam/tina4php@3.12.1
 - pkg:composer/andrevanzuydam/tina4php@v0.0.070
 - pkg:composer/andrevanzuydam/tina4php@v0.0.10
 - pkg:composer/andrevanzuydam/tina4php@v0.0.100
