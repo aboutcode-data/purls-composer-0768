@@ -11,3 +11,4 @@
 - pkg:composer/dereuromark/cakephp-tinyauth-backend@3.0.0-RC
 - pkg:composer/dereuromark/cakephp-tinyauth-backend@3.1.0
 - pkg:composer/dereuromark/cakephp-tinyauth-backend@3.2.0
+- pkg:composer/dereuromark/cakephp-tinyauth-backend@3.2.1
