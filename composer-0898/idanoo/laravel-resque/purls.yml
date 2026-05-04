@@ -5,3 +5,4 @@
 - pkg:composer/idanoo/laravel-resque@9.0
 - pkg:composer/idanoo/laravel-resque@9.1.0
 - pkg:composer/idanoo/laravel-resque@9.1.1
+- pkg:composer/idanoo/laravel-resque@9.2.0

@@ -24,3 +24,4 @@
 - pkg:composer/idanoo/php-resque@2.6.0
 - pkg:composer/idanoo/php-resque@2.6.1
 - pkg:composer/idanoo/php-resque@2.6.2
+- pkg:composer/idanoo/php-resque@3.0.0
