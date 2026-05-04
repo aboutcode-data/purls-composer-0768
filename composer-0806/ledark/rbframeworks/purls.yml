@@ -90,6 +90,8 @@
 - pkg:composer/ledark/rbframeworks@v0.3.7
 - pkg:composer/ledark/rbframeworks@v0.3.8
 - pkg:composer/ledark/rbframeworks@v0.3.9
+- pkg:composer/ledark/rbframeworks@v0.4.0
+- pkg:composer/ledark/rbframeworks@v0.4.1
 - pkg:composer/ledark/rbframeworks@v1.0.1
 - pkg:composer/ledark/rbframeworks@v1.0.2
 - pkg:composer/ledark/rbframeworks@v1.0.3

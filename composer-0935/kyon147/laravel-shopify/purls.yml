@@ -28,3 +28,6 @@
 - pkg:composer/kyon147/laravel-shopify@v25.0.2
 - pkg:composer/kyon147/laravel-shopify@v25.1.0
 - pkg:composer/kyon147/laravel-shopify@v25.1.1
+- pkg:composer/kyon147/laravel-shopify@v25.2.0
+- pkg:composer/kyon147/laravel-shopify@v26.0.0
+- pkg:composer/kyon147/laravel-shopify@v26.1.0
