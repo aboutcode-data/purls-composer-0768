@@ -60,6 +60,7 @@
 - pkg:composer/google/apiclient@v2.19.0
 - pkg:composer/google/apiclient@v2.19.1
 - pkg:composer/google/apiclient@v2.19.2
+- pkg:composer/google/apiclient@v2.19.3
 - pkg:composer/google/apiclient@v2.2.0
 - pkg:composer/google/apiclient@v2.2.1
 - pkg:composer/google/apiclient@v2.2.2
