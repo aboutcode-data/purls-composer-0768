@@ -1,3 +1,10 @@
 - pkg:composer/errorwatch/sdk-php@2.0.0
 - pkg:composer/errorwatch/sdk-php@2.1.0
 - pkg:composer/errorwatch/sdk-php@v2.3.1
+- pkg:composer/errorwatch/sdk-php@v2.4.0
+- pkg:composer/errorwatch/sdk-php@v2.4.1
+- pkg:composer/errorwatch/sdk-php@v2.5.0
+- pkg:composer/errorwatch/sdk-php@v2.5.1
+- pkg:composer/errorwatch/sdk-php@v2.5.2
+- pkg:composer/errorwatch/sdk-php@v2.5.3
+- pkg:composer/errorwatch/sdk-php@v2.5.4
