@@ -1,3 +1,4 @@
 - pkg:composer/diephp/laravel-resources-typescript@v0.1.4
 - pkg:composer/diephp/laravel-resources-typescript@v0.1.5
 - pkg:composer/diephp/laravel-resources-typescript@v2.0.0
+- pkg:composer/diephp/laravel-resources-typescript@v2.0.1
