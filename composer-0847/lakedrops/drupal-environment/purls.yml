@@ -327,6 +327,7 @@
 - pkg:composer/lakedrops/drupal-environment@v3.2.258
 - pkg:composer/lakedrops/drupal-environment@v3.2.259
 - pkg:composer/lakedrops/drupal-environment@v3.2.26
+- pkg:composer/lakedrops/drupal-environment@v3.2.260
 - pkg:composer/lakedrops/drupal-environment@v3.2.27
 - pkg:composer/lakedrops/drupal-environment@v3.2.28
 - pkg:composer/lakedrops/drupal-environment@v3.2.29
