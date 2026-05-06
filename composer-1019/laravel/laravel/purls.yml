@@ -89,6 +89,7 @@
 - pkg:composer/laravel/laravel@v13.2.0
 - pkg:composer/laravel/laravel@v13.3.0
 - pkg:composer/laravel/laravel@v13.4.0
+- pkg:composer/laravel/laravel@v13.5.0
 - pkg:composer/laravel/laravel@v4.0.0
 - pkg:composer/laravel/laravel@v4.0.0-BETA3
 - pkg:composer/laravel/laravel@v4.0.0-BETA4

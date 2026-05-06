@@ -3,3 +3,5 @@
 - pkg:composer/lpdfio/lpdf@v0.1.0
 - pkg:composer/lpdfio/lpdf@v0.2.0
 - pkg:composer/lpdfio/lpdf@v0.5.0
+- pkg:composer/lpdfio/lpdf@v0.6.0
+- pkg:composer/lpdfio/lpdf@v0.7.0

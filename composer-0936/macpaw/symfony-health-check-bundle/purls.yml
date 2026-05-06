@@ -20,3 +20,4 @@
 - pkg:composer/macpaw/symfony-health-check-bundle@v1.6.0
 - pkg:composer/macpaw/symfony-health-check-bundle@v1.7.0
 - pkg:composer/macpaw/symfony-health-check-bundle@v2.0.0
+- pkg:composer/macpaw/symfony-health-check-bundle@v2.1.0

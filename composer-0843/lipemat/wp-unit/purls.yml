@@ -63,3 +63,6 @@
 - pkg:composer/lipemat/wp-unit@4.8.0
 - pkg:composer/lipemat/wp-unit@4.8.1
 - pkg:composer/lipemat/wp-unit@4.8.2
+- pkg:composer/lipemat/wp-unit@4.9.0
+- pkg:composer/lipemat/wp-unit@4.9.1
+- pkg:composer/lipemat/wp-unit@4.9.2
