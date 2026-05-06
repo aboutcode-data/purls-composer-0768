@@ -1,6 +1,13 @@
 - pkg:composer/opero-crm/erli-api@0.0.1
+- pkg:composer/opero-crm/erli-api@0.0.10
+- pkg:composer/opero-crm/erli-api@0.0.11
+- pkg:composer/opero-crm/erli-api@0.0.13
+- pkg:composer/opero-crm/erli-api@0.0.14
 - pkg:composer/opero-crm/erli-api@0.0.5
 - pkg:composer/opero-crm/erli-api@0.0.6
 - pkg:composer/opero-crm/erli-api@0.0.7
 - pkg:composer/opero-crm/erli-api@0.0.8
 - pkg:composer/opero-crm/erli-api@0.0.9
+- pkg:composer/opero-crm/erli-api@v0.0.15
+- pkg:composer/opero-crm/erli-api@v0.0.16
+- pkg:composer/opero-crm/erli-api@v0.0.17
