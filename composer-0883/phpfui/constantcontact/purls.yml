@@ -69,3 +69,7 @@
 - pkg:composer/phpfui/constantcontact@V26.4.2
 - pkg:composer/phpfui/constantcontact@V26.4.3
 - pkg:composer/phpfui/constantcontact@V26.4.4
+- pkg:composer/phpfui/constantcontact@V26.5.0
+- pkg:composer/phpfui/constantcontact@V26.5.1
+- pkg:composer/phpfui/constantcontact@V26.5.2
+- pkg:composer/phpfui/constantcontact@V26.5.3

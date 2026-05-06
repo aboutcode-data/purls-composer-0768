@@ -18,3 +18,7 @@
 - pkg:composer/probe/foundation@v1.4.1
 - pkg:composer/probe/foundation@v1.4.2
 - pkg:composer/probe/foundation@v1.5
+- pkg:composer/probe/foundation@v1.6
+- pkg:composer/probe/foundation@v1.6.1
+- pkg:composer/probe/foundation@v1.6.1.1
+- pkg:composer/probe/foundation@v1.6.1.2

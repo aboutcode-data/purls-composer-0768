@@ -1,1 +1,2 @@
 - pkg:composer/phpdot/mongodb@v1.0.0
+- pkg:composer/phpdot/mongodb@v2.0.0

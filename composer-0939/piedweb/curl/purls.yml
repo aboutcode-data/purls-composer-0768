@@ -192,3 +192,5 @@
 - pkg:composer/piedweb/curl@0.1.894
 - pkg:composer/piedweb/curl@0.1.895
 - pkg:composer/piedweb/curl@v0.0.18
+- pkg:composer/piedweb/curl@v0.1.896
+- pkg:composer/piedweb/curl@v0.1.897
