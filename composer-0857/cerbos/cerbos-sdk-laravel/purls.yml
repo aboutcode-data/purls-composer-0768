@@ -16,3 +16,4 @@
 - pkg:composer/cerbos/cerbos-sdk-laravel@v1.10.5
 - pkg:composer/cerbos/cerbos-sdk-laravel@v1.11.0
 - pkg:composer/cerbos/cerbos-sdk-laravel@v1.11.1
+- pkg:composer/cerbos/cerbos-sdk-laravel@v1.12.0

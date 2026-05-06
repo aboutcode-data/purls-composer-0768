@@ -61,4 +61,7 @@
 - pkg:composer/clicksend/clicksend-php@v5.0.81
 - pkg:composer/clicksend/clicksend-php@v5.0.82
 - pkg:composer/clicksend/clicksend-php@v5.0.83
+- pkg:composer/clicksend/clicksend-php@v5.0.84
+- pkg:composer/clicksend/clicksend-php@v5.0.87
+- pkg:composer/clicksend/clicksend-php@v5.0.89
 - pkg:composer/clicksend/clicksend-php@v5.0.9
