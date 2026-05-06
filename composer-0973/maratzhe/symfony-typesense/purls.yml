@@ -3,3 +3,4 @@
 - pkg:composer/maratzhe/symfony-typesense@v1.0.2
 - pkg:composer/maratzhe/symfony-typesense@v1.0.3
 - pkg:composer/maratzhe/symfony-typesense@v1.0.4
+- pkg:composer/maratzhe/symfony-typesense@v2.0.0

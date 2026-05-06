@@ -78,3 +78,4 @@
 - pkg:composer/mautic/plugin-gmail@7.0.2
 - pkg:composer/mautic/plugin-gmail@7.1.0
 - pkg:composer/mautic/plugin-gmail@7.1.0-rc
+- pkg:composer/mautic/plugin-gmail@7.1.1

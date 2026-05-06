@@ -31,3 +31,4 @@
 - pkg:composer/mautic/theme-1-2-1-2-column@7.0.2
 - pkg:composer/mautic/theme-1-2-1-2-column@7.1.0
 - pkg:composer/mautic/theme-1-2-1-2-column@7.1.0-rc
+- pkg:composer/mautic/theme-1-2-1-2-column@7.1.1

@@ -77,3 +77,4 @@
 - pkg:composer/mautic/theme-goldstar@7.0.2
 - pkg:composer/mautic/theme-goldstar@7.1.0
 - pkg:composer/mautic/theme-goldstar@7.1.0-rc
+- pkg:composer/mautic/theme-goldstar@7.1.1

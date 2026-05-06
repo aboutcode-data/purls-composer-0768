@@ -1,6 +1,15 @@
 - pkg:composer/matheusmarnt/scoutify@v1.0.0
 - pkg:composer/matheusmarnt/scoutify@v1.0.1
 - pkg:composer/matheusmarnt/scoutify@v1.1.0
+- pkg:composer/matheusmarnt/scoutify@v1.10.0
+- pkg:composer/matheusmarnt/scoutify@v1.11.0
+- pkg:composer/matheusmarnt/scoutify@v1.11.1
+- pkg:composer/matheusmarnt/scoutify@v1.11.2
+- pkg:composer/matheusmarnt/scoutify@v1.11.3
+- pkg:composer/matheusmarnt/scoutify@v1.11.4
+- pkg:composer/matheusmarnt/scoutify@v1.12.0
+- pkg:composer/matheusmarnt/scoutify@v1.12.1
+- pkg:composer/matheusmarnt/scoutify@v1.13.0
 - pkg:composer/matheusmarnt/scoutify@v1.2.0
 - pkg:composer/matheusmarnt/scoutify@v1.2.1
 - pkg:composer/matheusmarnt/scoutify@v1.2.2
@@ -20,3 +29,6 @@
 - pkg:composer/matheusmarnt/scoutify@v1.7.0
 - pkg:composer/matheusmarnt/scoutify@v1.8.0
 - pkg:composer/matheusmarnt/scoutify@v1.8.1
+- pkg:composer/matheusmarnt/scoutify@v1.9.0
+- pkg:composer/matheusmarnt/scoutify@v1.9.1
+- pkg:composer/matheusmarnt/scoutify@v1.9.2

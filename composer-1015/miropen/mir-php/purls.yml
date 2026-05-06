@@ -6,3 +6,9 @@
 - pkg:composer/miropen/mir-php@v0.14.0
 - pkg:composer/miropen/mir-php@v0.15.0
 - pkg:composer/miropen/mir-php@v0.16.0
+- pkg:composer/miropen/mir-php@v0.16.2
+- pkg:composer/miropen/mir-php@v0.17.0
+- pkg:composer/miropen/mir-php@v0.17.1
+- pkg:composer/miropen/mir-php@v0.17.2
+- pkg:composer/miropen/mir-php@v0.17.3
+- pkg:composer/miropen/mir-php@v0.18.0
