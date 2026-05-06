@@ -159,6 +159,7 @@
 - pkg:composer/drupal/core-php-storage@11.3.6
 - pkg:composer/drupal/core-php-storage@11.3.7
 - pkg:composer/drupal/core-php-storage@11.3.8
+- pkg:composer/drupal/core-php-storage@11.3.9
 - pkg:composer/drupal/core-php-storage@8.1.0
 - pkg:composer/drupal/core-php-storage@8.1.1
 - pkg:composer/drupal/core-php-storage@8.1.10

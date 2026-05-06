@@ -159,6 +159,7 @@
 - pkg:composer/drupal/legacy-project@11.3.6
 - pkg:composer/drupal/legacy-project@11.3.7
 - pkg:composer/drupal/legacy-project@11.3.8
+- pkg:composer/drupal/legacy-project@11.3.9
 - pkg:composer/drupal/legacy-project@8.8.0
 - pkg:composer/drupal/legacy-project@8.8.0-alpha1
 - pkg:composer/drupal/legacy-project@8.8.0-beta1

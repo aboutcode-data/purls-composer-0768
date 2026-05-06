@@ -159,6 +159,7 @@
 - pkg:composer/drupal/core-diff@11.3.6
 - pkg:composer/drupal/core-diff@11.3.7
 - pkg:composer/drupal/core-diff@11.3.8
+- pkg:composer/drupal/core-diff@11.3.9
 - pkg:composer/drupal/core-diff@8.1.0
 - pkg:composer/drupal/core-diff@8.1.1
 - pkg:composer/drupal/core-diff@8.1.10
