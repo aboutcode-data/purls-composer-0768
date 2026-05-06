@@ -122,6 +122,10 @@
 - pkg:composer/giantbits/yii2-crelish@0.20.9
 - pkg:composer/giantbits/yii2-crelish@0.21.0
 - pkg:composer/giantbits/yii2-crelish@0.21.1
+- pkg:composer/giantbits/yii2-crelish@0.21.2
+- pkg:composer/giantbits/yii2-crelish@0.21.3
+- pkg:composer/giantbits/yii2-crelish@0.21.4
+- pkg:composer/giantbits/yii2-crelish@0.21.5
 - pkg:composer/giantbits/yii2-crelish@0.4.10
 - pkg:composer/giantbits/yii2-crelish@0.4.11
 - pkg:composer/giantbits/yii2-crelish@0.4.12

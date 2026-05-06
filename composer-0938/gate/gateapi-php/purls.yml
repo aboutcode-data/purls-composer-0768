@@ -32,4 +32,5 @@
 - pkg:composer/gate/gateapi-php@7.2.7
 - pkg:composer/gate/gateapi-php@7.2.70
 - pkg:composer/gate/gateapi-php@7.2.71
+- pkg:composer/gate/gateapi-php@7.2.78
 - pkg:composer/gate/gateapi-php@7.2.8
