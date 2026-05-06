@@ -322,3 +322,4 @@
 - pkg:composer/illuminate/process@v13.5.0
 - pkg:composer/illuminate/process@v13.6.0
 - pkg:composer/illuminate/process@v13.7.0
+- pkg:composer/illuminate/process@v13.8.0

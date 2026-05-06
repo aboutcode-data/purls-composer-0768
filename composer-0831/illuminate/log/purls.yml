@@ -327,6 +327,7 @@
 - pkg:composer/illuminate/log@v13.5.0
 - pkg:composer/illuminate/log@v13.6.0
 - pkg:composer/illuminate/log@v13.7.0
+- pkg:composer/illuminate/log@v13.8.0
 - pkg:composer/illuminate/log@v4.0.0
 - pkg:composer/illuminate/log@v4.0.0-BETA2
 - pkg:composer/illuminate/log@v4.0.0-BETA3

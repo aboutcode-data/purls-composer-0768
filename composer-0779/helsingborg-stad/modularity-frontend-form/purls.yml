@@ -152,3 +152,4 @@
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.80.0
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.81.0
 - pkg:composer/helsingborg-stad/modularity-frontend-form@0.81.2
+- pkg:composer/helsingborg-stad/modularity-frontend-form@0.81.4
