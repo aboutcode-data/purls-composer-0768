@@ -63,3 +63,4 @@
 - pkg:composer/mpociot/vat-calculator@3.7.0
 - pkg:composer/mpociot/vat-calculator@3.8.0
 - pkg:composer/mpociot/vat-calculator@3.9.0
+- pkg:composer/mpociot/vat-calculator@v3.26.0

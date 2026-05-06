@@ -69,3 +69,4 @@
 - pkg:composer/multisafepay/magento2@3.9.0
 - pkg:composer/multisafepay/magento2@3.9.1
 - pkg:composer/multisafepay/magento2@4.0.0
+- pkg:composer/multisafepay/magento2@4.1.0
