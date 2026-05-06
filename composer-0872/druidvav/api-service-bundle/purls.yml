@@ -18,3 +18,5 @@
 - pkg:composer/druidvav/api-service-bundle@v3.4.0
 - pkg:composer/druidvav/api-service-bundle@v3.4.1
 - pkg:composer/druidvav/api-service-bundle@v4.0
+- pkg:composer/druidvav/api-service-bundle@v4.1
+- pkg:composer/druidvav/api-service-bundle@v4.2
