@@ -4,3 +4,4 @@
 - pkg:composer/cakedc/cakephp-clamav@2.0.0
 - pkg:composer/cakedc/cakephp-clamav@3.0.0
 - pkg:composer/cakedc/cakephp-clamav@3.0.0-RC1
+- pkg:composer/cakedc/cakephp-clamav@3.1.0
