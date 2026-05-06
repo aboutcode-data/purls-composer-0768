@@ -26,6 +26,7 @@
 - pkg:composer/axn/laravel-extension@11.5.1
 - pkg:composer/axn/laravel-extension@11.5.2
 - pkg:composer/axn/laravel-extension@11.6.0
+- pkg:composer/axn/laravel-extension@11.7.0
 - pkg:composer/axn/laravel-extension@2.0.0
 - pkg:composer/axn/laravel-extension@2.1.0
 - pkg:composer/axn/laravel-extension@2.1.1
