@@ -21,3 +21,4 @@
 - pkg:composer/discoverygarden/islandora_citations@v2.6.1
 - pkg:composer/discoverygarden/islandora_citations@v2.7.0
 - pkg:composer/discoverygarden/islandora_citations@v2.8.0
+- pkg:composer/discoverygarden/islandora_citations@v3.0.0
