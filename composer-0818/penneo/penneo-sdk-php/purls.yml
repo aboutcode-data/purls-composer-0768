@@ -44,3 +44,4 @@
 - pkg:composer/penneo/penneo-sdk-php@v3.1.0
 - pkg:composer/penneo/penneo-sdk-php@v3.1.1
 - pkg:composer/penneo/penneo-sdk-php@v3.2.0
+- pkg:composer/penneo/penneo-sdk-php@v4.0.0
