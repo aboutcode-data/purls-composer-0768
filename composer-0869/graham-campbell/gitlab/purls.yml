@@ -46,3 +46,4 @@
 - pkg:composer/graham-campbell/gitlab@v7.5.0
 - pkg:composer/graham-campbell/gitlab@v7.6.0
 - pkg:composer/graham-campbell/gitlab@v8.0.0
+- pkg:composer/graham-campbell/gitlab@v8.1.0
