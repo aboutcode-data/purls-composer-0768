@@ -16,3 +16,4 @@
 - pkg:composer/onramplab/laravel-log-enhancement@v8.0.0
 - pkg:composer/onramplab/laravel-log-enhancement@v8.1.0
 - pkg:composer/onramplab/laravel-log-enhancement@v8.1.1
+- pkg:composer/onramplab/laravel-log-enhancement@v8.2.0
