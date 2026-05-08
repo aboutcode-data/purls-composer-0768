@@ -155,6 +155,9 @@
 - pkg:composer/motor-cms/motor-media@2026.19.4-RC1
 - pkg:composer/motor-cms/motor-media@2026.19.5-RC1
 - pkg:composer/motor-cms/motor-media@2026.19.6-RC1
+- pkg:composer/motor-cms/motor-media@2026.19.7-RC1
+- pkg:composer/motor-cms/motor-media@2026.19.8-RC1
+- pkg:composer/motor-cms/motor-media@2026.19.9-RC1
 - pkg:composer/motor-cms/motor-media@2026.2.0
 - pkg:composer/motor-cms/motor-media@2026.4.0-RC
 - pkg:composer/motor-cms/motor-media@2026.4.1-RC
