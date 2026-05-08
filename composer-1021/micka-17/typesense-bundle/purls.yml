@@ -1,1 +1,7 @@
 - pkg:composer/micka-17/typesense-bundle@v1.0.0-alpha.1
+- pkg:composer/micka-17/typesense-bundle@v2.0.0
+- pkg:composer/micka-17/typesense-bundle@v2.0.1
+- pkg:composer/micka-17/typesense-bundle@v2.0.2
+- pkg:composer/micka-17/typesense-bundle@v2.0.3
+- pkg:composer/micka-17/typesense-bundle@v2.0.4
+- pkg:composer/micka-17/typesense-bundle@v2.0.5
