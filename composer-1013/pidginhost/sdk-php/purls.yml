@@ -1,3 +1,4 @@
 - pkg:composer/pidginhost/sdk-php@0.2.0
 - pkg:composer/pidginhost/sdk-php@0.3.0
 - pkg:composer/pidginhost/sdk-php@0.5.0
+- pkg:composer/pidginhost/sdk-php@0.6.0
