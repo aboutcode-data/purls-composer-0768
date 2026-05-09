@@ -1,2 +1,4 @@
 - pkg:composer/redberry/mcp-client-laravel@v1.0.0
 - pkg:composer/redberry/mcp-client-laravel@v1.1.0
+- pkg:composer/redberry/mcp-client-laravel@v1.1.1
+- pkg:composer/redberry/mcp-client-laravel@v2.0.0-rc.1

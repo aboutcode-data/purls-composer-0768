@@ -12,3 +12,4 @@
 - pkg:composer/publishpress/version-loader-generator@1.2.1
 - pkg:composer/publishpress/version-loader-generator@1.2.2
 - pkg:composer/publishpress/version-loader-generator@1.2.3
+- pkg:composer/publishpress/version-loader-generator@1.2.4
