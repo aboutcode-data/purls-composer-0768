@@ -44,3 +44,5 @@
 - pkg:composer/seip25/lila-php@v1.40
 - pkg:composer/seip25/lila-php@v1.42
 - pkg:composer/seip25/lila-php@v1.43
+- pkg:composer/seip25/lila-php@v1.44
+- pkg:composer/seip25/lila-php@v1.45

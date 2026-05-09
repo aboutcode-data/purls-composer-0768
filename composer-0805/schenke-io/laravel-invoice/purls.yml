@@ -34,3 +34,4 @@
 - pkg:composer/schenke-io/laravel-invoice@v0.3.5
 - pkg:composer/schenke-io/laravel-invoice@v0.3.6
 - pkg:composer/schenke-io/laravel-invoice@v0.3.7
+- pkg:composer/schenke-io/laravel-invoice@v0.4.0

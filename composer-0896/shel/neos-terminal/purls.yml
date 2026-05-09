@@ -26,3 +26,4 @@
 - pkg:composer/shel/neos-terminal@1.2.3
 - pkg:composer/shel/neos-terminal@2.0.0
 - pkg:composer/shel/neos-terminal@2.0.1
+- pkg:composer/shel/neos-terminal@2.0.2
