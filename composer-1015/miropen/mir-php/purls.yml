@@ -13,3 +13,4 @@
 - pkg:composer/miropen/mir-php@v0.17.3
 - pkg:composer/miropen/mir-php@v0.18.0
 - pkg:composer/miropen/mir-php@v0.19.0
+- pkg:composer/miropen/mir-php@v0.20.0
