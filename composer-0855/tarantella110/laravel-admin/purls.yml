@@ -68,6 +68,7 @@
 - pkg:composer/tarantella110/laravel-admin@2.2.1-beta
 - pkg:composer/tarantella110/laravel-admin@2.2.10-beta
 - pkg:composer/tarantella110/laravel-admin@2.2.11-beta
+- pkg:composer/tarantella110/laravel-admin@2.2.12-beta
 - pkg:composer/tarantella110/laravel-admin@2.2.2-beta
 - pkg:composer/tarantella110/laravel-admin@2.2.3-beta
 - pkg:composer/tarantella110/laravel-admin@2.2.5-beta

@@ -112,3 +112,4 @@
 - pkg:composer/symfony/runtime@v8.0.0-RC1
 - pkg:composer/symfony/runtime@v8.0.1
 - pkg:composer/symfony/runtime@v8.0.8
+- pkg:composer/symfony/runtime@v8.1.0-BETA1

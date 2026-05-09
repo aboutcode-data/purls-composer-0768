@@ -40,3 +40,4 @@
 - pkg:composer/symfony/cache-contracts@v3.5.1
 - pkg:composer/symfony/cache-contracts@v3.6.0
 - pkg:composer/symfony/cache-contracts@v3.6.0-BETA1
+- pkg:composer/symfony/cache-contracts@v3.7.0

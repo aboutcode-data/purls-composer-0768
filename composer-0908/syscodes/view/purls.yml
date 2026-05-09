@@ -20,3 +20,4 @@
 - pkg:composer/syscodes/view@v0.8.7
 - pkg:composer/syscodes/view@v0.8.8
 - pkg:composer/syscodes/view@v0.8.9
+- pkg:composer/syscodes/view@v0.9.0

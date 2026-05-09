@@ -81,3 +81,4 @@
 - pkg:composer/symfony/crowdin-translation-provider@v8.0.0-RC1
 - pkg:composer/symfony/crowdin-translation-provider@v8.0.3
 - pkg:composer/symfony/crowdin-translation-provider@v8.0.6
+- pkg:composer/symfony/crowdin-translation-provider@v8.1.0-BETA1
