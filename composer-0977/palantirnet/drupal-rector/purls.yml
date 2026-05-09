@@ -30,6 +30,7 @@
 - pkg:composer/palantirnet/drupal-rector@0.20.3
 - pkg:composer/palantirnet/drupal-rector@0.21.0
 - pkg:composer/palantirnet/drupal-rector@0.21.1
+- pkg:composer/palantirnet/drupal-rector@0.21.2
 - pkg:composer/palantirnet/drupal-rector@0.3.0
 - pkg:composer/palantirnet/drupal-rector@0.3.1
 - pkg:composer/palantirnet/drupal-rector@0.3.2
