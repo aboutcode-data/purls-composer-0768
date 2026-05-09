@@ -26,3 +26,4 @@
 - pkg:composer/simpaypl/simpay@v3.0.5
 - pkg:composer/simpaypl/simpay@v3.0.6
 - pkg:composer/simpaypl/simpay@v3.0.7
+- pkg:composer/simpaypl/simpay@v4.0.0

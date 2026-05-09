@@ -19,3 +19,4 @@
 - pkg:composer/smorken/lazy-import@v1.4.3
 - pkg:composer/smorken/lazy-import@v1.5.0
 - pkg:composer/smorken/lazy-import@v1.5.1
+- pkg:composer/smorken/lazy-import@v1.6.0

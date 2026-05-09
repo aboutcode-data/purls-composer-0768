@@ -5,6 +5,7 @@
 - pkg:composer/smorken/sanitizer@v10.0.2
 - pkg:composer/smorken/sanitizer@v10.0.3
 - pkg:composer/smorken/sanitizer@v10.1.0
+- pkg:composer/smorken/sanitizer@v10.2.0
 - pkg:composer/smorken/sanitizer@v5.0.0
 - pkg:composer/smorken/sanitizer@v5.0.1
 - pkg:composer/smorken/sanitizer@v5.0.10

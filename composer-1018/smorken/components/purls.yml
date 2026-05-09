@@ -49,6 +49,7 @@
 - pkg:composer/smorken/components@v1.17.3
 - pkg:composer/smorken/components@v1.17.4
 - pkg:composer/smorken/components@v1.17.5
+- pkg:composer/smorken/components@v1.18.0
 - pkg:composer/smorken/components@v1.2.0
 - pkg:composer/smorken/components@v1.2.1
 - pkg:composer/smorken/components@v1.2.2

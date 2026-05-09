@@ -47,3 +47,4 @@
 - pkg:composer/softspring/translatable-bundle@v5.5.4
 - pkg:composer/softspring/translatable-bundle@v5.5.5
 - pkg:composer/softspring/translatable-bundle@v5.5.6
+- pkg:composer/softspring/translatable-bundle@v5.5.7
