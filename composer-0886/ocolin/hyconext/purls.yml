@@ -10,3 +10,5 @@
 - pkg:composer/ocolin/hyconext@1.8
 - pkg:composer/ocolin/hyconext@1.9
 - pkg:composer/ocolin/hyconext@v2.0.0
+- pkg:composer/ocolin/hyconext@v3.0.0
+- pkg:composer/ocolin/hyconext@v3.0.1

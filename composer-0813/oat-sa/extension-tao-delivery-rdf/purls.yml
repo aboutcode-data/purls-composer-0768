@@ -108,6 +108,7 @@
 - pkg:composer/oat-sa/extension-tao-delivery-rdf@v14.25.8
 - pkg:composer/oat-sa/extension-tao-delivery-rdf@v14.26.0
 - pkg:composer/oat-sa/extension-tao-delivery-rdf@v14.26.1
+- pkg:composer/oat-sa/extension-tao-delivery-rdf@v14.26.2
 - pkg:composer/oat-sa/extension-tao-delivery-rdf@v14.3.0
 - pkg:composer/oat-sa/extension-tao-delivery-rdf@v14.3.0.1
 - pkg:composer/oat-sa/extension-tao-delivery-rdf@v14.3.1
