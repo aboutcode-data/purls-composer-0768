@@ -887,6 +887,8 @@
 - pkg:composer/survos/tree-bundle@2.0.81
 - pkg:composer/survos/tree-bundle@2.0.82
 - pkg:composer/survos/tree-bundle@2.0.83
+- pkg:composer/survos/tree-bundle@2.1.1
+- pkg:composer/survos/tree-bundle@2.1.2
 - pkg:composer/survos/tree-bundle@v1.2.2
 - pkg:composer/survos/tree-bundle@v1.2.3
 - pkg:composer/survos/tree-bundle@v1.2.4
