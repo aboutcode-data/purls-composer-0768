@@ -27,6 +27,7 @@
 - pkg:composer/dtyq/cloudfile@v0.1.32
 - pkg:composer/dtyq/cloudfile@v0.1.33
 - pkg:composer/dtyq/cloudfile@v0.1.34
+- pkg:composer/dtyq/cloudfile@v0.1.35
 - pkg:composer/dtyq/cloudfile@v0.1.4
 - pkg:composer/dtyq/cloudfile@v0.1.5
 - pkg:composer/dtyq/cloudfile@v0.1.6

@@ -64,6 +64,11 @@
 - pkg:composer/durable-workflow/waterline@2.0.0-alpha.4
 - pkg:composer/durable-workflow/waterline@2.0.0-alpha.40
 - pkg:composer/durable-workflow/waterline@2.0.0-alpha.41
+- pkg:composer/durable-workflow/waterline@2.0.0-alpha.42
+- pkg:composer/durable-workflow/waterline@2.0.0-alpha.43
+- pkg:composer/durable-workflow/waterline@2.0.0-alpha.44
+- pkg:composer/durable-workflow/waterline@2.0.0-alpha.45
+- pkg:composer/durable-workflow/waterline@2.0.0-alpha.46
 - pkg:composer/durable-workflow/waterline@2.0.0-alpha.5
 - pkg:composer/durable-workflow/waterline@2.0.0-alpha.6
 - pkg:composer/durable-workflow/waterline@2.0.0-alpha.7
