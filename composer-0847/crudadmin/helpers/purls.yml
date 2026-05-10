@@ -20,7 +20,12 @@
 - pkg:composer/crudadmin/helpers@1.2.13
 - pkg:composer/crudadmin/helpers@1.2.14
 - pkg:composer/crudadmin/helpers@1.2.15
+- pkg:composer/crudadmin/helpers@1.2.16
+- pkg:composer/crudadmin/helpers@1.2.17
+- pkg:composer/crudadmin/helpers@1.2.18
+- pkg:composer/crudadmin/helpers@1.2.19
 - pkg:composer/crudadmin/helpers@1.2.2
+- pkg:composer/crudadmin/helpers@1.2.20
 - pkg:composer/crudadmin/helpers@1.2.3
 - pkg:composer/crudadmin/helpers@1.2.4
 - pkg:composer/crudadmin/helpers@1.2.5

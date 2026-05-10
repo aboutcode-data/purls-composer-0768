@@ -1,3 +1,4 @@
 - pkg:composer/christoph-kluge/reactphp-http-cors-middleware@1.0.0
 - pkg:composer/christoph-kluge/reactphp-http-cors-middleware@1.0.1
 - pkg:composer/christoph-kluge/reactphp-http-cors-middleware@2.0.0
+- pkg:composer/christoph-kluge/reactphp-http-cors-middleware@2.0.1
