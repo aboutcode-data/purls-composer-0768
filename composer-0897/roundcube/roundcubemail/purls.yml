@@ -6,3 +6,4 @@
 - pkg:composer/roundcube/roundcubemail@1.7-rc4
 - pkg:composer/roundcube/roundcubemail@1.7-rc5
 - pkg:composer/roundcube/roundcubemail@1.7-rc6
+- pkg:composer/roundcube/roundcubemail@1.7.0
