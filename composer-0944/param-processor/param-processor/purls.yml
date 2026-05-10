@@ -5,6 +5,7 @@
 - pkg:composer/param-processor/param-processor@1.10.0
 - pkg:composer/param-processor/param-processor@1.11.0
 - pkg:composer/param-processor/param-processor@1.12.0
+- pkg:composer/param-processor/param-processor@1.13.0
 - pkg:composer/param-processor/param-processor@1.2.0
 - pkg:composer/param-processor/param-processor@1.2.1
 - pkg:composer/param-processor/param-processor@1.2.2
