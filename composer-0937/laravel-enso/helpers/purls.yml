@@ -193,6 +193,7 @@
 - pkg:composer/laravel-enso/helpers@3.3.0
 - pkg:composer/laravel-enso/helpers@4.0.0
 - pkg:composer/laravel-enso/helpers@4.0.1
+- pkg:composer/laravel-enso/helpers@4.0.10
 - pkg:composer/laravel-enso/helpers@4.0.2
 - pkg:composer/laravel-enso/helpers@4.0.3
 - pkg:composer/laravel-enso/helpers@4.0.4
