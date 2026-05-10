@@ -12,3 +12,4 @@
 - pkg:composer/visol/cloudinary@4.0.1
 - pkg:composer/visol/cloudinary@4.1.0
 - pkg:composer/visol/cloudinary@4.1.1
+- pkg:composer/visol/cloudinary@5.0.0

@@ -70,6 +70,10 @@
 - pkg:composer/wazum/sluggi@14.5.0
 - pkg:composer/wazum/sluggi@14.5.1
 - pkg:composer/wazum/sluggi@14.6.0
+- pkg:composer/wazum/sluggi@14.6.1
+- pkg:composer/wazum/sluggi@14.7.0
+- pkg:composer/wazum/sluggi@14.8.0
+- pkg:composer/wazum/sluggi@14.8.1
 - pkg:composer/wazum/sluggi@2.0.0
 - pkg:composer/wazum/sluggi@2.0.1
 - pkg:composer/wazum/sluggi@2.0.2

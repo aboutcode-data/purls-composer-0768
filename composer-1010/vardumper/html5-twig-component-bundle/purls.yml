@@ -1,3 +1,5 @@
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.100
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.101
 - pkg:composer/vardumper/html5-twig-component-bundle@0.2.27
 - pkg:composer/vardumper/html5-twig-component-bundle@0.2.28
 - pkg:composer/vardumper/html5-twig-component-bundle@0.2.29
@@ -54,3 +56,13 @@
 - pkg:composer/vardumper/html5-twig-component-bundle@0.2.81
 - pkg:composer/vardumper/html5-twig-component-bundle@0.2.82
 - pkg:composer/vardumper/html5-twig-component-bundle@0.2.83
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.89
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.90
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.91
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.92
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.93
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.95
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.96
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.97
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.98
+- pkg:composer/vardumper/html5-twig-component-bundle@0.2.99
