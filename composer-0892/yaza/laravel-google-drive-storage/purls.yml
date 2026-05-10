@@ -8,3 +8,4 @@
 - pkg:composer/yaza/laravel-google-drive-storage@V4.0.0
 - pkg:composer/yaza/laravel-google-drive-storage@V4.0.1
 - pkg:composer/yaza/laravel-google-drive-storage@V4.1.0
+- pkg:composer/yaza/laravel-google-drive-storage@V5.0.0
