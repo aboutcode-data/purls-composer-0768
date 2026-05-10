@@ -19,3 +19,4 @@
 - pkg:composer/kelunik/acme@v1.0.1
 - pkg:composer/kelunik/acme@v2.0.0
 - pkg:composer/kelunik/acme@v2.0.0-beta.1
+- pkg:composer/kelunik/acme@v2.1.0
