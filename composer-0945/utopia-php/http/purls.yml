@@ -126,6 +126,7 @@
 - pkg:composer/utopia-php/http@0.34.21
 - pkg:composer/utopia-php/http@0.34.22
 - pkg:composer/utopia-php/http@0.34.24
+- pkg:composer/utopia-php/http@0.34.25
 - pkg:composer/utopia-php/http@0.34.3
 - pkg:composer/utopia-php/http@0.34.4
 - pkg:composer/utopia-php/http@0.34.5
@@ -173,5 +174,6 @@
 - pkg:composer/utopia-php/http@1.2.3
 - pkg:composer/utopia-php/http@1.2.4
 - pkg:composer/utopia-php/http@1.2.5
+- pkg:composer/utopia-php/http@2.0.0-rc1
 - pkg:composer/utopia-php/http@v0.1.0
 - pkg:composer/utopia-php/http@v0.1.1

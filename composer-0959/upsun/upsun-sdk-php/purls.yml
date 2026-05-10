@@ -2,3 +2,5 @@
 - pkg:composer/upsun/upsun-sdk-php@v0.0.2
 - pkg:composer/upsun/upsun-sdk-php@v0.0.3
 - pkg:composer/upsun/upsun-sdk-php@v0.1.0
+- pkg:composer/upsun/upsun-sdk-php@v0.2.0
+- pkg:composer/upsun/upsun-sdk-php@v0.6.0
