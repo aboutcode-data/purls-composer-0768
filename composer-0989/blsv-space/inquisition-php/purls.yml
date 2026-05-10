@@ -12,4 +12,6 @@
 - pkg:composer/blsv-space/inquisition-php@0.4.4
 - pkg:composer/blsv-space/inquisition-php@0.4.5
 - pkg:composer/blsv-space/inquisition-php@0.4.6
+- pkg:composer/blsv-space/inquisition-php@0.4.7
+- pkg:composer/blsv-space/inquisition-php@0.4.9
 - pkg:composer/blsv-space/inquisition-php@v0.0.1

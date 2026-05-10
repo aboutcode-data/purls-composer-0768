@@ -36,3 +36,4 @@
 - pkg:composer/boxalino/rtux-integration-magento2@3.3.0
 - pkg:composer/boxalino/rtux-integration-magento2@3.4.0
 - pkg:composer/boxalino/rtux-integration-magento2@4.0.0
+- pkg:composer/boxalino/rtux-integration-magento2@5.0.0

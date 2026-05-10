@@ -16,6 +16,7 @@
 - pkg:composer/betalabs/laravel-seeder@5.7.1
 - pkg:composer/betalabs/laravel-seeder@5.8.0
 - pkg:composer/betalabs/laravel-seeder@V6.4.1
+- pkg:composer/betalabs/laravel-seeder@v11.0.0
 - pkg:composer/betalabs/laravel-seeder@v5.10.0
 - pkg:composer/betalabs/laravel-seeder@v5.10.1
 - pkg:composer/betalabs/laravel-seeder@v5.9.0
