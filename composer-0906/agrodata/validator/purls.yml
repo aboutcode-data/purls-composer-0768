@@ -1,4 +1,7 @@
 - pkg:composer/agrodata/validator@1.7
+- pkg:composer/agrodata/validator@2.1
+- pkg:composer/agrodata/validator@2.2
+- pkg:composer/agrodata/validator@2.3
 - pkg:composer/agrodata/validator@v1.0
 - pkg:composer/agrodata/validator@v1.1
 - pkg:composer/agrodata/validator@v1.2
