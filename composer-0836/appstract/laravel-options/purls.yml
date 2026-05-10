@@ -26,3 +26,4 @@
 - pkg:composer/appstract/laravel-options@5.7.0
 - pkg:composer/appstract/laravel-options@6.0.0
 - pkg:composer/appstract/laravel-options@7.0.0
+- pkg:composer/appstract/laravel-options@8.0.0

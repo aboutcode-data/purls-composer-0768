@@ -25,6 +25,9 @@
 - pkg:composer/basic-hub/es-core@3.0.10
 - pkg:composer/basic-hub/es-core@3.0.100
 - pkg:composer/basic-hub/es-core@3.0.101
+- pkg:composer/basic-hub/es-core@3.0.102
+- pkg:composer/basic-hub/es-core@3.0.103
+- pkg:composer/basic-hub/es-core@3.0.105
 - pkg:composer/basic-hub/es-core@3.0.11
 - pkg:composer/basic-hub/es-core@3.0.12
 - pkg:composer/basic-hub/es-core@3.0.13
