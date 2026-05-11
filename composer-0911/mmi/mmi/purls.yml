@@ -383,3 +383,4 @@
 - pkg:composer/mmi/mmi@4.2.7
 - pkg:composer/mmi/mmi@4.2.8
 - pkg:composer/mmi/mmi@4.2.9
+- pkg:composer/mmi/mmi@5.0.0
