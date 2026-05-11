@@ -89,6 +89,7 @@
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.143
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.144
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.145
+- pkg:composer/rsvp-system/rsvp-system-module@v1.0.146
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.30
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.31
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.32
