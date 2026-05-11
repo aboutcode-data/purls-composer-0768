@@ -57,3 +57,5 @@
 - pkg:composer/radiantabyss/laravel-auth@v3.3.1
 - pkg:composer/radiantabyss/laravel-auth@v3.3.2
 - pkg:composer/radiantabyss/laravel-auth@v3.3.3
+- pkg:composer/radiantabyss/laravel-auth@v3.3.4
+- pkg:composer/radiantabyss/laravel-auth@v3.3.5
