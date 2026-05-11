@@ -19,3 +19,4 @@
 - pkg:composer/tenancy/framework@v2.4.0
 - pkg:composer/tenancy/framework@v2.4.1
 - pkg:composer/tenancy/framework@v2.4.2
+- pkg:composer/tenancy/framework@v2.5.0
