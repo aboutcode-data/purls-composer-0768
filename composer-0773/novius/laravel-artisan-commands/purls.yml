@@ -14,3 +14,4 @@
 - pkg:composer/novius/laravel-artisan-commands@4.1.0
 - pkg:composer/novius/laravel-artisan-commands@5.0.0
 - pkg:composer/novius/laravel-artisan-commands@5.1.0
+- pkg:composer/novius/laravel-artisan-commands@5.1.1

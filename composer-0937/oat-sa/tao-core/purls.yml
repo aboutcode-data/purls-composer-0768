@@ -1032,6 +1032,7 @@
 - pkg:composer/oat-sa/tao-core@v55.2.5
 - pkg:composer/oat-sa/tao-core@v55.2.6
 - pkg:composer/oat-sa/tao-core@v55.2.7
+- pkg:composer/oat-sa/tao-core@v55.2.8
 - pkg:composer/oat-sa/tao-core@v56.0.0
 - pkg:composer/oat-sa/tao-core@v56.1.0
 - pkg:composer/oat-sa/tao-core@v56.1.1
@@ -1042,6 +1043,7 @@
 - pkg:composer/oat-sa/tao-core@v56.1.14
 - pkg:composer/oat-sa/tao-core@v56.1.15
 - pkg:composer/oat-sa/tao-core@v56.1.15.1
+- pkg:composer/oat-sa/tao-core@v56.1.15.2
 - pkg:composer/oat-sa/tao-core@v56.1.16
 - pkg:composer/oat-sa/tao-core@v56.1.17
 - pkg:composer/oat-sa/tao-core@v56.1.18

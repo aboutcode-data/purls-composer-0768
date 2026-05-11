@@ -7,3 +7,4 @@
 - pkg:composer/novius/laravel-translatable@1.1.0
 - pkg:composer/novius/laravel-translatable@2.0.0
 - pkg:composer/novius/laravel-translatable@2.0.1
+- pkg:composer/novius/laravel-translatable@2.0.2
