@@ -6,3 +6,5 @@
 - pkg:composer/hypejunction/forms_api@2.0.0
 - pkg:composer/hypejunction/forms_api@4.0.0
 - pkg:composer/hypejunction/forms_api@5.0.0
+- pkg:composer/hypejunction/forms_api@6.0.0
+- pkg:composer/hypejunction/forms_api@7.0.0
