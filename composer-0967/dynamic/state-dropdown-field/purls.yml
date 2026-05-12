@@ -1,3 +1,4 @@
 - pkg:composer/dynamic/state-dropdown-field@1.0.0
 - pkg:composer/dynamic/state-dropdown-field@2.0.0
 - pkg:composer/dynamic/state-dropdown-field@2.1.0
+- pkg:composer/dynamic/state-dropdown-field@3.0.0

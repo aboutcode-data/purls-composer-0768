@@ -11,3 +11,5 @@
 - pkg:composer/dotsplatform/notifications-api-sdk@v2.5.1
 - pkg:composer/dotsplatform/notifications-api-sdk@v2.5.3
 - pkg:composer/dotsplatform/notifications-api-sdk@v2.5.4
+- pkg:composer/dotsplatform/notifications-api-sdk@v2.6.0
+- pkg:composer/dotsplatform/notifications-api-sdk@v2.6.1
