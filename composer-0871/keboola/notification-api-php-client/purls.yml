@@ -18,3 +18,4 @@
 - pkg:composer/keboola/notification-api-php-client@4.0.0
 - pkg:composer/keboola/notification-api-php-client@4.1.0
 - pkg:composer/keboola/notification-api-php-client@4.2.0
+- pkg:composer/keboola/notification-api-php-client@5.0.0

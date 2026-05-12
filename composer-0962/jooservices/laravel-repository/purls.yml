@@ -1,2 +1,4 @@
 - pkg:composer/jooservices/laravel-repository@1.0.0
 - pkg:composer/jooservices/laravel-repository@1.1.0
+- pkg:composer/jooservices/laravel-repository@v1.2.0
+- pkg:composer/jooservices/laravel-repository@v1.2.1
