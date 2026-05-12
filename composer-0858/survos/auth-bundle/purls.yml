@@ -930,3 +930,6 @@
 - pkg:composer/survos/auth-bundle@2.0.99
 - pkg:composer/survos/auth-bundle@2.1.1
 - pkg:composer/survos/auth-bundle@2.1.2
+- pkg:composer/survos/auth-bundle@2.2.0
+- pkg:composer/survos/auth-bundle@2.2.1
+- pkg:composer/survos/auth-bundle@2.2.2
