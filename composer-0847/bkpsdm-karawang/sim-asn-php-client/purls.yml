@@ -38,3 +38,4 @@
 - pkg:composer/bkpsdm-karawang/sim-asn-php-client@4.0.9
 - pkg:composer/bkpsdm-karawang/sim-asn-php-client@4.1.0
 - pkg:composer/bkpsdm-karawang/sim-asn-php-client@4.1.1
+- pkg:composer/bkpsdm-karawang/sim-asn-php-client@5.0.0
