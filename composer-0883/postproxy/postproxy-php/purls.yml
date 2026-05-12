@@ -7,3 +7,4 @@
 - pkg:composer/postproxy/postproxy-php@v1.5.0
 - pkg:composer/postproxy/postproxy-php@v1.6.0
 - pkg:composer/postproxy/postproxy-php@v1.7.0
+- pkg:composer/postproxy/postproxy-php@v1.8.0
