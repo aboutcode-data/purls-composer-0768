@@ -18,6 +18,7 @@
 - pkg:composer/smorken/errors@v11.1.8
 - pkg:composer/smorken/errors@v11.2.0
 - pkg:composer/smorken/errors@v11.3.0
+- pkg:composer/smorken/errors@v11.4.0
 - pkg:composer/smorken/errors@v5.0.0
 - pkg:composer/smorken/errors@v5.0.0p1
 - pkg:composer/smorken/errors@v5.0.1
