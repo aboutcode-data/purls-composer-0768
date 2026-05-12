@@ -2,3 +2,4 @@
 - pkg:composer/typo3/theme-camino@v14.1.1
 - pkg:composer/typo3/theme-camino@v14.2.0
 - pkg:composer/typo3/theme-camino@v14.3.0
+- pkg:composer/typo3/theme-camino@v14.3.1

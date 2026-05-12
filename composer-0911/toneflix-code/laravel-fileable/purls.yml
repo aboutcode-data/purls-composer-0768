@@ -49,3 +49,5 @@
 - pkg:composer/toneflix-code/laravel-fileable@2.1.5
 - pkg:composer/toneflix-code/laravel-fileable@2.1.6
 - pkg:composer/toneflix-code/laravel-fileable@2.1.7
+- pkg:composer/toneflix-code/laravel-fileable@3.0.0
+- pkg:composer/toneflix-code/laravel-fileable@3.0.1
