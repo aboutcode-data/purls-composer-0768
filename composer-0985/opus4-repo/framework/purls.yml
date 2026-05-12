@@ -1,3 +1,4 @@
+- pkg:composer/opus4-repo/framework@4.10
 - pkg:composer/opus4-repo/framework@4.5
 - pkg:composer/opus4-repo/framework@4.5.0-RC1
 - pkg:composer/opus4-repo/framework@4.6
