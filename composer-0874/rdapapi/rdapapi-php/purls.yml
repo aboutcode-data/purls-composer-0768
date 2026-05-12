@@ -2,3 +2,4 @@
 - pkg:composer/rdapapi/rdapapi-php@v0.2.0
 - pkg:composer/rdapapi/rdapapi-php@v0.3.0
 - pkg:composer/rdapapi/rdapapi-php@v0.5.0
+- pkg:composer/rdapapi/rdapapi-php@v0.5.1
