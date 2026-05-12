@@ -355,3 +355,4 @@
 - pkg:composer/automattic/jetpack-connection@v8.3.1
 - pkg:composer/automattic/jetpack-connection@v8.3.2
 - pkg:composer/automattic/jetpack-connection@v8.3.3
+- pkg:composer/automattic/jetpack-connection@v8.3.4
