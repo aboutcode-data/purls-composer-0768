@@ -75,6 +75,7 @@
 - pkg:composer/spryker/transfer@3.40.0
 - pkg:composer/spryker/transfer@3.41.0
 - pkg:composer/spryker/transfer@3.42.0
+- pkg:composer/spryker/transfer@3.43.0
 - pkg:composer/spryker/transfer@3.5.0
 - pkg:composer/spryker/transfer@3.5.1
 - pkg:composer/spryker/transfer@3.5.2
