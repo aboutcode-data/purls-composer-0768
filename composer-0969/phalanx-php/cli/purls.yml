@@ -1,1 +1,2 @@
 - pkg:composer/phalanx-php/cli@v0.2.0-alpha.1
+- pkg:composer/phalanx-php/cli@v0.6.2
