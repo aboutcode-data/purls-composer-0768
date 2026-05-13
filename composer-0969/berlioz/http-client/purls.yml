@@ -6,6 +6,7 @@
 - pkg:composer/berlioz/http-client@v1.2.0
 - pkg:composer/berlioz/http-client@v1.3.0
 - pkg:composer/berlioz/http-client@v1.3.1
+- pkg:composer/berlioz/http-client@v1.4.0
 - pkg:composer/berlioz/http-client@v2.0.0
 - pkg:composer/berlioz/http-client@v2.0.0-beta1
 - pkg:composer/berlioz/http-client@v2.0.0-beta2
