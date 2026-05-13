@@ -6,3 +6,5 @@
 - pkg:composer/utopia-php/span@1.1.4
 - pkg:composer/utopia-php/span@1.1.5
 - pkg:composer/utopia-php/span@2.0.0
+- pkg:composer/utopia-php/span@3.0.0
+- pkg:composer/utopia-php/span@3.0.1
