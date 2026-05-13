@@ -56,3 +56,5 @@
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-71
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-72
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-74
+- pkg:composer/vortos/vortos-docker@v1.0.0-alpha-75
+- pkg:composer/vortos/vortos-docker@v1.0.0-alpha-76
