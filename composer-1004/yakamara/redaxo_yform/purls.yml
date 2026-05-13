@@ -12,3 +12,4 @@
 - pkg:composer/yakamara/redaxo_yform@5.0.0
 - pkg:composer/yakamara/redaxo_yform@5.0.0-beta1
 - pkg:composer/yakamara/redaxo_yform@5.0.1
+- pkg:composer/yakamara/redaxo_yform@5.0.2

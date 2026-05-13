@@ -32,6 +32,7 @@
 - pkg:composer/yoast/test-helper@1.18-RC5
 - pkg:composer/yoast/test-helper@1.18-RC6
 - pkg:composer/yoast/test-helper@1.18-RC7
+- pkg:composer/yoast/test-helper@1.19
 - pkg:composer/yoast/test-helper@1.2.0
 - pkg:composer/yoast/test-helper@1.2.1
 - pkg:composer/yoast/test-helper@1.2.2
