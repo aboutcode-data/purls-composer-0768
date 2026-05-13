@@ -11,3 +11,4 @@
 - pkg:composer/berlioz/doc-parser@v2.0.0-beta2
 - pkg:composer/berlioz/doc-parser@v2.0.0-beta3
 - pkg:composer/berlioz/doc-parser@v2.1.0
+- pkg:composer/berlioz/doc-parser@v2.2.0
