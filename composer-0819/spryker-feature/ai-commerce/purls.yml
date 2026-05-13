@@ -9,4 +9,5 @@
 - pkg:composer/spryker-feature/ai-commerce@0.5.2
 - pkg:composer/spryker-feature/ai-commerce@0.6.0
 - pkg:composer/spryker-feature/ai-commerce@0.6.1
+- pkg:composer/spryker-feature/ai-commerce@0.7.0
 - pkg:composer/spryker-feature/ai-commerce@202604.0

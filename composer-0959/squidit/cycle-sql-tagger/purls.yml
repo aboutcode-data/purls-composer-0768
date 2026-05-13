@@ -3,3 +3,4 @@
 - pkg:composer/squidit/cycle-sql-tagger@v0.1.3
 - pkg:composer/squidit/cycle-sql-tagger@v0.1.4
 - pkg:composer/squidit/cycle-sql-tagger@v0.2.0
+- pkg:composer/squidit/cycle-sql-tagger@v0.2.1
