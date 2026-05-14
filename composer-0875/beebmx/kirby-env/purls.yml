@@ -14,3 +14,4 @@
 - pkg:composer/beebmx/kirby-env@4.2.1
 - pkg:composer/beebmx/kirby-env@5.0.0
 - pkg:composer/beebmx/kirby-env@5.1.0
+- pkg:composer/beebmx/kirby-env@5.2.2
