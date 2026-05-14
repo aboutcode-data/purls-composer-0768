@@ -6,3 +6,4 @@
 - pkg:composer/fakecloud/fakecloud@v0.13.1
 - pkg:composer/fakecloud/fakecloud@v0.13.2
 - pkg:composer/fakecloud/fakecloud@v0.13.3
+- pkg:composer/fakecloud/fakecloud@v0.14.0
