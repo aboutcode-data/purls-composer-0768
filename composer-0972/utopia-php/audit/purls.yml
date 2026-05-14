@@ -94,3 +94,4 @@
 - pkg:composer/utopia-php/audit@2.2.3
 - pkg:composer/utopia-php/audit@2.3.0
 - pkg:composer/utopia-php/audit@2.3.1
+- pkg:composer/utopia-php/audit@2.3.2
