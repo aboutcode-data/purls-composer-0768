@@ -7,6 +7,7 @@
 - pkg:composer/automattic/jetpack-plans@v0.11.2
 - pkg:composer/automattic/jetpack-plans@v0.11.3
 - pkg:composer/automattic/jetpack-plans@v0.11.4
+- pkg:composer/automattic/jetpack-plans@v0.11.5
 - pkg:composer/automattic/jetpack-plans@v0.2.0
 - pkg:composer/automattic/jetpack-plans@v0.2.1
 - pkg:composer/automattic/jetpack-plans@v0.2.10
