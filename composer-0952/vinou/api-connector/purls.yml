@@ -64,3 +64,4 @@
 - pkg:composer/vinou/api-connector@3.4.1
 - pkg:composer/vinou/api-connector@3.4.2
 - pkg:composer/vinou/api-connector@3.4.3
+- pkg:composer/vinou/api-connector@3.5.0
