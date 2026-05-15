@@ -38,10 +38,12 @@
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@7.0.1-rc.2
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@7.0.2
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@7.1.0
+- pkg:composer/heptacom/shopware-platform-admin-open-auth@7.1.1
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@8.0.0
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@8.0.0-beta.1
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@8.0.0-beta2
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@8.0.0-rc1
+- pkg:composer/heptacom/shopware-platform-admin-open-auth@8.1.0
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@9.0.0
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@9.0.0-beta5
 - pkg:composer/heptacom/shopware-platform-admin-open-auth@9.0.0-beta6
