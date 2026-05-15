@@ -44,3 +44,4 @@
 - pkg:composer/ip2location/ip2location-piwik@5.4.0
 - pkg:composer/ip2location/ip2location-piwik@5.5.0
 - pkg:composer/ip2location/ip2location-piwik@5.5.1
+- pkg:composer/ip2location/ip2location-piwik@5.5.2
