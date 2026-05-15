@@ -118,3 +118,4 @@
 - pkg:composer/google/cloud-logging@v2.0.0
 - pkg:composer/google/cloud-logging@v2.0.0-RC1
 - pkg:composer/google/cloud-logging@v2.0.0-RC2
+- pkg:composer/google/cloud-logging@v2.1.0
