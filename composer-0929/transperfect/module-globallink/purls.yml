@@ -17,6 +17,7 @@
 - pkg:composer/transperfect/module-globallink@1.10.2_b1
 - pkg:composer/transperfect/module-globallink@1.10.3
 - pkg:composer/transperfect/module-globallink@1.10.3_RC1
+- pkg:composer/transperfect/module-globallink@1.10.4-b1
 - pkg:composer/transperfect/module-globallink@1.5.0
 - pkg:composer/transperfect/module-globallink@1.6.0
 - pkg:composer/transperfect/module-globallink@1.7.0
