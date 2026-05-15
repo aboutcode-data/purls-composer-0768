@@ -19,3 +19,4 @@
 - pkg:composer/esimcard/esimcard-sdk@v1.08
 - pkg:composer/esimcard/esimcard-sdk@v2.0.0
 - pkg:composer/esimcard/esimcard-sdk@v2.0.1
+- pkg:composer/esimcard/esimcard-sdk@v2.0.2
