@@ -3,5 +3,8 @@
 - pkg:composer/hypejunction/cropper@1.0.2
 - pkg:composer/hypejunction/cropper@1.0.5
 - pkg:composer/hypejunction/cropper@1.1.0
+- pkg:composer/hypejunction/cropper@3.0.0
+- pkg:composer/hypejunction/cropper@4.0.0
+- pkg:composer/hypejunction/cropper@5.0.0
 - pkg:composer/hypejunction/cropper@6.0.0
 - pkg:composer/hypejunction/cropper@7.0.0

@@ -394,3 +394,5 @@
 - pkg:composer/inspector-apm/neuron-ai@3.4.2
 - pkg:composer/inspector-apm/neuron-ai@3.4.3
 - pkg:composer/inspector-apm/neuron-ai@3.4.4
+- pkg:composer/inspector-apm/neuron-ai@3.4.5
+- pkg:composer/inspector-apm/neuron-ai@3.4.6

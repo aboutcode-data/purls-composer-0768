@@ -12,6 +12,7 @@
 - pkg:composer/horde/prefs@2.8.1
 - pkg:composer/horde/prefs@3.0.0alpha1
 - pkg:composer/horde/prefs@3.0.0alpha2
+- pkg:composer/horde/prefs@v3.0.0RC1
 - pkg:composer/horde/prefs@v3.0.0alpha3
 - pkg:composer/horde/prefs@v3.0.0alpha4
 - pkg:composer/horde/prefs@v3.0.0alpha5
