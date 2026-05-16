@@ -12,6 +12,7 @@
 - pkg:composer/fooman/printorderpdf-implementation-m2@103.2.0
 - pkg:composer/fooman/printorderpdf-implementation-m2@104.0.0
 - pkg:composer/fooman/printorderpdf-implementation-m2@104.0.1
+- pkg:composer/fooman/printorderpdf-implementation-m2@104.0.2
 - pkg:composer/fooman/printorderpdf-implementation-m2@105.0.0
 - pkg:composer/fooman/printorderpdf-implementation-m2@105.0.1
 - pkg:composer/fooman/printorderpdf-implementation-m2@105.0.2
@@ -20,6 +21,7 @@
 - pkg:composer/fooman/printorderpdf-implementation-m2@105.2.0
 - pkg:composer/fooman/printorderpdf-implementation-m2@105.3.0
 - pkg:composer/fooman/printorderpdf-implementation-m2@105.4.0
+- pkg:composer/fooman/printorderpdf-implementation-m2@105.5.0
 - pkg:composer/fooman/printorderpdf-implementation-m2@2.0.0
 - pkg:composer/fooman/printorderpdf-implementation-m2@2.0.1
 - pkg:composer/fooman/printorderpdf-implementation-m2@2.0.2
