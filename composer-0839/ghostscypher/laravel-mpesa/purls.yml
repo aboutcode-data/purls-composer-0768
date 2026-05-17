@@ -7,3 +7,4 @@
 - pkg:composer/ghostscypher/laravel-mpesa@v1.4
 - pkg:composer/ghostscypher/laravel-mpesa@v1.5
 - pkg:composer/ghostscypher/laravel-mpesa@v1.6
+- pkg:composer/ghostscypher/laravel-mpesa@v1.7
