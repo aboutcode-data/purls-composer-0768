@@ -39,3 +39,4 @@
 - pkg:composer/akaunting/firewall@2.1.7
 - pkg:composer/akaunting/firewall@2.2.0
 - pkg:composer/akaunting/firewall@2.3.0
+- pkg:composer/akaunting/firewall@3.0.0

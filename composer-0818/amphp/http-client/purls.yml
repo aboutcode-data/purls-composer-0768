@@ -110,3 +110,4 @@
 - pkg:composer/amphp/http-client@v5.3.3
 - pkg:composer/amphp/http-client@v5.3.4
 - pkg:composer/amphp/http-client@v5.3.5
+- pkg:composer/amphp/http-client@v5.3.6
