@@ -1,1 +1,3 @@
 - pkg:composer/ironcartlabs/magento-scan@v1.0.0-alpha.1
+- pkg:composer/ironcartlabs/magento-scan@v1.1.0
+- pkg:composer/ironcartlabs/magento-scan@v1.2.0
