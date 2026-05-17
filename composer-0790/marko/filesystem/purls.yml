@@ -11,3 +11,4 @@
 - pkg:composer/marko/filesystem@0.4.1
 - pkg:composer/marko/filesystem@0.4.2
 - pkg:composer/marko/filesystem@0.5.0
+- pkg:composer/marko/filesystem@0.6.0

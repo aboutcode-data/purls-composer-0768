@@ -70,3 +70,4 @@
 - pkg:composer/markocupic/backend-password-recovery-bundle@1.6.9
 - pkg:composer/markocupic/backend-password-recovery-bundle@1.7.0
 - pkg:composer/markocupic/backend-password-recovery-bundle@1.7.1
+- pkg:composer/markocupic/backend-password-recovery-bundle@1.7.2
