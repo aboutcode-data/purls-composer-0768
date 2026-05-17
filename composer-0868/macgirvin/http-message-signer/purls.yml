@@ -13,6 +13,7 @@
 - pkg:composer/macgirvin/http-message-signer@v0.2.12
 - pkg:composer/macgirvin/http-message-signer@v0.2.13
 - pkg:composer/macgirvin/http-message-signer@v0.2.14
+- pkg:composer/macgirvin/http-message-signer@v0.2.15
 - pkg:composer/macgirvin/http-message-signer@v0.2.2
 - pkg:composer/macgirvin/http-message-signer@v0.2.3
 - pkg:composer/macgirvin/http-message-signer@v0.2.4
