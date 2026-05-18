@@ -10,3 +10,4 @@
 - pkg:composer/pdf-block/laravel@v2.0.0
 - pkg:composer/pdf-block/laravel@v2.1.0
 - pkg:composer/pdf-block/laravel@v2.1.1
+- pkg:composer/pdf-block/laravel@v2.2.0
