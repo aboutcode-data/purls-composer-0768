@@ -27,3 +27,4 @@
 - pkg:composer/clevyr/nova-page-builder@v5.0.2
 - pkg:composer/clevyr/nova-page-builder@v5.1.0
 - pkg:composer/clevyr/nova-page-builder@v5.1.1
+- pkg:composer/clevyr/nova-page-builder@v6.0.0
