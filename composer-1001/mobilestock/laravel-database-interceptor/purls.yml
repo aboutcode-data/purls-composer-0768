@@ -236,6 +236,7 @@
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.121
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.1210
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.1211
+- pkg:composer/mobilestock/laravel-database-interceptor@v0.0.1212
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.122
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.123
 - pkg:composer/mobilestock/laravel-database-interceptor@v0.0.124
