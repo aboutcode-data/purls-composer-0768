@@ -18,3 +18,4 @@
 - pkg:composer/mapbender/ldapbundle@v2.0.3
 - pkg:composer/mapbender/ldapbundle@v2.0.4
 - pkg:composer/mapbender/ldapbundle@v2.0.5
+- pkg:composer/mapbender/ldapbundle@v2.1.0
