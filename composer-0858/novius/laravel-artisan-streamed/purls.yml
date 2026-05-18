@@ -4,3 +4,4 @@
 - pkg:composer/novius/laravel-artisan-streamed@2.0.0
 - pkg:composer/novius/laravel-artisan-streamed@2.1.0
 - pkg:composer/novius/laravel-artisan-streamed@2.2.0
+- pkg:composer/novius/laravel-artisan-streamed@2.2.1
