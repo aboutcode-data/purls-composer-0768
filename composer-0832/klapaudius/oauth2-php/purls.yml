@@ -10,6 +10,7 @@
 - pkg:composer/klapaudius/oauth2-php@1.0.9
 - pkg:composer/klapaudius/oauth2-php@1.1.0
 - pkg:composer/klapaudius/oauth2-php@1.1.1
+- pkg:composer/klapaudius/oauth2-php@1.10.0
 - pkg:composer/klapaudius/oauth2-php@1.2.0
 - pkg:composer/klapaudius/oauth2-php@1.2.1
 - pkg:composer/klapaudius/oauth2-php@1.2.2
