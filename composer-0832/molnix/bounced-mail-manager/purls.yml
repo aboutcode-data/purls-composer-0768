@@ -6,3 +6,4 @@
 - pkg:composer/molnix/bounced-mail-manager@v2.1.0
 - pkg:composer/molnix/bounced-mail-manager@v2.1.1
 - pkg:composer/molnix/bounced-mail-manager@v2.1.2
+- pkg:composer/molnix/bounced-mail-manager@v3.0.0

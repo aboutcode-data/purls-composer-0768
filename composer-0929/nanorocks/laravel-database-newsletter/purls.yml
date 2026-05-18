@@ -1,1 +1,2 @@
 - pkg:composer/nanorocks/laravel-database-newsletter@v1.0.0
+- pkg:composer/nanorocks/laravel-database-newsletter@v1.1.0
