@@ -5,3 +5,4 @@
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.3
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.4
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.5
+- pkg:composer/graftcode/hypertube-php-sdk@v3.0.6

@@ -1,1 +1,4 @@
 - pkg:composer/hotlinewebsites/sso-client@1.0.0
+- pkg:composer/hotlinewebsites/sso-client@1.0.1
+- pkg:composer/hotlinewebsites/sso-client@1.0.2
+- pkg:composer/hotlinewebsites/sso-client@1.0.3
