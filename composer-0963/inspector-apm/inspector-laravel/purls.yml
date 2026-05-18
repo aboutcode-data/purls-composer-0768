@@ -114,6 +114,7 @@
 - pkg:composer/inspector-apm/inspector-laravel@4.19.0
 - pkg:composer/inspector-apm/inspector-laravel@4.19.1
 - pkg:composer/inspector-apm/inspector-laravel@4.19.2
+- pkg:composer/inspector-apm/inspector-laravel@4.19.3
 - pkg:composer/inspector-apm/inspector-laravel@4.2.0
 - pkg:composer/inspector-apm/inspector-laravel@4.3.0
 - pkg:composer/inspector-apm/inspector-laravel@4.3.1
