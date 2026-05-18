@@ -1,0 +1,4 @@
+- pkg:composer/ext-php-copilot/client@v0.1.0
+- pkg:composer/ext-php-copilot/client@v0.1.1
+- pkg:composer/ext-php-copilot/client@v0.1.2
+- pkg:composer/ext-php-copilot/client@v0.1.3
