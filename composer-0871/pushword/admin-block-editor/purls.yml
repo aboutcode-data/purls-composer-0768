@@ -939,6 +939,11 @@
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc6
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc60
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc600
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc601
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc602
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc603
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc604
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc605
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc61
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc62
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc63

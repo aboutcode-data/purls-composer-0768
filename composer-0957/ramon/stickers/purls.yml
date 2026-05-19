@@ -1,6 +1,12 @@
+- pkg:composer/ramon/stickers@2.0.10
+- pkg:composer/ramon/stickers@2.0.11
 - pkg:composer/ramon/stickers@2.0.5
 - pkg:composer/ramon/stickers@2.0.5-beta
 - pkg:composer/ramon/stickers@2.0.6
 - pkg:composer/ramon/stickers@2.0.7
 - pkg:composer/ramon/stickers@2.0.8
 - pkg:composer/ramon/stickers@2.0.9
+- pkg:composer/ramon/stickers@v2.0.12
+- pkg:composer/ramon/stickers@v2.0.13
+- pkg:composer/ramon/stickers@v2.0.14
+- pkg:composer/ramon/stickers@v2.0.15

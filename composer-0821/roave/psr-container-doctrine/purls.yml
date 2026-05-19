@@ -33,3 +33,4 @@
 - pkg:composer/roave/psr-container-doctrine@5.8.0
 - pkg:composer/roave/psr-container-doctrine@6.0.0
 - pkg:composer/roave/psr-container-doctrine@6.1.0
+- pkg:composer/roave/psr-container-doctrine@6.2.0
