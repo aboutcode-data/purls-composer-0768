@@ -362,6 +362,8 @@
 - pkg:composer/goalgorilla/open_social@12.4.7
 - pkg:composer/goalgorilla/open_social@12.4.8
 - pkg:composer/goalgorilla/open_social@12.4.9
+- pkg:composer/goalgorilla/open_social@12.5.0
+- pkg:composer/goalgorilla/open_social@12.6.0
 - pkg:composer/goalgorilla/open_social@13.0.0
 - pkg:composer/goalgorilla/open_social@13.0.0-alpha1
 - pkg:composer/goalgorilla/open_social@13.0.0-alpha10
@@ -390,6 +392,7 @@
 - pkg:composer/goalgorilla/open_social@13.0.0-beta2
 - pkg:composer/goalgorilla/open_social@13.0.0-beta3
 - pkg:composer/goalgorilla/open_social@13.0.1
+- pkg:composer/goalgorilla/open_social@13.0.2
 - pkg:composer/goalgorilla/open_social@2.0.0
 - pkg:composer/goalgorilla/open_social@2.0.0-beta1
 - pkg:composer/goalgorilla/open_social@2.1.0
