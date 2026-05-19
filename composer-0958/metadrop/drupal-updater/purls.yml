@@ -20,6 +20,7 @@
 - pkg:composer/metadrop/drupal-updater@1.14.0
 - pkg:composer/metadrop/drupal-updater@1.15.0
 - pkg:composer/metadrop/drupal-updater@1.15.1
+- pkg:composer/metadrop/drupal-updater@1.16.0
 - pkg:composer/metadrop/drupal-updater@1.2.0
 - pkg:composer/metadrop/drupal-updater@1.2.1
 - pkg:composer/metadrop/drupal-updater@1.2.2
