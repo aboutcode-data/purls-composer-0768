@@ -21,6 +21,7 @@
 - pkg:composer/phpolygon/php-vio@1.10.9
 - pkg:composer/phpolygon/php-vio@1.11.0
 - pkg:composer/phpolygon/php-vio@1.12.0
+- pkg:composer/phpolygon/php-vio@1.13.0
 - pkg:composer/phpolygon/php-vio@1.2.0
 - pkg:composer/phpolygon/php-vio@1.2.1
 - pkg:composer/phpolygon/php-vio@1.2.5

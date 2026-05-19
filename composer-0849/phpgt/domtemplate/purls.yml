@@ -68,3 +68,4 @@
 - pkg:composer/phpgt/domtemplate@v3.5.1
 - pkg:composer/phpgt/domtemplate@v3.6.0
 - pkg:composer/phpgt/domtemplate@v3.6.1
+- pkg:composer/phpgt/domtemplate@v3.6.2
