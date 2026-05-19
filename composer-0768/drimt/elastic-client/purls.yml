@@ -1,3 +1,4 @@
 - pkg:composer/drimt/elastic-client@0.0.1
 - pkg:composer/drimt/elastic-client@0.0.2
 - pkg:composer/drimt/elastic-client@0.0.3
+- pkg:composer/drimt/elastic-client@0.0.4
