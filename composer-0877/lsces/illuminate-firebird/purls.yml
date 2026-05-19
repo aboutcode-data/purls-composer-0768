@@ -2,3 +2,4 @@
 - pkg:composer/lsces/illuminate-firebird@v1.1.0
 - pkg:composer/lsces/illuminate-firebird@v2.0.0
 - pkg:composer/lsces/illuminate-firebird@v2.0.1
+- pkg:composer/lsces/illuminate-firebird@v2.0.3
