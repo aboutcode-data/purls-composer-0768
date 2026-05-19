@@ -7,6 +7,7 @@
 - pkg:composer/innis/nostr-relay@v0.1.14
 - pkg:composer/innis/nostr-relay@v0.1.15
 - pkg:composer/innis/nostr-relay@v0.1.16
+- pkg:composer/innis/nostr-relay@v0.1.17
 - pkg:composer/innis/nostr-relay@v0.1.2
 - pkg:composer/innis/nostr-relay@v0.1.3
 - pkg:composer/innis/nostr-relay@v0.1.4
