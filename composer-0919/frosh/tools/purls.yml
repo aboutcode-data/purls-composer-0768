@@ -91,3 +91,8 @@
 - pkg:composer/frosh/tools@3.5.0
 - pkg:composer/frosh/tools@3.5.1
 - pkg:composer/frosh/tools@3.5.2
+- pkg:composer/frosh/tools@3.6.0
+- pkg:composer/frosh/tools@3.6.1
+- pkg:composer/frosh/tools@3.7.0
+- pkg:composer/frosh/tools@3.7.1
+- pkg:composer/frosh/tools@3.7.2
