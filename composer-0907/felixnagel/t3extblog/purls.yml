@@ -3,6 +3,7 @@
 - pkg:composer/felixnagel/t3extblog@10.0.0
 - pkg:composer/felixnagel/t3extblog@10.1.0
 - pkg:composer/felixnagel/t3extblog@10.2.0
+- pkg:composer/felixnagel/t3extblog@10.2.1
 - pkg:composer/felixnagel/t3extblog@2.0.0
 - pkg:composer/felixnagel/t3extblog@2.0.1
 - pkg:composer/felixnagel/t3extblog@2.1.0
@@ -39,3 +40,4 @@
 - pkg:composer/felixnagel/t3extblog@9.1.0
 - pkg:composer/felixnagel/t3extblog@9.2.0
 - pkg:composer/felixnagel/t3extblog@9.3.0
+- pkg:composer/felixnagel/t3extblog@9.3.1
