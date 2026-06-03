@@ -71,6 +71,12 @@
 - pkg:composer/hyvor/internal@4.0.10
 - pkg:composer/hyvor/internal@4.0.11
 - pkg:composer/hyvor/internal@4.0.12
+- pkg:composer/hyvor/internal@4.0.13
+- pkg:composer/hyvor/internal@4.0.13-beta.0
+- pkg:composer/hyvor/internal@4.0.13-beta.1
+- pkg:composer/hyvor/internal@4.0.13-beta.2
+- pkg:composer/hyvor/internal@4.0.13-beta.3
+- pkg:composer/hyvor/internal@4.0.13-beta.4
 - pkg:composer/hyvor/internal@4.0.2
 - pkg:composer/hyvor/internal@4.0.2-beta.1
 - pkg:composer/hyvor/internal@4.0.2-beta.2
