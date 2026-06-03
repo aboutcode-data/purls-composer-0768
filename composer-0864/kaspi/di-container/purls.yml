@@ -91,3 +91,4 @@
 - pkg:composer/kaspi/di-container@v4.1.1
 - pkg:composer/kaspi/di-container@v4.2.0
 - pkg:composer/kaspi/di-container@v4.2.1
+- pkg:composer/kaspi/di-container@v4.3.0
