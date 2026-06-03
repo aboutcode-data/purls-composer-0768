@@ -22,3 +22,4 @@
 - pkg:composer/flarum/extension-manager@v2.0.0-beta.7
 - pkg:composer/flarum/extension-manager@v2.0.0-beta.8
 - pkg:composer/flarum/extension-manager@v2.0.0-rc.1
+- pkg:composer/flarum/extension-manager@v2.0.0-rc.2
