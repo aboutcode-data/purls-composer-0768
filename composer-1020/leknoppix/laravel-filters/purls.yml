@@ -9,3 +9,4 @@
 - pkg:composer/leknoppix/laravel-filters@6.1.0
 - pkg:composer/leknoppix/laravel-filters@6.5
 - pkg:composer/leknoppix/laravel-filters@6.6
+- pkg:composer/leknoppix/laravel-filters@7.0.0
