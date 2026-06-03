@@ -12,3 +12,4 @@
 - pkg:composer/iansimpson/ss-oauth2-server@0.2.3
 - pkg:composer/iansimpson/ss-oauth2-server@1.0.0
 - pkg:composer/iansimpson/ss-oauth2-server@1.1.0
+- pkg:composer/iansimpson/ss-oauth2-server@2.0.0
