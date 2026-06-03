@@ -22,6 +22,9 @@
 - pkg:composer/horde/image@2.6.1
 - pkg:composer/horde/image@3.0.0alpha1
 - pkg:composer/horde/image@3.0.0alpha2
+- pkg:composer/horde/image@v3.0.0RC1
+- pkg:composer/horde/image@v3.0.0RC2
+- pkg:composer/horde/image@v3.0.0RC3
 - pkg:composer/horde/image@v3.0.0alpha3
 - pkg:composer/horde/image@v3.0.0alpha4
 - pkg:composer/horde/image@v3.0.0alpha5

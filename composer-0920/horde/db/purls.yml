@@ -17,6 +17,7 @@
 - pkg:composer/horde/db@2.4.1
 - pkg:composer/horde/db@3.0.0alpha1
 - pkg:composer/horde/db@3.0.0alpha2
+- pkg:composer/horde/db@v3.0.0RC1
 - pkg:composer/horde/db@v3.0.0alpha3
 - pkg:composer/horde/db@v3.0.0alpha4
 - pkg:composer/horde/db@v3.0.0alpha5
