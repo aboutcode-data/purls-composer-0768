@@ -18,3 +18,5 @@
 - pkg:composer/honl/magento2-import@v1.3.7
 - pkg:composer/honl/magento2-import@v1.3.8
 - pkg:composer/honl/magento2-import@v1.3.9
+- pkg:composer/honl/magento2-import@v1.4.0
+- pkg:composer/honl/magento2-import@v1.4.1
