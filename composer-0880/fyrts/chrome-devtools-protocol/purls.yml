@@ -359,7 +359,14 @@
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.143
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.144
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.145
+- pkg:composer/fyrts/chrome-devtools-protocol@v1.2.146
+- pkg:composer/fyrts/chrome-devtools-protocol@v1.2.147
+- pkg:composer/fyrts/chrome-devtools-protocol@v1.2.148
+- pkg:composer/fyrts/chrome-devtools-protocol@v1.2.149
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.15
+- pkg:composer/fyrts/chrome-devtools-protocol@v1.2.150
+- pkg:composer/fyrts/chrome-devtools-protocol@v1.2.151
+- pkg:composer/fyrts/chrome-devtools-protocol@v1.2.152
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.16
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.17
 - pkg:composer/fyrts/chrome-devtools-protocol@v1.2.18
