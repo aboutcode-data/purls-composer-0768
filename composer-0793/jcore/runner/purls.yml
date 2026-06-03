@@ -27,3 +27,4 @@
 - pkg:composer/jcore/runner@v4.0.0
 - pkg:composer/jcore/runner@v4.0.1
 - pkg:composer/jcore/runner@v4.1.0
+- pkg:composer/jcore/runner@v4.2.0
