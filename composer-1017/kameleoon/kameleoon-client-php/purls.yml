@@ -35,6 +35,7 @@
 - pkg:composer/kameleoon/kameleoon-client-php@4.20.0
 - pkg:composer/kameleoon/kameleoon-client-php@4.21.0
 - pkg:composer/kameleoon/kameleoon-client-php@4.22.0
+- pkg:composer/kameleoon/kameleoon-client-php@4.23.0
 - pkg:composer/kameleoon/kameleoon-client-php@4.3.0
 - pkg:composer/kameleoon/kameleoon-client-php@4.4.0
 - pkg:composer/kameleoon/kameleoon-client-php@4.5.0
