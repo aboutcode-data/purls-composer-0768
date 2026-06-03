@@ -20,6 +20,8 @@
 - pkg:composer/kjos/command@3.3.3
 - pkg:composer/kjos/command@3.3.4
 - pkg:composer/kjos/command@3.3.5
+- pkg:composer/kjos/command@4.0.0
+- pkg:composer/kjos/command@4.0.1
 - pkg:composer/kjos/command@v1.0.0
 - pkg:composer/kjos/command@v2.1.2
 - pkg:composer/kjos/command@v2.1.3
