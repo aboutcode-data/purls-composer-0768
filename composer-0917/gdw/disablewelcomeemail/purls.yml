@@ -6,7 +6,11 @@
 - pkg:composer/gdw/disablewelcomeemail@1.0.5
 - pkg:composer/gdw/disablewelcomeemail@3.0.0
 - pkg:composer/gdw/disablewelcomeemail@3.0.1
+- pkg:composer/gdw/disablewelcomeemail@3.0.2
 - pkg:composer/gdw/disablewelcomeemail@4.0.0
 - pkg:composer/gdw/disablewelcomeemail@4.0.1
+- pkg:composer/gdw/disablewelcomeemail@4.0.2
 - pkg:composer/gdw/disablewelcomeemail@4.4.0
 - pkg:composer/gdw/disablewelcomeemail@4.4.1
+- pkg:composer/gdw/disablewelcomeemail@4.4.2
+- pkg:composer/gdw/disablewelcomeemail@4.4.3
