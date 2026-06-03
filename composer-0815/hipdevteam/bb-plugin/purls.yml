@@ -11,6 +11,8 @@
 - pkg:composer/hipdevteam/bb-plugin@2.10.1.5
 - pkg:composer/hipdevteam/bb-plugin@2.10.1.6
 - pkg:composer/hipdevteam/bb-plugin@2.10.2
+- pkg:composer/hipdevteam/bb-plugin@2.10.2.1
+- pkg:composer/hipdevteam/bb-plugin@2.10.2.2
 - pkg:composer/hipdevteam/bb-plugin@2.4.0.5
 - pkg:composer/hipdevteam/bb-plugin@2.4.0.6
 - pkg:composer/hipdevteam/bb-plugin@2.4.1.1
