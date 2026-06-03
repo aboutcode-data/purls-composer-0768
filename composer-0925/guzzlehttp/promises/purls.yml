@@ -22,4 +22,8 @@
 - pkg:composer/guzzlehttp/promises@2.1.0
 - pkg:composer/guzzlehttp/promises@2.2.0
 - pkg:composer/guzzlehttp/promises@2.3.0
+- pkg:composer/guzzlehttp/promises@2.3.1
+- pkg:composer/guzzlehttp/promises@2.4.0
+- pkg:composer/guzzlehttp/promises@2.4.1
+- pkg:composer/guzzlehttp/promises@2.5.0
 - pkg:composer/guzzlehttp/promises@v1.3.1
