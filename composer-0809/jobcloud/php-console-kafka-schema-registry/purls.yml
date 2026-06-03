@@ -32,3 +32,4 @@
 - pkg:composer/jobcloud/php-console-kafka-schema-registry@v2.5.0
 - pkg:composer/jobcloud/php-console-kafka-schema-registry@v2.6.0
 - pkg:composer/jobcloud/php-console-kafka-schema-registry@v3.0.0
+- pkg:composer/jobcloud/php-console-kafka-schema-registry@v3.1.0
