@@ -1,2 +1,4 @@
 - pkg:composer/hemmy/hemmy_send_sms@0.7
 - pkg:composer/hemmy/hemmy_send_sms@1
+- pkg:composer/hemmy/hemmy_send_sms@1.0.1
+- pkg:composer/hemmy/hemmy_send_sms@1.0.2
