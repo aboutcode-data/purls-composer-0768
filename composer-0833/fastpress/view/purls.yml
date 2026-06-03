@@ -2,3 +2,4 @@
 - pkg:composer/fastpress/view@0.1.1
 - pkg:composer/fastpress/view@0.1.2
 - pkg:composer/fastpress/view@0.1.3
+- pkg:composer/fastpress/view@v0.2.0
