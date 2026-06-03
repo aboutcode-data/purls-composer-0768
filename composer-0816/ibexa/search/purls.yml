@@ -88,6 +88,7 @@
 - pkg:composer/ibexa/search@v4.6.28
 - pkg:composer/ibexa/search@v4.6.29
 - pkg:composer/ibexa/search@v4.6.3
+- pkg:composer/ibexa/search@v4.6.30
 - pkg:composer/ibexa/search@v4.6.4
 - pkg:composer/ibexa/search@v4.6.5
 - pkg:composer/ibexa/search@v4.6.6
@@ -104,3 +105,4 @@
 - pkg:composer/ibexa/search@v5.0.5
 - pkg:composer/ibexa/search@v5.0.6
 - pkg:composer/ibexa/search@v5.0.7
+- pkg:composer/ibexa/search@v5.0.8
