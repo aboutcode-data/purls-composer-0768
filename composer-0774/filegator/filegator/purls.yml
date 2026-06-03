@@ -24,6 +24,7 @@
 - pkg:composer/filegator/filegator@v7.14.0
 - pkg:composer/filegator/filegator@v7.14.1
 - pkg:composer/filegator/filegator@v7.14.2
+- pkg:composer/filegator/filegator@v7.14.3
 - pkg:composer/filegator/filegator@v7.2.0
 - pkg:composer/filegator/filegator@v7.2.1
 - pkg:composer/filegator/filegator@v7.3.0
