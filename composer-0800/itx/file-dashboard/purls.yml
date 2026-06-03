@@ -8,6 +8,7 @@
 - pkg:composer/itx/file-dashboard@1.2.5
 - pkg:composer/itx/file-dashboard@1.2.6
 - pkg:composer/itx/file-dashboard@1.2.7
+- pkg:composer/itx/file-dashboard@1.2.8
 - pkg:composer/itx/file-dashboard@2.0.0
 - pkg:composer/itx/file-dashboard@2.0.1
 - pkg:composer/itx/file-dashboard@2.1.0
@@ -18,3 +19,4 @@
 - pkg:composer/itx/file-dashboard@2.2.4
 - pkg:composer/itx/file-dashboard@2.2.5
 - pkg:composer/itx/file-dashboard@2.2.6
+- pkg:composer/itx/file-dashboard@2.2.7
