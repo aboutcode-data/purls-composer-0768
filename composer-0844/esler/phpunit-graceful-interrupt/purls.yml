@@ -3,6 +3,7 @@
 - pkg:composer/esler/phpunit-graceful-interrupt@10.0.2
 - pkg:composer/esler/phpunit-graceful-interrupt@11.0
 - pkg:composer/esler/phpunit-graceful-interrupt@12.0
+- pkg:composer/esler/phpunit-graceful-interrupt@13.0
 - pkg:composer/esler/phpunit-graceful-interrupt@v0.9
 - pkg:composer/esler/phpunit-graceful-interrupt@v0.9.1
 - pkg:composer/esler/phpunit-graceful-interrupt@v1.0
