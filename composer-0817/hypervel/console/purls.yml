@@ -33,6 +33,7 @@
 - pkg:composer/hypervel/console@v0.3.2
 - pkg:composer/hypervel/console@v0.3.20
 - pkg:composer/hypervel/console@v0.3.21
+- pkg:composer/hypervel/console@v0.3.22
 - pkg:composer/hypervel/console@v0.3.3
 - pkg:composer/hypervel/console@v0.3.4
 - pkg:composer/hypervel/console@v0.3.5
