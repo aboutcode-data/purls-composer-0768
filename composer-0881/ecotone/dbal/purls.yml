@@ -350,6 +350,8 @@
 - pkg:composer/ecotone/dbal@1.312.0
 - pkg:composer/ecotone/dbal@1.313.0
 - pkg:composer/ecotone/dbal@1.313.1
+- pkg:composer/ecotone/dbal@1.313.2
+- pkg:composer/ecotone/dbal@1.314.0
 - pkg:composer/ecotone/dbal@1.32.0
 - pkg:composer/ecotone/dbal@1.32.1
 - pkg:composer/ecotone/dbal@1.32.2
