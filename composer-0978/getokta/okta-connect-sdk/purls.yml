@@ -1,3 +1,4 @@
 - pkg:composer/getokta/okta-connect-sdk@v0.1.0
 - pkg:composer/getokta/okta-connect-sdk@v0.2.0
 - pkg:composer/getokta/okta-connect-sdk@v0.4.0
+- pkg:composer/getokta/okta-connect-sdk@v0.6.0
