@@ -19,6 +19,9 @@
 - pkg:composer/gedankenfolger/gedankenfolger-faq@13.7.7
 - pkg:composer/gedankenfolger/gedankenfolger-faq@13.8.0
 - pkg:composer/gedankenfolger/gedankenfolger-faq@13.8.1
+- pkg:composer/gedankenfolger/gedankenfolger-faq@13.8.2
+- pkg:composer/gedankenfolger/gedankenfolger-faq@13.8.3
+- pkg:composer/gedankenfolger/gedankenfolger-faq@13.8.4
 - pkg:composer/gedankenfolger/gedankenfolger-faq@14.0.0
 - pkg:composer/gedankenfolger/gedankenfolger-faq@14.0.1
 - pkg:composer/gedankenfolger/gedankenfolger-faq@14.1.0
@@ -31,3 +34,6 @@
 - pkg:composer/gedankenfolger/gedankenfolger-faq@14.1.7
 - pkg:composer/gedankenfolger/gedankenfolger-faq@14.2.0
 - pkg:composer/gedankenfolger/gedankenfolger-faq@14.2.1
+- pkg:composer/gedankenfolger/gedankenfolger-faq@14.2.2
+- pkg:composer/gedankenfolger/gedankenfolger-faq@14.2.3
+- pkg:composer/gedankenfolger/gedankenfolger-faq@14.2.4
