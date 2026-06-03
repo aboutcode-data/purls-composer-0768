@@ -1,1 +1,5 @@
+- pkg:composer/easy-http/contracts@v0.1.0
+- pkg:composer/easy-http/contracts@v0.2.0
+- pkg:composer/easy-http/contracts@v1.0.0
+- pkg:composer/easy-http/contracts@v1.1.0
 - pkg:composer/easy-http/contracts@v2.0.0
