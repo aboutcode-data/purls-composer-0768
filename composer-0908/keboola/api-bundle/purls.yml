@@ -25,3 +25,4 @@
 - pkg:composer/keboola/api-bundle@3.8.1
 - pkg:composer/keboola/api-bundle@3.8.2
 - pkg:composer/keboola/api-bundle@3.9.0
+- pkg:composer/keboola/api-bundle@4.0.0
