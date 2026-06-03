@@ -64,3 +64,5 @@
 - pkg:composer/formance/formance-sdk@v4.2.1
 - pkg:composer/formance/formance-sdk@v4.2.2
 - pkg:composer/formance/formance-sdk@v5.0.0
+- pkg:composer/formance/formance-sdk@v6.0.0
+- pkg:composer/formance/formance-sdk@v6.1.0
