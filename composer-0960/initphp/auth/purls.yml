@@ -1,1 +1,2 @@
 - pkg:composer/initphp/auth@1.0
+- pkg:composer/initphp/auth@2.0.0

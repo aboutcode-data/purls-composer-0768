@@ -1,1 +1,2 @@
 - pkg:composer/initphp/escaper@1.0
+- pkg:composer/initphp/escaper@2.0.0

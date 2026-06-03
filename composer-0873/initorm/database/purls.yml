@@ -1,2 +1,3 @@
 - pkg:composer/initorm/database@1.0
 - pkg:composer/initorm/database@1.0.1
+- pkg:composer/initorm/database@2.0.0
