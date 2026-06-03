@@ -2,3 +2,5 @@
 - pkg:composer/ironcartlabs/magento-scan@v1.1.0
 - pkg:composer/ironcartlabs/magento-scan@v1.2.0
 - pkg:composer/ironcartlabs/magento-scan@v1.3.0
+- pkg:composer/ironcartlabs/magento-scan@v1.4.0
+- pkg:composer/ironcartlabs/magento-scan@v1.5.0
