@@ -29,3 +29,4 @@
 - pkg:composer/fastd/swoole@v2.2.2
 - pkg:composer/fastd/swoole@v2.3.0
 - pkg:composer/fastd/swoole@v2.3.1
+- pkg:composer/fastd/swoole@v8.0.0
