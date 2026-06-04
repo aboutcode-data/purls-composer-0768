@@ -22,3 +22,4 @@
 - pkg:composer/m6web/php-cs-fixer-config@v4.1.1
 - pkg:composer/m6web/php-cs-fixer-config@v5.0.0
 - pkg:composer/m6web/php-cs-fixer-config@v5.1.0
+- pkg:composer/m6web/php-cs-fixer-config@v5.2.0
