@@ -3,6 +3,7 @@
 - pkg:composer/lunr/locator@0.10.2
 - pkg:composer/lunr/locator@0.10.3
 - pkg:composer/lunr/locator@0.11.0
+- pkg:composer/lunr/locator@0.12.0
 - pkg:composer/lunr/locator@0.7.0
 - pkg:composer/lunr/locator@0.7.1
 - pkg:composer/lunr/locator@0.7.2
