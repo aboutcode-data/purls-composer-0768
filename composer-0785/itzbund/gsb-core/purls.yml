@@ -814,3 +814,5 @@
 - pkg:composer/itzbund/gsb-core@v5.0.0-rc.7
 - pkg:composer/itzbund/gsb-core@v5.0.0-rc.8
 - pkg:composer/itzbund/gsb-core@v5.0.0-rc.9
+- pkg:composer/itzbund/gsb-core@v5.1.0-rc.1
+- pkg:composer/itzbund/gsb-core@v5.1.0-rc.2
