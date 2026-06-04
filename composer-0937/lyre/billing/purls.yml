@@ -11,3 +11,6 @@
 - pkg:composer/lyre/billing@1.2.0
 - pkg:composer/lyre/billing@1.2.1
 - pkg:composer/lyre/billing@1.2.2
+- pkg:composer/lyre/billing@2.0.0
+- pkg:composer/lyre/billing@2.0.1
+- pkg:composer/lyre/billing@2.0.2
