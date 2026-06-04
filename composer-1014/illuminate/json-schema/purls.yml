@@ -54,6 +54,7 @@
 - pkg:composer/illuminate/json-schema@v12.60.1
 - pkg:composer/illuminate/json-schema@v12.60.2
 - pkg:composer/illuminate/json-schema@v12.61.0
+- pkg:composer/illuminate/json-schema@v12.61.1
 - pkg:composer/illuminate/json-schema@v13.0.0
 - pkg:composer/illuminate/json-schema@v13.1.0
 - pkg:composer/illuminate/json-schema@v13.1.1
