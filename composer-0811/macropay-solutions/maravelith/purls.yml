@@ -31,6 +31,9 @@
 - pkg:composer/macropay-solutions/maravelith@10.52.23
 - pkg:composer/macropay-solutions/maravelith@10.52.24
 - pkg:composer/macropay-solutions/maravelith@10.52.25
+- pkg:composer/macropay-solutions/maravelith@10.52.26
+- pkg:composer/macropay-solutions/maravelith@10.52.27
+- pkg:composer/macropay-solutions/maravelith@10.52.28
 - pkg:composer/macropay-solutions/maravelith@10.52.3
 - pkg:composer/macropay-solutions/maravelith@10.52.4
 - pkg:composer/macropay-solutions/maravelith@10.52.5
@@ -39,6 +42,8 @@
 - pkg:composer/macropay-solutions/maravelith@10.52.8
 - pkg:composer/macropay-solutions/maravelith@10.52.9
 - pkg:composer/macropay-solutions/maravelith@20.0.0-RC1
+- pkg:composer/macropay-solutions/maravelith@20.0.0-RC10
+- pkg:composer/macropay-solutions/maravelith@20.0.0-RC11
 - pkg:composer/macropay-solutions/maravelith@20.0.0-RC2
 - pkg:composer/macropay-solutions/maravelith@20.0.0-RC3
 - pkg:composer/macropay-solutions/maravelith@20.0.0-RC4
@@ -46,3 +51,4 @@
 - pkg:composer/macropay-solutions/maravelith@20.0.0-RC6
 - pkg:composer/macropay-solutions/maravelith@20.0.0-RC7
 - pkg:composer/macropay-solutions/maravelith@20.0.0-RC8
+- pkg:composer/macropay-solutions/maravelith@20.0.0-RC9
