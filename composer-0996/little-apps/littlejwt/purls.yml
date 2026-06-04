@@ -15,3 +15,4 @@
 - pkg:composer/little-apps/littlejwt@v2.2.0-beta
 - pkg:composer/little-apps/littlejwt@v2.3.0
 - pkg:composer/little-apps/littlejwt@v2.3.1
+- pkg:composer/little-apps/littlejwt@v3.0.0
