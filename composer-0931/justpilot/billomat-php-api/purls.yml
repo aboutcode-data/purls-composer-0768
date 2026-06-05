@@ -2,3 +2,5 @@
 - pkg:composer/justpilot/billomat-php-api@v1.1.0
 - pkg:composer/justpilot/billomat-php-api@v1.2.0
 - pkg:composer/justpilot/billomat-php-api@v2.0.0
+- pkg:composer/justpilot/billomat-php-api@v2.1.0
+- pkg:composer/justpilot/billomat-php-api@v2.1.1
