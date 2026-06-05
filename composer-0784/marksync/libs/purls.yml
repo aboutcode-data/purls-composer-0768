@@ -1,5 +1,8 @@
 - pkg:composer/marksync/libs@v1.0.0
 - pkg:composer/marksync/libs@v1.0.1
+- pkg:composer/marksync/libs@v1.0.100
+- pkg:composer/marksync/libs@v1.0.101
+- pkg:composer/marksync/libs@v1.0.102
 - pkg:composer/marksync/libs@v1.0.2
 - pkg:composer/marksync/libs@v1.0.3
 - pkg:composer/marksync/libs@v1.0.4
