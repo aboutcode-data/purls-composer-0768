@@ -333,6 +333,7 @@
 - pkg:composer/illuminate/console@v13.11.2
 - pkg:composer/illuminate/console@v13.12.0
 - pkg:composer/illuminate/console@v13.13.0
+- pkg:composer/illuminate/console@v13.14.0
 - pkg:composer/illuminate/console@v13.2.0
 - pkg:composer/illuminate/console@v13.3.0
 - pkg:composer/illuminate/console@v13.4.0
