@@ -26,6 +26,7 @@
 - pkg:composer/mezzio/mezzio-twigrenderer@2.16.0
 - pkg:composer/mezzio/mezzio-twigrenderer@2.17.0
 - pkg:composer/mezzio/mezzio-twigrenderer@2.18.0
+- pkg:composer/mezzio/mezzio-twigrenderer@2.19.0
 - pkg:composer/mezzio/mezzio-twigrenderer@2.2.0
 - pkg:composer/mezzio/mezzio-twigrenderer@2.3.0
 - pkg:composer/mezzio/mezzio-twigrenderer@2.4.0
