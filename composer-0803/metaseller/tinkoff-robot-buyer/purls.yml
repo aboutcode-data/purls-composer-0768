@@ -1,3 +1,4 @@
 - pkg:composer/metaseller/tinkoff-robot-buyer@0.1.1
 - pkg:composer/metaseller/tinkoff-robot-buyer@0.2.1
 - pkg:composer/metaseller/tinkoff-robot-buyer@0.2.2
+- pkg:composer/metaseller/tinkoff-robot-buyer@1.0.0
