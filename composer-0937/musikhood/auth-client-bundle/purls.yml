@@ -8,3 +8,4 @@
 - pkg:composer/musikhood/auth-client-bundle@v0.2.3
 - pkg:composer/musikhood/auth-client-bundle@v0.2.4
 - pkg:composer/musikhood/auth-client-bundle@v0.2.5
+- pkg:composer/musikhood/auth-client-bundle@v0.3.0
