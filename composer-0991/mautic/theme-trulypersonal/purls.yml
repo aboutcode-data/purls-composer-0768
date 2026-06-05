@@ -45,6 +45,7 @@
 - pkg:composer/mautic/theme-trulypersonal@5.2.0
 - pkg:composer/mautic/theme-trulypersonal@5.2.1
 - pkg:composer/mautic/theme-trulypersonal@5.2.10
+- pkg:composer/mautic/theme-trulypersonal@5.2.11
 - pkg:composer/mautic/theme-trulypersonal@5.2.2
 - pkg:composer/mautic/theme-trulypersonal@5.2.3
 - pkg:composer/mautic/theme-trulypersonal@5.2.4
@@ -66,6 +67,7 @@
 - pkg:composer/mautic/theme-trulypersonal@6.0.6
 - pkg:composer/mautic/theme-trulypersonal@6.0.7
 - pkg:composer/mautic/theme-trulypersonal@6.0.8
+- pkg:composer/mautic/theme-trulypersonal@6.0.9
 - pkg:composer/mautic/theme-trulypersonal@7.0.0
 - pkg:composer/mautic/theme-trulypersonal@7.0.0-alpha
 - pkg:composer/mautic/theme-trulypersonal@7.0.0-beta
@@ -76,3 +78,5 @@
 - pkg:composer/mautic/theme-trulypersonal@7.1.0
 - pkg:composer/mautic/theme-trulypersonal@7.1.0-rc
 - pkg:composer/mautic/theme-trulypersonal@7.1.1
+- pkg:composer/mautic/theme-trulypersonal@7.1.2
+- pkg:composer/mautic/theme-trulypersonal@7.2.0-rc
