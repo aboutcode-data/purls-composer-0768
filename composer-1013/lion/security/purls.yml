@@ -21,6 +21,7 @@
 - pkg:composer/lion/security@v12.0.0
 - pkg:composer/lion/security@v12.0.1
 - pkg:composer/lion/security@v12.0.2
+- pkg:composer/lion/security@v12.0.3
 - pkg:composer/lion/security@v2.0
 - pkg:composer/lion/security@v3.0
 - pkg:composer/lion/security@v4.0
