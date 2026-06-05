@@ -1,1 +1,3 @@
+- pkg:composer/osoobe/dimepay-laravel-sdk@1.1.0
 - pkg:composer/osoobe/dimepay-laravel-sdk@v1.0.1
+- pkg:composer/osoobe/dimepay-laravel-sdk@v1.0.2

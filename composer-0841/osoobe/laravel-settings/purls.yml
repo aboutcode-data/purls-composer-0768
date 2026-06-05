@@ -1,3 +1,6 @@
 - pkg:composer/osoobe/laravel-settings@1.0.0
 - pkg:composer/osoobe/laravel-settings@2.0.0
 - pkg:composer/osoobe/laravel-settings@2.1.0
+- pkg:composer/osoobe/laravel-settings@2.2.0
+- pkg:composer/osoobe/laravel-settings@2.3.0
+- pkg:composer/osoobe/laravel-settings@2.4.0
