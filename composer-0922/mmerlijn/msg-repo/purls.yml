@@ -101,3 +101,5 @@
 - pkg:composer/mmerlijn/msg-repo@v3.6.0
 - pkg:composer/mmerlijn/msg-repo@v3.6.1
 - pkg:composer/mmerlijn/msg-repo@v3.6.2
+- pkg:composer/mmerlijn/msg-repo@v3.7.0
+- pkg:composer/mmerlijn/msg-repo@v3.7.1
