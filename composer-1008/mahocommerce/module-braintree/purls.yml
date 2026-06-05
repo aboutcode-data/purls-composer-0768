@@ -10,4 +10,7 @@
 - pkg:composer/mahocommerce/module-braintree@5.0.1
 - pkg:composer/mahocommerce/module-braintree@5.0.2
 - pkg:composer/mahocommerce/module-braintree@5.0.3
+- pkg:composer/mahocommerce/module-braintree@5.0.4
+- pkg:composer/mahocommerce/module-braintree@6.0.0
+- pkg:composer/mahocommerce/module-braintree@7.0.0
 - pkg:composer/mahocommerce/module-braintree@v4.0.0
