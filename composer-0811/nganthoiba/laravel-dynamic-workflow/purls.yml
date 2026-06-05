@@ -4,6 +4,10 @@
 - pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.11
 - pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.12
 - pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.13
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.14
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.15
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.16
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.17
 - pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.2
 - pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.3
 - pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.4
@@ -12,3 +16,12 @@
 - pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.7
 - pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.8
 - pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.0.9
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.1.0
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.1.1
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.1.2
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.1.3
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.1.4
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.1.5
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.1.6
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.1.7
+- pkg:composer/nganthoiba/laravel-dynamic-workflow@v1.1.8
