@@ -1,2 +1,5 @@
 - pkg:composer/marko/inertia-svelte@0.5.0
 - pkg:composer/marko/inertia-svelte@0.6.0
+- pkg:composer/marko/inertia-svelte@0.6.1
+- pkg:composer/marko/inertia-svelte@0.7.0
+- pkg:composer/marko/inertia-svelte@0.8.0
