@@ -1,3 +1,5 @@
 - pkg:composer/meusistemabr/ci4-sqlite-logger@v1.0.0
 - pkg:composer/meusistemabr/ci4-sqlite-logger@v1.1.0
 - pkg:composer/meusistemabr/ci4-sqlite-logger@v1.1.1
+- pkg:composer/meusistemabr/ci4-sqlite-logger@v1.1.2
+- pkg:composer/meusistemabr/ci4-sqlite-logger@v1.1.3
