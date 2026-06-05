@@ -77,3 +77,5 @@
 - pkg:composer/palabs/datagrid-bundle@3.1.1
 - pkg:composer/palabs/datagrid-bundle@3.1.2
 - pkg:composer/palabs/datagrid-bundle@3.1.3
+- pkg:composer/palabs/datagrid-bundle@3.2.0
+- pkg:composer/palabs/datagrid-bundle@3.3.0
