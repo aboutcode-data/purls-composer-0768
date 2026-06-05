@@ -15,3 +15,7 @@
 - pkg:composer/ometra/caronte-client@3.6.0
 - pkg:composer/ometra/caronte-client@4.0.0
 - pkg:composer/ometra/caronte-client@4.1.0
+- pkg:composer/ometra/caronte-client@4.2.0
+- pkg:composer/ometra/caronte-client@4.3.0
+- pkg:composer/ometra/caronte-client@4.4.0
+- pkg:composer/ometra/caronte-client@4.5.0
