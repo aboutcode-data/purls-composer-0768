@@ -31,6 +31,8 @@
 - pkg:composer/paysera/util-raml-code-generator@11.11.0
 - pkg:composer/paysera/util-raml-code-generator@11.11.1
 - pkg:composer/paysera/util-raml-code-generator@11.11.2
+- pkg:composer/paysera/util-raml-code-generator@11.11.3
+- pkg:composer/paysera/util-raml-code-generator@11.11.5
 - pkg:composer/paysera/util-raml-code-generator@11.2.0
 - pkg:composer/paysera/util-raml-code-generator@11.2.1
 - pkg:composer/paysera/util-raml-code-generator@11.2.2
