@@ -8,3 +8,4 @@
 - pkg:composer/nylo/laravel-nylo-auth@v1.3.3
 - pkg:composer/nylo/laravel-nylo-auth@v2.0.0
 - pkg:composer/nylo/laravel-nylo-auth@v2.1.0
+- pkg:composer/nylo/laravel-nylo-auth@v2.1.1
