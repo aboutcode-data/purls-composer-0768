@@ -1,5 +1,7 @@
 - pkg:composer/mglaman/drupalorg-cli@0.10.0
 - pkg:composer/mglaman/drupalorg-cli@0.10.1
+- pkg:composer/mglaman/drupalorg-cli@0.10.2
+- pkg:composer/mglaman/drupalorg-cli@0.10.3
 - pkg:composer/mglaman/drupalorg-cli@0.3.0
 - pkg:composer/mglaman/drupalorg-cli@0.3.1
 - pkg:composer/mglaman/drupalorg-cli@0.3.2
