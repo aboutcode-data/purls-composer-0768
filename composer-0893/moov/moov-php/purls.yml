@@ -312,5 +312,7 @@
 - pkg:composer/moov/moov-php@v26.4.4
 - pkg:composer/moov/moov-php@v26.4.5
 - pkg:composer/moov/moov-php@v26.4.6
+- pkg:composer/moov/moov-php@v26.4.7
 - pkg:composer/moov/moov-php@v26.7.0-beta.0
 - pkg:composer/moov/moov-php@v26.7.0-beta.1
+- pkg:composer/moov/moov-php@v26.7.0-beta.2
