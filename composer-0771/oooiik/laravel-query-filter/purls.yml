@@ -5,3 +5,4 @@
 - pkg:composer/oooiik/laravel-query-filter@1.1.3
 - pkg:composer/oooiik/laravel-query-filter@1.2.0
 - pkg:composer/oooiik/laravel-query-filter@1.2.1
+- pkg:composer/oooiik/laravel-query-filter@1.3.0
