@@ -944,6 +944,8 @@
 - pkg:composer/linlic/rpc@v9.3.31
 - pkg:composer/linlic/rpc@v9.3.310
 - pkg:composer/linlic/rpc@v9.3.311
+- pkg:composer/linlic/rpc@v9.3.312
+- pkg:composer/linlic/rpc@v9.3.313
 - pkg:composer/linlic/rpc@v9.3.32
 - pkg:composer/linlic/rpc@v9.3.33
 - pkg:composer/linlic/rpc@v9.3.34
