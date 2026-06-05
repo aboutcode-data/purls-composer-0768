@@ -9,6 +9,7 @@
 - pkg:composer/onfido/onfido-php@1.6.0
 - pkg:composer/onfido/onfido-php@10.0.0
 - pkg:composer/onfido/onfido-php@10.1.0
+- pkg:composer/onfido/onfido-php@10.2.0
 - pkg:composer/onfido/onfido-php@2.0.0
 - pkg:composer/onfido/onfido-php@2.1.0
 - pkg:composer/onfido/onfido-php@3.0.0
