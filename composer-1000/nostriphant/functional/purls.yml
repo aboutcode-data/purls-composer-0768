@@ -17,3 +17,6 @@
 - pkg:composer/nostriphant/functional@2.5.5
 - pkg:composer/nostriphant/functional@2.6.0
 - pkg:composer/nostriphant/functional@2.6.1
+- pkg:composer/nostriphant/functional@2.6.2
+- pkg:composer/nostriphant/functional@2.6.3
+- pkg:composer/nostriphant/functional@2.6.4
