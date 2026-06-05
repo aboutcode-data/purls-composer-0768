@@ -6,6 +6,9 @@
 - pkg:composer/opfaff/om-cookie-manager@12.0.0
 - pkg:composer/opfaff/om-cookie-manager@12.0.1
 - pkg:composer/opfaff/om-cookie-manager@12.1.0
+- pkg:composer/opfaff/om-cookie-manager@13.2.0
+- pkg:composer/opfaff/om-cookie-manager@14.0.0
+- pkg:composer/opfaff/om-cookie-manager@14.0.1
 - pkg:composer/opfaff/om-cookie-manager@9.1.0
 - pkg:composer/opfaff/om-cookie-manager@9.2.0
 - pkg:composer/opfaff/om-cookie-manager@9.2.1
