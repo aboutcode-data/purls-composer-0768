@@ -142,6 +142,8 @@
 - pkg:composer/melisplatform/melis-core@v5.3.31
 - pkg:composer/melisplatform/melis-core@v5.3.32
 - pkg:composer/melisplatform/melis-core@v5.3.33
+- pkg:composer/melisplatform/melis-core@v5.3.34
+- pkg:composer/melisplatform/melis-core@v5.3.35
 - pkg:composer/melisplatform/melis-core@v5.3.4
 - pkg:composer/melisplatform/melis-core@v5.3.5
 - pkg:composer/melisplatform/melis-core@v5.3.6
