@@ -1,0 +1,2 @@
+- pkg:composer/php-standard-library/http-client@6.2.0
+- pkg:composer/php-standard-library/http-client@6.2.1
