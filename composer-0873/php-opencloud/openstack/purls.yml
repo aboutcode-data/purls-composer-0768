@@ -40,6 +40,7 @@
 - pkg:composer/php-opencloud/openstack@v3.15.0
 - pkg:composer/php-opencloud/openstack@v3.16.0
 - pkg:composer/php-opencloud/openstack@v3.16.1
+- pkg:composer/php-opencloud/openstack@v3.17.0
 - pkg:composer/php-opencloud/openstack@v3.2.0
 - pkg:composer/php-opencloud/openstack@v3.2.1
 - pkg:composer/php-opencloud/openstack@v3.2.2
