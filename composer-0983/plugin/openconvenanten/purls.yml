@@ -12,6 +12,7 @@
 - pkg:composer/plugin/openconvenanten@v1.1.1
 - pkg:composer/plugin/openconvenanten@v1.2
 - pkg:composer/plugin/openconvenanten@v1.2.1
+- pkg:composer/plugin/openconvenanten@v1.2.10
 - pkg:composer/plugin/openconvenanten@v1.2.2
 - pkg:composer/plugin/openconvenanten@v1.2.3
 - pkg:composer/plugin/openconvenanten@v1.2.4
