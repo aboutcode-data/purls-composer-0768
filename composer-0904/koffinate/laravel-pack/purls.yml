@@ -45,3 +45,4 @@
 - pkg:composer/koffinate/laravel-pack@v0.3.6
 - pkg:composer/koffinate/laravel-pack@v0.3.7
 - pkg:composer/koffinate/laravel-pack@v0.3.8
+- pkg:composer/koffinate/laravel-pack@v0.3.9
