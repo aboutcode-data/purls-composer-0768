@@ -45,6 +45,11 @@
 - pkg:composer/pipedrive/pipedrive@15.6.0
 - pkg:composer/pipedrive/pipedrive@15.7.0
 - pkg:composer/pipedrive/pipedrive@16.0.0
+- pkg:composer/pipedrive/pipedrive@17.0.0
+- pkg:composer/pipedrive/pipedrive@17.1.0
+- pkg:composer/pipedrive/pipedrive@17.2.0
+- pkg:composer/pipedrive/pipedrive@17.2.1
+- pkg:composer/pipedrive/pipedrive@17.3.0
 - pkg:composer/pipedrive/pipedrive@2.0.0
 - pkg:composer/pipedrive/pipedrive@2.1.0
 - pkg:composer/pipedrive/pipedrive@3.0.0
