@@ -34,3 +34,5 @@
 - pkg:composer/plott/plottcore-wordpress-no-content@6.9.0
 - pkg:composer/plott/plottcore-wordpress-no-content@6.9.1
 - pkg:composer/plott/plottcore-wordpress-no-content@6.9.4
+- pkg:composer/plott/plottcore-wordpress-no-content@7.0
+- pkg:composer/plott/plottcore-wordpress-no-content@7.0.2
