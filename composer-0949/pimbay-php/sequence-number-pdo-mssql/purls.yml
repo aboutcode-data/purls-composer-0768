@@ -1,1 +1,2 @@
 - pkg:composer/pimbay-php/sequence-number-pdo-mssql@v1.0.0
+- pkg:composer/pimbay-php/sequence-number-pdo-mssql@v1.0.1

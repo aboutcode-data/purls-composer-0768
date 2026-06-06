@@ -1,1 +1,2 @@
 - pkg:composer/pimbay/sequence-number-sql@v1.0.0
+- pkg:composer/pimbay/sequence-number-sql@v1.0.1
