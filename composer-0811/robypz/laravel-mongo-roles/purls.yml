@@ -3,3 +3,4 @@
 - pkg:composer/robypz/laravel-mongo-roles@1.0.2
 - pkg:composer/robypz/laravel-mongo-roles@1.0.3
 - pkg:composer/robypz/laravel-mongo-roles@2.0.0
+- pkg:composer/robypz/laravel-mongo-roles@3.0.0
