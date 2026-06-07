@@ -17,3 +17,5 @@
 - pkg:composer/saade/filament-adjacency-list@v4.0.0-beta3
 - pkg:composer/saade/filament-adjacency-list@v4.0.1
 - pkg:composer/saade/filament-adjacency-list@v4.0.2
+- pkg:composer/saade/filament-adjacency-list@v4.0.3
+- pkg:composer/saade/filament-adjacency-list@v4.1.0
