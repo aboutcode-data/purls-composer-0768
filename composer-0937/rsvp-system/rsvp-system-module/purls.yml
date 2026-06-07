@@ -90,6 +90,9 @@
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.144
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.145
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.146
+- pkg:composer/rsvp-system/rsvp-system-module@v1.0.147
+- pkg:composer/rsvp-system/rsvp-system-module@v1.0.148
+- pkg:composer/rsvp-system/rsvp-system-module@v1.0.149
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.30
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.31
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.32
@@ -141,3 +144,15 @@
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.97
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.98
 - pkg:composer/rsvp-system/rsvp-system-module@v1.0.99
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.55
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.56
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.57
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.58
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.59
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.60
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.61
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.62
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.63
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.64
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.65
+- pkg:composer/rsvp-system/rsvp-system-module@v1.1.66
