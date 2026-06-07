@@ -17,3 +17,4 @@
 - pkg:composer/run-as-root/magento2-prometheus-exporter@3.2.5
 - pkg:composer/run-as-root/magento2-prometheus-exporter@3.2.6
 - pkg:composer/run-as-root/magento2-prometheus-exporter@4.0.0
+- pkg:composer/run-as-root/magento2-prometheus-exporter@4.1.0
