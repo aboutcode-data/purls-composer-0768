@@ -31,3 +31,5 @@
 - pkg:composer/rogierw/letsencrypt-client@5.0.0
 - pkg:composer/rogierw/letsencrypt-client@6.0.0
 - pkg:composer/rogierw/letsencrypt-client@6.0.1
+- pkg:composer/rogierw/letsencrypt-client@6.0.2
+- pkg:composer/rogierw/letsencrypt-client@6.1.0
