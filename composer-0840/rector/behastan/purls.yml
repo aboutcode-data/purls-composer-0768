@@ -32,3 +32,11 @@
 - pkg:composer/rector/behastan@0.6.7
 - pkg:composer/rector/behastan@0.6.8
 - pkg:composer/rector/behastan@0.6.9
+- pkg:composer/rector/behastan@0.7.0
+- pkg:composer/rector/behastan@0.7.1
+- pkg:composer/rector/behastan@0.8.0
+- pkg:composer/rector/behastan@0.8.1
+- pkg:composer/rector/behastan@0.8.2
+- pkg:composer/rector/behastan@0.8.3
+- pkg:composer/rector/behastan@0.8.4
+- pkg:composer/rector/behastan@0.8.5
