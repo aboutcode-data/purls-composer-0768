@@ -99,3 +99,4 @@
 - pkg:composer/prettus/l5-repository@2.9.1
 - pkg:composer/prettus/l5-repository@3.0.0
 - pkg:composer/prettus/l5-repository@3.0.1
+- pkg:composer/prettus/l5-repository@4.0.0
