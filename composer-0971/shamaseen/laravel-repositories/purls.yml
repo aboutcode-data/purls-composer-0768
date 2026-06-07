@@ -54,3 +54,7 @@
 - pkg:composer/shamaseen/laravel-repositories@3.0.4
 - pkg:composer/shamaseen/laravel-repositories@3.0.5
 - pkg:composer/shamaseen/laravel-repositories@3.0.6
+- pkg:composer/shamaseen/laravel-repositories@3.0.7
+- pkg:composer/shamaseen/laravel-repositories@4.0.0
+- pkg:composer/shamaseen/laravel-repositories@4.0.1
+- pkg:composer/shamaseen/laravel-repositories@4.1.0
