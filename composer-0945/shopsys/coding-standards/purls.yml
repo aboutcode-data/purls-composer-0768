@@ -23,6 +23,7 @@
 - pkg:composer/shopsys/coding-standards@v17.0.0
 - pkg:composer/shopsys/coding-standards@v17.0.1
 - pkg:composer/shopsys/coding-standards@v18.0.0
+- pkg:composer/shopsys/coding-standards@v19.0.0
 - pkg:composer/shopsys/coding-standards@v2.0.0
 - pkg:composer/shopsys/coding-standards@v2.0.1
 - pkg:composer/shopsys/coding-standards@v3.0.0
