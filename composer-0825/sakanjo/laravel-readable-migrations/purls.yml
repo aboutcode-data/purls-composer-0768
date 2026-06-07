@@ -1,3 +1,4 @@
 - pkg:composer/sakanjo/laravel-readable-migrations@v1.0.0
 - pkg:composer/sakanjo/laravel-readable-migrations@v1.0.1
 - pkg:composer/sakanjo/laravel-readable-migrations@v1.0.2
+- pkg:composer/sakanjo/laravel-readable-migrations@v1.0.3
