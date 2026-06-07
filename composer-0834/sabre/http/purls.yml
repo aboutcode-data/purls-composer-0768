@@ -51,10 +51,12 @@
 - pkg:composer/sabre/http@6.0.2
 - pkg:composer/sabre/http@6.0.3
 - pkg:composer/sabre/http@6.0.4
+- pkg:composer/sabre/http@6.0.5
 - pkg:composer/sabre/http@7.0.0
 - pkg:composer/sabre/http@7.0.1
 - pkg:composer/sabre/http@7.0.2
 - pkg:composer/sabre/http@7.0.3
 - pkg:composer/sabre/http@7.0.4
 - pkg:composer/sabre/http@7.0.5
+- pkg:composer/sabre/http@7.0.6
 - pkg:composer/sabre/http@v4.2.4
