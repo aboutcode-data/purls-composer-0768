@@ -9,3 +9,6 @@
 - pkg:composer/qrcommunication/viva-isv-sdk@v1.4.0
 - pkg:composer/qrcommunication/viva-isv-sdk@v1.5.0
 - pkg:composer/qrcommunication/viva-isv-sdk@v1.6.0
+- pkg:composer/qrcommunication/viva-isv-sdk@v1.7.0
+- pkg:composer/qrcommunication/viva-isv-sdk@v1.7.1
+- pkg:composer/qrcommunication/viva-isv-sdk@v1.7.2

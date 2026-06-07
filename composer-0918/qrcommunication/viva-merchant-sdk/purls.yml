@@ -13,3 +13,4 @@
 - pkg:composer/qrcommunication/viva-merchant-sdk@v1.5.1
 - pkg:composer/qrcommunication/viva-merchant-sdk@v1.5.2
 - pkg:composer/qrcommunication/viva-merchant-sdk@v1.5.3
+- pkg:composer/qrcommunication/viva-merchant-sdk@v1.6.0
