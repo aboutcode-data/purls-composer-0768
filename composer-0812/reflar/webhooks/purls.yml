@@ -36,6 +36,10 @@
 - pkg:composer/reflar/webhooks@1.3.1
 - pkg:composer/reflar/webhooks@1.3.2
 - pkg:composer/reflar/webhooks@1.3.3
+- pkg:composer/reflar/webhooks@1.3.4
+- pkg:composer/reflar/webhooks@1.3.5
 - pkg:composer/reflar/webhooks@2.0.0-beta.1
+- pkg:composer/reflar/webhooks@2.0.0-beta.2
+- pkg:composer/reflar/webhooks@2.0.0-beta.3
 - pkg:composer/reflar/webhooks@v0.1.0
 - pkg:composer/reflar/webhooks@v0.1.1
