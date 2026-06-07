@@ -24,6 +24,7 @@
 - pkg:composer/rezozero/fsirius-sdk-v1@8.2.21
 - pkg:composer/rezozero/fsirius-sdk-v1@8.2.22
 - pkg:composer/rezozero/fsirius-sdk-v1@8.2.24
+- pkg:composer/rezozero/fsirius-sdk-v1@8.2.25
 - pkg:composer/rezozero/fsirius-sdk-v1@9.1.10
 - pkg:composer/rezozero/fsirius-sdk-v1@9.1.11
 - pkg:composer/rezozero/fsirius-sdk-v1@9.1.12
@@ -40,3 +41,16 @@
 - pkg:composer/rezozero/fsirius-sdk-v1@9.1.8
 - pkg:composer/rezozero/fsirius-sdk-v1@9.1.9
 - pkg:composer/rezozero/fsirius-sdk-v1@9.2.0
+- pkg:composer/rezozero/fsirius-sdk-v1@9.2.1
+- pkg:composer/rezozero/fsirius-sdk-v1@9.2.2
+- pkg:composer/rezozero/fsirius-sdk-v1@9.2.3
+- pkg:composer/rezozero/fsirius-sdk-v1@9.2.4
+- pkg:composer/rezozero/fsirius-sdk-v1@9.2.5
+- pkg:composer/rezozero/fsirius-sdk-v1@9.2.6
+- pkg:composer/rezozero/fsirius-sdk-v1@9.2.7
+- pkg:composer/rezozero/fsirius-sdk-v1@9.2.8
+- pkg:composer/rezozero/fsirius-sdk-v1@9.3.0
+- pkg:composer/rezozero/fsirius-sdk-v1@9.3.1
+- pkg:composer/rezozero/fsirius-sdk-v1@9.3.2
+- pkg:composer/rezozero/fsirius-sdk-v1@9.3.4
+- pkg:composer/rezozero/fsirius-sdk-v1@9.3.5
