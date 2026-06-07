@@ -1,3 +1,7 @@
+- pkg:composer/semitexa/core@1.1.61
+- pkg:composer/semitexa/core@1.1.62
+- pkg:composer/semitexa/core@1.1.63
+- pkg:composer/semitexa/core@1.1.64
 - pkg:composer/semitexa/core@2026.04.03.1207
 - pkg:composer/semitexa/core@2026.04.03.1240
 - pkg:composer/semitexa/core@2026.04.03.1349
@@ -23,3 +27,6 @@
 - pkg:composer/semitexa/core@2026.04.23.0637
 - pkg:composer/semitexa/core@2026.04.26.0639
 - pkg:composer/semitexa/core@2026.05.08.1640
+- pkg:composer/semitexa/core@2026.05.18.1642
+- pkg:composer/semitexa/core@2026.05.19.1709
+- pkg:composer/semitexa/core@2026.05.24.0646
