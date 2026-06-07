@@ -49,3 +49,4 @@
 - pkg:composer/revolution/laravel-nostr@1.1.8
 - pkg:composer/revolution/laravel-nostr@1.1.9
 - pkg:composer/revolution/laravel-nostr@1.2.0
+- pkg:composer/revolution/laravel-nostr@1.2.1
