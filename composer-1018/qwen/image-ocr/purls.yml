@@ -1,2 +1,3 @@
 - pkg:composer/qwen/image-ocr@v0.0.1
 - pkg:composer/qwen/image-ocr@v0.0.2
+- pkg:composer/qwen/image-ocr@v0.0.3
