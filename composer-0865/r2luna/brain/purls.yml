@@ -40,7 +40,9 @@
 - pkg:composer/r2luna/brain@3.8.1
 - pkg:composer/r2luna/brain@3.9.0
 - pkg:composer/r2luna/brain@3.9.1
+- pkg:composer/r2luna/brain@3.9.2
 - pkg:composer/r2luna/brain@4.0.0
 - pkg:composer/r2luna/brain@4.0.1
 - pkg:composer/r2luna/brain@4.1.0
+- pkg:composer/r2luna/brain@4.1.1
 - pkg:composer/r2luna/brain@v3.0.0
