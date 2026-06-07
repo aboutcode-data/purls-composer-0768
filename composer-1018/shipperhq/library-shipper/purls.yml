@@ -41,6 +41,7 @@
 - pkg:composer/shipperhq/library-shipper@20.19.0
 - pkg:composer/shipperhq/library-shipper@20.19.1
 - pkg:composer/shipperhq/library-shipper@20.19.2
+- pkg:composer/shipperhq/library-shipper@20.19.3
 - pkg:composer/shipperhq/library-shipper@20.2.0
 - pkg:composer/shipperhq/library-shipper@20.3.0
 - pkg:composer/shipperhq/library-shipper@20.3.1
