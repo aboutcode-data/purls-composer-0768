@@ -9,3 +9,4 @@
 - pkg:composer/ratchet/rfc6455@v0.3
 - pkg:composer/ratchet/rfc6455@v0.3.1
 - pkg:composer/ratchet/rfc6455@v0.4.0
+- pkg:composer/ratchet/rfc6455@v0.4.1
