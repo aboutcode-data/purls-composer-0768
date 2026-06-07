@@ -27,3 +27,4 @@
 - pkg:composer/sebdesign/artisan-cloudflare@v2.6.0
 - pkg:composer/sebdesign/artisan-cloudflare@v2.7.0
 - pkg:composer/sebdesign/artisan-cloudflare@v2.8.0
+- pkg:composer/sebdesign/artisan-cloudflare@v2.9.0
