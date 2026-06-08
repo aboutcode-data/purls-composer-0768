@@ -10,6 +10,9 @@
 - pkg:composer/smartassert/worker-manager-client@10.3
 - pkg:composer/smartassert/worker-manager-client@11.0
 - pkg:composer/smartassert/worker-manager-client@12.0
+- pkg:composer/smartassert/worker-manager-client@13.0
+- pkg:composer/smartassert/worker-manager-client@14.0
+- pkg:composer/smartassert/worker-manager-client@15.0
 - pkg:composer/smartassert/worker-manager-client@2.0
 - pkg:composer/smartassert/worker-manager-client@2.1
 - pkg:composer/smartassert/worker-manager-client@2.2
