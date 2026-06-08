@@ -13,3 +13,4 @@
 - pkg:composer/soap/laravel-workflow-loader@v0.1.1
 - pkg:composer/soap/laravel-workflow-loader@v0.1.2
 - pkg:composer/soap/laravel-workflow-loader@v0.2.1
+- pkg:composer/soap/laravel-workflow-loader@v0.2.2
