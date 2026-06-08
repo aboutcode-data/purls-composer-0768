@@ -2,3 +2,4 @@
 - pkg:composer/steadfast-collective/laravel-system-log@v1.1
 - pkg:composer/steadfast-collective/laravel-system-log@v1.2
 - pkg:composer/steadfast-collective/laravel-system-log@v1.3
+- pkg:composer/steadfast-collective/laravel-system-log@v1.4
