@@ -39,6 +39,7 @@
 - pkg:composer/spryker/price-product-storage@4.14.0
 - pkg:composer/spryker/price-product-storage@4.15.0
 - pkg:composer/spryker/price-product-storage@4.16.0
+- pkg:composer/spryker/price-product-storage@4.17.0
 - pkg:composer/spryker/price-product-storage@4.2.0
 - pkg:composer/spryker/price-product-storage@4.3.0
 - pkg:composer/spryker/price-product-storage@4.4.0
