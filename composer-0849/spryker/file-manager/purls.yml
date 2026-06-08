@@ -15,3 +15,4 @@
 - pkg:composer/spryker/file-manager@2.6.0
 - pkg:composer/spryker/file-manager@2.7.0
 - pkg:composer/spryker/file-manager@2.8.0
+- pkg:composer/spryker/file-manager@2.9.0
