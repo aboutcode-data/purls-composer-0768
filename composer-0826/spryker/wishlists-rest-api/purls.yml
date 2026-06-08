@@ -22,3 +22,5 @@
 - pkg:composer/spryker/wishlists-rest-api@1.6.1
 - pkg:composer/spryker/wishlists-rest-api@1.6.2
 - pkg:composer/spryker/wishlists-rest-api@1.7.0
+- pkg:composer/spryker/wishlists-rest-api@1.8.0
+- pkg:composer/spryker/wishlists-rest-api@1.9.0
