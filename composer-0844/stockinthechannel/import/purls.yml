@@ -190,3 +190,4 @@
 - pkg:composer/stockinthechannel/import@v4.4.0
 - pkg:composer/stockinthechannel/import@v4.5.0
 - pkg:composer/stockinthechannel/import@v4.6.0
+- pkg:composer/stockinthechannel/import@v4.6.1
