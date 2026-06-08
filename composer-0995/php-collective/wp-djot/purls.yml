@@ -22,6 +22,7 @@
 - pkg:composer/php-collective/wp-djot@1.5.13
 - pkg:composer/php-collective/wp-djot@1.5.14
 - pkg:composer/php-collective/wp-djot@1.5.15
+- pkg:composer/php-collective/wp-djot@1.5.16
 - pkg:composer/php-collective/wp-djot@1.5.2
 - pkg:composer/php-collective/wp-djot@1.5.3
 - pkg:composer/php-collective/wp-djot@1.5.4
