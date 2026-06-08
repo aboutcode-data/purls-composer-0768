@@ -55,6 +55,7 @@
 - pkg:composer/spatie/schema-org@3.22.0
 - pkg:composer/spatie/schema-org@3.23.0
 - pkg:composer/spatie/schema-org@3.23.1
+- pkg:composer/spatie/schema-org@3.23.2
 - pkg:composer/spatie/schema-org@3.3.0
 - pkg:composer/spatie/schema-org@3.4.0
 - pkg:composer/spatie/schema-org@3.5.0
