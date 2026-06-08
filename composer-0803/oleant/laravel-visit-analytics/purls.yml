@@ -9,3 +9,5 @@
 - pkg:composer/oleant/laravel-visit-analytics@v2.4.0
 - pkg:composer/oleant/laravel-visit-analytics@v2.5.0
 - pkg:composer/oleant/laravel-visit-analytics@v2.5.1
+- pkg:composer/oleant/laravel-visit-analytics@v2.5.2
+- pkg:composer/oleant/laravel-visit-analytics@v2.5.3
