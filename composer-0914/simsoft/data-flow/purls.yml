@@ -10,3 +10,6 @@
 - pkg:composer/simsoft/data-flow@1.0.7
 - pkg:composer/simsoft/data-flow@1.0.8
 - pkg:composer/simsoft/data-flow@1.0.9
+- pkg:composer/simsoft/data-flow@2.0.0
+- pkg:composer/simsoft/data-flow@2.0.1
+- pkg:composer/simsoft/data-flow@2.0.2
