@@ -39,3 +39,4 @@
 - pkg:composer/ssch/typo3-encore@v5.0.7
 - pkg:composer/ssch/typo3-encore@v6.0.0
 - pkg:composer/ssch/typo3-encore@v6.0.1
+- pkg:composer/ssch/typo3-encore@v7.0.0
