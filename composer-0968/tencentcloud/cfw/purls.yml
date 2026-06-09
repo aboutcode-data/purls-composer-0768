@@ -415,6 +415,10 @@
 - pkg:composer/tencentcloud/cfw@3.0.1579
 - pkg:composer/tencentcloud/cfw@3.0.1585
 - pkg:composer/tencentcloud/cfw@3.0.1587
+- pkg:composer/tencentcloud/cfw@3.0.1592
+- pkg:composer/tencentcloud/cfw@3.0.1596
+- pkg:composer/tencentcloud/cfw@3.0.1601
+- pkg:composer/tencentcloud/cfw@3.0.1602
 - pkg:composer/tencentcloud/cfw@3.0.264
 - pkg:composer/tencentcloud/cfw@3.0.265
 - pkg:composer/tencentcloud/cfw@3.0.266
