@@ -31,6 +31,7 @@
 - pkg:composer/phpolygon/php-vio@1.17.0
 - pkg:composer/phpolygon/php-vio@1.18.0
 - pkg:composer/phpolygon/php-vio@1.19.0
+- pkg:composer/phpolygon/php-vio@1.19.1
 - pkg:composer/phpolygon/php-vio@1.2.0
 - pkg:composer/phpolygon/php-vio@1.2.1
 - pkg:composer/phpolygon/php-vio@1.2.5
