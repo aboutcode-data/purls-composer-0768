@@ -2,3 +2,5 @@
 - pkg:composer/ufo-tech/dto-transformer@2.0.6
 - pkg:composer/ufo-tech/dto-transformer@2.1.0
 - pkg:composer/ufo-tech/dto-transformer@2.1.1
+- pkg:composer/ufo-tech/dto-transformer@3.0.0
+- pkg:composer/ufo-tech/dto-transformer@3.0.1
