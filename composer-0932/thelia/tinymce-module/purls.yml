@@ -57,3 +57,4 @@
 - pkg:composer/thelia/tinymce-module@2.5.4
 - pkg:composer/thelia/tinymce-module@2.5.5
 - pkg:composer/thelia/tinymce-module@2.6.0
+- pkg:composer/thelia/tinymce-module@2.6.1
