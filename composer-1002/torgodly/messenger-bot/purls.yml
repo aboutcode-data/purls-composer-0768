@@ -1,3 +1,5 @@
+- pkg:composer/torgodly/messenger-bot@2.1.0
+- pkg:composer/torgodly/messenger-bot@2.2.0
 - pkg:composer/torgodly/messenger-bot@v1.0.0
 - pkg:composer/torgodly/messenger-bot@v1.0.1
 - pkg:composer/torgodly/messenger-bot@v1.1.1
