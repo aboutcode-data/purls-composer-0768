@@ -43,4 +43,5 @@
 - pkg:composer/sulfur/manager@1.1.6
 - pkg:composer/sulfur/manager@1.1.7
 - pkg:composer/sulfur/manager@1.1.8
+- pkg:composer/sulfur/manager@1.2.0
 - pkg:composer/sulfur/manager@v1.0.0
