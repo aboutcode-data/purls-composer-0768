@@ -42,4 +42,6 @@
 - pkg:composer/tamara-solution/php-sdk@2.0.5
 - pkg:composer/tamara-solution/php-sdk@2.0.6
 - pkg:composer/tamara-solution/php-sdk@2.0.7
+- pkg:composer/tamara-solution/php-sdk@2.0.8
+- pkg:composer/tamara-solution/php-sdk@3.0.0
 - pkg:composer/tamara-solution/php-sdk@v1.0.0
