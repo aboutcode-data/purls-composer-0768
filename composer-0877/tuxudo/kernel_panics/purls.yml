@@ -9,3 +9,6 @@
 - pkg:composer/tuxudo/kernel_panics@v2.0
 - pkg:composer/tuxudo/kernel_panics@v3.0
 - pkg:composer/tuxudo/kernel_panics@v3.0b1
+- pkg:composer/tuxudo/kernel_panics@v3.1
+- pkg:composer/tuxudo/kernel_panics@v3.2
+- pkg:composer/tuxudo/kernel_panics@v3.3
