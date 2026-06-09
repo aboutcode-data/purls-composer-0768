@@ -16,3 +16,4 @@
 - pkg:composer/umbrellio/php-deploy@3.0.0
 - pkg:composer/umbrellio/php-deploy@4.0.0
 - pkg:composer/umbrellio/php-deploy@4.0.1
+- pkg:composer/umbrellio/php-deploy@5.0.0
