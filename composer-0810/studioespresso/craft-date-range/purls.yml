@@ -24,3 +24,4 @@
 - pkg:composer/studioespresso/craft-date-range@5.0.0-beta.3
 - pkg:composer/studioespresso/craft-date-range@5.0.0-beta.4
 - pkg:composer/studioespresso/craft-date-range@5.1.0
+- pkg:composer/studioespresso/craft-date-range@6.0.0-alpha.1
