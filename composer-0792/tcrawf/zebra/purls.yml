@@ -17,3 +17,4 @@
 - pkg:composer/tcrawf/zebra@1.6.2-alpha
 - pkg:composer/tcrawf/zebra@1.6.3-alpha
 - pkg:composer/tcrawf/zebra@1.7.0-alpha
+- pkg:composer/tcrawf/zebra@v1.0.0
