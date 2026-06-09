@@ -3,3 +3,4 @@
 - pkg:composer/sunspikes/php-ratelimiter@v1.2
 - pkg:composer/sunspikes/php-ratelimiter@v1.2.1
 - pkg:composer/sunspikes/php-ratelimiter@v1.3.0
+- pkg:composer/sunspikes/php-ratelimiter@v2.0
