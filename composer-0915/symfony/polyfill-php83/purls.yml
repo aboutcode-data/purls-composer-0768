@@ -9,3 +9,6 @@
 - pkg:composer/symfony/polyfill-php83@v1.35.0
 - pkg:composer/symfony/polyfill-php83@v1.36.0
 - pkg:composer/symfony/polyfill-php83@v1.37.0
+- pkg:composer/symfony/polyfill-php83@v1.38.0
+- pkg:composer/symfony/polyfill-php83@v1.38.1
+- pkg:composer/symfony/polyfill-php83@v1.38.2
