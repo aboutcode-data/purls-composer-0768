@@ -3,3 +3,4 @@
 - pkg:composer/sunkan/aws-auth-policy@0.3.0
 - pkg:composer/sunkan/aws-auth-policy@0.4.0
 - pkg:composer/sunkan/aws-auth-policy@1.0.0
+- pkg:composer/sunkan/aws-auth-policy@1.1.0
