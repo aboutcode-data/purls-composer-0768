@@ -3,3 +3,4 @@
 - pkg:composer/swoole-bundle/resetter-bundle@1.1.1
 - pkg:composer/swoole-bundle/resetter-bundle@1.2.0
 - pkg:composer/swoole-bundle/resetter-bundle@2.0.0
+- pkg:composer/swoole-bundle/resetter-bundle@2.0.1
