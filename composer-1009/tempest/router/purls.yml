@@ -52,6 +52,13 @@
 - pkg:composer/tempest/router@v3.0.2
 - pkg:composer/tempest/router@v3.1.0
 - pkg:composer/tempest/router@v3.10.0
+- pkg:composer/tempest/router@v3.11.0
+- pkg:composer/tempest/router@v3.11.1
+- pkg:composer/tempest/router@v3.11.2
+- pkg:composer/tempest/router@v3.11.3
+- pkg:composer/tempest/router@v3.11.4
+- pkg:composer/tempest/router@v3.11.5
+- pkg:composer/tempest/router@v3.11.6
 - pkg:composer/tempest/router@v3.2.0
 - pkg:composer/tempest/router@v3.2.1
 - pkg:composer/tempest/router@v3.3.0
