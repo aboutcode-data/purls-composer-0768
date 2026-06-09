@@ -8,3 +8,4 @@
 - pkg:composer/relayercore/laravel-installer@v1.2.1
 - pkg:composer/relayercore/laravel-installer@v1.3.0
 - pkg:composer/relayercore/laravel-installer@v1.4.0
+- pkg:composer/relayercore/laravel-installer@v1.5.0
