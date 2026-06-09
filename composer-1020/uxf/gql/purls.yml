@@ -229,7 +229,11 @@
 - pkg:composer/uxf/gql@3.78.8
 - pkg:composer/uxf/gql@3.79.0
 - pkg:composer/uxf/gql@3.79.2
+- pkg:composer/uxf/gql@3.79.3
 - pkg:composer/uxf/gql@3.8.0
 - pkg:composer/uxf/gql@3.8.1
 - pkg:composer/uxf/gql@3.8.2
+- pkg:composer/uxf/gql@3.80.0
+- pkg:composer/uxf/gql@3.80.1
+- pkg:composer/uxf/gql@3.80.2
 - pkg:composer/uxf/gql@3.9.2
