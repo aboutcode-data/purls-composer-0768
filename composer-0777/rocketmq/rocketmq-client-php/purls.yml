@@ -54,6 +54,7 @@
 - pkg:composer/rocketmq/rocketmq-client-php@v1.1.59
 - pkg:composer/rocketmq/rocketmq-client-php@v1.1.6
 - pkg:composer/rocketmq/rocketmq-client-php@v1.1.60
+- pkg:composer/rocketmq/rocketmq-client-php@v1.1.61
 - pkg:composer/rocketmq/rocketmq-client-php@v1.1.7
 - pkg:composer/rocketmq/rocketmq-client-php@v1.1.8
 - pkg:composer/rocketmq/rocketmq-client-php@v1.1.9
