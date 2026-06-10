@@ -10,6 +10,8 @@
 - pkg:composer/wpml/fp@0.1.9
 - pkg:composer/wpml/fp@0.2.0
 - pkg:composer/wpml/fp@0.2.1
+- pkg:composer/wpml/fp@0.2.10
+- pkg:composer/wpml/fp@0.2.11
 - pkg:composer/wpml/fp@0.2.2
 - pkg:composer/wpml/fp@0.2.3
 - pkg:composer/wpml/fp@0.2.4
