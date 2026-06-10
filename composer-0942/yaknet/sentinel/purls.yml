@@ -1,2 +1,6 @@
 - pkg:composer/yaknet/sentinel@v1.0.0
 - pkg:composer/yaknet/sentinel@v2.0.0
+- pkg:composer/yaknet/sentinel@v2.1.0
+- pkg:composer/yaknet/sentinel@v2.2.0
+- pkg:composer/yaknet/sentinel@v2.2.1
+- pkg:composer/yaknet/sentinel@v2.3.0
