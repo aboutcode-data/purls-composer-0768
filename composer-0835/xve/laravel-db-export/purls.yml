@@ -8,3 +8,4 @@
 - pkg:composer/xve/laravel-db-export@v1.2.4
 - pkg:composer/xve/laravel-db-export@v1.2.5
 - pkg:composer/xve/laravel-db-export@v1.2.6
+- pkg:composer/xve/laravel-db-export@v1.2.7
