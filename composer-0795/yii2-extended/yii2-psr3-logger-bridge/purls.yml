@@ -82,3 +82,4 @@
 - pkg:composer/yii2-extended/yii2-psr3-logger-bridge@9.0.4
 - pkg:composer/yii2-extended/yii2-psr3-logger-bridge@9.0.5
 - pkg:composer/yii2-extended/yii2-psr3-logger-bridge@9.0.6
+- pkg:composer/yii2-extended/yii2-psr3-logger-bridge@9.0.7
