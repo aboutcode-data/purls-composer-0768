@@ -1,3 +1,12 @@
 - pkg:composer/webman-app/admin@v2.1.7
-- pkg:composer/webman-app/admin@v2.1.8
-- pkg:composer/webman-app/admin@v2.1.9
+- pkg:composer/webman-app/admin@v2.2.1
+- pkg:composer/webman-app/admin@v2.2.2
+- pkg:composer/webman-app/admin@v2.2.3
+- pkg:composer/webman-app/admin@v2.2.4
+- pkg:composer/webman-app/admin@v2.2.5
+- pkg:composer/webman-app/admin@v2.2.6
+- pkg:composer/webman-app/admin@v2.2.7
+- pkg:composer/webman-app/admin@v2.2.8
+- pkg:composer/webman-app/admin@v2.2.9
+- pkg:composer/webman-app/admin@v3.0.0
+- pkg:composer/webman-app/admin@v3.0.1
