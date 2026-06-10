@@ -1,6 +1,7 @@
 - pkg:composer/waguilar33/filament-guardian@v1.0.0
 - pkg:composer/waguilar33/filament-guardian@v1.1.0
 - pkg:composer/waguilar33/filament-guardian@v1.1.1
+- pkg:composer/waguilar33/filament-guardian@v1.10.0
 - pkg:composer/waguilar33/filament-guardian@v1.2.0
 - pkg:composer/waguilar33/filament-guardian@v1.3.0
 - pkg:composer/waguilar33/filament-guardian@v1.4.0
@@ -11,3 +12,6 @@
 - pkg:composer/waguilar33/filament-guardian@v1.8.0
 - pkg:composer/waguilar33/filament-guardian@v1.8.1
 - pkg:composer/waguilar33/filament-guardian@v1.8.2
+- pkg:composer/waguilar33/filament-guardian@v1.8.3
+- pkg:composer/waguilar33/filament-guardian@v1.8.4
+- pkg:composer/waguilar33/filament-guardian@v1.9.0
