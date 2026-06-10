@@ -6,6 +6,7 @@
 - pkg:composer/wp-pay-gateways/paypal@2.2.0
 - pkg:composer/wp-pay-gateways/paypal@2.2.1
 - pkg:composer/wp-pay-gateways/paypal@2.2.2
+- pkg:composer/wp-pay-gateways/paypal@2.4.0
 - pkg:composer/wp-pay-gateways/paypal@v2.3.0
 - pkg:composer/wp-pay-gateways/paypal@v2.3.1
 - pkg:composer/wp-pay-gateways/paypal@v2.3.2
