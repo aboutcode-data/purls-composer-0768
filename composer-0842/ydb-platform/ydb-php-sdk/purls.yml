@@ -25,6 +25,7 @@
 - pkg:composer/ydb-platform/ydb-php-sdk@v1.15.0
 - pkg:composer/ydb-platform/ydb-php-sdk@v1.15.1
 - pkg:composer/ydb-platform/ydb-php-sdk@v1.16.0
+- pkg:composer/ydb-platform/ydb-php-sdk@v1.16.1
 - pkg:composer/ydb-platform/ydb-php-sdk@v1.2.0
 - pkg:composer/ydb-platform/ydb-php-sdk@v1.3.0
 - pkg:composer/ydb-platform/ydb-php-sdk@v1.3.1
