@@ -1,2 +1,4 @@
 - pkg:composer/wwwision/subscription-engine-doctrine@1.0.0
 - pkg:composer/wwwision/subscription-engine-doctrine@1.0.1
+- pkg:composer/wwwision/subscription-engine-doctrine@1.0.3
+- pkg:composer/wwwision/subscription-engine-doctrine@1.1.0
