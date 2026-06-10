@@ -24,6 +24,7 @@
 - pkg:composer/viget/wordpress-site-starter@v1.0.21
 - pkg:composer/viget/wordpress-site-starter@v1.0.22
 - pkg:composer/viget/wordpress-site-starter@v1.0.23
+- pkg:composer/viget/wordpress-site-starter@v1.0.24
 - pkg:composer/viget/wordpress-site-starter@v1.0.3
 - pkg:composer/viget/wordpress-site-starter@v1.0.4
 - pkg:composer/viget/wordpress-site-starter@v1.0.6

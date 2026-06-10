@@ -1,1 +1,2 @@
 - pkg:composer/viest/php-ext-xlswriter-ide-helper@v1.3.6
+- pkg:composer/viest/php-ext-xlswriter-ide-helper@v2.0.0
