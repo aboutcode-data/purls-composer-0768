@@ -1,1 +1,3 @@
+- pkg:composer/zhortein/datatable-bundle@0.3.0-beta.1
 - pkg:composer/zhortein/datatable-bundle@v0.1.0-alpha.1
+- pkg:composer/zhortein/datatable-bundle@v0.2.0-alpha.1
