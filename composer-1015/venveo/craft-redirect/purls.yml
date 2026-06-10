@@ -50,3 +50,4 @@
 - pkg:composer/venveo/craft-redirect@4.0.0-beta.7
 - pkg:composer/venveo/craft-redirect@4.0.0-beta.8
 - pkg:composer/venveo/craft-redirect@5.0.0-beta.1
+- pkg:composer/venveo/craft-redirect@5.0.0-beta.2
