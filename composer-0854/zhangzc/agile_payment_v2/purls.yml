@@ -25,9 +25,12 @@
 - pkg:composer/zhangzc/agile_payment_v2@v0.2.9
 - pkg:composer/zhangzc/agile_payment_v2@v0.3.0
 - pkg:composer/zhangzc/agile_payment_v2@v0.3.1
+- pkg:composer/zhangzc/agile_payment_v2@v0.3.10
 - pkg:composer/zhangzc/agile_payment_v2@v0.3.2
 - pkg:composer/zhangzc/agile_payment_v2@v0.3.3
 - pkg:composer/zhangzc/agile_payment_v2@v0.3.4
 - pkg:composer/zhangzc/agile_payment_v2@v0.3.5
 - pkg:composer/zhangzc/agile_payment_v2@v0.3.6
 - pkg:composer/zhangzc/agile_payment_v2@v0.3.7
+- pkg:composer/zhangzc/agile_payment_v2@v0.3.8
+- pkg:composer/zhangzc/agile_payment_v2@v0.3.9
