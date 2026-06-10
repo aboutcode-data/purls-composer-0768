@@ -230,3 +230,4 @@
 - pkg:composer/wayofdev/laravel-cycle-orm-adapter@v4.8.2
 - pkg:composer/wayofdev/laravel-cycle-orm-adapter@v4.9.0
 - pkg:composer/wayofdev/laravel-cycle-orm-adapter@v5.0.0
+- pkg:composer/wayofdev/laravel-cycle-orm-adapter@v6.0.0
