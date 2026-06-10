@@ -30,3 +30,5 @@
 - pkg:composer/wnx/laravel-backup-restore@v1.9.1
 - pkg:composer/wnx/laravel-backup-restore@v1.9.2
 - pkg:composer/wnx/laravel-backup-restore@v1.9.3
+- pkg:composer/wnx/laravel-backup-restore@v1.9.4
+- pkg:composer/wnx/laravel-backup-restore@v1.9.5
