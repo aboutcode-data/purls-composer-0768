@@ -11,3 +11,4 @@
 - pkg:composer/zidbih/laravel-deadlock@v0.4.1
 - pkg:composer/zidbih/laravel-deadlock@v0.5.0
 - pkg:composer/zidbih/laravel-deadlock@v0.6.0
+- pkg:composer/zidbih/laravel-deadlock@v0.6.1
