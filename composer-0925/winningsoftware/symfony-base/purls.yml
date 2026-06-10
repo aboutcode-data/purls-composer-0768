@@ -12,3 +12,12 @@
 - pkg:composer/winningsoftware/symfony-base@2.1.0
 - pkg:composer/winningsoftware/symfony-base@2.2.0
 - pkg:composer/winningsoftware/symfony-base@2.3.0
+- pkg:composer/winningsoftware/symfony-base@2.3.1
+- pkg:composer/winningsoftware/symfony-base@2.3.2
+- pkg:composer/winningsoftware/symfony-base@2.3.3
+- pkg:composer/winningsoftware/symfony-base@2.3.4
+- pkg:composer/winningsoftware/symfony-base@2.3.5
+- pkg:composer/winningsoftware/symfony-base@2.3.6
+- pkg:composer/winningsoftware/symfony-base@3.0.0
+- pkg:composer/winningsoftware/symfony-base@3.1.0
+- pkg:composer/winningsoftware/symfony-base@3.1.1
