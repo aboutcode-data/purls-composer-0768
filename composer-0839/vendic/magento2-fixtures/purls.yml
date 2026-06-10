@@ -4,6 +4,7 @@
 - pkg:composer/vendic/magento2-fixtures@1.1.4
 - pkg:composer/vendic/magento2-fixtures@1.1.5
 - pkg:composer/vendic/magento2-fixtures@1.2.0
+- pkg:composer/vendic/magento2-fixtures@1.2.1
 - pkg:composer/vendic/magento2-fixtures@v0.1.0
 - pkg:composer/vendic/magento2-fixtures@v0.1.1
 - pkg:composer/vendic/magento2-fixtures@v0.10.0
