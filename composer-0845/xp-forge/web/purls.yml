@@ -89,3 +89,5 @@
 - pkg:composer/xp-forge/web@v4.5.2
 - pkg:composer/xp-forge/web@v4.6.0
 - pkg:composer/xp-forge/web@v4.7.0
+- pkg:composer/xp-forge/web@v4.8.0
+- pkg:composer/xp-forge/web@v4.9.0
