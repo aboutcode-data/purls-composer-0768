@@ -7,3 +7,4 @@
 - pkg:composer/volt-test/php-sdk@1.0.0
 - pkg:composer/volt-test/php-sdk@1.1.0
 - pkg:composer/volt-test/php-sdk@1.1.1
+- pkg:composer/volt-test/php-sdk@1.2.0
