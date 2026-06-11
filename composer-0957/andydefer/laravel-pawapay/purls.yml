@@ -17,3 +17,4 @@
 - pkg:composer/andydefer/laravel-pawapay@0.6.7
 - pkg:composer/andydefer/laravel-pawapay@0.6.8
 - pkg:composer/andydefer/laravel-pawapay@0.7.0
+- pkg:composer/andydefer/laravel-pawapay@v0.7.1
