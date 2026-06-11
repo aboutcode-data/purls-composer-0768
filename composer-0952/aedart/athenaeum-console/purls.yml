@@ -4,6 +4,10 @@
 - pkg:composer/aedart/athenaeum-console@10.3.0
 - pkg:composer/aedart/athenaeum-console@10.4.0
 - pkg:composer/aedart/athenaeum-console@10.5.0
+- pkg:composer/aedart/athenaeum-console@10.6.0
+- pkg:composer/aedart/athenaeum-console@10.7.0
+- pkg:composer/aedart/athenaeum-console@10.8.0
+- pkg:composer/aedart/athenaeum-console@10.9.0
 - pkg:composer/aedart/athenaeum-console@4.0.1
 - pkg:composer/aedart/athenaeum-console@4.1.0
 - pkg:composer/aedart/athenaeum-console@4.2.0
