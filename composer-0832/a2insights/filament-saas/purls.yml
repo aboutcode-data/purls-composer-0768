@@ -12,6 +12,8 @@
 - pkg:composer/a2insights/filament-saas@v1.15.0-beta
 - pkg:composer/a2insights/filament-saas@v1.15.1-beta
 - pkg:composer/a2insights/filament-saas@v1.16.0-beta
+- pkg:composer/a2insights/filament-saas@v1.17.0-beta
+- pkg:composer/a2insights/filament-saas@v1.18.0-beta
 - pkg:composer/a2insights/filament-saas@v1.2.0-beta
 - pkg:composer/a2insights/filament-saas@v1.2.1-beta
 - pkg:composer/a2insights/filament-saas@v1.2.2-beta
