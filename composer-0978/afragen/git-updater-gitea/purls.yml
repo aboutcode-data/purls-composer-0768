@@ -31,3 +31,4 @@
 - pkg:composer/afragen/git-updater-gitea@2.4.3
 - pkg:composer/afragen/git-updater-gitea@2.4.4
 - pkg:composer/afragen/git-updater-gitea@2.5.0
+- pkg:composer/afragen/git-updater-gitea@2.6.0
