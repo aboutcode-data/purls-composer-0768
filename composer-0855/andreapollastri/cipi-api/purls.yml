@@ -1,4 +1,14 @@
 - pkg:composer/andreapollastri/cipi-api@1.0.0
+- pkg:composer/andreapollastri/cipi-api@1.10.0
+- pkg:composer/andreapollastri/cipi-api@1.11.0
+- pkg:composer/andreapollastri/cipi-api@1.11.1
+- pkg:composer/andreapollastri/cipi-api@1.11.2
+- pkg:composer/andreapollastri/cipi-api@1.11.3
+- pkg:composer/andreapollastri/cipi-api@1.11.4
+- pkg:composer/andreapollastri/cipi-api@1.11.5
+- pkg:composer/andreapollastri/cipi-api@1.11.6
+- pkg:composer/andreapollastri/cipi-api@1.11.7
+- pkg:composer/andreapollastri/cipi-api@1.11.8
 - pkg:composer/andreapollastri/cipi-api@1.5
 - pkg:composer/andreapollastri/cipi-api@1.5.1
 - pkg:composer/andreapollastri/cipi-api@1.5.2
@@ -12,3 +22,6 @@
 - pkg:composer/andreapollastri/cipi-api@1.6.7
 - pkg:composer/andreapollastri/cipi-api@1.6.8
 - pkg:composer/andreapollastri/cipi-api@1.6.9
+- pkg:composer/andreapollastri/cipi-api@1.7.0
+- pkg:composer/andreapollastri/cipi-api@1.8.1
+- pkg:composer/andreapollastri/cipi-api@1.9.0
