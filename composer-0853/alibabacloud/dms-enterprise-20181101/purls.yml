@@ -100,3 +100,4 @@
 - pkg:composer/alibabacloud/dms-enterprise-20181101@2.6.1
 - pkg:composer/alibabacloud/dms-enterprise-20181101@2.7.0
 - pkg:composer/alibabacloud/dms-enterprise-20181101@2.8.0
+- pkg:composer/alibabacloud/dms-enterprise-20181101@3.0.0
