@@ -19,3 +19,4 @@
 - pkg:composer/antoinefr/flarum-ext-money@v1.3.0
 - pkg:composer/antoinefr/flarum-ext-money@v1.3.1
 - pkg:composer/antoinefr/flarum-ext-money@v1.4.0
+- pkg:composer/antoinefr/flarum-ext-money@v2.0.0-rc.1
