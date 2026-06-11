@@ -55,6 +55,10 @@
 - pkg:composer/andrevanzuydam/tina4php@3.12.0
 - pkg:composer/andrevanzuydam/tina4php@3.12.1
 - pkg:composer/andrevanzuydam/tina4php@3.12.10
+- pkg:composer/andrevanzuydam/tina4php@3.12.11
+- pkg:composer/andrevanzuydam/tina4php@3.12.12
+- pkg:composer/andrevanzuydam/tina4php@3.12.13
+- pkg:composer/andrevanzuydam/tina4php@3.12.14
 - pkg:composer/andrevanzuydam/tina4php@3.12.2
 - pkg:composer/andrevanzuydam/tina4php@3.12.3
 - pkg:composer/andrevanzuydam/tina4php@3.12.4
@@ -63,6 +67,17 @@
 - pkg:composer/andrevanzuydam/tina4php@3.12.7
 - pkg:composer/andrevanzuydam/tina4php@3.12.8
 - pkg:composer/andrevanzuydam/tina4php@3.12.9
+- pkg:composer/andrevanzuydam/tina4php@3.13.0
+- pkg:composer/andrevanzuydam/tina4php@3.13.1
+- pkg:composer/andrevanzuydam/tina4php@3.13.11
+- pkg:composer/andrevanzuydam/tina4php@3.13.12
+- pkg:composer/andrevanzuydam/tina4php@3.13.13
+- pkg:composer/andrevanzuydam/tina4php@3.13.2
+- pkg:composer/andrevanzuydam/tina4php@3.13.3
+- pkg:composer/andrevanzuydam/tina4php@3.13.4
+- pkg:composer/andrevanzuydam/tina4php@3.13.5
+- pkg:composer/andrevanzuydam/tina4php@3.13.7
+- pkg:composer/andrevanzuydam/tina4php@3.13.9
 - pkg:composer/andrevanzuydam/tina4php@v0.0.070
 - pkg:composer/andrevanzuydam/tina4php@v0.0.10
 - pkg:composer/andrevanzuydam/tina4php@v0.0.100
@@ -444,6 +459,7 @@
 - pkg:composer/andrevanzuydam/tina4php@v3.10.93
 - pkg:composer/andrevanzuydam/tina4php@v3.10.95
 - pkg:composer/andrevanzuydam/tina4php@v3.10.99
+- pkg:composer/andrevanzuydam/tina4php@v3.13.6
 - pkg:composer/andrevanzuydam/tina4php@v3.2.0
 - pkg:composer/andrevanzuydam/tina4php@v3.2.1
 - pkg:composer/andrevanzuydam/tina4php@v3.2.2
