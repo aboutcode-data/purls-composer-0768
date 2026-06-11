@@ -439,6 +439,7 @@
 - pkg:composer/tencentcloud/cynosdb@3.0.1599
 - pkg:composer/tencentcloud/cynosdb@3.0.1600
 - pkg:composer/tencentcloud/cynosdb@3.0.1602
+- pkg:composer/tencentcloud/cynosdb@3.0.1603
 - pkg:composer/tencentcloud/cynosdb@3.0.248
 - pkg:composer/tencentcloud/cynosdb@3.0.249
 - pkg:composer/tencentcloud/cynosdb@3.0.250

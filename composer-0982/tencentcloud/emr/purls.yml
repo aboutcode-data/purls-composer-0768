@@ -431,6 +431,7 @@
 - pkg:composer/tencentcloud/emr@3.0.1584
 - pkg:composer/tencentcloud/emr@3.0.1587
 - pkg:composer/tencentcloud/emr@3.0.1593
+- pkg:composer/tencentcloud/emr@3.0.1603
 - pkg:composer/tencentcloud/emr@3.0.248
 - pkg:composer/tencentcloud/emr@3.0.249
 - pkg:composer/tencentcloud/emr@3.0.250
