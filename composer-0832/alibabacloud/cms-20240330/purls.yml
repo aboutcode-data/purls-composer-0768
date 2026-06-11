@@ -1,4 +1,5 @@
 - pkg:composer/alibabacloud/cms-20240330@1.0.0
+- pkg:composer/alibabacloud/cms-20240330@10.0.0
 - pkg:composer/alibabacloud/cms-20240330@2.0.0
 - pkg:composer/alibabacloud/cms-20240330@2.1.0
 - pkg:composer/alibabacloud/cms-20240330@2.2.0
@@ -43,3 +44,5 @@
 - pkg:composer/alibabacloud/cms-20240330@9.0.1
 - pkg:composer/alibabacloud/cms-20240330@9.1.0
 - pkg:composer/alibabacloud/cms-20240330@9.2.0
+- pkg:composer/alibabacloud/cms-20240330@9.2.1
+- pkg:composer/alibabacloud/cms-20240330@9.2.2
