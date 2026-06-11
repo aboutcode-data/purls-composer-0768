@@ -1,1 +1,4 @@
 - pkg:composer/akira/laravel-commentable@0.1.0
+- pkg:composer/akira/laravel-commentable@v0.2.0
+- pkg:composer/akira/laravel-commentable@v0.2.1
+- pkg:composer/akira/laravel-commentable@v0.3.0
