@@ -450,6 +450,7 @@
 - pkg:composer/tencentcloud/tke@3.0.1594
 - pkg:composer/tencentcloud/tke@3.0.1596
 - pkg:composer/tencentcloud/tke@3.0.1597
+- pkg:composer/tencentcloud/tke@3.0.1603
 - pkg:composer/tencentcloud/tke@3.0.248
 - pkg:composer/tencentcloud/tke@3.0.249
 - pkg:composer/tencentcloud/tke@3.0.250
