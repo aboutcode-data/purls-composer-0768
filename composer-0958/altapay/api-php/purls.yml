@@ -40,6 +40,7 @@
 - pkg:composer/altapay/api-php@3.5.7
 - pkg:composer/altapay/api-php@3.5.8
 - pkg:composer/altapay/api-php@3.5.9
+- pkg:composer/altapay/api-php@3.6.0
 - pkg:composer/altapay/api-php@v1.0
 - pkg:composer/altapay/api-php@v1.1
 - pkg:composer/altapay/api-php@v1.2
