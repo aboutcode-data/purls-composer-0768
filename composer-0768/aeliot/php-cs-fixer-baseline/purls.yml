@@ -9,3 +9,5 @@
 - pkg:composer/aeliot/php-cs-fixer-baseline@v2.1.0
 - pkg:composer/aeliot/php-cs-fixer-baseline@v2.1.1
 - pkg:composer/aeliot/php-cs-fixer-baseline@v2.1.2
+- pkg:composer/aeliot/php-cs-fixer-baseline@v2.1.3
+- pkg:composer/aeliot/php-cs-fixer-baseline@v2.1.4
