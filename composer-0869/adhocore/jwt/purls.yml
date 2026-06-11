@@ -13,3 +13,4 @@
 - pkg:composer/adhocore/jwt@v0.0.6
 - pkg:composer/adhocore/jwt@v0.0.7
 - pkg:composer/adhocore/jwt@v0.1.0
+- pkg:composer/adhocore/jwt@v1.1.4
