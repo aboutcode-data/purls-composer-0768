@@ -23,3 +23,5 @@
 - pkg:composer/berlioz/http-client@v2.5.1
 - pkg:composer/berlioz/http-client@v2.5.2
 - pkg:composer/berlioz/http-client@v3.0.0
+- pkg:composer/berlioz/http-client@v3.1.0
+- pkg:composer/berlioz/http-client@v3.1.1

@@ -4,3 +4,5 @@
 - pkg:composer/berlioz/event-manager@v1.0.0-beta3
 - pkg:composer/berlioz/event-manager@v1.1.0
 - pkg:composer/berlioz/event-manager@v3.0.0
+- pkg:composer/berlioz/event-manager@v3.1.0
+- pkg:composer/berlioz/event-manager@v3.1.1
