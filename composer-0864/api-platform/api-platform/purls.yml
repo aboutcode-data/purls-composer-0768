@@ -2,6 +2,10 @@
 - pkg:composer/api-platform/api-platform@v1.0.0-beta
 - pkg:composer/api-platform/api-platform@v1.0.0-beta.2
 - pkg:composer/api-platform/api-platform@v1.1.0-beta.1
+- pkg:composer/api-platform/api-platform@v10.0.0
+- pkg:composer/api-platform/api-platform@v10.0.1
+- pkg:composer/api-platform/api-platform@v10.0.2
+- pkg:composer/api-platform/api-platform@v10.0.3
 - pkg:composer/api-platform/api-platform@v2.0.0
 - pkg:composer/api-platform/api-platform@v2.0.0-alpha.1
 - pkg:composer/api-platform/api-platform@v2.0.0-alpha.2
