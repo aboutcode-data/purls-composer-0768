@@ -8,3 +8,14 @@
 - pkg:composer/commet/commet-php@v3.1.0
 - pkg:composer/commet/commet-php@v4.0.0
 - pkg:composer/commet/commet-php@v4.1.0
+- pkg:composer/commet/commet-php@v4.2.0
+- pkg:composer/commet/commet-php@v4.3.0
+- pkg:composer/commet/commet-php@v4.5.0
+- pkg:composer/commet/commet-php@v4.6.0
+- pkg:composer/commet/commet-php@v5.0.0
+- pkg:composer/commet/commet-php@v5.2.0
+- pkg:composer/commet/commet-php@v5.3.0
+- pkg:composer/commet/commet-php@v5.4.0
+- pkg:composer/commet/commet-php@v5.5.0
+- pkg:composer/commet/commet-php@v6.0.0
+- pkg:composer/commet/commet-php@v7.0.0
