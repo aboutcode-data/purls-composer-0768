@@ -17,3 +17,4 @@
 - pkg:composer/xini/silverstripe-googleanalytics@5.1.1
 - pkg:composer/xini/silverstripe-googleanalytics@5.1.2
 - pkg:composer/xini/silverstripe-googleanalytics@5.1.3
+- pkg:composer/xini/silverstripe-googleanalytics@6.0.0
