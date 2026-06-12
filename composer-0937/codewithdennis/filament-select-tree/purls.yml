@@ -85,3 +85,5 @@
 - pkg:composer/codewithdennis/filament-select-tree@v4.0.9
 - pkg:composer/codewithdennis/filament-select-tree@v4.1.0
 - pkg:composer/codewithdennis/filament-select-tree@v4.1.1
+- pkg:composer/codewithdennis/filament-select-tree@v4.1.2
+- pkg:composer/codewithdennis/filament-select-tree@v4.2.0
