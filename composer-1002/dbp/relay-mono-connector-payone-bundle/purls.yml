@@ -38,3 +38,4 @@
 - pkg:composer/dbp/relay-mono-connector-payone-bundle@v0.3.6
 - pkg:composer/dbp/relay-mono-connector-payone-bundle@v0.3.7
 - pkg:composer/dbp/relay-mono-connector-payone-bundle@v0.3.8
+- pkg:composer/dbp/relay-mono-connector-payone-bundle@v0.3.9
