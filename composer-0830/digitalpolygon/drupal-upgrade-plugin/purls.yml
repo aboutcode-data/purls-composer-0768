@@ -2,3 +2,4 @@
 - pkg:composer/digitalpolygon/drupal-upgrade-plugin@2.0.0-alpha1
 - pkg:composer/digitalpolygon/drupal-upgrade-plugin@2.0.1-alpha
 - pkg:composer/digitalpolygon/drupal-upgrade-plugin@2.0.2-alpha
+- pkg:composer/digitalpolygon/drupal-upgrade-plugin@2.0.3-alpha
