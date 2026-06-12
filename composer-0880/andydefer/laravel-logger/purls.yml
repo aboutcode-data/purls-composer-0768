@@ -13,3 +13,4 @@
 - pkg:composer/andydefer/laravel-logger@v3.2.4
 - pkg:composer/andydefer/laravel-logger@v3.3.0
 - pkg:composer/andydefer/laravel-logger@v3.4.0
+- pkg:composer/andydefer/laravel-logger@v3.4.1
