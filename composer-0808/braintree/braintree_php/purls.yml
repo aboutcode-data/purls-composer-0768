@@ -130,6 +130,7 @@
 - pkg:composer/braintree/braintree_php@6.33.0
 - pkg:composer/braintree/braintree_php@6.33.1
 - pkg:composer/braintree/braintree_php@6.34.0
+- pkg:composer/braintree/braintree_php@6.35.0
 - pkg:composer/braintree/braintree_php@6.4.0
 - pkg:composer/braintree/braintree_php@6.4.1
 - pkg:composer/braintree/braintree_php@6.5.0
