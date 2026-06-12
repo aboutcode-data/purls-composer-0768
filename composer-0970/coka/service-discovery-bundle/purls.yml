@@ -7,3 +7,4 @@
 - pkg:composer/coka/service-discovery-bundle@1.4.1
 - pkg:composer/coka/service-discovery-bundle@1.4.2
 - pkg:composer/coka/service-discovery-bundle@1.5.0
+- pkg:composer/coka/service-discovery-bundle@2.0.0
