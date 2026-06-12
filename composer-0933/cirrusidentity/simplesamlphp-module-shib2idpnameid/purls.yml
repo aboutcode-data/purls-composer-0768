@@ -9,3 +9,4 @@
 - pkg:composer/cirrusidentity/simplesamlphp-module-shib2idpnameid@v2.0.3
 - pkg:composer/cirrusidentity/simplesamlphp-module-shib2idpnameid@v2.1.0
 - pkg:composer/cirrusidentity/simplesamlphp-module-shib2idpnameid@v2.1.1
+- pkg:composer/cirrusidentity/simplesamlphp-module-shib2idpnameid@v2.1.2
