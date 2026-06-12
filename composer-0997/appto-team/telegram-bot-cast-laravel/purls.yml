@@ -1,3 +1,4 @@
+- pkg:composer/appto-team/telegram-bot-cast-laravel@2.0.10.1
 - pkg:composer/appto-team/telegram-bot-cast-laravel@9.0
 - pkg:composer/appto-team/telegram-bot-cast-laravel@9.1
 - pkg:composer/appto-team/telegram-bot-cast-laravel@9.3
