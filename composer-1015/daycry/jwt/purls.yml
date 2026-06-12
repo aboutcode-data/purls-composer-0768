@@ -8,3 +8,5 @@
 - pkg:composer/daycry/jwt@v2.0.0
 - pkg:composer/daycry/jwt@v2.0.1
 - pkg:composer/daycry/jwt@v3.0.0
+- pkg:composer/daycry/jwt@v3.1.0
+- pkg:composer/daycry/jwt@v3.2.0
