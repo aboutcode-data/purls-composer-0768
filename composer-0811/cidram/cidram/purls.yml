@@ -61,6 +61,7 @@
 - pkg:composer/cidram/cidram@v1.29.4
 - pkg:composer/cidram/cidram@v1.29.5
 - pkg:composer/cidram/cidram@v1.29.6
+- pkg:composer/cidram/cidram@v1.29.7
 - pkg:composer/cidram/cidram@v1.3.0
 - pkg:composer/cidram/cidram@v1.4.0
 - pkg:composer/cidram/cidram@v1.4.1
@@ -94,6 +95,7 @@
 - pkg:composer/cidram/cidram@v2.17.1
 - pkg:composer/cidram/cidram@v2.17.2
 - pkg:composer/cidram/cidram@v2.17.3
+- pkg:composer/cidram/cidram@v2.17.4
 - pkg:composer/cidram/cidram@v2.2.0
 - pkg:composer/cidram/cidram@v2.2.1
 - pkg:composer/cidram/cidram@v2.3.0
@@ -119,6 +121,7 @@
 - pkg:composer/cidram/cidram@v3.10.1
 - pkg:composer/cidram/cidram@v3.10.2
 - pkg:composer/cidram/cidram@v3.11.0
+- pkg:composer/cidram/cidram@v3.12.0
 - pkg:composer/cidram/cidram@v3.2.0
 - pkg:composer/cidram/cidram@v3.2.1
 - pkg:composer/cidram/cidram@v3.3.0
@@ -136,3 +139,4 @@
 - pkg:composer/cidram/cidram@v4.0.0
 - pkg:composer/cidram/cidram@v4.0.1
 - pkg:composer/cidram/cidram@v4.1.0
+- pkg:composer/cidram/cidram@v4.2.0
