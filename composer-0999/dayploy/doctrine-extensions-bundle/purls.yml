@@ -1,2 +1,3 @@
 - pkg:composer/dayploy/doctrine-extensions-bundle@1.0.0
 - pkg:composer/dayploy/doctrine-extensions-bundle@1.0.1
+- pkg:composer/dayploy/doctrine-extensions-bundle@2.0.0
