@@ -49,3 +49,4 @@
 - pkg:composer/arkaitzgarro/elastic-apm-laravel@v6.1.0
 - pkg:composer/arkaitzgarro/elastic-apm-laravel@v7.0.0
 - pkg:composer/arkaitzgarro/elastic-apm-laravel@v7.0.0-BETA
+- pkg:composer/arkaitzgarro/elastic-apm-laravel@v8.0.0
