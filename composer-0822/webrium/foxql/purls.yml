@@ -32,3 +32,4 @@
 - pkg:composer/webrium/foxql@3.1.2
 - pkg:composer/webrium/foxql@4.0.0
 - pkg:composer/webrium/foxql@4.0.1
+- pkg:composer/webrium/foxql@4.0.2
