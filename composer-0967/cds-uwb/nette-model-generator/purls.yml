@@ -16,3 +16,6 @@
 - pkg:composer/cds-uwb/nette-model-generator@v0.5.3
 - pkg:composer/cds-uwb/nette-model-generator@v0.5.4
 - pkg:composer/cds-uwb/nette-model-generator@v0.5.5
+- pkg:composer/cds-uwb/nette-model-generator@v0.6.0
+- pkg:composer/cds-uwb/nette-model-generator@v0.6.1
+- pkg:composer/cds-uwb/nette-model-generator@v0.7.0
