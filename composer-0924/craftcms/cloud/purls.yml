@@ -239,3 +239,8 @@
 - pkg:composer/craftcms/cloud@3.0.7
 - pkg:composer/craftcms/cloud@3.0.9
 - pkg:composer/craftcms/cloud@3.1.0
+- pkg:composer/craftcms/cloud@3.1.1
+- pkg:composer/craftcms/cloud@3.2.0
+- pkg:composer/craftcms/cloud@3.2.1
+- pkg:composer/craftcms/cloud@3.2.2
+- pkg:composer/craftcms/cloud@3.3.0
