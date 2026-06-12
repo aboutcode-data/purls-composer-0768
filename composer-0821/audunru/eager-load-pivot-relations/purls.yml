@@ -10,3 +10,4 @@
 - pkg:composer/audunru/eager-load-pivot-relations@v4.1.0
 - pkg:composer/audunru/eager-load-pivot-relations@v5.0.0
 - pkg:composer/audunru/eager-load-pivot-relations@v6.0.0
+- pkg:composer/audunru/eager-load-pivot-relations@v6.1.0
