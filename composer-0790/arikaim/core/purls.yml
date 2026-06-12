@@ -85,6 +85,7 @@
 - pkg:composer/arikaim/core@1.15.30
 - pkg:composer/arikaim/core@1.15.31
 - pkg:composer/arikaim/core@1.15.32
+- pkg:composer/arikaim/core@1.15.33
 - pkg:composer/arikaim/core@1.15.4
 - pkg:composer/arikaim/core@1.15.5
 - pkg:composer/arikaim/core@1.15.6
