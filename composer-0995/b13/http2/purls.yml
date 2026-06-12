@@ -6,3 +6,5 @@
 - pkg:composer/b13/http2@2.0.0
 - pkg:composer/b13/http2@3.0.0
 - pkg:composer/b13/http2@4.0.0
+- pkg:composer/b13/http2@4.0.1
+- pkg:composer/b13/http2@4.1.0
