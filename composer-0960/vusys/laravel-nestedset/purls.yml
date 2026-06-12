@@ -15,6 +15,7 @@
 - pkg:composer/vusys/laravel-nestedset@v0.20.0
 - pkg:composer/vusys/laravel-nestedset@v0.21.0
 - pkg:composer/vusys/laravel-nestedset@v0.22.0
+- pkg:composer/vusys/laravel-nestedset@v0.23.0
 - pkg:composer/vusys/laravel-nestedset@v0.3.0
 - pkg:composer/vusys/laravel-nestedset@v0.4.0
 - pkg:composer/vusys/laravel-nestedset@v0.5.0
