@@ -33,3 +33,4 @@
 - pkg:composer/contao-bootstrap/grid@3.0.6
 - pkg:composer/contao-bootstrap/grid@3.0.7
 - pkg:composer/contao-bootstrap/grid@3.0.8
+- pkg:composer/contao-bootstrap/grid@3.1.0
