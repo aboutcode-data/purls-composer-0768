@@ -142,3 +142,4 @@
 - pkg:composer/cakephp/bake@3.6.2
 - pkg:composer/cakephp/bake@3.6.3
 - pkg:composer/cakephp/bake@3.6.4
+- pkg:composer/cakephp/bake@3.7.0

@@ -116,6 +116,7 @@
 - pkg:composer/cakephp/debug_kit@4.10.0
 - pkg:composer/cakephp/debug_kit@4.10.1
 - pkg:composer/cakephp/debug_kit@4.10.2
+- pkg:composer/cakephp/debug_kit@4.10.3
 - pkg:composer/cakephp/debug_kit@4.2.0
 - pkg:composer/cakephp/debug_kit@4.3.0
 - pkg:composer/cakephp/debug_kit@4.3.1
@@ -161,3 +162,5 @@
 - pkg:composer/cakephp/debug_kit@5.2.0
 - pkg:composer/cakephp/debug_kit@5.2.1
 - pkg:composer/cakephp/debug_kit@5.2.2
+- pkg:composer/cakephp/debug_kit@5.2.3
+- pkg:composer/cakephp/debug_kit@5.2.4
