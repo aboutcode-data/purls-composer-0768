@@ -3,6 +3,8 @@
 - pkg:composer/d1kdat/furaffinity-api-php@2.1.10
 - pkg:composer/d1kdat/furaffinity-api-php@2.1.11
 - pkg:composer/d1kdat/furaffinity-api-php@2.1.12
+- pkg:composer/d1kdat/furaffinity-api-php@2.1.13
+- pkg:composer/d1kdat/furaffinity-api-php@2.1.14
 - pkg:composer/d1kdat/furaffinity-api-php@2.1.2
 - pkg:composer/d1kdat/furaffinity-api-php@2.1.3
 - pkg:composer/d1kdat/furaffinity-api-php@2.1.4
