@@ -36,6 +36,9 @@
 - pkg:composer/arrowsphere/public-api-client@0.11.24
 - pkg:composer/arrowsphere/public-api-client@0.11.25
 - pkg:composer/arrowsphere/public-api-client@0.11.26
+- pkg:composer/arrowsphere/public-api-client@0.11.27
+- pkg:composer/arrowsphere/public-api-client@0.11.28
+- pkg:composer/arrowsphere/public-api-client@0.11.29
 - pkg:composer/arrowsphere/public-api-client@0.11.3
 - pkg:composer/arrowsphere/public-api-client@0.11.4
 - pkg:composer/arrowsphere/public-api-client@0.11.5
