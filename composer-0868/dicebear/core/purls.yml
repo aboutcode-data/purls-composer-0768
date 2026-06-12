@@ -1,1 +1,8 @@
+- pkg:composer/dicebear/core@v10.0.0
 - pkg:composer/dicebear/core@v10.0.0-rc.5
+- pkg:composer/dicebear/core@v10.0.1
+- pkg:composer/dicebear/core@v10.0.2
+- pkg:composer/dicebear/core@v10.1.0
+- pkg:composer/dicebear/core@v10.1.0-rc.1
+- pkg:composer/dicebear/core@v10.2.0
+- pkg:composer/dicebear/core@v10.2.0-rc.1
