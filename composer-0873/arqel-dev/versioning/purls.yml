@@ -1,6 +1,8 @@
 - pkg:composer/arqel-dev/versioning@0.10.0
 - pkg:composer/arqel-dev/versioning@0.10.1
 - pkg:composer/arqel-dev/versioning@0.11.0
+- pkg:composer/arqel-dev/versioning@0.12.0
+- pkg:composer/arqel-dev/versioning@0.13.0
 - pkg:composer/arqel-dev/versioning@0.8.0
 - pkg:composer/arqel-dev/versioning@0.8.1
 - pkg:composer/arqel-dev/versioning@0.9.0
