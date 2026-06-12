@@ -12,6 +12,8 @@
 - pkg:composer/backpack/theme-coreuiv2@1.2.6
 - pkg:composer/backpack/theme-coreuiv2@1.2.7
 - pkg:composer/backpack/theme-coreuiv2@1.2.8
+- pkg:composer/backpack/theme-coreuiv2@1.2.9
 - pkg:composer/backpack/theme-coreuiv2@2.0.0
 - pkg:composer/backpack/theme-coreuiv2@2.0.1
 - pkg:composer/backpack/theme-coreuiv2@2.0.2
+- pkg:composer/backpack/theme-coreuiv2@2.0.3
