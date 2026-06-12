@@ -66,3 +66,5 @@
 - pkg:composer/arillo/silverstripe-elements@3.0.6
 - pkg:composer/arillo/silverstripe-elements@3.0.7
 - pkg:composer/arillo/silverstripe-elements@3.1.0
+- pkg:composer/arillo/silverstripe-elements@3.1.1
+- pkg:composer/arillo/silverstripe-elements@3.1.2
