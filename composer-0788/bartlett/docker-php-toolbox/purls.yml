@@ -22,3 +22,4 @@
 - pkg:composer/bartlett/docker-php-toolbox@2.2.0
 - pkg:composer/bartlett/docker-php-toolbox@2.3.0
 - pkg:composer/bartlett/docker-php-toolbox@2.4.0
+- pkg:composer/bartlett/docker-php-toolbox@2.5.0
