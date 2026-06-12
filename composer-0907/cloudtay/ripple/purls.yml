@@ -10,3 +10,4 @@
 - pkg:composer/cloudtay/ripple@v1.1.0-beta
 - pkg:composer/cloudtay/ripple@v2.0.0
 - pkg:composer/cloudtay/ripple@v2.0.1
+- pkg:composer/cloudtay/ripple@v3.0
