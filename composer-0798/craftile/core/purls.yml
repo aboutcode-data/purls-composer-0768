@@ -13,3 +13,4 @@
 - pkg:composer/craftile/core@v0.6.2
 - pkg:composer/craftile/core@v0.6.3
 - pkg:composer/craftile/core@v0.6.4
+- pkg:composer/craftile/core@v0.7.0
