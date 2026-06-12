@@ -126,3 +126,6 @@
 - pkg:composer/dashed/dashed-files@v4.0.7
 - pkg:composer/dashed/dashed-files@v4.0.8
 - pkg:composer/dashed/dashed-files@v4.0.9
+- pkg:composer/dashed/dashed-files@v4.1.0
+- pkg:composer/dashed/dashed-files@v4.2.0
+- pkg:composer/dashed/dashed-files@v4.2.1
