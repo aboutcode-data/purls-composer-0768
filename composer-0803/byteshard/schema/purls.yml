@@ -15,3 +15,4 @@
 - pkg:composer/byteshard/schema@v1.3.7
 - pkg:composer/byteshard/schema@v1.3.8
 - pkg:composer/byteshard/schema@v1.4.0
+- pkg:composer/byteshard/schema@v1.4.1

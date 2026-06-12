@@ -14,3 +14,4 @@
 - pkg:composer/bytes-commerce/synology-php-api@1.0.7
 - pkg:composer/bytes-commerce/synology-php-api@1.0.8
 - pkg:composer/bytes-commerce/synology-php-api@1.0.9
+- pkg:composer/bytes-commerce/synology-php-api@1.1.0
