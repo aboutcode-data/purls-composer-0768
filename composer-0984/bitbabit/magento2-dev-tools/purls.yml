@@ -1,3 +1,5 @@
 - pkg:composer/bitbabit/magento2-dev-tools@1.2.0
 - pkg:composer/bitbabit/magento2-dev-tools@1.2.0-beta1
 - pkg:composer/bitbabit/magento2-dev-tools@1.2.2
+- pkg:composer/bitbabit/magento2-dev-tools@1.2.3
+- pkg:composer/bitbabit/magento2-dev-tools@1.2.4
