@@ -17,6 +17,7 @@
 - pkg:composer/cartalyst/sentinel@v1.0.7
 - pkg:composer/cartalyst/sentinel@v1.0.8
 - pkg:composer/cartalyst/sentinel@v1.0.9
+- pkg:composer/cartalyst/sentinel@v10.0.0
 - pkg:composer/cartalyst/sentinel@v2.0.0
 - pkg:composer/cartalyst/sentinel@v2.0.1
 - pkg:composer/cartalyst/sentinel@v2.0.10
