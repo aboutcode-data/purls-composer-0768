@@ -5,3 +5,5 @@
 - pkg:composer/bootpay/backend-php@2.0.5
 - pkg:composer/bootpay/backend-php@2.1.1
 - pkg:composer/bootpay/backend-php@2.2.0
+- pkg:composer/bootpay/backend-php@2.4.0
+- pkg:composer/bootpay/backend-php@2.4.1
