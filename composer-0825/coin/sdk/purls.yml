@@ -29,3 +29,5 @@
 - pkg:composer/coin/sdk@2.4.0
 - pkg:composer/coin/sdk@2.5.0
 - pkg:composer/coin/sdk@2.5.1
+- pkg:composer/coin/sdk@2.5.2
+- pkg:composer/coin/sdk@2.6.0
