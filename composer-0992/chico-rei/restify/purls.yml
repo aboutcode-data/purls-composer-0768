@@ -16,3 +16,6 @@
 - pkg:composer/chico-rei/restify@v3.3.7
 - pkg:composer/chico-rei/restify@v3.3.8
 - pkg:composer/chico-rei/restify@v3.3.9
+- pkg:composer/chico-rei/restify@v3.4
+- pkg:composer/chico-rei/restify@v3.4.1
+- pkg:composer/chico-rei/restify@v4.0.0
