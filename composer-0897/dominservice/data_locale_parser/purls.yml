@@ -25,3 +25,4 @@
 - pkg:composer/dominservice/data_locale_parser@2.2.1
 - pkg:composer/dominservice/data_locale_parser@3.0.0
 - pkg:composer/dominservice/data_locale_parser@3.0.1
+- pkg:composer/dominservice/data_locale_parser@3.0.2
