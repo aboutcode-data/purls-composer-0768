@@ -27,6 +27,7 @@
 - pkg:composer/dcat-plus/laravel-admin@2.0.17
 - pkg:composer/dcat-plus/laravel-admin@2.0.18
 - pkg:composer/dcat-plus/laravel-admin@2.0.19
+- pkg:composer/dcat-plus/laravel-admin@2.0.21
 - pkg:composer/dcat-plus/laravel-admin@2.0.9
 - pkg:composer/dcat-plus/laravel-admin@v1.0
 - pkg:composer/dcat-plus/laravel-admin@v1.1
