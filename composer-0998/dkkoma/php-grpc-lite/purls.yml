@@ -1,4 +1,9 @@
 - pkg:composer/dkkoma/php-grpc-lite@0.0.1
+- pkg:composer/dkkoma/php-grpc-lite@0.0.10
+- pkg:composer/dkkoma/php-grpc-lite@0.0.11
+- pkg:composer/dkkoma/php-grpc-lite@0.0.12
+- pkg:composer/dkkoma/php-grpc-lite@0.0.13
+- pkg:composer/dkkoma/php-grpc-lite@0.0.14
 - pkg:composer/dkkoma/php-grpc-lite@0.0.2
 - pkg:composer/dkkoma/php-grpc-lite@0.0.3
 - pkg:composer/dkkoma/php-grpc-lite@0.0.4
@@ -6,3 +11,4 @@
 - pkg:composer/dkkoma/php-grpc-lite@0.0.6
 - pkg:composer/dkkoma/php-grpc-lite@0.0.7
 - pkg:composer/dkkoma/php-grpc-lite@0.0.8
+- pkg:composer/dkkoma/php-grpc-lite@0.0.9
