@@ -1,4 +1,5 @@
 - pkg:composer/easi-power/laravel-db2@1.0
+- pkg:composer/easi-power/laravel-db2@13.0.10
 - pkg:composer/easi-power/laravel-db2@2.0
 - pkg:composer/easi-power/laravel-db2@2.0.1
 - pkg:composer/easi-power/laravel-db2@2.0.2
