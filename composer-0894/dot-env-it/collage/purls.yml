@@ -1,1 +1,3 @@
 - pkg:composer/dot-env-it/collage@v1.0.0
+- pkg:composer/dot-env-it/collage@v2.0.0
+- pkg:composer/dot-env-it/collage@v2.0.1
