@@ -17,3 +17,6 @@
 - pkg:composer/drago-ex/database@v2.0.3
 - pkg:composer/drago-ex/database@v2.0.5
 - pkg:composer/drago-ex/database@v2.0.6
+- pkg:composer/drago-ex/database@v3.0.0
+- pkg:composer/drago-ex/database@v3.0.1
+- pkg:composer/drago-ex/database@v3.0.2
