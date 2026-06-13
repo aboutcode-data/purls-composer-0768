@@ -55,3 +55,5 @@
 - pkg:composer/drevops/behat-steps@3.7.0
 - pkg:composer/drevops/behat-steps@3.8.0
 - pkg:composer/drevops/behat-steps@3.8.1
+- pkg:composer/drevops/behat-steps@3.8.2
+- pkg:composer/drevops/behat-steps@3.9.0

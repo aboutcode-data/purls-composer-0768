@@ -13,6 +13,12 @@
 - pkg:composer/dressapi/core@v3.0.15
 - pkg:composer/dressapi/core@v3.0.16
 - pkg:composer/dressapi/core@v3.0.18
+- pkg:composer/dressapi/core@v3.0.19
 - pkg:composer/dressapi/core@v3.0.2
+- pkg:composer/dressapi/core@v3.0.20
+- pkg:composer/dressapi/core@v3.0.21
+- pkg:composer/dressapi/core@v3.0.22
+- pkg:composer/dressapi/core@v3.0.23
+- pkg:composer/dressapi/core@v3.0.24
 - pkg:composer/dressapi/core@v3.0.3
 - pkg:composer/dressapi/core@v3.0.7
