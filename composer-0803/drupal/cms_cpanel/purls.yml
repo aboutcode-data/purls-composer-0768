@@ -24,3 +24,5 @@
 - pkg:composer/drupal/cms_cpanel@2.1.0
 - pkg:composer/drupal/cms_cpanel@2.1.0-beta1
 - pkg:composer/drupal/cms_cpanel@2.1.1
+- pkg:composer/drupal/cms_cpanel@2.1.2
+- pkg:composer/drupal/cms_cpanel@2.1.3
