@@ -30,3 +30,6 @@
 - pkg:composer/finller/laravel-conversations@v1.2.1
 - pkg:composer/finller/laravel-conversations@v1.3.0
 - pkg:composer/finller/laravel-conversations@v2.0.0
+- pkg:composer/finller/laravel-conversations@v2.0.1
+- pkg:composer/finller/laravel-conversations@v2.0.2
+- pkg:composer/finller/laravel-conversations@v2.0.3
