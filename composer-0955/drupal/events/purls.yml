@@ -7,3 +7,5 @@
 - pkg:composer/drupal/events@1.1.0
 - pkg:composer/drupal/events@1.1.1
 - pkg:composer/drupal/events@1.1.2
+- pkg:composer/drupal/events@2.0.0-beta1
+- pkg:composer/drupal/events@2.0.0-beta2
