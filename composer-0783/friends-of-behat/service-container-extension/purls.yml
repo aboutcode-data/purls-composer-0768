@@ -4,3 +4,4 @@
 - pkg:composer/friends-of-behat/service-container-extension@v1.0.0
 - pkg:composer/friends-of-behat/service-container-extension@v1.0.1
 - pkg:composer/friends-of-behat/service-container-extension@v1.1.0
+- pkg:composer/friends-of-behat/service-container-extension@v2.0.0
