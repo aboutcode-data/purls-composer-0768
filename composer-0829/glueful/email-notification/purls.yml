@@ -2,9 +2,13 @@
 - pkg:composer/glueful/email-notification@v1.1.0
 - pkg:composer/glueful/email-notification@v1.1.1
 - pkg:composer/glueful/email-notification@v1.1.2
+- pkg:composer/glueful/email-notification@v1.10.0
 - pkg:composer/glueful/email-notification@v1.2.0
 - pkg:composer/glueful/email-notification@v1.2.1
 - pkg:composer/glueful/email-notification@v1.3.0
 - pkg:composer/glueful/email-notification@v1.4.0
 - pkg:composer/glueful/email-notification@v1.5.0
 - pkg:composer/glueful/email-notification@v1.6.0
+- pkg:composer/glueful/email-notification@v1.7.0
+- pkg:composer/glueful/email-notification@v1.8.0
+- pkg:composer/glueful/email-notification@v1.9.0
