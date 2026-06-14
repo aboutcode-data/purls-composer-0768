@@ -6,6 +6,11 @@
 - pkg:composer/fize/database@3.0.0
 - pkg:composer/fize/database@3.1.0
 - pkg:composer/fize/database@4.0.0
+- pkg:composer/fize/database@4.0.1
+- pkg:composer/fize/database@4.0.2
+- pkg:composer/fize/database@4.0.3
+- pkg:composer/fize/database@4.0.4
+- pkg:composer/fize/database@4.0.5
 - pkg:composer/fize/database@v1.0.0
 - pkg:composer/fize/database@v1.0.1
 - pkg:composer/fize/database@v2.0.0
