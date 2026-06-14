@@ -1,5 +1,7 @@
 - pkg:composer/grandchef/dfe@5.0.0
 - pkg:composer/grandchef/dfe@5.0.1
+- pkg:composer/grandchef/dfe@5.0.10
+- pkg:composer/grandchef/dfe@5.0.11
 - pkg:composer/grandchef/dfe@5.0.2
 - pkg:composer/grandchef/dfe@5.0.3
 - pkg:composer/grandchef/dfe@5.0.4
