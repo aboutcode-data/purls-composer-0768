@@ -6,3 +6,4 @@
 - pkg:composer/fruitcake/laravel-weasyprint@v0.2.1
 - pkg:composer/fruitcake/laravel-weasyprint@v0.3.0
 - pkg:composer/fruitcake/laravel-weasyprint@v0.3.1
+- pkg:composer/fruitcake/laravel-weasyprint@v0.3.2
