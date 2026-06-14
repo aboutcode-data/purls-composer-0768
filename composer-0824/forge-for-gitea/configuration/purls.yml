@@ -3,3 +3,4 @@
 - pkg:composer/forge-for-gitea/configuration@v0.2.1
 - pkg:composer/forge-for-gitea/configuration@v0.2.2
 - pkg:composer/forge-for-gitea/configuration@v0.2.3
+- pkg:composer/forge-for-gitea/configuration@v0.2.4
