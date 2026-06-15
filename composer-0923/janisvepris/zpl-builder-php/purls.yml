@@ -9,3 +9,6 @@
 - pkg:composer/janisvepris/zpl-builder-php@0.40.0
 - pkg:composer/janisvepris/zpl-builder-php@0.40.1
 - pkg:composer/janisvepris/zpl-builder-php@0.50.0
+- pkg:composer/janisvepris/zpl-builder-php@0.60.0
+- pkg:composer/janisvepris/zpl-builder-php@0.61.0
+- pkg:composer/janisvepris/zpl-builder-php@0.62.0
