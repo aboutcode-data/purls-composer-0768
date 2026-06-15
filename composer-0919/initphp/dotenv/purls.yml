@@ -1,3 +1,4 @@
 - pkg:composer/initphp/dotenv@1.0
 - pkg:composer/initphp/dotenv@2.0
 - pkg:composer/initphp/dotenv@2.0.1
+- pkg:composer/initphp/dotenv@3.0.0
