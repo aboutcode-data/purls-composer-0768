@@ -5,6 +5,7 @@
 - pkg:composer/foodticket/laravel-filesystem-cloudflare-images@v0.0.13
 - pkg:composer/foodticket/laravel-filesystem-cloudflare-images@v0.0.14
 - pkg:composer/foodticket/laravel-filesystem-cloudflare-images@v0.0.15
+- pkg:composer/foodticket/laravel-filesystem-cloudflare-images@v0.0.16
 - pkg:composer/foodticket/laravel-filesystem-cloudflare-images@v0.0.2
 - pkg:composer/foodticket/laravel-filesystem-cloudflare-images@v0.0.3
 - pkg:composer/foodticket/laravel-filesystem-cloudflare-images@v0.0.4
