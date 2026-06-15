@@ -1,5 +1,6 @@
 - pkg:composer/kevinrob/guzzle-cache-middleware@6.0.0
 - pkg:composer/kevinrob/guzzle-cache-middleware@7.0.0
+- pkg:composer/kevinrob/guzzle-cache-middleware@8.0.0-RC2
 - pkg:composer/kevinrob/guzzle-cache-middleware@v0.1
 - pkg:composer/kevinrob/guzzle-cache-middleware@v0.2
 - pkg:composer/kevinrob/guzzle-cache-middleware@v0.3
