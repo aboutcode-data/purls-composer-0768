@@ -67,6 +67,9 @@
 - pkg:composer/iis/library@v4.4.9
 - pkg:composer/iis/library@v4.5.0
 - pkg:composer/iis/library@v4.5.1
+- pkg:composer/iis/library@v4.5.10
+- pkg:composer/iis/library@v4.5.11
+- pkg:composer/iis/library@v4.5.12
 - pkg:composer/iis/library@v4.5.2
 - pkg:composer/iis/library@v4.5.3
 - pkg:composer/iis/library@v4.5.4
@@ -74,3 +77,4 @@
 - pkg:composer/iis/library@v4.5.6
 - pkg:composer/iis/library@v4.5.7
 - pkg:composer/iis/library@v4.5.8
+- pkg:composer/iis/library@v4.5.9
