@@ -75,3 +75,4 @@
 - pkg:composer/hyperf/watcher@v3.2.0
 - pkg:composer/hyperf/watcher@v3.2.0-alpha.1
 - pkg:composer/hyperf/watcher@v3.2.0-alpha.3
+- pkg:composer/hyperf/watcher@v3.2.1
