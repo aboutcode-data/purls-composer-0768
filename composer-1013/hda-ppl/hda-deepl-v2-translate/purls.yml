@@ -1,1 +1,3 @@
 - pkg:composer/hda-ppl/hda-deepl-v2-translate@12.4.0
+- pkg:composer/hda-ppl/hda-deepl-v2-translate@13.4.0
+- pkg:composer/hda-ppl/hda-deepl-v2-translate@14.3.0
