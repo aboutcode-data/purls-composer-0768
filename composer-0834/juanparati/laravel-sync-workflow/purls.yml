@@ -2,3 +2,4 @@
 - pkg:composer/juanparati/laravel-sync-workflow@0.9
 - pkg:composer/juanparati/laravel-sync-workflow@1.1
 - pkg:composer/juanparati/laravel-sync-workflow@1.2
+- pkg:composer/juanparati/laravel-sync-workflow@2.0
