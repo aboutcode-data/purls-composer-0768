@@ -54,6 +54,7 @@
 - pkg:composer/hyperf/contract@v3.1.38
 - pkg:composer/hyperf/contract@v3.1.42
 - pkg:composer/hyperf/contract@v3.1.63
+- pkg:composer/hyperf/contract@v3.2.0
 - pkg:composer/hyperf/contract@v3.2.0-alpha.1
 - pkg:composer/hyperf/contract@v3.2.0-alpha.3
 - pkg:composer/hyperf/contract@v3.2.0-alpha.4
