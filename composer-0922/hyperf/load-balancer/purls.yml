@@ -47,5 +47,6 @@
 - pkg:composer/hyperf/load-balancer@v3.1.31
 - pkg:composer/hyperf/load-balancer@v3.1.42
 - pkg:composer/hyperf/load-balancer@v3.1.63
+- pkg:composer/hyperf/load-balancer@v3.2.0
 - pkg:composer/hyperf/load-balancer@v3.2.0-alpha.1
 - pkg:composer/hyperf/load-balancer@v3.2.0-alpha.3

@@ -46,5 +46,6 @@
 - pkg:composer/hyperf/rpc@v3.1.57
 - pkg:composer/hyperf/rpc@v3.1.63
 - pkg:composer/hyperf/rpc@v3.1.8
+- pkg:composer/hyperf/rpc@v3.2.0
 - pkg:composer/hyperf/rpc@v3.2.0-alpha.1
 - pkg:composer/hyperf/rpc@v3.2.0-alpha.3

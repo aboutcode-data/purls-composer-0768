@@ -33,5 +33,6 @@
 - pkg:composer/hyperf/signal@v3.1.47
 - pkg:composer/hyperf/signal@v3.1.57
 - pkg:composer/hyperf/signal@v3.1.63
+- pkg:composer/hyperf/signal@v3.2.0
 - pkg:composer/hyperf/signal@v3.2.0-alpha.1
 - pkg:composer/hyperf/signal@v3.2.0-alpha.3

@@ -9,6 +9,7 @@
 - pkg:composer/hyperf/pipeline@v3.1.42
 - pkg:composer/hyperf/pipeline@v3.1.61
 - pkg:composer/hyperf/pipeline@v3.1.63
+- pkg:composer/hyperf/pipeline@v3.2.0
 - pkg:composer/hyperf/pipeline@v3.2.0-alpha.1
 - pkg:composer/hyperf/pipeline@v3.2.0-alpha.2
 - pkg:composer/hyperf/pipeline@v3.2.0-alpha.3

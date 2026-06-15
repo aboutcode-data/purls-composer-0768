@@ -9,5 +9,6 @@
 - pkg:composer/hyperf/serializer@v3.1.27
 - pkg:composer/hyperf/serializer@v3.1.42
 - pkg:composer/hyperf/serializer@v3.1.63
+- pkg:composer/hyperf/serializer@v3.2.0
 - pkg:composer/hyperf/serializer@v3.2.0-alpha.1
 - pkg:composer/hyperf/serializer@v3.2.0-alpha.3
