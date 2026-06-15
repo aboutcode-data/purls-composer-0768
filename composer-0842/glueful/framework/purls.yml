@@ -66,6 +66,8 @@
 - pkg:composer/glueful/framework@v1.54.0
 - pkg:composer/glueful/framework@v1.55.0
 - pkg:composer/glueful/framework@v1.56.0
+- pkg:composer/glueful/framework@v1.57.0
+- pkg:composer/glueful/framework@v1.58.0
 - pkg:composer/glueful/framework@v1.6.0
 - pkg:composer/glueful/framework@v1.6.1
 - pkg:composer/glueful/framework@v1.6.2
