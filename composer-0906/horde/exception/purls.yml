@@ -3,6 +3,7 @@
 - pkg:composer/horde/exception@2.0.8
 - pkg:composer/horde/exception@3.0.0alpha1
 - pkg:composer/horde/exception@3.0.0alpha2
+- pkg:composer/horde/exception@v3.0.0
 - pkg:composer/horde/exception@v3.0.0alpha3
 - pkg:composer/horde/exception@v3.0.0alpha4
 - pkg:composer/horde/exception@v3.0.0alpha5
