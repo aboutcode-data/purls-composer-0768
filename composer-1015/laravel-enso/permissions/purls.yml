@@ -191,3 +191,4 @@
 - pkg:composer/laravel-enso/permissions@5.5.3
 - pkg:composer/laravel-enso/permissions@5.5.4
 - pkg:composer/laravel-enso/permissions@5.5.5
+- pkg:composer/laravel-enso/permissions@5.5.6
