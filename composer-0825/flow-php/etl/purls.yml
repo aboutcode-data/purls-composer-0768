@@ -53,6 +53,7 @@
 - pkg:composer/flow-php/etl@0.38.0
 - pkg:composer/flow-php/etl@0.39.0
 - pkg:composer/flow-php/etl@0.4.0
+- pkg:composer/flow-php/etl@0.40.0
 - pkg:composer/flow-php/etl@0.5.0
 - pkg:composer/flow-php/etl@0.5.1
 - pkg:composer/flow-php/etl@0.5.2
