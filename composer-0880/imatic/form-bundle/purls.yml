@@ -32,3 +32,4 @@
 - pkg:composer/imatic/form-bundle@v5.1.0
 - pkg:composer/imatic/form-bundle@v5.2.0
 - pkg:composer/imatic/form-bundle@v5.2.1
+- pkg:composer/imatic/form-bundle@v6.0.0
