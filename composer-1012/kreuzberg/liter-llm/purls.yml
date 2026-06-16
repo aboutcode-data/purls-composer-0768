@@ -74,3 +74,7 @@
 - pkg:composer/kreuzberg/liter-llm@v1.4.0-rc.60
 - pkg:composer/kreuzberg/liter-llm@v1.4.0-rc.61
 - pkg:composer/kreuzberg/liter-llm@v1.4.1
+- pkg:composer/kreuzberg/liter-llm@v1.5.0
+- pkg:composer/kreuzberg/liter-llm@v1.5.1
+- pkg:composer/kreuzberg/liter-llm@v1.6.0
+- pkg:composer/kreuzberg/liter-llm@v1.6.1
