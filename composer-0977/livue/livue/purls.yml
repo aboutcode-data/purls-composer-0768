@@ -57,6 +57,7 @@
 - pkg:composer/livue/livue@v1.5.2
 - pkg:composer/livue/livue@v1.5.20
 - pkg:composer/livue/livue@v1.5.21
+- pkg:composer/livue/livue@v1.5.22
 - pkg:composer/livue/livue@v1.5.3
 - pkg:composer/livue/livue@v1.5.4
 - pkg:composer/livue/livue@v1.5.5
@@ -64,3 +65,5 @@
 - pkg:composer/livue/livue@v1.5.7
 - pkg:composer/livue/livue@v1.5.8
 - pkg:composer/livue/livue@v1.5.9
+- pkg:composer/livue/livue@v1.6.0
+- pkg:composer/livue/livue@v1.6.1
