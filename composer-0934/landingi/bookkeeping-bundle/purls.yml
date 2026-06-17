@@ -43,3 +43,5 @@
 - pkg:composer/landingi/bookkeeping-bundle@v6.5.0
 - pkg:composer/landingi/bookkeeping-bundle@v6.5.1
 - pkg:composer/landingi/bookkeeping-bundle@v6.6.0
+- pkg:composer/landingi/bookkeeping-bundle@v6.6.1
+- pkg:composer/landingi/bookkeeping-bundle@v6.6.2
