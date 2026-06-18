@@ -1,3 +1,10 @@
+- pkg:composer/magik092/amazon-selling-partner-api-php@1.2
+- pkg:composer/magik092/amazon-selling-partner-api-php@1.3
+- pkg:composer/magik092/amazon-selling-partner-api-php@1.31
+- pkg:composer/magik092/amazon-selling-partner-api-php@1.32
+- pkg:composer/magik092/amazon-selling-partner-api-php@1.33
+- pkg:composer/magik092/amazon-selling-partner-api-php@1.34
+- pkg:composer/magik092/amazon-selling-partner-api-php@1.35
 - pkg:composer/magik092/amazon-selling-partner-api-php@1.37
 - pkg:composer/magik092/amazon-selling-partner-api-php@1.38
 - pkg:composer/magik092/amazon-selling-partner-api-php@1.39
@@ -7,3 +14,4 @@
 - pkg:composer/magik092/amazon-selling-partner-api-php@1.43
 - pkg:composer/magik092/amazon-selling-partner-api-php@1.44
 - pkg:composer/magik092/amazon-selling-partner-api-php@1.46
+- pkg:composer/magik092/amazon-selling-partner-api-php@1.47
