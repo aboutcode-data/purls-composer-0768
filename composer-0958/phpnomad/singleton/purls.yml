@@ -1,1 +1,2 @@
 - pkg:composer/phpnomad/singleton@1.0.0
+- pkg:composer/phpnomad/singleton@1.0.1

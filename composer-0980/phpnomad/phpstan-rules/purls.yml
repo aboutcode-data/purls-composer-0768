@@ -1,1 +1,2 @@
+- pkg:composer/phpnomad/phpstan-rules@1.0.1
 - pkg:composer/phpnomad/phpstan-rules@v1.0.0
