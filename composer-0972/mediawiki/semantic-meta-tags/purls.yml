@@ -11,3 +11,4 @@
 - pkg:composer/mediawiki/semantic-meta-tags@4.0.0-beta
 - pkg:composer/mediawiki/semantic-meta-tags@4.1.0
 - pkg:composer/mediawiki/semantic-meta-tags@4.1.1
+- pkg:composer/mediawiki/semantic-meta-tags@5.0.0

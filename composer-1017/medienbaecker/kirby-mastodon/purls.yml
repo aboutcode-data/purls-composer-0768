@@ -1,3 +1,4 @@
 - pkg:composer/medienbaecker/kirby-mastodon@1.0.0
 - pkg:composer/medienbaecker/kirby-mastodon@2.0.0
 - pkg:composer/medienbaecker/kirby-mastodon@2.0.1
+- pkg:composer/medienbaecker/kirby-mastodon@2.0.2
