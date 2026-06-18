@@ -204,3 +204,4 @@
 - pkg:composer/nosto/module-nostotagging@8.1.2
 - pkg:composer/nosto/module-nostotagging@8.1.4
 - pkg:composer/nosto/module-nostotagging@8.1.5
+- pkg:composer/nosto/module-nostotagging@8.1.6
