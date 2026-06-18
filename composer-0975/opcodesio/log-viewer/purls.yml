@@ -111,6 +111,8 @@
 - pkg:composer/opcodesio/log-viewer@v3.22.0
 - pkg:composer/opcodesio/log-viewer@v3.23.0
 - pkg:composer/opcodesio/log-viewer@v3.24.0
+- pkg:composer/opcodesio/log-viewer@v3.24.1
+- pkg:composer/opcodesio/log-viewer@v3.24.2
 - pkg:composer/opcodesio/log-viewer@v3.3.0
 - pkg:composer/opcodesio/log-viewer@v3.3.1
 - pkg:composer/opcodesio/log-viewer@v3.4.0
