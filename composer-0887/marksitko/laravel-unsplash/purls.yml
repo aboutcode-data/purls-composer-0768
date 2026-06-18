@@ -9,3 +9,4 @@
 - pkg:composer/marksitko/laravel-unsplash@2.2.0
 - pkg:composer/marksitko/laravel-unsplash@2.2.1
 - pkg:composer/marksitko/laravel-unsplash@2.3.0
+- pkg:composer/marksitko/laravel-unsplash@v3.0.0
