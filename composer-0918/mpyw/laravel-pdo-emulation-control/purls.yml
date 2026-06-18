@@ -8,3 +8,4 @@
 - pkg:composer/mpyw/laravel-pdo-emulation-control@v2.0.4
 - pkg:composer/mpyw/laravel-pdo-emulation-control@v2.0.5
 - pkg:composer/mpyw/laravel-pdo-emulation-control@v2.1.0
+- pkg:composer/mpyw/laravel-pdo-emulation-control@v2.1.2
