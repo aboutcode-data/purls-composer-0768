@@ -7,4 +7,5 @@
 - pkg:composer/onelogin/api@1.5.1
 - pkg:composer/onelogin/api@1.6.0
 - pkg:composer/onelogin/api@1.8.0
-- pkg:composer/onelogin/api@3.0.0-alpha.1
+- pkg:composer/onelogin/api@1.8.1
+- pkg:composer/onelogin/api@1.8.2
