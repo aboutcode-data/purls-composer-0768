@@ -15,3 +15,4 @@
 - pkg:composer/phpcollective/menumaker@v1.0.5
 - pkg:composer/phpcollective/menumaker@v1.0.6
 - pkg:composer/phpcollective/menumaker@v1.0.9
+- pkg:composer/phpcollective/menumaker@v2.0.0
