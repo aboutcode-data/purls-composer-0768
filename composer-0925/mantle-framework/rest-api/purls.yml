@@ -72,7 +72,9 @@
 - pkg:composer/mantle-framework/rest-api@v1.19.1
 - pkg:composer/mantle-framework/rest-api@v1.19.2
 - pkg:composer/mantle-framework/rest-api@v1.19.3
+- pkg:composer/mantle-framework/rest-api@v1.19.4
 - pkg:composer/mantle-framework/rest-api@v1.2.0
+- pkg:composer/mantle-framework/rest-api@v1.20.0
 - pkg:composer/mantle-framework/rest-api@v1.3.0
 - pkg:composer/mantle-framework/rest-api@v1.3.1
 - pkg:composer/mantle-framework/rest-api@v1.3.2
