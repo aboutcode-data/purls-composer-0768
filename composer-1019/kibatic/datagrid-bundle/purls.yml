@@ -55,6 +55,8 @@
 - pkg:composer/kibatic/datagrid-bundle@v1.3.13
 - pkg:composer/kibatic/datagrid-bundle@v1.3.14
 - pkg:composer/kibatic/datagrid-bundle@v1.3.15
+- pkg:composer/kibatic/datagrid-bundle@v1.3.16
+- pkg:composer/kibatic/datagrid-bundle@v1.3.17
 - pkg:composer/kibatic/datagrid-bundle@v1.3.2
 - pkg:composer/kibatic/datagrid-bundle@v1.3.3
 - pkg:composer/kibatic/datagrid-bundle@v1.3.4
