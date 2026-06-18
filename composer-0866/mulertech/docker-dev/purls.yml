@@ -32,3 +32,6 @@
 - pkg:composer/mulertech/docker-dev@v3.2.3
 - pkg:composer/mulertech/docker-dev@v3.2.4
 - pkg:composer/mulertech/docker-dev@v3.3.0
+- pkg:composer/mulertech/docker-dev@v3.4.0
+- pkg:composer/mulertech/docker-dev@v3.4.1
+- pkg:composer/mulertech/docker-dev@v3.5.0
