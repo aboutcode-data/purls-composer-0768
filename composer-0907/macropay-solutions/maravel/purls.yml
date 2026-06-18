@@ -76,6 +76,7 @@
 - pkg:composer/macropay-solutions/maravel@10.52.9
 - pkg:composer/macropay-solutions/maravel@20.0.0-RC1
 - pkg:composer/macropay-solutions/maravel@20.0.0-RC10
+- pkg:composer/macropay-solutions/maravel@20.0.0-RC11
 - pkg:composer/macropay-solutions/maravel@20.0.0-RC2
 - pkg:composer/macropay-solutions/maravel@20.0.0-RC3
 - pkg:composer/macropay-solutions/maravel@20.0.0-RC4
