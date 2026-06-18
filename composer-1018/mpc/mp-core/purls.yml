@@ -61,6 +61,10 @@
 - pkg:composer/mpc/mp-core@1.1.8
 - pkg:composer/mpc/mp-core@1.1.9
 - pkg:composer/mpc/mp-core@1.2.0
+- pkg:composer/mpc/mp-core@1.2.1
+- pkg:composer/mpc/mp-core@1.2.2
+- pkg:composer/mpc/mp-core@1.2.3
+- pkg:composer/mpc/mp-core@1.2.4
 - pkg:composer/mpc/mp-core@v1.0.10
 - pkg:composer/mpc/mp-core@v1.0.11
 - pkg:composer/mpc/mp-core@v1.0.12
