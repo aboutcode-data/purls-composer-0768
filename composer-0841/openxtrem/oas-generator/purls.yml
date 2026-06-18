@@ -11,6 +11,7 @@
 - pkg:composer/openxtrem/oas-generator@3.1.0
 - pkg:composer/openxtrem/oas-generator@4.0.0
 - pkg:composer/openxtrem/oas-generator@4.0.1
+- pkg:composer/openxtrem/oas-generator@4.0.2
 - pkg:composer/openxtrem/oas-generator@5.0.0
 - pkg:composer/openxtrem/oas-generator@5.0.1
 - pkg:composer/openxtrem/oas-generator@5.0.2
