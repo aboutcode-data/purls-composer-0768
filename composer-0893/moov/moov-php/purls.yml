@@ -172,6 +172,7 @@
 - pkg:composer/moov/moov-php@v24.2.5
 - pkg:composer/moov/moov-php@v24.2.6
 - pkg:composer/moov/moov-php@v24.2.7
+- pkg:composer/moov/moov-php@v24.2.8
 - pkg:composer/moov/moov-php@v25.1.0
 - pkg:composer/moov/moov-php@v25.1.1
 - pkg:composer/moov/moov-php@v25.1.10
@@ -209,6 +210,7 @@
 - pkg:composer/moov/moov-php@v25.11.5
 - pkg:composer/moov/moov-php@v25.11.6
 - pkg:composer/moov/moov-php@v25.11.7
+- pkg:composer/moov/moov-php@v25.11.8
 - pkg:composer/moov/moov-php@v25.2.0
 - pkg:composer/moov/moov-php@v25.2.1
 - pkg:composer/moov/moov-php@v25.2.2
@@ -217,6 +219,7 @@
 - pkg:composer/moov/moov-php@v25.2.5
 - pkg:composer/moov/moov-php@v25.2.6
 - pkg:composer/moov/moov-php@v25.2.7
+- pkg:composer/moov/moov-php@v25.2.8
 - pkg:composer/moov/moov-php@v25.4.0
 - pkg:composer/moov/moov-php@v25.4.0-beta.0
 - pkg:composer/moov/moov-php@v25.4.1
@@ -240,6 +243,7 @@
 - pkg:composer/moov/moov-php@v25.5.5
 - pkg:composer/moov/moov-php@v25.5.6
 - pkg:composer/moov/moov-php@v25.5.7
+- pkg:composer/moov/moov-php@v25.5.8
 - pkg:composer/moov/moov-php@v25.7.0
 - pkg:composer/moov/moov-php@v25.7.1
 - pkg:composer/moov/moov-php@v25.7.10
@@ -262,6 +266,7 @@
 - pkg:composer/moov/moov-php@v25.8.5
 - pkg:composer/moov/moov-php@v25.8.6
 - pkg:composer/moov/moov-php@v25.8.7
+- pkg:composer/moov/moov-php@v25.8.8
 - pkg:composer/moov/moov-php@v26.1.0
 - pkg:composer/moov/moov-php@v26.1.1
 - pkg:composer/moov/moov-php@v26.1.10
@@ -284,6 +289,7 @@
 - pkg:composer/moov/moov-php@v26.2.5
 - pkg:composer/moov/moov-php@v26.2.6
 - pkg:composer/moov/moov-php@v26.2.7
+- pkg:composer/moov/moov-php@v26.2.8
 - pkg:composer/moov/moov-php@v26.4.0
 - pkg:composer/moov/moov-php@v26.4.0-beta.0
 - pkg:composer/moov/moov-php@v26.4.0-beta.1
@@ -313,6 +319,8 @@
 - pkg:composer/moov/moov-php@v26.4.5
 - pkg:composer/moov/moov-php@v26.4.6
 - pkg:composer/moov/moov-php@v26.4.7
+- pkg:composer/moov/moov-php@v26.4.8
 - pkg:composer/moov/moov-php@v26.7.0-beta.0
 - pkg:composer/moov/moov-php@v26.7.0-beta.1
 - pkg:composer/moov/moov-php@v26.7.0-beta.2
+- pkg:composer/moov/moov-php@v26.7.0-beta.3
