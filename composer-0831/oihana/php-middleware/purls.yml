@@ -5,3 +5,4 @@
 - pkg:composer/oihana/php-middleware@0.5.0
 - pkg:composer/oihana/php-middleware@0.6.0
 - pkg:composer/oihana/php-middleware@0.7.0
+- pkg:composer/oihana/php-middleware@0.7.1
