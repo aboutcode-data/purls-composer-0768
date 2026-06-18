@@ -17,3 +17,4 @@
 - pkg:composer/msng/gmo-payment-gateway@v0.6.0
 - pkg:composer/msng/gmo-payment-gateway@v0.6.1
 - pkg:composer/msng/gmo-payment-gateway@v0.7.0
+- pkg:composer/msng/gmo-payment-gateway@v0.8.0
