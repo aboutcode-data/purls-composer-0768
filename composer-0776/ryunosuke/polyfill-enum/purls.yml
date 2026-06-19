@@ -5,3 +5,4 @@
 - pkg:composer/ryunosuke/polyfill-enum@v1.1.1
 - pkg:composer/ryunosuke/polyfill-enum@v1.2.0
 - pkg:composer/ryunosuke/polyfill-enum@v1.2.1
+- pkg:composer/ryunosuke/polyfill-enum@v1.3.0
