@@ -3,3 +3,5 @@
 - pkg:composer/pkdev/traits@1.1.1
 - pkg:composer/pkdev/traits@1.1.2
 - pkg:composer/pkdev/traits@1.1.3
+- pkg:composer/pkdev/traits@2.0.0
+- pkg:composer/pkdev/traits@v2.0.1
