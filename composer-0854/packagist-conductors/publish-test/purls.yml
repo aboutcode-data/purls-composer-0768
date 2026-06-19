@@ -1,5 +1,3 @@
-- pkg:composer/packagist-conductors/publish-test@6299.0.0
-- pkg:composer/packagist-conductors/publish-test@6300.0.0
 - pkg:composer/packagist-conductors/publish-test@6301.0.0
 - pkg:composer/packagist-conductors/publish-test@6302.0.0
 - pkg:composer/packagist-conductors/publish-test@6303.0.0
@@ -8,3 +6,5 @@
 - pkg:composer/packagist-conductors/publish-test@6306.0.0
 - pkg:composer/packagist-conductors/publish-test@6307.0.0
 - pkg:composer/packagist-conductors/publish-test@6308.0.0
+- pkg:composer/packagist-conductors/publish-test@6309.0.0
+- pkg:composer/packagist-conductors/publish-test@6310.0.0
