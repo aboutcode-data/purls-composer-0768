@@ -1,3 +1,5 @@
 - pkg:composer/rapiddive/nrql-builder@1.0.0
 - pkg:composer/rapiddive/nrql-builder@1.0.1
 - pkg:composer/rapiddive/nrql-builder@1.0.2
+- pkg:composer/rapiddive/nrql-builder@2.0.0
+- pkg:composer/rapiddive/nrql-builder@2.0.1
