@@ -26,3 +26,5 @@
 - pkg:composer/rector/jack@0.5.0
 - pkg:composer/rector/jack@0.5.1
 - pkg:composer/rector/jack@1.0.0
+- pkg:composer/rector/jack@1.1.0
+- pkg:composer/rector/jack@1.1.1
