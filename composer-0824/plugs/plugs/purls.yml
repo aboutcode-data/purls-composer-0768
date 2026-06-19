@@ -163,3 +163,4 @@
 - pkg:composer/plugs/plugs@v6.3.1
 - pkg:composer/plugs/plugs@v6.3.2
 - pkg:composer/plugs/plugs@v6.3.3
+- pkg:composer/plugs/plugs@v6.3.4
