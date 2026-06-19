@@ -35,3 +35,4 @@
 - pkg:composer/prometee/payum-stripe@v2.0.7
 - pkg:composer/prometee/payum-stripe@v2.0.8
 - pkg:composer/prometee/payum-stripe@v2.0.9
+- pkg:composer/prometee/payum-stripe@v2.1.0
