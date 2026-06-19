@@ -57,6 +57,7 @@
 - pkg:composer/reload/jira-security-issue@v2.0.11
 - pkg:composer/reload/jira-security-issue@v2.0.12
 - pkg:composer/reload/jira-security-issue@v2.0.13
+- pkg:composer/reload/jira-security-issue@v2.0.14
 - pkg:composer/reload/jira-security-issue@v2.0.2
 - pkg:composer/reload/jira-security-issue@v2.0.3
 - pkg:composer/reload/jira-security-issue@v2.0.4
