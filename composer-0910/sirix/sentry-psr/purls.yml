@@ -1,3 +1,5 @@
 - pkg:composer/sirix/sentry-psr@1.0.0
 - pkg:composer/sirix/sentry-psr@1.1.0
 - pkg:composer/sirix/sentry-psr@1.2.0
+- pkg:composer/sirix/sentry-psr@1.2.1
+- pkg:composer/sirix/sentry-psr@2.0.0
