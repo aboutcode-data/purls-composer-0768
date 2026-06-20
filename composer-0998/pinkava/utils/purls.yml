@@ -1,6 +1,7 @@
 - pkg:composer/pinkava/utils@v0.1
 - pkg:composer/pinkava/utils@v0.1.1
 - pkg:composer/pinkava/utils@v0.1.10
+- pkg:composer/pinkava/utils@v0.1.11
 - pkg:composer/pinkava/utils@v0.1.2
 - pkg:composer/pinkava/utils@v0.1.3
 - pkg:composer/pinkava/utils@v0.1.4
