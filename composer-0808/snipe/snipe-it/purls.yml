@@ -276,3 +276,5 @@
 - pkg:composer/snipe/snipe-it@v8.5.0
 - pkg:composer/snipe/snipe-it@v8.6.0
 - pkg:composer/snipe/snipe-it@v8.6.1
+- pkg:composer/snipe/snipe-it@v8.6.2
+- pkg:composer/snipe/snipe-it@v8.6.3
