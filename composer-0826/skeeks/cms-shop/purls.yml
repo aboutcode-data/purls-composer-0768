@@ -559,6 +559,12 @@
 - pkg:composer/skeeks/cms-shop@3.2.4.1
 - pkg:composer/skeeks/cms-shop@3.2.4.10
 - pkg:composer/skeeks/cms-shop@3.2.4.11
+- pkg:composer/skeeks/cms-shop@3.2.4.12
+- pkg:composer/skeeks/cms-shop@3.2.4.13
+- pkg:composer/skeeks/cms-shop@3.2.4.14
+- pkg:composer/skeeks/cms-shop@3.2.4.15
+- pkg:composer/skeeks/cms-shop@3.2.4.16
+- pkg:composer/skeeks/cms-shop@3.2.4.17
 - pkg:composer/skeeks/cms-shop@3.2.4.2
 - pkg:composer/skeeks/cms-shop@3.2.4.3
 - pkg:composer/skeeks/cms-shop@3.2.4.4
@@ -567,3 +573,5 @@
 - pkg:composer/skeeks/cms-shop@3.2.4.7
 - pkg:composer/skeeks/cms-shop@3.2.4.8
 - pkg:composer/skeeks/cms-shop@3.2.4.9
+- pkg:composer/skeeks/cms-shop@3.2.5
+- pkg:composer/skeeks/cms-shop@3.2.5.1
