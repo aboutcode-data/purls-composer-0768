@@ -1,1 +1,4 @@
 - pkg:composer/smsh/ticketing-bridge@1.0.0
+- pkg:composer/smsh/ticketing-bridge@1.0.2
+- pkg:composer/smsh/ticketing-bridge@1.0.3
+- pkg:composer/smsh/ticketing-bridge@1.0.4
