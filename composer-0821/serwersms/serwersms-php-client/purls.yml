@@ -6,3 +6,4 @@
 - pkg:composer/serwersms/serwersms-php-client@1.0.7
 - pkg:composer/serwersms/serwersms-php-client@2.0.0
 - pkg:composer/serwersms/serwersms-php-client@2.0.1
+- pkg:composer/serwersms/serwersms-php-client@v3.0.0
