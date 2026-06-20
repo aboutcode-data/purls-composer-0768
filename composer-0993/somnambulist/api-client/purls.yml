@@ -37,3 +37,4 @@
 - pkg:composer/somnambulist/api-client@4.0.3
 - pkg:composer/somnambulist/api-client@4.1.0
 - pkg:composer/somnambulist/api-client@4.1.1
+- pkg:composer/somnambulist/api-client@5.0.0
