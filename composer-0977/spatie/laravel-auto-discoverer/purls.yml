@@ -24,3 +24,5 @@
 - pkg:composer/spatie/laravel-auto-discoverer@2.4.0
 - pkg:composer/spatie/laravel-auto-discoverer@2.4.1
 - pkg:composer/spatie/laravel-auto-discoverer@2.4.2
+- pkg:composer/spatie/laravel-auto-discoverer@2.4.3
+- pkg:composer/spatie/laravel-auto-discoverer@2.4.4
