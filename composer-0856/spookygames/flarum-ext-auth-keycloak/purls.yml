@@ -14,3 +14,5 @@
 - pkg:composer/spookygames/flarum-ext-auth-keycloak@1.2.0.0
 - pkg:composer/spookygames/flarum-ext-auth-keycloak@1.3.0.0
 - pkg:composer/spookygames/flarum-ext-auth-keycloak@1.3.0.1
+- pkg:composer/spookygames/flarum-ext-auth-keycloak@1.8.0.0
+- pkg:composer/spookygames/flarum-ext-auth-keycloak@1.8.0.1
