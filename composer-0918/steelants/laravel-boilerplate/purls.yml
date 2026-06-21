@@ -98,10 +98,13 @@
 - pkg:composer/steelants/laravel-boilerplate@2.4.1
 - pkg:composer/steelants/laravel-boilerplate@2.5.0
 - pkg:composer/steelants/laravel-boilerplate@2.5.1
+- pkg:composer/steelants/laravel-boilerplate@2.5.10
 - pkg:composer/steelants/laravel-boilerplate@2.5.2
 - pkg:composer/steelants/laravel-boilerplate@2.5.3
 - pkg:composer/steelants/laravel-boilerplate@2.5.4
 - pkg:composer/steelants/laravel-boilerplate@2.5.5
 - pkg:composer/steelants/laravel-boilerplate@2.5.6
 - pkg:composer/steelants/laravel-boilerplate@2.5.7
+- pkg:composer/steelants/laravel-boilerplate@2.5.8
+- pkg:composer/steelants/laravel-boilerplate@2.5.9
 - pkg:composer/steelants/laravel-boilerplate@v0.0.1
