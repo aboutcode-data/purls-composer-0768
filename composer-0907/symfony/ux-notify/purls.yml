@@ -50,3 +50,4 @@
 - pkg:composer/symfony/ux-notify@v2.9.1
 - pkg:composer/symfony/ux-notify@v3.0.0
 - pkg:composer/symfony/ux-notify@v3.1.0
+- pkg:composer/symfony/ux-notify@v3.2.0
