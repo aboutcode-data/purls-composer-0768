@@ -19,3 +19,6 @@
 - pkg:composer/torq/pimcore-helpers-bundle@v2.8.1
 - pkg:composer/torq/pimcore-helpers-bundle@v2.8.2
 - pkg:composer/torq/pimcore-helpers-bundle@v2.8.3
+- pkg:composer/torq/pimcore-helpers-bundle@v2.8.4
+- pkg:composer/torq/pimcore-helpers-bundle@v2.8.5
+- pkg:composer/torq/pimcore-helpers-bundle@v3.0.0
