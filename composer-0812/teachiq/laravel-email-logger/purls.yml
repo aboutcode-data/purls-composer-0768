@@ -6,3 +6,4 @@
 - pkg:composer/teachiq/laravel-email-logger@v3.0.0
 - pkg:composer/teachiq/laravel-email-logger@v4.0.0
 - pkg:composer/teachiq/laravel-email-logger@v5.0.0
+- pkg:composer/teachiq/laravel-email-logger@v6.0.0
