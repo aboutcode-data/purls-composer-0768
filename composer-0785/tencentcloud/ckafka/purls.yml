@@ -424,6 +424,7 @@
 - pkg:composer/tencentcloud/ckafka@3.0.1593
 - pkg:composer/tencentcloud/ckafka@3.0.1595
 - pkg:composer/tencentcloud/ckafka@3.0.1600
+- pkg:composer/tencentcloud/ckafka@3.0.1609
 - pkg:composer/tencentcloud/ckafka@3.0.248
 - pkg:composer/tencentcloud/ckafka@3.0.249
 - pkg:composer/tencentcloud/ckafka@3.0.250
