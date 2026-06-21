@@ -21,3 +21,4 @@
 - pkg:composer/track-any-device/sso-server@v0.6.2
 - pkg:composer/track-any-device/sso-server@v0.6.3
 - pkg:composer/track-any-device/sso-server@v0.7.0
+- pkg:composer/track-any-device/sso-server@v0.7.1
