@@ -7,3 +7,4 @@
 - pkg:composer/statikbe/deployer-tasks@0.0.7
 - pkg:composer/statikbe/deployer-tasks@0.0.8
 - pkg:composer/statikbe/deployer-tasks@0.0.9
+- pkg:composer/statikbe/deployer-tasks@0.1.0
