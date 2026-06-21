@@ -94,3 +94,4 @@
 - pkg:composer/symplify/easy-parallel@11.2.0
 - pkg:composer/symplify/easy-parallel@11.2.1
 - pkg:composer/symplify/easy-parallel@11.2.2
+- pkg:composer/symplify/easy-parallel@12.0.0

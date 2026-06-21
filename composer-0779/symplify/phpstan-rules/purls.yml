@@ -203,6 +203,7 @@
 - pkg:composer/symplify/phpstan-rules@14.1.5
 - pkg:composer/symplify/phpstan-rules@14.10.0
 - pkg:composer/symplify/phpstan-rules@14.11.0
+- pkg:composer/symplify/phpstan-rules@14.12.0
 - pkg:composer/symplify/phpstan-rules@14.2.0
 - pkg:composer/symplify/phpstan-rules@14.2.1
 - pkg:composer/symplify/phpstan-rules@14.2.2
