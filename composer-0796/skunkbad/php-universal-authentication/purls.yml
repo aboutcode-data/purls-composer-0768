@@ -1,2 +1,3 @@
 - pkg:composer/skunkbad/php-universal-authentication@1.0.0
+- pkg:composer/skunkbad/php-universal-authentication@1.0.1
 - pkg:composer/skunkbad/php-universal-authentication@v0.0.8
