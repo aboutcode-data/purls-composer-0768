@@ -9,3 +9,4 @@
 - pkg:composer/andersundsehr/phpstan-git-files@10.2.1
 - pkg:composer/andersundsehr/phpstan-git-files@10.2.7
 - pkg:composer/andersundsehr/phpstan-git-files@11.0.0
+- pkg:composer/andersundsehr/phpstan-git-files@11.0.3
