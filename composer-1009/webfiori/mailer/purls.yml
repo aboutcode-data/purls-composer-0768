@@ -4,6 +4,8 @@
 - pkg:composer/webfiori/mailer@2.0.0
 - pkg:composer/webfiori/mailer@2.1.0
 - pkg:composer/webfiori/mailer@2.1.1
+- pkg:composer/webfiori/mailer@2.2.0
+- pkg:composer/webfiori/mailer@2.2.1
 - pkg:composer/webfiori/mailer@v1.0.0
 - pkg:composer/webfiori/mailer@v1.0.1
 - pkg:composer/webfiori/mailer@v1.0.2
