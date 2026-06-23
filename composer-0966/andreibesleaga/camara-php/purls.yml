@@ -12,4 +12,6 @@
 - pkg:composer/andreibesleaga/camara-php@v0.5.5
 - pkg:composer/andreibesleaga/camara-php@v0.5.6
 - pkg:composer/andreibesleaga/camara-php@v0.5.7
-- pkg:composer/andreibesleaga/camara-php@v1.0.0-alpha
+- pkg:composer/andreibesleaga/camara-php@v0.6.0
+- pkg:composer/andreibesleaga/camara-php@v0.6.1
+- pkg:composer/andreibesleaga/camara-php@v0.6.2
