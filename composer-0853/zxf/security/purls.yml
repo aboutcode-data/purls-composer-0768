@@ -21,3 +21,6 @@
 - pkg:composer/zxf/security@v1.1.5
 - pkg:composer/zxf/security@v1.1.6
 - pkg:composer/zxf/security@v1.1.7
+- pkg:composer/zxf/security@v1.1.8
+- pkg:composer/zxf/security@v1.1.9
+- pkg:composer/zxf/security@v1.2.0
