@@ -38,3 +38,5 @@
 - pkg:composer/webproject-xyz/ikea-tradfri-php-api@4.2.0
 - pkg:composer/webproject-xyz/ikea-tradfri-php-api@4.3.0
 - pkg:composer/webproject-xyz/ikea-tradfri-php-api@4.3.1
+- pkg:composer/webproject-xyz/ikea-tradfri-php-api@4.4.0
+- pkg:composer/webproject-xyz/ikea-tradfri-php-api@4.5.0
