@@ -14,3 +14,4 @@
 - pkg:composer/wrteam/filament-ckeditor-field@v2.0.0
 - pkg:composer/wrteam/filament-ckeditor-field@v2.0.0-beta
 - pkg:composer/wrteam/filament-ckeditor-field@v2.0.1-beta
+- pkg:composer/wrteam/filament-ckeditor-field@v3.0.0
