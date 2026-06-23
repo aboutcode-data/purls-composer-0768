@@ -6,6 +6,9 @@
 - pkg:composer/wyrihaximus/makefiles@0.10.4
 - pkg:composer/wyrihaximus/makefiles@0.10.5
 - pkg:composer/wyrihaximus/makefiles@0.10.6
+- pkg:composer/wyrihaximus/makefiles@0.11.0
+- pkg:composer/wyrihaximus/makefiles@0.11.1
+- pkg:composer/wyrihaximus/makefiles@0.12.0
 - pkg:composer/wyrihaximus/makefiles@0.2.0
 - pkg:composer/wyrihaximus/makefiles@0.3.0
 - pkg:composer/wyrihaximus/makefiles@0.3.1
