@@ -24,3 +24,5 @@
 - pkg:composer/webstack/vroom-php@v3.0.0-rc.6
 - pkg:composer/webstack/vroom-php@v3.0.0-rc.7
 - pkg:composer/webstack/vroom-php@v3.0.0-rc.8
+- pkg:composer/webstack/vroom-php@v3.1.0
+- pkg:composer/webstack/vroom-php@v3.2.0
