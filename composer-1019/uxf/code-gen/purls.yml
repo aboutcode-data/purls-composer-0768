@@ -223,5 +223,7 @@
 - pkg:composer/uxf/code-gen@3.80.2
 - pkg:composer/uxf/code-gen@3.80.3
 - pkg:composer/uxf/code-gen@3.81.0
+- pkg:composer/uxf/code-gen@3.81.2
+- pkg:composer/uxf/code-gen@3.81.3
 - pkg:composer/uxf/code-gen@3.9.2
 - pkg:composer/uxf/code-gen@v1.0.0
