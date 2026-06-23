@@ -120,3 +120,4 @@
 - pkg:composer/alibabacloud/polardb-20170801@6.7.3
 - pkg:composer/alibabacloud/polardb-20170801@6.8.0
 - pkg:composer/alibabacloud/polardb-20170801@6.9.0
+- pkg:composer/alibabacloud/polardb-20170801@7.0.0
