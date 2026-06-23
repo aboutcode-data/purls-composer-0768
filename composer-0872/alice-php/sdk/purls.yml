@@ -1,6 +1,10 @@
 - pkg:composer/alice-php/sdk@0.0.0
 - pkg:composer/alice-php/sdk@0.0.1
 - pkg:composer/alice-php/sdk@0.0.10
+- pkg:composer/alice-php/sdk@0.0.11
+- pkg:composer/alice-php/sdk@0.0.12
+- pkg:composer/alice-php/sdk@0.0.13
+- pkg:composer/alice-php/sdk@0.0.14
 - pkg:composer/alice-php/sdk@0.0.2
 - pkg:composer/alice-php/sdk@0.0.3
 - pkg:composer/alice-php/sdk@0.0.4
