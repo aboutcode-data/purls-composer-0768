@@ -8,6 +8,7 @@
 - pkg:composer/xp-forge/stomp@v12.0.0
 - pkg:composer/xp-forge/stomp@v12.0.1
 - pkg:composer/xp-forge/stomp@v12.1.0
+- pkg:composer/xp-forge/stomp@v12.2.0
 - pkg:composer/xp-forge/stomp@v6.0.3
 - pkg:composer/xp-forge/stomp@v7.0.0
 - pkg:composer/xp-forge/stomp@v7.0.1
