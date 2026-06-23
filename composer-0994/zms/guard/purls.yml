@@ -3,3 +3,4 @@
 - pkg:composer/zms/guard@v1.0.2
 - pkg:composer/zms/guard@v1.0.3
 - pkg:composer/zms/guard@v1.0.4
+- pkg:composer/zms/guard@v3.2.0
