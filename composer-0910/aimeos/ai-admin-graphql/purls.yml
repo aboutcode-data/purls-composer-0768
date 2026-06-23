@@ -35,6 +35,7 @@
 - pkg:composer/aimeos/ai-admin-graphql@2024.10.1
 - pkg:composer/aimeos/ai-admin-graphql@2024.10.2
 - pkg:composer/aimeos/ai-admin-graphql@2024.10.3
+- pkg:composer/aimeos/ai-admin-graphql@2024.10.4
 - pkg:composer/aimeos/ai-admin-graphql@2025.04.1
 - pkg:composer/aimeos/ai-admin-graphql@2025.07.1
 - pkg:composer/aimeos/ai-admin-graphql@2025.10.1
