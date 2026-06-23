@@ -173,6 +173,10 @@
 - pkg:composer/typicms/base@17.0.12
 - pkg:composer/typicms/base@17.0.13
 - pkg:composer/typicms/base@17.0.14
+- pkg:composer/typicms/base@17.0.15
+- pkg:composer/typicms/base@17.0.16
+- pkg:composer/typicms/base@17.0.17
+- pkg:composer/typicms/base@17.0.18
 - pkg:composer/typicms/base@17.0.2
 - pkg:composer/typicms/base@17.0.3
 - pkg:composer/typicms/base@17.0.4
