@@ -16,3 +16,7 @@
 - pkg:composer/brunoscode/laravel-translation-handler@v2.2.0
 - pkg:composer/brunoscode/laravel-translation-handler@v2.3.0
 - pkg:composer/brunoscode/laravel-translation-handler@v2.4.0
+- pkg:composer/brunoscode/laravel-translation-handler@v2.4.1
+- pkg:composer/brunoscode/laravel-translation-handler@v2.5.0
+- pkg:composer/brunoscode/laravel-translation-handler@v2.6.0
+- pkg:composer/brunoscode/laravel-translation-handler@v2.6.1
