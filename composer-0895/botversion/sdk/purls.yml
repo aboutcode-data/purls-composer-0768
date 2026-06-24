@@ -1,4 +1,6 @@
+- pkg:composer/botversion/sdk@1.1.7
 - pkg:composer/botversion/sdk@v1.0.1
 - pkg:composer/botversion/sdk@v1.0.2
 - pkg:composer/botversion/sdk@v1.0.3
 - pkg:composer/botversion/sdk@v1.0.4
+- pkg:composer/botversion/sdk@v1.1.6
