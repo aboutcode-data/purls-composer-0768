@@ -8,3 +8,4 @@
 - pkg:composer/backstage/laravel-static@v0.2.2
 - pkg:composer/backstage/laravel-static@v0.2.3
 - pkg:composer/backstage/laravel-static@v0.2.4
+- pkg:composer/backstage/laravel-static@v0.3.0
