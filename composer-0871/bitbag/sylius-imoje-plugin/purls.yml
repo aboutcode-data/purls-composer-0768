@@ -8,3 +8,4 @@
 - pkg:composer/bitbag/sylius-imoje-plugin@v3.0.1
 - pkg:composer/bitbag/sylius-imoje-plugin@v3.0.2
 - pkg:composer/bitbag/sylius-imoje-plugin@v3.1.0
+- pkg:composer/bitbag/sylius-imoje-plugin@v4.0.0
