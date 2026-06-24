@@ -135,6 +135,7 @@
 - pkg:composer/altis/security@26.0.3
 - pkg:composer/altis/security@26.0.4
 - pkg:composer/altis/security@26.0.5
+- pkg:composer/altis/security@27.0.0
 - pkg:composer/altis/security@27.0.0-beta.1
 - pkg:composer/altis/security@3.0.0
 - pkg:composer/altis/security@3.0.0-beta1
