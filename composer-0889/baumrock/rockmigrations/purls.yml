@@ -106,3 +106,5 @@
 - pkg:composer/baumrock/rockmigrations@v7.3.0
 - pkg:composer/baumrock/rockmigrations@v7.4.0
 - pkg:composer/baumrock/rockmigrations@v7.4.1
+- pkg:composer/baumrock/rockmigrations@v7.4.2
+- pkg:composer/baumrock/rockmigrations@v7.5.0
