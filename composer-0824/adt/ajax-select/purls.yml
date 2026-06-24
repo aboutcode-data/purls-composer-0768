@@ -40,3 +40,5 @@
 - pkg:composer/adt/ajax-select@v4.0
 - pkg:composer/adt/ajax-select@v4.0.1
 - pkg:composer/adt/ajax-select@v4.1
+- pkg:composer/adt/ajax-select@v4.2
+- pkg:composer/adt/ajax-select@v4.2.1
