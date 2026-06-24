@@ -107,3 +107,4 @@
 - pkg:composer/zemit-cms/core@3.5.1
 - pkg:composer/zemit-cms/core@3.5.2
 - pkg:composer/zemit-cms/core@3.7.0
+- pkg:composer/zemit-cms/core@3.7.1
