@@ -1,5 +1,7 @@
 - pkg:composer/diversworld/contao-calendar-editor@3.5.0
 - pkg:composer/diversworld/contao-calendar-editor@3.7.1
+- pkg:composer/diversworld/contao-calendar-editor@3.8.1
+- pkg:composer/diversworld/contao-calendar-editor@3.8.6
 - pkg:composer/diversworld/contao-calendar-editor@5.0.0
 - pkg:composer/diversworld/contao-calendar-editor@5.0.1
 - pkg:composer/diversworld/contao-calendar-editor@5.0.10
@@ -42,3 +44,4 @@
 - pkg:composer/diversworld/contao-calendar-editor@5.4.7
 - pkg:composer/diversworld/contao-calendar-editor@5.4.8
 - pkg:composer/diversworld/contao-calendar-editor@5.4.9
+- pkg:composer/diversworld/contao-calendar-editor@5.5.0
