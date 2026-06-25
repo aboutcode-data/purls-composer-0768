@@ -386,6 +386,7 @@
 - pkg:composer/contao/calendar-bundle@5.3.44
 - pkg:composer/contao/calendar-bundle@5.3.45
 - pkg:composer/contao/calendar-bundle@5.3.46
+- pkg:composer/contao/calendar-bundle@5.3.47
 - pkg:composer/contao/calendar-bundle@5.3.5
 - pkg:composer/contao/calendar-bundle@5.3.6
 - pkg:composer/contao/calendar-bundle@5.3.7
@@ -457,3 +458,4 @@
 - pkg:composer/contao/calendar-bundle@5.7.4
 - pkg:composer/contao/calendar-bundle@5.7.5
 - pkg:composer/contao/calendar-bundle@5.7.6
+- pkg:composer/contao/calendar-bundle@5.7.7
