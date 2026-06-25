@@ -33,3 +33,7 @@
 - pkg:composer/codebar-ag/laravel-bexio@v13.5.1
 - pkg:composer/codebar-ag/laravel-bexio@v13.6.0
 - pkg:composer/codebar-ag/laravel-bexio@v13.7.0
+- pkg:composer/codebar-ag/laravel-bexio@v13.8.0
+- pkg:composer/codebar-ag/laravel-bexio@v13.9.0
+- pkg:composer/codebar-ag/laravel-bexio@v14.0.0
+- pkg:composer/codebar-ag/laravel-bexio@v14.1.0
