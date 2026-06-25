@@ -120,6 +120,7 @@
 - pkg:composer/coreshop/shipping-bundle@4.1.1
 - pkg:composer/coreshop/shipping-bundle@4.1.10
 - pkg:composer/coreshop/shipping-bundle@4.1.11
+- pkg:composer/coreshop/shipping-bundle@4.1.12
 - pkg:composer/coreshop/shipping-bundle@4.1.2
 - pkg:composer/coreshop/shipping-bundle@4.1.3
 - pkg:composer/coreshop/shipping-bundle@4.1.4
