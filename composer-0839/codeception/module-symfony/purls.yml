@@ -32,3 +32,4 @@
 - pkg:composer/codeception/module-symfony@3.8.0
 - pkg:composer/codeception/module-symfony@3.9.0
 - pkg:composer/codeception/module-symfony@3.9.1
+- pkg:composer/codeception/module-symfony@3.9.2
