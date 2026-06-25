@@ -40,3 +40,4 @@
 - pkg:composer/dereuromark/cakephp-databaselog@4.4.2
 - pkg:composer/dereuromark/cakephp-databaselog@4.5.0
 - pkg:composer/dereuromark/cakephp-databaselog@4.6.0
+- pkg:composer/dereuromark/cakephp-databaselog@4.6.1
