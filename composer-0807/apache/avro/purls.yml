@@ -26,3 +26,4 @@
 - pkg:composer/apache/avro@1.12.1
 - pkg:composer/apache/avro@1.12.1-rc0
 - pkg:composer/apache/avro@1.12.2-rc0
+- pkg:composer/apache/avro@1.12.2-rc1
