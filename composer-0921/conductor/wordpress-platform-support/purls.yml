@@ -5,3 +5,4 @@
 - pkg:composer/conductor/wordpress-platform-support@0.9.4
 - pkg:composer/conductor/wordpress-platform-support@1.0.0
 - pkg:composer/conductor/wordpress-platform-support@1.0.1
+- pkg:composer/conductor/wordpress-platform-support@3.0.0

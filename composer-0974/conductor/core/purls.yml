@@ -19,3 +19,4 @@
 - pkg:composer/conductor/core@1.1.2
 - pkg:composer/conductor/core@1.1.3
 - pkg:composer/conductor/core@2.0.3
+- pkg:composer/conductor/core@2.0.4
