@@ -98,6 +98,8 @@
 - pkg:composer/friendsoftypo3/content-blocks@1.5.4
 - pkg:composer/friendsoftypo3/content-blocks@1.6.0
 - pkg:composer/friendsoftypo3/content-blocks@1.6.1
+- pkg:composer/friendsoftypo3/content-blocks@1.6.2
+- pkg:composer/friendsoftypo3/content-blocks@1.6.3
 - pkg:composer/friendsoftypo3/content-blocks@2.0.0
 - pkg:composer/friendsoftypo3/content-blocks@2.0.1
 - pkg:composer/friendsoftypo3/content-blocks@2.0.2
@@ -125,3 +127,5 @@
 - pkg:composer/friendsoftypo3/content-blocks@2.4.3
 - pkg:composer/friendsoftypo3/content-blocks@2.4.4
 - pkg:composer/friendsoftypo3/content-blocks@2.4.5
+- pkg:composer/friendsoftypo3/content-blocks@2.4.6
+- pkg:composer/friendsoftypo3/content-blocks@2.4.7
