@@ -24,3 +24,5 @@
 - pkg:composer/fakecloud/fakecloud@v0.21.1
 - pkg:composer/fakecloud/fakecloud@v0.22.0
 - pkg:composer/fakecloud/fakecloud@v0.23.0
+- pkg:composer/fakecloud/fakecloud@v0.24.0
+- pkg:composer/fakecloud/fakecloud@v0.25.0
