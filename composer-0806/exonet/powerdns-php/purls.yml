@@ -36,3 +36,4 @@
 - pkg:composer/exonet/powerdns-php@v4.6.2
 - pkg:composer/exonet/powerdns-php@v4.7.0
 - pkg:composer/exonet/powerdns-php@v4.7.1
+- pkg:composer/exonet/powerdns-php@v5.0.0
