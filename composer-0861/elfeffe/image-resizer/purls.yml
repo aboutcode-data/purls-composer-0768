@@ -1,3 +1,5 @@
 - pkg:composer/elfeffe/image-resizer@1.1
 - pkg:composer/elfeffe/image-resizer@1.2
 - pkg:composer/elfeffe/image-resizer@v1.0.0
+- pkg:composer/elfeffe/image-resizer@v2.0.0
+- pkg:composer/elfeffe/image-resizer@v2.0.1
