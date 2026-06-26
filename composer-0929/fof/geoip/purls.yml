@@ -36,7 +36,9 @@
 - pkg:composer/fof/geoip@1.5.2
 - pkg:composer/fof/geoip@1.5.3
 - pkg:composer/fof/geoip@1.5.4
+- pkg:composer/fof/geoip@1.5.5
 - pkg:composer/fof/geoip@2.0.0-beta.1
+- pkg:composer/fof/geoip@2.0.0-beta.10
 - pkg:composer/fof/geoip@2.0.0-beta.2
 - pkg:composer/fof/geoip@2.0.0-beta.3
 - pkg:composer/fof/geoip@2.0.0-beta.4
