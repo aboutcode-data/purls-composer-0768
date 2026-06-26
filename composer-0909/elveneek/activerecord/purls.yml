@@ -2,3 +2,5 @@
 - pkg:composer/elveneek/activerecord@v0.0.2
 - pkg:composer/elveneek/activerecord@v0.0.3
 - pkg:composer/elveneek/activerecord@v2.0.0
+- pkg:composer/elveneek/activerecord@v2.0.1
+- pkg:composer/elveneek/activerecord@v2.0.2
