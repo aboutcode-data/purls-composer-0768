@@ -7,3 +7,4 @@
 - pkg:composer/foxentry/php-api-client@v2.3.1
 - pkg:composer/foxentry/php-api-client@v2.3.2
 - pkg:composer/foxentry/php-api-client@v2.3.3
+- pkg:composer/foxentry/php-api-client@v3.0.0
