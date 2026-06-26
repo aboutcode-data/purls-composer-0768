@@ -104,3 +104,4 @@
 - pkg:composer/forme/codegen@v3.0.1
 - pkg:composer/forme/codegen@v3.0.2
 - pkg:composer/forme/codegen@v3.0.3
+- pkg:composer/forme/codegen@v3.1.0
