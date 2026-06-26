@@ -43,3 +43,4 @@
 - pkg:composer/destrofer/helper-library@v3.8.5
 - pkg:composer/destrofer/helper-library@v3.9.0
 - pkg:composer/destrofer/helper-library@v3.9.1
+- pkg:composer/destrofer/helper-library@v4.0.0
