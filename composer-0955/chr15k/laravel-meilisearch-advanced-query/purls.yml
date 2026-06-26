@@ -9,3 +9,4 @@
 - pkg:composer/chr15k/laravel-meilisearch-advanced-query@2.0.3
 - pkg:composer/chr15k/laravel-meilisearch-advanced-query@2.1.0
 - pkg:composer/chr15k/laravel-meilisearch-advanced-query@2.2.0
+- pkg:composer/chr15k/laravel-meilisearch-advanced-query@3.0.0
