@@ -2,6 +2,7 @@
 - pkg:composer/dxw/whippet@v1.0.1
 - pkg:composer/dxw/whippet@v2.0.0
 - pkg:composer/dxw/whippet@v2.1.0
+- pkg:composer/dxw/whippet@v2.10.0
 - pkg:composer/dxw/whippet@v2.2.0
 - pkg:composer/dxw/whippet@v2.2.1
 - pkg:composer/dxw/whippet@v2.2.2
@@ -16,3 +17,7 @@
 - pkg:composer/dxw/whippet@v2.7.0
 - pkg:composer/dxw/whippet@v2.7.1
 - pkg:composer/dxw/whippet@v2.8.0
+- pkg:composer/dxw/whippet@v2.8.1
+- pkg:composer/dxw/whippet@v2.9.0
+- pkg:composer/dxw/whippet@v2.9.1
+- pkg:composer/dxw/whippet@v2.9.2
