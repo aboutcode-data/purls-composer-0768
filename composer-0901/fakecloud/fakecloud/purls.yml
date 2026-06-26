@@ -17,3 +17,10 @@
 - pkg:composer/fakecloud/fakecloud@v0.18.0
 - pkg:composer/fakecloud/fakecloud@v0.19.0
 - pkg:composer/fakecloud/fakecloud@v0.19.1
+- pkg:composer/fakecloud/fakecloud@v0.20.0
+- pkg:composer/fakecloud/fakecloud@v0.20.1
+- pkg:composer/fakecloud/fakecloud@v0.20.2
+- pkg:composer/fakecloud/fakecloud@v0.21.0
+- pkg:composer/fakecloud/fakecloud@v0.21.1
+- pkg:composer/fakecloud/fakecloud@v0.22.0
+- pkg:composer/fakecloud/fakecloud@v0.23.0
