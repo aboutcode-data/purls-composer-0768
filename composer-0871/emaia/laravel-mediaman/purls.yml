@@ -36,3 +36,4 @@
 - pkg:composer/emaia/laravel-mediaman@v2.8.0
 - pkg:composer/emaia/laravel-mediaman@v2.9.0
 - pkg:composer/emaia/laravel-mediaman@v3.0.0
+- pkg:composer/emaia/laravel-mediaman@v3.0.1
