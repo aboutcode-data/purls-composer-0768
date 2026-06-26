@@ -1,3 +1,4 @@
 - pkg:composer/evas-php/evas-db@1.0
 - pkg:composer/evas-php/evas-db@1.0.1
 - pkg:composer/evas-php/evas-db@2.0
+- pkg:composer/evas-php/evas-db@2.0.1
