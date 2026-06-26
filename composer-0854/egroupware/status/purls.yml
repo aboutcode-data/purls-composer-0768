@@ -119,3 +119,5 @@
 - pkg:composer/egroupware/status@26.4.20260429
 - pkg:composer/egroupware/status@26.5.20260506
 - pkg:composer/egroupware/status@26.5.20260507
+- pkg:composer/egroupware/status@26.6.20260616
+- pkg:composer/egroupware/status@26.6.20260619
