@@ -2,6 +2,9 @@
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.0
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.1
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.10
+- pkg:composer/graftcode/hypertube-php-sdk@v3.0.11
+- pkg:composer/graftcode/hypertube-php-sdk@v3.0.12
+- pkg:composer/graftcode/hypertube-php-sdk@v3.0.13
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.2
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.3
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.4
@@ -10,3 +13,5 @@
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.7
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.8
 - pkg:composer/graftcode/hypertube-php-sdk@v3.0.9
+- pkg:composer/graftcode/hypertube-php-sdk@v3.1.0
+- pkg:composer/graftcode/hypertube-php-sdk@v3.1.1
