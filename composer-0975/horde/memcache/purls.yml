@@ -3,6 +3,7 @@
 - pkg:composer/horde/memcache@2.1.0
 - pkg:composer/horde/memcache@2.1.1
 - pkg:composer/horde/memcache@2.1.2
+- pkg:composer/horde/memcache@v3.0.0
 - pkg:composer/horde/memcache@v3.0.0alpha1
 - pkg:composer/horde/memcache@v3.0.0alpha2
 - pkg:composer/horde/memcache@v3.0.0beta1
