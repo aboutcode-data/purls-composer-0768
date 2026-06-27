@@ -57,6 +57,8 @@
 - pkg:composer/hwkdo/intranet-app-assets@v1.6.5
 - pkg:composer/hwkdo/intranet-app-assets@v1.7
 - pkg:composer/hwkdo/intranet-app-assets@v1.7.1
+- pkg:composer/hwkdo/intranet-app-assets@v1.7.10
+- pkg:composer/hwkdo/intranet-app-assets@v1.7.11
 - pkg:composer/hwkdo/intranet-app-assets@v1.7.2
 - pkg:composer/hwkdo/intranet-app-assets@v1.7.3
 - pkg:composer/hwkdo/intranet-app-assets@v1.7.4
@@ -65,3 +67,5 @@
 - pkg:composer/hwkdo/intranet-app-assets@v1.7.7
 - pkg:composer/hwkdo/intranet-app-assets@v1.7.8
 - pkg:composer/hwkdo/intranet-app-assets@v1.7.9
+- pkg:composer/hwkdo/intranet-app-assets@v1.8
+- pkg:composer/hwkdo/intranet-app-assets@v1.8.1
