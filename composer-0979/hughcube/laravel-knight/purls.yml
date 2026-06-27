@@ -434,6 +434,8 @@
 - pkg:composer/hughcube/laravel-knight@v6.0.161
 - pkg:composer/hughcube/laravel-knight@v6.0.162
 - pkg:composer/hughcube/laravel-knight@v6.0.163
+- pkg:composer/hughcube/laravel-knight@v6.0.164
+- pkg:composer/hughcube/laravel-knight@v6.0.165
 - pkg:composer/hughcube/laravel-knight@v6.0.17
 - pkg:composer/hughcube/laravel-knight@v6.0.18
 - pkg:composer/hughcube/laravel-knight@v6.0.19
