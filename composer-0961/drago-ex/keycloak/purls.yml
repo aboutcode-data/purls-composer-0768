@@ -3,3 +3,4 @@
 - pkg:composer/drago-ex/keycloak@v1.0.5
 - pkg:composer/drago-ex/keycloak@v1.0.6
 - pkg:composer/drago-ex/keycloak@v2.0.0
+- pkg:composer/drago-ex/keycloak@v2.0.1
