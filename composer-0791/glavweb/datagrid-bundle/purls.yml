@@ -62,3 +62,4 @@
 - pkg:composer/glavweb/datagrid-bundle@v3.4.0
 - pkg:composer/glavweb/datagrid-bundle@v3.4.1
 - pkg:composer/glavweb/datagrid-bundle@v3.5.0
+- pkg:composer/glavweb/datagrid-bundle@v4.0.0
