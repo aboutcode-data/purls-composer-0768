@@ -338,6 +338,7 @@
 - pkg:composer/illuminate/redis@v13.15.0
 - pkg:composer/illuminate/redis@v13.16.0
 - pkg:composer/illuminate/redis@v13.16.1
+- pkg:composer/illuminate/redis@v13.17.0
 - pkg:composer/illuminate/redis@v13.2.0
 - pkg:composer/illuminate/redis@v13.3.0
 - pkg:composer/illuminate/redis@v13.4.0
