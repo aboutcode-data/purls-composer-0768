@@ -1,2 +1,5 @@
 - pkg:composer/mahocommerce/module-mollie@v0.8.0
 - pkg:composer/mahocommerce/module-mollie@v0.8.1
+- pkg:composer/mahocommerce/module-mollie@v1.0.0
+- pkg:composer/mahocommerce/module-mollie@v1.1.0
+- pkg:composer/mahocommerce/module-mollie@v1.2.0
