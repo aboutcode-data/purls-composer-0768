@@ -4,3 +4,4 @@
 - pkg:composer/longitude-one/wkb-parser@2.1.0
 - pkg:composer/longitude-one/wkb-parser@3.0.0
 - pkg:composer/longitude-one/wkb-parser@3.0.0.RC
+- pkg:composer/longitude-one/wkb-parser@3.0.1
