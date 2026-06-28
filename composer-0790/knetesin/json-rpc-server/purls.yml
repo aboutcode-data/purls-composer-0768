@@ -4,3 +4,4 @@
 - pkg:composer/knetesin/json-rpc-server@v1.3.0
 - pkg:composer/knetesin/json-rpc-server@v1.4.0
 - pkg:composer/knetesin/json-rpc-server@v1.5.0
+- pkg:composer/knetesin/json-rpc-server@v1.6.0
