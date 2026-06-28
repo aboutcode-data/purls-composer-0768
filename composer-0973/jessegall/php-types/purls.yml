@@ -1,6 +1,10 @@
 - pkg:composer/jessegall/php-types@v1.0.0
 - pkg:composer/jessegall/php-types@v1.0.1
 - pkg:composer/jessegall/php-types@v1.1.0
+- pkg:composer/jessegall/php-types@v1.10.0
+- pkg:composer/jessegall/php-types@v1.11.0
+- pkg:composer/jessegall/php-types@v1.12.0
+- pkg:composer/jessegall/php-types@v1.13.0
 - pkg:composer/jessegall/php-types@v1.2.0
 - pkg:composer/jessegall/php-types@v1.2.1
 - pkg:composer/jessegall/php-types@v1.2.2
@@ -11,3 +15,4 @@
 - pkg:composer/jessegall/php-types@v1.6.0
 - pkg:composer/jessegall/php-types@v1.7.0
 - pkg:composer/jessegall/php-types@v1.8.0
+- pkg:composer/jessegall/php-types@v1.9.0
