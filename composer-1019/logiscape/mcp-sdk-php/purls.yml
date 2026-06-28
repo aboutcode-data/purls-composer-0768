@@ -27,3 +27,4 @@
 - pkg:composer/logiscape/mcp-sdk-php@v1.7.2
 - pkg:composer/logiscape/mcp-sdk-php@v1.7.3
 - pkg:composer/logiscape/mcp-sdk-php@v2.0.0-alpha1
+- pkg:composer/logiscape/mcp-sdk-php@v2.0.0-alpha2
