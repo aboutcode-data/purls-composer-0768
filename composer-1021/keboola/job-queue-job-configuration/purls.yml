@@ -32,3 +32,4 @@
 - pkg:composer/keboola/job-queue-job-configuration@3.4.0
 - pkg:composer/keboola/job-queue-job-configuration@3.5.0
 - pkg:composer/keboola/job-queue-job-configuration@3.5.1
+- pkg:composer/keboola/job-queue-job-configuration@3.6.0
