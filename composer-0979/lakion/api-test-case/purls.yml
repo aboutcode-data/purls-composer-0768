@@ -32,3 +32,4 @@
 - pkg:composer/lakion/api-test-case@v5.3.3
 - pkg:composer/lakion/api-test-case@v5.3.4
 - pkg:composer/lakion/api-test-case@v5.3.5
+- pkg:composer/lakion/api-test-case@v6.0.0
