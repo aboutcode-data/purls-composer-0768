@@ -3,3 +3,4 @@
 - pkg:composer/harugon/cloudflare@0.1.1
 - pkg:composer/harugon/cloudflare@0.1.2
 - pkg:composer/harugon/cloudflare@0.2.0
+- pkg:composer/harugon/cloudflare@0.4.0
