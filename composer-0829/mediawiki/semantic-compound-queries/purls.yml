@@ -8,3 +8,4 @@
 - pkg:composer/mediawiki/semantic-compound-queries@3.0.0
 - pkg:composer/mediawiki/semantic-compound-queries@3.0.0-beta
 - pkg:composer/mediawiki/semantic-compound-queries@4.0.0
+- pkg:composer/mediawiki/semantic-compound-queries@4.0.1
