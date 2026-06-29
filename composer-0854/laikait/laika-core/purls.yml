@@ -52,3 +52,5 @@
 - pkg:composer/laikait/laika-core@v3.3.3
 - pkg:composer/laikait/laika-core@v4.0.0
 - pkg:composer/laikait/laika-core@v4.0.1
+- pkg:composer/laikait/laika-core@v4.0.2
+- pkg:composer/laikait/laika-core@v4.0.3
