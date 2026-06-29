@@ -1,3 +1,4 @@
 - pkg:composer/mensbeam/filesystem@v1.0.0
 - pkg:composer/mensbeam/filesystem@v1.0.1
 - pkg:composer/mensbeam/filesystem@v1.0.2
+- pkg:composer/mensbeam/filesystem@v2.0.0
