@@ -37,6 +37,7 @@
 - pkg:composer/mirakl/sdk-php-shop@1.25.0
 - pkg:composer/mirakl/sdk-php-shop@1.25.1
 - pkg:composer/mirakl/sdk-php-shop@1.26.0
+- pkg:composer/mirakl/sdk-php-shop@1.27.0
 - pkg:composer/mirakl/sdk-php-shop@1.9.0
 - pkg:composer/mirakl/sdk-php-shop@1.9.1
 - pkg:composer/mirakl/sdk-php-shop@1.9.2
