@@ -17,6 +17,7 @@
 - pkg:composer/mlukman/doctrine-helper-bundle@1.2.0
 - pkg:composer/mlukman/doctrine-helper-bundle@1.2.1
 - pkg:composer/mlukman/doctrine-helper-bundle@1.2.10
+- pkg:composer/mlukman/doctrine-helper-bundle@1.2.11
 - pkg:composer/mlukman/doctrine-helper-bundle@1.2.2
 - pkg:composer/mlukman/doctrine-helper-bundle@1.2.3
 - pkg:composer/mlukman/doctrine-helper-bundle@1.2.4
