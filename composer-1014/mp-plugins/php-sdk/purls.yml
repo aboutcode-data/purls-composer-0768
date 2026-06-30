@@ -56,4 +56,5 @@
 - pkg:composer/mp-plugins/php-sdk@3.4.1
 - pkg:composer/mp-plugins/php-sdk@3.5.0
 - pkg:composer/mp-plugins/php-sdk@3.6.0
+- pkg:composer/mp-plugins/php-sdk@3.6.1
 - pkg:composer/mp-plugins/php-sdk@v0.1.0
