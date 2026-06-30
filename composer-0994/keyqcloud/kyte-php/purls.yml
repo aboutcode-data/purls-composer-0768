@@ -157,6 +157,8 @@
 - pkg:composer/keyqcloud/kyte-php@v4.11.1
 - pkg:composer/keyqcloud/kyte-php@v4.12.0
 - pkg:composer/keyqcloud/kyte-php@v4.13.0
+- pkg:composer/keyqcloud/kyte-php@v4.14.0
+- pkg:composer/keyqcloud/kyte-php@v4.15.0
 - pkg:composer/keyqcloud/kyte-php@v4.2.0
 - pkg:composer/keyqcloud/kyte-php@v4.3.0
 - pkg:composer/keyqcloud/kyte-php@v4.3.1
