@@ -41,3 +41,5 @@
 - pkg:composer/nexxomnia/apiclient-php@1.6.7
 - pkg:composer/nexxomnia/apiclient-php@1.6.8
 - pkg:composer/nexxomnia/apiclient-php@1.6.9
+- pkg:composer/nexxomnia/apiclient-php@1.7.0
+- pkg:composer/nexxomnia/apiclient-php@1.7.1
