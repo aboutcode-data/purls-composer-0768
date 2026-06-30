@@ -1,1 +1,3 @@
 - pkg:composer/mrsleeps/vexim-web-plugin-pdns@v1.0.0
+- pkg:composer/mrsleeps/vexim-web-plugin-pdns@v1.0.1
+- pkg:composer/mrsleeps/vexim-web-plugin-pdns@v1.0.2
