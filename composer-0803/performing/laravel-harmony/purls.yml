@@ -32,3 +32,6 @@
 - pkg:composer/performing/laravel-harmony@0.9.4
 - pkg:composer/performing/laravel-harmony@0.9.5
 - pkg:composer/performing/laravel-harmony@0.9.6
+- pkg:composer/performing/laravel-harmony@1.0
+- pkg:composer/performing/laravel-harmony@1.1.0
+- pkg:composer/performing/laravel-harmony@1.1.1
