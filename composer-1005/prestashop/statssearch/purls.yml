@@ -2,3 +2,4 @@
 - pkg:composer/prestashop/statssearch@v2.0.1
 - pkg:composer/prestashop/statssearch@v2.0.2
 - pkg:composer/prestashop/statssearch@v2.1.0
+- pkg:composer/prestashop/statssearch@v3.0.0
