@@ -1,3 +1,5 @@
 - pkg:composer/phpdot/database@v1.0.0
+- pkg:composer/phpdot/database@v1.1.0
 - pkg:composer/phpdot/database@v1.2.0
 - pkg:composer/phpdot/database@v2.0.0
+- pkg:composer/phpdot/database@v2.0.1
