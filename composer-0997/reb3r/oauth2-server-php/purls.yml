@@ -31,6 +31,7 @@
 - pkg:composer/reb3r/oauth2-server-php@v1.16.7
 - pkg:composer/reb3r/oauth2-server-php@v1.16.8
 - pkg:composer/reb3r/oauth2-server-php@v1.16.9
+- pkg:composer/reb3r/oauth2-server-php@v1.17.0
 - pkg:composer/reb3r/oauth2-server-php@v1.2
 - pkg:composer/reb3r/oauth2-server-php@v1.3
 - pkg:composer/reb3r/oauth2-server-php@v1.4
