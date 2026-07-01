@@ -1,1 +1,3 @@
 - pkg:composer/rasuvaeff/yii3-audit-log@1.0.0
+- pkg:composer/rasuvaeff/yii3-audit-log@v1.0.1
+- pkg:composer/rasuvaeff/yii3-audit-log@v1.0.2
