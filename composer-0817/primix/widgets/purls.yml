@@ -46,3 +46,5 @@
 - pkg:composer/primix/widgets@0.6.5
 - pkg:composer/primix/widgets@0.6.6
 - pkg:composer/primix/widgets@0.7.0
+- pkg:composer/primix/widgets@0.7.1
+- pkg:composer/primix/widgets@0.7.2
