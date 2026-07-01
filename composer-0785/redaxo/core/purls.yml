@@ -42,3 +42,4 @@
 - pkg:composer/redaxo/core@5.21.0
 - pkg:composer/redaxo/core@5.21.0-beta1
 - pkg:composer/redaxo/core@5.21.1
+- pkg:composer/redaxo/core@5.21.2
