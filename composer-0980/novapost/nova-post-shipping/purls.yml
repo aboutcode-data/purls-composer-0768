@@ -1,3 +1,5 @@
 - pkg:composer/novapost/nova-post-shipping@1.0.0
 - pkg:composer/novapost/nova-post-shipping@v1.1.0
 - pkg:composer/novapost/nova-post-shipping@v1.1.1
+- pkg:composer/novapost/nova-post-shipping@v1.1.2
+- pkg:composer/novapost/nova-post-shipping@v1.1.3
