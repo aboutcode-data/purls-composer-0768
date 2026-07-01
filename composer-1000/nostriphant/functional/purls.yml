@@ -29,3 +29,7 @@
 - pkg:composer/nostriphant/functional@2.6.9
 - pkg:composer/nostriphant/functional@2.7.0
 - pkg:composer/nostriphant/functional@2.7.1
+- pkg:composer/nostriphant/functional@2.7.2
+- pkg:composer/nostriphant/functional@2.7.3
+- pkg:composer/nostriphant/functional@2.7.4
+- pkg:composer/nostriphant/functional@2.7.5
