@@ -6,3 +6,4 @@
 - pkg:composer/ontec/react-redis-streams@v0.2.4
 - pkg:composer/ontec/react-redis-streams@v0.2.5
 - pkg:composer/ontec/react-redis-streams@v0.2.6
+- pkg:composer/ontec/react-redis-streams@v0.2.7
