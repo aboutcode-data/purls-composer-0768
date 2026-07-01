@@ -31,3 +31,4 @@
 - pkg:composer/remp/laravel-sso@4.3.1
 - pkg:composer/remp/laravel-sso@5.0.0
 - pkg:composer/remp/laravel-sso@5.0.1
+- pkg:composer/remp/laravel-sso@5.1.0
