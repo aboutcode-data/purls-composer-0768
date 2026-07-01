@@ -9,3 +9,5 @@
 - pkg:composer/rapidez/statamic-query-builder@2.1.4
 - pkg:composer/rapidez/statamic-query-builder@2.2.0
 - pkg:composer/rapidez/statamic-query-builder@2.3.0
+- pkg:composer/rapidez/statamic-query-builder@2.3.1
+- pkg:composer/rapidez/statamic-query-builder@3.0.0
