@@ -64,6 +64,7 @@
 - pkg:composer/phpstan/phpstan-nette@2.0.0
 - pkg:composer/phpstan/phpstan-nette@2.0.1
 - pkg:composer/phpstan/phpstan-nette@2.0.10
+- pkg:composer/phpstan/phpstan-nette@2.0.11
 - pkg:composer/phpstan/phpstan-nette@2.0.2
 - pkg:composer/phpstan/phpstan-nette@2.0.3
 - pkg:composer/phpstan/phpstan-nette@2.0.4
