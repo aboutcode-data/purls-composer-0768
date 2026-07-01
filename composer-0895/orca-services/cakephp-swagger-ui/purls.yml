@@ -6,3 +6,5 @@
 - pkg:composer/orca-services/cakephp-swagger-ui@1.0.3
 - pkg:composer/orca-services/cakephp-swagger-ui@1.0.4
 - pkg:composer/orca-services/cakephp-swagger-ui@1.0.5
+- pkg:composer/orca-services/cakephp-swagger-ui@1.0.6
+- pkg:composer/orca-services/cakephp-swagger-ui@2.0.0
