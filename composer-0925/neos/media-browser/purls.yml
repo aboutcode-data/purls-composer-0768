@@ -7,7 +7,6 @@
 - pkg:composer/neos/media-browser@3.0.14
 - pkg:composer/neos/media-browser@3.0.15
 - pkg:composer/neos/media-browser@3.0.16
-- pkg:composer/neos/media-browser@3.0.17
 - pkg:composer/neos/media-browser@3.0.18
 - pkg:composer/neos/media-browser@3.0.19
 - pkg:composer/neos/media-browser@3.0.2
@@ -415,3 +414,4 @@
 - pkg:composer/neos/media-browser@9.1.4
 - pkg:composer/neos/media-browser@9.1.5
 - pkg:composer/neos/media-browser@9.1.6
+- pkg:composer/neos/media-browser@9.2.0-beta1

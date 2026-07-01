@@ -360,3 +360,4 @@
 - pkg:composer/neos/nodetypes-navigation@9.1.4
 - pkg:composer/neos/nodetypes-navigation@9.1.5
 - pkg:composer/neos/nodetypes-navigation@9.1.6
+- pkg:composer/neos/nodetypes-navigation@9.2.0-beta1

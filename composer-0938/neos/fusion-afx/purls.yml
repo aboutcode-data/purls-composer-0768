@@ -190,6 +190,7 @@
 - pkg:composer/neos/fusion-afx@9.1.4
 - pkg:composer/neos/fusion-afx@9.1.5
 - pkg:composer/neos/fusion-afx@9.1.6
+- pkg:composer/neos/fusion-afx@9.2.0-beta1
 - pkg:composer/neos/fusion-afx@v1.0.0
 - pkg:composer/neos/fusion-afx@v1.0.1
 - pkg:composer/neos/fusion-afx@v1.1.0
