@@ -7,4 +7,5 @@
 - pkg:composer/open-administration/php-latex-renderer@1.1.8
 - pkg:composer/open-administration/php-latex-renderer@1.1.9
 - pkg:composer/open-administration/php-latex-renderer@1.2.0
+- pkg:composer/open-administration/php-latex-renderer@1.3.0
 - pkg:composer/open-administration/php-latex-renderer@v1.0.0
