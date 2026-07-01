@@ -60,3 +60,5 @@
 - pkg:composer/numbers/countries@3.0.8
 - pkg:composer/numbers/countries@3.0.9
 - pkg:composer/numbers/countries@4.0.1
+- pkg:composer/numbers/countries@4.0.2
+- pkg:composer/numbers/countries@4.0.3

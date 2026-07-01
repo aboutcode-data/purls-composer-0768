@@ -43,3 +43,5 @@
 - pkg:composer/numbers/internalization@3.0.8
 - pkg:composer/numbers/internalization@3.0.9
 - pkg:composer/numbers/internalization@4.0.0
+- pkg:composer/numbers/internalization@4.0.1
+- pkg:composer/numbers/internalization@4.0.2
