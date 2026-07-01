@@ -1,2 +1,3 @@
 - pkg:composer/phalcon/vokuro@1.2.0
 - pkg:composer/phalcon/vokuro@v2.0.0
+- pkg:composer/phalcon/vokuro@v5.0.0
