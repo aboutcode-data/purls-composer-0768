@@ -1,1 +1,3 @@
 - pkg:composer/sonnenglas/shiplogic-php-sdk@1.0.0
+- pkg:composer/sonnenglas/shiplogic-php-sdk@1.0.1
+- pkg:composer/sonnenglas/shiplogic-php-sdk@1.0.2
