@@ -2,6 +2,7 @@
 - pkg:composer/pianotell/flarum-ext-flamoji@v1.1.0
 - pkg:composer/pianotell/flarum-ext-flamoji@v1.3.0
 - pkg:composer/pianotell/flarum-ext-flamoji@v1.4.0
+- pkg:composer/pianotell/flarum-ext-flamoji@v1.5.0
 - pkg:composer/pianotell/flarum-ext-flamoji@v2.0.0
 - pkg:composer/pianotell/flarum-ext-flamoji@v2.0.0-alpha.1
 - pkg:composer/pianotell/flarum-ext-flamoji@v2.0.1
@@ -11,3 +12,5 @@
 - pkg:composer/pianotell/flarum-ext-flamoji@v2.2.1
 - pkg:composer/pianotell/flarum-ext-flamoji@v2.3.0
 - pkg:composer/pianotell/flarum-ext-flamoji@v2.4.0
+- pkg:composer/pianotell/flarum-ext-flamoji@v2.4.1
+- pkg:composer/pianotell/flarum-ext-flamoji@v2.5.0
