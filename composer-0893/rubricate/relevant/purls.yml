@@ -13,3 +13,5 @@
 - pkg:composer/rubricate/relevant@v3.0.0
 - pkg:composer/rubricate/relevant@v3.1.0
 - pkg:composer/rubricate/relevant@v3.2.0
+- pkg:composer/rubricate/relevant@v4.0.0
+- pkg:composer/rubricate/relevant@v4.1.0
