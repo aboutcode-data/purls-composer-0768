@@ -5,3 +5,4 @@
 - pkg:composer/oliver-thiele/deployer-git-drift@v0.1.4-alpha5
 - pkg:composer/oliver-thiele/deployer-git-drift@v0.1.5-alpha6
 - pkg:composer/oliver-thiele/deployer-git-drift@v0.2.0
+- pkg:composer/oliver-thiele/deployer-git-drift@v0.2.1
