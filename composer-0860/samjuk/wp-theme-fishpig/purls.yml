@@ -203,6 +203,8 @@
 - pkg:composer/samjuk/wp-theme-fishpig@3.31.8
 - pkg:composer/samjuk/wp-theme-fishpig@3.31.9
 - pkg:composer/samjuk/wp-theme-fishpig@3.32.0
+- pkg:composer/samjuk/wp-theme-fishpig@3.32.1
+- pkg:composer/samjuk/wp-theme-fishpig@3.32.2
 - pkg:composer/samjuk/wp-theme-fishpig@3.4.0
 - pkg:composer/samjuk/wp-theme-fishpig@3.4.1
 - pkg:composer/samjuk/wp-theme-fishpig@3.4.2
