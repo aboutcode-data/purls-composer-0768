@@ -11,6 +11,7 @@
 - pkg:composer/scrumble-nl/laravel-model-ts-type@10.5.1
 - pkg:composer/scrumble-nl/laravel-model-ts-type@10.5.2
 - pkg:composer/scrumble-nl/laravel-model-ts-type@10.6.0
+- pkg:composer/scrumble-nl/laravel-model-ts-type@10.7.0
 - pkg:composer/scrumble-nl/laravel-model-ts-type@8.0
 - pkg:composer/scrumble-nl/laravel-model-ts-type@8.0.1
 - pkg:composer/scrumble-nl/laravel-model-ts-type@8.0.2
