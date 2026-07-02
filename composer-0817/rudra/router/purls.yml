@@ -2,3 +2,5 @@
 - pkg:composer/rudra/router@v25.12
 - pkg:composer/rudra/router@v25.6
 - pkg:composer/rudra/router@v26.1
+- pkg:composer/rudra/router@v26.7
+- pkg:composer/rudra/router@v26.7.1
