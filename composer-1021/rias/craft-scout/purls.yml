@@ -87,3 +87,5 @@
 - pkg:composer/rias/craft-scout@5.0.5
 - pkg:composer/rias/craft-scout@5.0.6
 - pkg:composer/rias/craft-scout@5.0.7
+- pkg:composer/rias/craft-scout@5.0.8
+- pkg:composer/rias/craft-scout@5.0.9
