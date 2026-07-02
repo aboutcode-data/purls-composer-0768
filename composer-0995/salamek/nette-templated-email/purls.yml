@@ -4,5 +4,7 @@
 - pkg:composer/salamek/nette-templated-email@2.0.4
 - pkg:composer/salamek/nette-templated-email@2.1.0
 - pkg:composer/salamek/nette-templated-email@2.1.1
+- pkg:composer/salamek/nette-templated-email@2.2.0
+- pkg:composer/salamek/nette-templated-email@3.0.0
 - pkg:composer/salamek/nette-templated-email@v1.0
 - pkg:composer/salamek/nette-templated-email@v1.0.1
