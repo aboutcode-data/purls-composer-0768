@@ -23,3 +23,4 @@
 - pkg:composer/sniccowp/php-scoper-wordpress-excludes@6.8.1
 - pkg:composer/sniccowp/php-scoper-wordpress-excludes@6.9.0
 - pkg:composer/sniccowp/php-scoper-wordpress-excludes@6.9.1
+- pkg:composer/sniccowp/php-scoper-wordpress-excludes@7.0.0
