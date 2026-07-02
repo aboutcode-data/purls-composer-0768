@@ -34,6 +34,7 @@
 - pkg:composer/silinternational/ecs-deploy@3.10.24
 - pkg:composer/silinternational/ecs-deploy@3.10.25
 - pkg:composer/silinternational/ecs-deploy@3.10.26
+- pkg:composer/silinternational/ecs-deploy@3.10.27
 - pkg:composer/silinternational/ecs-deploy@3.10.3
 - pkg:composer/silinternational/ecs-deploy@3.10.4
 - pkg:composer/silinternational/ecs-deploy@3.10.5
