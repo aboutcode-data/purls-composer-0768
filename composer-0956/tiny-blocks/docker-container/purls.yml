@@ -15,3 +15,4 @@
 - pkg:composer/tiny-blocks/docker-container@2.5.1
 - pkg:composer/tiny-blocks/docker-container@2.5.2
 - pkg:composer/tiny-blocks/docker-container@2.5.3
+- pkg:composer/tiny-blocks/docker-container@3.0.0
