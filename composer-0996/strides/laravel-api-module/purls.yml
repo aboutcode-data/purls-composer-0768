@@ -2,3 +2,4 @@
 - pkg:composer/strides/laravel-api-module@1.1
 - pkg:composer/strides/laravel-api-module@1.1.1
 - pkg:composer/strides/laravel-api-module@1.1.2
+- pkg:composer/strides/laravel-api-module@2.0.0
