@@ -162,3 +162,6 @@
 - pkg:composer/taes/fetcher@0.5.9
 - pkg:composer/taes/fetcher@v1.0.1
 - pkg:composer/taes/fetcher@v1.0.2
+- pkg:composer/taes/fetcher@v2.0.0
+- pkg:composer/taes/fetcher@v2.0.1
+- pkg:composer/taes/fetcher@v2.0.2
