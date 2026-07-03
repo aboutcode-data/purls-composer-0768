@@ -140,3 +140,5 @@
 - pkg:composer/rkr/php-mysql-query-builder@0.5.2.1
 - pkg:composer/rkr/php-mysql-query-builder@0.5.3
 - pkg:composer/rkr/php-mysql-query-builder@0.5.4
+- pkg:composer/rkr/php-mysql-query-builder@0.5.5
+- pkg:composer/rkr/php-mysql-query-builder@0.5.6
