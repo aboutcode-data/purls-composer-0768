@@ -30,6 +30,7 @@
 - pkg:composer/statikbe/craft-cookie-banner@3.5.0
 - pkg:composer/statikbe/craft-cookie-banner@3.5.1
 - pkg:composer/statikbe/craft-cookie-banner@3.5.2
+- pkg:composer/statikbe/craft-cookie-banner@3.5.3
 - pkg:composer/statikbe/craft-cookie-banner@5.0.0
 - pkg:composer/statikbe/craft-cookie-banner@5.0.0-beta.1
 - pkg:composer/statikbe/craft-cookie-banner@5.0.1
