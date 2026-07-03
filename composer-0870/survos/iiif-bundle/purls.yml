@@ -101,6 +101,7 @@
 - pkg:composer/survos/iiif-bundle@2.10.18
 - pkg:composer/survos/iiif-bundle@2.10.19
 - pkg:composer/survos/iiif-bundle@2.10.2
+- pkg:composer/survos/iiif-bundle@2.10.27
 - pkg:composer/survos/iiif-bundle@2.10.3
 - pkg:composer/survos/iiif-bundle@2.10.4
 - pkg:composer/survos/iiif-bundle@2.10.5

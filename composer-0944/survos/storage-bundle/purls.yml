@@ -96,6 +96,7 @@
 - pkg:composer/survos/storage-bundle@2.10.18
 - pkg:composer/survos/storage-bundle@2.10.19
 - pkg:composer/survos/storage-bundle@2.10.2
+- pkg:composer/survos/storage-bundle@2.10.25
 - pkg:composer/survos/storage-bundle@2.10.3
 - pkg:composer/survos/storage-bundle@2.10.4
 - pkg:composer/survos/storage-bundle@2.10.5
