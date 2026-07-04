@@ -3,3 +3,6 @@
 - pkg:composer/vskstudio/takt-symfony@v0.1.2
 - pkg:composer/vskstudio/takt-symfony@v0.2.0
 - pkg:composer/vskstudio/takt-symfony@v0.3.0
+- pkg:composer/vskstudio/takt-symfony@v0.4.0
+- pkg:composer/vskstudio/takt-symfony@v0.4.1
+- pkg:composer/vskstudio/takt-symfony@v0.5.0
