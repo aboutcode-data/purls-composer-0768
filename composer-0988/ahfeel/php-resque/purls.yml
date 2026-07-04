@@ -11,6 +11,7 @@
 - pkg:composer/ahfeel/php-resque@3.0.0
 - pkg:composer/ahfeel/php-resque@3.0.1
 - pkg:composer/ahfeel/php-resque@3.0.2
+- pkg:composer/ahfeel/php-resque@3.1.0
 - pkg:composer/ahfeel/php-resque@v1.3
 - pkg:composer/ahfeel/php-resque@v1.4
 - pkg:composer/ahfeel/php-resque@v1.5
