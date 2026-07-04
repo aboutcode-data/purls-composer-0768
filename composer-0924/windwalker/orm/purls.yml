@@ -61,3 +61,4 @@
 - pkg:composer/windwalker/orm@4.2.7
 - pkg:composer/windwalker/orm@4.2.8
 - pkg:composer/windwalker/orm@4.2.9-beta2
+- pkg:composer/windwalker/orm@4.2.9-beta3
