@@ -3,3 +3,4 @@
 - pkg:composer/zanysoft/laravel-elastic-email@1.0.3
 - pkg:composer/zanysoft/laravel-elastic-email@1.0.4
 - pkg:composer/zanysoft/laravel-elastic-email@1.0.5
+- pkg:composer/zanysoft/laravel-elastic-email@2.0.1
