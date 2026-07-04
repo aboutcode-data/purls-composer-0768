@@ -40,3 +40,4 @@
 - pkg:composer/secretary/psr-16-cache-adapter@3.0.6
 - pkg:composer/secretary/psr-16-cache-adapter@4.2.0
 - pkg:composer/secretary/psr-16-cache-adapter@4.3.0
+- pkg:composer/secretary/psr-16-cache-adapter@4.4.0
