@@ -43,3 +43,4 @@
 - pkg:composer/wegmeister/databasestorage@2.1.0
 - pkg:composer/wegmeister/databasestorage@2.1.1
 - pkg:composer/wegmeister/databasestorage@2.1.2
+- pkg:composer/wegmeister/databasestorage@2.1.3
