@@ -38,3 +38,4 @@
 - pkg:composer/alibabacloud/polardbx-20200202@3.6.0
 - pkg:composer/alibabacloud/polardbx-20200202@3.7.0
 - pkg:composer/alibabacloud/polardbx-20200202@3.8.0
+- pkg:composer/alibabacloud/polardbx-20200202@3.9.0
