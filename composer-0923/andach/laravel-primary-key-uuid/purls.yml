@@ -1,1 +1,2 @@
 - pkg:composer/andach/laravel-primary-key-uuid@1.0.0
+- pkg:composer/andach/laravel-primary-key-uuid@v1.0.3
