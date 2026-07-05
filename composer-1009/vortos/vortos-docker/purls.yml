@@ -54,6 +54,7 @@
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-164
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-165
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-166
+- pkg:composer/vortos/vortos-docker@v1.0.0-alpha-167
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-17
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-18
 - pkg:composer/vortos/vortos-docker@v1.0.0-alpha-2
