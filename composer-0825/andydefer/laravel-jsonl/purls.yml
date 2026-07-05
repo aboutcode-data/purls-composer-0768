@@ -11,3 +11,5 @@
 - pkg:composer/andydefer/laravel-jsonl@v0.6.3
 - pkg:composer/andydefer/laravel-jsonl@v0.6.4
 - pkg:composer/andydefer/laravel-jsonl@v0.6.5
+- pkg:composer/andydefer/laravel-jsonl@v0.7.0
+- pkg:composer/andydefer/laravel-jsonl@v0.7.1
