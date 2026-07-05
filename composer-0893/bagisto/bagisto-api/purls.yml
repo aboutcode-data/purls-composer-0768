@@ -4,3 +4,7 @@
 - pkg:composer/bagisto/bagisto-api@v1.0.3
 - pkg:composer/bagisto/bagisto-api@v1.0.4
 - pkg:composer/bagisto/bagisto-api@v1.0.5
+- pkg:composer/bagisto/bagisto-api@v2.0.0
+- pkg:composer/bagisto/bagisto-api@v2.1.0
+- pkg:composer/bagisto/bagisto-api@v2.2.0
+- pkg:composer/bagisto/bagisto-api@v2.3.0
