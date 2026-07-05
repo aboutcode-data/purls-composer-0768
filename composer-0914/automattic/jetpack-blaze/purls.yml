@@ -140,6 +140,7 @@
 - pkg:composer/automattic/jetpack-blaze@v0.27.22
 - pkg:composer/automattic/jetpack-blaze@v0.27.23
 - pkg:composer/automattic/jetpack-blaze@v0.27.24
+- pkg:composer/automattic/jetpack-blaze@v0.27.25
 - pkg:composer/automattic/jetpack-blaze@v0.27.3
 - pkg:composer/automattic/jetpack-blaze@v0.27.4
 - pkg:composer/automattic/jetpack-blaze@v0.27.5
