@@ -1,1 +1,2 @@
 - pkg:composer/bluebeetle/idempotency-middleware@v1.0.0
+- pkg:composer/bluebeetle/idempotency-middleware@v1.1.0
