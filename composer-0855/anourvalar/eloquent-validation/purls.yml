@@ -134,10 +134,16 @@
 - pkg:composer/anourvalar/eloquent-validation@3.17.0
 - pkg:composer/anourvalar/eloquent-validation@3.17.1
 - pkg:composer/anourvalar/eloquent-validation@3.17.2
+- pkg:composer/anourvalar/eloquent-validation@3.17.3
+- pkg:composer/anourvalar/eloquent-validation@3.17.4
+- pkg:composer/anourvalar/eloquent-validation@3.17.5
+- pkg:composer/anourvalar/eloquent-validation@3.17.6
+- pkg:composer/anourvalar/eloquent-validation@3.17.7
 - pkg:composer/anourvalar/eloquent-validation@3.2.0
 - pkg:composer/anourvalar/eloquent-validation@3.3.0
 - pkg:composer/anourvalar/eloquent-validation@3.3.1
 - pkg:composer/anourvalar/eloquent-validation@3.3.2
+- pkg:composer/anourvalar/eloquent-validation@3.4.0
 - pkg:composer/anourvalar/eloquent-validation@3.4.1
 - pkg:composer/anourvalar/eloquent-validation@3.5.0
 - pkg:composer/anourvalar/eloquent-validation@3.5.1
