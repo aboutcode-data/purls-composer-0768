@@ -33,3 +33,4 @@
 - pkg:composer/amdadulhaq/guard-laravel@v2.0.3
 - pkg:composer/amdadulhaq/guard-laravel@v2.0.4
 - pkg:composer/amdadulhaq/guard-laravel@v2.0.5
+- pkg:composer/amdadulhaq/guard-laravel@v3.0.0
