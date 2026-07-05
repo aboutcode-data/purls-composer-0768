@@ -24,3 +24,4 @@
 - pkg:composer/async-aws/cloud-formation@1.9.1
 - pkg:composer/async-aws/cloud-formation@2.0.0
 - pkg:composer/async-aws/cloud-formation@2.1.0
+- pkg:composer/async-aws/cloud-formation@2.2.0
