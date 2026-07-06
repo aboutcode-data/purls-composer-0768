@@ -1010,6 +1010,10 @@
 - pkg:composer/ccxt/ccxt@v4.5.59
 - pkg:composer/ccxt/ccxt@v4.5.6
 - pkg:composer/ccxt/ccxt@v4.5.60
+- pkg:composer/ccxt/ccxt@v4.5.61
+- pkg:composer/ccxt/ccxt@v4.5.62
+- pkg:composer/ccxt/ccxt@v4.5.63
+- pkg:composer/ccxt/ccxt@v4.5.64
 - pkg:composer/ccxt/ccxt@v4.5.7
 - pkg:composer/ccxt/ccxt@v4.5.8
 - pkg:composer/ccxt/ccxt@v4.5.9
