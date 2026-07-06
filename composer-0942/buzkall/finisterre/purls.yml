@@ -115,3 +115,7 @@
 - pkg:composer/buzkall/finisterre@3.1.1
 - pkg:composer/buzkall/finisterre@3.2.0
 - pkg:composer/buzkall/finisterre@3.2.1
+- pkg:composer/buzkall/finisterre@3.2.2
+- pkg:composer/buzkall/finisterre@4.0.0
+- pkg:composer/buzkall/finisterre@v4.0.1
+- pkg:composer/buzkall/finisterre@v4.0.2
