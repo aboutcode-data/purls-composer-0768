@@ -444,3 +444,4 @@
 - pkg:composer/cakephp/cakephp@5.3.5
 - pkg:composer/cakephp/cakephp@5.3.6
 - pkg:composer/cakephp/cakephp@5.4.0-RC1
+- pkg:composer/cakephp/cakephp@5.4.0-RC2
