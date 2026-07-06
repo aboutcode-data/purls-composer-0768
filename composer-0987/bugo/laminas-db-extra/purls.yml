@@ -1,2 +1,3 @@
 - pkg:composer/bugo/laminas-db-extra@0.1
 - pkg:composer/bugo/laminas-db-extra@0.1.1
+- pkg:composer/bugo/laminas-db-extra@0.2
