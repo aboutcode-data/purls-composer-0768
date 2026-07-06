@@ -3,3 +3,4 @@
 - pkg:composer/winglet/authclient@v0.3
 - pkg:composer/winglet/authclient@v0.4
 - pkg:composer/winglet/authclient@v0.5
+- pkg:composer/winglet/authclient@v0.5.1
