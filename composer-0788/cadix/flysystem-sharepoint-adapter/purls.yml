@@ -7,3 +7,4 @@
 - pkg:composer/cadix/flysystem-sharepoint-adapter@v0.2.2-beta-1
 - pkg:composer/cadix/flysystem-sharepoint-adapter@v0.3.0-beta-1
 - pkg:composer/cadix/flysystem-sharepoint-adapter@v0.3.0-beta-2
+- pkg:composer/cadix/flysystem-sharepoint-adapter@v1.0.0-beta-1
