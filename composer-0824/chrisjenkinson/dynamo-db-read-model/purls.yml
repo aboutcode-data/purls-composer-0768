@@ -2,3 +2,4 @@
 - pkg:composer/chrisjenkinson/dynamo-db-read-model@v0.2
 - pkg:composer/chrisjenkinson/dynamo-db-read-model@v0.3
 - pkg:composer/chrisjenkinson/dynamo-db-read-model@v1.0
+- pkg:composer/chrisjenkinson/dynamo-db-read-model@v2.0
