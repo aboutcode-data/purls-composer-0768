@@ -1,1 +1,2 @@
 - pkg:composer/angeo/module-openai-product-feed-api@1.0.0
+- pkg:composer/angeo/module-openai-product-feed-api@2.0.0
