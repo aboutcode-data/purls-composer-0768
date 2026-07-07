@@ -25,3 +25,4 @@
 - pkg:composer/danielme85/laravel-log-to-db@v4.1.0
 - pkg:composer/danielme85/laravel-log-to-db@v4.1.1
 - pkg:composer/danielme85/laravel-log-to-db@v4.1.2
+- pkg:composer/danielme85/laravel-log-to-db@v5.0.0-alpha
