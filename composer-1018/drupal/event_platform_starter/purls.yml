@@ -6,3 +6,5 @@
 - pkg:composer/drupal/event_platform_starter@2.0.0-beta2
 - pkg:composer/drupal/event_platform_starter@2.0.0-rc1
 - pkg:composer/drupal/event_platform_starter@2.0.0-rc2
+- pkg:composer/drupal/event_platform_starter@2.0.0-rc3
+- pkg:composer/drupal/event_platform_starter@2.0.0-rc4

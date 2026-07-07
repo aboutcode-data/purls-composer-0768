@@ -1,3 +1,4 @@
 - pkg:composer/drupal/dockerize@1.0.0
 - pkg:composer/drupal/dockerize@1.0.1
 - pkg:composer/drupal/dockerize@1.1.0
+- pkg:composer/drupal/dockerize@1.2.0
