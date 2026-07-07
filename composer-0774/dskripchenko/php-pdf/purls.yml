@@ -1,1 +1,3 @@
 - pkg:composer/dskripchenko/php-pdf@v1.0.0
+- pkg:composer/dskripchenko/php-pdf@v1.1.0
+- pkg:composer/dskripchenko/php-pdf@v1.1.1
