@@ -4,3 +4,6 @@
 - pkg:composer/faustvik/router@v0.2
 - pkg:composer/faustvik/router@v0.3
 - pkg:composer/faustvik/router@v1.0
+- pkg:composer/faustvik/router@v2.0.0-beta3
+- pkg:composer/faustvik/router@v2.0.0-beta4
+- pkg:composer/faustvik/router@v2.0.0-beta5
