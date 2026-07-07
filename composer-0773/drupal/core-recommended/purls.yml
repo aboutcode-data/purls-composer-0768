@@ -177,9 +177,11 @@
 - pkg:composer/drupal/core-recommended@11.3.7
 - pkg:composer/drupal/core-recommended@11.3.8
 - pkg:composer/drupal/core-recommended@11.3.9
+- pkg:composer/drupal/core-recommended@11.4.0
 - pkg:composer/drupal/core-recommended@11.4.0-beta1
 - pkg:composer/drupal/core-recommended@11.4.0-rc1
 - pkg:composer/drupal/core-recommended@11.4.0-rc2
+- pkg:composer/drupal/core-recommended@11.4.1
 - pkg:composer/drupal/core-recommended@8.0.0
 - pkg:composer/drupal/core-recommended@8.0.0-alpha14
 - pkg:composer/drupal/core-recommended@8.0.0-alpha15
