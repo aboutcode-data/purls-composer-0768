@@ -15,3 +15,4 @@
 - pkg:composer/ecommpay/module-payments@2.1.6
 - pkg:composer/ecommpay/module-payments@2.2.0
 - pkg:composer/ecommpay/module-payments@2.2.1
+- pkg:composer/ecommpay/module-payments@3.0.0
