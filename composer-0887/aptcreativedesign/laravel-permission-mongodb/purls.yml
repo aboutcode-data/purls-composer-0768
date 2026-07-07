@@ -6,3 +6,4 @@
 - pkg:composer/aptcreativedesign/laravel-permission-mongodb@v3.0
 - pkg:composer/aptcreativedesign/laravel-permission-mongodb@v3.1
 - pkg:composer/aptcreativedesign/laravel-permission-mongodb@v4.0.1
+- pkg:composer/aptcreativedesign/laravel-permission-mongodb@v4.0.2
