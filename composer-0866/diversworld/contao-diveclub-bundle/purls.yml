@@ -137,6 +137,8 @@
 - pkg:composer/diversworld/contao-diveclub-bundle@3.7.1
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.0
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.1
+- pkg:composer/diversworld/contao-diveclub-bundle@3.8.10
+- pkg:composer/diversworld/contao-diveclub-bundle@3.8.11
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.2
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.3
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.4
