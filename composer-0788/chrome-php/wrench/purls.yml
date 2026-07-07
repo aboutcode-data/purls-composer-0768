@@ -10,3 +10,5 @@
 - pkg:composer/chrome-php/wrench@v1.8.0
 - pkg:composer/chrome-php/wrench@v1.8.1
 - pkg:composer/chrome-php/wrench@v1.9.0
+- pkg:composer/chrome-php/wrench@v1.9.1
+- pkg:composer/chrome-php/wrench@v1.9.2
