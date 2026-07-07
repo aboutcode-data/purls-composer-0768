@@ -132,3 +132,5 @@
 - pkg:composer/backstage/redirects@v5.0.9
 - pkg:composer/backstage/redirects@v5.1.0
 - pkg:composer/backstage/redirects@v5.1.1
+- pkg:composer/backstage/redirects@v5.1.2
+- pkg:composer/backstage/redirects@v5.1.3
