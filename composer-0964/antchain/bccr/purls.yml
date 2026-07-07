@@ -73,4 +73,5 @@
 - pkg:composer/antchain/bccr@1.19.77
 - pkg:composer/antchain/bccr@1.19.8
 - pkg:composer/antchain/bccr@1.19.9
+- pkg:composer/antchain/bccr@1.21.2
 - pkg:composer/antchain/bccr@1.8.15
