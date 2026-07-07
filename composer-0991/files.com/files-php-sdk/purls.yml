@@ -1105,8 +1105,10 @@
 - pkg:composer/files.com/files-php-sdk@v2.0.596
 - pkg:composer/files.com/files-php-sdk@v2.0.597
 - pkg:composer/files.com/files-php-sdk@v2.0.598
+- pkg:composer/files.com/files-php-sdk@v2.0.599
 - pkg:composer/files.com/files-php-sdk@v2.0.6
 - pkg:composer/files.com/files-php-sdk@v2.0.60
+- pkg:composer/files.com/files-php-sdk@v2.0.600
 - pkg:composer/files.com/files-php-sdk@v2.0.61
 - pkg:composer/files.com/files-php-sdk@v2.0.62
 - pkg:composer/files.com/files-php-sdk@v2.0.63
