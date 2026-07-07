@@ -1,2 +1,3 @@
 - pkg:composer/dealnews/slack@2.0.0
 - pkg:composer/dealnews/slack@2.0.1
+- pkg:composer/dealnews/slack@2.0.2
