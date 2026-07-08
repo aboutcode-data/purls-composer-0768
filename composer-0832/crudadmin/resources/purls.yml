@@ -342,6 +342,7 @@
 - pkg:composer/crudadmin/resources@5.15.11
 - pkg:composer/crudadmin/resources@5.15.12
 - pkg:composer/crudadmin/resources@5.15.13
+- pkg:composer/crudadmin/resources@5.15.14
 - pkg:composer/crudadmin/resources@5.15.2
 - pkg:composer/crudadmin/resources@5.15.3
 - pkg:composer/crudadmin/resources@5.15.4
