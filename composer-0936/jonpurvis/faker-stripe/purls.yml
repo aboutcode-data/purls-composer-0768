@@ -14,3 +14,4 @@
 - pkg:composer/jonpurvis/faker-stripe@v4.1.0
 - pkg:composer/jonpurvis/faker-stripe@v5.0.0
 - pkg:composer/jonpurvis/faker-stripe@v5.1.0
+- pkg:composer/jonpurvis/faker-stripe@v5.2.0
