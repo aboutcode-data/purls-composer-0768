@@ -33,6 +33,8 @@
 - pkg:composer/hans-peter-ording/sleeper-api-client@1.0.9
 - pkg:composer/hans-peter-ording/sleeper-api-client@1.1.0
 - pkg:composer/hans-peter-ording/sleeper-api-client@1.1.1
+- pkg:composer/hans-peter-ording/sleeper-api-client@1.1.10
+- pkg:composer/hans-peter-ording/sleeper-api-client@1.1.11
 - pkg:composer/hans-peter-ording/sleeper-api-client@1.1.2
 - pkg:composer/hans-peter-ording/sleeper-api-client@1.1.3
 - pkg:composer/hans-peter-ording/sleeper-api-client@1.1.4
@@ -40,3 +42,4 @@
 - pkg:composer/hans-peter-ording/sleeper-api-client@1.1.6
 - pkg:composer/hans-peter-ording/sleeper-api-client@1.1.7
 - pkg:composer/hans-peter-ording/sleeper-api-client@1.1.8
+- pkg:composer/hans-peter-ording/sleeper-api-client@1.1.9
