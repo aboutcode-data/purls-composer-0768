@@ -1,2 +1,3 @@
+- pkg:composer/karnoweb/sms-sender@13.0.0
 - pkg:composer/karnoweb/sms-sender@2.0.0
 - pkg:composer/karnoweb/sms-sender@v1.0.0
