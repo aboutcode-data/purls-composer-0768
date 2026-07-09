@@ -10,6 +10,8 @@
 - pkg:composer/kode/ai-agent@2.14.0
 - pkg:composer/kode/ai-agent@2.15.0
 - pkg:composer/kode/ai-agent@2.16.0
+- pkg:composer/kode/ai-agent@2.18.0
+- pkg:composer/kode/ai-agent@2.19.0
 - pkg:composer/kode/ai-agent@2.4.0
 - pkg:composer/kode/ai-agent@2.5.0
 - pkg:composer/kode/ai-agent@2.6.0
