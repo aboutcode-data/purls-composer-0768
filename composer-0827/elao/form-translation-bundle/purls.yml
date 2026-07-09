@@ -15,3 +15,4 @@
 - pkg:composer/elao/form-translation-bundle@v4.0.3
 - pkg:composer/elao/form-translation-bundle@v4.1.0
 - pkg:composer/elao/form-translation-bundle@v4.2.0
+- pkg:composer/elao/form-translation-bundle@v5.0.0
