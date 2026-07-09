@@ -37,3 +37,6 @@
 - pkg:composer/getgrav/image@v3.0.1
 - pkg:composer/getgrav/image@v4.0.0
 - pkg:composer/getgrav/image@v4.1.0
+- pkg:composer/getgrav/image@v4.1.1
+- pkg:composer/getgrav/image@v4.1.2
+- pkg:composer/getgrav/image@v4.1.3
