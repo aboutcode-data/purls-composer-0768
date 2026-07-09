@@ -35,6 +35,7 @@
 - pkg:composer/horde/imp@6.2.9
 - pkg:composer/horde/imp@7.0.0alpha1
 - pkg:composer/horde/imp@7.0.0alpha2
+- pkg:composer/horde/imp@v7.0.0
 - pkg:composer/horde/imp@v7.0.0RC1
 - pkg:composer/horde/imp@v7.0.0RC2
 - pkg:composer/horde/imp@v7.0.0RC3
@@ -59,3 +60,5 @@
 - pkg:composer/horde/imp@v7.0.0beta1
 - pkg:composer/horde/imp@v7.0.0beta2
 - pkg:composer/horde/imp@v7.0.0beta3
+- pkg:composer/horde/imp@v7.0.1
+- pkg:composer/horde/imp@v7.0.2

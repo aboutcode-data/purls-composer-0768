@@ -38,6 +38,7 @@
 - pkg:composer/horde/kronolith@4.2.9
 - pkg:composer/horde/kronolith@5.0.0alpha1
 - pkg:composer/horde/kronolith@5.0.0alpha2
+- pkg:composer/horde/kronolith@v5.0.0
 - pkg:composer/horde/kronolith@v5.0.0RC1
 - pkg:composer/horde/kronolith@v5.0.0RC2
 - pkg:composer/horde/kronolith@v5.0.0RC3
@@ -56,3 +57,4 @@
 - pkg:composer/horde/kronolith@v5.0.0beta2
 - pkg:composer/horde/kronolith@v5.0.0beta3
 - pkg:composer/horde/kronolith@v5.0.0beta4
+- pkg:composer/horde/kronolith@v5.0.1
