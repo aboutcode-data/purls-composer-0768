@@ -11,6 +11,7 @@
 - pkg:composer/krowinski/php-mysql-replication@v1.0.1
 - pkg:composer/krowinski/php-mysql-replication@v1.0.2
 - pkg:composer/krowinski/php-mysql-replication@v1.0.3
+- pkg:composer/krowinski/php-mysql-replication@v10.0.0
 - pkg:composer/krowinski/php-mysql-replication@v2.0.0
 - pkg:composer/krowinski/php-mysql-replication@v2.0.1
 - pkg:composer/krowinski/php-mysql-replication@v2.0.2
