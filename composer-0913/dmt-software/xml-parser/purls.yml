@@ -1,6 +1,7 @@
 - pkg:composer/dmt-software/xml-parser@0.7.0
 - pkg:composer/dmt-software/xml-parser@0.7.1
 - pkg:composer/dmt-software/xml-parser@0.7.2
+- pkg:composer/dmt-software/xml-parser@0.7.3
 - pkg:composer/dmt-software/xml-parser@v0.1.0
 - pkg:composer/dmt-software/xml-parser@v0.2.0
 - pkg:composer/dmt-software/xml-parser@v0.3.0
