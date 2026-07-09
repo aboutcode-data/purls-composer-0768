@@ -26,6 +26,7 @@
 - pkg:composer/helloextend/integration@v3.19.13
 - pkg:composer/helloextend/integration@v3.19.14
 - pkg:composer/helloextend/integration@v3.19.15
+- pkg:composer/helloextend/integration@v3.19.16
 - pkg:composer/helloextend/integration@v3.19.2
 - pkg:composer/helloextend/integration@v3.19.3
 - pkg:composer/helloextend/integration@v3.19.4
