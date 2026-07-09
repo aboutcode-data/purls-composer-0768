@@ -5,3 +5,4 @@
 - pkg:composer/firevel/cloud-tasks-queue-driver@0.1.1
 - pkg:composer/firevel/cloud-tasks-queue-driver@1.0.0
 - pkg:composer/firevel/cloud-tasks-queue-driver@1.1.0
+- pkg:composer/firevel/cloud-tasks-queue-driver@1.2.0
