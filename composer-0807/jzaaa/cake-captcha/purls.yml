@@ -1,3 +1,4 @@
+- pkg:composer/jzaaa/cake-captcha@2.2.0
 - pkg:composer/jzaaa/cake-captcha@v1.0.0
 - pkg:composer/jzaaa/cake-captcha@v1.0.1
 - pkg:composer/jzaaa/cake-captcha@v1.0.2
@@ -7,3 +8,4 @@
 - pkg:composer/jzaaa/cake-captcha@v2.0.1
 - pkg:composer/jzaaa/cake-captcha@v2.0.2
 - pkg:composer/jzaaa/cake-captcha@v2.0.3
+- pkg:composer/jzaaa/cake-captcha@v2.1.0
