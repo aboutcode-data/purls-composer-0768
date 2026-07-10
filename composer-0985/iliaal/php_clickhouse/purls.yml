@@ -1,3 +1,4 @@
+- pkg:composer/iliaal/php_clickhouse@0.10.0
 - pkg:composer/iliaal/php_clickhouse@0.5.0
 - pkg:composer/iliaal/php_clickhouse@0.6.0
 - pkg:composer/iliaal/php_clickhouse@0.7.0
