@@ -58,6 +58,8 @@
 - pkg:composer/laminas/laminas-servicemanager-migration@1.129.0
 - pkg:composer/laminas/laminas-servicemanager-migration@1.13.0
 - pkg:composer/laminas/laminas-servicemanager-migration@1.130.0
+- pkg:composer/laminas/laminas-servicemanager-migration@1.131.0
+- pkg:composer/laminas/laminas-servicemanager-migration@1.132.0
 - pkg:composer/laminas/laminas-servicemanager-migration@1.14.0
 - pkg:composer/laminas/laminas-servicemanager-migration@1.15.0
 - pkg:composer/laminas/laminas-servicemanager-migration@1.16.0
