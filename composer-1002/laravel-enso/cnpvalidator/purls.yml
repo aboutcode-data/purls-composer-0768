@@ -48,3 +48,6 @@
 - pkg:composer/laravel-enso/cnpvalidator@4.0.0
 - pkg:composer/laravel-enso/cnpvalidator@4.0.1
 - pkg:composer/laravel-enso/cnpvalidator@4.0.2
+- pkg:composer/laravel-enso/cnpvalidator@5.0.0
+- pkg:composer/laravel-enso/cnpvalidator@5.0.1
+- pkg:composer/laravel-enso/cnpvalidator@5.0.2
