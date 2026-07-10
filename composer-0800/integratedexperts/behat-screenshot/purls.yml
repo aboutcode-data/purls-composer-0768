@@ -28,3 +28,4 @@
 - pkg:composer/integratedexperts/behat-screenshot@2.3.0
 - pkg:composer/integratedexperts/behat-screenshot@2.4.0
 - pkg:composer/integratedexperts/behat-screenshot@2.4.1
+- pkg:composer/integratedexperts/behat-screenshot@2.4.2
