@@ -61,6 +61,7 @@
 - pkg:composer/mantle-framework/blocks@v1.2.0
 - pkg:composer/mantle-framework/blocks@v1.20.0
 - pkg:composer/mantle-framework/blocks@v1.21.0
+- pkg:composer/mantle-framework/blocks@v1.22.0
 - pkg:composer/mantle-framework/blocks@v1.3.0
 - pkg:composer/mantle-framework/blocks@v1.3.1
 - pkg:composer/mantle-framework/blocks@v1.3.2

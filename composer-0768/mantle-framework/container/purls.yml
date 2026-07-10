@@ -76,6 +76,7 @@
 - pkg:composer/mantle-framework/container@v1.2.0
 - pkg:composer/mantle-framework/container@v1.20.0
 - pkg:composer/mantle-framework/container@v1.21.0
+- pkg:composer/mantle-framework/container@v1.22.0
 - pkg:composer/mantle-framework/container@v1.3.0
 - pkg:composer/mantle-framework/container@v1.3.1
 - pkg:composer/mantle-framework/container@v1.3.2
