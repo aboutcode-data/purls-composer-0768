@@ -1,1 +1,2 @@
 - pkg:composer/genai/routing@1.0.0
+- pkg:composer/genai/routing@v1.0.1
