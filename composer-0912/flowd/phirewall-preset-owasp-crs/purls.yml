@@ -1,2 +1,3 @@
 - pkg:composer/flowd/phirewall-preset-owasp-crs@0.1.0
 - pkg:composer/flowd/phirewall-preset-owasp-crs@0.1.1
+- pkg:composer/flowd/phirewall-preset-owasp-crs@0.2.0
