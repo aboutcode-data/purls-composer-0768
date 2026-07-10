@@ -11,4 +11,6 @@
 - pkg:composer/maartendekker/inertia-tempest@v2.1.0
 - pkg:composer/maartendekker/inertia-tempest@v3.0.0
 - pkg:composer/maartendekker/inertia-tempest@v3.0.1
+- pkg:composer/maartendekker/inertia-tempest@v3.0.2
 - pkg:composer/maartendekker/inertia-tempest@v4.0.0-beta.1
+- pkg:composer/maartendekker/inertia-tempest@v4.0.0-beta.2
