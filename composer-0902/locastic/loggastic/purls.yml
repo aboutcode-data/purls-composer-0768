@@ -15,3 +15,6 @@
 - pkg:composer/locastic/loggastic@v1.1.4-beta
 - pkg:composer/locastic/loggastic@v1.1.5-beta
 - pkg:composer/locastic/loggastic@v1.1.6-beta
+- pkg:composer/locastic/loggastic@v1.2.0
+- pkg:composer/locastic/loggastic@v2.0.0
+- pkg:composer/locastic/loggastic@v2.1.0
