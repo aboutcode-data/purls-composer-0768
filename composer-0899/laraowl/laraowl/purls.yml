@@ -1,3 +1,4 @@
+- pkg:composer/laraowl/laraowl@1.0.8
 - pkg:composer/laraowl/laraowl@v1.0.0
 - pkg:composer/laraowl/laraowl@v1.0.1
 - pkg:composer/laraowl/laraowl@v1.0.2
@@ -5,3 +6,4 @@
 - pkg:composer/laraowl/laraowl@v1.0.4
 - pkg:composer/laraowl/laraowl@v1.0.5
 - pkg:composer/laraowl/laraowl@v1.0.6
+- pkg:composer/laraowl/laraowl@v1.0.7
