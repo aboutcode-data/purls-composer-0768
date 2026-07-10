@@ -14,6 +14,7 @@
 - pkg:composer/jane-php/json-schema-bundle@v7.11.0
 - pkg:composer/jane-php/json-schema-bundle@v7.11.1
 - pkg:composer/jane-php/json-schema-bundle@v7.11.2
+- pkg:composer/jane-php/json-schema-bundle@v7.12.0
 - pkg:composer/jane-php/json-schema-bundle@v7.2.0
 - pkg:composer/jane-php/json-schema-bundle@v7.2.1
 - pkg:composer/jane-php/json-schema-bundle@v7.2.2
