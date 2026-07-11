@@ -18,3 +18,5 @@
 - pkg:composer/halilcosdu/laravel-slower@v2.0.5
 - pkg:composer/halilcosdu/laravel-slower@v2.1.0
 - pkg:composer/halilcosdu/laravel-slower@v2.2.0
+- pkg:composer/halilcosdu/laravel-slower@v2.3.0
+- pkg:composer/halilcosdu/laravel-slower@v3.0.0
