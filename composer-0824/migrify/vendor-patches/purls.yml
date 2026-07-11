@@ -154,6 +154,7 @@
 - pkg:composer/migrify/vendor-patches@12.0.6
 - pkg:composer/migrify/vendor-patches@12.1.0
 - pkg:composer/migrify/vendor-patches@12.1.1
+- pkg:composer/migrify/vendor-patches@12.1.2
 - pkg:composer/migrify/vendor-patches@9.0.0
 - pkg:composer/migrify/vendor-patches@9.0.0-BETA2
 - pkg:composer/migrify/vendor-patches@9.0.0-BETA3
