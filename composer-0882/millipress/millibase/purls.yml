@@ -24,3 +24,6 @@
 - pkg:composer/millipress/millibase@v2.6.3
 - pkg:composer/millipress/millibase@v2.6.4
 - pkg:composer/millipress/millibase@v2.6.5
+- pkg:composer/millipress/millibase@v2.6.6
+- pkg:composer/millipress/millibase@v2.6.7
+- pkg:composer/millipress/millibase@v2.6.8
