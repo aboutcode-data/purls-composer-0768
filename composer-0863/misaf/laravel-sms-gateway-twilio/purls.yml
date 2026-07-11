@@ -1,0 +1,2 @@
+- pkg:composer/misaf/laravel-sms-gateway-twilio@v1.0.0
+- pkg:composer/misaf/laravel-sms-gateway-twilio@v3.0.0
