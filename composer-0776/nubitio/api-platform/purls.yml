@@ -12,6 +12,12 @@
 - pkg:composer/nubitio/api-platform@v0.10.7
 - pkg:composer/nubitio/api-platform@v0.10.8
 - pkg:composer/nubitio/api-platform@v0.10.9
+- pkg:composer/nubitio/api-platform@v0.11.0
+- pkg:composer/nubitio/api-platform@v0.11.1
+- pkg:composer/nubitio/api-platform@v0.11.2
+- pkg:composer/nubitio/api-platform@v0.11.3
+- pkg:composer/nubitio/api-platform@v0.12.0
+- pkg:composer/nubitio/api-platform@v0.12.1
 - pkg:composer/nubitio/api-platform@v0.4.0
 - pkg:composer/nubitio/api-platform@v0.4.1
 - pkg:composer/nubitio/api-platform@v0.5.0
