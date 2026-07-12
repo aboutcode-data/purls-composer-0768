@@ -1,1 +1,4 @@
 - pkg:composer/mrsleeps/vexim-web-ui@v1.1.1
+- pkg:composer/mrsleeps/vexim-web-ui@v2.0.0
+- pkg:composer/mrsleeps/vexim-web-ui@v2.0.0-beta
+- pkg:composer/mrsleeps/vexim-web-ui@v2.1.0
