@@ -112,6 +112,7 @@
 - pkg:composer/pop-cms-schema/post-tags-wp@18.0.0
 - pkg:composer/pop-cms-schema/post-tags-wp@18.0.1
 - pkg:composer/pop-cms-schema/post-tags-wp@19.0.0
+- pkg:composer/pop-cms-schema/post-tags-wp@19.0.1
 - pkg:composer/pop-cms-schema/post-tags-wp@2.0.1
 - pkg:composer/pop-cms-schema/post-tags-wp@2.1.0
 - pkg:composer/pop-cms-schema/post-tags-wp@2.1.1
