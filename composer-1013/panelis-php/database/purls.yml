@@ -1,2 +1,3 @@
 - pkg:composer/panelis-php/database@v1.0.0
 - pkg:composer/panelis-php/database@v1.1.0
+- pkg:composer/panelis-php/database@v1.1.1
