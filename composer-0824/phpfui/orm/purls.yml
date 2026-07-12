@@ -57,3 +57,4 @@
 - pkg:composer/phpfui/orm@V3.0.3
 - pkg:composer/phpfui/orm@V3.0.4
 - pkg:composer/phpfui/orm@V3.0.5
+- pkg:composer/phpfui/orm@V3.0.6
