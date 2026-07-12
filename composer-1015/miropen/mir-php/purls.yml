@@ -50,3 +50,4 @@
 - pkg:composer/miropen/mir-php@v0.50.1
 - pkg:composer/miropen/mir-php@v0.50.2
 - pkg:composer/miropen/mir-php@v0.51.0
+- pkg:composer/miropen/mir-php@v0.52.0
