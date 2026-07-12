@@ -53,3 +53,6 @@
 - pkg:composer/palantirnet/drupal-rector@1.0.0-beta5
 - pkg:composer/palantirnet/drupal-rector@1.0.0-beta6
 - pkg:composer/palantirnet/drupal-rector@1.0.0-beta7
+- pkg:composer/palantirnet/drupal-rector@1.0.1
+- pkg:composer/palantirnet/drupal-rector@1.1.0
+- pkg:composer/palantirnet/drupal-rector@1.1.1
