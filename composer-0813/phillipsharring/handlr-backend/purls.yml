@@ -1,4 +1,7 @@
 - pkg:composer/phillipsharring/handlr-backend@0.1.0
+- pkg:composer/phillipsharring/handlr-backend@v0.10.0
+- pkg:composer/phillipsharring/handlr-backend@v0.10.1
+- pkg:composer/phillipsharring/handlr-backend@v0.10.2
 - pkg:composer/phillipsharring/handlr-backend@v0.2.0
 - pkg:composer/phillipsharring/handlr-backend@v0.3.0
 - pkg:composer/phillipsharring/handlr-backend@v0.3.1
