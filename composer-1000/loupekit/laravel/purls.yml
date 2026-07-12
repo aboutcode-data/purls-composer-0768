@@ -1,2 +1,6 @@
 - pkg:composer/loupekit/laravel@v0.3.0
 - pkg:composer/loupekit/laravel@v0.3.1
+- pkg:composer/loupekit/laravel@v0.3.2
+- pkg:composer/loupekit/laravel@v0.3.3
+- pkg:composer/loupekit/laravel@v0.3.4
+- pkg:composer/loupekit/laravel@v0.4.0
