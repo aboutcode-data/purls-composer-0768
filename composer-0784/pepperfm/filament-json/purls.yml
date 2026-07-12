@@ -49,3 +49,6 @@
 - pkg:composer/pepperfm/filament-json@5.0.0
 - pkg:composer/pepperfm/filament-json@5.0.1
 - pkg:composer/pepperfm/filament-json@5.0.2
+- pkg:composer/pepperfm/filament-json@5.1.0
+- pkg:composer/pepperfm/filament-json@5.1.1
+- pkg:composer/pepperfm/filament-json@5.1.2
