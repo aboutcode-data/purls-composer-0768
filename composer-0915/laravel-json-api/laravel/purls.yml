@@ -36,3 +36,4 @@
 - pkg:composer/laravel-json-api/laravel@v5.1.0
 - pkg:composer/laravel-json-api/laravel@v5.2.0
 - pkg:composer/laravel-json-api/laravel@v5.2.1
+- pkg:composer/laravel-json-api/laravel@v5.3.0
