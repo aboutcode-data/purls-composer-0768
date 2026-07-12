@@ -16,3 +16,4 @@
 - pkg:composer/moaines/laravel-fts@v1.7.0
 - pkg:composer/moaines/laravel-fts@v1.8.0
 - pkg:composer/moaines/laravel-fts@v1.9.0
+- pkg:composer/moaines/laravel-fts@v1.9.1
