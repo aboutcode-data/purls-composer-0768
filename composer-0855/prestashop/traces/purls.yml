@@ -74,3 +74,6 @@
 - pkg:composer/prestashop/traces@v6.2.9
 - pkg:composer/prestashop/traces@v6.3.0
 - pkg:composer/prestashop/traces@v6.3.1
+- pkg:composer/prestashop/traces@v6.4.0
+- pkg:composer/prestashop/traces@v6.4.1
+- pkg:composer/prestashop/traces@v6.5.0
