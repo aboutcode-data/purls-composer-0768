@@ -18,3 +18,5 @@
 - pkg:composer/pimcore/platform-version@v2025.4
 - pkg:composer/pimcore/platform-version@v2026.1.0
 - pkg:composer/pimcore/platform-version@v2026.1.0-RC1
+- pkg:composer/pimcore/platform-version@v2026.1.1
+- pkg:composer/pimcore/platform-version@v2026.2.0
