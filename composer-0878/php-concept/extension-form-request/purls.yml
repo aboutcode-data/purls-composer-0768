@@ -1,1 +1,2 @@
 - pkg:composer/php-concept/extension-form-request@1.0.0
+- pkg:composer/php-concept/extension-form-request@v1.0.1
