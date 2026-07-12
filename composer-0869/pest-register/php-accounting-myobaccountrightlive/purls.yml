@@ -86,3 +86,4 @@
 - pkg:composer/pest-register/php-accounting-myobaccountrightlive@2024.1.1
 - pkg:composer/pest-register/php-accounting-myobaccountrightlive@2025.1
 - pkg:composer/pest-register/php-accounting-myobaccountrightlive@2026.0
+- pkg:composer/pest-register/php-accounting-myobaccountrightlive@2026.0.1
