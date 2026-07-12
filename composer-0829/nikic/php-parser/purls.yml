@@ -109,3 +109,4 @@
 - pkg:composer/nikic/php-parser@v5.6.1
 - pkg:composer/nikic/php-parser@v5.6.2
 - pkg:composer/nikic/php-parser@v5.7.0
+- pkg:composer/nikic/php-parser@v5.8.0
