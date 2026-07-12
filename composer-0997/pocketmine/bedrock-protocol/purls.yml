@@ -95,6 +95,7 @@
 - pkg:composer/pocketmine/bedrock-protocol@57.0.0%2Bbedrock-1.26.20
 - pkg:composer/pocketmine/bedrock-protocol@57.1.0%2Bbedrock-1.26.20
 - pkg:composer/pocketmine/bedrock-protocol@58.0.0%2Bbedrock-1.26.30
+- pkg:composer/pocketmine/bedrock-protocol@58.0.1%2Bbedrock-1.26.30
 - pkg:composer/pocketmine/bedrock-protocol@6.0.0%2Bbedrock-1.17.40
 - pkg:composer/pocketmine/bedrock-protocol@7.0.0%2Bbedrock-1.18.0
 - pkg:composer/pocketmine/bedrock-protocol@7.1.0%2Bbedrock-1.18.0

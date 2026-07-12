@@ -13,3 +13,4 @@
 - pkg:composer/poetry/cccms-app@2.0.6
 - pkg:composer/poetry/cccms-app@2.0.7
 - pkg:composer/poetry/cccms-app@2.0.8
+- pkg:composer/poetry/cccms-app@2.0.9
