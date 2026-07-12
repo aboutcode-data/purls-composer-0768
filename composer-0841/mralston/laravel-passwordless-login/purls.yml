@@ -12,3 +12,4 @@
 - pkg:composer/mralston/laravel-passwordless-login@11.0.0
 - pkg:composer/mralston/laravel-passwordless-login@11.0.1
 - pkg:composer/mralston/laravel-passwordless-login@v12.0.0
+- pkg:composer/mralston/laravel-passwordless-login@v13.0.0
