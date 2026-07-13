@@ -5,3 +5,5 @@
 - pkg:composer/rebib/phonenumbersplitter@1.1.5
 - pkg:composer/rebib/phonenumbersplitter@1.2.0
 - pkg:composer/rebib/phonenumbersplitter@1.3.0
+- pkg:composer/rebib/phonenumbersplitter@2.0.0
+- pkg:composer/rebib/phonenumbersplitter@3.0.0
