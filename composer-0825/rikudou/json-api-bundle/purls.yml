@@ -73,6 +73,7 @@
 - pkg:composer/rikudou/json-api-bundle@v2.12.3
 - pkg:composer/rikudou/json-api-bundle@v2.12.4
 - pkg:composer/rikudou/json-api-bundle@v2.12.5
+- pkg:composer/rikudou/json-api-bundle@v2.13.0
 - pkg:composer/rikudou/json-api-bundle@v2.2.0
 - pkg:composer/rikudou/json-api-bundle@v2.2.1
 - pkg:composer/rikudou/json-api-bundle@v2.2.2
