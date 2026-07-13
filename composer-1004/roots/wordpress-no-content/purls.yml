@@ -277,3 +277,4 @@
 - pkg:composer/roots/wordpress-no-content@6.9.3
 - pkg:composer/roots/wordpress-no-content@6.9.4
 - pkg:composer/roots/wordpress-no-content@7.0
+- pkg:composer/roots/wordpress-no-content@7.0.1
