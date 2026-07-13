@@ -99,6 +99,7 @@
 - pkg:composer/pop-wp-schema/comments@18.0.1
 - pkg:composer/pop-wp-schema/comments@19.0.0
 - pkg:composer/pop-wp-schema/comments@19.0.1
+- pkg:composer/pop-wp-schema/comments@19.0.2
 - pkg:composer/pop-wp-schema/comments@2.0.1
 - pkg:composer/pop-wp-schema/comments@2.1.0
 - pkg:composer/pop-wp-schema/comments@2.1.1

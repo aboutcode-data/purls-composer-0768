@@ -104,6 +104,7 @@
 - pkg:composer/pop-wp-schema/posts@18.0.1
 - pkg:composer/pop-wp-schema/posts@19.0.0
 - pkg:composer/pop-wp-schema/posts@19.0.1
+- pkg:composer/pop-wp-schema/posts@19.0.2
 - pkg:composer/pop-wp-schema/posts@2.0.1
 - pkg:composer/pop-wp-schema/posts@2.1.0
 - pkg:composer/pop-wp-schema/posts@2.1.1
