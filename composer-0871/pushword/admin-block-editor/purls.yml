@@ -1070,6 +1070,8 @@
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc719
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc72
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc720
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc721
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc722
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc73
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc74
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc75
