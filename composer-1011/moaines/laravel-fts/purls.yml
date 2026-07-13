@@ -6,6 +6,7 @@
 - pkg:composer/moaines/laravel-fts@v1.1.4
 - pkg:composer/moaines/laravel-fts@v1.1.5
 - pkg:composer/moaines/laravel-fts@v1.1.6
+- pkg:composer/moaines/laravel-fts@v1.10.0
 - pkg:composer/moaines/laravel-fts@v1.2.0
 - pkg:composer/moaines/laravel-fts@v1.3.0
 - pkg:composer/moaines/laravel-fts@v1.4.0
