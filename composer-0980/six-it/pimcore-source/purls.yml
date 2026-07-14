@@ -1,3 +1,4 @@
 - pkg:composer/six-it/pimcore-source@v1.0.0
 - pkg:composer/six-it/pimcore-source@v1.0.1
 - pkg:composer/six-it/pimcore-source@v1.0.2
+- pkg:composer/six-it/pimcore-source@v2.0.0
