@@ -144,6 +144,7 @@
 - pkg:composer/shopware/administration@v6.6.10.18
 - pkg:composer/shopware/administration@v6.6.10.19
 - pkg:composer/shopware/administration@v6.6.10.2
+- pkg:composer/shopware/administration@v6.6.10.20
 - pkg:composer/shopware/administration@v6.6.10.3
 - pkg:composer/shopware/administration@v6.6.10.4
 - pkg:composer/shopware/administration@v6.6.10.5
@@ -181,6 +182,7 @@
 - pkg:composer/shopware/administration@v6.7.10.2
 - pkg:composer/shopware/administration@v6.7.11.0
 - pkg:composer/shopware/administration@v6.7.11.1
+- pkg:composer/shopware/administration@v6.7.12.1
 - pkg:composer/shopware/administration@v6.7.2.0
 - pkg:composer/shopware/administration@v6.7.2.1
 - pkg:composer/shopware/administration@v6.7.2.2
