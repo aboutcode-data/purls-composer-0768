@@ -23,3 +23,5 @@
 - pkg:composer/sonnenglas/dhl-parcel-de-sdk@v2.5.1
 - pkg:composer/sonnenglas/dhl-parcel-de-sdk@v2.5.2
 - pkg:composer/sonnenglas/dhl-parcel-de-sdk@v2.5.3
+- pkg:composer/sonnenglas/dhl-parcel-de-sdk@v2.6.0
+- pkg:composer/sonnenglas/dhl-parcel-de-sdk@v2.7.0
