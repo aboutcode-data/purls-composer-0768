@@ -29,3 +29,4 @@
 - pkg:composer/scheb/yahoo-finance-api@v4.9.0
 - pkg:composer/scheb/yahoo-finance-api@v5.0.0
 - pkg:composer/scheb/yahoo-finance-api@v5.1.0
+- pkg:composer/scheb/yahoo-finance-api@v5.2.0

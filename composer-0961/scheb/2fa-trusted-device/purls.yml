@@ -73,3 +73,4 @@
 - pkg:composer/scheb/2fa-trusted-device@v8.4.0
 - pkg:composer/scheb/2fa-trusted-device@v8.5.0
 - pkg:composer/scheb/2fa-trusted-device@v8.6.0
+- pkg:composer/scheb/2fa-trusted-device@v8.6.1
