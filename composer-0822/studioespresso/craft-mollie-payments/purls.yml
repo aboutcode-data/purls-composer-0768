@@ -64,4 +64,5 @@
 - pkg:composer/studioespresso/craft-mollie-payments@5.4.4
 - pkg:composer/studioespresso/craft-mollie-payments@5.4.5
 - pkg:composer/studioespresso/craft-mollie-payments@5.4.6
+- pkg:composer/studioespresso/craft-mollie-payments@5.4.7
 - pkg:composer/studioespresso/craft-mollie-payments@6.0.0-alpha.1
