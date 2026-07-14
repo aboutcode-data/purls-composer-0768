@@ -16,3 +16,5 @@
 - pkg:composer/sendity/laravel-server@v0.2.7
 - pkg:composer/sendity/laravel-server@v0.3.0-beta.1
 - pkg:composer/sendity/laravel-server@v0.3.0-beta.2
+- pkg:composer/sendity/laravel-server@v0.3.0-beta.3
+- pkg:composer/sendity/laravel-server@v0.3.0-beta.4
