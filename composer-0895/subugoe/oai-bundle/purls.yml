@@ -25,3 +25,6 @@
 - pkg:composer/subugoe/oai-bundle@0.7.7
 - pkg:composer/subugoe/oai-bundle@0.7.8
 - pkg:composer/subugoe/oai-bundle@0.7.9
+- pkg:composer/subugoe/oai-bundle@0.8.0
+- pkg:composer/subugoe/oai-bundle@0.8.1
+- pkg:composer/subugoe/oai-bundle@0.8.2
