@@ -1,1 +1,4 @@
 - pkg:composer/standard-library/reflection@0.0.1
+- pkg:composer/standard-library/reflection@0.0.2
+- pkg:composer/standard-library/reflection@0.0.3
+- pkg:composer/standard-library/reflection@0.0.4
