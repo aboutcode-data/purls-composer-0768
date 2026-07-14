@@ -7,3 +7,4 @@
 - pkg:composer/steady-ua/unicorn@v1.6.1
 - pkg:composer/steady-ua/unicorn@v1.7.0
 - pkg:composer/steady-ua/unicorn@v1.9.0
+- pkg:composer/steady-ua/unicorn@v2.0.0
