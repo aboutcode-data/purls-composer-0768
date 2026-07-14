@@ -23,3 +23,5 @@
 - pkg:composer/statview/satellite@2.0.1
 - pkg:composer/statview/satellite@2.1.0
 - pkg:composer/statview/satellite@v2.2.1
+- pkg:composer/statview/satellite@v2.3.0
+- pkg:composer/statview/satellite@v2.4.0
