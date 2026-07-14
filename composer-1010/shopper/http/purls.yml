@@ -1,3 +1,5 @@
 - pkg:composer/shopper/http@v3.0.0-beta.1
 - pkg:composer/shopper/http@v3.0.0-beta.2
 - pkg:composer/shopper/http@v3.0.0-beta.3
+- pkg:composer/shopper/http@v3.0.0-beta.4
+- pkg:composer/shopper/http@v3.0.0-beta.5
