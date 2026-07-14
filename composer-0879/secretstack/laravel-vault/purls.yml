@@ -2,3 +2,5 @@
 - pkg:composer/secretstack/laravel-vault@v2.0.0
 - pkg:composer/secretstack/laravel-vault@v2.1.0
 - pkg:composer/secretstack/laravel-vault@v2.2.0
+- pkg:composer/secretstack/laravel-vault@v2.2.1
+- pkg:composer/secretstack/laravel-vault@v2.3.0
