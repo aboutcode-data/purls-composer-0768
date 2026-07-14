@@ -18,6 +18,7 @@
 - pkg:composer/spiral/queue@3.11.1
 - pkg:composer/spiral/queue@3.12.0
 - pkg:composer/spiral/queue@3.13.0
+- pkg:composer/spiral/queue@3.13.1
 - pkg:composer/spiral/queue@3.14.0
 - pkg:composer/spiral/queue@3.14.1
 - pkg:composer/spiral/queue@3.14.10
@@ -42,6 +43,7 @@
 - pkg:composer/spiral/queue@3.16.1
 - pkg:composer/spiral/queue@3.16.2
 - pkg:composer/spiral/queue@3.17.0
+- pkg:composer/spiral/queue@3.17.1
 - pkg:composer/spiral/queue@3.2.0
 - pkg:composer/spiral/queue@3.3.0
 - pkg:composer/spiral/queue@3.4.0
