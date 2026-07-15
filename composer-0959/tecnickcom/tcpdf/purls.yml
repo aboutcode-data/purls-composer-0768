@@ -145,3 +145,5 @@
 - pkg:composer/tecnickcom/tcpdf@7.0.0
 - pkg:composer/tecnickcom/tcpdf@7.0.1
 - pkg:composer/tecnickcom/tcpdf@7.0.2
+- pkg:composer/tecnickcom/tcpdf@7.0.3
+- pkg:composer/tecnickcom/tcpdf@7.0.4
