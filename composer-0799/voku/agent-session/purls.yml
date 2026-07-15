@@ -1,1 +1,4 @@
 - pkg:composer/voku/agent-session@0.0.1
+- pkg:composer/voku/agent-session@0.1.0
+- pkg:composer/voku/agent-session@0.1.1
+- pkg:composer/voku/agent-session@0.2.0
