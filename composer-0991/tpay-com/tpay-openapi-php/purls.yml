@@ -45,3 +45,4 @@
 - pkg:composer/tpay-com/tpay-openapi-php@2.4.6
 - pkg:composer/tpay-com/tpay-openapi-php@2.4.7
 - pkg:composer/tpay-com/tpay-openapi-php@2.5.0
+- pkg:composer/tpay-com/tpay-openapi-php@2.5.1
