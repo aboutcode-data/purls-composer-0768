@@ -1,0 +1,3 @@
+- pkg:composer/wonsulting/opensearch-client@0.1.0
+- pkg:composer/wonsulting/opensearch-client@2.0.0
+- pkg:composer/wonsulting/opensearch-client@2.0.1
