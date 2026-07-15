@@ -240,3 +240,4 @@
 - pkg:composer/tinymce/tinymce@8.5.1
 - pkg:composer/tinymce/tinymce@8.6.0
 - pkg:composer/tinymce/tinymce@8.7.0
+- pkg:composer/tinymce/tinymce@8.8.0
