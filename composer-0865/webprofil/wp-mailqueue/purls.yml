@@ -3,3 +3,4 @@
 - pkg:composer/webprofil/wp-mailqueue@1.0.2
 - pkg:composer/webprofil/wp-mailqueue@2.0.0
 - pkg:composer/webprofil/wp-mailqueue@2.1.0
+- pkg:composer/webprofil/wp-mailqueue@3.0.0
