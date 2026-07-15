@@ -57,3 +57,4 @@
 - pkg:composer/symfony/ux-twig-component@v3.0.0
 - pkg:composer/symfony/ux-twig-component@v3.1.0
 - pkg:composer/symfony/ux-twig-component@v3.2.0
+- pkg:composer/symfony/ux-twig-component@v3.3.0
