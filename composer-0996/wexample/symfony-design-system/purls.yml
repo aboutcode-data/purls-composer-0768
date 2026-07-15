@@ -147,3 +147,4 @@
 - pkg:composer/wexample/symfony-design-system@3.0.3
 - pkg:composer/wexample/symfony-design-system@3.0.4
 - pkg:composer/wexample/symfony-design-system@3.0.5
+- pkg:composer/wexample/symfony-design-system@4.0.0
