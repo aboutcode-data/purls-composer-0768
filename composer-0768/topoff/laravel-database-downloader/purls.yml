@@ -19,3 +19,4 @@
 - pkg:composer/topoff/laravel-database-downloader@v3.0.0
 - pkg:composer/topoff/laravel-database-downloader@v3.1.0
 - pkg:composer/topoff/laravel-database-downloader@v3.1.1
+- pkg:composer/topoff/laravel-database-downloader@v3.2.0
