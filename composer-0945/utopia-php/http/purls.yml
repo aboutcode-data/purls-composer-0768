@@ -180,6 +180,10 @@
 - pkg:composer/utopia-php/http@2.0.0-rc12
 - pkg:composer/utopia-php/http@2.0.0-rc13
 - pkg:composer/utopia-php/http@2.0.0-rc14
+- pkg:composer/utopia-php/http@2.0.0-rc15
+- pkg:composer/utopia-php/http@2.0.0-rc16
+- pkg:composer/utopia-php/http@2.0.0-rc17
+- pkg:composer/utopia-php/http@2.0.0-rc18
 - pkg:composer/utopia-php/http@2.0.0-rc2
 - pkg:composer/utopia-php/http@2.0.0-rc3
 - pkg:composer/utopia-php/http@2.0.0-rc4
