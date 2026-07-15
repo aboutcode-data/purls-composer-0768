@@ -398,6 +398,8 @@
 - pkg:composer/tencentcloud/goosefs@3.0.1538
 - pkg:composer/tencentcloud/goosefs@3.0.1547
 - pkg:composer/tencentcloud/goosefs@3.0.1571
+- pkg:composer/tencentcloud/goosefs@3.0.1619
+- pkg:composer/tencentcloud/goosefs@3.0.1624
 - pkg:composer/tencentcloud/goosefs@3.0.814
 - pkg:composer/tencentcloud/goosefs@3.0.815
 - pkg:composer/tencentcloud/goosefs@3.0.816
