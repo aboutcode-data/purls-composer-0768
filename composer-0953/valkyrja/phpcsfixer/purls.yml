@@ -3,6 +3,9 @@
 - pkg:composer/valkyrja/phpcsfixer@v26.1.0
 - pkg:composer/valkyrja/phpcsfixer@v26.1.1
 - pkg:composer/valkyrja/phpcsfixer@v26.1.10
+- pkg:composer/valkyrja/phpcsfixer@v26.1.11
+- pkg:composer/valkyrja/phpcsfixer@v26.1.12
+- pkg:composer/valkyrja/phpcsfixer@v26.1.13
 - pkg:composer/valkyrja/phpcsfixer@v26.1.2
 - pkg:composer/valkyrja/phpcsfixer@v26.1.3
 - pkg:composer/valkyrja/phpcsfixer@v26.1.4
