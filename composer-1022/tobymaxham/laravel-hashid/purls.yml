@@ -6,3 +6,4 @@
 - pkg:composer/tobymaxham/laravel-hashid@v1.0
 - pkg:composer/tobymaxham/laravel-hashid@v1.0.1
 - pkg:composer/tobymaxham/laravel-hashid@v1.2
+- pkg:composer/tobymaxham/laravel-hashid@v1.3
