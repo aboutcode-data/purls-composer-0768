@@ -14,6 +14,10 @@
 - pkg:composer/webpatser/fledge-framework@v13.18.0.1
 - pkg:composer/webpatser/fledge-framework@v13.18.0.2
 - pkg:composer/webpatser/fledge-framework@v13.18.0.3
+- pkg:composer/webpatser/fledge-framework@v13.19.0.1
+- pkg:composer/webpatser/fledge-framework@v13.19.0.2
+- pkg:composer/webpatser/fledge-framework@v13.20.0.1
+- pkg:composer/webpatser/fledge-framework@v13.20.0.2
 - pkg:composer/webpatser/fledge-framework@v13.3.0.1
 - pkg:composer/webpatser/fledge-framework@v13.3.0.2
 - pkg:composer/webpatser/fledge-framework@v13.3.0.3
