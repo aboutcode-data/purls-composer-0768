@@ -5,3 +5,4 @@
 - pkg:composer/wimski/laravel-psr-http@v2.0.0
 - pkg:composer/wimski/laravel-psr-http@v2.1.0
 - pkg:composer/wimski/laravel-psr-http@v3.0.0
+- pkg:composer/wimski/laravel-psr-http@v4.0.0
