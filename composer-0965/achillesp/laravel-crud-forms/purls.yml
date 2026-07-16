@@ -10,3 +10,8 @@
 - pkg:composer/achillesp/laravel-crud-forms@4.0
 - pkg:composer/achillesp/laravel-crud-forms@5.0
 - pkg:composer/achillesp/laravel-crud-forms@6.0
+- pkg:composer/achillesp/laravel-crud-forms@6.1
+- pkg:composer/achillesp/laravel-crud-forms@6.2
+- pkg:composer/achillesp/laravel-crud-forms@7.0
+- pkg:composer/achillesp/laravel-crud-forms@8.0
+- pkg:composer/achillesp/laravel-crud-forms@9.0
