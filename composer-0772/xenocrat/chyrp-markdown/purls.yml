@@ -19,6 +19,8 @@
 - pkg:composer/xenocrat/chyrp-markdown@v4.13
 - pkg:composer/xenocrat/chyrp-markdown@v4.14
 - pkg:composer/xenocrat/chyrp-markdown@v4.15
+- pkg:composer/xenocrat/chyrp-markdown@v4.16
+- pkg:composer/xenocrat/chyrp-markdown@v4.16.1
 - pkg:composer/xenocrat/chyrp-markdown@v4.2
 - pkg:composer/xenocrat/chyrp-markdown@v4.3
 - pkg:composer/xenocrat/chyrp-markdown@v4.4
