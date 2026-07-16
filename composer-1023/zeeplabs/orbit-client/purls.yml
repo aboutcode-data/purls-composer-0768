@@ -5,3 +5,4 @@
 - pkg:composer/zeeplabs/orbit-client@v0.1.7
 - pkg:composer/zeeplabs/orbit-client@v0.1.8
 - pkg:composer/zeeplabs/orbit-client@v0.1.9
+- pkg:composer/zeeplabs/orbit-client@v0.2.0
