@@ -41,3 +41,4 @@
 - pkg:composer/thepay/api-client@v2.2.0
 - pkg:composer/thepay/api-client@v2.2.1
 - pkg:composer/thepay/api-client@v3.0.0
+- pkg:composer/thepay/api-client@v3.0.1
