@@ -60,6 +60,8 @@
 - pkg:composer/131/php-sdk@2.10.5
 - pkg:composer/131/php-sdk@2.10.6
 - pkg:composer/131/php-sdk@2.10.7
+- pkg:composer/131/php-sdk@2.10.8
+- pkg:composer/131/php-sdk@2.11.0
 - pkg:composer/131/php-sdk@2.2.0
 - pkg:composer/131/php-sdk@2.3.0
 - pkg:composer/131/php-sdk@2.4.0
