@@ -78,6 +78,9 @@
 - pkg:composer/alibabacloud/eds-aic-20230930@4.24.1
 - pkg:composer/alibabacloud/eds-aic-20230930@4.25.0
 - pkg:composer/alibabacloud/eds-aic-20230930@4.25.1
+- pkg:composer/alibabacloud/eds-aic-20230930@4.25.3
+- pkg:composer/alibabacloud/eds-aic-20230930@4.25.4
+- pkg:composer/alibabacloud/eds-aic-20230930@4.26.0
 - pkg:composer/alibabacloud/eds-aic-20230930@4.3.0
 - pkg:composer/alibabacloud/eds-aic-20230930@4.3.1
 - pkg:composer/alibabacloud/eds-aic-20230930@4.3.2
