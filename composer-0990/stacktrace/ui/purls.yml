@@ -6,6 +6,7 @@
 - pkg:composer/stacktrace/ui@v0.11.4
 - pkg:composer/stacktrace/ui@v0.12.0
 - pkg:composer/stacktrace/ui@v0.12.1
+- pkg:composer/stacktrace/ui@v0.12.2
 - pkg:composer/stacktrace/ui@v0.2.16
 - pkg:composer/stacktrace/ui@v0.3.0
 - pkg:composer/stacktrace/ui@v0.4.0
