@@ -16,3 +16,5 @@
 - pkg:composer/spatie/laravel-mobile-pass@1.4.0
 - pkg:composer/spatie/laravel-mobile-pass@1.5.0
 - pkg:composer/spatie/laravel-mobile-pass@1.6.0
+- pkg:composer/spatie/laravel-mobile-pass@1.7.0
+- pkg:composer/spatie/laravel-mobile-pass@1.7.1
