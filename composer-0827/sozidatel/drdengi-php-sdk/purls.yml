@@ -8,3 +8,5 @@
 - pkg:composer/sozidatel/drdengi-php-sdk@v0.4.0
 - pkg:composer/sozidatel/drdengi-php-sdk@v0.5.0
 - pkg:composer/sozidatel/drdengi-php-sdk@v0.5.1
+- pkg:composer/sozidatel/drdengi-php-sdk@v0.6.0
+- pkg:composer/sozidatel/drdengi-php-sdk@v0.7.0
