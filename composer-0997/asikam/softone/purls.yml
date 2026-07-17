@@ -1,4 +1,6 @@
 - pkg:composer/asikam/softone@1.0.0
+- pkg:composer/asikam/softone@1.2.1
+- pkg:composer/asikam/softone@1.2.2
 - pkg:composer/asikam/softone@v1.0.1
 - pkg:composer/asikam/softone@v1.0.2
 - pkg:composer/asikam/softone@v1.0.3
