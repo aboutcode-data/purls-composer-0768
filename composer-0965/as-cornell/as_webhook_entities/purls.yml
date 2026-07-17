@@ -9,6 +9,7 @@
 - pkg:composer/as-cornell/as_webhook_entities@v1.0.8
 - pkg:composer/as-cornell/as_webhook_entities@v2.0.0
 - pkg:composer/as-cornell/as_webhook_entities@v2.0.1
+- pkg:composer/as-cornell/as_webhook_entities@v2.0.11
 - pkg:composer/as-cornell/as_webhook_entities@v2.0.2
 - pkg:composer/as-cornell/as_webhook_entities@v2.0.3
 - pkg:composer/as-cornell/as_webhook_entities@v2.0.4
@@ -18,3 +19,4 @@
 - pkg:composer/as-cornell/as_webhook_entities@v2.0.8
 - pkg:composer/as-cornell/as_webhook_entities@v2.0.9
 - pkg:composer/as-cornell/as_webhook_entities@v2.10.0
+- pkg:composer/as-cornell/as_webhook_entities@v2.11.0
