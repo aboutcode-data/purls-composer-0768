@@ -159,6 +159,7 @@
 - pkg:composer/api-platform/serializer@v4.3.14
 - pkg:composer/api-platform/serializer@v4.3.15
 - pkg:composer/api-platform/serializer@v4.3.16
+- pkg:composer/api-platform/serializer@v4.3.17
 - pkg:composer/api-platform/serializer@v4.3.2
 - pkg:composer/api-platform/serializer@v4.3.3
 - pkg:composer/api-platform/serializer@v4.3.4
@@ -169,4 +170,6 @@
 - pkg:composer/api-platform/serializer@v4.3.9
 - pkg:composer/api-platform/serializer@v4.4.0-alpha.1
 - pkg:composer/api-platform/serializer@v4.4.0-alpha.2
+- pkg:composer/api-platform/serializer@v4.4.0-alpha.3
 - pkg:composer/api-platform/serializer@v5.0.0-alpha.1
+- pkg:composer/api-platform/serializer@v5.0.0-alpha.2
