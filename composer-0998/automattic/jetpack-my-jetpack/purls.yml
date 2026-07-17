@@ -367,6 +367,9 @@
 - pkg:composer/automattic/jetpack-my-jetpack@v5.40.3
 - pkg:composer/automattic/jetpack-my-jetpack@v5.40.4
 - pkg:composer/automattic/jetpack-my-jetpack@v5.40.5
+- pkg:composer/automattic/jetpack-my-jetpack@v5.40.5.1
+- pkg:composer/automattic/jetpack-my-jetpack@v5.40.6
+- pkg:composer/automattic/jetpack-my-jetpack@v5.40.7
 - pkg:composer/automattic/jetpack-my-jetpack@v5.5.0
 - pkg:composer/automattic/jetpack-my-jetpack@v5.5.1
 - pkg:composer/automattic/jetpack-my-jetpack@v5.5.2

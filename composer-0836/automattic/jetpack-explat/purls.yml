@@ -85,6 +85,8 @@
 - pkg:composer/automattic/jetpack-explat@v0.4.32
 - pkg:composer/automattic/jetpack-explat@v0.4.33
 - pkg:composer/automattic/jetpack-explat@v0.4.34
+- pkg:composer/automattic/jetpack-explat@v0.4.35
+- pkg:composer/automattic/jetpack-explat@v0.4.36
 - pkg:composer/automattic/jetpack-explat@v0.4.4
 - pkg:composer/automattic/jetpack-explat@v0.4.5
 - pkg:composer/automattic/jetpack-explat@v0.4.6

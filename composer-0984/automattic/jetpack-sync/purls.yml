@@ -322,6 +322,8 @@
 - pkg:composer/automattic/jetpack-sync@v4.44.0
 - pkg:composer/automattic/jetpack-sync@v4.44.1
 - pkg:composer/automattic/jetpack-sync@v4.45.0
+- pkg:composer/automattic/jetpack-sync@v4.45.1
+- pkg:composer/automattic/jetpack-sync@v4.45.2
 - pkg:composer/automattic/jetpack-sync@v4.5.0
 - pkg:composer/automattic/jetpack-sync@v4.6.0
 - pkg:composer/automattic/jetpack-sync@v4.7.0
