@@ -11,3 +11,4 @@
 - pkg:composer/arbory/request-logger@v5.0
 - pkg:composer/arbory/request-logger@v6.0
 - pkg:composer/arbory/request-logger@v6.1
+- pkg:composer/arbory/request-logger@v7.0
