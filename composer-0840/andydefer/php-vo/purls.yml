@@ -15,6 +15,13 @@
 - pkg:composer/andydefer/php-vo@v0.11.0
 - pkg:composer/andydefer/php-vo@v0.12.0
 - pkg:composer/andydefer/php-vo@v0.12.1
+- pkg:composer/andydefer/php-vo@v0.13.0
+- pkg:composer/andydefer/php-vo@v0.13.1
+- pkg:composer/andydefer/php-vo@v0.13.2
+- pkg:composer/andydefer/php-vo@v0.13.3
+- pkg:composer/andydefer/php-vo@v0.13.4
+- pkg:composer/andydefer/php-vo@v0.13.5
+- pkg:composer/andydefer/php-vo@v0.14.0
 - pkg:composer/andydefer/php-vo@v0.8.1
 - pkg:composer/andydefer/php-vo@v0.8.2
 - pkg:composer/andydefer/php-vo@v0.8.3
