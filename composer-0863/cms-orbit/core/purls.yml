@@ -1,5 +1,10 @@
 - pkg:composer/cms-orbit/core@4.0.0
 - pkg:composer/cms-orbit/core@4.0.1
+- pkg:composer/cms-orbit/core@4.0.10
 - pkg:composer/cms-orbit/core@4.0.2
 - pkg:composer/cms-orbit/core@4.0.3
 - pkg:composer/cms-orbit/core@4.0.4
+- pkg:composer/cms-orbit/core@4.0.5
+- pkg:composer/cms-orbit/core@4.0.6
+- pkg:composer/cms-orbit/core@4.0.7
+- pkg:composer/cms-orbit/core@4.0.9
