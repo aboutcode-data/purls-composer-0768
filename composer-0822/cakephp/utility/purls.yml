@@ -264,6 +264,7 @@
 - pkg:composer/cakephp/utility@4.5.0-RC1
 - pkg:composer/cakephp/utility@4.5.1
 - pkg:composer/cakephp/utility@4.5.10
+- pkg:composer/cakephp/utility@4.5.12
 - pkg:composer/cakephp/utility@4.5.2
 - pkg:composer/cakephp/utility@4.5.3
 - pkg:composer/cakephp/utility@4.5.4
@@ -277,6 +278,7 @@
 - pkg:composer/cakephp/utility@4.6.1
 - pkg:composer/cakephp/utility@4.6.2
 - pkg:composer/cakephp/utility@4.6.3
+- pkg:composer/cakephp/utility@4.6.5
 - pkg:composer/cakephp/utility@5.0.0
 - pkg:composer/cakephp/utility@5.0.0-RC1
 - pkg:composer/cakephp/utility@5.0.0-RC2
@@ -296,10 +298,13 @@
 - pkg:composer/cakephp/utility@5.1.0-RC1
 - pkg:composer/cakephp/utility@5.1.0-RC2
 - pkg:composer/cakephp/utility@5.1.1
+- pkg:composer/cakephp/utility@5.1.10
 - pkg:composer/cakephp/utility@5.1.2
 - pkg:composer/cakephp/utility@5.1.4
 - pkg:composer/cakephp/utility@5.1.5
 - pkg:composer/cakephp/utility@5.1.6
+- pkg:composer/cakephp/utility@5.1.8
+- pkg:composer/cakephp/utility@5.1.9
 - pkg:composer/cakephp/utility@5.2.0
 - pkg:composer/cakephp/utility@5.2.0-RC1
 - pkg:composer/cakephp/utility@5.2.1
@@ -307,6 +312,8 @@
 - pkg:composer/cakephp/utility@5.2.11
 - pkg:composer/cakephp/utility@5.2.12
 - pkg:composer/cakephp/utility@5.2.13
+- pkg:composer/cakephp/utility@5.2.14
+- pkg:composer/cakephp/utility@5.2.15
 - pkg:composer/cakephp/utility@5.2.2
 - pkg:composer/cakephp/utility@5.2.3
 - pkg:composer/cakephp/utility@5.2.4
@@ -323,5 +330,6 @@
 - pkg:composer/cakephp/utility@5.3.4
 - pkg:composer/cakephp/utility@5.3.5
 - pkg:composer/cakephp/utility@5.3.6
+- pkg:composer/cakephp/utility@5.3.7
 - pkg:composer/cakephp/utility@5.4.0-RC1
 - pkg:composer/cakephp/utility@5.4.0-RC2
