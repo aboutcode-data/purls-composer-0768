@@ -13,6 +13,7 @@
 - pkg:composer/betterauth/symfony-bundle@v0.0.21
 - pkg:composer/betterauth/symfony-bundle@v0.0.22
 - pkg:composer/betterauth/symfony-bundle@v0.0.23
+- pkg:composer/betterauth/symfony-bundle@v0.0.24
 - pkg:composer/betterauth/symfony-bundle@v0.0.3
 - pkg:composer/betterauth/symfony-bundle@v0.0.6
 - pkg:composer/betterauth/symfony-bundle@v0.0.7
