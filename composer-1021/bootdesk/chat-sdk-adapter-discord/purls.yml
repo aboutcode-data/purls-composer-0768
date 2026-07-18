@@ -20,6 +20,10 @@
 - pkg:composer/bootdesk/chat-sdk-adapter-discord@0.4.30
 - pkg:composer/bootdesk/chat-sdk-adapter-discord@0.4.31
 - pkg:composer/bootdesk/chat-sdk-adapter-discord@0.4.32
+- pkg:composer/bootdesk/chat-sdk-adapter-discord@0.4.33
+- pkg:composer/bootdesk/chat-sdk-adapter-discord@0.4.4
+- pkg:composer/bootdesk/chat-sdk-adapter-discord@0.4.44
+- pkg:composer/bootdesk/chat-sdk-adapter-discord@0.4.45
 - pkg:composer/bootdesk/chat-sdk-adapter-discord@0.4.5
 - pkg:composer/bootdesk/chat-sdk-adapter-discord@0.4.6
 - pkg:composer/bootdesk/chat-sdk-adapter-discord@0.4.7
