@@ -88,3 +88,4 @@
 - pkg:composer/bagisto/bagisto@v2.4.5
 - pkg:composer/bagisto/bagisto@v2.4.6
 - pkg:composer/bagisto/bagisto@v2.4.7
+- pkg:composer/bagisto/bagisto@v2.4.8
