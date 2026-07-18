@@ -27,6 +27,8 @@
 - pkg:composer/dashed/dashed-livechat@v4.20.0
 - pkg:composer/dashed/dashed-livechat@v4.21.0
 - pkg:composer/dashed/dashed-livechat@v4.21.1
+- pkg:composer/dashed/dashed-livechat@v4.21.2
+- pkg:composer/dashed/dashed-livechat@v4.21.3
 - pkg:composer/dashed/dashed-livechat@v4.3.0
 - pkg:composer/dashed/dashed-livechat@v4.3.1
 - pkg:composer/dashed/dashed-livechat@v4.4.0
