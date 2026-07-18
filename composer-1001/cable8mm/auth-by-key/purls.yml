@@ -1,3 +1,4 @@
 - pkg:composer/cable8mm/auth-by-key@v2.1.0
 - pkg:composer/cable8mm/auth-by-key@v2.1.1
 - pkg:composer/cable8mm/auth-by-key@v2.1.2
+- pkg:composer/cable8mm/auth-by-key@v2.2.0
