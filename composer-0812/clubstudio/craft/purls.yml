@@ -8,3 +8,5 @@
 - pkg:composer/clubstudio/craft@2.0.0
 - pkg:composer/clubstudio/craft@5.0.0
 - pkg:composer/clubstudio/craft@5.1.0
+- pkg:composer/clubstudio/craft@5.2.0
+- pkg:composer/clubstudio/craft@5.2.1
