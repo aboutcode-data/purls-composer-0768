@@ -386,6 +386,7 @@
 - pkg:composer/contao/newsletter-bundle@5.3.45
 - pkg:composer/contao/newsletter-bundle@5.3.46
 - pkg:composer/contao/newsletter-bundle@5.3.47
+- pkg:composer/contao/newsletter-bundle@5.3.48
 - pkg:composer/contao/newsletter-bundle@5.3.5
 - pkg:composer/contao/newsletter-bundle@5.3.6
 - pkg:composer/contao/newsletter-bundle@5.3.7
@@ -459,3 +460,5 @@
 - pkg:composer/contao/newsletter-bundle@5.7.6
 - pkg:composer/contao/newsletter-bundle@5.7.7
 - pkg:composer/contao/newsletter-bundle@5.7.8
+- pkg:composer/contao/newsletter-bundle@5.7.9
+- pkg:composer/contao/newsletter-bundle@6.0.0-RC1
