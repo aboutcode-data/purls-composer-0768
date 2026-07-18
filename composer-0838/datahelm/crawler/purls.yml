@@ -1,1 +1,4 @@
 - pkg:composer/datahelm/crawler@1.0.0
+- pkg:composer/datahelm/crawler@v1.0.2
+- pkg:composer/datahelm/crawler@v1.0.3
+- pkg:composer/datahelm/crawler@v1.0.4
