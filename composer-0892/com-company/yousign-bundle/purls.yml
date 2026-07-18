@@ -49,6 +49,7 @@
 - pkg:composer/com-company/yousign-bundle@1.0.12
 - pkg:composer/com-company/yousign-bundle@1.0.13
 - pkg:composer/com-company/yousign-bundle@1.0.14
+- pkg:composer/com-company/yousign-bundle@1.0.15
 - pkg:composer/com-company/yousign-bundle@1.0.2
 - pkg:composer/com-company/yousign-bundle@1.0.3
 - pkg:composer/com-company/yousign-bundle@1.0.4
@@ -57,3 +58,4 @@
 - pkg:composer/com-company/yousign-bundle@1.0.7
 - pkg:composer/com-company/yousign-bundle@1.0.8
 - pkg:composer/com-company/yousign-bundle@1.0.9
+- pkg:composer/com-company/yousign-bundle@2.0.0
