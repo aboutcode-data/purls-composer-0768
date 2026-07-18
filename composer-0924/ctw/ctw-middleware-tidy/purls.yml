@@ -32,3 +32,4 @@
 - pkg:composer/ctw/ctw-middleware-tidy@4.0.2
 - pkg:composer/ctw/ctw-middleware-tidy@4.0.3
 - pkg:composer/ctw/ctw-middleware-tidy@4.0.4
+- pkg:composer/ctw/ctw-middleware-tidy@5.0.0
