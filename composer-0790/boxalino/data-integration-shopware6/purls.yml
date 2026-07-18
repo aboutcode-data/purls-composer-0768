@@ -26,12 +26,14 @@
 - pkg:composer/boxalino/data-integration-shopware6@3.3.4
 - pkg:composer/boxalino/data-integration-shopware6@3.4.0
 - pkg:composer/boxalino/data-integration-shopware6@3.4.1
+- pkg:composer/boxalino/data-integration-shopware6@3.4.11
 - pkg:composer/boxalino/data-integration-shopware6@3.4.2
 - pkg:composer/boxalino/data-integration-shopware6@3.4.3
 - pkg:composer/boxalino/data-integration-shopware6@3.4.4
 - pkg:composer/boxalino/data-integration-shopware6@3.4.5
 - pkg:composer/boxalino/data-integration-shopware6@3.4.6
 - pkg:composer/boxalino/data-integration-shopware6@3.4.8
+- pkg:composer/boxalino/data-integration-shopware6@3.4.9
 - pkg:composer/boxalino/data-integration-shopware6@3.5.0
 - pkg:composer/boxalino/data-integration-shopware6@3.5.1
 - pkg:composer/boxalino/data-integration-shopware6@3.5.2
@@ -39,3 +41,5 @@
 - pkg:composer/boxalino/data-integration-shopware6@3.6.0
 - pkg:composer/boxalino/data-integration-shopware6@3.6.1
 - pkg:composer/boxalino/data-integration-shopware6@3.6.2
+- pkg:composer/boxalino/data-integration-shopware6@3.6.3
+- pkg:composer/boxalino/data-integration-shopware6@3.6.4
