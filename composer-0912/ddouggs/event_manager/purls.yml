@@ -11,4 +11,6 @@
 - pkg:composer/ddouggs/event_manager@v0.3.8
 - pkg:composer/ddouggs/event_manager@v0.4.8
 - pkg:composer/ddouggs/event_manager@v0.5.8
+- pkg:composer/ddouggs/event_manager@v0.6.10
 - pkg:composer/ddouggs/event_manager@v0.6.8
+- pkg:composer/ddouggs/event_manager@v0.6.9
