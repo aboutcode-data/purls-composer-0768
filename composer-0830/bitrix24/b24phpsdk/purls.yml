@@ -14,3 +14,4 @@
 - pkg:composer/bitrix24/b24phpsdk@3.1.0
 - pkg:composer/bitrix24/b24phpsdk@3.2.0
 - pkg:composer/bitrix24/b24phpsdk@3.3.0
+- pkg:composer/bitrix24/b24phpsdk@3.4.0
