@@ -10,3 +10,4 @@
 - pkg:composer/divineomega/dotenv-loader@v3.0.0
 - pkg:composer/divineomega/dotenv-loader@v4.0.0
 - pkg:composer/divineomega/dotenv-loader@v4.0.1
+- pkg:composer/divineomega/dotenv-loader@v4.1.0
