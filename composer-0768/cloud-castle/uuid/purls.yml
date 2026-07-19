@@ -1,2 +1,4 @@
 - pkg:composer/cloud-castle/uuid@v0.1.0
 - pkg:composer/cloud-castle/uuid@v1.0.0
+- pkg:composer/cloud-castle/uuid@v1.0.1
+- pkg:composer/cloud-castle/uuid@v1.0.2
