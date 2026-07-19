@@ -1,3 +1,6 @@
 - pkg:composer/axiam/axiam-sdk@v1.0.0-alpha
+- pkg:composer/axiam/axiam-sdk@v1.0.0-alpha10
+- pkg:composer/axiam/axiam-sdk@v1.0.0-alpha11
 - pkg:composer/axiam/axiam-sdk@v1.0.0-alpha2
 - pkg:composer/axiam/axiam-sdk@v1.0.0-alpha8
+- pkg:composer/axiam/axiam-sdk@v1.0.0-alpha9
