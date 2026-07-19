@@ -1,6 +1,8 @@
 - pkg:composer/blutrixx/generator-engine@2.10.0
 - pkg:composer/blutrixx/generator-engine@2.10.1
 - pkg:composer/blutrixx/generator-engine@2.10.3
+- pkg:composer/blutrixx/generator-engine@2.10.8
+- pkg:composer/blutrixx/generator-engine@2.10.9
 - pkg:composer/blutrixx/generator-engine@2.9.0
 - pkg:composer/blutrixx/generator-engine@2.9.1
 - pkg:composer/blutrixx/generator-engine@2.9.2
