@@ -13,3 +13,5 @@
 - pkg:composer/dhl/module-carrier-paket-returns@2.3.0
 - pkg:composer/dhl/module-carrier-paket-returns@2.4.0
 - pkg:composer/dhl/module-carrier-paket-returns@2.5.0
+- pkg:composer/dhl/module-carrier-paket-returns@2.6.0
+- pkg:composer/dhl/module-carrier-paket-returns@2.6.1
