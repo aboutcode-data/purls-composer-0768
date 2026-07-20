@@ -18,3 +18,5 @@
 - pkg:composer/egroupware/rag@26.6.20260616
 - pkg:composer/egroupware/rag@26.6.20260619
 - pkg:composer/egroupware/rag@26.7.20260702
+- pkg:composer/egroupware/rag@26.7.20260710
+- pkg:composer/egroupware/rag@26.7.20260710.3

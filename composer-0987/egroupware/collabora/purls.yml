@@ -105,6 +105,8 @@
 - pkg:composer/egroupware/collabora@23.1.20260131
 - pkg:composer/egroupware/collabora@23.1.20260224
 - pkg:composer/egroupware/collabora@23.1.20260601
+- pkg:composer/egroupware/collabora@23.1.20260710
+- pkg:composer/egroupware/collabora@23.1.20260710.3
 - pkg:composer/egroupware/collabora@26.0.20251208
 - pkg:composer/egroupware/collabora@26.0.20251216
 - pkg:composer/egroupware/collabora@26.0.20260108
@@ -127,3 +129,5 @@
 - pkg:composer/egroupware/collabora@26.6.20260616
 - pkg:composer/egroupware/collabora@26.6.20260619
 - pkg:composer/egroupware/collabora@26.7.20260702
+- pkg:composer/egroupware/collabora@26.7.20260710
+- pkg:composer/egroupware/collabora@26.7.20260710.3
