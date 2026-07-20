@@ -1,1 +1,2 @@
 - pkg:composer/elavora/api-log-mongodb@v0.1.1
+- pkg:composer/elavora/api-log-mongodb@v0.2.0
