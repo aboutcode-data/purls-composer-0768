@@ -53,3 +53,4 @@
 - pkg:composer/dcat-plus/laravel-admin@v2.0.25
 - pkg:composer/dcat-plus/laravel-admin@v2.0.26-beta
 - pkg:composer/dcat-plus/laravel-admin@v2.0.26-beta1
+- pkg:composer/dcat-plus/laravel-admin@v3.0.1
