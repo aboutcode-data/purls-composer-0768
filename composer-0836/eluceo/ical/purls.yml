@@ -42,6 +42,7 @@
 - pkg:composer/eluceo/ical@2.14.0
 - pkg:composer/eluceo/ical@2.15.0
 - pkg:composer/eluceo/ical@2.16.0
+- pkg:composer/eluceo/ical@2.17.0
 - pkg:composer/eluceo/ical@2.2.0
 - pkg:composer/eluceo/ical@2.3.0
 - pkg:composer/eluceo/ical@2.4.0
