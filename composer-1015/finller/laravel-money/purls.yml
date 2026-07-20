@@ -25,3 +25,4 @@
 - pkg:composer/finller/laravel-money@v3.0.0
 - pkg:composer/finller/laravel-money@v4.0.0
 - pkg:composer/finller/laravel-money@v4.0.1
+- pkg:composer/finller/laravel-money@v4.0.2
