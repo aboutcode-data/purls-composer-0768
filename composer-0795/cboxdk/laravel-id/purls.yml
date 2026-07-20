@@ -28,6 +28,11 @@
 - pkg:composer/cboxdk/laravel-id@v0.28.1
 - pkg:composer/cboxdk/laravel-id@v0.28.2
 - pkg:composer/cboxdk/laravel-id@v0.28.3
+- pkg:composer/cboxdk/laravel-id@v0.28.4
+- pkg:composer/cboxdk/laravel-id@v0.28.5
+- pkg:composer/cboxdk/laravel-id@v0.29.0
+- pkg:composer/cboxdk/laravel-id@v0.29.1
+- pkg:composer/cboxdk/laravel-id@v0.29.2
 - pkg:composer/cboxdk/laravel-id@v0.3.0
 - pkg:composer/cboxdk/laravel-id@v0.3.1
 - pkg:composer/cboxdk/laravel-id@v0.3.2
