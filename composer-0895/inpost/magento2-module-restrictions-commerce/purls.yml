@@ -11,3 +11,5 @@
 - pkg:composer/inpost/magento2-module-restrictions-commerce@v2.6.0
 - pkg:composer/inpost/magento2-module-restrictions-commerce@v2.6.1
 - pkg:composer/inpost/magento2-module-restrictions-commerce@v2.6.2
+- pkg:composer/inpost/magento2-module-restrictions-commerce@v2.7.0
+- pkg:composer/inpost/magento2-module-restrictions-commerce@v2.7.1

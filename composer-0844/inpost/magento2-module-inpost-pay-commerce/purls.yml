@@ -10,3 +10,5 @@
 - pkg:composer/inpost/magento2-module-inpost-pay-commerce@v2.6.0
 - pkg:composer/inpost/magento2-module-inpost-pay-commerce@v2.6.1
 - pkg:composer/inpost/magento2-module-inpost-pay-commerce@v2.6.2
+- pkg:composer/inpost/magento2-module-inpost-pay-commerce@v2.7.0
+- pkg:composer/inpost/magento2-module-inpost-pay-commerce@v2.7.1
