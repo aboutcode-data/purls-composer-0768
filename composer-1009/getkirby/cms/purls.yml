@@ -236,6 +236,7 @@
 - pkg:composer/getkirby/cms@4.9.2
 - pkg:composer/getkirby/cms@4.9.3
 - pkg:composer/getkirby/cms@4.9.4
+- pkg:composer/getkirby/cms@4.9.5
 - pkg:composer/getkirby/cms@5.0.0
 - pkg:composer/getkirby/cms@5.0.0-alpha.1
 - pkg:composer/getkirby/cms@5.0.0-alpha.2
@@ -280,6 +281,7 @@
 - pkg:composer/getkirby/cms@5.4.4
 - pkg:composer/getkirby/cms@5.5.0
 - pkg:composer/getkirby/cms@5.5.1
+- pkg:composer/getkirby/cms@5.5.2
 - pkg:composer/getkirby/cms@6.0.0-alpha.1
 - pkg:composer/getkirby/cms@6.0.0-alpha.2
 - pkg:composer/getkirby/cms@6.0.0-alpha.3
