@@ -24,3 +24,4 @@
 - pkg:composer/jbzoo/ci-report-converter@7.2.0
 - pkg:composer/jbzoo/ci-report-converter@7.2.1
 - pkg:composer/jbzoo/ci-report-converter@7.2.3
+- pkg:composer/jbzoo/ci-report-converter@8.0.0
