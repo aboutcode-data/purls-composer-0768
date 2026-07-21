@@ -6,3 +6,6 @@
 - pkg:composer/eerzho/opentelemetry-auto-class@v0.2.1
 - pkg:composer/eerzho/opentelemetry-auto-class@v0.3.0
 - pkg:composer/eerzho/opentelemetry-auto-class@v0.3.1
+- pkg:composer/eerzho/opentelemetry-auto-class@v0.4.0
+- pkg:composer/eerzho/opentelemetry-auto-class@v0.5.0
+- pkg:composer/eerzho/opentelemetry-auto-class@v0.5.1
