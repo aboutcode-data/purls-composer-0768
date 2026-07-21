@@ -20,3 +20,6 @@
 - pkg:composer/halilcosdu/laravel-slower@v2.2.0
 - pkg:composer/halilcosdu/laravel-slower@v2.3.0
 - pkg:composer/halilcosdu/laravel-slower@v3.0.0
+- pkg:composer/halilcosdu/laravel-slower@v3.1.0
+- pkg:composer/halilcosdu/laravel-slower@v3.1.1
+- pkg:composer/halilcosdu/laravel-slower@v3.2.0
