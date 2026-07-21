@@ -1,3 +1,6 @@
 - pkg:composer/dskripchenko/laravel-schemify@1.0.0
 - pkg:composer/dskripchenko/laravel-schemify@2.0.0
 - pkg:composer/dskripchenko/laravel-schemify@3.0.0
+- pkg:composer/dskripchenko/laravel-schemify@v3.1.0
+- pkg:composer/dskripchenko/laravel-schemify@v3.2.0
+- pkg:composer/dskripchenko/laravel-schemify@v3.3.0
