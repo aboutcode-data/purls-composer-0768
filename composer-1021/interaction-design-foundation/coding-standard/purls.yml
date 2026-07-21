@@ -23,3 +23,6 @@
 - pkg:composer/interaction-design-foundation/coding-standard@0.6.5
 - pkg:composer/interaction-design-foundation/coding-standard@0.7.0
 - pkg:composer/interaction-design-foundation/coding-standard@0.8.0
+- pkg:composer/interaction-design-foundation/coding-standard@1.0.0
+- pkg:composer/interaction-design-foundation/coding-standard@1.0.0-RC1
+- pkg:composer/interaction-design-foundation/coding-standard@1.0.0-RC2
