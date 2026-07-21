@@ -1,3 +1,4 @@
 - pkg:composer/jord-jd/laravel-geolocation-request@v1.0.0
 - pkg:composer/jord-jd/laravel-geolocation-request@v1.1.0
 - pkg:composer/jord-jd/laravel-geolocation-request@v2.0.0
+- pkg:composer/jord-jd/laravel-geolocation-request@v3.0.0
