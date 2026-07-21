@@ -113,6 +113,7 @@
 - pkg:composer/getpop/guzzle-helpers@18.0.1
 - pkg:composer/getpop/guzzle-helpers@19.0.0
 - pkg:composer/getpop/guzzle-helpers@19.0.1
+- pkg:composer/getpop/guzzle-helpers@19.0.2
 - pkg:composer/getpop/guzzle-helpers@2.0.1
 - pkg:composer/getpop/guzzle-helpers@2.1.0
 - pkg:composer/getpop/guzzle-helpers@2.1.1

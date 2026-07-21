@@ -119,6 +119,7 @@
 - pkg:composer/getpop/loosecontracts@18.0.1
 - pkg:composer/getpop/loosecontracts@19.0.0
 - pkg:composer/getpop/loosecontracts@19.0.1
+- pkg:composer/getpop/loosecontracts@19.0.2
 - pkg:composer/getpop/loosecontracts@2.0.1
 - pkg:composer/getpop/loosecontracts@2.1.0
 - pkg:composer/getpop/loosecontracts@2.1.1

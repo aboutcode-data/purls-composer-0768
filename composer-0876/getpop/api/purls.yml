@@ -112,6 +112,7 @@
 - pkg:composer/getpop/api@18.0.1
 - pkg:composer/getpop/api@19.0.0
 - pkg:composer/getpop/api@19.0.1
+- pkg:composer/getpop/api@19.0.2
 - pkg:composer/getpop/api@2.0.0
 - pkg:composer/getpop/api@2.0.1
 - pkg:composer/getpop/api@2.1.0
