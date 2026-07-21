@@ -18,6 +18,8 @@
 - pkg:composer/edc-motor/core@0.4.21
 - pkg:composer/edc-motor/core@0.4.22
 - pkg:composer/edc-motor/core@0.4.23
+- pkg:composer/edc-motor/core@0.4.24
+- pkg:composer/edc-motor/core@0.4.25
 - pkg:composer/edc-motor/core@0.4.3
 - pkg:composer/edc-motor/core@0.4.4
 - pkg:composer/edc-motor/core@0.4.5
