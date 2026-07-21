@@ -20,3 +20,4 @@
 - pkg:composer/jbzoo/mermaid-php@7.2.4
 - pkg:composer/jbzoo/mermaid-php@7.2.5
 - pkg:composer/jbzoo/mermaid-php@7.2.6
+- pkg:composer/jbzoo/mermaid-php@8.0.0
