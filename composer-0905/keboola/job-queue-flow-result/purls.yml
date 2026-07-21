@@ -1,1 +1,2 @@
 - pkg:composer/keboola/job-queue-flow-result@1.0.0
+- pkg:composer/keboola/job-queue-flow-result@1.0.1
