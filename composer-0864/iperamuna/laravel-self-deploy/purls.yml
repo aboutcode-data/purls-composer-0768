@@ -25,3 +25,4 @@
 - pkg:composer/iperamuna/laravel-self-deploy@v1.7.5
 - pkg:composer/iperamuna/laravel-self-deploy@v1.7.6
 - pkg:composer/iperamuna/laravel-self-deploy@v1.7.7
+- pkg:composer/iperamuna/laravel-self-deploy@v1.8.0
