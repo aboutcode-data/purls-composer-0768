@@ -1,1 +1,2 @@
 - pkg:composer/laravel-chronicle/anchor-s3@1.0.0
+- pkg:composer/laravel-chronicle/anchor-s3@1.1.0
