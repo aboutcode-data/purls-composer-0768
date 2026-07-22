@@ -72,6 +72,7 @@
 - pkg:composer/launchdarkly/server-sdk@6.7.0
 - pkg:composer/launchdarkly/server-sdk@6.8.0
 - pkg:composer/launchdarkly/server-sdk@6.8.1
+- pkg:composer/launchdarkly/server-sdk@6.8.2
 - pkg:composer/launchdarkly/server-sdk@v0.3.0
 - pkg:composer/launchdarkly/server-sdk@v0.3.1
 - pkg:composer/launchdarkly/server-sdk@v0.3.2
