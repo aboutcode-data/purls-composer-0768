@@ -6,3 +6,5 @@
 - pkg:composer/leuchtdiode/mezzio-mail@1.0.5
 - pkg:composer/leuchtdiode/mezzio-mail@1.0.6
 - pkg:composer/leuchtdiode/mezzio-mail@1.0.7
+- pkg:composer/leuchtdiode/mezzio-mail@1.1.0
+- pkg:composer/leuchtdiode/mezzio-mail@1.1.1
