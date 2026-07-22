@@ -34,6 +34,7 @@
 - pkg:composer/kreuzberg/kreuzberg@4.10.0-rc.8
 - pkg:composer/kreuzberg/kreuzberg@4.10.0-rc.9
 - pkg:composer/kreuzberg/kreuzberg@4.10.1
+- pkg:composer/kreuzberg/kreuzberg@4.10.2
 - pkg:composer/kreuzberg/kreuzberg@4.2.0
 - pkg:composer/kreuzberg/kreuzberg@4.2.1
 - pkg:composer/kreuzberg/kreuzberg@4.2.10
