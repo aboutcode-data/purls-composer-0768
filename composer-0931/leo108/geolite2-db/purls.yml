@@ -128,3 +128,5 @@
 - pkg:composer/leo108/geolite2-db@v2.270.0
 - pkg:composer/leo108/geolite2-db@v2.271.0
 - pkg:composer/leo108/geolite2-db@v2.272.0
+- pkg:composer/leo108/geolite2-db@v2.273.0
+- pkg:composer/leo108/geolite2-db@v2.274.0
