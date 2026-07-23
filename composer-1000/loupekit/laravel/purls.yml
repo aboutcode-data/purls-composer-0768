@@ -4,3 +4,11 @@
 - pkg:composer/loupekit/laravel@v0.3.3
 - pkg:composer/loupekit/laravel@v0.3.4
 - pkg:composer/loupekit/laravel@v0.4.0
+- pkg:composer/loupekit/laravel@v0.4.1
+- pkg:composer/loupekit/laravel@v0.4.2
+- pkg:composer/loupekit/laravel@v0.4.3
+- pkg:composer/loupekit/laravel@v0.5.0
+- pkg:composer/loupekit/laravel@v0.5.1
+- pkg:composer/loupekit/laravel@v0.5.2
+- pkg:composer/loupekit/laravel@v0.6.0
+- pkg:composer/loupekit/laravel@v0.7.0
