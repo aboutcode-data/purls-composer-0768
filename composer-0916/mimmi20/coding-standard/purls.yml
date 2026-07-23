@@ -340,6 +340,9 @@
 - pkg:composer/mimmi20/coding-standard@8.0.1
 - pkg:composer/mimmi20/coding-standard@8.0.10
 - pkg:composer/mimmi20/coding-standard@8.0.11
+- pkg:composer/mimmi20/coding-standard@8.0.12
+- pkg:composer/mimmi20/coding-standard@8.0.13
+- pkg:composer/mimmi20/coding-standard@8.0.14
 - pkg:composer/mimmi20/coding-standard@8.0.2
 - pkg:composer/mimmi20/coding-standard@8.0.3
 - pkg:composer/mimmi20/coding-standard@8.0.4
