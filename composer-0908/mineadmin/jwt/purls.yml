@@ -4,4 +4,5 @@
 - pkg:composer/mineadmin/jwt@v3.0.1
 - pkg:composer/mineadmin/jwt@v3.0.2
 - pkg:composer/mineadmin/jwt@v3.0.23
+- pkg:composer/mineadmin/jwt@v3.2.0
 - pkg:composer/mineadmin/jwt@v3.2.0-alpha.1
