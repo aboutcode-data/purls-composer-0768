@@ -8,3 +8,4 @@
 - pkg:composer/k-ko/send-mail-smtp@v2.0.1
 - pkg:composer/k-ko/send-mail-smtp@v2.0.2
 - pkg:composer/k-ko/send-mail-smtp@v2.1.0
+- pkg:composer/k-ko/send-mail-smtp@v2.1.1
