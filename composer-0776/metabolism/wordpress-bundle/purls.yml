@@ -71,3 +71,4 @@
 - pkg:composer/metabolism/wordpress-bundle@2.3.9
 - pkg:composer/metabolism/wordpress-bundle@3.0.0
 - pkg:composer/metabolism/wordpress-bundle@3.0.1
+- pkg:composer/metabolism/wordpress-bundle@3.0.2
