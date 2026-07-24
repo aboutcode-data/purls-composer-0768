@@ -415,6 +415,8 @@
 - pkg:composer/nuwave/lighthouse@v6.66.0
 - pkg:composer/nuwave/lighthouse@v6.67.0
 - pkg:composer/nuwave/lighthouse@v6.68.0
+- pkg:composer/nuwave/lighthouse@v6.69.0
+- pkg:composer/nuwave/lighthouse@v6.69.1
 - pkg:composer/nuwave/lighthouse@v6.7.0
 - pkg:composer/nuwave/lighthouse@v6.8.0
 - pkg:composer/nuwave/lighthouse@v6.8.1
