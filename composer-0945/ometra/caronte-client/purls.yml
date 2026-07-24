@@ -24,3 +24,11 @@
 - pkg:composer/ometra/caronte-client@4.6.0
 - pkg:composer/ometra/caronte-client@5.0.0
 - pkg:composer/ometra/caronte-client@5.0.0-rc.1
+- pkg:composer/ometra/caronte-client@6.0.0
+- pkg:composer/ometra/caronte-client@7.0.0
+- pkg:composer/ometra/caronte-client@7.1.0
+- pkg:composer/ometra/caronte-client@7.1.1
+- pkg:composer/ometra/caronte-client@7.1.2
+- pkg:composer/ometra/caronte-client@8.0.0
+- pkg:composer/ometra/caronte-client@8.1.0
+- pkg:composer/ometra/caronte-client@8.1.1
