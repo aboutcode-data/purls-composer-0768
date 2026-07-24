@@ -9,6 +9,8 @@
 - pkg:composer/mpc/mpc-rss@1.2.3
 - pkg:composer/mpc/mpc-rss@1.2.4
 - pkg:composer/mpc/mpc-rss@1.2.5
+- pkg:composer/mpc/mpc-rss@1.2.6
+- pkg:composer/mpc/mpc-rss@1.2.7
 - pkg:composer/mpc/mpc-rss@v1.0.0
 - pkg:composer/mpc/mpc-rss@v1.0.1
 - pkg:composer/mpc/mpc-rss@v1.0.2
