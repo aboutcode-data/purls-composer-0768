@@ -8,3 +8,5 @@
 - pkg:composer/mmt/laravel-trading-service-sdk@v2.1.0.0
 - pkg:composer/mmt/laravel-trading-service-sdk@v2.2.0.0
 - pkg:composer/mmt/laravel-trading-service-sdk@v2.3.0.0
+- pkg:composer/mmt/laravel-trading-service-sdk@v3.0.0.0
+- pkg:composer/mmt/laravel-trading-service-sdk@v3.1.0.0
