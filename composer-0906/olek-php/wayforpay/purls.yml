@@ -1,1 +1,3 @@
 - pkg:composer/olek-php/wayforpay@0.1
+- pkg:composer/olek-php/wayforpay@0.2
+- pkg:composer/olek-php/wayforpay@0.2.0.1
