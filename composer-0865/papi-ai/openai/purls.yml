@@ -1,3 +1,4 @@
+- pkg:composer/papi-ai/openai@v0.10.0
 - pkg:composer/papi-ai/openai@v0.6
 - pkg:composer/papi-ai/openai@v0.7
 - pkg:composer/papi-ai/openai@v0.8
