@@ -1,3 +1,4 @@
 - pkg:composer/moselwal/keyvalue-store@v4.3.4
 - pkg:composer/moselwal/keyvalue-store@v4.4.0
 - pkg:composer/moselwal/keyvalue-store@v4.4.1
+- pkg:composer/moselwal/keyvalue-store@v4.5.1
