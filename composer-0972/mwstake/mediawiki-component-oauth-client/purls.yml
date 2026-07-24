@@ -4,3 +4,4 @@
 - pkg:composer/mwstake/mediawiki-component-oauth-client@1.0.3
 - pkg:composer/mwstake/mediawiki-component-oauth-client@2.0.0
 - pkg:composer/mwstake/mediawiki-component-oauth-client@2.0.1
+- pkg:composer/mwstake/mediawiki-component-oauth-client@2.0.2
