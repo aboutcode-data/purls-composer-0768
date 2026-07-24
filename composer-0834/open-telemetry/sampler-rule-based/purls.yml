@@ -2,3 +2,4 @@
 - pkg:composer/open-telemetry/sampler-rule-based@0.0.2
 - pkg:composer/open-telemetry/sampler-rule-based@0.1.0
 - pkg:composer/open-telemetry/sampler-rule-based@0.2.0
+- pkg:composer/open-telemetry/sampler-rule-based@0.3.0

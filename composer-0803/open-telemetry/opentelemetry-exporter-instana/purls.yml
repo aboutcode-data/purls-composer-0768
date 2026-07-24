@@ -1,3 +1,4 @@
 - pkg:composer/open-telemetry/opentelemetry-exporter-instana@0.1.0
 - pkg:composer/open-telemetry/opentelemetry-exporter-instana@0.1.1
 - pkg:composer/open-telemetry/opentelemetry-exporter-instana@0.2.0
+- pkg:composer/open-telemetry/opentelemetry-exporter-instana@0.3.0
