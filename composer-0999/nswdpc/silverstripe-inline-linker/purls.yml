@@ -1,3 +1,4 @@
 - pkg:composer/nswdpc/silverstripe-inline-linker@v0.1
 - pkg:composer/nswdpc/silverstripe-inline-linker@v0.2.0
 - pkg:composer/nswdpc/silverstripe-inline-linker@v1.0.0
+- pkg:composer/nswdpc/silverstripe-inline-linker@v2.0.0-rc1
