@@ -1,4 +1,5 @@
 - pkg:composer/phpmetrics/phpmetrics@0.0.1
+- pkg:composer/phpmetrics/phpmetrics@2.10.0
 - pkg:composer/phpmetrics/phpmetrics@v0.0.2
 - pkg:composer/phpmetrics/phpmetrics@v0.0.3
 - pkg:composer/phpmetrics/phpmetrics@v0.0.4
