@@ -1,2 +1,4 @@
 - pkg:composer/py/bridge@0.8.1
 - pkg:composer/py/bridge@0.8.3
+- pkg:composer/py/bridge@0.8.4
+- pkg:composer/py/bridge@0.8.5
