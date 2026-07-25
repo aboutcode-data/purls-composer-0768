@@ -71,6 +71,9 @@
 - pkg:composer/pantono/authentication@1.0.161
 - pkg:composer/pantono/authentication@1.0.162
 - pkg:composer/pantono/authentication@1.0.163
+- pkg:composer/pantono/authentication@1.0.164
+- pkg:composer/pantono/authentication@1.0.165
+- pkg:composer/pantono/authentication@1.0.166
 - pkg:composer/pantono/authentication@1.0.17
 - pkg:composer/pantono/authentication@1.0.18
 - pkg:composer/pantono/authentication@1.0.19
