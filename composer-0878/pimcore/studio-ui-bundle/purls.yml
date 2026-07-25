@@ -27,3 +27,4 @@
 - pkg:composer/pimcore/studio-ui-bundle@v2026.1.7
 - pkg:composer/pimcore/studio-ui-bundle@v2026.2.0
 - pkg:composer/pimcore/studio-ui-bundle@v2026.2.0-RC1
+- pkg:composer/pimcore/studio-ui-bundle@v2026.2.1
