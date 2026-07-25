@@ -29,9 +29,12 @@
 - pkg:composer/popphp/pop-pdf@5.1.1
 - pkg:composer/popphp/pop-pdf@5.2.0
 - pkg:composer/popphp/pop-pdf@5.2.1
+- pkg:composer/popphp/pop-pdf@5.2.10
 - pkg:composer/popphp/pop-pdf@5.2.2
 - pkg:composer/popphp/pop-pdf@5.2.3
 - pkg:composer/popphp/pop-pdf@5.2.4
 - pkg:composer/popphp/pop-pdf@5.2.5
 - pkg:composer/popphp/pop-pdf@5.2.6
 - pkg:composer/popphp/pop-pdf@5.2.7
+- pkg:composer/popphp/pop-pdf@5.2.8
+- pkg:composer/popphp/pop-pdf@5.2.9
