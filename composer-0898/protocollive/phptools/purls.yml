@@ -33,6 +33,7 @@
 - pkg:composer/protocollive/phptools@2024.02.20
 - pkg:composer/protocollive/phptools@2024.04.08
 - pkg:composer/protocollive/phptools@2024.04.16
+- pkg:composer/protocollive/phptools@2024.07.19
 - pkg:composer/protocollive/phptools@2024.10.13
 - pkg:composer/protocollive/phptools@2024.11.05
 - pkg:composer/protocollive/phptools@2024.11.14
