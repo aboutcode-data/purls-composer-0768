@@ -52,6 +52,9 @@
 - pkg:composer/primix/support@0.7.12
 - pkg:composer/primix/support@0.7.13
 - pkg:composer/primix/support@0.7.14
+- pkg:composer/primix/support@0.7.15
+- pkg:composer/primix/support@0.7.16
+- pkg:composer/primix/support@0.7.17
 - pkg:composer/primix/support@0.7.2
 - pkg:composer/primix/support@0.7.3
 - pkg:composer/primix/support@0.7.4
