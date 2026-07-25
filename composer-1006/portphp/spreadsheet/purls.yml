@@ -1,3 +1,4 @@
 - pkg:composer/portphp/spreadsheet@1.0.0
 - pkg:composer/portphp/spreadsheet@1.0.0-alpha
 - pkg:composer/portphp/spreadsheet@1.0.1
+- pkg:composer/portphp/spreadsheet@2.0.0
