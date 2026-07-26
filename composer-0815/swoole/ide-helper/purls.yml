@@ -85,3 +85,16 @@
 - pkg:composer/swoole/ide-helper@6.0.0-rc1
 - pkg:composer/swoole/ide-helper@6.0.1
 - pkg:composer/swoole/ide-helper@6.0.2
+- pkg:composer/swoole/ide-helper@6.1.0
+- pkg:composer/swoole/ide-helper@6.1.1
+- pkg:composer/swoole/ide-helper@6.1.2
+- pkg:composer/swoole/ide-helper@6.1.3
+- pkg:composer/swoole/ide-helper@6.1.4
+- pkg:composer/swoole/ide-helper@6.1.5
+- pkg:composer/swoole/ide-helper@6.1.6
+- pkg:composer/swoole/ide-helper@6.1.7
+- pkg:composer/swoole/ide-helper@6.1.8
+- pkg:composer/swoole/ide-helper@6.1.9
+- pkg:composer/swoole/ide-helper@6.2.0
+- pkg:composer/swoole/ide-helper@6.2.1
+- pkg:composer/swoole/ide-helper@6.2.2
