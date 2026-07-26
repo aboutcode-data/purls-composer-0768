@@ -1,1 +1,2 @@
 - pkg:composer/renatomaldonado/laravel-sqs-consume@v1.0.1
+- pkg:composer/renatomaldonado/laravel-sqs-consume@v2.0.0
