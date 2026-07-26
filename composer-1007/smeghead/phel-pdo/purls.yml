@@ -8,3 +8,6 @@
 - pkg:composer/smeghead/phel-pdo@v0.0.7
 - pkg:composer/smeghead/phel-pdo@v0.0.8
 - pkg:composer/smeghead/phel-pdo@v0.1.0
+- pkg:composer/smeghead/phel-pdo@v0.2.0
+- pkg:composer/smeghead/phel-pdo@v0.3.0
+- pkg:composer/smeghead/phel-pdo@v0.3.1
