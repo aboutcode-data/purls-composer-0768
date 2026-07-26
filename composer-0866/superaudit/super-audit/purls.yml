@@ -11,3 +11,6 @@
 - pkg:composer/superaudit/super-audit@v1.2.4
 - pkg:composer/superaudit/super-audit@v1.2.5
 - pkg:composer/superaudit/super-audit@v1.3.0
+- pkg:composer/superaudit/super-audit@v1.4.0
+- pkg:composer/superaudit/super-audit@v1.5.0
+- pkg:composer/superaudit/super-audit@v1.5.1
