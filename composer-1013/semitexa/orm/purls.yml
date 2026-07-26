@@ -18,3 +18,6 @@
 - pkg:composer/semitexa/orm@2026.07.07.1936
 - pkg:composer/semitexa/orm@2026.07.11.0619-beta
 - pkg:composer/semitexa/orm@2026.07.11.0650
+- pkg:composer/semitexa/orm@2026.07.20.0639
+- pkg:composer/semitexa/orm@2026.07.23.0617
+- pkg:composer/semitexa/orm@2026.07.25.0821
