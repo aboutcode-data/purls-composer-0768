@@ -15,3 +15,7 @@
 - pkg:composer/shiros/luna-sql@v1.9.0
 - pkg:composer/shiros/luna-sql@v2.0.0
 - pkg:composer/shiros/luna-sql@v2.1.0
+- pkg:composer/shiros/luna-sql@v2.1.1
+- pkg:composer/shiros/luna-sql@v2.2.0
+- pkg:composer/shiros/luna-sql@v2.3.0
+- pkg:composer/shiros/luna-sql@v2.3.1
