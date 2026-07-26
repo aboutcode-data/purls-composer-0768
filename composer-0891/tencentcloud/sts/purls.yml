@@ -395,6 +395,7 @@
 - pkg:composer/tencentcloud/sts@3.0.1414
 - pkg:composer/tencentcloud/sts@3.0.1438
 - pkg:composer/tencentcloud/sts@3.0.1443
+- pkg:composer/tencentcloud/sts@3.0.1632
 - pkg:composer/tencentcloud/sts@3.0.248
 - pkg:composer/tencentcloud/sts@3.0.249
 - pkg:composer/tencentcloud/sts@3.0.250
