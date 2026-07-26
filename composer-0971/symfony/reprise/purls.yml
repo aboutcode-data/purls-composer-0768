@@ -1,3 +1,4 @@
 - pkg:composer/symfony/reprise@v0.1.0
 - pkg:composer/symfony/reprise@v0.2.0
 - pkg:composer/symfony/reprise@v0.3.0
+- pkg:composer/symfony/reprise@v0.5.0
