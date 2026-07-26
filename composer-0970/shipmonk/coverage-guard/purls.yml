@@ -1,3 +1,4 @@
 - pkg:composer/shipmonk/coverage-guard@1.0.0
 - pkg:composer/shipmonk/coverage-guard@1.0.1
 - pkg:composer/shipmonk/coverage-guard@1.0.2
+- pkg:composer/shipmonk/coverage-guard@1.1.0
