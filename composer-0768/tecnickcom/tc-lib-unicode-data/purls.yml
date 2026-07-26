@@ -127,3 +127,5 @@
 - pkg:composer/tecnickcom/tc-lib-unicode-data@2.6.2
 - pkg:composer/tecnickcom/tc-lib-unicode-data@2.6.3
 - pkg:composer/tecnickcom/tc-lib-unicode-data@2.6.4
+- pkg:composer/tecnickcom/tc-lib-unicode-data@2.7.0
+- pkg:composer/tecnickcom/tc-lib-unicode-data@2.7.1
