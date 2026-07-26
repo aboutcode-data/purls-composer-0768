@@ -272,6 +272,7 @@
 - pkg:composer/survos/meili-bundle@2.14.0
 - pkg:composer/survos/meili-bundle@2.15.2
 - pkg:composer/survos/meili-bundle@2.15.3
+- pkg:composer/survos/meili-bundle@2.16.2
 - pkg:composer/survos/meili-bundle@2.2.0
 - pkg:composer/survos/meili-bundle@2.2.1
 - pkg:composer/survos/meili-bundle@2.2.2
