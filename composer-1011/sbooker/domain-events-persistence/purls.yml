@@ -12,3 +12,4 @@
 - pkg:composer/sbooker/domain-events-persistence@2.6.0
 - pkg:composer/sbooker/domain-events-persistence@2.6.1
 - pkg:composer/sbooker/domain-events-persistence@2.7.0
+- pkg:composer/sbooker/domain-events-persistence@2.8.0
