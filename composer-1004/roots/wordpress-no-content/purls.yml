@@ -271,10 +271,13 @@
 - pkg:composer/roots/wordpress-no-content@6.8.2
 - pkg:composer/roots/wordpress-no-content@6.8.3
 - pkg:composer/roots/wordpress-no-content@6.8.5
+- pkg:composer/roots/wordpress-no-content@6.8.6
 - pkg:composer/roots/wordpress-no-content@6.9
 - pkg:composer/roots/wordpress-no-content@6.9.1
 - pkg:composer/roots/wordpress-no-content@6.9.2
 - pkg:composer/roots/wordpress-no-content@6.9.3
 - pkg:composer/roots/wordpress-no-content@6.9.4
+- pkg:composer/roots/wordpress-no-content@6.9.5
 - pkg:composer/roots/wordpress-no-content@7.0
 - pkg:composer/roots/wordpress-no-content@7.0.1
+- pkg:composer/roots/wordpress-no-content@7.0.2
