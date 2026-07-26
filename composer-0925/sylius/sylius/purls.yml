@@ -353,3 +353,4 @@
 - pkg:composer/sylius/sylius@v2.2.4
 - pkg:composer/sylius/sylius@v2.2.5
 - pkg:composer/sylius/sylius@v2.2.6
+- pkg:composer/sylius/sylius@v2.2.7
