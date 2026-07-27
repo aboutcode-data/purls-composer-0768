@@ -14,3 +14,4 @@
 - pkg:composer/pocketarc/laravel-integrations-adapters@5.0.0
 - pkg:composer/pocketarc/laravel-integrations-adapters@5.1.0
 - pkg:composer/pocketarc/laravel-integrations-adapters@5.2.0
+- pkg:composer/pocketarc/laravel-integrations-adapters@6.0.0
