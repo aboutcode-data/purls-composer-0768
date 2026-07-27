@@ -29,3 +29,4 @@
 - pkg:composer/ubc-cpsc/deployer-recipes@2.3.5
 - pkg:composer/ubc-cpsc/deployer-recipes@2.3.6
 - pkg:composer/ubc-cpsc/deployer-recipes@2.3.7
+- pkg:composer/ubc-cpsc/deployer-recipes@3.0.0
