@@ -4,5 +4,7 @@
 - pkg:composer/zizther/craftcms-ddev@1.2.13
 - pkg:composer/zizther/craftcms-ddev@1.2.14
 - pkg:composer/zizther/craftcms-ddev@1.2.15
+- pkg:composer/zizther/craftcms-ddev@1.2.16
 - pkg:composer/zizther/craftcms-ddev@1.2.8
 - pkg:composer/zizther/craftcms-ddev@1.2.9
+- pkg:composer/zizther/craftcms-ddev@1.3.0
