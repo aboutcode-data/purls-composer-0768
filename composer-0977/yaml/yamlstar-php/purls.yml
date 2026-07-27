@@ -2,3 +2,4 @@
 - pkg:composer/yaml/yamlstar-php@0.1.12
 - pkg:composer/yaml/yamlstar-php@0.1.14
 - pkg:composer/yaml/yamlstar-php@0.1.15
+- pkg:composer/yaml/yamlstar-php@0.1.17
