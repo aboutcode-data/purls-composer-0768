@@ -24,3 +24,4 @@
 - pkg:composer/torq/pimcore-helpers-bundle@v3.0.0
 - pkg:composer/torq/pimcore-helpers-bundle@v3.0.1
 - pkg:composer/torq/pimcore-helpers-bundle@v3.0.2
+- pkg:composer/torq/pimcore-helpers-bundle@v3.0.3
