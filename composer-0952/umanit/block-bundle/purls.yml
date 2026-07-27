@@ -31,3 +31,5 @@
 - pkg:composer/umanit/block-bundle@3.1.1
 - pkg:composer/umanit/block-bundle@4.0.0
 - pkg:composer/umanit/block-bundle@4.0.1
+- pkg:composer/umanit/block-bundle@5.0.0
+- pkg:composer/umanit/block-bundle@5.0.1
