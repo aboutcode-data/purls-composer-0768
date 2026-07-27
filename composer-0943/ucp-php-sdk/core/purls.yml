@@ -1,1 +1,4 @@
 - pkg:composer/ucp-php-sdk/core@0.0.1
+- pkg:composer/ucp-php-sdk/core@0.0.2
+- pkg:composer/ucp-php-sdk/core@0.0.3-alpha1
+- pkg:composer/ucp-php-sdk/core@0.0.3-alpha2
