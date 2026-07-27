@@ -322,6 +322,8 @@
 - pkg:composer/verbb/formie@2.2.23
 - pkg:composer/verbb/formie@2.2.24
 - pkg:composer/verbb/formie@2.2.25
+- pkg:composer/verbb/formie@2.2.26
+- pkg:composer/verbb/formie@2.2.27
 - pkg:composer/verbb/formie@2.2.3
 - pkg:composer/verbb/formie@2.2.4
 - pkg:composer/verbb/formie@2.2.5
@@ -410,6 +412,7 @@
 - pkg:composer/verbb/formie@3.1.31
 - pkg:composer/verbb/formie@3.1.32
 - pkg:composer/verbb/formie@3.1.33
+- pkg:composer/verbb/formie@3.1.34
 - pkg:composer/verbb/formie@3.1.4
 - pkg:composer/verbb/formie@3.1.5
 - pkg:composer/verbb/formie@3.1.6
@@ -420,6 +423,7 @@
 - pkg:composer/verbb/formie@4.0.0-beta.10
 - pkg:composer/verbb/formie@4.0.0-beta.11
 - pkg:composer/verbb/formie@4.0.0-beta.12
+- pkg:composer/verbb/formie@4.0.0-beta.13
 - pkg:composer/verbb/formie@4.0.0-beta.2
 - pkg:composer/verbb/formie@4.0.0-beta.3
 - pkg:composer/verbb/formie@4.0.0-beta.4
