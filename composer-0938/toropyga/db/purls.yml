@@ -20,3 +20,5 @@
 - pkg:composer/toropyga/db@v1.1.9
 - pkg:composer/toropyga/db@v1.2.0
 - pkg:composer/toropyga/db@v1.2.1
+- pkg:composer/toropyga/db@v1.3.0
+- pkg:composer/toropyga/db@v1.3.1
