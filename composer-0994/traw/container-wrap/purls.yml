@@ -13,3 +13,5 @@
 - pkg:composer/traw/container-wrap@2.4.0
 - pkg:composer/traw/container-wrap@2.5.0
 - pkg:composer/traw/container-wrap@2.5.1
+- pkg:composer/traw/container-wrap@2.5.2
+- pkg:composer/traw/container-wrap@2.5.3
