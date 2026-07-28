@@ -10,3 +10,4 @@
 - pkg:composer/bagisto/bagisto-api@v2.3.0
 - pkg:composer/bagisto/bagisto-api@v2.3.1
 - pkg:composer/bagisto/bagisto-api@v2.4.0
+- pkg:composer/bagisto/bagisto-api@v2.4.1
