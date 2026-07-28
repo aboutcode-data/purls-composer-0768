@@ -1,1 +1,4 @@
 - pkg:composer/adminmatrix/matrix_plugin@1.0.0
+- pkg:composer/adminmatrix/matrix_plugin@1.0.5
+- pkg:composer/adminmatrix/matrix_plugin@1.0.7
+- pkg:composer/adminmatrix/matrix_plugin@1.1.0
