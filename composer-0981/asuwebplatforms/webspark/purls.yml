@@ -13,6 +13,9 @@
 - pkg:composer/asuwebplatforms/webspark@2.18.10
 - pkg:composer/asuwebplatforms/webspark@2.18.11
 - pkg:composer/asuwebplatforms/webspark@2.18.12
+- pkg:composer/asuwebplatforms/webspark@2.18.13
+- pkg:composer/asuwebplatforms/webspark@2.18.14
+- pkg:composer/asuwebplatforms/webspark@2.18.15
 - pkg:composer/asuwebplatforms/webspark@2.18.2
 - pkg:composer/asuwebplatforms/webspark@2.18.3
 - pkg:composer/asuwebplatforms/webspark@2.18.4
@@ -21,3 +24,4 @@
 - pkg:composer/asuwebplatforms/webspark@2.18.7
 - pkg:composer/asuwebplatforms/webspark@2.18.8
 - pkg:composer/asuwebplatforms/webspark@2.18.9
+- pkg:composer/asuwebplatforms/webspark@2.19.0
