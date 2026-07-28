@@ -1,1 +1,3 @@
 - pkg:composer/aetah/oidc-discovery@0.1.0
+- pkg:composer/aetah/oidc-discovery@0.1.1
+- pkg:composer/aetah/oidc-discovery@0.2.0
