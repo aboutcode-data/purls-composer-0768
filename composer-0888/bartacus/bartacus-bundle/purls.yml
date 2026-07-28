@@ -90,3 +90,4 @@
 - pkg:composer/bartacus/bartacus-bundle@7.0.0
 - pkg:composer/bartacus/bartacus-bundle@7.1.0
 - pkg:composer/bartacus/bartacus-bundle@7.1.1
+- pkg:composer/bartacus/bartacus-bundle@7.1.2
