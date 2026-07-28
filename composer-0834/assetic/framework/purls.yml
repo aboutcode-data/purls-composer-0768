@@ -31,3 +31,4 @@
 - pkg:composer/assetic/framework@v3.1.5
 - pkg:composer/assetic/framework@v3.1.6
 - pkg:composer/assetic/framework@v3.2.0
+- pkg:composer/assetic/framework@v3.2.1
