@@ -19,3 +19,4 @@
 - pkg:composer/spatie/laravel-prometheus@1.4.0
 - pkg:composer/spatie/laravel-prometheus@1.5.0
 - pkg:composer/spatie/laravel-prometheus@1.6.0
+- pkg:composer/spatie/laravel-prometheus@1.6.1
