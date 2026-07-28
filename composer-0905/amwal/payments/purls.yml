@@ -39,6 +39,7 @@
 - pkg:composer/amwal/payments@1.0.43
 - pkg:composer/amwal/payments@1.0.44
 - pkg:composer/amwal/payments@1.0.45
+- pkg:composer/amwal/payments@1.0.46
 - pkg:composer/amwal/payments@1.0.6
 - pkg:composer/amwal/payments@1.0.7
 - pkg:composer/amwal/payments@1.0.8
