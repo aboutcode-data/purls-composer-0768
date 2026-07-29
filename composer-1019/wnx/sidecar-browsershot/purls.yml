@@ -43,3 +43,4 @@
 - pkg:composer/wnx/sidecar-browsershot@v2.9.0
 - pkg:composer/wnx/sidecar-browsershot@v3.0.0
 - pkg:composer/wnx/sidecar-browsershot@v3.1.0
+- pkg:composer/wnx/sidecar-browsershot@v3.1.1
