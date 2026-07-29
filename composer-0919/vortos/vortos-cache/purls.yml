@@ -212,6 +212,11 @@
 - pkg:composer/vortos/vortos-cache@v1.0.0-alpha-31
 - pkg:composer/vortos/vortos-cache@v1.0.0-alpha-310
 - pkg:composer/vortos/vortos-cache@v1.0.0-alpha-311
+- pkg:composer/vortos/vortos-cache@v1.0.0-alpha-312
+- pkg:composer/vortos/vortos-cache@v1.0.0-alpha-313
+- pkg:composer/vortos/vortos-cache@v1.0.0-alpha-314
+- pkg:composer/vortos/vortos-cache@v1.0.0-alpha-315
+- pkg:composer/vortos/vortos-cache@v1.0.0-alpha-316
 - pkg:composer/vortos/vortos-cache@v1.0.0-alpha-33
 - pkg:composer/vortos/vortos-cache@v1.0.0-alpha-34
 - pkg:composer/vortos/vortos-cache@v1.0.0-alpha-36
