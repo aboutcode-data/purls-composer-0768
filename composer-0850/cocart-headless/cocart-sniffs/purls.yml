@@ -1,3 +1,4 @@
 - pkg:composer/cocart-headless/cocart-sniffs@0.0.1
 - pkg:composer/cocart-headless/cocart-sniffs@0.0.2
 - pkg:composer/cocart-headless/cocart-sniffs@0.0.3
+- pkg:composer/cocart-headless/cocart-sniffs@1.0.1
