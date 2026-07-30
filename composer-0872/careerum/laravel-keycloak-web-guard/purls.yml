@@ -4,3 +4,4 @@
 - pkg:composer/careerum/laravel-keycloak-web-guard@v3.2.1
 - pkg:composer/careerum/laravel-keycloak-web-guard@v3.2.2
 - pkg:composer/careerum/laravel-keycloak-web-guard@v3.2.3
+- pkg:composer/careerum/laravel-keycloak-web-guard@v3.3.0
