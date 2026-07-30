@@ -332,3 +332,4 @@
 - pkg:composer/cakephp/orm@5.4.0
 - pkg:composer/cakephp/orm@5.4.0-RC1
 - pkg:composer/cakephp/orm@5.4.0-RC2
+- pkg:composer/cakephp/orm@5.4.1
