@@ -1,5 +1,6 @@
 - pkg:composer/bambamboole/laravel-oidc-server@v0.10.0
 - pkg:composer/bambamboole/laravel-oidc-server@v0.10.1
+- pkg:composer/bambamboole/laravel-oidc-server@v0.10.2
 - pkg:composer/bambamboole/laravel-oidc-server@v0.6.0
 - pkg:composer/bambamboole/laravel-oidc-server@v0.7.0
 - pkg:composer/bambamboole/laravel-oidc-server@v0.8.0
