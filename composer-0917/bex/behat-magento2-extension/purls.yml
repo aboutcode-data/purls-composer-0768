@@ -7,3 +7,4 @@
 - pkg:composer/bex/behat-magento2-extension@2.1.1
 - pkg:composer/bex/behat-magento2-extension@2.1.2
 - pkg:composer/bex/behat-magento2-extension@2.1.3
+- pkg:composer/bex/behat-magento2-extension@2.1.4
