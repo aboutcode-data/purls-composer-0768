@@ -151,3 +151,6 @@
 - pkg:composer/backstage/laravel-users@v5.1.4
 - pkg:composer/backstage/laravel-users@v5.1.5
 - pkg:composer/backstage/laravel-users@v5.1.6
+- pkg:composer/backstage/laravel-users@v5.1.7
+- pkg:composer/backstage/laravel-users@v5.1.8
+- pkg:composer/backstage/laravel-users@v5.1.9
