@@ -19,3 +19,4 @@
 - pkg:composer/byteshard/schema@v1.5.0
 - pkg:composer/byteshard/schema@v1.6.0
 - pkg:composer/byteshard/schema@v1.6.1
+- pkg:composer/byteshard/schema@v1.7.0
