@@ -1,2 +1,3 @@
 - pkg:composer/bullet/doctrine-utils@v1.0
 - pkg:composer/bullet/doctrine-utils@v1.0.1
+- pkg:composer/bullet/doctrine-utils@v1.0.2-RC1
