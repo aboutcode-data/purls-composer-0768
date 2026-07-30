@@ -6,3 +6,6 @@
 - pkg:composer/bugban/symfony@v1.2.0
 - pkg:composer/bugban/symfony@v1.3.0
 - pkg:composer/bugban/symfony@v1.4.0
+- pkg:composer/bugban/symfony@v1.5.0
+- pkg:composer/bugban/symfony@v1.5.2
+- pkg:composer/bugban/symfony@v1.5.3
