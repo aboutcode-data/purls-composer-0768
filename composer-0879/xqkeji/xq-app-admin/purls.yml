@@ -46,6 +46,10 @@
 - pkg:composer/xqkeji/xq-app-admin@v1.1.8
 - pkg:composer/xqkeji/xq-app-admin@v1.1.9
 - pkg:composer/xqkeji/xq-app-admin@v1.2.1
+- pkg:composer/xqkeji/xq-app-admin@v1.2.10
+- pkg:composer/xqkeji/xq-app-admin@v1.2.11
+- pkg:composer/xqkeji/xq-app-admin@v1.2.12
+- pkg:composer/xqkeji/xq-app-admin@v1.2.13
 - pkg:composer/xqkeji/xq-app-admin@v1.2.2
 - pkg:composer/xqkeji/xq-app-admin@v1.2.3
 - pkg:composer/xqkeji/xq-app-admin@v1.2.4
@@ -53,3 +57,4 @@
 - pkg:composer/xqkeji/xq-app-admin@v1.2.6
 - pkg:composer/xqkeji/xq-app-admin@v1.2.7
 - pkg:composer/xqkeji/xq-app-admin@v1.2.8
+- pkg:composer/xqkeji/xq-app-admin@v1.2.9
