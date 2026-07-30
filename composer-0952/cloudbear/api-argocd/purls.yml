@@ -3,3 +3,5 @@
 - pkg:composer/cloudbear/api-argocd@v1.1.1
 - pkg:composer/cloudbear/api-argocd@v1.1.2
 - pkg:composer/cloudbear/api-argocd@v1.2.0
+- pkg:composer/cloudbear/api-argocd@v2.0.0
+- pkg:composer/cloudbear/api-argocd@v2.1.0

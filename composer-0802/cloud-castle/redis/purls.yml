@@ -1,1 +1,2 @@
 - pkg:composer/cloud-castle/redis@v0.1.0
+- pkg:composer/cloud-castle/redis@v1.0.0
