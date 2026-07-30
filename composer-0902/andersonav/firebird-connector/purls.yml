@@ -2,3 +2,4 @@
 - pkg:composer/andersonav/firebird-connector@v2.0.0
 - pkg:composer/andersonav/firebird-connector@v2.1.0
 - pkg:composer/andersonav/firebird-connector@v3.0.0
+- pkg:composer/andersonav/firebird-connector@v4.0.0
