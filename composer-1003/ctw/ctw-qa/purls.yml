@@ -52,3 +52,5 @@
 - pkg:composer/ctw/ctw-qa@5.0.8
 - pkg:composer/ctw/ctw-qa@5.0.9
 - pkg:composer/ctw/ctw-qa@6.0.0
+- pkg:composer/ctw/ctw-qa@6.0.1
+- pkg:composer/ctw/ctw-qa@6.0.2

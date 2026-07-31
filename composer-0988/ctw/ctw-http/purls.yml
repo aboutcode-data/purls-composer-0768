@@ -48,3 +48,5 @@
 - pkg:composer/ctw/ctw-http@4.0.5
 - pkg:composer/ctw/ctw-http@4.0.6
 - pkg:composer/ctw/ctw-http@5.0.0
+- pkg:composer/ctw/ctw-http@5.0.1
+- pkg:composer/ctw/ctw-http@5.0.2
