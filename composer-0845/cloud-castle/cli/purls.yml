@@ -5,3 +5,5 @@
 - pkg:composer/cloud-castle/cli@v1.2.0
 - pkg:composer/cloud-castle/cli@v1.2.1
 - pkg:composer/cloud-castle/cli@v1.2.2
+- pkg:composer/cloud-castle/cli@v1.3.0
+- pkg:composer/cloud-castle/cli@v2.0.0
