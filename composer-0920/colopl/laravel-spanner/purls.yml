@@ -1,4 +1,5 @@
 - pkg:composer/colopl/laravel-spanner@v10.0.0
+- pkg:composer/colopl/laravel-spanner@v11.0.0
 - pkg:composer/colopl/laravel-spanner@v3.10.0
 - pkg:composer/colopl/laravel-spanner@v3.10.1
 - pkg:composer/colopl/laravel-spanner@v3.10.2
