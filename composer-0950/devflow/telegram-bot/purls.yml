@@ -1,5 +1,7 @@
 - pkg:composer/devflow/telegram-bot@1.1.0
 - pkg:composer/devflow/telegram-bot@1.1.1
+- pkg:composer/devflow/telegram-bot@1.10.0
+- pkg:composer/devflow/telegram-bot@1.11.0
 - pkg:composer/devflow/telegram-bot@1.2.0
 - pkg:composer/devflow/telegram-bot@1.2.1
 - pkg:composer/devflow/telegram-bot@1.2.2
@@ -9,5 +11,10 @@
 - pkg:composer/devflow/telegram-bot@1.4.1
 - pkg:composer/devflow/telegram-bot@1.4.2
 - pkg:composer/devflow/telegram-bot@1.5.0
+- pkg:composer/devflow/telegram-bot@1.6.0
+- pkg:composer/devflow/telegram-bot@1.7.0
+- pkg:composer/devflow/telegram-bot@1.8.0
+- pkg:composer/devflow/telegram-bot@1.9.0
+- pkg:composer/devflow/telegram-bot@1.9.1
 - pkg:composer/devflow/telegram-bot@v1.0.0
 - pkg:composer/devflow/telegram-bot@v1.0.1
