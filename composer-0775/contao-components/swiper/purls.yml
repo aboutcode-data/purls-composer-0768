@@ -47,3 +47,5 @@
 - pkg:composer/contao-components/swiper@14.0.1
 - pkg:composer/contao-components/swiper@14.0.2
 - pkg:composer/contao-components/swiper@14.0.5
+- pkg:composer/contao-components/swiper@14.0.6
+- pkg:composer/contao-components/swiper@14.0.7
