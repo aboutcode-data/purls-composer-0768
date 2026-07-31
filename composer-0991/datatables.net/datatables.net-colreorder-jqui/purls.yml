@@ -6,3 +6,4 @@
 - pkg:composer/datatables.net/datatables.net-colreorder-jqui@2.1.0
 - pkg:composer/datatables.net/datatables.net-colreorder-jqui@2.1.1
 - pkg:composer/datatables.net/datatables.net-colreorder-jqui@2.1.2
+- pkg:composer/datatables.net/datatables.net-colreorder-jqui@3.0.0

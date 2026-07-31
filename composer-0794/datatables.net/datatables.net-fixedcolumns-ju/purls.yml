@@ -4,3 +4,4 @@
 - pkg:composer/datatables.net/datatables.net-fixedcolumns-ju@5.0.3
 - pkg:composer/datatables.net/datatables.net-fixedcolumns-ju@5.0.4
 - pkg:composer/datatables.net/datatables.net-fixedcolumns-ju@5.0.5
+- pkg:composer/datatables.net/datatables.net-fixedcolumns-ju@6.0.0

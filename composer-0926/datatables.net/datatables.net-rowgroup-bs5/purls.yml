@@ -2,3 +2,4 @@
 - pkg:composer/datatables.net/datatables.net-rowgroup-bs5@1.5.1
 - pkg:composer/datatables.net/datatables.net-rowgroup-bs5@1.5.2
 - pkg:composer/datatables.net/datatables.net-rowgroup-bs5@1.6.0
+- pkg:composer/datatables.net/datatables.net-rowgroup-bs5@2.0.0

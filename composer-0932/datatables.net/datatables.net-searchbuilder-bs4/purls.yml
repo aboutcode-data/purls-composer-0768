@@ -5,3 +5,4 @@
 - pkg:composer/datatables.net/datatables.net-searchbuilder-bs4@1.8.2
 - pkg:composer/datatables.net/datatables.net-searchbuilder-bs4@1.8.3
 - pkg:composer/datatables.net/datatables.net-searchbuilder-bs4@1.8.4
+- pkg:composer/datatables.net/datatables.net-searchbuilder-bs4@2.0.0

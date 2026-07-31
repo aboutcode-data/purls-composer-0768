@@ -1,2 +1,3 @@
 - pkg:composer/datatables.net/datatables.net-rowreorder-ju@1.5.0
 - pkg:composer/datatables.net/datatables.net-rowreorder-ju@1.5.1
+- pkg:composer/datatables.net/datatables.net-rowreorder-ju@2.0.0
