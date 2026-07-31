@@ -1387,6 +1387,7 @@
 - pkg:composer/dashed/dashed-ecommerce-core@v4.87.0
 - pkg:composer/dashed/dashed-ecommerce-core@v4.87.1
 - pkg:composer/dashed/dashed-ecommerce-core@v4.88.0
+- pkg:composer/dashed/dashed-ecommerce-core@v4.88.1
 - pkg:composer/dashed/dashed-ecommerce-core@v4.9.0
 - pkg:composer/dashed/dashed-ecommerce-core@v4.9.1
 - pkg:composer/dashed/dashed-ecommerce-core@v4.9.2
