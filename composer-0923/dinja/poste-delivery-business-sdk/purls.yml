@@ -1,4 +1,5 @@
 - pkg:composer/dinja/poste-delivery-business-sdk@1.0.1
+- pkg:composer/dinja/poste-delivery-business-sdk@1.0.10
 - pkg:composer/dinja/poste-delivery-business-sdk@1.0.2
 - pkg:composer/dinja/poste-delivery-business-sdk@1.0.3
 - pkg:composer/dinja/poste-delivery-business-sdk@1.0.4
