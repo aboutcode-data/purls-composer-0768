@@ -11,3 +11,5 @@
 - pkg:composer/datatables.net/datatables.net-buttons-dt@3.2.4
 - pkg:composer/datatables.net/datatables.net-buttons-dt@3.2.5
 - pkg:composer/datatables.net/datatables.net-buttons-dt@3.2.6
+- pkg:composer/datatables.net/datatables.net-buttons-dt@4.0.0
+- pkg:composer/datatables.net/datatables.net-buttons-dt@4.0.1
