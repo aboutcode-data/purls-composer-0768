@@ -1,3 +1,9 @@
 - pkg:composer/andydefer/laravel-cluster@v0.1.0
 - pkg:composer/andydefer/laravel-cluster@v0.2.0
 - pkg:composer/andydefer/laravel-cluster@v0.3.0
+- pkg:composer/andydefer/laravel-cluster@v0.3.1
+- pkg:composer/andydefer/laravel-cluster@v0.4.0
+- pkg:composer/andydefer/laravel-cluster@v0.4.1
+- pkg:composer/andydefer/laravel-cluster@v0.5.0
+- pkg:composer/andydefer/laravel-cluster@v0.5.1
+- pkg:composer/andydefer/laravel-cluster@v0.6.0

@@ -43,3 +43,4 @@
 - pkg:composer/andydefer/php-services@v1.5.8
 - pkg:composer/andydefer/php-services@v1.5.9
 - pkg:composer/andydefer/php-services@v1.6.0
+- pkg:composer/andydefer/php-services@v1.6.1
