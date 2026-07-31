@@ -21,5 +21,3 @@
 - pkg:composer/divido/merchant-sdk@v3.1.1
 - pkg:composer/divido/merchant-sdk@v4.0.0
 - pkg:composer/divido/merchant-sdk@v4.1.0
-- pkg:composer/divido/merchant-sdk@v4.1.1
-- pkg:composer/divido/merchant-sdk@v4.1.1-alpha

@@ -21,6 +21,8 @@
 - pkg:composer/diviky/serverless@v1.0.28
 - pkg:composer/diviky/serverless@v1.0.29
 - pkg:composer/diviky/serverless@v1.0.3
+- pkg:composer/diviky/serverless@v1.0.30
+- pkg:composer/diviky/serverless@v1.0.31
 - pkg:composer/diviky/serverless@v1.0.4
 - pkg:composer/diviky/serverless@v1.0.5
 - pkg:composer/diviky/serverless@v1.0.6
