@@ -23,6 +23,7 @@
 - pkg:composer/evasio/ecs@v1.29.0
 - pkg:composer/evasio/ecs@v1.3.0
 - pkg:composer/evasio/ecs@v1.30.0
+- pkg:composer/evasio/ecs@v1.31.0
 - pkg:composer/evasio/ecs@v1.4.0
 - pkg:composer/evasio/ecs@v1.5.0
 - pkg:composer/evasio/ecs@v1.6.0
