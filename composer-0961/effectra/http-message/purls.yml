@@ -2,3 +2,4 @@
 - pkg:composer/effectra/http-message@v1.0.1
 - pkg:composer/effectra/http-message@v1.0.2
 - pkg:composer/effectra/http-message@v1.0.3
+- pkg:composer/effectra/http-message@v2.0.0
