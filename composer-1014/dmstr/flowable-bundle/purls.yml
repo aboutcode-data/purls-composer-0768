@@ -9,3 +9,7 @@
 - pkg:composer/dmstr/flowable-bundle@0.3.0
 - pkg:composer/dmstr/flowable-bundle@0.4.0
 - pkg:composer/dmstr/flowable-bundle@0.5.0
+- pkg:composer/dmstr/flowable-bundle@0.5.1
+- pkg:composer/dmstr/flowable-bundle@0.6.0
+- pkg:composer/dmstr/flowable-bundle@0.6.1
+- pkg:composer/dmstr/flowable-bundle@0.7.0
