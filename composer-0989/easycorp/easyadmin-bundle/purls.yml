@@ -388,3 +388,6 @@
 - pkg:composer/easycorp/easyadmin-bundle@v5.0.9
 - pkg:composer/easycorp/easyadmin-bundle@v5.1.0
 - pkg:composer/easycorp/easyadmin-bundle@v5.2.0
+- pkg:composer/easycorp/easyadmin-bundle@v5.3.0
+- pkg:composer/easycorp/easyadmin-bundle@v5.4.0
+- pkg:composer/easycorp/easyadmin-bundle@v5.4.1
