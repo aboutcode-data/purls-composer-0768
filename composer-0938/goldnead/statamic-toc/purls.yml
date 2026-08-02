@@ -10,6 +10,7 @@
 - pkg:composer/goldnead/statamic-toc@v1.0.8
 - pkg:composer/goldnead/statamic-toc@v1.0.9
 - pkg:composer/goldnead/statamic-toc@v1.1.0
+- pkg:composer/goldnead/statamic-toc@v1.10
 - pkg:composer/goldnead/statamic-toc@v1.2.0
 - pkg:composer/goldnead/statamic-toc@v1.3.0
 - pkg:composer/goldnead/statamic-toc@v1.3.1
@@ -18,3 +19,6 @@
 - pkg:composer/goldnead/statamic-toc@v1.6
 - pkg:composer/goldnead/statamic-toc@v1.7
 - pkg:composer/goldnead/statamic-toc@v1.8
+- pkg:composer/goldnead/statamic-toc@v1.9
+- pkg:composer/goldnead/statamic-toc@v2.0.0
+- pkg:composer/goldnead/statamic-toc@v2.1.0
