@@ -167,5 +167,7 @@
 - pkg:composer/itzbund/gsb-consent@v2.2.1-beta.1
 - pkg:composer/itzbund/gsb-consent@v2.2.1-beta.2
 - pkg:composer/itzbund/gsb-consent@v2.2.1-rc.1
+- pkg:composer/itzbund/gsb-consent@v2.2.2
 - pkg:composer/itzbund/gsb-consent@v2.2.2-beta.1
 - pkg:composer/itzbund/gsb-consent@v2.2.2-rc.1
+- pkg:composer/itzbund/gsb-consent@v2.2.3-beta.1
