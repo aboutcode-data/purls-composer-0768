@@ -2,3 +2,4 @@
 - pkg:composer/foxws/laravel-scout-builder@0.0.2
 - pkg:composer/foxws/laravel-scout-builder@0.0.3
 - pkg:composer/foxws/laravel-scout-builder@0.0.4
+- pkg:composer/foxws/laravel-scout-builder@1.0.0
