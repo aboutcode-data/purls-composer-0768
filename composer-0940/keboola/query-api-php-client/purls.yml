@@ -3,3 +3,4 @@
 - pkg:composer/keboola/query-api-php-client@1.0.0
 - pkg:composer/keboola/query-api-php-client@2.0.0
 - pkg:composer/keboola/query-api-php-client@2.0.1
+- pkg:composer/keboola/query-api-php-client@3.0.0
