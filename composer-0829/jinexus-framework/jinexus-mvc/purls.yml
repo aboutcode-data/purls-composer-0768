@@ -1,1 +1,2 @@
-- pkg:composer/jinexus-framework/jinexus-mvc@1.0.0
+- pkg:composer/jinexus-framework/jinexus-mvc@v1.0.0
+- pkg:composer/jinexus-framework/jinexus-mvc@v1.1.0
