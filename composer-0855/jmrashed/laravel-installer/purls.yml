@@ -10,3 +10,5 @@
 - pkg:composer/jmrashed/laravel-installer@v2.0.5
 - pkg:composer/jmrashed/laravel-installer@v2.0.6
 - pkg:composer/jmrashed/laravel-installer@v2.0.7
+- pkg:composer/jmrashed/laravel-installer@v2.0.8
+- pkg:composer/jmrashed/laravel-installer@v2.0.9
