@@ -1,0 +1,4 @@
+- pkg:composer/jonasarts/tcpdf2-bundle@v8.1.0
+- pkg:composer/jonasarts/tcpdf2-bundle@v8.2.0
+- pkg:composer/jonasarts/tcpdf2-bundle@v8.2.1
+- pkg:composer/jonasarts/tcpdf2-bundle@v8.3.0
