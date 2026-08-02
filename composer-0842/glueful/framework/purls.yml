@@ -105,6 +105,12 @@
 - pkg:composer/glueful/framework@v1.71.0
 - pkg:composer/glueful/framework@v1.71.1
 - pkg:composer/glueful/framework@v1.71.2
+- pkg:composer/glueful/framework@v1.71.3
+- pkg:composer/glueful/framework@v1.72.0
+- pkg:composer/glueful/framework@v1.72.1
+- pkg:composer/glueful/framework@v1.73.0
+- pkg:composer/glueful/framework@v1.74.0
+- pkg:composer/glueful/framework@v1.74.1
 - pkg:composer/glueful/framework@v1.8.0
 - pkg:composer/glueful/framework@v1.8.1
 - pkg:composer/glueful/framework@v1.9.0
