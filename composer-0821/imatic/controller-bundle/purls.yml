@@ -33,3 +33,4 @@
 - pkg:composer/imatic/controller-bundle@v5.0.6
 - pkg:composer/imatic/controller-bundle@v5.0.7
 - pkg:composer/imatic/controller-bundle@v6.0.0
+- pkg:composer/imatic/controller-bundle@v6.0.1
