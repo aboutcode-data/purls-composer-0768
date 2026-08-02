@@ -11,3 +11,13 @@
 - pkg:composer/gacela-project/resolver@0.8.0
 - pkg:composer/gacela-project/resolver@0.8.1
 - pkg:composer/gacela-project/resolver@0.9.0
+- pkg:composer/gacela-project/resolver@1.0.0
+- pkg:composer/gacela-project/resolver@1.1.0
+- pkg:composer/gacela-project/resolver@1.1.1
+- pkg:composer/gacela-project/resolver@1.2.0
+- pkg:composer/gacela-project/resolver@1.2.1
+- pkg:composer/gacela-project/resolver@1.3.0
+- pkg:composer/gacela-project/resolver@1.4.0
+- pkg:composer/gacela-project/resolver@1.5.0
+- pkg:composer/gacela-project/resolver@2.0.0
+- pkg:composer/gacela-project/resolver@2.0.1
