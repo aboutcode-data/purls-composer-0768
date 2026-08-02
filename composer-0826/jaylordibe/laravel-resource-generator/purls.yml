@@ -23,3 +23,5 @@
 - pkg:composer/jaylordibe/laravel-resource-generator@v2.0.7
 - pkg:composer/jaylordibe/laravel-resource-generator@v2.0.8
 - pkg:composer/jaylordibe/laravel-resource-generator@v2.0.9
+- pkg:composer/jaylordibe/laravel-resource-generator@v3.0.0
+- pkg:composer/jaylordibe/laravel-resource-generator@v3.0.1
