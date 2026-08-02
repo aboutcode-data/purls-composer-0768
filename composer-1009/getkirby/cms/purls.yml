@@ -282,6 +282,7 @@
 - pkg:composer/getkirby/cms@5.5.0
 - pkg:composer/getkirby/cms@5.5.1
 - pkg:composer/getkirby/cms@5.5.2
+- pkg:composer/getkirby/cms@5.5.3
 - pkg:composer/getkirby/cms@6.0.0-alpha.1
 - pkg:composer/getkirby/cms@6.0.0-alpha.2
 - pkg:composer/getkirby/cms@6.0.0-alpha.3
