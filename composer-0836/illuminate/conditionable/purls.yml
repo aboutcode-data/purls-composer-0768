@@ -342,6 +342,8 @@
 - pkg:composer/illuminate/conditionable@v13.2.0
 - pkg:composer/illuminate/conditionable@v13.20.0
 - pkg:composer/illuminate/conditionable@v13.21.1
+- pkg:composer/illuminate/conditionable@v13.22.0
+- pkg:composer/illuminate/conditionable@v13.23.0
 - pkg:composer/illuminate/conditionable@v13.3.0
 - pkg:composer/illuminate/conditionable@v13.4.0
 - pkg:composer/illuminate/conditionable@v13.5.0
