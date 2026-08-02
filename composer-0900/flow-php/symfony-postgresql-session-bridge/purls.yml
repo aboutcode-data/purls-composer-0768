@@ -4,3 +4,4 @@
 - pkg:composer/flow-php/symfony-postgresql-session-bridge@0.40.0
 - pkg:composer/flow-php/symfony-postgresql-session-bridge@0.41.0
 - pkg:composer/flow-php/symfony-postgresql-session-bridge@0.41.1
+- pkg:composer/flow-php/symfony-postgresql-session-bridge@0.42.0
