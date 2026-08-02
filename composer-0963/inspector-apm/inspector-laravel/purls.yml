@@ -234,3 +234,4 @@
 - pkg:composer/inspector-apm/inspector-laravel@4.9.7
 - pkg:composer/inspector-apm/inspector-laravel@4.9.8
 - pkg:composer/inspector-apm/inspector-laravel@4.9.9
+- pkg:composer/inspector-apm/inspector-laravel@5.0.0
