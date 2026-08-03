@@ -24,3 +24,4 @@
 - pkg:composer/kvantstudio/site_payments_sberbank@2.6.0
 - pkg:composer/kvantstudio/site_payments_sberbank@2.6.1
 - pkg:composer/kvantstudio/site_payments_sberbank@2.6.2
+- pkg:composer/kvantstudio/site_payments_sberbank@3.0.0
