@@ -175,4 +175,5 @@
 - pkg:composer/kunstmaan/user-management-bundle@7.2.0
 - pkg:composer/kunstmaan/user-management-bundle@7.2.1
 - pkg:composer/kunstmaan/user-management-bundle@7.3.0
+- pkg:composer/kunstmaan/user-management-bundle@7.3.1
 - pkg:composer/kunstmaan/user-management-bundle@v2.3.0
