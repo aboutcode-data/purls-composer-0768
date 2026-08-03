@@ -5,6 +5,8 @@
 - pkg:composer/koriym/xdebug-mcp@v0.10.2
 - pkg:composer/koriym/xdebug-mcp@v0.11.0
 - pkg:composer/koriym/xdebug-mcp@v0.11.1
+- pkg:composer/koriym/xdebug-mcp@v0.12.0
+- pkg:composer/koriym/xdebug-mcp@v0.13.0
 - pkg:composer/koriym/xdebug-mcp@v0.2.1
 - pkg:composer/koriym/xdebug-mcp@v0.3.0
 - pkg:composer/koriym/xdebug-mcp@v0.3.1
