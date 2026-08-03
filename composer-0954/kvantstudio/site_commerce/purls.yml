@@ -88,3 +88,6 @@
 - pkg:composer/kvantstudio/site_commerce@3.7.2
 - pkg:composer/kvantstudio/site_commerce@3.7.3
 - pkg:composer/kvantstudio/site_commerce@3.7.4
+- pkg:composer/kvantstudio/site_commerce@4.0.0
+- pkg:composer/kvantstudio/site_commerce@4.0.1
+- pkg:composer/kvantstudio/site_commerce@4.0.2
