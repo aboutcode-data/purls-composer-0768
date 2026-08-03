@@ -20,3 +20,6 @@
 - pkg:composer/labor-digital/factory-multitenant-api@0.7.4
 - pkg:composer/labor-digital/factory-multitenant-api@0.8.0
 - pkg:composer/labor-digital/factory-multitenant-api@0.9.0
+- pkg:composer/labor-digital/factory-multitenant-api@0.9.1
+- pkg:composer/labor-digital/factory-multitenant-api@1.0.0
+- pkg:composer/labor-digital/factory-multitenant-api@1.0.1
