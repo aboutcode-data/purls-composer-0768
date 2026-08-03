@@ -10,3 +10,4 @@
 - pkg:composer/laminblur/filament-pdf-sanitizer@1.0.7
 - pkg:composer/laminblur/filament-pdf-sanitizer@1.0.9
 - pkg:composer/laminblur/filament-pdf-sanitizer@2.0.0
+- pkg:composer/laminblur/filament-pdf-sanitizer@2.0.2
