@@ -23,6 +23,9 @@
 - pkg:composer/litermi-packages/logs@1.0.3
 - pkg:composer/litermi-packages/logs@1.0.30
 - pkg:composer/litermi-packages/logs@1.0.31
+- pkg:composer/litermi-packages/logs@1.0.32
+- pkg:composer/litermi-packages/logs@1.0.33
+- pkg:composer/litermi-packages/logs@1.0.34
 - pkg:composer/litermi-packages/logs@1.0.4
 - pkg:composer/litermi-packages/logs@1.0.5
 - pkg:composer/litermi-packages/logs@1.0.6
