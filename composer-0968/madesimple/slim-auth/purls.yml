@@ -1,3 +1,4 @@
 - pkg:composer/madesimple/slim-auth@v1.0.0
 - pkg:composer/madesimple/slim-auth@v2.0.0
 - pkg:composer/madesimple/slim-auth@v2.1.0
+- pkg:composer/madesimple/slim-auth@v3.0.0
