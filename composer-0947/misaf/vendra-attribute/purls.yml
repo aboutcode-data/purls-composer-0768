@@ -12,7 +12,10 @@
 - pkg:composer/misaf/vendra-attribute@1.4.0
 - pkg:composer/misaf/vendra-attribute@1.5.0
 - pkg:composer/misaf/vendra-attribute@v1.0.0
+- pkg:composer/misaf/vendra-attribute@v1.10.0
 - pkg:composer/misaf/vendra-attribute@v1.2.1
 - pkg:composer/misaf/vendra-attribute@v1.6.0
 - pkg:composer/misaf/vendra-attribute@v1.7.0
 - pkg:composer/misaf/vendra-attribute@v1.7.1
+- pkg:composer/misaf/vendra-attribute@v1.8.0
+- pkg:composer/misaf/vendra-attribute@v1.9.0
