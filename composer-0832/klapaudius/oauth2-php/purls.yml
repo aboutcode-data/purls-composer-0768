@@ -23,3 +23,4 @@
 - pkg:composer/klapaudius/oauth2-php@1.7.0
 - pkg:composer/klapaudius/oauth2-php@1.8.0
 - pkg:composer/klapaudius/oauth2-php@1.9.0
+- pkg:composer/klapaudius/oauth2-php@2.0.0
