@@ -13,3 +13,4 @@
 - pkg:composer/malirobot/aws-cognito@v1.0
 - pkg:composer/malirobot/aws-cognito@v1.0.1
 - pkg:composer/malirobot/aws-cognito@v1.0.2
+- pkg:composer/malirobot/aws-cognito@v1.0.3
