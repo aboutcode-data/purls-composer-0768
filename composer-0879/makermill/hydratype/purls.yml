@@ -1,1 +1,6 @@
+- pkg:composer/makermill/hydratype@1.0.0
+- pkg:composer/makermill/hydratype@1.0.0-beta.2
+- pkg:composer/makermill/hydratype@1.0.0-beta.3
+- pkg:composer/makermill/hydratype@1.0.0-beta.4
+- pkg:composer/makermill/hydratype@1.0.0-beta.5
 - pkg:composer/makermill/hydratype@v1.0.0-beta1
