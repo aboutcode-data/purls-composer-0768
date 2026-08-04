@@ -1,5 +1,6 @@
 - pkg:composer/marshmallow/cart@5.0.0
 - pkg:composer/marshmallow/cart@5.1.0
+- pkg:composer/marshmallow/cart@5.2.0
 - pkg:composer/marshmallow/cart@v1.0.0
 - pkg:composer/marshmallow/cart@v1.0.1
 - pkg:composer/marshmallow/cart@v1.0.10
