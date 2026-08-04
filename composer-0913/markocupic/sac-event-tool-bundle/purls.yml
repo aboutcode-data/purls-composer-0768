@@ -66,3 +66,4 @@
 - pkg:composer/markocupic/sac-event-tool-bundle@4.26.0
 - pkg:composer/markocupic/sac-event-tool-bundle@4.27.0
 - pkg:composer/markocupic/sac-event-tool-bundle@5.0.0
+- pkg:composer/markocupic/sac-event-tool-bundle@5.0.1
