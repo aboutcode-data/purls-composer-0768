@@ -1,4 +1,5 @@
 - pkg:composer/joypixels/assets@v10.0.0
+- pkg:composer/joypixels/assets@v11.0.0
 - pkg:composer/joypixels/assets@v5.0.0
 - pkg:composer/joypixels/assets@v5.0.1
 - pkg:composer/joypixels/assets@v5.0.2
