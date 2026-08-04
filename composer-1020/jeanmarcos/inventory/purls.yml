@@ -24,6 +24,8 @@
 - pkg:composer/jeanmarcos/inventory@2.4.8.15
 - pkg:composer/jeanmarcos/inventory@2.4.8.16
 - pkg:composer/jeanmarcos/inventory@2.4.8.17
+- pkg:composer/jeanmarcos/inventory@2.4.8.18
+- pkg:composer/jeanmarcos/inventory@2.4.8.19
 - pkg:composer/jeanmarcos/inventory@2.4.8.2
 - pkg:composer/jeanmarcos/inventory@2.4.8.3
 - pkg:composer/jeanmarcos/inventory@2.4.8.4
@@ -41,6 +43,9 @@
 - pkg:composer/jeanmarcos/inventory@2.4.9.14
 - pkg:composer/jeanmarcos/inventory@2.4.9.15
 - pkg:composer/jeanmarcos/inventory@2.4.9.16
+- pkg:composer/jeanmarcos/inventory@2.4.9.17
+- pkg:composer/jeanmarcos/inventory@2.4.9.18
+- pkg:composer/jeanmarcos/inventory@2.4.9.19
 - pkg:composer/jeanmarcos/inventory@2.4.9.2
 - pkg:composer/jeanmarcos/inventory@2.4.9.3
 - pkg:composer/jeanmarcos/inventory@2.4.9.4
