@@ -2,3 +2,5 @@
 - pkg:composer/lucasacoutinho/ext-clickhouse@v1.0.1
 - pkg:composer/lucasacoutinho/ext-clickhouse@v1.0.2
 - pkg:composer/lucasacoutinho/ext-clickhouse@v1.0.3
+- pkg:composer/lucasacoutinho/ext-clickhouse@v1.1.0
+- pkg:composer/lucasacoutinho/ext-clickhouse@v1.2.0
