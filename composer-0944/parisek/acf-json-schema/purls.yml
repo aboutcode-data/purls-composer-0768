@@ -7,3 +7,4 @@
 - pkg:composer/parisek/acf-json-schema@v0.6.0
 - pkg:composer/parisek/acf-json-schema@v0.7.0
 - pkg:composer/parisek/acf-json-schema@v0.7.1
+- pkg:composer/parisek/acf-json-schema@v0.7.2
