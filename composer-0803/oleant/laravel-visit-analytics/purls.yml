@@ -14,3 +14,5 @@
 - pkg:composer/oleant/laravel-visit-analytics@v2.6.0
 - pkg:composer/oleant/laravel-visit-analytics@v2.6.1
 - pkg:composer/oleant/laravel-visit-analytics@v3.0.0
+- pkg:composer/oleant/laravel-visit-analytics@v3.1.0
+- pkg:composer/oleant/laravel-visit-analytics@v3.2.0
