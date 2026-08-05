@@ -7,3 +7,4 @@
 - pkg:composer/pierreminiggio/github-action-run-starter-and-artifact-downloader@1.2.0
 - pkg:composer/pierreminiggio/github-action-run-starter-and-artifact-downloader@2.0.0
 - pkg:composer/pierreminiggio/github-action-run-starter-and-artifact-downloader@3.0.0
+- pkg:composer/pierreminiggio/github-action-run-starter-and-artifact-downloader@4.0.0
