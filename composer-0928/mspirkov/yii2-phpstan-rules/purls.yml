@@ -1,4 +1,7 @@
 - pkg:composer/mspirkov/yii2-phpstan-rules@0.1.0
+- pkg:composer/mspirkov/yii2-phpstan-rules@0.10.0
+- pkg:composer/mspirkov/yii2-phpstan-rules@0.10.1
+- pkg:composer/mspirkov/yii2-phpstan-rules@0.11.0
 - pkg:composer/mspirkov/yii2-phpstan-rules@0.2.0
 - pkg:composer/mspirkov/yii2-phpstan-rules@0.2.1
 - pkg:composer/mspirkov/yii2-phpstan-rules@0.3.0
