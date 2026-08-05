@@ -6,6 +6,7 @@
 - pkg:composer/pluswerk/grumphp-bom-task@10.2.8
 - pkg:composer/pluswerk/grumphp-bom-task@11.0.0
 - pkg:composer/pluswerk/grumphp-bom-task@11.0.3
+- pkg:composer/pluswerk/grumphp-bom-task@11.0.5
 - pkg:composer/pluswerk/grumphp-bom-task@4.0.0
 - pkg:composer/pluswerk/grumphp-bom-task@4.1.0
 - pkg:composer/pluswerk/grumphp-bom-task@4.1.1
