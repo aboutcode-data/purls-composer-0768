@@ -24,3 +24,4 @@
 - pkg:composer/phpstan/phpstan-deprecation-rules@2.0.2
 - pkg:composer/phpstan/phpstan-deprecation-rules@2.0.3
 - pkg:composer/phpstan/phpstan-deprecation-rules@2.0.4
+- pkg:composer/phpstan/phpstan-deprecation-rules@2.0.5
