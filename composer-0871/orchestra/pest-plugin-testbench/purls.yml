@@ -10,3 +10,4 @@
 - pkg:composer/orchestra/pest-plugin-testbench@v3.3.0
 - pkg:composer/orchestra/pest-plugin-testbench@v4.0.0
 - pkg:composer/orchestra/pest-plugin-testbench@v4.1.0
+- pkg:composer/orchestra/pest-plugin-testbench@v5.0.0
