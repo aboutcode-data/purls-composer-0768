@@ -8,3 +8,4 @@
 - pkg:composer/pobo-builder/php-sdk@v1.4.0
 - pkg:composer/pobo-builder/php-sdk@v1.5.0
 - pkg:composer/pobo-builder/php-sdk@v1.5.1
+- pkg:composer/pobo-builder/php-sdk@v1.6.0
