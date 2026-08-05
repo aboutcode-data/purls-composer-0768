@@ -5,3 +5,4 @@
 - pkg:composer/northrook/php-cs@0.8.1
 - pkg:composer/northrook/php-cs@0.8.2
 - pkg:composer/northrook/php-cs@0.8.3
+- pkg:composer/northrook/php-cs@0.8.4
