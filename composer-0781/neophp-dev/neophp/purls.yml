@@ -190,6 +190,8 @@
 - pkg:composer/neophp-dev/neophp@v4.25.1
 - pkg:composer/neophp-dev/neophp@v4.25.2
 - pkg:composer/neophp-dev/neophp@v4.25.3
+- pkg:composer/neophp-dev/neophp@v4.26.0
+- pkg:composer/neophp-dev/neophp@v4.26.1
 - pkg:composer/neophp-dev/neophp@v4.3.0
 - pkg:composer/neophp-dev/neophp@v4.4.0
 - pkg:composer/neophp-dev/neophp@v4.4.1
