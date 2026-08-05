@@ -88,3 +88,5 @@
 - pkg:composer/nfephp-org/sped-nfe@v5.2.4
 - pkg:composer/nfephp-org/sped-nfe@v5.2.5
 - pkg:composer/nfephp-org/sped-nfe@v5.2.6
+- pkg:composer/nfephp-org/sped-nfe@v5.2.7
+- pkg:composer/nfephp-org/sped-nfe@v5.2.8
