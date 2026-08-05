@@ -1,5 +1,8 @@
-- pkg:composer/mnb/mnb-phpexcel@1.0.0
-- pkg:composer/mnb/mnb-phpexcel@1.0.1
-- pkg:composer/mnb/mnb-phpexcel@v1.0.2
-- pkg:composer/mnb/mnb-phpexcel@v1.0.3
-- pkg:composer/mnb/mnb-phpexcel@v1.0.4
+- pkg:composer/mnb/mnb-phpexcel@v1.2.0
+- pkg:composer/mnb/mnb-phpexcel@v1.3.0
+- pkg:composer/mnb/mnb-phpexcel@v1.4.0
+- pkg:composer/mnb/mnb-phpexcel@v1.5.0
+- pkg:composer/mnb/mnb-phpexcel@v1.6.0
+- pkg:composer/mnb/mnb-phpexcel@v1.7.0
+- pkg:composer/mnb/mnb-phpexcel@v2.0.0
+- pkg:composer/mnb/mnb-phpexcel@v2.0.6
