@@ -1,4 +1,5 @@
 - pkg:composer/phadaphunk/scrippy@2.0
+- pkg:composer/phadaphunk/scrippy@3.0
 - pkg:composer/phadaphunk/scrippy@v0.1
 - pkg:composer/phadaphunk/scrippy@v1.0.0
 - pkg:composer/phadaphunk/scrippy@v1.0.1
