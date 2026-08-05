@@ -152,3 +152,5 @@
 - pkg:composer/pfefferle/wordpress-activitypub@9.0.1
 - pkg:composer/pfefferle/wordpress-activitypub@9.0.2
 - pkg:composer/pfefferle/wordpress-activitypub@9.1.0
+- pkg:composer/pfefferle/wordpress-activitypub@9.2.0
+- pkg:composer/pfefferle/wordpress-activitypub@9.2.1
