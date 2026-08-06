@@ -59,3 +59,4 @@
 - pkg:composer/portiny/rabbitmq-nette@8.4.6
 - pkg:composer/portiny/rabbitmq-nette@8.5.0
 - pkg:composer/portiny/rabbitmq-nette@8.5.1
+- pkg:composer/portiny/rabbitmq-nette@8.5.2
