@@ -16,3 +16,4 @@
 - pkg:composer/raxos/security@2.3.4
 - pkg:composer/raxos/security@3.0.0
 - pkg:composer/raxos/security@3.0.1
+- pkg:composer/raxos/security@3.1.0
