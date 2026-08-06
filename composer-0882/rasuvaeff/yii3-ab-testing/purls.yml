@@ -7,3 +7,6 @@
 - pkg:composer/rasuvaeff/yii3-ab-testing@v1.4.2
 - pkg:composer/rasuvaeff/yii3-ab-testing@v1.5.0
 - pkg:composer/rasuvaeff/yii3-ab-testing@v1.5.1
+- pkg:composer/rasuvaeff/yii3-ab-testing@v1.5.2
+- pkg:composer/rasuvaeff/yii3-ab-testing@v1.6.0
+- pkg:composer/rasuvaeff/yii3-ab-testing@v2.0.0
