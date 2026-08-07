@@ -421,6 +421,14 @@
 - pkg:composer/remotion/lambda@4.0.499
 - pkg:composer/remotion/lambda@4.0.5
 - pkg:composer/remotion/lambda@4.0.50
+- pkg:composer/remotion/lambda@4.0.500
+- pkg:composer/remotion/lambda@4.0.501
+- pkg:composer/remotion/lambda@4.0.502
+- pkg:composer/remotion/lambda@4.0.503
+- pkg:composer/remotion/lambda@4.0.504
+- pkg:composer/remotion/lambda@4.0.505
+- pkg:composer/remotion/lambda@4.0.506
+- pkg:composer/remotion/lambda@4.0.507
 - pkg:composer/remotion/lambda@4.0.51
 - pkg:composer/remotion/lambda@4.0.52
 - pkg:composer/remotion/lambda@4.0.53
