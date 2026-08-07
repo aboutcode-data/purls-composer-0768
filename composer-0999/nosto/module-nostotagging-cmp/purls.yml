@@ -52,3 +52,4 @@
 - pkg:composer/nosto/module-nostotagging-cmp@5.3.1
 - pkg:composer/nosto/module-nostotagging-cmp@5.3.2
 - pkg:composer/nosto/module-nostotagging-cmp@5.4.0
+- pkg:composer/nosto/module-nostotagging-cmp@6.0.0
