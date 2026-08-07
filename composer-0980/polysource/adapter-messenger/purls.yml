@@ -3,6 +3,8 @@
 - pkg:composer/polysource/adapter-messenger@v0.1.2
 - pkg:composer/polysource/adapter-messenger@v0.1.3
 - pkg:composer/polysource/adapter-messenger@v0.1.4
+- pkg:composer/polysource/adapter-messenger@v0.10.0
+- pkg:composer/polysource/adapter-messenger@v0.11.0
 - pkg:composer/polysource/adapter-messenger@v0.2.0
 - pkg:composer/polysource/adapter-messenger@v0.3.0
 - pkg:composer/polysource/adapter-messenger@v0.4.0
@@ -24,3 +26,4 @@
 - pkg:composer/polysource/adapter-messenger@v0.8.2
 - pkg:composer/polysource/adapter-messenger@v0.9.0
 - pkg:composer/polysource/adapter-messenger@v0.9.1
+- pkg:composer/polysource/adapter-messenger@v1.0.0
