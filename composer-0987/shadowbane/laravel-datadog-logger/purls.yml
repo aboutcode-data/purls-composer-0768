@@ -7,3 +7,4 @@
 - pkg:composer/shadowbane/laravel-datadog-logger@v1.0
 - pkg:composer/shadowbane/laravel-datadog-logger@v1.1.0
 - pkg:composer/shadowbane/laravel-datadog-logger@v1.2.0
+- pkg:composer/shadowbane/laravel-datadog-logger@v1.2.1
