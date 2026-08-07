@@ -5,3 +5,5 @@
 - pkg:composer/schachbulle/contao-references-bundle@2.1.2
 - pkg:composer/schachbulle/contao-references-bundle@3.0.0
 - pkg:composer/schachbulle/contao-references-bundle@3.0.1
+- pkg:composer/schachbulle/contao-references-bundle@3.0.2
+- pkg:composer/schachbulle/contao-references-bundle@4.0.0
