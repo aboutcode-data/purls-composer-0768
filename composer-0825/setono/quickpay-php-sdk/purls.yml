@@ -1,1 +1,5 @@
 - pkg:composer/setono/quickpay-php-sdk@v1.0.0-alpha.1
+- pkg:composer/setono/quickpay-php-sdk@v1.0.0-alpha.2
+- pkg:composer/setono/quickpay-php-sdk@v1.0.0-alpha.3
+- pkg:composer/setono/quickpay-php-sdk@v1.0.0-alpha.4
+- pkg:composer/setono/quickpay-php-sdk@v1.0.0-beta.1
