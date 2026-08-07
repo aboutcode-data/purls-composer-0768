@@ -6,3 +6,4 @@
 - pkg:composer/preprio/php-sdk@v3.0.1
 - pkg:composer/preprio/php-sdk@v4.0.0
 - pkg:composer/preprio/php-sdk@v5.0.1
+- pkg:composer/preprio/php-sdk@v5.0.2
