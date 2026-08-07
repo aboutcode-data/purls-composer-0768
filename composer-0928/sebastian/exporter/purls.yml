@@ -53,3 +53,5 @@
 - pkg:composer/sebastian/exporter@8.0.3
 - pkg:composer/sebastian/exporter@8.1.0
 - pkg:composer/sebastian/exporter@8.1.1
+- pkg:composer/sebastian/exporter@8.2.0
+- pkg:composer/sebastian/exporter@8.2.1
