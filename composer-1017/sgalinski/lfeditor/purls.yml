@@ -7,6 +7,9 @@
 - pkg:composer/sgalinski/lfeditor@10.0.6
 - pkg:composer/sgalinski/lfeditor@10.0.7
 - pkg:composer/sgalinski/lfeditor@10.0.8
+- pkg:composer/sgalinski/lfeditor@11.0.0
+- pkg:composer/sgalinski/lfeditor@11.0.1
+- pkg:composer/sgalinski/lfeditor@11.0.2
 - pkg:composer/sgalinski/lfeditor@3.3.1
 - pkg:composer/sgalinski/lfeditor@3.3.3
 - pkg:composer/sgalinski/lfeditor@4.0.0

@@ -153,8 +153,12 @@
 - pkg:composer/sgalinski/sg-cookie-optin@7.3.7
 - pkg:composer/sgalinski/sg-cookie-optin@7.4.0
 - pkg:composer/sgalinski/sg-cookie-optin@7.4.1
+- pkg:composer/sgalinski/sg-cookie-optin@7.4.2
 - pkg:composer/sgalinski/sg-cookie-optin@8.0.0
 - pkg:composer/sgalinski/sg-cookie-optin@8.0.1
 - pkg:composer/sgalinski/sg-cookie-optin@8.0.2
 - pkg:composer/sgalinski/sg-cookie-optin@8.0.3
 - pkg:composer/sgalinski/sg-cookie-optin@8.0.4
+- pkg:composer/sgalinski/sg-cookie-optin@8.1.0
+- pkg:composer/sgalinski/sg-cookie-optin@8.1.1
+- pkg:composer/sgalinski/sg-cookie-optin@8.1.2
