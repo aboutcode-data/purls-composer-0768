@@ -146,7 +146,15 @@
 - pkg:composer/pushinbr/pam-native@v0.6.46
 - pkg:composer/pushinbr/pam-native@v0.6.47
 - pkg:composer/pushinbr/pam-native@v0.6.48
+- pkg:composer/pushinbr/pam-native@v0.6.49
 - pkg:composer/pushinbr/pam-native@v0.6.5
+- pkg:composer/pushinbr/pam-native@v0.6.50
+- pkg:composer/pushinbr/pam-native@v0.6.51
+- pkg:composer/pushinbr/pam-native@v0.6.52
+- pkg:composer/pushinbr/pam-native@v0.6.53
+- pkg:composer/pushinbr/pam-native@v0.6.55
+- pkg:composer/pushinbr/pam-native@v0.6.56
+- pkg:composer/pushinbr/pam-native@v0.6.57
 - pkg:composer/pushinbr/pam-native@v0.6.6
 - pkg:composer/pushinbr/pam-native@v0.6.7
 - pkg:composer/pushinbr/pam-native@v0.6.8
