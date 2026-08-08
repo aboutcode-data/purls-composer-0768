@@ -18,6 +18,7 @@
 - pkg:composer/survos/ai-dataset-bundle@2.10.7
 - pkg:composer/survos/ai-dataset-bundle@2.10.8
 - pkg:composer/survos/ai-dataset-bundle@2.10.9
+- pkg:composer/survos/ai-dataset-bundle@2.18.18
 - pkg:composer/survos/ai-dataset-bundle@2.7.0
 - pkg:composer/survos/ai-dataset-bundle@2.7.1
 - pkg:composer/survos/ai-dataset-bundle@2.7.10
