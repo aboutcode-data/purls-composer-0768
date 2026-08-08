@@ -12,6 +12,11 @@
 - pkg:composer/std-out/simple-data-objects@v1.14.0
 - pkg:composer/std-out/simple-data-objects@v1.15.0
 - pkg:composer/std-out/simple-data-objects@v1.16.0
+- pkg:composer/std-out/simple-data-objects@v1.18.0
+- pkg:composer/std-out/simple-data-objects@v1.19.0
+- pkg:composer/std-out/simple-data-objects@v1.20.0
+- pkg:composer/std-out/simple-data-objects@v1.21.0
+- pkg:composer/std-out/simple-data-objects@v1.22.0
 - pkg:composer/std-out/simple-data-objects@v1.4.3
 - pkg:composer/std-out/simple-data-objects@v1.7.2
 - pkg:composer/std-out/simple-data-objects@v1.8.0
