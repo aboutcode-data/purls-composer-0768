@@ -91,3 +91,4 @@
 - pkg:composer/simple-as-fuck/php-validator@0.8.0
 - pkg:composer/simple-as-fuck/php-validator@0.8.1
 - pkg:composer/simple-as-fuck/php-validator@0.8.2
+- pkg:composer/simple-as-fuck/php-validator@0.8.3
