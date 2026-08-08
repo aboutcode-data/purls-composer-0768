@@ -13,3 +13,8 @@
 - pkg:composer/ssh/common-util@v1.2.7
 - pkg:composer/ssh/common-util@v1.2.8
 - pkg:composer/ssh/common-util@v1.2.9
+- pkg:composer/ssh/common-util@v1.3.0
+- pkg:composer/ssh/common-util@v1.3.1
+- pkg:composer/ssh/common-util@v1.3.2
+- pkg:composer/ssh/common-util@v1.4.0
+- pkg:composer/ssh/common-util@v1.5.0
