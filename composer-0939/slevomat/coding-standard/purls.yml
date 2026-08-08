@@ -174,6 +174,7 @@
 - pkg:composer/slevomat/coding-standard@8.30.0
 - pkg:composer/slevomat/coding-standard@8.30.1
 - pkg:composer/slevomat/coding-standard@8.31.0
+- pkg:composer/slevomat/coding-standard@8.31.1
 - pkg:composer/slevomat/coding-standard@8.4.0
 - pkg:composer/slevomat/coding-standard@8.5.0
 - pkg:composer/slevomat/coding-standard@8.5.1
