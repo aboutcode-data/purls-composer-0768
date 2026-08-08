@@ -166,6 +166,9 @@
 - pkg:composer/tecnickcom/tc-lib-pdf@8.67.0
 - pkg:composer/tecnickcom/tc-lib-pdf@8.67.1
 - pkg:composer/tecnickcom/tc-lib-pdf@8.67.2
+- pkg:composer/tecnickcom/tc-lib-pdf@8.68.0
+- pkg:composer/tecnickcom/tc-lib-pdf@8.68.2
+- pkg:composer/tecnickcom/tc-lib-pdf@8.68.3
 - pkg:composer/tecnickcom/tc-lib-pdf@8.7.1
 - pkg:composer/tecnickcom/tc-lib-pdf@8.8.0
 - pkg:composer/tecnickcom/tc-lib-pdf@8.8.1
