@@ -5,3 +5,4 @@
 - pkg:composer/pomelchenko/yii2-graphql@0.15.3
 - pkg:composer/pomelchenko/yii2-graphql@0.16.0
 - pkg:composer/pomelchenko/yii2-graphql@0.16.1
+- pkg:composer/pomelchenko/yii2-graphql@0.17.0
