@@ -3,3 +3,11 @@
 - pkg:composer/standard-library/reflection@0.0.3
 - pkg:composer/standard-library/reflection@0.0.4
 - pkg:composer/standard-library/reflection@0.1.0
+- pkg:composer/standard-library/reflection@1.0.22
+- pkg:composer/standard-library/reflection@1.0.25
+- pkg:composer/standard-library/reflection@1.0.26
+- pkg:composer/standard-library/reflection@1.0.27
+- pkg:composer/standard-library/reflection@1.0.28
+- pkg:composer/standard-library/reflection@1.0.29
+- pkg:composer/standard-library/reflection@1.0.30
+- pkg:composer/standard-library/reflection@v1.0.20

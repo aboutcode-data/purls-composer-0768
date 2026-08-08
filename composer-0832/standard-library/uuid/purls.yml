@@ -1,1 +1,9 @@
 - pkg:composer/standard-library/uuid@1.0.0
+- pkg:composer/standard-library/uuid@1.0.22
+- pkg:composer/standard-library/uuid@1.0.25
+- pkg:composer/standard-library/uuid@1.0.26
+- pkg:composer/standard-library/uuid@1.0.27
+- pkg:composer/standard-library/uuid@1.0.28
+- pkg:composer/standard-library/uuid@1.0.29
+- pkg:composer/standard-library/uuid@1.0.30
+- pkg:composer/standard-library/uuid@v1.0.20
