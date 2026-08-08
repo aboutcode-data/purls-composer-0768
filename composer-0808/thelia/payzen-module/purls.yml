@@ -21,3 +21,4 @@
 - pkg:composer/thelia/payzen-module@2.0.7
 - pkg:composer/thelia/payzen-module@2.0.8
 - pkg:composer/thelia/payzen-module@2.0.9
+- pkg:composer/thelia/payzen-module@3.0.0
