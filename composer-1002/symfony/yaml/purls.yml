@@ -610,6 +610,7 @@
 - pkg:composer/symfony/yaml@v6.4.40
 - pkg:composer/symfony/yaml@v6.4.41
 - pkg:composer/symfony/yaml@v6.4.42
+- pkg:composer/symfony/yaml@v6.4.43
 - pkg:composer/symfony/yaml@v6.4.7
 - pkg:composer/symfony/yaml@v6.4.8
 - pkg:composer/symfony/yaml@v7.0.0
@@ -654,6 +655,7 @@
 - pkg:composer/symfony/yaml@v7.4.12
 - pkg:composer/symfony/yaml@v7.4.13
 - pkg:composer/symfony/yaml@v7.4.14
+- pkg:composer/symfony/yaml@v7.4.15
 - pkg:composer/symfony/yaml@v7.4.6
 - pkg:composer/symfony/yaml@v7.4.8
 - pkg:composer/symfony/yaml@v8.0.0
@@ -666,6 +668,7 @@
 - pkg:composer/symfony/yaml@v8.0.12
 - pkg:composer/symfony/yaml@v8.0.13
 - pkg:composer/symfony/yaml@v8.0.14
+- pkg:composer/symfony/yaml@v8.0.15
 - pkg:composer/symfony/yaml@v8.0.6
 - pkg:composer/symfony/yaml@v8.0.8
 - pkg:composer/symfony/yaml@v8.1.0
@@ -674,3 +677,4 @@
 - pkg:composer/symfony/yaml@v8.1.0-BETA3
 - pkg:composer/symfony/yaml@v8.1.0-RC1
 - pkg:composer/symfony/yaml@v8.1.1
+- pkg:composer/symfony/yaml@v8.1.2

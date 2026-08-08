@@ -565,6 +565,7 @@
 - pkg:composer/symfony/twig-bundle@v6.4.31
 - pkg:composer/symfony/twig-bundle@v6.4.32
 - pkg:composer/symfony/twig-bundle@v6.4.4
+- pkg:composer/symfony/twig-bundle@v6.4.43
 - pkg:composer/symfony/twig-bundle@v6.4.7
 - pkg:composer/symfony/twig-bundle@v6.4.8
 - pkg:composer/symfony/twig-bundle@v7.0.0
@@ -600,6 +601,7 @@
 - pkg:composer/symfony/twig-bundle@v7.4.0-BETA1
 - pkg:composer/symfony/twig-bundle@v7.4.0-RC1
 - pkg:composer/symfony/twig-bundle@v7.4.14
+- pkg:composer/symfony/twig-bundle@v7.4.15
 - pkg:composer/symfony/twig-bundle@v7.4.3
 - pkg:composer/symfony/twig-bundle@v7.4.4
 - pkg:composer/symfony/twig-bundle@v7.4.8
@@ -607,9 +609,11 @@
 - pkg:composer/symfony/twig-bundle@v8.0.0-BETA1
 - pkg:composer/symfony/twig-bundle@v8.0.0-RC1
 - pkg:composer/symfony/twig-bundle@v8.0.14
+- pkg:composer/symfony/twig-bundle@v8.0.15
 - pkg:composer/symfony/twig-bundle@v8.0.3
 - pkg:composer/symfony/twig-bundle@v8.0.4
 - pkg:composer/symfony/twig-bundle@v8.0.8
 - pkg:composer/symfony/twig-bundle@v8.1.0
 - pkg:composer/symfony/twig-bundle@v8.1.0-BETA1
 - pkg:composer/symfony/twig-bundle@v8.1.0-BETA3
+- pkg:composer/symfony/twig-bundle@v8.1.2

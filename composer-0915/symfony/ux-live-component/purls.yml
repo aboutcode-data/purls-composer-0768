@@ -62,3 +62,4 @@
 - pkg:composer/symfony/ux-live-component@v3.1.0
 - pkg:composer/symfony/ux-live-component@v3.2.0
 - pkg:composer/symfony/ux-live-component@v3.3.0
+- pkg:composer/symfony/ux-live-component@v3.4.0
