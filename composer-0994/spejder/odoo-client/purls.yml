@@ -72,3 +72,5 @@
 - pkg:composer/spejder/odoo-client@v1.1.5
 - pkg:composer/spejder/odoo-client@v1.1.6
 - pkg:composer/spejder/odoo-client@v1.1.7
+- pkg:composer/spejder/odoo-client@v1.1.8
+- pkg:composer/spejder/odoo-client@v1.1.9
