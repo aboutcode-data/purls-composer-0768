@@ -46,3 +46,5 @@
 - pkg:composer/smonist/craft-vite-starter@2.4.7
 - pkg:composer/smonist/craft-vite-starter@2.4.8
 - pkg:composer/smonist/craft-vite-starter@2.4.9
+- pkg:composer/smonist/craft-vite-starter@2.5.0
+- pkg:composer/smonist/craft-vite-starter@2.5.1
