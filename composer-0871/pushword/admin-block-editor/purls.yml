@@ -1214,6 +1214,8 @@
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc85
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc850
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc851
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc852
+- pkg:composer/pushword/admin-block-editor@1.0.0-rc853
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc86
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc87
 - pkg:composer/pushword/admin-block-editor@1.0.0-rc88
