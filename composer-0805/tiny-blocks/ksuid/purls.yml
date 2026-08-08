@@ -11,3 +11,4 @@
 - pkg:composer/tiny-blocks/ksuid@1.5.1
 - pkg:composer/tiny-blocks/ksuid@2.0.0
 - pkg:composer/tiny-blocks/ksuid@2.0.1
+- pkg:composer/tiny-blocks/ksuid@2.0.2
