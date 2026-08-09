@@ -14,6 +14,10 @@
 - pkg:composer/useburrow/craft-burrow@5.3.7
 - pkg:composer/useburrow/craft-burrow@5.3.8
 - pkg:composer/useburrow/craft-burrow@5.3.9
+- pkg:composer/useburrow/craft-burrow@5.4.0
+- pkg:composer/useburrow/craft-burrow@5.4.1
+- pkg:composer/useburrow/craft-burrow@5.5.0
+- pkg:composer/useburrow/craft-burrow@5.5.1
 - pkg:composer/useburrow/craft-burrow@v5.0.0
 - pkg:composer/useburrow/craft-burrow@v5.1.1
 - pkg:composer/useburrow/craft-burrow@v5.2.0
