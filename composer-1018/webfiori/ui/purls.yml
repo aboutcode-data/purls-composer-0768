@@ -2,6 +2,8 @@
 - pkg:composer/webfiori/ui@3.0.0
 - pkg:composer/webfiori/ui@4.0.0
 - pkg:composer/webfiori/ui@4.0.1
+- pkg:composer/webfiori/ui@4.0.2
+- pkg:composer/webfiori/ui@4.0.3
 - pkg:composer/webfiori/ui@v1.8.1
 - pkg:composer/webfiori/ui@v1.8.2
 - pkg:composer/webfiori/ui@v1.8.3
