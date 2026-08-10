@@ -13,3 +13,6 @@
 - pkg:composer/abivia/geocoding@3.0.1
 - pkg:composer/abivia/geocoding@3.1.0
 - pkg:composer/abivia/geocoding@3.2.0
+- pkg:composer/abivia/geocoding@4.0.0
+- pkg:composer/abivia/geocoding@4.0.1
+- pkg:composer/abivia/geocoding@4.0.2
