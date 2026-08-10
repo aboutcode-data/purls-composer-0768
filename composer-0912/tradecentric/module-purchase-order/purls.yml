@@ -5,6 +5,8 @@
 - pkg:composer/tradecentric/module-purchase-order@3.0.12
 - pkg:composer/tradecentric/module-purchase-order@3.0.13
 - pkg:composer/tradecentric/module-purchase-order@3.0.14
+- pkg:composer/tradecentric/module-purchase-order@3.0.16
+- pkg:composer/tradecentric/module-purchase-order@3.0.17
 - pkg:composer/tradecentric/module-purchase-order@3.0.2
 - pkg:composer/tradecentric/module-purchase-order@3.0.3
 - pkg:composer/tradecentric/module-purchase-order@3.0.4
