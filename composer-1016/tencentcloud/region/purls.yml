@@ -405,6 +405,7 @@
 - pkg:composer/tencentcloud/region@3.0.1642
 - pkg:composer/tencentcloud/region@3.0.1643
 - pkg:composer/tencentcloud/region@3.0.1644
+- pkg:composer/tencentcloud/region@3.0.1645
 - pkg:composer/tencentcloud/region@3.0.683
 - pkg:composer/tencentcloud/region@3.0.684
 - pkg:composer/tencentcloud/region@3.0.685
