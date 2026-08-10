@@ -22,3 +22,5 @@
 - pkg:composer/artisanpack-ui/cms-framework@2.5.4
 - pkg:composer/artisanpack-ui/cms-framework@2.6.0
 - pkg:composer/artisanpack-ui/cms-framework@2.7.0
+- pkg:composer/artisanpack-ui/cms-framework@2.7.1
+- pkg:composer/artisanpack-ui/cms-framework@2.7.2
