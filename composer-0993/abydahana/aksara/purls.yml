@@ -47,6 +47,11 @@
 - pkg:composer/abydahana/aksara@6.0.3
 - pkg:composer/abydahana/aksara@6.0.4
 - pkg:composer/abydahana/aksara@6.0.5
+- pkg:composer/abydahana/aksara@6.2.0
+- pkg:composer/abydahana/aksara@6.2.1
+- pkg:composer/abydahana/aksara@6.2.2
+- pkg:composer/abydahana/aksara@6.2.3
+- pkg:composer/abydahana/aksara@6.2.4
 - pkg:composer/abydahana/aksara@v4.2.2
 - pkg:composer/abydahana/aksara@v4.2.3
 - pkg:composer/abydahana/aksara@v4.2.4
