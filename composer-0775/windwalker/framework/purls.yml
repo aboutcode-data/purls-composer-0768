@@ -173,6 +173,7 @@
 - pkg:composer/windwalker/framework@4.1.7-beta3
 - pkg:composer/windwalker/framework@4.1.7-beta4
 - pkg:composer/windwalker/framework@4.1.7-beta5
+- pkg:composer/windwalker/framework@4.1.8
 - pkg:composer/windwalker/framework@4.1.8-beta1
 - pkg:composer/windwalker/framework@4.1.8-beta2
 - pkg:composer/windwalker/framework@4.1.8-beta3
