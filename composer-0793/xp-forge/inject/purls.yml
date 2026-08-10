@@ -29,3 +29,4 @@
 - pkg:composer/xp-forge/inject@v5.4.0
 - pkg:composer/xp-forge/inject@v5.5.0
 - pkg:composer/xp-forge/inject@v6.0.0
+- pkg:composer/xp-forge/inject@v6.1.0
