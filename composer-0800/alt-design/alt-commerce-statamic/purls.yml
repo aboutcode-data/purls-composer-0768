@@ -2,3 +2,5 @@
 - pkg:composer/alt-design/alt-commerce-statamic@v0.0.2
 - pkg:composer/alt-design/alt-commerce-statamic@v0.0.3
 - pkg:composer/alt-design/alt-commerce-statamic@v0.0.4
+- pkg:composer/alt-design/alt-commerce-statamic@v0.0.5
+- pkg:composer/alt-design/alt-commerce-statamic@v0.1.0-alpha
