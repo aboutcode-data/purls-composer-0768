@@ -25,3 +25,4 @@
 - pkg:composer/valkyrja/ci-phpstan@v26.3.4
 - pkg:composer/valkyrja/ci-phpstan@v26.3.5
 - pkg:composer/valkyrja/ci-phpstan@v26.3.6
+- pkg:composer/valkyrja/ci-phpstan@v26.3.7
