@@ -10,6 +10,8 @@
 - pkg:composer/andydefer/laravel-actions@v2.10.1
 - pkg:composer/andydefer/laravel-actions@v2.10.2
 - pkg:composer/andydefer/laravel-actions@v2.10.3
+- pkg:composer/andydefer/laravel-actions@v2.10.4
+- pkg:composer/andydefer/laravel-actions@v2.10.6
 - pkg:composer/andydefer/laravel-actions@v2.2.0
 - pkg:composer/andydefer/laravel-actions@v2.3.0
 - pkg:composer/andydefer/laravel-actions@v2.4.0

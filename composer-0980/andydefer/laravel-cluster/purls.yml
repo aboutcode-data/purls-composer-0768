@@ -1,4 +1,18 @@
 - pkg:composer/andydefer/laravel-cluster@v0.1.0
+- pkg:composer/andydefer/laravel-cluster@v0.10.0
+- pkg:composer/andydefer/laravel-cluster@v0.11.0
+- pkg:composer/andydefer/laravel-cluster@v0.12.0
+- pkg:composer/andydefer/laravel-cluster@v0.13.0
+- pkg:composer/andydefer/laravel-cluster@v0.14.0
+- pkg:composer/andydefer/laravel-cluster@v0.15.0
+- pkg:composer/andydefer/laravel-cluster@v0.16.0
+- pkg:composer/andydefer/laravel-cluster@v0.17.0
+- pkg:composer/andydefer/laravel-cluster@v0.17.1
+- pkg:composer/andydefer/laravel-cluster@v0.18.0
+- pkg:composer/andydefer/laravel-cluster@v0.19.0
+- pkg:composer/andydefer/laravel-cluster@v0.19.1
+- pkg:composer/andydefer/laravel-cluster@v0.19.2
+- pkg:composer/andydefer/laravel-cluster@v0.19.3
 - pkg:composer/andydefer/laravel-cluster@v0.2.0
 - pkg:composer/andydefer/laravel-cluster@v0.3.0
 - pkg:composer/andydefer/laravel-cluster@v0.3.1
@@ -7,3 +21,6 @@
 - pkg:composer/andydefer/laravel-cluster@v0.5.0
 - pkg:composer/andydefer/laravel-cluster@v0.5.1
 - pkg:composer/andydefer/laravel-cluster@v0.6.0
+- pkg:composer/andydefer/laravel-cluster@v0.7.0
+- pkg:composer/andydefer/laravel-cluster@v0.8.0
+- pkg:composer/andydefer/laravel-cluster@v0.9.0
