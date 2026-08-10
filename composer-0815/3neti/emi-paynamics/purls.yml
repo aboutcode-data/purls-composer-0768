@@ -1,1 +1,3 @@
 - pkg:composer/3neti/emi-paynamics@v1.0.0
+- pkg:composer/3neti/emi-paynamics@v2.0.0-beta.1
+- pkg:composer/3neti/emi-paynamics@v2.0.0-beta.2
