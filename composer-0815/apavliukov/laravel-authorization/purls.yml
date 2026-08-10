@@ -8,3 +8,5 @@
 - pkg:composer/apavliukov/laravel-authorization@v0.7.0
 - pkg:composer/apavliukov/laravel-authorization@v0.7.1
 - pkg:composer/apavliukov/laravel-authorization@v0.8.0
+- pkg:composer/apavliukov/laravel-authorization@v1.0.0
+- pkg:composer/apavliukov/laravel-authorization@v1.0.1
