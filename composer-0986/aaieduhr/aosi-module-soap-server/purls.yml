@@ -1,1 +1,3 @@
 - pkg:composer/aaieduhr/aosi-module-soap-server@v5.0.0
+- pkg:composer/aaieduhr/aosi-module-soap-server@v5.0.1
+- pkg:composer/aaieduhr/aosi-module-soap-server@v5.0.2
