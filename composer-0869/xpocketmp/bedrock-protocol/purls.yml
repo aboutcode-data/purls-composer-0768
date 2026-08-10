@@ -97,6 +97,13 @@
 - pkg:composer/xpocketmp/bedrock-protocol@58.0.0%2Bbedrock-1.26.30
 - pkg:composer/xpocketmp/bedrock-protocol@58.0.1%2Bbedrock-1.26.30
 - pkg:composer/xpocketmp/bedrock-protocol@6.0.0%2Bbedrock-1.17.40
+- pkg:composer/xpocketmp/bedrock-protocol@60.0.0%2Bbedrock-1.26.40
+- pkg:composer/xpocketmp/bedrock-protocol@60.0.1%2Bbedrock-1.26.40
+- pkg:composer/xpocketmp/bedrock-protocol@60.0.2%2Bbedrock-1.26.40
+- pkg:composer/xpocketmp/bedrock-protocol@60.0.3%2Bbedrock-1.26.40
+- pkg:composer/xpocketmp/bedrock-protocol@60.0.4%2Bbedrock-1.26.40
+- pkg:composer/xpocketmp/bedrock-protocol@60.0.5%2Bbedrock-1.26.40
+- pkg:composer/xpocketmp/bedrock-protocol@60.0.6%2Bbedrock-1.26.40
 - pkg:composer/xpocketmp/bedrock-protocol@7.0.0%2Bbedrock-1.18.0
 - pkg:composer/xpocketmp/bedrock-protocol@7.1.0%2Bbedrock-1.18.0
 - pkg:composer/xpocketmp/bedrock-protocol@7.2.0%2Bbedrock-1.18.0
