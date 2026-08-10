@@ -9,6 +9,8 @@
 - pkg:composer/xvetx/module-user-management@1.0.18
 - pkg:composer/xvetx/module-user-management@1.0.19
 - pkg:composer/xvetx/module-user-management@1.0.20
+- pkg:composer/xvetx/module-user-management@1.0.24
+- pkg:composer/xvetx/module-user-management@1.0.25
 - pkg:composer/xvetx/module-user-management@1.0.4
 - pkg:composer/xvetx/module-user-management@1.0.5
 - pkg:composer/xvetx/module-user-management@1.0.6
@@ -20,4 +22,5 @@
 - pkg:composer/xvetx/module-user-management@v1.0.2
 - pkg:composer/xvetx/module-user-management@v1.0.21
 - pkg:composer/xvetx/module-user-management@v1.0.22
+- pkg:composer/xvetx/module-user-management@v1.0.23
 - pkg:composer/xvetx/module-user-management@v1.0.3
