@@ -32,6 +32,7 @@
 - pkg:composer/xp-framework/ast@v12.2.0
 - pkg:composer/xp-framework/ast@v12.2.1
 - pkg:composer/xp-framework/ast@v13.0.0
+- pkg:composer/xp-framework/ast@v13.0.1
 - pkg:composer/xp-framework/ast@v2.0.0
 - pkg:composer/xp-framework/ast@v3.0.0
 - pkg:composer/xp-framework/ast@v3.0.1
