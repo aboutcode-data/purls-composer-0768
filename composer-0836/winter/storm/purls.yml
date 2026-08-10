@@ -175,6 +175,7 @@
 - pkg:composer/winter/storm@v1.2.10
 - pkg:composer/winter/storm@v1.2.11
 - pkg:composer/winter/storm@v1.2.12
+- pkg:composer/winter/storm@v1.2.13
 - pkg:composer/winter/storm@v1.2.2
 - pkg:composer/winter/storm@v1.2.3
 - pkg:composer/winter/storm@v1.2.4
