@@ -137,3 +137,6 @@
 - pkg:composer/amplify/frontend@2.3.3
 - pkg:composer/amplify/frontend@2.3.4
 - pkg:composer/amplify/frontend@2.3.5
+- pkg:composer/amplify/frontend@2.3.6
+- pkg:composer/amplify/frontend@2.4.0
+- pkg:composer/amplify/frontend@2.4.6
