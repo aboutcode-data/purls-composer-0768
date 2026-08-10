@@ -28,3 +28,4 @@
 - pkg:composer/wp-cli/eval-command@v2.2.7
 - pkg:composer/wp-cli/eval-command@v2.2.8
 - pkg:composer/wp-cli/eval-command@v2.2.9
+- pkg:composer/wp-cli/eval-command@v3.0.0
