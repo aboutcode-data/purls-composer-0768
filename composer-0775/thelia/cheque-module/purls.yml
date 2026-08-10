@@ -54,4 +54,5 @@
 - pkg:composer/thelia/cheque-module@2.5.4
 - pkg:composer/thelia/cheque-module@2.5.5
 - pkg:composer/thelia/cheque-module@2.6.0
+- pkg:composer/thelia/cheque-module@2.6.1
 - pkg:composer/thelia/cheque-module@3.0.0

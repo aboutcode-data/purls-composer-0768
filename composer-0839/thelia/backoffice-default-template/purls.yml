@@ -55,3 +55,4 @@
 - pkg:composer/thelia/backoffice-default-template@2.5.4
 - pkg:composer/thelia/backoffice-default-template@2.5.5
 - pkg:composer/thelia/backoffice-default-template@2.6.0
+- pkg:composer/thelia/backoffice-default-template@2.6.1
