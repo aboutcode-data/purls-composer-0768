@@ -53,6 +53,12 @@
 - pkg:composer/condoedge/communications@v0.2.39
 - pkg:composer/condoedge/communications@v0.2.4
 - pkg:composer/condoedge/communications@v0.2.40
+- pkg:composer/condoedge/communications@v0.2.41
+- pkg:composer/condoedge/communications@v0.2.42
+- pkg:composer/condoedge/communications@v0.2.43
+- pkg:composer/condoedge/communications@v0.2.44
+- pkg:composer/condoedge/communications@v0.2.45
+- pkg:composer/condoedge/communications@v0.2.46
 - pkg:composer/condoedge/communications@v0.2.5
 - pkg:composer/condoedge/communications@v0.2.6
 - pkg:composer/condoedge/communications@v0.2.7

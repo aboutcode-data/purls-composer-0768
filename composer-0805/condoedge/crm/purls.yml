@@ -239,7 +239,15 @@
 - pkg:composer/condoedge/crm@v0.4.56
 - pkg:composer/condoedge/crm@v0.4.57
 - pkg:composer/condoedge/crm@v0.4.58
+- pkg:composer/condoedge/crm@v0.4.59
 - pkg:composer/condoedge/crm@v0.4.6
+- pkg:composer/condoedge/crm@v0.4.60
+- pkg:composer/condoedge/crm@v0.4.61
+- pkg:composer/condoedge/crm@v0.4.62
+- pkg:composer/condoedge/crm@v0.4.63
+- pkg:composer/condoedge/crm@v0.4.64
+- pkg:composer/condoedge/crm@v0.4.65
+- pkg:composer/condoedge/crm@v0.4.66
 - pkg:composer/condoedge/crm@v0.4.7
 - pkg:composer/condoedge/crm@v0.4.8
 - pkg:composer/condoedge/crm@v0.4.9
