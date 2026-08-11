@@ -382,3 +382,5 @@
 - pkg:composer/automattic/jetpack-connection@v8.7.9
 - pkg:composer/automattic/jetpack-connection@v8.8.0
 - pkg:composer/automattic/jetpack-connection@v8.8.1
+- pkg:composer/automattic/jetpack-connection@v8.8.2
+- pkg:composer/automattic/jetpack-connection@v8.9.0
