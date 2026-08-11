@@ -28,5 +28,7 @@
 - pkg:composer/boldsign/boldsign-php@v3.2.0
 - pkg:composer/boldsign/boldsign-php@v3.2.0-beta.2
 - pkg:composer/boldsign/boldsign-php@v3.2.0-beta.3
+- pkg:composer/boldsign/boldsign-php@v3.2.0-beta.4
 - pkg:composer/boldsign/boldsign-php@v3.3.0
 - pkg:composer/boldsign/boldsign-php@v3.3.1
+- pkg:composer/boldsign/boldsign-php@v3.3.2
