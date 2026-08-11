@@ -1,1 +1,2 @@
 - pkg:composer/componenta/http-psr-guzzle@v1.0.0
+- pkg:composer/componenta/http-psr-guzzle@v1.0.1
