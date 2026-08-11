@@ -53,6 +53,8 @@
 - pkg:composer/basic-hub/es-core@3.0.128
 - pkg:composer/basic-hub/es-core@3.0.129
 - pkg:composer/basic-hub/es-core@3.0.13
+- pkg:composer/basic-hub/es-core@3.0.130
+- pkg:composer/basic-hub/es-core@3.0.131
 - pkg:composer/basic-hub/es-core@3.0.14
 - pkg:composer/basic-hub/es-core@3.0.15
 - pkg:composer/basic-hub/es-core@3.0.16
