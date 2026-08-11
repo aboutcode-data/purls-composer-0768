@@ -24,3 +24,6 @@
 - pkg:composer/cboxdk/laravel-telemetry@v0.4.0
 - pkg:composer/cboxdk/laravel-telemetry@v0.4.1
 - pkg:composer/cboxdk/laravel-telemetry@v1.0.0
+- pkg:composer/cboxdk/laravel-telemetry@v1.1.0
+- pkg:composer/cboxdk/laravel-telemetry@v1.2.0
+- pkg:composer/cboxdk/laravel-telemetry@v1.3.0
