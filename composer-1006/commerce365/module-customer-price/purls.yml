@@ -38,3 +38,4 @@
 - pkg:composer/commerce365/module-customer-price@2.0.7
 - pkg:composer/commerce365/module-customer-price@2.0.8
 - pkg:composer/commerce365/module-customer-price@2.0.9
+- pkg:composer/commerce365/module-customer-price@2.1.0-beta
