@@ -1,3 +1,4 @@
 - pkg:composer/cachethq/badger@v1.0.0
 - pkg:composer/cachethq/badger@v2.0.0
 - pkg:composer/cachethq/badger@v3.0.0
+- pkg:composer/cachethq/badger@v5.0.0
