@@ -128,3 +128,4 @@
 - pkg:composer/cboxdk/laravel-id@v1.2.0
 - pkg:composer/cboxdk/laravel-id@v1.3.0
 - pkg:composer/cboxdk/laravel-id@v1.4.0
+- pkg:composer/cboxdk/laravel-id@v1.4.1
