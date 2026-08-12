@@ -24,3 +24,4 @@
 - pkg:composer/cycle/migrations@v4.2.4
 - pkg:composer/cycle/migrations@v4.2.5
 - pkg:composer/cycle/migrations@v4.2.6
+- pkg:composer/cycle/migrations@v4.3.0
