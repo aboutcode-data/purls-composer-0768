@@ -20,3 +20,6 @@
 - pkg:composer/crastlin/laravel-annotation_v2@v1.2.1
 - pkg:composer/crastlin/laravel-annotation_v2@v1.2.3
 - pkg:composer/crastlin/laravel-annotation_v2@v1.2.4
+- pkg:composer/crastlin/laravel-annotation_v2@v2.0.0beta
+- pkg:composer/crastlin/laravel-annotation_v2@v2.0.1beta
+- pkg:composer/crastlin/laravel-annotation_v2@v2.0.2beta
