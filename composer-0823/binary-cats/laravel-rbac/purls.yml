@@ -13,3 +13,5 @@
 - pkg:composer/binary-cats/laravel-rbac@1.8.0
 - pkg:composer/binary-cats/laravel-rbac@2.0.0
 - pkg:composer/binary-cats/laravel-rbac@2.1.0
+- pkg:composer/binary-cats/laravel-rbac@2.2.0
+- pkg:composer/binary-cats/laravel-rbac@2.3.0
