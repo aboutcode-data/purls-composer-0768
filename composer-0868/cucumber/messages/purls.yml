@@ -48,3 +48,4 @@
 - pkg:composer/cucumber/messages@v34.0.2
 - pkg:composer/cucumber/messages@v34.1.0
 - pkg:composer/cucumber/messages@v34.2.0
+- pkg:composer/cucumber/messages@v34.2.1
