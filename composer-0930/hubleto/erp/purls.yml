@@ -31,6 +31,8 @@
 - pkg:composer/hubleto/erp@1.0.1
 - pkg:composer/hubleto/erp@1.1.0
 - pkg:composer/hubleto/erp@1.1.1
+- pkg:composer/hubleto/erp@1.1.2
+- pkg:composer/hubleto/erp@1.1.3
 - pkg:composer/hubleto/erp@v0.1.0
 - pkg:composer/hubleto/erp@v0.11
 - pkg:composer/hubleto/erp@v0.12
