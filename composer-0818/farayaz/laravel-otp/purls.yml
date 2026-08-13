@@ -1,3 +1,4 @@
 - pkg:composer/farayaz/laravel-otp@v1.0.0
 - pkg:composer/farayaz/laravel-otp@v1.0.1
 - pkg:composer/farayaz/laravel-otp@v1.0.2
+- pkg:composer/farayaz/laravel-otp@v2.0.0
