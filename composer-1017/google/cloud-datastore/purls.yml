@@ -109,3 +109,5 @@
 - pkg:composer/google/cloud-datastore@v2.0.6
 - pkg:composer/google/cloud-datastore@v2.1.0
 - pkg:composer/google/cloud-datastore@v2.2.0
+- pkg:composer/google/cloud-datastore@v2.2.1
+- pkg:composer/google/cloud-datastore@v2.3.0
