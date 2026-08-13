@@ -5,3 +5,6 @@
 - pkg:composer/gingerminds/laravel-core@4.0.1
 - pkg:composer/gingerminds/laravel-core@4.0.2
 - pkg:composer/gingerminds/laravel-core@4.1.0
+- pkg:composer/gingerminds/laravel-core@4.2.0
+- pkg:composer/gingerminds/laravel-core@4.2.1
+- pkg:composer/gingerminds/laravel-core@4.3.0
