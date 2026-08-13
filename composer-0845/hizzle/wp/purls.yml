@@ -25,6 +25,8 @@
 - pkg:composer/hizzle/wp@1.4.12
 - pkg:composer/hizzle/wp@1.4.13
 - pkg:composer/hizzle/wp@1.4.14
+- pkg:composer/hizzle/wp@1.4.15
+- pkg:composer/hizzle/wp@1.4.16
 - pkg:composer/hizzle/wp@1.4.2
 - pkg:composer/hizzle/wp@1.4.3
 - pkg:composer/hizzle/wp@1.4.4
