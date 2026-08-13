@@ -10,3 +10,7 @@
 - pkg:composer/diglabby/laravel-find-missing-translations@1.5.2
 - pkg:composer/diglabby/laravel-find-missing-translations@1.6.0
 - pkg:composer/diglabby/laravel-find-missing-translations@1.7.0
+- pkg:composer/diglabby/laravel-find-missing-translations@1.7.1
+- pkg:composer/diglabby/laravel-find-missing-translations@1.7.2
+- pkg:composer/diglabby/laravel-find-missing-translations@1.8.0
+- pkg:composer/diglabby/laravel-find-missing-translations@1.8.1
