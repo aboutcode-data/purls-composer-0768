@@ -27,3 +27,4 @@
 - pkg:composer/danielebarbaro/laravel-vat-eu-validator@v2.0.8
 - pkg:composer/danielebarbaro/laravel-vat-eu-validator@v3.0.0
 - pkg:composer/danielebarbaro/laravel-vat-eu-validator@v3.1.0
+- pkg:composer/danielebarbaro/laravel-vat-eu-validator@v3.2.0
