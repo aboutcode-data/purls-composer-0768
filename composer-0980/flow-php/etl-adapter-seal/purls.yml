@@ -1,3 +1,4 @@
 - pkg:composer/flow-php/etl-adapter-seal@0.41.0
 - pkg:composer/flow-php/etl-adapter-seal@0.41.1
 - pkg:composer/flow-php/etl-adapter-seal@0.42.0
+- pkg:composer/flow-php/etl-adapter-seal@0.43.0

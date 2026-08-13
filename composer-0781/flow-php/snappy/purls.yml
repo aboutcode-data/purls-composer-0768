@@ -42,6 +42,7 @@
 - pkg:composer/flow-php/snappy@0.41.0
 - pkg:composer/flow-php/snappy@0.41.1
 - pkg:composer/flow-php/snappy@0.42.0
+- pkg:composer/flow-php/snappy@0.43.0
 - pkg:composer/flow-php/snappy@0.5.0
 - pkg:composer/flow-php/snappy@0.5.1
 - pkg:composer/flow-php/snappy@0.5.2
