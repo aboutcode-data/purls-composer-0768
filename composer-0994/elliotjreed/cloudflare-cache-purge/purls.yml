@@ -9,3 +9,4 @@
 - pkg:composer/elliotjreed/cloudflare-cache-purge@3.0.0
 - pkg:composer/elliotjreed/cloudflare-cache-purge@4.0.0
 - pkg:composer/elliotjreed/cloudflare-cache-purge@5.0.0
+- pkg:composer/elliotjreed/cloudflare-cache-purge@5.1.0
