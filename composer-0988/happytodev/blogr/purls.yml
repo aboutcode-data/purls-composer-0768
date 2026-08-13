@@ -138,6 +138,11 @@
 - pkg:composer/happytodev/blogr@2.0.1
 - pkg:composer/happytodev/blogr@2.0.2
 - pkg:composer/happytodev/blogr@2.1.0
+- pkg:composer/happytodev/blogr@2.2.0
+- pkg:composer/happytodev/blogr@2.2.1
+- pkg:composer/happytodev/blogr@2.2.2
+- pkg:composer/happytodev/blogr@2.2.3
+- pkg:composer/happytodev/blogr@2.2.4
 - pkg:composer/happytodev/blogr@v0.1.0
 - pkg:composer/happytodev/blogr@v0.1.1
 - pkg:composer/happytodev/blogr@v0.1.2
