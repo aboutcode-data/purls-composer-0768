@@ -5,3 +5,4 @@
 - pkg:composer/hafael/laravel-mesh-auth@v0.0.5
 - pkg:composer/hafael/laravel-mesh-auth@v0.0.6
 - pkg:composer/hafael/laravel-mesh-auth@v0.0.7
+- pkg:composer/hafael/laravel-mesh-auth@v0.0.8
