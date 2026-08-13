@@ -33,6 +33,7 @@
 - pkg:composer/durable-workflow/sdk@2.0.0-rc.13
 - pkg:composer/durable-workflow/sdk@2.0.0-rc.14
 - pkg:composer/durable-workflow/sdk@2.0.0-rc.3
+- pkg:composer/durable-workflow/sdk@2.0.0-rc.30
 - pkg:composer/durable-workflow/sdk@2.0.0-rc.4
 - pkg:composer/durable-workflow/sdk@2.0.0-rc.5
 - pkg:composer/durable-workflow/sdk@2.0.0-rc.6
