@@ -21,3 +21,4 @@
 - pkg:composer/gacela-project/resolver@1.5.0
 - pkg:composer/gacela-project/resolver@2.0.0
 - pkg:composer/gacela-project/resolver@2.0.1
+- pkg:composer/gacela-project/resolver@2.0.2
