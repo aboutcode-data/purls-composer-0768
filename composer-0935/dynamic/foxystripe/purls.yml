@@ -17,3 +17,4 @@
 - pkg:composer/dynamic/foxystripe@4.0.0-alpha4
 - pkg:composer/dynamic/foxystripe@4.0.0-alpha5
 - pkg:composer/dynamic/foxystripe@5.0.0
+- pkg:composer/dynamic/foxystripe@5.0.1
