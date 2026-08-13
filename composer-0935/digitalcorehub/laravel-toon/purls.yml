@@ -4,3 +4,5 @@
 - pkg:composer/digitalcorehub/laravel-toon@0.5
 - pkg:composer/digitalcorehub/laravel-toon@0.6
 - pkg:composer/digitalcorehub/laravel-toon@v0.1
+- pkg:composer/digitalcorehub/laravel-toon@v1.0
+- pkg:composer/digitalcorehub/laravel-toon@v1.1
