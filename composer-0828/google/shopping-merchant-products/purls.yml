@@ -18,3 +18,5 @@
 - pkg:composer/google/shopping-merchant-products@v1.5.0
 - pkg:composer/google/shopping-merchant-products@v1.6.0
 - pkg:composer/google/shopping-merchant-products@v1.7.0
+- pkg:composer/google/shopping-merchant-products@v1.7.1
+- pkg:composer/google/shopping-merchant-products@v1.7.2
