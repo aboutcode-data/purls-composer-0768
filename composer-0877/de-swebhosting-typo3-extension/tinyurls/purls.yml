@@ -13,5 +13,7 @@
 - pkg:composer/de-swebhosting-typo3-extension/tinyurls@v13.2.0
 - pkg:composer/de-swebhosting-typo3-extension/tinyurls@v13.4.0
 - pkg:composer/de-swebhosting-typo3-extension/tinyurls@v13.4.1
+- pkg:composer/de-swebhosting-typo3-extension/tinyurls@v14.0.0
+- pkg:composer/de-swebhosting-typo3-extension/tinyurls@v14.0.1
 - pkg:composer/de-swebhosting-typo3-extension/tinyurls@v2.0.0
 - pkg:composer/de-swebhosting-typo3-extension/tinyurls@v2.0.1

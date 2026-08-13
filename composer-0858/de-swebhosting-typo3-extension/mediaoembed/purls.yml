@@ -7,7 +7,9 @@
 - pkg:composer/de-swebhosting-typo3-extension/mediaoembed@v11.0.0
 - pkg:composer/de-swebhosting-typo3-extension/mediaoembed@v11.0.1
 - pkg:composer/de-swebhosting-typo3-extension/mediaoembed@v12.0.0
+- pkg:composer/de-swebhosting-typo3-extension/mediaoembed@v12.1.0
 - pkg:composer/de-swebhosting-typo3-extension/mediaoembed@v13.4.0
 - pkg:composer/de-swebhosting-typo3-extension/mediaoembed@v13.4.1
+- pkg:composer/de-swebhosting-typo3-extension/mediaoembed@v14.0.0
 - pkg:composer/de-swebhosting-typo3-extension/mediaoembed@v2.0.0
 - pkg:composer/de-swebhosting-typo3-extension/mediaoembed@v3.0.0
