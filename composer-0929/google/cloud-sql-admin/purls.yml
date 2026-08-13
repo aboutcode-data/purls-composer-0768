@@ -43,6 +43,7 @@
 - pkg:composer/google/cloud-sql-admin@v1.1.0
 - pkg:composer/google/cloud-sql-admin@v1.10.0
 - pkg:composer/google/cloud-sql-admin@v1.11.0
+- pkg:composer/google/cloud-sql-admin@v1.11.1
 - pkg:composer/google/cloud-sql-admin@v1.2.0
 - pkg:composer/google/cloud-sql-admin@v1.2.1
 - pkg:composer/google/cloud-sql-admin@v1.2.2
