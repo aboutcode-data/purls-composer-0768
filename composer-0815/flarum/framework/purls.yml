@@ -50,6 +50,7 @@
 - pkg:composer/flarum/framework@v1.8.16
 - pkg:composer/flarum/framework@v1.8.17
 - pkg:composer/flarum/framework@v1.8.18
+- pkg:composer/flarum/framework@v1.8.19
 - pkg:composer/flarum/framework@v1.8.2
 - pkg:composer/flarum/framework@v1.8.3
 - pkg:composer/flarum/framework@v1.8.5
