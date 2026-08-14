@@ -17,3 +17,4 @@
 - pkg:composer/fwolfsjaeger/doctrine-cockroachdb-bundle@0.9.6
 - pkg:composer/fwolfsjaeger/doctrine-cockroachdb-bundle@0.9.7
 - pkg:composer/fwolfsjaeger/doctrine-cockroachdb-bundle@0.9.8
+- pkg:composer/fwolfsjaeger/doctrine-cockroachdb-bundle@0.9.9
