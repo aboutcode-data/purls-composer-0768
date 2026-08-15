@@ -3,3 +3,4 @@
 - pkg:composer/kipchak/driver-openai@2.1
 - pkg:composer/kipchak/driver-openai@2.2
 - pkg:composer/kipchak/driver-openai@2.3
+- pkg:composer/kipchak/driver-openai@2.4
