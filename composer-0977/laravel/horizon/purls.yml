@@ -181,6 +181,7 @@
 - pkg:composer/laravel/horizon@v5.48.0
 - pkg:composer/laravel/horizon@v5.48.1
 - pkg:composer/laravel/horizon@v5.48.2
+- pkg:composer/laravel/horizon@v5.48.3
 - pkg:composer/laravel/horizon@v5.5.0
 - pkg:composer/laravel/horizon@v5.6.0
 - pkg:composer/laravel/horizon@v5.6.1
