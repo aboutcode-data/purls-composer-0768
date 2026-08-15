@@ -17,3 +17,4 @@
 - pkg:composer/ideacrafters/eloquent-payable@v2.1.9
 - pkg:composer/ideacrafters/eloquent-payable@v2.2.0
 - pkg:composer/ideacrafters/eloquent-payable@v2.3.0
+- pkg:composer/ideacrafters/eloquent-payable@v2.3.1
