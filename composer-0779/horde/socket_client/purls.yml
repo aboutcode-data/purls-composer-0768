@@ -14,3 +14,4 @@
 - pkg:composer/horde/socket_client@v3.0.0alpha3
 - pkg:composer/horde/socket_client@v3.0.0alpha4
 - pkg:composer/horde/socket_client@v3.0.0beta1
+- pkg:composer/horde/socket_client@v3.1.0
