@@ -1,1 +1,2 @@
 - pkg:composer/ilbronza/mailer@1.0
+- pkg:composer/ilbronza/mailer@v2.5.1
