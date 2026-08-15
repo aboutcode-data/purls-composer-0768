@@ -4,3 +4,6 @@
 - pkg:composer/laravolt/laravel-starter-kit@v1.1.0
 - pkg:composer/laravolt/laravel-starter-kit@v1.2.0
 - pkg:composer/laravolt/laravel-starter-kit@v1.3.0.beta1
+- pkg:composer/laravolt/laravel-starter-kit@v1.7.0
+- pkg:composer/laravolt/laravel-starter-kit@v1.7.1
+- pkg:composer/laravolt/laravel-starter-kit@v1.7.2
