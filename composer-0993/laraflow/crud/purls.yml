@@ -10,3 +10,4 @@
 - pkg:composer/laraflow/crud@0.9.1
 - pkg:composer/laraflow/crud@0.9.2
 - pkg:composer/laraflow/crud@0.9.3
+- pkg:composer/laraflow/crud@0.9.4
