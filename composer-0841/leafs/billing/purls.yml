@@ -1,3 +1,4 @@
 - pkg:composer/leafs/billing@v0.1.0
 - pkg:composer/leafs/billing@v0.2.0
 - pkg:composer/leafs/billing@v0.3.0
+- pkg:composer/leafs/billing@v5.0

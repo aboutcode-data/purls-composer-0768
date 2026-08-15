@@ -54,3 +54,4 @@
 - pkg:composer/leafs/exception@v3.6.2
 - pkg:composer/leafs/exception@v3.6.3
 - pkg:composer/leafs/exception@v3.7
+- pkg:composer/leafs/exception@v5.0

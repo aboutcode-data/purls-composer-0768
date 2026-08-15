@@ -52,3 +52,7 @@
 - pkg:composer/leafs/cli@v4.5.1
 - pkg:composer/leafs/cli@v4.5.2
 - pkg:composer/leafs/cli@v4.6.0
+- pkg:composer/leafs/cli@v5.0
+- pkg:composer/leafs/cli@v5.0.1
+- pkg:composer/leafs/cli@v5.0.2
+- pkg:composer/leafs/cli@v5.0.3

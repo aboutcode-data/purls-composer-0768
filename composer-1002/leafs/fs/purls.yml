@@ -8,3 +8,4 @@
 - pkg:composer/leafs/fs@v4.1
 - pkg:composer/leafs/fs@v4.1.1
 - pkg:composer/leafs/fs@v4.2
+- pkg:composer/leafs/fs@v5.0
