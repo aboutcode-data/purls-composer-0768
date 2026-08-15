@@ -14,6 +14,9 @@
 - pkg:composer/lagdo/dbadmin-driver-mysql@v0.20.0
 - pkg:composer/lagdo/dbadmin-driver-mysql@v0.21.0
 - pkg:composer/lagdo/dbadmin-driver-mysql@v0.22.0
+- pkg:composer/lagdo/dbadmin-driver-mysql@v0.23.0
+- pkg:composer/lagdo/dbadmin-driver-mysql@v0.23.1
+- pkg:composer/lagdo/dbadmin-driver-mysql@v0.23.2
 - pkg:composer/lagdo/dbadmin-driver-mysql@v0.3.0
 - pkg:composer/lagdo/dbadmin-driver-mysql@v0.3.1
 - pkg:composer/lagdo/dbadmin-driver-mysql@v0.4.0
