@@ -1,5 +1,6 @@
 - pkg:composer/jguapin/approval-mapping@v1.0.0
 - pkg:composer/jguapin/approval-mapping@v1.10
+- pkg:composer/jguapin/approval-mapping@v1.11
 - pkg:composer/jguapin/approval-mapping@v1.2
 - pkg:composer/jguapin/approval-mapping@v1.3.0
 - pkg:composer/jguapin/approval-mapping@v1.4.0
