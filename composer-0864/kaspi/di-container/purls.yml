@@ -95,3 +95,4 @@
 - pkg:composer/kaspi/di-container@v4.4.0
 - pkg:composer/kaspi/di-container@v4.4.1
 - pkg:composer/kaspi/di-container@v4.5.0
+- pkg:composer/kaspi/di-container@v4.6.0
