@@ -2,6 +2,7 @@
 - pkg:composer/gemina/sdk@v0.1.1
 - pkg:composer/gemina/sdk@v0.1.2
 - pkg:composer/gemina/sdk@v0.10.0
+- pkg:composer/gemina/sdk@v0.11.0
 - pkg:composer/gemina/sdk@v0.2.0
 - pkg:composer/gemina/sdk@v0.2.1
 - pkg:composer/gemina/sdk@v0.3.0
