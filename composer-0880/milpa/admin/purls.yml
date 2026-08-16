@@ -10,6 +10,12 @@
 - pkg:composer/milpa/admin@v0.4.1
 - pkg:composer/milpa/admin@v0.4.10
 - pkg:composer/milpa/admin@v0.4.11
+- pkg:composer/milpa/admin@v0.4.12
+- pkg:composer/milpa/admin@v0.4.13
+- pkg:composer/milpa/admin@v0.4.14
+- pkg:composer/milpa/admin@v0.4.15
+- pkg:composer/milpa/admin@v0.4.16
+- pkg:composer/milpa/admin@v0.4.17
 - pkg:composer/milpa/admin@v0.4.2
 - pkg:composer/milpa/admin@v0.4.3
 - pkg:composer/milpa/admin@v0.4.4
@@ -18,3 +24,6 @@
 - pkg:composer/milpa/admin@v0.4.7
 - pkg:composer/milpa/admin@v0.4.8
 - pkg:composer/milpa/admin@v0.4.9
+- pkg:composer/milpa/admin@v0.5.0
+- pkg:composer/milpa/admin@v0.5.1
+- pkg:composer/milpa/admin@v0.5.2
