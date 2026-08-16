@@ -16,6 +16,7 @@
 - pkg:composer/onebot/libonebot@0.6.0
 - pkg:composer/onebot/libonebot@0.6.1
 - pkg:composer/onebot/libonebot@0.6.10
+- pkg:composer/onebot/libonebot@0.6.11
 - pkg:composer/onebot/libonebot@0.6.2
 - pkg:composer/onebot/libonebot@0.6.3
 - pkg:composer/onebot/libonebot@0.6.4
