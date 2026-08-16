@@ -1,5 +1,6 @@
 - pkg:composer/murdej/php-libs@v1.0
 - pkg:composer/murdej/php-libs@v1.1
+- pkg:composer/murdej/php-libs@v1.10.0
 - pkg:composer/murdej/php-libs@v1.2.0
 - pkg:composer/murdej/php-libs@v1.3.0
 - pkg:composer/murdej/php-libs@v1.4.0
