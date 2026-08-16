@@ -4,3 +4,5 @@
 - pkg:composer/lordsimal/cakephp-scheduler@1.1.0
 - pkg:composer/lordsimal/cakephp-scheduler@1.1.1
 - pkg:composer/lordsimal/cakephp-scheduler@1.2.0
+- pkg:composer/lordsimal/cakephp-scheduler@1.3.0
+- pkg:composer/lordsimal/cakephp-scheduler@2.0.0
