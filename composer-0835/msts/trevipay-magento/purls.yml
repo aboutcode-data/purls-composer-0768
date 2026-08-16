@@ -53,3 +53,5 @@
 - pkg:composer/msts/trevipay-magento@v1.1.26-beta
 - pkg:composer/msts/trevipay-magento@v1.1.27-beta
 - pkg:composer/msts/trevipay-magento@v1.1.28-beta
+- pkg:composer/msts/trevipay-magento@v1.1.29-beta
+- pkg:composer/msts/trevipay-magento@v1.1.30-beta
