@@ -74,3 +74,5 @@
 - pkg:composer/miropen/mir-php@v0.69.0
 - pkg:composer/miropen/mir-php@v0.70.0
 - pkg:composer/miropen/mir-php@v0.70.1
+- pkg:composer/miropen/mir-php@v0.71.0
+- pkg:composer/miropen/mir-php@v0.72.0
