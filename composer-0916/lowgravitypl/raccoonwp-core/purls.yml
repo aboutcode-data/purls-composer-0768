@@ -37,3 +37,5 @@
 - pkg:composer/lowgravitypl/raccoonwp-core@2.7.0
 - pkg:composer/lowgravitypl/raccoonwp-core@2.8.0
 - pkg:composer/lowgravitypl/raccoonwp-core@2.8.1
+- pkg:composer/lowgravitypl/raccoonwp-core@2.8.2
+- pkg:composer/lowgravitypl/raccoonwp-core@2.9.0
