@@ -44,6 +44,8 @@
 - pkg:composer/michael4d45/context-logging@v6.10.0
 - pkg:composer/michael4d45/context-logging@v6.11.0
 - pkg:composer/michael4d45/context-logging@v6.12.0
+- pkg:composer/michael4d45/context-logging@v6.13.0
+- pkg:composer/michael4d45/context-logging@v6.14.0
 - pkg:composer/michael4d45/context-logging@v6.2.0
 - pkg:composer/michael4d45/context-logging@v6.3.0
 - pkg:composer/michael4d45/context-logging@v6.3.1
