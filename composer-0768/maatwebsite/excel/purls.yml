@@ -111,8 +111,10 @@
 - pkg:composer/maatwebsite/excel@3.1.68
 - pkg:composer/maatwebsite/excel@3.1.69
 - pkg:composer/maatwebsite/excel@3.1.7
+- pkg:composer/maatwebsite/excel@3.1.70
 - pkg:composer/maatwebsite/excel@3.1.8
 - pkg:composer/maatwebsite/excel@3.1.9
+- pkg:composer/maatwebsite/excel@4.0.0
 - pkg:composer/maatwebsite/excel@v0.1.0
 - pkg:composer/maatwebsite/excel@v0.1.1
 - pkg:composer/maatwebsite/excel@v0.1.2
