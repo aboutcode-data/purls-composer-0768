@@ -16,3 +16,6 @@
 - pkg:composer/oleksandrro/telegram-handler@3.0.7
 - pkg:composer/oleksandrro/telegram-handler@3.0.8
 - pkg:composer/oleksandrro/telegram-handler@v1.0.0
+- pkg:composer/oleksandrro/telegram-handler@v2.3.0
+- pkg:composer/oleksandrro/telegram-handler@v3.1.0
+- pkg:composer/oleksandrro/telegram-handler@v3.1.1
