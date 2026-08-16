@@ -1,1 +1,2 @@
 - pkg:composer/microsoft/pdo_sqlsrv@v5.13.2
+- pkg:composer/microsoft/pdo_sqlsrv@v5.13.3
