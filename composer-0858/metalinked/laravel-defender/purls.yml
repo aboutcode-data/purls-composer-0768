@@ -16,3 +16,4 @@
 - pkg:composer/metalinked/laravel-defender@v1.19.0
 - pkg:composer/metalinked/laravel-defender@v1.19.1
 - pkg:composer/metalinked/laravel-defender@v2.0.0
+- pkg:composer/metalinked/laravel-defender@v2.0.1
