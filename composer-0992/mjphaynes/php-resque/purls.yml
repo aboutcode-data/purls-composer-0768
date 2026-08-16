@@ -13,7 +13,14 @@
 - pkg:composer/mjphaynes/php-resque@2.1.1
 - pkg:composer/mjphaynes/php-resque@2.1.2
 - pkg:composer/mjphaynes/php-resque@2.2.0
+- pkg:composer/mjphaynes/php-resque@2.2.1
 - pkg:composer/mjphaynes/php-resque@3.0.0
 - pkg:composer/mjphaynes/php-resque@3.1.0
 - pkg:composer/mjphaynes/php-resque@3.1.1
+- pkg:composer/mjphaynes/php-resque@3.1.2
+- pkg:composer/mjphaynes/php-resque@4.0.0
+- pkg:composer/mjphaynes/php-resque@4.0.1
+- pkg:composer/mjphaynes/php-resque@4.0.2
+- pkg:composer/mjphaynes/php-resque@4.0.3
+- pkg:composer/mjphaynes/php-resque@4.0.4
 - pkg:composer/mjphaynes/php-resque@v1.2.4
