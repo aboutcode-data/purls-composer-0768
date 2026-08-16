@@ -16,3 +16,4 @@
 - pkg:composer/lattice-php/action@0.53.0
 - pkg:composer/lattice-php/action@0.53.1
 - pkg:composer/lattice-php/action@0.54.0
+- pkg:composer/lattice-php/action@0.55.0
