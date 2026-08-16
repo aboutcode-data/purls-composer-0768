@@ -33,3 +33,5 @@
 - pkg:composer/lexxsoft/odata@1.2.0
 - pkg:composer/lexxsoft/odata@1.2.1
 - pkg:composer/lexxsoft/odata@1.3.0
+- pkg:composer/lexxsoft/odata@2.0.0
+- pkg:composer/lexxsoft/odata@2.0.1
