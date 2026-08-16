@@ -23,3 +23,5 @@
 - pkg:composer/nativephp/mobile@4.0.0
 - pkg:composer/nativephp/mobile@4.0.0-rc.1
 - pkg:composer/nativephp/mobile@4.0.1
+- pkg:composer/nativephp/mobile@4.1.0
+- pkg:composer/nativephp/mobile@4.2.0
