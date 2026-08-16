@@ -16,3 +16,4 @@
 - pkg:composer/lenderspender/laravel-state-transition-workflow@4.0.0
 - pkg:composer/lenderspender/laravel-state-transition-workflow@4.1.0
 - pkg:composer/lenderspender/laravel-state-transition-workflow@4.2.0
+- pkg:composer/lenderspender/laravel-state-transition-workflow@5.0.0
