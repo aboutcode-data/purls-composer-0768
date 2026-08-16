@@ -8,3 +8,6 @@
 - pkg:composer/nyoncode/laravel-package-toolkit@2.1.0
 - pkg:composer/nyoncode/laravel-package-toolkit@2.1.1
 - pkg:composer/nyoncode/laravel-package-toolkit@2.2.0
+- pkg:composer/nyoncode/laravel-package-toolkit@2.4.0
+- pkg:composer/nyoncode/laravel-package-toolkit@2.4.1
+- pkg:composer/nyoncode/laravel-package-toolkit@2.4.2
