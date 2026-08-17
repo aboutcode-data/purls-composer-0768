@@ -50,6 +50,10 @@
 - pkg:composer/kode/process@5.2.30
 - pkg:composer/kode/process@5.2.31
 - pkg:composer/kode/process@5.2.32
+- pkg:composer/kode/process@5.2.33
+- pkg:composer/kode/process@5.2.34
+- pkg:composer/kode/process@5.2.35
+- pkg:composer/kode/process@5.2.36
 - pkg:composer/kode/process@5.2.4
 - pkg:composer/kode/process@5.2.5
 - pkg:composer/kode/process@5.2.6
