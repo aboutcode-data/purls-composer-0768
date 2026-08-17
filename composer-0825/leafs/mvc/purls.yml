@@ -33,3 +33,5 @@
 - pkg:composer/leafs/mvc@v4.2
 - pkg:composer/leafs/mvc@v4.3
 - pkg:composer/leafs/mvc@v5.0
+- pkg:composer/leafs/mvc@v5.0.1
+- pkg:composer/leafs/mvc@v5.0.2
