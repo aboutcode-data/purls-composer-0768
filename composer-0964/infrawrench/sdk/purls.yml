@@ -58,6 +58,7 @@
 - pkg:composer/infrawrench/sdk@v1.24.0
 - pkg:composer/infrawrench/sdk@v1.25.0
 - pkg:composer/infrawrench/sdk@v1.26.0
+- pkg:composer/infrawrench/sdk@v1.27.0
 - pkg:composer/infrawrench/sdk@v1.3.0
 - pkg:composer/infrawrench/sdk@v1.4.0
 - pkg:composer/infrawrench/sdk@v1.6.0
