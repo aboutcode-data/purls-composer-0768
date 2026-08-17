@@ -1,5 +1,7 @@
 - pkg:composer/kinetis/persistence@v1.0.0
 - pkg:composer/kinetis/persistence@v1.1.0
+- pkg:composer/kinetis/persistence@v1.10.0
+- pkg:composer/kinetis/persistence@v1.10.1
 - pkg:composer/kinetis/persistence@v1.2.0
 - pkg:composer/kinetis/persistence@v1.2.1
 - pkg:composer/kinetis/persistence@v1.3.0
@@ -15,3 +17,4 @@
 - pkg:composer/kinetis/persistence@v1.7.1
 - pkg:composer/kinetis/persistence@v1.7.2
 - pkg:composer/kinetis/persistence@v1.8.0
+- pkg:composer/kinetis/persistence@v1.9.0
