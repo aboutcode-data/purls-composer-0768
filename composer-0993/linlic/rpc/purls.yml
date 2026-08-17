@@ -1003,6 +1003,8 @@
 - pkg:composer/linlic/rpc@v9.3.363
 - pkg:composer/linlic/rpc@v9.3.364
 - pkg:composer/linlic/rpc@v9.3.365
+- pkg:composer/linlic/rpc@v9.3.366
+- pkg:composer/linlic/rpc@v9.3.367
 - pkg:composer/linlic/rpc@v9.3.37
 - pkg:composer/linlic/rpc@v9.3.38
 - pkg:composer/linlic/rpc@v9.3.39
