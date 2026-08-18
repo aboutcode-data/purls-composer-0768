@@ -246,3 +246,5 @@
 - pkg:composer/pestphp/pest@v5.0.2
 - pkg:composer/pestphp/pest@v5.0.3
 - pkg:composer/pestphp/pest@v5.0.4
+- pkg:composer/pestphp/pest@v5.1.0
+- pkg:composer/pestphp/pest@v5.1.1
