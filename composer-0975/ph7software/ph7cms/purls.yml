@@ -122,3 +122,5 @@
 - pkg:composer/ph7software/ph7cms@v18.4.1
 - pkg:composer/ph7software/ph7cms@v18.5.0
 - pkg:composer/ph7software/ph7cms@v18.5.1
+- pkg:composer/ph7software/ph7cms@v18.6.0
+- pkg:composer/ph7software/ph7cms@v18.6.1
