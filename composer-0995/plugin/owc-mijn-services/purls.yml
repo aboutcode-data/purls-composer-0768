@@ -26,3 +26,6 @@
 - pkg:composer/plugin/owc-mijn-services@v0.12.2
 - pkg:composer/plugin/owc-mijn-services@v0.12.3
 - pkg:composer/plugin/owc-mijn-services@v0.13.0
+- pkg:composer/plugin/owc-mijn-services@v0.13.1
+- pkg:composer/plugin/owc-mijn-services@v0.13.2
+- pkg:composer/plugin/owc-mijn-services@v0.13.3
