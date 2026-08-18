@@ -17,3 +17,4 @@
 - pkg:composer/pdf-block/laravel@v3.1.0
 - pkg:composer/pdf-block/laravel@v3.2.0
 - pkg:composer/pdf-block/laravel@v3.3.0
+- pkg:composer/pdf-block/laravel@v3.3.1
