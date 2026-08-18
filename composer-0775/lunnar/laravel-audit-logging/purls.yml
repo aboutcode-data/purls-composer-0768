@@ -1,3 +1,4 @@
+- pkg:composer/lunnar/laravel-audit-logging@1.7.1
 - pkg:composer/lunnar/laravel-audit-logging@v1.0.9
 - pkg:composer/lunnar/laravel-audit-logging@v1.1.0
 - pkg:composer/lunnar/laravel-audit-logging@v1.2.5
