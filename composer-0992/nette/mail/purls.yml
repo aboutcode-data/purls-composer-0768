@@ -40,3 +40,4 @@
 - pkg:composer/nette/mail@v4.1.1
 - pkg:composer/nette/mail@v4.1.2
 - pkg:composer/nette/mail@v4.2.0
+- pkg:composer/nette/mail@v4.2.1
