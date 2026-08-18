@@ -57,6 +57,7 @@
 - pkg:composer/oceancodex/wpsp@12.1.51
 - pkg:composer/oceancodex/wpsp@12.1.52
 - pkg:composer/oceancodex/wpsp@12.1.53
+- pkg:composer/oceancodex/wpsp@12.1.54
 - pkg:composer/oceancodex/wpsp@12.1.6
 - pkg:composer/oceancodex/wpsp@12.1.7
 - pkg:composer/oceancodex/wpsp@12.1.8
@@ -120,6 +121,7 @@
 - pkg:composer/oceancodex/wpsp@13.1.51
 - pkg:composer/oceancodex/wpsp@13.1.52
 - pkg:composer/oceancodex/wpsp@13.1.53
+- pkg:composer/oceancodex/wpsp@13.1.54
 - pkg:composer/oceancodex/wpsp@13.1.6
 - pkg:composer/oceancodex/wpsp@13.1.7
 - pkg:composer/oceancodex/wpsp@13.1.8
