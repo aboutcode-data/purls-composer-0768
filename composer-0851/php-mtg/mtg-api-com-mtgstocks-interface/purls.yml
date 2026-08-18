@@ -146,3 +146,6 @@
 - pkg:composer/php-mtg/mtg-api-com-mtgstocks-interface@9.1.4
 - pkg:composer/php-mtg/mtg-api-com-mtgstocks-interface@9.1.5
 - pkg:composer/php-mtg/mtg-api-com-mtgstocks-interface@9.1.6
+- pkg:composer/php-mtg/mtg-api-com-mtgstocks-interface@9.1.7
+- pkg:composer/php-mtg/mtg-api-com-mtgstocks-interface@9.1.8
+- pkg:composer/php-mtg/mtg-api-com-mtgstocks-interface@9.1.9
