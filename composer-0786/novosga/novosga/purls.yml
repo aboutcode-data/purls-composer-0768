@@ -66,3 +66,5 @@
 - pkg:composer/novosga/novosga@v2.2.7
 - pkg:composer/novosga/novosga@v2.2.8
 - pkg:composer/novosga/novosga@v2.2.9
+- pkg:composer/novosga/novosga@v2.3.0
+- pkg:composer/novosga/novosga@v2.3.1
