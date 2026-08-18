@@ -47,3 +47,5 @@
 - pkg:composer/platformcommunity/flysystem-bunnycdn@v3.3.7
 - pkg:composer/platformcommunity/flysystem-bunnycdn@v3.3.8
 - pkg:composer/platformcommunity/flysystem-bunnycdn@v3.3.9
+- pkg:composer/platformcommunity/flysystem-bunnycdn@v3.4.0
+- pkg:composer/platformcommunity/flysystem-bunnycdn@v3.4.1
