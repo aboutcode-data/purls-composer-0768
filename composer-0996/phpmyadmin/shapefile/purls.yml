@@ -20,4 +20,6 @@
 - pkg:composer/phpmyadmin/shapefile@3.0.1
 - pkg:composer/phpmyadmin/shapefile@3.0.2
 - pkg:composer/phpmyadmin/shapefile@3.1.0
+- pkg:composer/phpmyadmin/shapefile@3.1.1
 - pkg:composer/phpmyadmin/shapefile@4.0.0
+- pkg:composer/phpmyadmin/shapefile@4.0.1
