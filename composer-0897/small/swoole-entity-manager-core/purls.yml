@@ -30,3 +30,4 @@
 - pkg:composer/small/swoole-entity-manager-core@2.6.0
 - pkg:composer/small/swoole-entity-manager-core@2.6.1
 - pkg:composer/small/swoole-entity-manager-core@2.7.0
+- pkg:composer/small/swoole-entity-manager-core@3.0.0
