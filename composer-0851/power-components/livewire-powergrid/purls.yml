@@ -288,6 +288,7 @@
 - pkg:composer/power-components/livewire-powergrid@v6.10.5
 - pkg:composer/power-components/livewire-powergrid@v6.10.6
 - pkg:composer/power-components/livewire-powergrid@v6.10.7
+- pkg:composer/power-components/livewire-powergrid@v6.11.0
 - pkg:composer/power-components/livewire-powergrid@v6.2.0
 - pkg:composer/power-components/livewire-powergrid@v6.2.1
 - pkg:composer/power-components/livewire-powergrid@v6.2.2
@@ -325,3 +326,6 @@
 - pkg:composer/power-components/livewire-powergrid@v6.9.0
 - pkg:composer/power-components/livewire-powergrid@v6.9.1
 - pkg:composer/power-components/livewire-powergrid@v6.9.2
+- pkg:composer/power-components/livewire-powergrid@v7.0.0-beta.1
+- pkg:composer/power-components/livewire-powergrid@v7.0.0-beta.2
+- pkg:composer/power-components/livewire-powergrid@v7.0.0-beta.3
