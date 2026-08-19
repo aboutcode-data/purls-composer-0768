@@ -1,3 +1,4 @@
 - pkg:composer/simplesamlphp/xml-ws-trust@v1.0.0
 - pkg:composer/simplesamlphp/xml-ws-trust@v1.0.1
 - pkg:composer/simplesamlphp/xml-ws-trust@v1.1.0
+- pkg:composer/simplesamlphp/xml-ws-trust@v2.0.0
