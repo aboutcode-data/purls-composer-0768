@@ -1,4 +1,5 @@
 - pkg:composer/prestashop/productcomments@4.2.1
+- pkg:composer/prestashop/productcomments@8.0.1
 - pkg:composer/prestashop/productcomments@v3.6.0
 - pkg:composer/prestashop/productcomments@v3.6.1
 - pkg:composer/prestashop/productcomments@v4.0.0
