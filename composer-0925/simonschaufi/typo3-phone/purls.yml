@@ -13,3 +13,5 @@
 - pkg:composer/simonschaufi/typo3-phone@v3.1.0
 - pkg:composer/simonschaufi/typo3-phone@v3.1.1
 - pkg:composer/simonschaufi/typo3-phone@v4.0.0
+- pkg:composer/simonschaufi/typo3-phone@v4.1.0
+- pkg:composer/simonschaufi/typo3-phone@v5.0.0
