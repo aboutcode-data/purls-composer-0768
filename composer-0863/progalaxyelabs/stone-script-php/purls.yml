@@ -55,6 +55,13 @@
 - pkg:composer/progalaxyelabs/stone-script-php@7.5.0
 - pkg:composer/progalaxyelabs/stone-script-php@7.6.0
 - pkg:composer/progalaxyelabs/stone-script-php@7.6.1
+- pkg:composer/progalaxyelabs/stone-script-php@8.0.0
+- pkg:composer/progalaxyelabs/stone-script-php@9.0.0
+- pkg:composer/progalaxyelabs/stone-script-php@9.1.0
+- pkg:composer/progalaxyelabs/stone-script-php@9.2.0
+- pkg:composer/progalaxyelabs/stone-script-php@9.3.0
+- pkg:composer/progalaxyelabs/stone-script-php@9.4.0
+- pkg:composer/progalaxyelabs/stone-script-php@9.5.0
 - pkg:composer/progalaxyelabs/stone-script-php@v1.0.0
 - pkg:composer/progalaxyelabs/stone-script-php@v1.0.1
 - pkg:composer/progalaxyelabs/stone-script-php@v1.1.0
