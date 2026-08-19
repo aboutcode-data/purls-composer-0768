@@ -40,3 +40,4 @@
 - pkg:composer/popphp/pop-pdf@5.2.7
 - pkg:composer/popphp/pop-pdf@5.2.8
 - pkg:composer/popphp/pop-pdf@5.2.9
+- pkg:composer/popphp/pop-pdf@6.0.0
