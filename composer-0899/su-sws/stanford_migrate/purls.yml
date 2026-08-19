@@ -65,3 +65,4 @@
 - pkg:composer/su-sws/stanford_migrate@9.1.0
 - pkg:composer/su-sws/stanford_migrate@9.2.0
 - pkg:composer/su-sws/stanford_migrate@9.2.1
+- pkg:composer/su-sws/stanford_migrate@9.2.2
