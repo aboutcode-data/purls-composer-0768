@@ -115,6 +115,7 @@
 - pkg:composer/spryker-sdk/sdk@0.7.25
 - pkg:composer/spryker-sdk/sdk@0.7.26
 - pkg:composer/spryker-sdk/sdk@0.7.27
+- pkg:composer/spryker-sdk/sdk@0.7.28
 - pkg:composer/spryker-sdk/sdk@0.7.3
 - pkg:composer/spryker-sdk/sdk@0.7.4
 - pkg:composer/spryker-sdk/sdk@0.7.5
