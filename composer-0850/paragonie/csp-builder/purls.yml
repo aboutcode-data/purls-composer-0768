@@ -25,3 +25,4 @@
 - pkg:composer/paragonie/csp-builder@v3.0.0
 - pkg:composer/paragonie/csp-builder@v3.0.1
 - pkg:composer/paragonie/csp-builder@v3.0.2
+- pkg:composer/paragonie/csp-builder@v3.1.0
