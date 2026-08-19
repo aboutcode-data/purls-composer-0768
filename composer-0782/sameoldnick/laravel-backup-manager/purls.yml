@@ -3,3 +3,4 @@
 - pkg:composer/sameoldnick/laravel-backup-manager@v1.1.1
 - pkg:composer/sameoldnick/laravel-backup-manager@v2.0.0
 - pkg:composer/sameoldnick/laravel-backup-manager@v2.0.1
+- pkg:composer/sameoldnick/laravel-backup-manager@v2.0.2
