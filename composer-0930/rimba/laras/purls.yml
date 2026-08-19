@@ -8,7 +8,16 @@
 - pkg:composer/rimba/laras@v1.2.11
 - pkg:composer/rimba/laras@v1.2.12
 - pkg:composer/rimba/laras@v1.2.13
+- pkg:composer/rimba/laras@v1.2.14
+- pkg:composer/rimba/laras@v1.2.16
+- pkg:composer/rimba/laras@v1.2.17
+- pkg:composer/rimba/laras@v1.2.18
+- pkg:composer/rimba/laras@v1.2.19
 - pkg:composer/rimba/laras@v1.2.2
+- pkg:composer/rimba/laras@v1.2.20
+- pkg:composer/rimba/laras@v1.2.21
+- pkg:composer/rimba/laras@v1.2.22
+- pkg:composer/rimba/laras@v1.2.23
 - pkg:composer/rimba/laras@v1.2.3
 - pkg:composer/rimba/laras@v1.2.4
 - pkg:composer/rimba/laras@v1.2.5
@@ -16,3 +25,6 @@
 - pkg:composer/rimba/laras@v1.2.7
 - pkg:composer/rimba/laras@v1.2.8
 - pkg:composer/rimba/laras@v1.2.9
+- pkg:composer/rimba/laras@v1.3.1
+- pkg:composer/rimba/laras@v1.4.1
+- pkg:composer/rimba/laras@v1.4.2
