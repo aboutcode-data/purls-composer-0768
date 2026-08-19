@@ -13,3 +13,4 @@
 - pkg:composer/pushery/polyslug-for-laravel@v0.7.0
 - pkg:composer/pushery/polyslug-for-laravel@v0.8.0
 - pkg:composer/pushery/polyslug-for-laravel@v0.8.1
+- pkg:composer/pushery/polyslug-for-laravel@v0.8.2
