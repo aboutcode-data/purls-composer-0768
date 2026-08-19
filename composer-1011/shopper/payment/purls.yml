@@ -3,6 +3,7 @@
 - pkg:composer/shopper/payment@v2.10.2
 - pkg:composer/shopper/payment@v2.11.0
 - pkg:composer/shopper/payment@v2.11.1
+- pkg:composer/shopper/payment@v2.11.2
 - pkg:composer/shopper/payment@v2.5.0
 - pkg:composer/shopper/payment@v2.5.1
 - pkg:composer/shopper/payment@v2.6.0
