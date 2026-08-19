@@ -13,3 +13,4 @@
 - pkg:composer/pyncer/database@v1.3.2
 - pkg:composer/pyncer/database@v1.4.0
 - pkg:composer/pyncer/database@v1.5.0
+- pkg:composer/pyncer/database@v1.5.1
