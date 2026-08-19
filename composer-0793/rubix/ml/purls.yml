@@ -78,3 +78,5 @@
 - pkg:composer/rubix/ml@2.5.1
 - pkg:composer/rubix/ml@2.5.2
 - pkg:composer/rubix/ml@2.5.3
+- pkg:composer/rubix/ml@2.5.4
+- pkg:composer/rubix/ml@2.5.5
