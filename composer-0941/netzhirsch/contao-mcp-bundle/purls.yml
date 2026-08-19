@@ -11,3 +11,4 @@
 - pkg:composer/netzhirsch/contao-mcp-bundle@v1.3.0
 - pkg:composer/netzhirsch/contao-mcp-bundle@v1.4.0
 - pkg:composer/netzhirsch/contao-mcp-bundle@v1.5.0
+- pkg:composer/netzhirsch/contao-mcp-bundle@v1.5.1
