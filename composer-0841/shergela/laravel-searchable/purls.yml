@@ -20,3 +20,5 @@
 - pkg:composer/shergela/laravel-searchable@v1.6.8
 - pkg:composer/shergela/laravel-searchable@v1.6.9
 - pkg:composer/shergela/laravel-searchable@v1.7.0
+- pkg:composer/shergela/laravel-searchable@v1.7.1
+- pkg:composer/shergela/laravel-searchable@v1.7.2
