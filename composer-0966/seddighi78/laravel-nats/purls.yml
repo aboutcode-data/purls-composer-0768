@@ -1,6 +1,8 @@
+- pkg:composer/seddighi78/laravel-nats@3.2.0
 - pkg:composer/seddighi78/laravel-nats@v1.0.0
 - pkg:composer/seddighi78/laravel-nats@v1.0.1
 - pkg:composer/seddighi78/laravel-nats@v1.0.3
 - pkg:composer/seddighi78/laravel-nats@v1.1.0
 - pkg:composer/seddighi78/laravel-nats@v2.0.0
 - pkg:composer/seddighi78/laravel-nats@v3.0.0
+- pkg:composer/seddighi78/laravel-nats@v3.1.0
