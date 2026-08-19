@@ -1,3 +1,4 @@
+- pkg:composer/sconcur/sconcur@0.10.0
 - pkg:composer/sconcur/sconcur@0.5.0
 - pkg:composer/sconcur/sconcur@0.5.1
 - pkg:composer/sconcur/sconcur@0.6.0
@@ -7,3 +8,4 @@
 - pkg:composer/sconcur/sconcur@0.7.2
 - pkg:composer/sconcur/sconcur@0.8.0
 - pkg:composer/sconcur/sconcur@0.9.0
+- pkg:composer/sconcur/sconcur@0.9.1
