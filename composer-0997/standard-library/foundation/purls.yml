@@ -7,6 +7,10 @@
 - pkg:composer/standard-library/foundation@1.0.28
 - pkg:composer/standard-library/foundation@1.0.29
 - pkg:composer/standard-library/foundation@1.0.30
+- pkg:composer/standard-library/foundation@1.0.31
+- pkg:composer/standard-library/foundation@1.0.32
+- pkg:composer/standard-library/foundation@1.0.33
+- pkg:composer/standard-library/foundation@1.0.34
 - pkg:composer/standard-library/foundation@1.0.5
 - pkg:composer/standard-library/foundation@1.0.8
 - pkg:composer/standard-library/foundation@v1.0.20
