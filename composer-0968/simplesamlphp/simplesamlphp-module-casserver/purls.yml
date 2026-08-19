@@ -13,3 +13,5 @@
 - pkg:composer/simplesamlphp/simplesamlphp-module-casserver@v7.0.1
 - pkg:composer/simplesamlphp/simplesamlphp-module-casserver@v7.0.2
 - pkg:composer/simplesamlphp/simplesamlphp-module-casserver@v7.0.3
+- pkg:composer/simplesamlphp/simplesamlphp-module-casserver@v7.0.4
+- pkg:composer/simplesamlphp/simplesamlphp-module-casserver@v7.0.5
