@@ -3,3 +3,5 @@
 - pkg:composer/spryker/storage-database@1.1.0
 - pkg:composer/spryker/storage-database@1.2.0
 - pkg:composer/spryker/storage-database@1.2.1
+- pkg:composer/spryker/storage-database@1.2.2
+- pkg:composer/spryker/storage-database@1.2.3
