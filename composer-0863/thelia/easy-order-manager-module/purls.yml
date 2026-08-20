@@ -10,3 +10,4 @@
 - pkg:composer/thelia/easy-order-manager-module@2.1.1
 - pkg:composer/thelia/easy-order-manager-module@2.1.2
 - pkg:composer/thelia/easy-order-manager-module@2.1.4
+- pkg:composer/thelia/easy-order-manager-module@3.0.0
