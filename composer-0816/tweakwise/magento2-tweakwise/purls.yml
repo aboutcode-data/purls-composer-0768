@@ -1,4 +1,5 @@
 - pkg:composer/tweakwise/magento2-tweakwise@v10.0.0
+- pkg:composer/tweakwise/magento2-tweakwise@v11.0.0
 - pkg:composer/tweakwise/magento2-tweakwise@v5.0.0
 - pkg:composer/tweakwise/magento2-tweakwise@v5.0.0-alpha
 - pkg:composer/tweakwise/magento2-tweakwise@v5.0.1
