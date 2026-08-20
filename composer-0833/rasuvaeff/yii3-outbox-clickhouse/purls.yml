@@ -3,3 +3,4 @@
 - pkg:composer/rasuvaeff/yii3-outbox-clickhouse@v1.1.1
 - pkg:composer/rasuvaeff/yii3-outbox-clickhouse@v1.1.2
 - pkg:composer/rasuvaeff/yii3-outbox-clickhouse@v1.2.0
+- pkg:composer/rasuvaeff/yii3-outbox-clickhouse@v1.3.0
