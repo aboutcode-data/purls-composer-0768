@@ -1,0 +1,4 @@
+- pkg:composer/vedmant/phpunit-pretty-result-printer@1.0.0
+- pkg:composer/vedmant/phpunit-pretty-result-printer@v1.0.1
+- pkg:composer/vedmant/phpunit-pretty-result-printer@v1.0.2
+- pkg:composer/vedmant/phpunit-pretty-result-printer@v1.0.3
