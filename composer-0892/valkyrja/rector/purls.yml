@@ -19,9 +19,17 @@
 - pkg:composer/valkyrja/rector@v26.2.4
 - pkg:composer/valkyrja/rector@v26.3.0
 - pkg:composer/valkyrja/rector@v26.3.1
+- pkg:composer/valkyrja/rector@v26.3.10
+- pkg:composer/valkyrja/rector@v26.3.11
+- pkg:composer/valkyrja/rector@v26.3.12
+- pkg:composer/valkyrja/rector@v26.3.13
+- pkg:composer/valkyrja/rector@v26.3.14
+- pkg:composer/valkyrja/rector@v26.3.15
 - pkg:composer/valkyrja/rector@v26.3.2
 - pkg:composer/valkyrja/rector@v26.3.3
 - pkg:composer/valkyrja/rector@v26.3.4
 - pkg:composer/valkyrja/rector@v26.3.5
 - pkg:composer/valkyrja/rector@v26.3.6
 - pkg:composer/valkyrja/rector@v26.3.7
+- pkg:composer/valkyrja/rector@v26.3.8
+- pkg:composer/valkyrja/rector@v26.3.9
