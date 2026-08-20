@@ -76,6 +76,7 @@
 - pkg:composer/spryker/search@8.26.0
 - pkg:composer/spryker/search@8.27.0
 - pkg:composer/spryker/search@8.28.0
+- pkg:composer/spryker/search@8.28.1
 - pkg:composer/spryker/search@8.3.0
 - pkg:composer/spryker/search@8.3.1
 - pkg:composer/spryker/search@8.4.0
