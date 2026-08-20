@@ -53,3 +53,4 @@
 - pkg:composer/thelia/hook-search-module@2.5.5
 - pkg:composer/thelia/hook-search-module@2.6.0
 - pkg:composer/thelia/hook-search-module@2.6.1
+- pkg:composer/thelia/hook-search-module@2.6.2
