@@ -39,3 +39,4 @@
 - pkg:composer/thelia/thelia-blocks-module@2.1.8
 - pkg:composer/thelia/thelia-blocks-module@2.1.9
 - pkg:composer/thelia/thelia-blocks-module@3.0.0
+- pkg:composer/thelia/thelia-blocks-module@3.0.1
