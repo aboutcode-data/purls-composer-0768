@@ -116,6 +116,7 @@
 - pkg:composer/postfinancecheckout/shopware-6@6.2.1
 - pkg:composer/postfinancecheckout/shopware-6@6.2.3
 - pkg:composer/postfinancecheckout/shopware-6@6.2.4
+- pkg:composer/postfinancecheckout/shopware-6@6.2.5
 - pkg:composer/postfinancecheckout/shopware-6@7.0.0
 - pkg:composer/postfinancecheckout/shopware-6@7.0.1
 - pkg:composer/postfinancecheckout/shopware-6@7.1.0
@@ -132,3 +133,4 @@
 - pkg:composer/postfinancecheckout/shopware-6@7.3.3
 - pkg:composer/postfinancecheckout/shopware-6@7.3.4
 - pkg:composer/postfinancecheckout/shopware-6@7.3.5
+- pkg:composer/postfinancecheckout/shopware-6@7.3.6
