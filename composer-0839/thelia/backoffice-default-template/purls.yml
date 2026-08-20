@@ -1,5 +1,6 @@
 - pkg:composer/thelia/backoffice-default-template@0.1.0
 - pkg:composer/thelia/backoffice-default-template@1.0.0-beta3
+- pkg:composer/thelia/backoffice-default-template@1.0.0-beta4
 - pkg:composer/thelia/backoffice-default-template@2.0.0-beta1
 - pkg:composer/thelia/backoffice-default-template@2.0.12
 - pkg:composer/thelia/backoffice-default-template@2.0.2
@@ -56,3 +57,4 @@
 - pkg:composer/thelia/backoffice-default-template@2.5.5
 - pkg:composer/thelia/backoffice-default-template@2.6.0
 - pkg:composer/thelia/backoffice-default-template@2.6.1
+- pkg:composer/thelia/backoffice-default-template@2.6.2
