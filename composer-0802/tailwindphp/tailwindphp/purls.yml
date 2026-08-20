@@ -14,3 +14,5 @@
 - pkg:composer/tailwindphp/tailwindphp@v1.4.2
 - pkg:composer/tailwindphp/tailwindphp@v1.5.0
 - pkg:composer/tailwindphp/tailwindphp@v1.6.0
+- pkg:composer/tailwindphp/tailwindphp@v1.6.1
+- pkg:composer/tailwindphp/tailwindphp@v1.7.0
