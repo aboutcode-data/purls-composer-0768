@@ -117,6 +117,7 @@
 - pkg:composer/spryker/product-management@0.20.12
 - pkg:composer/spryker/product-management@0.20.13
 - pkg:composer/spryker/product-management@0.20.14
+- pkg:composer/spryker/product-management@0.20.15
 - pkg:composer/spryker/product-management@0.20.2
 - pkg:composer/spryker/product-management@0.20.3
 - pkg:composer/spryker/product-management@0.20.4
