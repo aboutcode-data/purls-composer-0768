@@ -255,3 +255,4 @@
 - pkg:composer/tallstackui/tallstackui@v3.5.7
 - pkg:composer/tallstackui/tallstackui@v3.5.8
 - pkg:composer/tallstackui/tallstackui@v3.5.9
+- pkg:composer/tallstackui/tallstackui@v4.0.0
