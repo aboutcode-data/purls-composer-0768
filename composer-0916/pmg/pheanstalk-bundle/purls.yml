@@ -9,3 +9,4 @@
 - pkg:composer/pmg/pheanstalk-bundle@v4.1.0
 - pkg:composer/pmg/pheanstalk-bundle@v4.2.0
 - pkg:composer/pmg/pheanstalk-bundle@v5.0.0
+- pkg:composer/pmg/pheanstalk-bundle@v6.0.0
