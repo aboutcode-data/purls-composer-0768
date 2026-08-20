@@ -262,6 +262,7 @@
 - pkg:composer/typo3/cms@v13.4.31
 - pkg:composer/typo3/cms@v13.4.32
 - pkg:composer/typo3/cms@v13.4.33
+- pkg:composer/typo3/cms@v13.4.34
 - pkg:composer/typo3/cms@v13.4.4
 - pkg:composer/typo3/cms@v13.4.5
 - pkg:composer/typo3/cms@v13.4.6
@@ -280,6 +281,7 @@
 - pkg:composer/typo3/cms@v14.3.3
 - pkg:composer/typo3/cms@v14.3.4
 - pkg:composer/typo3/cms@v14.3.5
+- pkg:composer/typo3/cms@v14.3.6
 - pkg:composer/typo3/cms@v7.6.20
 - pkg:composer/typo3/cms@v7.6.21
 - pkg:composer/typo3/cms@v7.6.22
