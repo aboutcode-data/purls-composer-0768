@@ -9,3 +9,4 @@
 - pkg:composer/timeleads/eloquent-clickhouse@2.0.0
 - pkg:composer/timeleads/eloquent-clickhouse@2.0.1
 - pkg:composer/timeleads/eloquent-clickhouse@2.0.2
+- pkg:composer/timeleads/eloquent-clickhouse@2.0.3
