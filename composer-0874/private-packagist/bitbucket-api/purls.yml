@@ -27,3 +27,4 @@
 - pkg:composer/private-packagist/bitbucket-api@2.1.0
 - pkg:composer/private-packagist/bitbucket-api@2.2.0
 - pkg:composer/private-packagist/bitbucket-api@2.3.0
+- pkg:composer/private-packagist/bitbucket-api@2.4.0
