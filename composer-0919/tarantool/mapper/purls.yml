@@ -237,6 +237,7 @@
 - pkg:composer/tarantool/mapper@6.4.5
 - pkg:composer/tarantool/mapper@6.4.6
 - pkg:composer/tarantool/mapper@6.4.7
+- pkg:composer/tarantool/mapper@6.5.0
 - pkg:composer/tarantool/mapper@v1.0.0
 - pkg:composer/tarantool/mapper@v1.0.1
 - pkg:composer/tarantool/mapper@v1.0.2
