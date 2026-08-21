@@ -1,1 +1,2 @@
 - pkg:composer/rabbitevents/redis-transport@0.0.1
+- pkg:composer/rabbitevents/redis-transport@0.0.2
