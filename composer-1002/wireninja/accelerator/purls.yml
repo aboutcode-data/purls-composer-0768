@@ -84,3 +84,5 @@
 - pkg:composer/wireninja/accelerator@v2.0.2
 - pkg:composer/wireninja/accelerator@v2.0.3
 - pkg:composer/wireninja/accelerator@v2.0.4
+- pkg:composer/wireninja/accelerator@v2.1.0
+- pkg:composer/wireninja/accelerator@v2.2.0
