@@ -27,5 +27,7 @@
 - pkg:composer/thelia/wishlist-module@2.4.2
 - pkg:composer/thelia/wishlist-module@2.4.3
 - pkg:composer/thelia/wishlist-module@3.0.0
+- pkg:composer/thelia/wishlist-module@3.1.0
+- pkg:composer/thelia/wishlist-module@3.2.0
 - pkg:composer/thelia/wishlist-module@v1.2.3
 - pkg:composer/thelia/wishlist-module@v2.0.0
