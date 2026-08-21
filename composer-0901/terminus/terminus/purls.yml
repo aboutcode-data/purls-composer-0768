@@ -150,5 +150,6 @@
 - pkg:composer/terminus/terminus@4.3.0
 - pkg:composer/terminus/terminus@4.3.1
 - pkg:composer/terminus/terminus@4.3.2
+- pkg:composer/terminus/terminus@4.3.3
 - pkg:composer/terminus/terminus@v0.0.0-alpha
 - pkg:composer/terminus/terminus@v3.0.0-alpha3
