@@ -48,3 +48,4 @@
 - pkg:composer/wp-cli/db-command@v2.1.5
 - pkg:composer/wp-cli/db-command@v2.1.6
 - pkg:composer/wp-cli/db-command@v3.0.0
+- pkg:composer/wp-cli/db-command@v3.0.1
