@@ -25,3 +25,6 @@
 - pkg:composer/wedeto/http@v1.0.0
 - pkg:composer/wedeto/http@v1.0.0-beta1
 - pkg:composer/wedeto/http@v1.0.1
+- pkg:composer/wedeto/http@v1.1.0
+- pkg:composer/wedeto/http@v1.1.1
+- pkg:composer/wedeto/http@v1.1.2
