@@ -60,6 +60,8 @@
 - pkg:composer/seigisoft/seigicms-framework-bundle@v0.2.35
 - pkg:composer/seigisoft/seigicms-framework-bundle@v0.2.36
 - pkg:composer/seigisoft/seigicms-framework-bundle@v0.2.37
+- pkg:composer/seigisoft/seigicms-framework-bundle@v0.2.38
+- pkg:composer/seigisoft/seigicms-framework-bundle@v0.2.39
 - pkg:composer/seigisoft/seigicms-framework-bundle@v0.2.4
 - pkg:composer/seigisoft/seigicms-framework-bundle@v0.2.5
 - pkg:composer/seigisoft/seigicms-framework-bundle@v0.2.6
