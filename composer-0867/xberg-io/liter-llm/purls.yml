@@ -58,6 +58,8 @@
 - pkg:composer/xberg-io/liter-llm@v1.15.0
 - pkg:composer/xberg-io/liter-llm@v1.16.0
 - pkg:composer/xberg-io/liter-llm@v1.17.1
+- pkg:composer/xberg-io/liter-llm@v1.17.2
+- pkg:composer/xberg-io/liter-llm@v1.17.3
 - pkg:composer/xberg-io/liter-llm@v1.4.0
 - pkg:composer/xberg-io/liter-llm@v1.4.0-rc.31
 - pkg:composer/xberg-io/liter-llm@v1.4.0-rc.32
