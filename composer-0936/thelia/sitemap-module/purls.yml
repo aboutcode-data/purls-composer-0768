@@ -19,3 +19,4 @@
 - pkg:composer/thelia/sitemap-module@2.1.2
 - pkg:composer/thelia/sitemap-module@2.2.0
 - pkg:composer/thelia/sitemap-module@3.0.0
+- pkg:composer/thelia/sitemap-module@3.0.1
