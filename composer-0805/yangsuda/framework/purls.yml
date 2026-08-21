@@ -122,3 +122,5 @@
 - pkg:composer/yangsuda/framework@4.0.8
 - pkg:composer/yangsuda/framework@4.0.9
 - pkg:composer/yangsuda/framework@5.0.0
+- pkg:composer/yangsuda/framework@6.0.0
+- pkg:composer/yangsuda/framework@6.0.1
