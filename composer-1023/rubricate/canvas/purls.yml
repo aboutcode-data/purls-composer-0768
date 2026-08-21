@@ -3,3 +3,4 @@
 - pkg:composer/rubricate/canvas@v0.3.1
 - pkg:composer/rubricate/canvas@v0.3.2
 - pkg:composer/rubricate/canvas@v1.0.0
+- pkg:composer/rubricate/canvas@v4.0.0
