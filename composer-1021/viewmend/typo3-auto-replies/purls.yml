@@ -1,1 +1,4 @@
 - pkg:composer/viewmend/typo3-auto-replies@v1.0.0
+- pkg:composer/viewmend/typo3-auto-replies@v1.1.0
+- pkg:composer/viewmend/typo3-auto-replies@v1.1.1
+- pkg:composer/viewmend/typo3-auto-replies@v1.1.2
