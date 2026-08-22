@@ -227,6 +227,7 @@
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-350
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-351
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-353
+- pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-354
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-40
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-42
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-43
