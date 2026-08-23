@@ -154,6 +154,7 @@
 - pkg:composer/automattic/jetpack-blaze@v0.28.1
 - pkg:composer/automattic/jetpack-blaze@v0.28.2
 - pkg:composer/automattic/jetpack-blaze@v0.28.3
+- pkg:composer/automattic/jetpack-blaze@v0.28.4
 - pkg:composer/automattic/jetpack-blaze@v0.3.0
 - pkg:composer/automattic/jetpack-blaze@v0.3.1
 - pkg:composer/automattic/jetpack-blaze@v0.3.2
