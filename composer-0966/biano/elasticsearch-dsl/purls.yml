@@ -24,3 +24,6 @@
 - pkg:composer/biano/elasticsearch-dsl@8.1.0
 - pkg:composer/biano/elasticsearch-dsl@8.1.1
 - pkg:composer/biano/elasticsearch-dsl@8.1.2
+- pkg:composer/biano/elasticsearch-dsl@8.2.0
+- pkg:composer/biano/elasticsearch-dsl@8.2.1
+- pkg:composer/biano/elasticsearch-dsl@9.0.0
