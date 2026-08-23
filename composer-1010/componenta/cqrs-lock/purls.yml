@@ -1,3 +1,5 @@
 - pkg:composer/componenta/cqrs-lock@v1.0.0
 - pkg:composer/componenta/cqrs-lock@v1.0.1
 - pkg:composer/componenta/cqrs-lock@v2.0.0
+- pkg:composer/componenta/cqrs-lock@v2.0.1
+- pkg:composer/componenta/cqrs-lock@v2.0.2

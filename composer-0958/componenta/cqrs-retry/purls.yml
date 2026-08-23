@@ -1,3 +1,5 @@
 - pkg:composer/componenta/cqrs-retry@v1.0.0
 - pkg:composer/componenta/cqrs-retry@v1.0.1
 - pkg:composer/componenta/cqrs-retry@v2.0.0
+- pkg:composer/componenta/cqrs-retry@v2.0.1
+- pkg:composer/componenta/cqrs-retry@v2.0.2
