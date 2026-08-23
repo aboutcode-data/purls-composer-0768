@@ -3,6 +3,10 @@
 - pkg:composer/boldminded/dexter-core@1.0.10
 - pkg:composer/boldminded/dexter-core@1.0.11
 - pkg:composer/boldminded/dexter-core@1.0.12
+- pkg:composer/boldminded/dexter-core@1.0.13
+- pkg:composer/boldminded/dexter-core@1.0.15
+- pkg:composer/boldminded/dexter-core@1.0.16
+- pkg:composer/boldminded/dexter-core@1.0.17
 - pkg:composer/boldminded/dexter-core@1.0.3
 - pkg:composer/boldminded/dexter-core@1.0.4
 - pkg:composer/boldminded/dexter-core@1.0.5
