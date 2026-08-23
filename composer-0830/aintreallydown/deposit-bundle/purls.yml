@@ -27,3 +27,7 @@
 - pkg:composer/aintreallydown/deposit-bundle@v3.1.0
 - pkg:composer/aintreallydown/deposit-bundle@v3.2.0
 - pkg:composer/aintreallydown/deposit-bundle@v4.0.0-
+- pkg:composer/aintreallydown/deposit-bundle@v4.0.1
+- pkg:composer/aintreallydown/deposit-bundle@v5.0.0
+- pkg:composer/aintreallydown/deposit-bundle@v5.0.1
+- pkg:composer/aintreallydown/deposit-bundle@v6.0.0
