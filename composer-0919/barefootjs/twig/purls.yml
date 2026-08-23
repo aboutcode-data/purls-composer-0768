@@ -30,7 +30,13 @@
 - pkg:composer/barefootjs/twig@v0.30.6
 - pkg:composer/barefootjs/twig@v0.31.0
 - pkg:composer/barefootjs/twig@v0.31.1
+- pkg:composer/barefootjs/twig@v0.31.10
 - pkg:composer/barefootjs/twig@v0.31.2
 - pkg:composer/barefootjs/twig@v0.31.3
 - pkg:composer/barefootjs/twig@v0.31.4
 - pkg:composer/barefootjs/twig@v0.31.5
+- pkg:composer/barefootjs/twig@v0.31.6
+- pkg:composer/barefootjs/twig@v0.31.7
+- pkg:composer/barefootjs/twig@v0.31.8
+- pkg:composer/barefootjs/twig@v0.31.9
+- pkg:composer/barefootjs/twig@v0.32.0
