@@ -44,3 +44,5 @@
 - pkg:composer/commerceguys/addressing@v2.2.3
 - pkg:composer/commerceguys/addressing@v2.2.4
 - pkg:composer/commerceguys/addressing@v2.2.5
+- pkg:composer/commerceguys/addressing@v2.3.0
+- pkg:composer/commerceguys/addressing@v2.3.1
