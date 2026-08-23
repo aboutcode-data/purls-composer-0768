@@ -2,6 +2,8 @@
 - pkg:composer/c975l/gallery-bundle@v0.2
 - pkg:composer/c975l/gallery-bundle@v1.0
 - pkg:composer/c975l/gallery-bundle@v1.1
+- pkg:composer/c975l/gallery-bundle@v1.10.0
+- pkg:composer/c975l/gallery-bundle@v1.10.1
 - pkg:composer/c975l/gallery-bundle@v1.2
 - pkg:composer/c975l/gallery-bundle@v1.2.1
 - pkg:composer/c975l/gallery-bundle@v1.2.2
@@ -12,3 +14,13 @@
 - pkg:composer/c975l/gallery-bundle@v1.4.1
 - pkg:composer/c975l/gallery-bundle@v1.4.2
 - pkg:composer/c975l/gallery-bundle@v1.4.3
+- pkg:composer/c975l/gallery-bundle@v1.5.0
+- pkg:composer/c975l/gallery-bundle@v1.5.1
+- pkg:composer/c975l/gallery-bundle@v1.5.2
+- pkg:composer/c975l/gallery-bundle@v1.5.3
+- pkg:composer/c975l/gallery-bundle@v1.5.4
+- pkg:composer/c975l/gallery-bundle@v1.6.0
+- pkg:composer/c975l/gallery-bundle@v1.6.1
+- pkg:composer/c975l/gallery-bundle@v1.7.0
+- pkg:composer/c975l/gallery-bundle@v1.8.0
+- pkg:composer/c975l/gallery-bundle@v1.9.0
