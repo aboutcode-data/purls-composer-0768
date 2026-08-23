@@ -23,3 +23,4 @@
 - pkg:composer/anzusystems/serializer-bundle@5.1.2
 - pkg:composer/anzusystems/serializer-bundle@5.2.0
 - pkg:composer/anzusystems/serializer-bundle@6.0.0
+- pkg:composer/anzusystems/serializer-bundle@6.1.0
