@@ -36,3 +36,6 @@
 - pkg:composer/citadel/aureum@1.6.0
 - pkg:composer/citadel/aureum@1.6.1
 - pkg:composer/citadel/aureum@1.7.0
+- pkg:composer/citadel/aureum@1.8
+- pkg:composer/citadel/aureum@1.9.0
+- pkg:composer/citadel/aureum@1.9.1
