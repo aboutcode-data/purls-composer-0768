@@ -1,4 +1,5 @@
 - pkg:composer/antlr/antlr4-php-runtime@0.1
+- pkg:composer/antlr/antlr4-php-runtime@0.10.0
 - pkg:composer/antlr/antlr4-php-runtime@0.2
 - pkg:composer/antlr/antlr4-php-runtime@0.3
 - pkg:composer/antlr/antlr4-php-runtime@0.4
