@@ -1,1 +1,2 @@
 - pkg:composer/aimeos/pagible-cashier-stripe@0.12.0
+- pkg:composer/aimeos/pagible-cashier-stripe@0.12.1
