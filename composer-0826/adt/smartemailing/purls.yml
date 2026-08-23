@@ -13,3 +13,4 @@
 - pkg:composer/adt/smartemailing@v1.2.9
 - pkg:composer/adt/smartemailing@v2.0.0
 - pkg:composer/adt/smartemailing@v2.0.1
+- pkg:composer/adt/smartemailing@v2.1
