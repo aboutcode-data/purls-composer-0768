@@ -125,6 +125,13 @@
 - pkg:composer/cboxdk/laravel-id@v0.96.0
 - pkg:composer/cboxdk/laravel-id@v1.0.0
 - pkg:composer/cboxdk/laravel-id@v1.1.0
+- pkg:composer/cboxdk/laravel-id@v1.10.0
+- pkg:composer/cboxdk/laravel-id@v1.11.0
+- pkg:composer/cboxdk/laravel-id@v1.12.0
+- pkg:composer/cboxdk/laravel-id@v1.13.0
+- pkg:composer/cboxdk/laravel-id@v1.14.0
+- pkg:composer/cboxdk/laravel-id@v1.15.0
+- pkg:composer/cboxdk/laravel-id@v1.16.0
 - pkg:composer/cboxdk/laravel-id@v1.2.0
 - pkg:composer/cboxdk/laravel-id@v1.3.0
 - pkg:composer/cboxdk/laravel-id@v1.4.0
@@ -133,3 +140,4 @@
 - pkg:composer/cboxdk/laravel-id@v1.6.0
 - pkg:composer/cboxdk/laravel-id@v1.7.0
 - pkg:composer/cboxdk/laravel-id@v1.8.0
+- pkg:composer/cboxdk/laravel-id@v1.9.0
