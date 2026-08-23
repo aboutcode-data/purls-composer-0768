@@ -66,3 +66,6 @@
 - pkg:composer/axytos/financial-services-api-sdk@1.8.0%2B20250929.9
 - pkg:composer/axytos/financial-services-api-sdk@1.8.0-alpha%2B20250926.1
 - pkg:composer/axytos/financial-services-api-sdk@1.8.0-rc%2B20250929.3
+- pkg:composer/axytos/financial-services-api-sdk@1.8.1%2B20260817.9
+- pkg:composer/axytos/financial-services-api-sdk@1.8.1-alpha%2B20260817.3
+- pkg:composer/axytos/financial-services-api-sdk@1.8.1-rc%2B20260817.6
