@@ -1,3 +1,4 @@
 - pkg:composer/cache/tag-interop@1.0.0
 - pkg:composer/cache/tag-interop@1.0.1
 - pkg:composer/cache/tag-interop@1.1.0
+- pkg:composer/cache/tag-interop@2.0.0
