@@ -227,3 +227,7 @@
 - pkg:composer/alle80/agent-devboard@v0.91.3
 - pkg:composer/alle80/agent-devboard@v0.91.4
 - pkg:composer/alle80/agent-devboard@v0.92.0
+- pkg:composer/alle80/agent-devboard@v0.92.1
+- pkg:composer/alle80/agent-devboard@v0.93.0
+- pkg:composer/alle80/agent-devboard@v0.94.0
+- pkg:composer/alle80/agent-devboard@v0.95.0
