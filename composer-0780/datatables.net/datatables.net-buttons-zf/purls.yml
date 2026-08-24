@@ -13,3 +13,4 @@
 - pkg:composer/datatables.net/datatables.net-buttons-zf@3.2.6
 - pkg:composer/datatables.net/datatables.net-buttons-zf@4.0.0
 - pkg:composer/datatables.net/datatables.net-buttons-zf@4.0.1
+- pkg:composer/datatables.net/datatables.net-buttons-zf@4.0.2

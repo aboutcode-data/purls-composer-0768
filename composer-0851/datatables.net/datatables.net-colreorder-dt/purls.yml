@@ -7,3 +7,4 @@
 - pkg:composer/datatables.net/datatables.net-colreorder-dt@2.1.1
 - pkg:composer/datatables.net/datatables.net-colreorder-dt@2.1.2
 - pkg:composer/datatables.net/datatables.net-colreorder-dt@3.0.0
+- pkg:composer/datatables.net/datatables.net-colreorder-dt@3.0.1
