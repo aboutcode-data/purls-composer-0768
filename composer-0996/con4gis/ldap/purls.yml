@@ -11,3 +11,5 @@
 - pkg:composer/con4gis/ldap@v1.5.1
 - pkg:composer/con4gis/ldap@v1.5.2
 - pkg:composer/con4gis/ldap@v1.5.3
+- pkg:composer/con4gis/ldap@v2.0.0
+- pkg:composer/con4gis/ldap@v2.0.1
