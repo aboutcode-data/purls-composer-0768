@@ -1,3 +1,4 @@
+- pkg:composer/cycle/schema-builder@2.12.1
 - pkg:composer/cycle/schema-builder@v0.1
 - pkg:composer/cycle/schema-builder@v1.0.0
 - pkg:composer/cycle/schema-builder@v1.0.1
