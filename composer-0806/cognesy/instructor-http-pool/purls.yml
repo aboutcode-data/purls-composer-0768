@@ -12,3 +12,4 @@
 - pkg:composer/cognesy/instructor-http-pool@v2.6.2
 - pkg:composer/cognesy/instructor-http-pool@v2.7.0
 - pkg:composer/cognesy/instructor-http-pool@v2.7.1
+- pkg:composer/cognesy/instructor-http-pool@v2.8.0
