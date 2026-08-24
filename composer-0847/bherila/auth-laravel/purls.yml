@@ -9,3 +9,8 @@
 - pkg:composer/bherila/auth-laravel@v0.4.3
 - pkg:composer/bherila/auth-laravel@v0.5.0
 - pkg:composer/bherila/auth-laravel@v0.5.2
+- pkg:composer/bherila/auth-laravel@v0.6.0
+- pkg:composer/bherila/auth-laravel@v0.6.1
+- pkg:composer/bherila/auth-laravel@v0.6.2
+- pkg:composer/bherila/auth-laravel@v0.6.3
+- pkg:composer/bherila/auth-laravel@v0.7.0
