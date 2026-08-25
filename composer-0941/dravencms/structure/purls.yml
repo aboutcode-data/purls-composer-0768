@@ -21,6 +21,8 @@
 - pkg:composer/dravencms/structure@2.0.7
 - pkg:composer/dravencms/structure@2.0.8
 - pkg:composer/dravencms/structure@2.1
+- pkg:composer/dravencms/structure@2.2.0
+- pkg:composer/dravencms/structure@2.2.1
 - pkg:composer/dravencms/structure@v1.0
 - pkg:composer/dravencms/structure@v1.0.1
 - pkg:composer/dravencms/structure@v1.0.2
