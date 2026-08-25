@@ -16,3 +16,4 @@
 - pkg:composer/craftcms/stripe@1.7.1
 - pkg:composer/craftcms/stripe@1.7.2
 - pkg:composer/craftcms/stripe@1.7.3
+- pkg:composer/craftcms/stripe@1.8.0
