@@ -146,3 +146,6 @@
 - pkg:composer/blutrixx/generator-engine@v2.7.1
 - pkg:composer/blutrixx/generator-engine@v2.7.2
 - pkg:composer/blutrixx/generator-engine@v2.8.0
+- pkg:composer/blutrixx/generator-engine@v3.4.25
+- pkg:composer/blutrixx/generator-engine@v3.4.26
+- pkg:composer/blutrixx/generator-engine@v3.4.27
