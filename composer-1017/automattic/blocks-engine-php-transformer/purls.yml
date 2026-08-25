@@ -57,3 +57,4 @@
 - pkg:composer/automattic/blocks-engine-php-transformer@v0.5.1
 - pkg:composer/automattic/blocks-engine-php-transformer@v0.6.0
 - pkg:composer/automattic/blocks-engine-php-transformer@v0.6.1
+- pkg:composer/automattic/blocks-engine-php-transformer@v0.6.2
