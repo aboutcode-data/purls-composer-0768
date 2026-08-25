@@ -139,6 +139,11 @@
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.1
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.10
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.11
+- pkg:composer/diversworld/contao-diveclub-bundle@3.8.12
+- pkg:composer/diversworld/contao-diveclub-bundle@3.8.13
+- pkg:composer/diversworld/contao-diveclub-bundle@3.8.14
+- pkg:composer/diversworld/contao-diveclub-bundle@3.8.15
+- pkg:composer/diversworld/contao-diveclub-bundle@3.8.16
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.2
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.3
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.4
@@ -147,4 +152,3 @@
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.7
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.8
 - pkg:composer/diversworld/contao-diveclub-bundle@3.8.9
-- pkg:composer/diversworld/contao-diveclub-bundle@5.6.1
