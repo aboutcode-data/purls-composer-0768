@@ -21,6 +21,7 @@
 - pkg:composer/durable-workflow/waterline@1.0.15
 - pkg:composer/durable-workflow/waterline@1.0.16
 - pkg:composer/durable-workflow/waterline@1.0.17
+- pkg:composer/durable-workflow/waterline@1.0.18
 - pkg:composer/durable-workflow/waterline@1.0.2
 - pkg:composer/durable-workflow/waterline@1.0.3
 - pkg:composer/durable-workflow/waterline@1.0.4
@@ -197,6 +198,10 @@
 - pkg:composer/durable-workflow/waterline@2.0.0-rc.19
 - pkg:composer/durable-workflow/waterline@2.0.0-rc.20
 - pkg:composer/durable-workflow/waterline@2.0.0-rc.21
+- pkg:composer/durable-workflow/waterline@2.0.0-rc.24
+- pkg:composer/durable-workflow/waterline@2.0.0-rc.25
+- pkg:composer/durable-workflow/waterline@2.0.0-rc.26
+- pkg:composer/durable-workflow/waterline@2.0.0-rc.27
 - pkg:composer/durable-workflow/waterline@2.0.0-rc.3
 - pkg:composer/durable-workflow/waterline@2.0.0-rc.4
 - pkg:composer/durable-workflow/waterline@2.0.0-rc.5
