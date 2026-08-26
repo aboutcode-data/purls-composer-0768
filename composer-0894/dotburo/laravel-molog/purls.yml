@@ -38,3 +38,4 @@
 - pkg:composer/dotburo/laravel-molog@1.5.1
 - pkg:composer/dotburo/laravel-molog@1.5.2
 - pkg:composer/dotburo/laravel-molog@1.6.0
+- pkg:composer/dotburo/laravel-molog@2.0.0
