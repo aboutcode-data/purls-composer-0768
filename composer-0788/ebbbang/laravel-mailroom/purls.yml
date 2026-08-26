@@ -4,3 +4,5 @@
 - pkg:composer/ebbbang/laravel-mailroom@v0.3.1
 - pkg:composer/ebbbang/laravel-mailroom@v0.3.2
 - pkg:composer/ebbbang/laravel-mailroom@v0.4.0
+- pkg:composer/ebbbang/laravel-mailroom@v0.5.0
+- pkg:composer/ebbbang/laravel-mailroom@v0.6.0
