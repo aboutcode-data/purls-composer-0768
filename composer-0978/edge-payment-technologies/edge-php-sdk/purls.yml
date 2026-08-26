@@ -1,1 +1,3 @@
 - pkg:composer/edge-payment-technologies/edge-php-sdk@v1
+- pkg:composer/edge-payment-technologies/edge-php-sdk@v2.0.0
+- pkg:composer/edge-payment-technologies/edge-php-sdk@v2.0.1
