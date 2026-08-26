@@ -14,6 +14,9 @@
 - pkg:composer/elpandape/filament-bouncer@v1.4.0
 - pkg:composer/elpandape/filament-bouncer@v1.5.0
 - pkg:composer/elpandape/filament-bouncer@v1.5.1
+- pkg:composer/elpandape/filament-bouncer@v10.0.0
+- pkg:composer/elpandape/filament-bouncer@v10.1.0
+- pkg:composer/elpandape/filament-bouncer@v10.2.0
 - pkg:composer/elpandape/filament-bouncer@v2.0.0
 - pkg:composer/elpandape/filament-bouncer@v2.0.1
 - pkg:composer/elpandape/filament-bouncer@v2.0.2
@@ -47,3 +50,4 @@
 - pkg:composer/elpandape/filament-bouncer@v9.0.0
 - pkg:composer/elpandape/filament-bouncer@v9.1.0
 - pkg:composer/elpandape/filament-bouncer@v9.1.1
+- pkg:composer/elpandape/filament-bouncer@v9.1.2
