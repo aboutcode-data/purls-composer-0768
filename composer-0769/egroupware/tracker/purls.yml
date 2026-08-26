@@ -109,6 +109,7 @@
 - pkg:composer/egroupware/tracker@23.1.20260710.3
 - pkg:composer/egroupware/tracker@23.1.20260724
 - pkg:composer/egroupware/tracker@23.1.20260804
+- pkg:composer/egroupware/tracker@23.1.20260819
 - pkg:composer/egroupware/tracker@26.0.20251208
 - pkg:composer/egroupware/tracker@26.0.20251216
 - pkg:composer/egroupware/tracker@26.0.20260108
@@ -136,3 +137,5 @@
 - pkg:composer/egroupware/tracker@26.7.20260724
 - pkg:composer/egroupware/tracker@26.8.20260804
 - pkg:composer/egroupware/tracker@26.8.20260811
+- pkg:composer/egroupware/tracker@26.8.20260819
+- pkg:composer/egroupware/tracker@26.8.20260825
