@@ -41,3 +41,4 @@
 - pkg:composer/gustav-php/gustav@0.0.7
 - pkg:composer/gustav-php/gustav@0.0.8
 - pkg:composer/gustav-php/gustav@0.0.9
+- pkg:composer/gustav-php/gustav@1.0.0
