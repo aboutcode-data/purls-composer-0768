@@ -137,6 +137,7 @@
 - pkg:composer/ibexa/commerce-skeleton@v4.6.3
 - pkg:composer/ibexa/commerce-skeleton@v4.6.30
 - pkg:composer/ibexa/commerce-skeleton@v4.6.31
+- pkg:composer/ibexa/commerce-skeleton@v4.6.32
 - pkg:composer/ibexa/commerce-skeleton@v4.6.4
 - pkg:composer/ibexa/commerce-skeleton@v4.6.5
 - pkg:composer/ibexa/commerce-skeleton@v4.6.6
@@ -145,6 +146,7 @@
 - pkg:composer/ibexa/commerce-skeleton@v4.6.9
 - pkg:composer/ibexa/commerce-skeleton@v5.0.0
 - pkg:composer/ibexa/commerce-skeleton@v5.0.1
+- pkg:composer/ibexa/commerce-skeleton@v5.0.10
 - pkg:composer/ibexa/commerce-skeleton@v5.0.2
 - pkg:composer/ibexa/commerce-skeleton@v5.0.3
 - pkg:composer/ibexa/commerce-skeleton@v5.0.4
