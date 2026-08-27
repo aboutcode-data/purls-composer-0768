@@ -37,3 +37,4 @@
 - pkg:composer/flarum/flarum-ext-markdown@v2.0.0-rc.5
 - pkg:composer/flarum/flarum-ext-markdown@v2.0.0-rc.6
 - pkg:composer/flarum/flarum-ext-markdown@v2.0.0-rc.7
+- pkg:composer/flarum/flarum-ext-markdown@v2.0.0-rc.8

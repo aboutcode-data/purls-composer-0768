@@ -14,3 +14,4 @@
 - pkg:composer/flarum/phpstan@v2.0.0-rc.5
 - pkg:composer/flarum/phpstan@v2.0.0-rc.6
 - pkg:composer/flarum/phpstan@v2.0.0-rc.7
+- pkg:composer/flarum/phpstan@v2.0.0-rc.8
