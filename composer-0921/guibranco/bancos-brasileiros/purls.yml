@@ -532,7 +532,14 @@
 - pkg:composer/guibranco/bancos-brasileiros@v6.2.394
 - pkg:composer/guibranco/bancos-brasileiros@v6.2.395
 - pkg:composer/guibranco/bancos-brasileiros@v6.2.396
+- pkg:composer/guibranco/bancos-brasileiros@v6.2.397
+- pkg:composer/guibranco/bancos-brasileiros@v6.2.398
+- pkg:composer/guibranco/bancos-brasileiros@v6.2.399
 - pkg:composer/guibranco/bancos-brasileiros@v6.2.40
+- pkg:composer/guibranco/bancos-brasileiros@v6.2.400
+- pkg:composer/guibranco/bancos-brasileiros@v6.2.401
+- pkg:composer/guibranco/bancos-brasileiros@v6.2.402
+- pkg:composer/guibranco/bancos-brasileiros@v6.2.403
 - pkg:composer/guibranco/bancos-brasileiros@v6.2.42
 - pkg:composer/guibranco/bancos-brasileiros@v6.2.43
 - pkg:composer/guibranco/bancos-brasileiros@v6.2.44
@@ -577,3 +584,4 @@
 - pkg:composer/guibranco/bancos-brasileiros@v6.2.97
 - pkg:composer/guibranco/bancos-brasileiros@v6.2.98
 - pkg:composer/guibranco/bancos-brasileiros@v6.2.99
+- pkg:composer/guibranco/bancos-brasileiros@v6.3.0
