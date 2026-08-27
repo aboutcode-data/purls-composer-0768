@@ -21,3 +21,6 @@
 - pkg:composer/hradigital/php-datatypes@2.2.0
 - pkg:composer/hradigital/php-datatypes@2.3.0
 - pkg:composer/hradigital/php-datatypes@2.4.0
+- pkg:composer/hradigital/php-datatypes@3.0.0
+- pkg:composer/hradigital/php-datatypes@3.0.1
+- pkg:composer/hradigital/php-datatypes@3.1.0
