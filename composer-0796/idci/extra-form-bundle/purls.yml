@@ -38,3 +38,4 @@
 - pkg:composer/idci/extra-form-bundle@v4.0.3
 - pkg:composer/idci/extra-form-bundle@v4.0.4
 - pkg:composer/idci/extra-form-bundle@v6.0.0
+- pkg:composer/idci/extra-form-bundle@v6.0.1
