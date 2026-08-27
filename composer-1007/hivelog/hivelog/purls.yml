@@ -12,3 +12,5 @@
 - pkg:composer/hivelog/hivelog@1.5.0
 - pkg:composer/hivelog/hivelog@1.5.1
 - pkg:composer/hivelog/hivelog@1.6.0
+- pkg:composer/hivelog/hivelog@1.7.0
+- pkg:composer/hivelog/hivelog@1.7.1
