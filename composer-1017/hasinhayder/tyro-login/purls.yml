@@ -22,6 +22,9 @@
 - pkg:composer/hasinhayder/tyro-login@v2.12.1
 - pkg:composer/hasinhayder/tyro-login@v2.13.0
 - pkg:composer/hasinhayder/tyro-login@v2.13.1
+- pkg:composer/hasinhayder/tyro-login@v2.14.0
+- pkg:composer/hasinhayder/tyro-login@v2.14.1
+- pkg:composer/hasinhayder/tyro-login@v2.14.2
 - pkg:composer/hasinhayder/tyro-login@v2.2.0
 - pkg:composer/hasinhayder/tyro-login@v2.2.1
 - pkg:composer/hasinhayder/tyro-login@v2.3.0
