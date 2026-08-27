@@ -161,3 +161,4 @@
 - pkg:composer/elegantly/laravel-media@v5.4.4
 - pkg:composer/elegantly/laravel-media@v5.4.5
 - pkg:composer/elegantly/laravel-media@v5.5.0
+- pkg:composer/elegantly/laravel-media@v5.5.1
