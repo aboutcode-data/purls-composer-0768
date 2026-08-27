@@ -16,6 +16,9 @@
 - pkg:composer/hi1/contao-2fa-email-bundle@0.1.11
 - pkg:composer/hi1/contao-2fa-email-bundle@0.1.12
 - pkg:composer/hi1/contao-2fa-email-bundle@0.1.13
+- pkg:composer/hi1/contao-2fa-email-bundle@0.1.14
+- pkg:composer/hi1/contao-2fa-email-bundle@0.1.15
+- pkg:composer/hi1/contao-2fa-email-bundle@0.1.16
 - pkg:composer/hi1/contao-2fa-email-bundle@0.1.2
 - pkg:composer/hi1/contao-2fa-email-bundle@0.1.3
 - pkg:composer/hi1/contao-2fa-email-bundle@0.1.4
