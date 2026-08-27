@@ -111,3 +111,6 @@
 - pkg:composer/hestec/silverstripe-linkmanager@2.2.8
 - pkg:composer/hestec/silverstripe-linkmanager@2.2.9
 - pkg:composer/hestec/silverstripe-linkmanager@6.0.0
+- pkg:composer/hestec/silverstripe-linkmanager@6.0.1
+- pkg:composer/hestec/silverstripe-linkmanager@6.0.2
+- pkg:composer/hestec/silverstripe-linkmanager@6.0.3
