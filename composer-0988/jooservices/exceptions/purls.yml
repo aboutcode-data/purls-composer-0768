@@ -1,3 +1,4 @@
 - pkg:composer/jooservices/exceptions@v0.5.0
 - pkg:composer/jooservices/exceptions@v0.6.0
 - pkg:composer/jooservices/exceptions@v1.0.0
+- pkg:composer/jooservices/exceptions@v1.0.1
