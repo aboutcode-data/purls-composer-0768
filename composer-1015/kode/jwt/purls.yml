@@ -5,6 +5,7 @@
 - pkg:composer/kode/jwt@1.11.0
 - pkg:composer/kode/jwt@1.11.1
 - pkg:composer/kode/jwt@1.12.0
+- pkg:composer/kode/jwt@1.12.1
 - pkg:composer/kode/jwt@1.2.0
 - pkg:composer/kode/jwt@1.3.0
 - pkg:composer/kode/jwt@1.3.1
