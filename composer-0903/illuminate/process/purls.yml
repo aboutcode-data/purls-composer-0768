@@ -316,6 +316,8 @@
 - pkg:composer/illuminate/process@v12.64.0
 - pkg:composer/illuminate/process@v12.65.0
 - pkg:composer/illuminate/process@v12.66.0
+- pkg:composer/illuminate/process@v12.67.0
+- pkg:composer/illuminate/process@v12.68.0
 - pkg:composer/illuminate/process@v12.7.0
 - pkg:composer/illuminate/process@v12.7.1
 - pkg:composer/illuminate/process@v12.7.2
@@ -348,6 +350,10 @@
 - pkg:composer/illuminate/process@v13.23.0
 - pkg:composer/illuminate/process@v13.24.0
 - pkg:composer/illuminate/process@v13.25.0
+- pkg:composer/illuminate/process@v13.26.0
+- pkg:composer/illuminate/process@v13.26.1
+- pkg:composer/illuminate/process@v13.27.0
+- pkg:composer/illuminate/process@v13.29.0
 - pkg:composer/illuminate/process@v13.3.0
 - pkg:composer/illuminate/process@v13.4.0
 - pkg:composer/illuminate/process@v13.5.0
