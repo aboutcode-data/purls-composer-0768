@@ -42,6 +42,7 @@
 - pkg:composer/in2code/in2publish_core@12.7.1
 - pkg:composer/in2code/in2publish_core@12.8.0
 - pkg:composer/in2code/in2publish_core@12.9.0
+- pkg:composer/in2code/in2publish_core@12.9.1
 - pkg:composer/in2code/in2publish_core@13.0.0
 - pkg:composer/in2code/in2publish_core@13.0.1
 - pkg:composer/in2code/in2publish_core@13.0.2
@@ -52,11 +53,15 @@
 - pkg:composer/in2code/in2publish_core@13.2.2
 - pkg:composer/in2code/in2publish_core@13.3.0
 - pkg:composer/in2code/in2publish_core@13.4.0
+- pkg:composer/in2code/in2publish_core@13.4.1
 - pkg:composer/in2code/in2publish_core@13.4.2
+- pkg:composer/in2code/in2publish_core@13.4.3
+- pkg:composer/in2code/in2publish_core@13.4.4
 - pkg:composer/in2code/in2publish_core@14.0.1
 - pkg:composer/in2code/in2publish_core@14.0.2
 - pkg:composer/in2code/in2publish_core@14.0.3
 - pkg:composer/in2code/in2publish_core@14.0.4
+- pkg:composer/in2code/in2publish_core@14.0.5
 - pkg:composer/in2code/in2publish_core@5.0.0
 - pkg:composer/in2code/in2publish_core@5.0.1
 - pkg:composer/in2code/in2publish_core@5.1.0
