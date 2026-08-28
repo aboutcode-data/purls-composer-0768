@@ -9,3 +9,4 @@
 - pkg:composer/jcolombo/paymo-api-php@v0.5.7
 - pkg:composer/jcolombo/paymo-api-php@v0.6.0
 - pkg:composer/jcolombo/paymo-api-php@v0.6.1
+- pkg:composer/jcolombo/paymo-api-php@v0.7.0
