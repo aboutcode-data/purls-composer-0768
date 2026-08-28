@@ -1,2 +1,4 @@
+- pkg:composer/joepages/laravel-phone-numbers@1.2.0
+- pkg:composer/joepages/laravel-phone-numbers@1.2.1
 - pkg:composer/joepages/laravel-phone-numbers@v1.0.0
 - pkg:composer/joepages/laravel-phone-numbers@v1.1.0
