@@ -37,3 +37,4 @@
 - pkg:composer/innmind/http-transport@9.0.0
 - pkg:composer/innmind/http-transport@9.1.0
 - pkg:composer/innmind/http-transport@9.2.0
+- pkg:composer/innmind/http-transport@9.3.0

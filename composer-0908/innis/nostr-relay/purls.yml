@@ -34,3 +34,4 @@
 - pkg:composer/innis/nostr-relay@v0.6.1
 - pkg:composer/innis/nostr-relay@v0.6.2
 - pkg:composer/innis/nostr-relay@v0.6.3
+- pkg:composer/innis/nostr-relay@v0.7.0
