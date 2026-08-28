@@ -6,6 +6,7 @@
 - pkg:composer/kaadon/jwt@1.2.7
 - pkg:composer/kaadon/jwt@1.2.8
 - pkg:composer/kaadon/jwt@1.2.9
+- pkg:composer/kaadon/jwt@3.0.1
 - pkg:composer/kaadon/jwt@v1.0.0
 - pkg:composer/kaadon/jwt@v1.0.1
 - pkg:composer/kaadon/jwt@v1.0.2
