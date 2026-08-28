@@ -6,3 +6,4 @@
 - pkg:composer/fiberpay/regon-client-php@0.1.5
 - pkg:composer/fiberpay/regon-client-php@0.1.6
 - pkg:composer/fiberpay/regon-client-php@0.1.7
+- pkg:composer/fiberpay/regon-client-php@0.1.8
