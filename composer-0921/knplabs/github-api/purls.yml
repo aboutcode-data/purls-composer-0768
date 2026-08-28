@@ -81,6 +81,7 @@
 - pkg:composer/knplabs/github-api@v3.14.1
 - pkg:composer/knplabs/github-api@v3.15.0
 - pkg:composer/knplabs/github-api@v3.16.0
+- pkg:composer/knplabs/github-api@v3.16.1
 - pkg:composer/knplabs/github-api@v3.2.0
 - pkg:composer/knplabs/github-api@v3.3.0
 - pkg:composer/knplabs/github-api@v3.4.0
