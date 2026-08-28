@@ -1,4 +1,6 @@
 - pkg:composer/i2soft/i2up-sdk@v20200721
 - pkg:composer/i2soft/i2up-sdk@v20240228
+- pkg:composer/i2soft/i2up-sdk@v20260626
 - pkg:composer/i2soft/i2up-sdk@v7.1.53
 - pkg:composer/i2soft/i2up-sdk@v8.1.0
+- pkg:composer/i2soft/i2up-sdk@v9.1.6.2
