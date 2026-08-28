@@ -2142,7 +2142,15 @@
 - pkg:composer/helsingborg-stad/municipio@7.11.6
 - pkg:composer/helsingborg-stad/municipio@7.11.8
 - pkg:composer/helsingborg-stad/municipio@7.12.1
+- pkg:composer/helsingborg-stad/municipio@7.12.11
+- pkg:composer/helsingborg-stad/municipio@7.12.14
+- pkg:composer/helsingborg-stad/municipio@7.12.16
+- pkg:composer/helsingborg-stad/municipio@7.12.18
 - pkg:composer/helsingborg-stad/municipio@7.12.3
+- pkg:composer/helsingborg-stad/municipio@7.12.5
+- pkg:composer/helsingborg-stad/municipio@7.12.7
+- pkg:composer/helsingborg-stad/municipio@7.12.9
+- pkg:composer/helsingborg-stad/municipio@7.13.2
 - pkg:composer/helsingborg-stad/municipio@7.4.11
 - pkg:composer/helsingborg-stad/municipio@7.4.13
 - pkg:composer/helsingborg-stad/municipio@7.4.15
