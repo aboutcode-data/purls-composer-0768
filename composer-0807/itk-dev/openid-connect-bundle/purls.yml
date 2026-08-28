@@ -12,3 +12,7 @@
 - pkg:composer/itk-dev/openid-connect-bundle@4.1.0
 - pkg:composer/itk-dev/openid-connect-bundle@4.2.0
 - pkg:composer/itk-dev/openid-connect-bundle@5.0.0
+- pkg:composer/itk-dev/openid-connect-bundle@5.1.0
+- pkg:composer/itk-dev/openid-connect-bundle@5.1.1
+- pkg:composer/itk-dev/openid-connect-bundle@6.0.0
+- pkg:composer/itk-dev/openid-connect-bundle@6.1.0
