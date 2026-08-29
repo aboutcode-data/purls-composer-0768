@@ -481,3 +481,4 @@
 - pkg:composer/laravel-enso/tables@5.1.9
 - pkg:composer/laravel-enso/tables@5.2.0
 - pkg:composer/laravel-enso/tables@5.2.1
+- pkg:composer/laravel-enso/tables@v5.2.2
