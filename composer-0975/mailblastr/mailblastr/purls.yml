@@ -5,3 +5,7 @@
 - pkg:composer/mailblastr/mailblastr@v2.0.0
 - pkg:composer/mailblastr/mailblastr@v3.0.0
 - pkg:composer/mailblastr/mailblastr@v3.0.1
+- pkg:composer/mailblastr/mailblastr@v4.0.0
+- pkg:composer/mailblastr/mailblastr@v5.0.0
+- pkg:composer/mailblastr/mailblastr@v5.0.1
+- pkg:composer/mailblastr/mailblastr@v5.1.0
