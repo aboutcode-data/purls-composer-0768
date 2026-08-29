@@ -5,3 +5,5 @@
 - pkg:composer/konradmichalik/typo3-routing@0.4.0
 - pkg:composer/konradmichalik/typo3-routing@0.5.0
 - pkg:composer/konradmichalik/typo3-routing@1.0.0
+- pkg:composer/konradmichalik/typo3-routing@1.1.0
+- pkg:composer/konradmichalik/typo3-routing@1.2.0
