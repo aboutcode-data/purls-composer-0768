@@ -13,3 +13,4 @@
 - pkg:composer/leuchtdiode/mezzio-async-queue@1.1.6
 - pkg:composer/leuchtdiode/mezzio-async-queue@1.2.0
 - pkg:composer/leuchtdiode/mezzio-async-queue@1.2.1
+- pkg:composer/leuchtdiode/mezzio-async-queue@1.2.2
