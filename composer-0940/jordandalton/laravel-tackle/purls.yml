@@ -92,10 +92,16 @@
 - pkg:composer/jordandalton/laravel-tackle@v1.45.0
 - pkg:composer/jordandalton/laravel-tackle@v1.45.1
 - pkg:composer/jordandalton/laravel-tackle@v1.45.2
+- pkg:composer/jordandalton/laravel-tackle@v1.46.0
+- pkg:composer/jordandalton/laravel-tackle@v1.47.0
+- pkg:composer/jordandalton/laravel-tackle@v1.48.0
+- pkg:composer/jordandalton/laravel-tackle@v1.49.0
+- pkg:composer/jordandalton/laravel-tackle@v1.49.1
 - pkg:composer/jordandalton/laravel-tackle@v1.5.0
 - pkg:composer/jordandalton/laravel-tackle@v1.5.1
 - pkg:composer/jordandalton/laravel-tackle@v1.5.2
 - pkg:composer/jordandalton/laravel-tackle@v1.5.3
+- pkg:composer/jordandalton/laravel-tackle@v1.50.0
 - pkg:composer/jordandalton/laravel-tackle@v1.6.0
 - pkg:composer/jordandalton/laravel-tackle@v1.6.1
 - pkg:composer/jordandalton/laravel-tackle@v1.6.2
