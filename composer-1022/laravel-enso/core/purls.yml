@@ -206,6 +206,7 @@
 - pkg:composer/laravel-enso/core@12.2.20
 - pkg:composer/laravel-enso/core@12.2.21
 - pkg:composer/laravel-enso/core@12.2.22
+- pkg:composer/laravel-enso/core@12.2.23
 - pkg:composer/laravel-enso/core@12.2.3
 - pkg:composer/laravel-enso/core@12.2.4
 - pkg:composer/laravel-enso/core@12.2.5
