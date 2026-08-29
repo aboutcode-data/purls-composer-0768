@@ -35,3 +35,4 @@
 - pkg:composer/joomla/registry@3.0.1
 - pkg:composer/joomla/registry@3.0.2
 - pkg:composer/joomla/registry@4.0.0
+- pkg:composer/joomla/registry@4.0.1
