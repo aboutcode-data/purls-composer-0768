@@ -19,3 +19,4 @@
 - pkg:composer/marshmallow/nova-activity@v5.1.2
 - pkg:composer/marshmallow/nova-activity@v5.2.0
 - pkg:composer/marshmallow/nova-activity@v5.2.1
+- pkg:composer/marshmallow/nova-activity@v5.2.2
