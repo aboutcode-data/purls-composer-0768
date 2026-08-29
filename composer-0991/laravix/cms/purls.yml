@@ -2,5 +2,10 @@
 - pkg:composer/laravix/cms@v0.11.0
 - pkg:composer/laravix/cms@v0.11.1
 - pkg:composer/laravix/cms@v0.12.0
+- pkg:composer/laravix/cms@v0.13.0
+- pkg:composer/laravix/cms@v0.13.1
+- pkg:composer/laravix/cms@v0.13.2
+- pkg:composer/laravix/cms@v0.14.0
+- pkg:composer/laravix/cms@v0.14.1
 - pkg:composer/laravix/cms@v0.9.0
 - pkg:composer/laravix/cms@v0.9.1
