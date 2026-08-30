@@ -111,3 +111,6 @@
 - pkg:composer/mwstake/mediawiki-component-commonwebapis@5.0.0
 - pkg:composer/mwstake/mediawiki-component-commonwebapis@5.0.1
 - pkg:composer/mwstake/mediawiki-component-commonwebapis@5.0.2
+- pkg:composer/mwstake/mediawiki-component-commonwebapis@5.0.3
+- pkg:composer/mwstake/mediawiki-component-commonwebapis@5.1.0
+- pkg:composer/mwstake/mediawiki-component-commonwebapis@5.1.1
