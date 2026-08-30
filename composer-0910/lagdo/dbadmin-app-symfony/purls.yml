@@ -1,2 +1,4 @@
 - pkg:composer/lagdo/dbadmin-app-symfony@v0.11.0
 - pkg:composer/lagdo/dbadmin-app-symfony@v0.11.1
+- pkg:composer/lagdo/dbadmin-app-symfony@v0.11.2
+- pkg:composer/lagdo/dbadmin-app-symfony@v0.11.3
