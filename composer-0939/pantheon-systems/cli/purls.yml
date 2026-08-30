@@ -150,5 +150,6 @@
 - pkg:composer/pantheon-systems/cli@4.3.0
 - pkg:composer/pantheon-systems/cli@4.3.1
 - pkg:composer/pantheon-systems/cli@4.3.2
+- pkg:composer/pantheon-systems/cli@4.3.3
 - pkg:composer/pantheon-systems/cli@v0.0.0-alpha
 - pkg:composer/pantheon-systems/cli@v3.0.0-alpha3
