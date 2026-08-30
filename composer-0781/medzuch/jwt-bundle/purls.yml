@@ -1,0 +1,4 @@
+- pkg:composer/medzuch/jwt-bundle@v0.1.0
+- pkg:composer/medzuch/jwt-bundle@v0.2.0
+- pkg:composer/medzuch/jwt-bundle@v0.3.0
+- pkg:composer/medzuch/jwt-bundle@v1.0.0
