@@ -17,6 +17,7 @@
 - pkg:composer/ospp/protocol@v0.24.1
 - pkg:composer/ospp/protocol@v0.25.0
 - pkg:composer/ospp/protocol@v0.26.0
+- pkg:composer/ospp/protocol@v0.27.0
 - pkg:composer/ospp/protocol@v0.3.0
 - pkg:composer/ospp/protocol@v0.3.1
 - pkg:composer/ospp/protocol@v0.3.2
