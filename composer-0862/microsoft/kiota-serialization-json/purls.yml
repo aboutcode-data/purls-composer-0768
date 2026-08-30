@@ -21,4 +21,5 @@
 - pkg:composer/microsoft/kiota-serialization-json@2.0.0
 - pkg:composer/microsoft/kiota-serialization-json@2.0.1
 - pkg:composer/microsoft/kiota-serialization-json@2.0.2
+- pkg:composer/microsoft/kiota-serialization-json@2.1.0
 - pkg:composer/microsoft/kiota-serialization-json@v1.3.1
