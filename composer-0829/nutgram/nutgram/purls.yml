@@ -192,6 +192,7 @@
 - pkg:composer/nutgram/nutgram@4.5.1
 - pkg:composer/nutgram/nutgram@4.5.2
 - pkg:composer/nutgram/nutgram@4.5.3
+- pkg:composer/nutgram/nutgram@4.50.0
 - pkg:composer/nutgram/nutgram@4.6.0
 - pkg:composer/nutgram/nutgram@4.7.0
 - pkg:composer/nutgram/nutgram@4.8.0
