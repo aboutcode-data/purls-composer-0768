@@ -14,6 +14,10 @@
 - pkg:composer/kanopi/firewall@v2.13.0
 - pkg:composer/kanopi/firewall@v2.14.0
 - pkg:composer/kanopi/firewall@v2.15.0
+- pkg:composer/kanopi/firewall@v2.15.1
+- pkg:composer/kanopi/firewall@v2.15.2
+- pkg:composer/kanopi/firewall@v2.15.3
+- pkg:composer/kanopi/firewall@v2.16.0
 - pkg:composer/kanopi/firewall@v2.2.0
 - pkg:composer/kanopi/firewall@v2.3.0
 - pkg:composer/kanopi/firewall@v2.4.0
