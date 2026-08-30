@@ -1,4 +1,6 @@
 - pkg:composer/moosylvania/silverstripe-registrationguard@1.0.0
 - pkg:composer/moosylvania/silverstripe-registrationguard@1.1.0
+- pkg:composer/moosylvania/silverstripe-registrationguard@1.1.1
 - pkg:composer/moosylvania/silverstripe-registrationguard@2.0.0
 - pkg:composer/moosylvania/silverstripe-registrationguard@2.1.0
+- pkg:composer/moosylvania/silverstripe-registrationguard@2.1.1
