@@ -54,6 +54,9 @@
 - pkg:composer/milpa/framework@v0.36.0
 - pkg:composer/milpa/framework@v0.36.1
 - pkg:composer/milpa/framework@v0.36.2
+- pkg:composer/milpa/framework@v0.37.0
+- pkg:composer/milpa/framework@v0.38.0
+- pkg:composer/milpa/framework@v0.38.1
 - pkg:composer/milpa/framework@v0.4.0
 - pkg:composer/milpa/framework@v0.5.0
 - pkg:composer/milpa/framework@v0.5.1

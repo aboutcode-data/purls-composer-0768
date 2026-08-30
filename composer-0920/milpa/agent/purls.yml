@@ -14,6 +14,17 @@
 - pkg:composer/milpa/agent@v0.2.1
 - pkg:composer/milpa/agent@v0.2.2
 - pkg:composer/milpa/agent@v0.20.0
+- pkg:composer/milpa/agent@v0.21.0
+- pkg:composer/milpa/agent@v0.22.0
+- pkg:composer/milpa/agent@v0.23.0
+- pkg:composer/milpa/agent@v0.24.0
+- pkg:composer/milpa/agent@v0.25.0
+- pkg:composer/milpa/agent@v0.26.0
+- pkg:composer/milpa/agent@v0.26.1
+- pkg:composer/milpa/agent@v0.27.0
+- pkg:composer/milpa/agent@v0.28.0
+- pkg:composer/milpa/agent@v0.29.0
+- pkg:composer/milpa/agent@v0.29.1
 - pkg:composer/milpa/agent@v0.3.0
 - pkg:composer/milpa/agent@v0.4.0
 - pkg:composer/milpa/agent@v0.5.0
