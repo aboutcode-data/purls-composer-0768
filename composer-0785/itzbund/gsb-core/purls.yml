@@ -995,6 +995,7 @@
 - pkg:composer/itzbund/gsb-core@v5.6.0-beta.19
 - pkg:composer/itzbund/gsb-core@v5.6.0-beta.2
 - pkg:composer/itzbund/gsb-core@v5.6.0-beta.20
+- pkg:composer/itzbund/gsb-core@v5.6.0-beta.21
 - pkg:composer/itzbund/gsb-core@v5.6.0-beta.3
 - pkg:composer/itzbund/gsb-core@v5.6.0-beta.4
 - pkg:composer/itzbund/gsb-core@v5.6.0-beta.5
@@ -1006,3 +1007,4 @@
 - pkg:composer/itzbund/gsb-core@v5.6.0-rc.2
 - pkg:composer/itzbund/gsb-core@v5.6.0-rc.3
 - pkg:composer/itzbund/gsb-core@v5.6.0-rc.4
+- pkg:composer/itzbund/gsb-core@v5.6.0-rc.5
