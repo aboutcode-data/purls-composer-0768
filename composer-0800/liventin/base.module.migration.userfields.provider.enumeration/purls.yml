@@ -1,1 +1,2 @@
 - pkg:composer/liventin/base.module.migration.userfields.provider.enumeration@V1.0.0
+- pkg:composer/liventin/base.module.migration.userfields.provider.enumeration@v1.0.1
