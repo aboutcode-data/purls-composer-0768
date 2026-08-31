@@ -10,3 +10,4 @@
 - pkg:composer/minvws/openid-connect-php-laravel@v0.3.0
 - pkg:composer/minvws/openid-connect-php-laravel@v0.3.1
 - pkg:composer/minvws/openid-connect-php-laravel@v0.4.0
+- pkg:composer/minvws/openid-connect-php-laravel@v1.0.0
