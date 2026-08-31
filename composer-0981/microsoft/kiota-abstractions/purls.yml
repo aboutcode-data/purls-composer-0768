@@ -41,4 +41,5 @@
 - pkg:composer/microsoft/kiota-abstractions@2.0.1
 - pkg:composer/microsoft/kiota-abstractions@2.0.2
 - pkg:composer/microsoft/kiota-abstractions@2.1.0
+- pkg:composer/microsoft/kiota-abstractions@2.1.1
 - pkg:composer/microsoft/kiota-abstractions@v0.8.3
