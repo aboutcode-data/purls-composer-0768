@@ -229,6 +229,8 @@
 - pkg:composer/neophp-dev/neophp@v4.44.0
 - pkg:composer/neophp-dev/neophp@v4.45.0
 - pkg:composer/neophp-dev/neophp@v4.46.0
+- pkg:composer/neophp-dev/neophp@v4.47.0
+- pkg:composer/neophp-dev/neophp@v4.48.0
 - pkg:composer/neophp-dev/neophp@v4.5.0
 - pkg:composer/neophp-dev/neophp@v4.6.0
 - pkg:composer/neophp-dev/neophp@v4.6.1
