@@ -16,6 +16,8 @@
 - pkg:composer/postboxcms/desk@v1.15.2
 - pkg:composer/postboxcms/desk@v1.15.3
 - pkg:composer/postboxcms/desk@v1.16.0
+- pkg:composer/postboxcms/desk@v1.16.1
+- pkg:composer/postboxcms/desk@v1.16.2
 - pkg:composer/postboxcms/desk@v1.2.0
 - pkg:composer/postboxcms/desk@v1.3.0
 - pkg:composer/postboxcms/desk@v1.3.1
