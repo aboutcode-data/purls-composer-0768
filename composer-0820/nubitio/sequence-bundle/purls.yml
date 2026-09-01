@@ -30,3 +30,4 @@
 - pkg:composer/nubitio/sequence-bundle@v0.15.2
 - pkg:composer/nubitio/sequence-bundle@v1.0.0
 - pkg:composer/nubitio/sequence-bundle@v1.0.0-rc.1
+- pkg:composer/nubitio/sequence-bundle@v1.0.1
