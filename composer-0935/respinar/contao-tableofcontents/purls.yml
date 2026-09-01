@@ -1,4 +1,5 @@
 - pkg:composer/respinar/contao-tableofcontents@0.1.0
+- pkg:composer/respinar/contao-tableofcontents@0.10.0
 - pkg:composer/respinar/contao-tableofcontents@0.2.0
 - pkg:composer/respinar/contao-tableofcontents@0.2.1
 - pkg:composer/respinar/contao-tableofcontents@0.2.2
@@ -9,3 +10,4 @@
 - pkg:composer/respinar/contao-tableofcontents@0.7.0
 - pkg:composer/respinar/contao-tableofcontents@0.8.0
 - pkg:composer/respinar/contao-tableofcontents@0.8.1
+- pkg:composer/respinar/contao-tableofcontents@0.9.0

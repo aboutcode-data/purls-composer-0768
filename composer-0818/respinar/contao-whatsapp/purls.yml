@@ -10,3 +10,5 @@
 - pkg:composer/respinar/contao-whatsapp@1.6.1
 - pkg:composer/respinar/contao-whatsapp@1.6.2
 - pkg:composer/respinar/contao-whatsapp@1.6.3
+- pkg:composer/respinar/contao-whatsapp@1.7.0
+- pkg:composer/respinar/contao-whatsapp@1.8.0
