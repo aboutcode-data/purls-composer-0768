@@ -20,3 +20,4 @@
 - pkg:composer/spryker-feature/merchant-order-threshold@202602.0
 - pkg:composer/spryker-feature/merchant-order-threshold@202604.0
 - pkg:composer/spryker-feature/merchant-order-threshold@202606.0
+- pkg:composer/spryker-feature/merchant-order-threshold@202608.0
