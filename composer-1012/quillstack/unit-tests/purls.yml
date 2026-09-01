@@ -1,3 +1,4 @@
+- pkg:composer/quillstack/unit-tests@0.9.0
 - pkg:composer/quillstack/unit-tests@v0.0.1
 - pkg:composer/quillstack/unit-tests@v0.0.2
 - pkg:composer/quillstack/unit-tests@v0.0.3
@@ -29,3 +30,10 @@
 - pkg:composer/quillstack/unit-tests@v0.2.7
 - pkg:composer/quillstack/unit-tests@v0.2.8
 - pkg:composer/quillstack/unit-tests@v0.2.9
+- pkg:composer/quillstack/unit-tests@v0.3.0
+- pkg:composer/quillstack/unit-tests@v0.3.1
+- pkg:composer/quillstack/unit-tests@v0.4.0
+- pkg:composer/quillstack/unit-tests@v0.5.0
+- pkg:composer/quillstack/unit-tests@v0.6.0
+- pkg:composer/quillstack/unit-tests@v0.7.0
+- pkg:composer/quillstack/unit-tests@v0.8.0

@@ -9,4 +9,5 @@
 - pkg:composer/quioteframework/cloud-azure@v4.0.0-RC4
 - pkg:composer/quioteframework/cloud-azure@v4.0.0-RC5
 - pkg:composer/quioteframework/cloud-azure@v4.0.0-RC6
+- pkg:composer/quioteframework/cloud-azure@v4.1.0
 - pkg:composer/quioteframework/cloud-azure@v4.1.0-RC1

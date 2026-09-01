@@ -1,1 +1,8 @@
+- pkg:composer/quillstack/http-request@0.6.0
 - pkg:composer/quillstack/http-request@v0.0.1
+- pkg:composer/quillstack/http-request@v0.1.0
+- pkg:composer/quillstack/http-request@v0.2.0
+- pkg:composer/quillstack/http-request@v0.3.0
+- pkg:composer/quillstack/http-request@v0.4.0
+- pkg:composer/quillstack/http-request@v0.5.0
+- pkg:composer/quillstack/http-request@v0.6.1
