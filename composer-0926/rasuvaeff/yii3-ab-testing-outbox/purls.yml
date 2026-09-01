@@ -7,3 +7,4 @@
 - pkg:composer/rasuvaeff/yii3-ab-testing-outbox@v1.2.4
 - pkg:composer/rasuvaeff/yii3-ab-testing-outbox@v1.3.0
 - pkg:composer/rasuvaeff/yii3-ab-testing-outbox@v2.0.0
+- pkg:composer/rasuvaeff/yii3-ab-testing-outbox@v2.0.1
