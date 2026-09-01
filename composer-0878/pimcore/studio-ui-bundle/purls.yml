@@ -13,6 +13,7 @@
 - pkg:composer/pimcore/studio-ui-bundle@v2025.4.10
 - pkg:composer/pimcore/studio-ui-bundle@v2025.4.11
 - pkg:composer/pimcore/studio-ui-bundle@v2025.4.12
+- pkg:composer/pimcore/studio-ui-bundle@v2025.4.13
 - pkg:composer/pimcore/studio-ui-bundle@v2025.4.2
 - pkg:composer/pimcore/studio-ui-bundle@v2025.4.3
 - pkg:composer/pimcore/studio-ui-bundle@v2025.4.4
@@ -38,3 +39,4 @@
 - pkg:composer/pimcore/studio-ui-bundle@v2026.2.5
 - pkg:composer/pimcore/studio-ui-bundle@v2026.2.6
 - pkg:composer/pimcore/studio-ui-bundle@v2026.2.7
+- pkg:composer/pimcore/studio-ui-bundle@v2026.2.8
