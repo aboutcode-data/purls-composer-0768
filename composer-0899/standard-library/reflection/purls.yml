@@ -14,4 +14,7 @@
 - pkg:composer/standard-library/reflection@1.0.32
 - pkg:composer/standard-library/reflection@1.0.33
 - pkg:composer/standard-library/reflection@1.0.34
+- pkg:composer/standard-library/reflection@1.0.35
+- pkg:composer/standard-library/reflection@1.0.36
+- pkg:composer/standard-library/reflection@1.0.38
 - pkg:composer/standard-library/reflection@v1.0.20
