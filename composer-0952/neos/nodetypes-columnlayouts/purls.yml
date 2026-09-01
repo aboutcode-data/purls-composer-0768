@@ -368,3 +368,4 @@
 - pkg:composer/neos/nodetypes-columnlayouts@9.1.8
 - pkg:composer/neos/nodetypes-columnlayouts@9.2.0-beta1
 - pkg:composer/neos/nodetypes-columnlayouts@9.2.0-beta2
+- pkg:composer/neos/nodetypes-columnlayouts@9.2.0-beta3
