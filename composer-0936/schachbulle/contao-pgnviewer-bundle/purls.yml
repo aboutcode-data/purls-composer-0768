@@ -8,3 +8,6 @@
 - pkg:composer/schachbulle/contao-pgnviewer-bundle@2.0.2
 - pkg:composer/schachbulle/contao-pgnviewer-bundle@2.0.3
 - pkg:composer/schachbulle/contao-pgnviewer-bundle@2.1.0
+- pkg:composer/schachbulle/contao-pgnviewer-bundle@2.2.0
+- pkg:composer/schachbulle/contao-pgnviewer-bundle@2.3.0
+- pkg:composer/schachbulle/contao-pgnviewer-bundle@2.3.1
