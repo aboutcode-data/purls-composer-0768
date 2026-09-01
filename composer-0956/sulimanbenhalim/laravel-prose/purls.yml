@@ -1,2 +1,4 @@
 - pkg:composer/sulimanbenhalim/laravel-prose@0.10.0
 - pkg:composer/sulimanbenhalim/laravel-prose@1.0.0
+- pkg:composer/sulimanbenhalim/laravel-prose@v2.0.0
+- pkg:composer/sulimanbenhalim/laravel-prose@v2.0.1
