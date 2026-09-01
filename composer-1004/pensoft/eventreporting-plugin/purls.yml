@@ -9,6 +9,7 @@
 - pkg:composer/pensoft/eventreporting-plugin@1.0.19
 - pkg:composer/pensoft/eventreporting-plugin@1.0.20
 - pkg:composer/pensoft/eventreporting-plugin@1.0.21
+- pkg:composer/pensoft/eventreporting-plugin@1.0.22
 - pkg:composer/pensoft/eventreporting-plugin@1.0.4
 - pkg:composer/pensoft/eventreporting-plugin@1.0.6
 - pkg:composer/pensoft/eventreporting-plugin@1.0.8
