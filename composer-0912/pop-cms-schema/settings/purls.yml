@@ -108,6 +108,7 @@
 - pkg:composer/pop-cms-schema/settings@19.0.2
 - pkg:composer/pop-cms-schema/settings@19.1.0
 - pkg:composer/pop-cms-schema/settings@19.2.0
+- pkg:composer/pop-cms-schema/settings@19.2.1
 - pkg:composer/pop-cms-schema/settings@2.0.1
 - pkg:composer/pop-cms-schema/settings@2.1.0
 - pkg:composer/pop-cms-schema/settings@2.1.1

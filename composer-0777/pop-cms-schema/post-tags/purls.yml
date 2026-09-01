@@ -116,6 +116,7 @@
 - pkg:composer/pop-cms-schema/post-tags@19.0.2
 - pkg:composer/pop-cms-schema/post-tags@19.1.0
 - pkg:composer/pop-cms-schema/post-tags@19.2.0
+- pkg:composer/pop-cms-schema/post-tags@19.2.1
 - pkg:composer/pop-cms-schema/post-tags@2.0.1
 - pkg:composer/pop-cms-schema/post-tags@2.1.0
 - pkg:composer/pop-cms-schema/post-tags@2.1.1
