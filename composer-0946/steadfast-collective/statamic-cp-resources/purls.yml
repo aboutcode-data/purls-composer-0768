@@ -6,5 +6,6 @@
 - pkg:composer/steadfast-collective/statamic-cp-resources@v3.0.0
 - pkg:composer/steadfast-collective/statamic-cp-resources@v3.1.0
 - pkg:composer/steadfast-collective/statamic-cp-resources@v3.2.0
+- pkg:composer/steadfast-collective/statamic-cp-resources@v3.2.1
 - pkg:composer/steadfast-collective/statamic-cp-resources@v4.0.0
 - pkg:composer/steadfast-collective/statamic-cp-resources@v5.0.0
