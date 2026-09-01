@@ -113,6 +113,9 @@
 - pkg:composer/survos/storage-bundle@2.2.4
 - pkg:composer/survos/storage-bundle@2.2.5
 - pkg:composer/survos/storage-bundle@2.24.1
+- pkg:composer/survos/storage-bundle@2.24.30
+- pkg:composer/survos/storage-bundle@2.24.32
+- pkg:composer/survos/storage-bundle@2.24.33
 - pkg:composer/survos/storage-bundle@2.3.0
 - pkg:composer/survos/storage-bundle@2.4.0
 - pkg:composer/survos/storage-bundle@2.4.1
