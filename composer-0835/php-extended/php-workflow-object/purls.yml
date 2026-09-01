@@ -76,6 +76,8 @@
 - pkg:composer/php-extended/php-workflow-object@8.0.9
 - pkg:composer/php-extended/php-workflow-object@9.0.0
 - pkg:composer/php-extended/php-workflow-object@9.0.1
+- pkg:composer/php-extended/php-workflow-object@9.0.10
+- pkg:composer/php-extended/php-workflow-object@9.0.11
 - pkg:composer/php-extended/php-workflow-object@9.0.2
 - pkg:composer/php-extended/php-workflow-object@9.0.3
 - pkg:composer/php-extended/php-workflow-object@9.0.4
