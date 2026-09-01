@@ -8,9 +8,16 @@
 - pkg:composer/starmile/partner-sdk@v6.15.0
 - pkg:composer/starmile/partner-sdk@v6.16.0
 - pkg:composer/starmile/partner-sdk@v6.17.0
+- pkg:composer/starmile/partner-sdk@v6.18.0
+- pkg:composer/starmile/partner-sdk@v6.19.0
 - pkg:composer/starmile/partner-sdk@v6.2.0
+- pkg:composer/starmile/partner-sdk@v6.20.0
+- pkg:composer/starmile/partner-sdk@v6.21.0
+- pkg:composer/starmile/partner-sdk@v6.22.0
+- pkg:composer/starmile/partner-sdk@v6.23.0
 - pkg:composer/starmile/partner-sdk@v6.3.0
 - pkg:composer/starmile/partner-sdk@v6.4.0
 - pkg:composer/starmile/partner-sdk@v6.5.0
 - pkg:composer/starmile/partner-sdk@v6.6.0
 - pkg:composer/starmile/partner-sdk@v6.9.0
+- pkg:composer/starmile/partner-sdk@v7.0.0
