@@ -30,6 +30,7 @@
 - pkg:composer/spiral/roadrunner-bridge@v3.6.2
 - pkg:composer/spiral/roadrunner-bridge@v3.7.0
 - pkg:composer/spiral/roadrunner-bridge@v3.8.0
+- pkg:composer/spiral/roadrunner-bridge@v4.0.0
 - pkg:composer/spiral/roadrunner-bridge@v4.0.0-RC1
 - pkg:composer/spiral/roadrunner-bridge@v4.0.0-RC2
 - pkg:composer/spiral/roadrunner-bridge@v4.0.0-RC3

@@ -23,6 +23,7 @@
 - pkg:composer/spiriitlabs/form-filter-bundle@v12.0.0
 - pkg:composer/spiriitlabs/form-filter-bundle@v12.0.1
 - pkg:composer/spiriitlabs/form-filter-bundle@v12.1.0
+- pkg:composer/spiriitlabs/form-filter-bundle@v12.2.0
 - pkg:composer/spiriitlabs/form-filter-bundle@v2.0.0
 - pkg:composer/spiriitlabs/form-filter-bundle@v2.0.1
 - pkg:composer/spiriitlabs/form-filter-bundle@v2.0.2
