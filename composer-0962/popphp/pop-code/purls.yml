@@ -21,3 +21,5 @@
 - pkg:composer/popphp/pop-code@5.0.7
 - pkg:composer/popphp/pop-code@5.0.8
 - pkg:composer/popphp/pop-code@6.0.0
+- pkg:composer/popphp/pop-code@6.0.1
+- pkg:composer/popphp/pop-code@6.0.2

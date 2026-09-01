@@ -17,3 +17,5 @@
 - pkg:composer/popphp/pop-paginator@4.0.2
 - pkg:composer/popphp/pop-paginator@4.0.3
 - pkg:composer/popphp/pop-paginator@5.0.0
+- pkg:composer/popphp/pop-paginator@5.0.1
+- pkg:composer/popphp/pop-paginator@5.0.2

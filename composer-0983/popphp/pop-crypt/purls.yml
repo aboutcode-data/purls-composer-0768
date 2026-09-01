@@ -8,3 +8,5 @@
 - pkg:composer/popphp/pop-crypt@3.0.0
 - pkg:composer/popphp/pop-crypt@3.0.1
 - pkg:composer/popphp/pop-crypt@4.0.0
+- pkg:composer/popphp/pop-crypt@4.0.1
+- pkg:composer/popphp/pop-crypt@4.0.2
