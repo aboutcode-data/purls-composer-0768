@@ -218,4 +218,5 @@
 - pkg:composer/plotly/plotly.js@v3.5.1
 - pkg:composer/plotly/plotly.js@v3.6.0
 - pkg:composer/plotly/plotly.js@v3.7.0
+- pkg:composer/plotly/plotly.js@v4.0.0
 - pkg:composer/plotly/plotly.js@v4.0.0-rc.0
