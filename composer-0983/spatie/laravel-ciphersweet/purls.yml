@@ -22,3 +22,4 @@
 - pkg:composer/spatie/laravel-ciphersweet@1.7.3
 - pkg:composer/spatie/laravel-ciphersweet@1.7.4
 - pkg:composer/spatie/laravel-ciphersweet@1.8.0
+- pkg:composer/spatie/laravel-ciphersweet@1.9.0
