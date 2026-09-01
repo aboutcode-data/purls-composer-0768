@@ -21,6 +21,8 @@
 - pkg:composer/roadiz/models@1.7.0
 - pkg:composer/roadiz/models@2.0.0
 - pkg:composer/roadiz/models@2.0.1
+- pkg:composer/roadiz/models@2.7.38
+- pkg:composer/roadiz/models@2.7.39
 - pkg:composer/roadiz/models@v2.1.0
 - pkg:composer/roadiz/models@v2.1.1
 - pkg:composer/roadiz/models@v2.1.10
@@ -324,6 +326,9 @@
 - pkg:composer/roadiz/models@v2.7.36
 - pkg:composer/roadiz/models@v2.7.37
 - pkg:composer/roadiz/models@v2.7.4
+- pkg:composer/roadiz/models@v2.7.40
+- pkg:composer/roadiz/models@v2.7.41
+- pkg:composer/roadiz/models@v2.7.42
 - pkg:composer/roadiz/models@v2.7.5
 - pkg:composer/roadiz/models@v2.7.6
 - pkg:composer/roadiz/models@v2.7.7
