@@ -67,6 +67,7 @@
 - pkg:composer/slim/slim@4.15.0
 - pkg:composer/slim/slim@4.15.1
 - pkg:composer/slim/slim@4.15.2
+- pkg:composer/slim/slim@4.15.3
 - pkg:composer/slim/slim@4.2.0
 - pkg:composer/slim/slim@4.3.0
 - pkg:composer/slim/slim@4.4.0
