@@ -28,6 +28,10 @@
 - pkg:composer/milpa/agent@v0.3.0
 - pkg:composer/milpa/agent@v0.30.0
 - pkg:composer/milpa/agent@v0.31.0
+- pkg:composer/milpa/agent@v0.32.0
+- pkg:composer/milpa/agent@v0.33.0
+- pkg:composer/milpa/agent@v0.34.0
+- pkg:composer/milpa/agent@v0.35.0
 - pkg:composer/milpa/agent@v0.4.0
 - pkg:composer/milpa/agent@v0.5.0
 - pkg:composer/milpa/agent@v0.5.1
