@@ -1,3 +1,4 @@
 - pkg:composer/plugin/owc-activity-log@v1.0.0
 - pkg:composer/plugin/owc-activity-log@v1.0.1
 - pkg:composer/plugin/owc-activity-log@v1.0.2
+- pkg:composer/plugin/owc-activity-log@v1.1.0
