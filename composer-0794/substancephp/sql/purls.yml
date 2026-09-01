@@ -3,3 +3,7 @@
 - pkg:composer/substancephp/sql@v0.2.0
 - pkg:composer/substancephp/sql@v0.3.0
 - pkg:composer/substancephp/sql@v0.4.0
+- pkg:composer/substancephp/sql@v0.5.0
+- pkg:composer/substancephp/sql@v0.6.0
+- pkg:composer/substancephp/sql@v0.7.0
+- pkg:composer/substancephp/sql@v0.8.0
