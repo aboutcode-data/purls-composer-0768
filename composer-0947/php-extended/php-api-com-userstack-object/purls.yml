@@ -56,6 +56,7 @@
 - pkg:composer/php-extended/php-api-com-userstack-object@8.0.9
 - pkg:composer/php-extended/php-api-com-userstack-object@9.0.0
 - pkg:composer/php-extended/php-api-com-userstack-object@9.0.1
+- pkg:composer/php-extended/php-api-com-userstack-object@9.0.10
 - pkg:composer/php-extended/php-api-com-userstack-object@9.0.2
 - pkg:composer/php-extended/php-api-com-userstack-object@9.0.3
 - pkg:composer/php-extended/php-api-com-userstack-object@9.0.4
@@ -63,3 +64,4 @@
 - pkg:composer/php-extended/php-api-com-userstack-object@9.0.6
 - pkg:composer/php-extended/php-api-com-userstack-object@9.0.7
 - pkg:composer/php-extended/php-api-com-userstack-object@9.0.8
+- pkg:composer/php-extended/php-api-com-userstack-object@9.0.9
