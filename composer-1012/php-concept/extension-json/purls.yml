@@ -1,1 +1,2 @@
 - pkg:composer/php-concept/extension-json@1.0.0
+- pkg:composer/php-concept/extension-json@v1.0.1
