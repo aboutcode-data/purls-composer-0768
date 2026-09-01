@@ -52,3 +52,5 @@
 - pkg:composer/protocollive/phptools@2026.03.30
 - pkg:composer/protocollive/phptools@2026.05.01
 - pkg:composer/protocollive/phptools@2026.05.04
+- pkg:composer/protocollive/phptools@2026.08.28
+- pkg:composer/protocollive/phptools@2026.08.29
