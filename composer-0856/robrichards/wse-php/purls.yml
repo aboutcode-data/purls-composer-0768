@@ -4,3 +4,4 @@
 - pkg:composer/robrichards/wse-php@2.0.2
 - pkg:composer/robrichards/wse-php@2.0.3
 - pkg:composer/robrichards/wse-php@2.0.4
+- pkg:composer/robrichards/wse-php@3.0.0
