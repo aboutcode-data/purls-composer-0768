@@ -38,6 +38,7 @@
 - pkg:composer/shieldforce/checkout-payment@v5.37.3
 - pkg:composer/shieldforce/checkout-payment@v5.38.3
 - pkg:composer/shieldforce/checkout-payment@v5.39.3
+- pkg:composer/shieldforce/checkout-payment@v5.39.4
 - pkg:composer/shieldforce/checkout-payment@v5.4.2
 - pkg:composer/shieldforce/checkout-payment@v5.40.3
 - pkg:composer/shieldforce/checkout-payment@v5.40.4
@@ -107,6 +108,7 @@
 - pkg:composer/shieldforce/checkout-payment@v5.97.0
 - pkg:composer/shieldforce/checkout-payment@v5.98.0
 - pkg:composer/shieldforce/checkout-payment@v5.99.0
+- pkg:composer/shieldforce/checkout-payment@v5.99.1
 - pkg:composer/shieldforce/checkout-payment@v6.0.0
 - pkg:composer/shieldforce/checkout-payment@v6.1.0
 - pkg:composer/shieldforce/checkout-payment@v6.10.0
@@ -133,7 +135,16 @@
 - pkg:composer/shieldforce/checkout-payment@v6.28.2
 - pkg:composer/shieldforce/checkout-payment@v6.28.3
 - pkg:composer/shieldforce/checkout-payment@v6.28.4
+- pkg:composer/shieldforce/checkout-payment@v6.29.0
+- pkg:composer/shieldforce/checkout-payment@v6.29.1
+- pkg:composer/shieldforce/checkout-payment@v6.29.2
 - pkg:composer/shieldforce/checkout-payment@v6.3.0
+- pkg:composer/shieldforce/checkout-payment@v6.30.0
+- pkg:composer/shieldforce/checkout-payment@v6.31.0
+- pkg:composer/shieldforce/checkout-payment@v6.31.1
+- pkg:composer/shieldforce/checkout-payment@v6.32.0
+- pkg:composer/shieldforce/checkout-payment@v6.32.1
+- pkg:composer/shieldforce/checkout-payment@v6.33.0
 - pkg:composer/shieldforce/checkout-payment@v6.4.0
 - pkg:composer/shieldforce/checkout-payment@v6.5.0
 - pkg:composer/shieldforce/checkout-payment@v6.6.0
