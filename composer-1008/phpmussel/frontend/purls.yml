@@ -27,3 +27,4 @@
 - pkg:composer/phpmussel/frontend@v3.7.0
 - pkg:composer/phpmussel/frontend@v3.7.1
 - pkg:composer/phpmussel/frontend@v3.7.2
+- pkg:composer/phpmussel/frontend@v3.8.0
