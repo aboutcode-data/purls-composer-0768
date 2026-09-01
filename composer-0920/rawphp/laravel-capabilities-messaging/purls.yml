@@ -17,3 +17,4 @@
 - pkg:composer/rawphp/laravel-capabilities-messaging@v0.4.2
 - pkg:composer/rawphp/laravel-capabilities-messaging@v0.5.0
 - pkg:composer/rawphp/laravel-capabilities-messaging@v0.5.1
+- pkg:composer/rawphp/laravel-capabilities-messaging@v0.5.2
