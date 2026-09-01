@@ -1,3 +1,4 @@
+- pkg:composer/spomky-labs/cbor-bundle@3.1.0
 - pkg:composer/spomky-labs/cbor-bundle@v1.0.0
 - pkg:composer/spomky-labs/cbor-bundle@v1.0.1
 - pkg:composer/spomky-labs/cbor-bundle@v2.0.0
