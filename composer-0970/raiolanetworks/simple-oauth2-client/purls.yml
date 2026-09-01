@@ -9,3 +9,5 @@
 - pkg:composer/raiolanetworks/simple-oauth2-client@2.0.0
 - pkg:composer/raiolanetworks/simple-oauth2-client@3.0.0
 - pkg:composer/raiolanetworks/simple-oauth2-client@3.1.0
+- pkg:composer/raiolanetworks/simple-oauth2-client@3.1.1
+- pkg:composer/raiolanetworks/simple-oauth2-client@3.2.0
