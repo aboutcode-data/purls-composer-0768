@@ -80,3 +80,4 @@
 - pkg:composer/prestashop/traces@v6.5.1
 - pkg:composer/prestashop/traces@v6.5.2
 - pkg:composer/prestashop/traces@v6.5.3
+- pkg:composer/prestashop/traces@v6.5.4
