@@ -58,3 +58,15 @@
 - pkg:composer/piecesphp/database@v3.0.2
 - pkg:composer/piecesphp/database@v3.0.3
 - pkg:composer/piecesphp/database@v3.0.4
+- pkg:composer/piecesphp/database@v3.1.0
+- pkg:composer/piecesphp/database@v3.2.0
+- pkg:composer/piecesphp/database@v3.2.1
+- pkg:composer/piecesphp/database@v3.3.0
+- pkg:composer/piecesphp/database@v3.4.0
+- pkg:composer/piecesphp/database@v3.5.0
+- pkg:composer/piecesphp/database@v3.6.0
+- pkg:composer/piecesphp/database@v3.7.0
+- pkg:composer/piecesphp/database@v3.8.0
+- pkg:composer/piecesphp/database@v3.8.1
+- pkg:composer/piecesphp/database@v3.9.0
+- pkg:composer/piecesphp/database@v4.0.0
