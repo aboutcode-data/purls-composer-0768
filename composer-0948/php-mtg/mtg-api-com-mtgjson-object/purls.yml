@@ -99,3 +99,5 @@
 - pkg:composer/php-mtg/mtg-api-com-mtgjson-object@9.0.6
 - pkg:composer/php-mtg/mtg-api-com-mtgjson-object@9.0.7
 - pkg:composer/php-mtg/mtg-api-com-mtgjson-object@9.1.0
+- pkg:composer/php-mtg/mtg-api-com-mtgjson-object@9.1.1
+- pkg:composer/php-mtg/mtg-api-com-mtgjson-object@9.1.2
