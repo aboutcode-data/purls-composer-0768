@@ -26,6 +26,8 @@
 - pkg:composer/noerd/noerd@v0.14.3
 - pkg:composer/noerd/noerd@v0.14.4
 - pkg:composer/noerd/noerd@v0.14.5
+- pkg:composer/noerd/noerd@v0.14.6
+- pkg:composer/noerd/noerd@v0.14.7
 - pkg:composer/noerd/noerd@v0.2.1
 - pkg:composer/noerd/noerd@v0.2.10
 - pkg:composer/noerd/noerd@v0.2.11
