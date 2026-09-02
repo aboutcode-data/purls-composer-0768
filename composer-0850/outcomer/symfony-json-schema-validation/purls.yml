@@ -1,3 +1,5 @@
 - pkg:composer/outcomer/symfony-json-schema-validation@v1.0.0
 - pkg:composer/outcomer/symfony-json-schema-validation@v2.0.0
 - pkg:composer/outcomer/symfony-json-schema-validation@v3.0.0
+- pkg:composer/outcomer/symfony-json-schema-validation@v4.0.0
+- pkg:composer/outcomer/symfony-json-schema-validation@v4.0.1
