@@ -68,3 +68,5 @@
 - pkg:composer/serversideup/spin@v3.2.4
 - pkg:composer/serversideup/spin@v3.3.0
 - pkg:composer/serversideup/spin@v3.4.0
+- pkg:composer/serversideup/spin@v3.5.0
+- pkg:composer/serversideup/spin@v3.5.1
