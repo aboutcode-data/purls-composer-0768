@@ -1,3 +1,4 @@
+- pkg:composer/quioteframework/quiote@4.4.1-RC1
 - pkg:composer/quioteframework/quiote@v1.0.0
 - pkg:composer/quioteframework/quiote@v1.2.0
 - pkg:composer/quioteframework/quiote@v1.2.1
