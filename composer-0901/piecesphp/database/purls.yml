@@ -70,3 +70,4 @@
 - pkg:composer/piecesphp/database@v3.8.1
 - pkg:composer/piecesphp/database@v3.9.0
 - pkg:composer/piecesphp/database@v4.0.0
+- pkg:composer/piecesphp/database@v4.1.0
