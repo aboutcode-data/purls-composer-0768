@@ -21,3 +21,4 @@
 - pkg:composer/teamneusta/pimcore-testing-framework@v0.13.4
 - pkg:composer/teamneusta/pimcore-testing-framework@v0.13.5
 - pkg:composer/teamneusta/pimcore-testing-framework@v0.14.0
+- pkg:composer/teamneusta/pimcore-testing-framework@v0.15.0
