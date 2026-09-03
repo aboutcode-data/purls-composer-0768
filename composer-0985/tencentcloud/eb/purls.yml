@@ -420,6 +420,10 @@
 - pkg:composer/tencentcloud/eb@3.0.1654
 - pkg:composer/tencentcloud/eb@3.0.1655
 - pkg:composer/tencentcloud/eb@3.0.1656
+- pkg:composer/tencentcloud/eb@3.0.1657
+- pkg:composer/tencentcloud/eb@3.0.1658
+- pkg:composer/tencentcloud/eb@3.0.1660
+- pkg:composer/tencentcloud/eb@3.0.1661
 - pkg:composer/tencentcloud/eb@3.0.554
 - pkg:composer/tencentcloud/eb@3.0.555
 - pkg:composer/tencentcloud/eb@3.0.556
