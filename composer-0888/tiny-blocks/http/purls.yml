@@ -38,3 +38,4 @@
 - pkg:composer/tiny-blocks/http@6.4.0
 - pkg:composer/tiny-blocks/http@7.0.0
 - pkg:composer/tiny-blocks/http@7.0.1
+- pkg:composer/tiny-blocks/http@7.1.0
