@@ -13,3 +13,4 @@
 - pkg:composer/tractorcow/silverstripe-autocomplete@4.0.0
 - pkg:composer/tractorcow/silverstripe-autocomplete@4.0.0-beta1
 - pkg:composer/tractorcow/silverstripe-autocomplete@5.0.0
+- pkg:composer/tractorcow/silverstripe-autocomplete@6.0.0
