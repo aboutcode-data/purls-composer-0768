@@ -70,3 +70,5 @@
 - pkg:composer/studio-design/studio-auth-php@v0.5.1-rc.46
 - pkg:composer/studio-design/studio-auth-php@v0.5.1-rc.47
 - pkg:composer/studio-design/studio-auth-php@v0.5.1-rc.48
+- pkg:composer/studio-design/studio-auth-php@v0.6.0
+- pkg:composer/studio-design/studio-auth-php@v0.6.1-rc.49
