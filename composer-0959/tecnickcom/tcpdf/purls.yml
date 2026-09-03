@@ -93,6 +93,7 @@
 - pkg:composer/tecnickcom/tcpdf@6.11.1
 - pkg:composer/tecnickcom/tcpdf@6.11.2
 - pkg:composer/tecnickcom/tcpdf@6.11.3
+- pkg:composer/tecnickcom/tcpdf@6.11.4
 - pkg:composer/tecnickcom/tcpdf@6.2.0
 - pkg:composer/tecnickcom/tcpdf@6.2.1
 - pkg:composer/tecnickcom/tcpdf@6.2.10
@@ -149,3 +150,4 @@
 - pkg:composer/tecnickcom/tcpdf@7.0.4
 - pkg:composer/tecnickcom/tcpdf@7.0.5
 - pkg:composer/tecnickcom/tcpdf@7.0.6
+- pkg:composer/tecnickcom/tcpdf@7.0.7
