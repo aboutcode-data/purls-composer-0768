@@ -231,6 +231,8 @@
 - pkg:composer/sunnysideup/ecommerce@33.0.0
 - pkg:composer/sunnysideup/ecommerce@33.0.1
 - pkg:composer/sunnysideup/ecommerce@33.0.2
+- pkg:composer/sunnysideup/ecommerce@33.1.0
+- pkg:composer/sunnysideup/ecommerce@33.1.1
 - pkg:composer/sunnysideup/ecommerce@4.0.0
 - pkg:composer/sunnysideup/ecommerce@5.0.0
 - pkg:composer/sunnysideup/ecommerce@5.0.1
