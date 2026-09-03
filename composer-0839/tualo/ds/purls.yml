@@ -125,6 +125,9 @@
 - pkg:composer/tualo/ds@1.8.130
 - pkg:composer/tualo/ds@1.8.131
 - pkg:composer/tualo/ds@1.8.132
+- pkg:composer/tualo/ds@1.8.133
+- pkg:composer/tualo/ds@1.8.134
+- pkg:composer/tualo/ds@1.8.135
 - pkg:composer/tualo/ds@1.8.14
 - pkg:composer/tualo/ds@1.8.15
 - pkg:composer/tualo/ds@1.8.16
