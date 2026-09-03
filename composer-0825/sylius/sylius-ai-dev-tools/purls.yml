@@ -1,3 +1,4 @@
 - pkg:composer/sylius/sylius-ai-dev-tools@v0.1.0
 - pkg:composer/sylius/sylius-ai-dev-tools@v0.2.0
 - pkg:composer/sylius/sylius-ai-dev-tools@v0.3.0
+- pkg:composer/sylius/sylius-ai-dev-tools@v0.4.0
