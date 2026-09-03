@@ -39,6 +39,7 @@
 - pkg:composer/symfony/polyfill-intl-normalizer@v1.37.0
 - pkg:composer/symfony/polyfill-intl-normalizer@v1.38.0
 - pkg:composer/symfony/polyfill-intl-normalizer@v1.4.0
+- pkg:composer/symfony/polyfill-intl-normalizer@v1.42.0
 - pkg:composer/symfony/polyfill-intl-normalizer@v1.5.0
 - pkg:composer/symfony/polyfill-intl-normalizer@v1.6.0
 - pkg:composer/symfony/polyfill-intl-normalizer@v1.7.0
