@@ -420,6 +420,7 @@
 - pkg:composer/tencentcloud/api@3.0.1658
 - pkg:composer/tencentcloud/api@3.0.1660
 - pkg:composer/tencentcloud/api@3.0.1661
+- pkg:composer/tencentcloud/api@3.0.1662
 - pkg:composer/tencentcloud/api@3.0.373
 - pkg:composer/tencentcloud/api@3.0.374
 - pkg:composer/tencentcloud/api@3.0.375
