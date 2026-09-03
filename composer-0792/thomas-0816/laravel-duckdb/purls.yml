@@ -6,3 +6,5 @@
 - pkg:composer/thomas-0816/laravel-duckdb@1.5
 - pkg:composer/thomas-0816/laravel-duckdb@1.5.1
 - pkg:composer/thomas-0816/laravel-duckdb@1.5.2
+- pkg:composer/thomas-0816/laravel-duckdb@1.6
+- pkg:composer/thomas-0816/laravel-duckdb@1.7
