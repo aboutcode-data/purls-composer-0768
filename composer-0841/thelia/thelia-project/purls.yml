@@ -50,7 +50,9 @@
 - pkg:composer/thelia/thelia-project@2.6.0
 - pkg:composer/thelia/thelia-project@2.6.1
 - pkg:composer/thelia/thelia-project@2.6.2
+- pkg:composer/thelia/thelia-project@3.0.0
 - pkg:composer/thelia/thelia-project@3.0.0-beta3
 - pkg:composer/thelia/thelia-project@3.0.0-beta4
 - pkg:composer/thelia/thelia-project@3.0.0-beta5
 - pkg:composer/thelia/thelia-project@3.0.0-beta6
+- pkg:composer/thelia/thelia-project@3.0.1
