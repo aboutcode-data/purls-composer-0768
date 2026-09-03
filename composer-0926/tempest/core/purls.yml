@@ -84,6 +84,7 @@
 - pkg:composer/tempest/core@v3.16.2
 - pkg:composer/tempest/core@v3.17.0
 - pkg:composer/tempest/core@v3.18.0
+- pkg:composer/tempest/core@v3.19.0
 - pkg:composer/tempest/core@v3.2.0
 - pkg:composer/tempest/core@v3.2.1
 - pkg:composer/tempest/core@v3.3.0
