@@ -59,3 +59,4 @@
 - pkg:composer/symfony/sms77-notifier@v7.4.0
 - pkg:composer/symfony/sms77-notifier@v7.4.0-BETA1
 - pkg:composer/symfony/sms77-notifier@v7.4.0-RC1
+- pkg:composer/symfony/sms77-notifier@v7.4.17

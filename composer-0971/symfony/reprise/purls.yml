@@ -7,3 +7,6 @@
 - pkg:composer/symfony/reprise@v0.6.2
 - pkg:composer/symfony/reprise@v0.7.0
 - pkg:composer/symfony/reprise@v0.8.0
+- pkg:composer/symfony/reprise@v1.0.0
+- pkg:composer/symfony/reprise@v1.1.0
+- pkg:composer/symfony/reprise@v1.1.1
