@@ -1,2 +1,3 @@
 - pkg:composer/tempest/mcp@v3.18.0
 - pkg:composer/tempest/mcp@v3.19.0
+- pkg:composer/tempest/mcp@v3.19.1

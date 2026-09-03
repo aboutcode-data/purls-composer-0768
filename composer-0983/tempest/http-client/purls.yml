@@ -85,6 +85,7 @@
 - pkg:composer/tempest/http-client@v3.17.0
 - pkg:composer/tempest/http-client@v3.18.0
 - pkg:composer/tempest/http-client@v3.19.0
+- pkg:composer/tempest/http-client@v3.19.1
 - pkg:composer/tempest/http-client@v3.2.0
 - pkg:composer/tempest/http-client@v3.2.1
 - pkg:composer/tempest/http-client@v3.3.0
