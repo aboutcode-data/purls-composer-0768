@@ -132,3 +132,6 @@
 - pkg:composer/wp-cli/wp-cli-tests@v5.2.0
 - pkg:composer/wp-cli/wp-cli-tests@v5.2.1
 - pkg:composer/wp-cli/wp-cli-tests@v5.2.2
+- pkg:composer/wp-cli/wp-cli-tests@v5.2.3
+- pkg:composer/wp-cli/wp-cli-tests@v5.3.0
+- pkg:composer/wp-cli/wp-cli-tests@v5.3.1
