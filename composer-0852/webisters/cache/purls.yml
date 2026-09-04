@@ -1,3 +1,5 @@
 - pkg:composer/webisters/cache@v1.0.0
 - pkg:composer/webisters/cache@v1.0.1
 - pkg:composer/webisters/cache@v1.0.2
+- pkg:composer/webisters/cache@v1.1.0
+- pkg:composer/webisters/cache@v1.1.1
