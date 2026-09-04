@@ -13,3 +13,5 @@
 - pkg:composer/utanvet-ellenor/client-php@2.0.0
 - pkg:composer/utanvet-ellenor/client-php@2.0.0-beta-1
 - pkg:composer/utanvet-ellenor/client-php@2.1.0
+- pkg:composer/utanvet-ellenor/client-php@2.2.0
+- pkg:composer/utanvet-ellenor/client-php@3.0.2
