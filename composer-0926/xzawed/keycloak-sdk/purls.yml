@@ -2,3 +2,4 @@
 - pkg:composer/xzawed/keycloak-sdk@v0.1.0-rc.1
 - pkg:composer/xzawed/keycloak-sdk@v0.1.0-rc.2
 - pkg:composer/xzawed/keycloak-sdk@v0.2.0
+- pkg:composer/xzawed/keycloak-sdk@v1.0.0
