@@ -1,0 +1,3 @@
+- pkg:composer/verdient/hyperf3-http-action-async-job@2.0.0
+- pkg:composer/verdient/hyperf3-http-action-async-job@2.0.1
+- pkg:composer/verdient/hyperf3-http-action-async-job@2.0.2
