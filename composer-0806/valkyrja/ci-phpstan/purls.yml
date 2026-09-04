@@ -31,6 +31,16 @@
 - pkg:composer/valkyrja/ci-phpstan@v26.3.18
 - pkg:composer/valkyrja/ci-phpstan@v26.3.19
 - pkg:composer/valkyrja/ci-phpstan@v26.3.2
+- pkg:composer/valkyrja/ci-phpstan@v26.3.20
+- pkg:composer/valkyrja/ci-phpstan@v26.3.21
+- pkg:composer/valkyrja/ci-phpstan@v26.3.22
+- pkg:composer/valkyrja/ci-phpstan@v26.3.23
+- pkg:composer/valkyrja/ci-phpstan@v26.3.24
+- pkg:composer/valkyrja/ci-phpstan@v26.3.25
+- pkg:composer/valkyrja/ci-phpstan@v26.3.26
+- pkg:composer/valkyrja/ci-phpstan@v26.3.27
+- pkg:composer/valkyrja/ci-phpstan@v26.3.28
+- pkg:composer/valkyrja/ci-phpstan@v26.3.29
 - pkg:composer/valkyrja/ci-phpstan@v26.3.3
 - pkg:composer/valkyrja/ci-phpstan@v26.3.4
 - pkg:composer/valkyrja/ci-phpstan@v26.3.5
