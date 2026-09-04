@@ -17,3 +17,7 @@
 - pkg:composer/utopia-php/validators@0.4.1
 - pkg:composer/utopia-php/validators@0.4.2
 - pkg:composer/utopia-php/validators@0.5.0
+- pkg:composer/utopia-php/validators@0.6.0
+- pkg:composer/utopia-php/validators@0.7.0
+- pkg:composer/utopia-php/validators@1.0.0
+- pkg:composer/utopia-php/validators@1.0.1
