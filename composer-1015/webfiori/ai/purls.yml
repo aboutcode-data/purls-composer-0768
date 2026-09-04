@@ -15,3 +15,6 @@
 - pkg:composer/webfiori/ai@0.5.7
 - pkg:composer/webfiori/ai@0.5.8
 - pkg:composer/webfiori/ai@0.5.9
+- pkg:composer/webfiori/ai@0.6.0
+- pkg:composer/webfiori/ai@0.6.2
+- pkg:composer/webfiori/ai@1.0.0
