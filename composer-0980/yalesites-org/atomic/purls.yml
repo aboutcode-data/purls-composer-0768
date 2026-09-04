@@ -119,6 +119,8 @@
 - pkg:composer/yalesites-org/atomic@v1.8.9
 - pkg:composer/yalesites-org/atomic@v1.80.0
 - pkg:composer/yalesites-org/atomic@v1.81.0
+- pkg:composer/yalesites-org/atomic@v1.82.0
+- pkg:composer/yalesites-org/atomic@v1.83.0
 - pkg:composer/yalesites-org/atomic@v1.9.0
 - pkg:composer/yalesites-org/atomic@v1.9.1
 - pkg:composer/yalesites-org/atomic@v1.9.2
