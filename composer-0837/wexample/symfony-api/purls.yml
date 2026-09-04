@@ -156,3 +156,6 @@
 - pkg:composer/wexample/symfony-api@2.0.1
 - pkg:composer/wexample/symfony-api@2.0.2
 - pkg:composer/wexample/symfony-api@2.0.3
+- pkg:composer/wexample/symfony-api@3.0.0
+- pkg:composer/wexample/symfony-api@4.0.0
+- pkg:composer/wexample/symfony-api@4.0.1
