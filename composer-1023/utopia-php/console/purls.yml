@@ -6,3 +6,6 @@
 - pkg:composer/utopia-php/console@0.2.3
 - pkg:composer/utopia-php/console@0.2.5
 - pkg:composer/utopia-php/console@0.2.6
+- pkg:composer/utopia-php/console@0.2.7
+- pkg:composer/utopia-php/console@0.2.8
+- pkg:composer/utopia-php/console@0.2.9
