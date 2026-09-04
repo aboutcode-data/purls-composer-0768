@@ -44,3 +44,10 @@
 - pkg:composer/yard/brave-hooks@v2.7.5
 - pkg:composer/yard/brave-hooks@v2.7.6
 - pkg:composer/yard/brave-hooks@v2.7.7
+- pkg:composer/yard/brave-hooks@v2.7.8
+- pkg:composer/yard/brave-hooks@v2.7.9
+- pkg:composer/yard/brave-hooks@v2.8
+- pkg:composer/yard/brave-hooks@v2.9.0
+- pkg:composer/yard/brave-hooks@v2.9.1
+- pkg:composer/yard/brave-hooks@v2.9.2
+- pkg:composer/yard/brave-hooks@v3.0.0
