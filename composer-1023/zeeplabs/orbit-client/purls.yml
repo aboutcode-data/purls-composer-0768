@@ -16,3 +16,8 @@
 - pkg:composer/zeeplabs/orbit-client@v1.3.0
 - pkg:composer/zeeplabs/orbit-client@v1.4.0
 - pkg:composer/zeeplabs/orbit-client@v1.5.0
+- pkg:composer/zeeplabs/orbit-client@v1.6.0
+- pkg:composer/zeeplabs/orbit-client@v1.7.0
+- pkg:composer/zeeplabs/orbit-client@v1.8.0
+- pkg:composer/zeeplabs/orbit-client@v1.8.1
+- pkg:composer/zeeplabs/orbit-client@v1.8.2
