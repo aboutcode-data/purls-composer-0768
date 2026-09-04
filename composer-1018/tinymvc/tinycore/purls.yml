@@ -38,6 +38,7 @@
 - pkg:composer/tinymvc/tinycore@v3.0.13
 - pkg:composer/tinymvc/tinycore@v3.0.14
 - pkg:composer/tinymvc/tinycore@v3.0.15
+- pkg:composer/tinymvc/tinycore@v3.0.16
 - pkg:composer/tinymvc/tinycore@v3.0.2
 - pkg:composer/tinymvc/tinycore@v3.0.3
 - pkg:composer/tinymvc/tinycore@v3.0.4
