@@ -80,3 +80,4 @@
 - pkg:composer/vlucas/phpdotenv@v5.6.2
 - pkg:composer/vlucas/phpdotenv@v5.6.3
 - pkg:composer/vlucas/phpdotenv@v5.6.4
+- pkg:composer/vlucas/phpdotenv@v5.7.0
