@@ -38,6 +38,7 @@
 - pkg:composer/shinepress/woocommerce-packages-stubs@10.9.4
 - pkg:composer/shinepress/woocommerce-packages-stubs@11.0.0
 - pkg:composer/shinepress/woocommerce-packages-stubs@11.0.1
+- pkg:composer/shinepress/woocommerce-packages-stubs@11.1.0
 - pkg:composer/shinepress/woocommerce-packages-stubs@3.8.1
 - pkg:composer/shinepress/woocommerce-packages-stubs@3.9.0
 - pkg:composer/shinepress/woocommerce-packages-stubs@3.9.1
