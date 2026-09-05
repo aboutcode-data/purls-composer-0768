@@ -40,3 +40,5 @@
 - pkg:composer/antheia/framework@3.0.1
 - pkg:composer/antheia/framework@3.0.2
 - pkg:composer/antheia/framework@3.1.0
+- pkg:composer/antheia/framework@3.1.1
+- pkg:composer/antheia/framework@3.1.2
