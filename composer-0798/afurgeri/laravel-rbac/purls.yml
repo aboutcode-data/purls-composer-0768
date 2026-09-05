@@ -16,3 +16,4 @@
 - pkg:composer/afurgeri/laravel-rbac@v0.4.3
 - pkg:composer/afurgeri/laravel-rbac@v0.5.0
 - pkg:composer/afurgeri/laravel-rbac@v0.6.0
+- pkg:composer/afurgeri/laravel-rbac@v0.6.1
