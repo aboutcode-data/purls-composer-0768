@@ -18,6 +18,7 @@
 - pkg:composer/astrogoat/customer-experience@2.0.1
 - pkg:composer/astrogoat/customer-experience@3.0.0
 - pkg:composer/astrogoat/customer-experience@3.1.0
+- pkg:composer/astrogoat/customer-experience@3.10.0
 - pkg:composer/astrogoat/customer-experience@3.2.0
 - pkg:composer/astrogoat/customer-experience@3.2.1
 - pkg:composer/astrogoat/customer-experience@3.3.0
