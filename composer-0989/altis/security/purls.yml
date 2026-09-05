@@ -115,6 +115,7 @@
 - pkg:composer/altis/security@24.0.0
 - pkg:composer/altis/security@24.0.0-beta.1
 - pkg:composer/altis/security@24.0.1
+- pkg:composer/altis/security@24.0.10
 - pkg:composer/altis/security@24.0.2
 - pkg:composer/altis/security@24.0.3
 - pkg:composer/altis/security@24.0.4
@@ -133,6 +134,7 @@
 - pkg:composer/altis/security@25.0.6
 - pkg:composer/altis/security@25.0.7
 - pkg:composer/altis/security@25.0.8
+- pkg:composer/altis/security@25.0.9
 - pkg:composer/altis/security@26.0.0
 - pkg:composer/altis/security@26.0.0-beta.1
 - pkg:composer/altis/security@26.0.0-beta.2
@@ -143,10 +145,13 @@
 - pkg:composer/altis/security@26.0.5
 - pkg:composer/altis/security@26.0.6
 - pkg:composer/altis/security@26.0.7
+- pkg:composer/altis/security@26.0.8
 - pkg:composer/altis/security@27.0.0
 - pkg:composer/altis/security@27.0.0-beta.1
 - pkg:composer/altis/security@27.0.1
 - pkg:composer/altis/security@27.0.2
+- pkg:composer/altis/security@27.0.3
+- pkg:composer/altis/security@28.0.0-beta.1
 - pkg:composer/altis/security@3.0.0
 - pkg:composer/altis/security@3.0.0-beta1
 - pkg:composer/altis/security@3.0.0-beta2
