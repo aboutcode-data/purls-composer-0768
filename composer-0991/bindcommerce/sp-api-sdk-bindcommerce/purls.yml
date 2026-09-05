@@ -19,3 +19,6 @@
 - pkg:composer/bindcommerce/sp-api-sdk-bindcommerce@v5.1.6
 - pkg:composer/bindcommerce/sp-api-sdk-bindcommerce@v5.1.7
 - pkg:composer/bindcommerce/sp-api-sdk-bindcommerce@v5.2.0
+- pkg:composer/bindcommerce/sp-api-sdk-bindcommerce@v6.0.0
+- pkg:composer/bindcommerce/sp-api-sdk-bindcommerce@v6.0.1
+- pkg:composer/bindcommerce/sp-api-sdk-bindcommerce@v6.0.2
