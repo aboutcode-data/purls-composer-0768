@@ -101,8 +101,10 @@
 - pkg:composer/algolia/algoliasearch-magento-2@3.18.0
 - pkg:composer/algolia/algoliasearch-magento-2@3.18.0-beta.1
 - pkg:composer/algolia/algoliasearch-magento-2@3.18.1
+- pkg:composer/algolia/algoliasearch-magento-2@3.18.2
 - pkg:composer/algolia/algoliasearch-magento-2@3.19.0
 - pkg:composer/algolia/algoliasearch-magento-2@3.19.0-beta.1
+- pkg:composer/algolia/algoliasearch-magento-2@3.19.1
 - pkg:composer/algolia/algoliasearch-magento-2@3.2.0
 - pkg:composer/algolia/algoliasearch-magento-2@3.3.0
 - pkg:composer/algolia/algoliasearch-magento-2@3.3.1
