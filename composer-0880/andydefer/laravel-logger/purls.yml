@@ -42,7 +42,12 @@
 - pkg:composer/andydefer/laravel-logger@v3.9.15
 - pkg:composer/andydefer/laravel-logger@v3.9.16
 - pkg:composer/andydefer/laravel-logger@v3.9.17
+- pkg:composer/andydefer/laravel-logger@v3.9.18
+- pkg:composer/andydefer/laravel-logger@v3.9.19
 - pkg:composer/andydefer/laravel-logger@v3.9.2
+- pkg:composer/andydefer/laravel-logger@v3.9.20
+- pkg:composer/andydefer/laravel-logger@v3.9.21
+- pkg:composer/andydefer/laravel-logger@v3.9.22
 - pkg:composer/andydefer/laravel-logger@v3.9.3
 - pkg:composer/andydefer/laravel-logger@v3.9.4
 - pkg:composer/andydefer/laravel-logger@v3.9.5

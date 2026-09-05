@@ -24,7 +24,12 @@
 - pkg:composer/andydefer/laravel-jsonl@v0.8.15
 - pkg:composer/andydefer/laravel-jsonl@v0.8.16
 - pkg:composer/andydefer/laravel-jsonl@v0.8.17
+- pkg:composer/andydefer/laravel-jsonl@v0.8.18
+- pkg:composer/andydefer/laravel-jsonl@v0.8.19
 - pkg:composer/andydefer/laravel-jsonl@v0.8.2
+- pkg:composer/andydefer/laravel-jsonl@v0.8.20
+- pkg:composer/andydefer/laravel-jsonl@v0.8.21
+- pkg:composer/andydefer/laravel-jsonl@v0.8.22
 - pkg:composer/andydefer/laravel-jsonl@v0.8.3
 - pkg:composer/andydefer/laravel-jsonl@v0.8.4
 - pkg:composer/andydefer/laravel-jsonl@v0.8.5
