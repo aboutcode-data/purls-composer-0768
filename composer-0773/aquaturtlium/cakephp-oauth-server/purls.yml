@@ -14,3 +14,4 @@
 - pkg:composer/aquaturtlium/cakephp-oauth-server@v0.8.6
 - pkg:composer/aquaturtlium/cakephp-oauth-server@v0.8.7
 - pkg:composer/aquaturtlium/cakephp-oauth-server@v0.8.8
+- pkg:composer/aquaturtlium/cakephp-oauth-server@v1.0.0
