@@ -13,3 +13,5 @@
 - pkg:composer/aaix/laravel-error-audit@v1.6.3
 - pkg:composer/aaix/laravel-error-audit@v1.7.0
 - pkg:composer/aaix/laravel-error-audit@v1.7.1
+- pkg:composer/aaix/laravel-error-audit@v1.9.0
+- pkg:composer/aaix/laravel-error-audit@v1.9.1
