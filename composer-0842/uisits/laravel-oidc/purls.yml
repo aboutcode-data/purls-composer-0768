@@ -12,6 +12,7 @@
 - pkg:composer/uisits/laravel-oidc@v2.2
 - pkg:composer/uisits/laravel-oidc@v3.0
 - pkg:composer/uisits/laravel-oidc@v3.0.1
+- pkg:composer/uisits/laravel-oidc@v3.0.3
 - pkg:composer/uisits/laravel-oidc@v9.0.0
 - pkg:composer/uisits/laravel-oidc@v9.1.0
 - pkg:composer/uisits/laravel-oidc@v9.1.1
@@ -19,6 +20,5 @@
 - pkg:composer/uisits/laravel-oidc@v9.1.3
 - pkg:composer/uisits/laravel-oidc@v9.1.4
 - pkg:composer/uisits/laravel-oidc@v9.2.0
-- pkg:composer/uisits/laravel-oidc@v9.2.0-rc
 - pkg:composer/uisits/laravel-oidc@v9.2.1
 - pkg:composer/uisits/laravel-oidc@v9.2.2
