@@ -251,6 +251,11 @@
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-376
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-377
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-378
+- pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-379
+- pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-381
+- pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-382
+- pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-383
+- pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-384
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-40
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-42
 - pkg:composer/vortos/vortos-persistence-orm@v1.0.0-alpha-43
