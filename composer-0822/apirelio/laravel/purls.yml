@@ -3,3 +3,4 @@
 - pkg:composer/apirelio/laravel@v0.1.2
 - pkg:composer/apirelio/laravel@v0.2.0
 - pkg:composer/apirelio/laravel@v0.2.1
+- pkg:composer/apirelio/laravel@v1.0.0
