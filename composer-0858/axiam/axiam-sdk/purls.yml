@@ -22,5 +22,15 @@
 - pkg:composer/axiam/axiam-sdk@v1.0.0-alpha40
 - pkg:composer/axiam/axiam-sdk@v1.0.0-alpha41
 - pkg:composer/axiam/axiam-sdk@v1.0.0-alpha43
+- pkg:composer/axiam/axiam-sdk@v1.0.0-alpha44
 - pkg:composer/axiam/axiam-sdk@v1.0.0-alpha8
 - pkg:composer/axiam/axiam-sdk@v1.0.0-alpha9
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta02
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta04
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta05
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta06
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta07
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta08
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta09
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta10
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta11
