@@ -9,3 +9,4 @@
 - pkg:composer/atlas-services/sylius-shop-kit-plugin@v0.2.5
 - pkg:composer/atlas-services/sylius-shop-kit-plugin@v0.2.6
 - pkg:composer/atlas-services/sylius-shop-kit-plugin@v0.2.7
+- pkg:composer/atlas-services/sylius-shop-kit-plugin@v1.0.0
