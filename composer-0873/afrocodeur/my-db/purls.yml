@@ -35,3 +35,5 @@
 - pkg:composer/afrocodeur/my-db@0.0.7
 - pkg:composer/afrocodeur/my-db@0.0.8
 - pkg:composer/afrocodeur/my-db@0.0.9
+- pkg:composer/afrocodeur/my-db@0.0.92
+- pkg:composer/afrocodeur/my-db@0.0.95
