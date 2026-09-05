@@ -44,3 +44,4 @@
 - pkg:composer/baserproject/bc-column@5.2.8
 - pkg:composer/baserproject/bc-column@5.2.9
 - pkg:composer/baserproject/bc-column@5.3.0
+- pkg:composer/baserproject/bc-column@5.4.0
