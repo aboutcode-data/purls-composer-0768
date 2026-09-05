@@ -208,3 +208,6 @@
 - pkg:composer/backstage/laravel-translations@v5.2.0
 - pkg:composer/backstage/laravel-translations@v5.2.1
 - pkg:composer/backstage/laravel-translations@v5.2.2
+- pkg:composer/backstage/laravel-translations@v5.2.3
+- pkg:composer/backstage/laravel-translations@v5.2.4
+- pkg:composer/backstage/laravel-translations@v5.2.5
