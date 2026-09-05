@@ -53,6 +53,10 @@
 - pkg:composer/alibabacloud/sas-20181203@1.2.0
 - pkg:composer/alibabacloud/sas-20181203@1.2.1
 - pkg:composer/alibabacloud/sas-20181203@1.2.2
+- pkg:composer/alibabacloud/sas-20181203@10.0.0
+- pkg:composer/alibabacloud/sas-20181203@10.1.0
+- pkg:composer/alibabacloud/sas-20181203@10.1.1
+- pkg:composer/alibabacloud/sas-20181203@10.1.2
 - pkg:composer/alibabacloud/sas-20181203@2.0.0
 - pkg:composer/alibabacloud/sas-20181203@2.1.0
 - pkg:composer/alibabacloud/sas-20181203@2.1.1
