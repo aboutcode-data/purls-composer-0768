@@ -8,3 +8,5 @@
 - pkg:composer/amashukov/blockchain-context-bundle@v0.5.1
 - pkg:composer/amashukov/blockchain-context-bundle@v0.5.2
 - pkg:composer/amashukov/blockchain-context-bundle@v0.5.3
+- pkg:composer/amashukov/blockchain-context-bundle@v0.6.0
+- pkg:composer/amashukov/blockchain-context-bundle@v0.6.1
