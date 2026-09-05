@@ -1,1 +1,2 @@
 - pkg:composer/automattic/jetpack-feature-flags@v0.1.0
+- pkg:composer/automattic/jetpack-feature-flags@v0.2.0

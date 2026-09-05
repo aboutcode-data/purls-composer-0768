@@ -262,3 +262,4 @@
 - pkg:composer/automattic/jetpack-search@v7.3.3
 - pkg:composer/automattic/jetpack-search@v7.4.0
 - pkg:composer/automattic/jetpack-search@v7.4.1
+- pkg:composer/automattic/jetpack-search@v8.0.0

@@ -38,3 +38,4 @@
 - pkg:composer/automattic/jetpack-compat@v4.0.2
 - pkg:composer/automattic/jetpack-compat@v4.0.3
 - pkg:composer/automattic/jetpack-compat@v4.0.4
+- pkg:composer/automattic/jetpack-compat@v5.0.0

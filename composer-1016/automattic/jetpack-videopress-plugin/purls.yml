@@ -27,3 +27,4 @@
 - pkg:composer/automattic/jetpack-videopress-plugin@v3.2
 - pkg:composer/automattic/jetpack-videopress-plugin@v3.3
 - pkg:composer/automattic/jetpack-videopress-plugin@v3.4
+- pkg:composer/automattic/jetpack-videopress-plugin@v3.4.1
