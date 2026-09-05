@@ -1,4 +1,5 @@
 - pkg:composer/andcarpi/laravel-endereco-e-telefone@0.6
+- pkg:composer/andcarpi/laravel-endereco-e-telefone@0.7
 - pkg:composer/andcarpi/laravel-endereco-e-telefone@v0.2
 - pkg:composer/andcarpi/laravel-endereco-e-telefone@v0.3
 - pkg:composer/andcarpi/laravel-endereco-e-telefone@v0.4
