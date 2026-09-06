@@ -21,3 +21,4 @@
 - pkg:composer/zeeplabs/orbit-client@v1.8.0
 - pkg:composer/zeeplabs/orbit-client@v1.8.1
 - pkg:composer/zeeplabs/orbit-client@v1.8.2
+- pkg:composer/zeeplabs/orbit-client@v1.8.3
