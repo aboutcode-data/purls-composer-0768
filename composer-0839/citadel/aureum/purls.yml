@@ -17,6 +17,10 @@
 - pkg:composer/citadel/aureum@1.10.1
 - pkg:composer/citadel/aureum@1.10.2
 - pkg:composer/citadel/aureum@1.10.3
+- pkg:composer/citadel/aureum@1.11.0
+- pkg:composer/citadel/aureum@1.12.0
+- pkg:composer/citadel/aureum@1.12.1
+- pkg:composer/citadel/aureum@1.12.2
 - pkg:composer/citadel/aureum@1.2.0
 - pkg:composer/citadel/aureum@1.2.1
 - pkg:composer/citadel/aureum@1.2.10

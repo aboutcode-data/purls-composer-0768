@@ -1,5 +1,7 @@
 - pkg:composer/citation-style-language/locales@v0.0.1
 - pkg:composer/citation-style-language/locales@v0.0.10
+- pkg:composer/citation-style-language/locales@v0.0.100
+- pkg:composer/citation-style-language/locales@v0.0.101
 - pkg:composer/citation-style-language/locales@v0.0.11
 - pkg:composer/citation-style-language/locales@v0.0.12
 - pkg:composer/citation-style-language/locales@v0.0.13
@@ -96,3 +98,4 @@
 - pkg:composer/citation-style-language/locales@v0.0.96
 - pkg:composer/citation-style-language/locales@v0.0.97
 - pkg:composer/citation-style-language/locales@v0.0.98
+- pkg:composer/citation-style-language/locales@v0.0.99
