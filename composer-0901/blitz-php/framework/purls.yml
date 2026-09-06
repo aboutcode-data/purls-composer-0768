@@ -11,6 +11,7 @@
 - pkg:composer/blitz-php/framework@0.12.4
 - pkg:composer/blitz-php/framework@0.12.5
 - pkg:composer/blitz-php/framework@0.12.6
+- pkg:composer/blitz-php/framework@0.12.7
 - pkg:composer/blitz-php/framework@0.2.0
 - pkg:composer/blitz-php/framework@0.3.0
 - pkg:composer/blitz-php/framework@0.3.2
