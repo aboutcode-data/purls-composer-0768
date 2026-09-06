@@ -13,3 +13,4 @@
 - pkg:composer/zaptech/cookie-consent@1.1.1
 - pkg:composer/zaptech/cookie-consent@1.1.2
 - pkg:composer/zaptech/cookie-consent@1.1.3
+- pkg:composer/zaptech/cookie-consent@2.0.0-beta.1
