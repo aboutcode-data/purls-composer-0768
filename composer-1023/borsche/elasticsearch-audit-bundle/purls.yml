@@ -16,3 +16,8 @@
 - pkg:composer/borsche/elasticsearch-audit-bundle@v0.9.2
 - pkg:composer/borsche/elasticsearch-audit-bundle@v0.9.3
 - pkg:composer/borsche/elasticsearch-audit-bundle@v1.0.0
+- pkg:composer/borsche/elasticsearch-audit-bundle@v1.0.1
+- pkg:composer/borsche/elasticsearch-audit-bundle@v1.0.2
+- pkg:composer/borsche/elasticsearch-audit-bundle@v1.1.0
+- pkg:composer/borsche/elasticsearch-audit-bundle@v1.1.1
+- pkg:composer/borsche/elasticsearch-audit-bundle@v1.2.0
