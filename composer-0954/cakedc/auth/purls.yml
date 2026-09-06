@@ -8,6 +8,7 @@
 - pkg:composer/cakedc/auth@10.1.2
 - pkg:composer/cakedc/auth@10.1.3
 - pkg:composer/cakedc/auth@10.1.4
+- pkg:composer/cakedc/auth@11.0.0
 - pkg:composer/cakedc/auth@2.0.0
 - pkg:composer/cakedc/auth@2.0.1
 - pkg:composer/cakedc/auth@2.0.2
