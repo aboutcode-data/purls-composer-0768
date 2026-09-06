@@ -1,1 +1,2 @@
 - pkg:composer/coolms/entity-module@v1.0.0
+- pkg:composer/coolms/entity-module@v2.0.0-alpha1
