@@ -1,3 +1,5 @@
 - pkg:composer/chuoke/laravel-user-identities@0.0.1
 - pkg:composer/chuoke/laravel-user-identities@0.1.1
 - pkg:composer/chuoke/laravel-user-identities@0.2.0
+- pkg:composer/chuoke/laravel-user-identities@0.4.0
+- pkg:composer/chuoke/laravel-user-identities@v0.4.1
