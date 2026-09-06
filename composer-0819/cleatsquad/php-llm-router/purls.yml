@@ -10,3 +10,4 @@
 - pkg:composer/cleatsquad/php-llm-router@v5.3.1
 - pkg:composer/cleatsquad/php-llm-router@v5.4.0
 - pkg:composer/cleatsquad/php-llm-router@v5.4.1
+- pkg:composer/cleatsquad/php-llm-router@v5.5.0
