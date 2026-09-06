@@ -8,6 +8,7 @@
 - pkg:composer/cywolf/page_link_insights@2.1.3
 - pkg:composer/cywolf/page_link_insights@3.0.0
 - pkg:composer/cywolf/page_link_insights@3.0.1
+- pkg:composer/cywolf/page_link_insights@3.0.2
 - pkg:composer/cywolf/page_link_insights@v1.2.0
 - pkg:composer/cywolf/page_link_insights@v1.3.0
 - pkg:composer/cywolf/page_link_insights@v1.3.1
@@ -20,3 +21,4 @@
 - pkg:composer/cywolf/page_link_insights@v1.7.0
 - pkg:composer/cywolf/page_link_insights@v1.7.1
 - pkg:composer/cywolf/page_link_insights@v1.8.0
+- pkg:composer/cywolf/page_link_insights@v1.8.1
