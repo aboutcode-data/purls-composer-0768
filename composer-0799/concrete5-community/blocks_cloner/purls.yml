@@ -26,3 +26,5 @@
 - pkg:composer/concrete5-community/blocks_cloner@2.0.0
 - pkg:composer/concrete5-community/blocks_cloner@2.0.1
 - pkg:composer/concrete5-community/blocks_cloner@2.1.1
+- pkg:composer/concrete5-community/blocks_cloner@2.2.0
+- pkg:composer/concrete5-community/blocks_cloner@2.2.1
