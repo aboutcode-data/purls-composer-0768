@@ -2,6 +2,7 @@
 - pkg:composer/assegaiphp/console@0.10.1
 - pkg:composer/assegaiphp/console@0.10.2
 - pkg:composer/assegaiphp/console@0.10.3
+- pkg:composer/assegaiphp/console@0.10.4
 - pkg:composer/assegaiphp/console@0.2.0
 - pkg:composer/assegaiphp/console@0.2.1
 - pkg:composer/assegaiphp/console@0.2.2
