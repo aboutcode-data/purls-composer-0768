@@ -10,3 +10,4 @@
 - pkg:composer/dominionenterprises/mongo-queue-php@v4.0.0
 - pkg:composer/dominionenterprises/mongo-queue-php@v4.0.1
 - pkg:composer/dominionenterprises/mongo-queue-php@v4.1.0
+- pkg:composer/dominionenterprises/mongo-queue-php@v4.2.0
