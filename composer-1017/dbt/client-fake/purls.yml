@@ -7,3 +7,4 @@
 - pkg:composer/dbt/client-fake@1.1.4
 - pkg:composer/dbt/client-fake@2.0.0
 - pkg:composer/dbt/client-fake@3.0.0
+- pkg:composer/dbt/client-fake@4.0.0
