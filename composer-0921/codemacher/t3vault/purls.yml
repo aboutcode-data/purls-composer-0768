@@ -1,3 +1,5 @@
+- pkg:composer/codemacher/t3vault@0.1.19
+- pkg:composer/codemacher/t3vault@0.1.20
 - pkg:composer/codemacher/t3vault@v0.1.11-beta
 - pkg:composer/codemacher/t3vault@v0.1.12-beta
 - pkg:composer/codemacher/t3vault@v0.1.13
