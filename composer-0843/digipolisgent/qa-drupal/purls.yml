@@ -81,3 +81,4 @@
 - pkg:composer/digipolisgent/qa-drupal@4.1.2
 - pkg:composer/digipolisgent/qa-drupal@4.1.3
 - pkg:composer/digipolisgent/qa-drupal@4.1.4
+- pkg:composer/digipolisgent/qa-drupal@5.0.0
