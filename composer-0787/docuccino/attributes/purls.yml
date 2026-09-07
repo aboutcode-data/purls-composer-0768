@@ -7,6 +7,12 @@
 - pkg:composer/docuccino/attributes@v0.10.3
 - pkg:composer/docuccino/attributes@v0.10.4
 - pkg:composer/docuccino/attributes@v0.10.5
+- pkg:composer/docuccino/attributes@v0.11.0
+- pkg:composer/docuccino/attributes@v0.12.0
+- pkg:composer/docuccino/attributes@v0.13.0
+- pkg:composer/docuccino/attributes@v0.13.1
+- pkg:composer/docuccino/attributes@v0.14.0
+- pkg:composer/docuccino/attributes@v0.14.1
 - pkg:composer/docuccino/attributes@v0.2.0
 - pkg:composer/docuccino/attributes@v0.2.1
 - pkg:composer/docuccino/attributes@v0.3.0
