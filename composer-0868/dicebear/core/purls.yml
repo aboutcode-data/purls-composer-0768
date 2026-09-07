@@ -17,3 +17,5 @@
 - pkg:composer/dicebear/core@v10.6.1
 - pkg:composer/dicebear/core@v10.7.0
 - pkg:composer/dicebear/core@v10.7.0-rc.1
+- pkg:composer/dicebear/core@v11.0.0-rc.1
+- pkg:composer/dicebear/core@v11.0.0-rc.2
