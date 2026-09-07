@@ -184,3 +184,5 @@
 - pkg:composer/dfer/tools@2.8.3
 - pkg:composer/dfer/tools@2.8.4
 - pkg:composer/dfer/tools@2.8.5
+- pkg:composer/dfer/tools@2.8.6
+- pkg:composer/dfer/tools@2.8.7
