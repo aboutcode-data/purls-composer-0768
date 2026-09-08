@@ -39,3 +39,4 @@
 - pkg:composer/drupal/drupal_cms_starter@2.1.1
 - pkg:composer/drupal/drupal_cms_starter@2.1.2
 - pkg:composer/drupal/drupal_cms_starter@2.1.3
+- pkg:composer/drupal/drupal_cms_starter@2.1.4
