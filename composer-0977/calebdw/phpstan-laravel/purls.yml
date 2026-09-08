@@ -8,3 +8,4 @@
 - pkg:composer/calebdw/phpstan-laravel@v1.5.0
 - pkg:composer/calebdw/phpstan-laravel@v1.6.0
 - pkg:composer/calebdw/phpstan-laravel@v1.7.0
+- pkg:composer/calebdw/phpstan-laravel@v1.8.0
