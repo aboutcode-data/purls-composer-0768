@@ -5,3 +5,5 @@
 - pkg:composer/drupal-eca-recipe/eca_lib_0029@3.3.3
 - pkg:composer/drupal-eca-recipe/eca_lib_0029@3.3.4
 - pkg:composer/drupal-eca-recipe/eca_lib_0029@3.3.5
+- pkg:composer/drupal-eca-recipe/eca_lib_0029@3.3.6
+- pkg:composer/drupal-eca-recipe/eca_lib_0029@3.3.7
