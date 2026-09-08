@@ -493,3 +493,4 @@
 - pkg:composer/ecotone/jms-converter@1.98.3
 - pkg:composer/ecotone/jms-converter@1.98.4
 - pkg:composer/ecotone/jms-converter@1.99.0
+- pkg:composer/ecotone/jms-converter@2.0.0-beta.1
