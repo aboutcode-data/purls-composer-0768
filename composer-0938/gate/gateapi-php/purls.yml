@@ -8,6 +8,7 @@
 - pkg:composer/gate/gateapi-php@7.2.123
 - pkg:composer/gate/gateapi-php@7.2.128
 - pkg:composer/gate/gateapi-php@7.2.129
+- pkg:composer/gate/gateapi-php@7.2.132
 - pkg:composer/gate/gateapi-php@7.2.18
 - pkg:composer/gate/gateapi-php@7.2.22
 - pkg:composer/gate/gateapi-php@7.2.23
