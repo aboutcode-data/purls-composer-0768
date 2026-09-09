@@ -2,3 +2,9 @@
 - pkg:composer/goldnead/statamic-events@v1.0.1
 - pkg:composer/goldnead/statamic-events@v2.0.0
 - pkg:composer/goldnead/statamic-events@v2.0.1
+- pkg:composer/goldnead/statamic-events@v2.1.0
+- pkg:composer/goldnead/statamic-events@v2.1.1
+- pkg:composer/goldnead/statamic-events@v2.2.0
+- pkg:composer/goldnead/statamic-events@v2.3.0
+- pkg:composer/goldnead/statamic-events@v2.4.0
+- pkg:composer/goldnead/statamic-events@v2.5.0
