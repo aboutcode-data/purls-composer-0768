@@ -213,3 +213,4 @@
 - pkg:composer/google/protobuf@v5.36.0
 - pkg:composer/google/protobuf@v5.36.0RC1
 - pkg:composer/google/protobuf@v5.36.0RC2
+- pkg:composer/google/protobuf@v5.36.1
