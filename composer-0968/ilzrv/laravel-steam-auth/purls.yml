@@ -17,3 +17,4 @@
 - pkg:composer/ilzrv/laravel-steam-auth@v3.0.0-rc4
 - pkg:composer/ilzrv/laravel-steam-auth@v3.1.0
 - pkg:composer/ilzrv/laravel-steam-auth@v3.2.0
+- pkg:composer/ilzrv/laravel-steam-auth@v4.0.0
