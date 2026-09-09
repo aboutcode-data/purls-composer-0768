@@ -1,1 +1,4 @@
+- pkg:composer/gplanchat/durable-plugin@v0.1.0-alpha10
 - pkg:composer/gplanchat/durable-plugin@v0.1.0-alpha7
+- pkg:composer/gplanchat/durable-plugin@v0.1.0-alpha8
+- pkg:composer/gplanchat/durable-plugin@v0.1.0-alpha9
