@@ -394,7 +394,9 @@
 - pkg:composer/imanghafoori/laravel-self-test@v1.0.435
 - pkg:composer/imanghafoori/laravel-self-test@v1.0.436
 - pkg:composer/imanghafoori/laravel-self-test@v1.0.437
+- pkg:composer/imanghafoori/laravel-self-test@v1.0.439
 - pkg:composer/imanghafoori/laravel-self-test@v1.0.44
+- pkg:composer/imanghafoori/laravel-self-test@v1.0.440
 - pkg:composer/imanghafoori/laravel-self-test@v1.0.46
 - pkg:composer/imanghafoori/laravel-self-test@v1.0.47
 - pkg:composer/imanghafoori/laravel-self-test@v1.0.48
