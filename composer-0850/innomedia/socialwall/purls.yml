@@ -7,7 +7,10 @@
 - pkg:composer/innomedia/socialwall@0.1.6
 - pkg:composer/innomedia/socialwall@0.1.7
 - pkg:composer/innomedia/socialwall@0.1.8
+- pkg:composer/innomedia/socialwall@5.0.0
+- pkg:composer/innomedia/socialwall@5.0.1
 - pkg:composer/innomedia/socialwall@6.0.0
 - pkg:composer/innomedia/socialwall@6.0.1
 - pkg:composer/innomedia/socialwall@6.0.2
-- pkg:composer/innomedia/socialwall@7.0.0
+- pkg:composer/innomedia/socialwall@6.1.0
+- pkg:composer/innomedia/socialwall@6.2.0
