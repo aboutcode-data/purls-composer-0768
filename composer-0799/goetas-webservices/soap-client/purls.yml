@@ -1,5 +1,6 @@
 - pkg:composer/goetas-webservices/soap-client@0.2.11
 - pkg:composer/goetas-webservices/soap-client@0.2.12
+- pkg:composer/goetas-webservices/soap-client@0.2.13
 - pkg:composer/goetas-webservices/soap-client@v0.1.0
 - pkg:composer/goetas-webservices/soap-client@v0.1.1
 - pkg:composer/goetas-webservices/soap-client@v0.1.2
