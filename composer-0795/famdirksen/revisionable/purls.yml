@@ -64,6 +64,7 @@
 - pkg:composer/famdirksen/revisionable@1.53
 - pkg:composer/famdirksen/revisionable@1.53.1
 - pkg:composer/famdirksen/revisionable@1.53.2
+- pkg:composer/famdirksen/revisionable@1.53.3
 - pkg:composer/famdirksen/revisionable@1.6.0
 - pkg:composer/famdirksen/revisionable@1.7.0
 - pkg:composer/famdirksen/revisionable@1.8.0
