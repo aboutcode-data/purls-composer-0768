@@ -5,6 +5,7 @@
 - pkg:composer/glavweb/datagrid-bundle@0.1.4
 - pkg:composer/glavweb/datagrid-bundle@0.2
 - pkg:composer/glavweb/datagrid-bundle@1.0
+- pkg:composer/glavweb/datagrid-bundle@4.1.0
 - pkg:composer/glavweb/datagrid-bundle@v1.1
 - pkg:composer/glavweb/datagrid-bundle@v1.1.1
 - pkg:composer/glavweb/datagrid-bundle@v1.1.2
@@ -63,3 +64,5 @@
 - pkg:composer/glavweb/datagrid-bundle@v3.4.1
 - pkg:composer/glavweb/datagrid-bundle@v3.5.0
 - pkg:composer/glavweb/datagrid-bundle@v4.0.0
+- pkg:composer/glavweb/datagrid-bundle@v4.0.1
+- pkg:composer/glavweb/datagrid-bundle@v4.0.2
