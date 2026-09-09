@@ -6,3 +6,4 @@
 - pkg:composer/google/cloud-vectorsearch@v0.5.0
 - pkg:composer/google/cloud-vectorsearch@v0.6.0
 - pkg:composer/google/cloud-vectorsearch@v0.7.0
+- pkg:composer/google/cloud-vectorsearch@v0.8.0

@@ -121,3 +121,4 @@
 - pkg:composer/google/cloud-logging@v2.1.0
 - pkg:composer/google/cloud-logging@v2.1.1
 - pkg:composer/google/cloud-logging@v2.2.0
+- pkg:composer/google/cloud-logging@v2.2.1
