@@ -1,2 +1,6 @@
 - pkg:composer/i18n-keyless/laravel@v3.4.0
 - pkg:composer/i18n-keyless/laravel@v3.5.0
+- pkg:composer/i18n-keyless/laravel@v3.6.0
+- pkg:composer/i18n-keyless/laravel@v3.6.1
+- pkg:composer/i18n-keyless/laravel@v3.7.0
+- pkg:composer/i18n-keyless/laravel@v3.8.0
