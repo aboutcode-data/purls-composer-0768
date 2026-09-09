@@ -20,8 +20,12 @@
 - pkg:composer/erikwang2013/poster-php@v1.1.9
 - pkg:composer/erikwang2013/poster-php@v1.2.0
 - pkg:composer/erikwang2013/poster-php@v1.2.1
+- pkg:composer/erikwang2013/poster-php@v1.2.10
 - pkg:composer/erikwang2013/poster-php@v1.2.2
 - pkg:composer/erikwang2013/poster-php@v1.2.3
 - pkg:composer/erikwang2013/poster-php@v1.2.4
 - pkg:composer/erikwang2013/poster-php@v1.2.5
 - pkg:composer/erikwang2013/poster-php@v1.2.6
+- pkg:composer/erikwang2013/poster-php@v1.2.7
+- pkg:composer/erikwang2013/poster-php@v1.2.8
+- pkg:composer/erikwang2013/poster-php@v1.2.9
