@@ -4,3 +4,4 @@
 - pkg:composer/fuyelk/redis@1.2.0
 - pkg:composer/fuyelk/redis@1.2.1
 - pkg:composer/fuyelk/redis@1.2.2
+- pkg:composer/fuyelk/redis@2.0.0
