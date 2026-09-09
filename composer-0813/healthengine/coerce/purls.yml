@@ -1,3 +1,5 @@
 - pkg:composer/healthengine/coerce@v1.0.0
 - pkg:composer/healthengine/coerce@v1.0.1
 - pkg:composer/healthengine/coerce@v1.0.2
+- pkg:composer/healthengine/coerce@v1.1.0
+- pkg:composer/healthengine/coerce@v1.2.0
