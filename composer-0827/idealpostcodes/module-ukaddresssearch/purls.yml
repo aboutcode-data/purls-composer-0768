@@ -38,3 +38,5 @@
 - pkg:composer/idealpostcodes/module-ukaddresssearch@2.5.3
 - pkg:composer/idealpostcodes/module-ukaddresssearch@2.6.0
 - pkg:composer/idealpostcodes/module-ukaddresssearch@2.7.0
+- pkg:composer/idealpostcodes/module-ukaddresssearch@2.7.1
+- pkg:composer/idealpostcodes/module-ukaddresssearch@2.7.3
