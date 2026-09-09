@@ -43,3 +43,4 @@
 - pkg:composer/gravitywp/license-handler@v2.1.0beta1.4
 - pkg:composer/gravitywp/license-handler@v2.1.1
 - pkg:composer/gravitywp/license-handler@v2.1.2
+- pkg:composer/gravitywp/license-handler@v2.1.3
