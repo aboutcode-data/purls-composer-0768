@@ -17,3 +17,4 @@
 - pkg:composer/guanguans/rector-rules@1.7.0
 - pkg:composer/guanguans/rector-rules@1.7.1
 - pkg:composer/guanguans/rector-rules@1.7.2
+- pkg:composer/guanguans/rector-rules@1.8.0
