@@ -31,6 +31,8 @@
 - pkg:composer/ercogx/laravel-filament-starter-kit@3.4.0
 - pkg:composer/ercogx/laravel-filament-starter-kit@3.5.0
 - pkg:composer/ercogx/laravel-filament-starter-kit@3.6.0
+- pkg:composer/ercogx/laravel-filament-starter-kit@3.7.0
+- pkg:composer/ercogx/laravel-filament-starter-kit@3.8.0
 - pkg:composer/ercogx/laravel-filament-starter-kit@v1.0.0
 - pkg:composer/ercogx/laravel-filament-starter-kit@v1.0.1
 - pkg:composer/ercogx/laravel-filament-starter-kit@v1.0.3
