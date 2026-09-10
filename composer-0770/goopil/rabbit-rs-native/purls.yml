@@ -14,3 +14,4 @@
 - pkg:composer/goopil/rabbit-rs-native@v0.1.4
 - pkg:composer/goopil/rabbit-rs-native@v0.1.5
 - pkg:composer/goopil/rabbit-rs-native@v0.1.6
+- pkg:composer/goopil/rabbit-rs-native@v0.2.0
