@@ -3,3 +3,4 @@
 - pkg:composer/jooservices/laravel-config@v1.2.0
 - pkg:composer/jooservices/laravel-config@v1.3.0
 - pkg:composer/jooservices/laravel-config@v1.4.0
+- pkg:composer/jooservices/laravel-config@v4.0.0
