@@ -25,4 +25,6 @@
 - pkg:composer/jc5/google2fa-laravel@v1.2.0
 - pkg:composer/jc5/google2fa-laravel@v1.2.1
 - pkg:composer/jc5/google2fa-laravel@v1.3.0
+- pkg:composer/jc5/google2fa-laravel@v2.0.11
+- pkg:composer/jc5/google2fa-laravel@v2.0.12
 - pkg:composer/jc5/google2fa-laravel@v2.0.8
