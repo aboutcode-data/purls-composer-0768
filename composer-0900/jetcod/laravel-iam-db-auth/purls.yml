@@ -1,1 +1,2 @@
 - pkg:composer/jetcod/laravel-iam-db-auth@1.0.0
+- pkg:composer/jetcod/laravel-iam-db-auth@1.0.1
