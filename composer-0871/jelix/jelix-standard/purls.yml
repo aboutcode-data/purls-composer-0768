@@ -35,6 +35,9 @@
 - pkg:composer/jelix/jelix-standard@v1.8.22
 - pkg:composer/jelix/jelix-standard@v1.8.23
 - pkg:composer/jelix/jelix-standard@v1.8.24
+- pkg:composer/jelix/jelix-standard@v1.8.25
+- pkg:composer/jelix/jelix-standard@v1.8.26
+- pkg:composer/jelix/jelix-standard@v1.8.27
 - pkg:composer/jelix/jelix-standard@v1.8.3
 - pkg:composer/jelix/jelix-standard@v1.8.4
 - pkg:composer/jelix/jelix-standard@v1.8.5
