@@ -55,3 +55,4 @@
 - pkg:composer/lkdevelopment/hetzner-cloud-php-sdk@v3.0.1
 - pkg:composer/lkdevelopment/hetzner-cloud-php-sdk@v3.1.0
 - pkg:composer/lkdevelopment/hetzner-cloud-php-sdk@v3.1.1
+- pkg:composer/lkdevelopment/hetzner-cloud-php-sdk@v3.1.2
