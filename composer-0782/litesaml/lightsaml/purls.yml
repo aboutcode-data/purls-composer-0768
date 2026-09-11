@@ -49,9 +49,11 @@
 - pkg:composer/litesaml/lightsaml@4.6.0
 - pkg:composer/litesaml/lightsaml@4.6.1
 - pkg:composer/litesaml/lightsaml@4.7.0
+- pkg:composer/litesaml/lightsaml@4.7.1
 - pkg:composer/litesaml/lightsaml@5.0.0
 - pkg:composer/litesaml/lightsaml@5.0.1
 - pkg:composer/litesaml/lightsaml@5.1.0
+- pkg:composer/litesaml/lightsaml@6.0.0
 - pkg:composer/litesaml/lightsaml@v2.3.4
 - pkg:composer/litesaml/lightsaml@v4.0.1
 - pkg:composer/litesaml/lightsaml@v4.0.2
