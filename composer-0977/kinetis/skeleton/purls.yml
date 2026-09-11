@@ -1,1 +1,4 @@
 - pkg:composer/kinetis/skeleton@v1.0.0
+- pkg:composer/kinetis/skeleton@v1.1.1
+- pkg:composer/kinetis/skeleton@v1.1.2
+- pkg:composer/kinetis/skeleton@v1.2.0
