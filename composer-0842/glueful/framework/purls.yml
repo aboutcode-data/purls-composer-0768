@@ -137,6 +137,7 @@
 - pkg:composer/glueful/framework@v1.83.1
 - pkg:composer/glueful/framework@v1.83.2
 - pkg:composer/glueful/framework@v1.83.3
+- pkg:composer/glueful/framework@v1.83.4
 - pkg:composer/glueful/framework@v1.9.0
 - pkg:composer/glueful/framework@v1.9.1
 - pkg:composer/glueful/framework@v1.9.2
