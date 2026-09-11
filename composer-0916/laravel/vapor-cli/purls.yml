@@ -137,6 +137,8 @@
 - pkg:composer/laravel/vapor-cli@v1.70.1
 - pkg:composer/laravel/vapor-cli@v1.70.2
 - pkg:composer/laravel/vapor-cli@v1.70.3
+- pkg:composer/laravel/vapor-cli@v1.70.4
+- pkg:composer/laravel/vapor-cli@v1.70.5
 - pkg:composer/laravel/vapor-cli@v1.8.0
 - pkg:composer/laravel/vapor-cli@v1.9.0
 - pkg:composer/laravel/vapor-cli@v1.9.1
