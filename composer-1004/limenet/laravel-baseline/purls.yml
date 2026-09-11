@@ -27,6 +27,7 @@
 - pkg:composer/limenet/laravel-baseline@2.1.4
 - pkg:composer/limenet/laravel-baseline@2.1.5
 - pkg:composer/limenet/laravel-baseline@2.10.0
+- pkg:composer/limenet/laravel-baseline@2.11.0
 - pkg:composer/limenet/laravel-baseline@2.2.0
 - pkg:composer/limenet/laravel-baseline@2.3.0
 - pkg:composer/limenet/laravel-baseline@2.3.1
