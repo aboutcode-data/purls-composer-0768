@@ -10,6 +10,10 @@
 - pkg:composer/jul6art/core-bundle@v2.10.1
 - pkg:composer/jul6art/core-bundle@v2.10.2
 - pkg:composer/jul6art/core-bundle@v2.10.3
+- pkg:composer/jul6art/core-bundle@v2.11.0
+- pkg:composer/jul6art/core-bundle@v2.12.0
+- pkg:composer/jul6art/core-bundle@v2.13.0
+- pkg:composer/jul6art/core-bundle@v2.14.0
 - pkg:composer/jul6art/core-bundle@v2.2.0
 - pkg:composer/jul6art/core-bundle@v2.3.0
 - pkg:composer/jul6art/core-bundle@v2.4.0
@@ -19,3 +23,4 @@
 - pkg:composer/jul6art/core-bundle@v2.8.0
 - pkg:composer/jul6art/core-bundle@v2.9.0
 - pkg:composer/jul6art/core-bundle@v2.9.1
+- pkg:composer/jul6art/core-bundle@v3.0.0
