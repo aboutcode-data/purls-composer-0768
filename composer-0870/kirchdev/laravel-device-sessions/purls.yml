@@ -1,3 +1,6 @@
 - pkg:composer/kirchdev/laravel-device-sessions@v0.2.0
 - pkg:composer/kirchdev/laravel-device-sessions@v0.3.0
 - pkg:composer/kirchdev/laravel-device-sessions@v0.4.0
+- pkg:composer/kirchdev/laravel-device-sessions@v0.5.0
+- pkg:composer/kirchdev/laravel-device-sessions@v0.6.0
+- pkg:composer/kirchdev/laravel-device-sessions@v0.6.1
