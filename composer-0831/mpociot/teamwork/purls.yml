@@ -11,6 +11,7 @@
 - pkg:composer/mpociot/teamwork@1.2.0
 - pkg:composer/mpociot/teamwork@1.2.1
 - pkg:composer/mpociot/teamwork@10.0.0
+- pkg:composer/mpociot/teamwork@11.0.0
 - pkg:composer/mpociot/teamwork@2.0.0
 - pkg:composer/mpociot/teamwork@2.0.1
 - pkg:composer/mpociot/teamwork@3.0.0
