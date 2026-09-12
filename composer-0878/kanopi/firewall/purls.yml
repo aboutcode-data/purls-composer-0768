@@ -30,6 +30,7 @@
 - pkg:composer/kanopi/firewall@v2.23.0
 - pkg:composer/kanopi/firewall@v2.23.1
 - pkg:composer/kanopi/firewall@v2.24.0
+- pkg:composer/kanopi/firewall@v2.25.0
 - pkg:composer/kanopi/firewall@v2.3.0
 - pkg:composer/kanopi/firewall@v2.4.0
 - pkg:composer/kanopi/firewall@v2.5.0
