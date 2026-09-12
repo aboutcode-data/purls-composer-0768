@@ -9,3 +9,5 @@
 - pkg:composer/opscale-co/notification-center@1.1.5
 - pkg:composer/opscale-co/notification-center@1.1.6
 - pkg:composer/opscale-co/notification-center@1.1.7
+- pkg:composer/opscale-co/notification-center@1.2.0
+- pkg:composer/opscale-co/notification-center@1.2.1
