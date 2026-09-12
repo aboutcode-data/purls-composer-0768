@@ -1,3 +1,4 @@
+- pkg:composer/marekskopal/typo3-mcp-server@1.3.1
 - pkg:composer/marekskopal/typo3-mcp-server@v0.1.0
 - pkg:composer/marekskopal/typo3-mcp-server@v0.10.0
 - pkg:composer/marekskopal/typo3-mcp-server@v0.11.0
@@ -19,3 +20,5 @@
 - pkg:composer/marekskopal/typo3-mcp-server@v0.9.3
 - pkg:composer/marekskopal/typo3-mcp-server@v1.0.0
 - pkg:composer/marekskopal/typo3-mcp-server@v1.1.0
+- pkg:composer/marekskopal/typo3-mcp-server@v1.2.0
+- pkg:composer/marekskopal/typo3-mcp-server@v1.3.0
