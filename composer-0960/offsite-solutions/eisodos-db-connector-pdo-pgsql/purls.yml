@@ -1,5 +1,6 @@
 - pkg:composer/offsite-solutions/eisodos-db-connector-pdo-pgsql@1.0.0
 - pkg:composer/offsite-solutions/eisodos-db-connector-pdo-pgsql@1.0.1
+- pkg:composer/offsite-solutions/eisodos-db-connector-pdo-pgsql@1.0.10
 - pkg:composer/offsite-solutions/eisodos-db-connector-pdo-pgsql@1.0.2
 - pkg:composer/offsite-solutions/eisodos-db-connector-pdo-pgsql@1.0.3
 - pkg:composer/offsite-solutions/eisodos-db-connector-pdo-pgsql@1.0.4
