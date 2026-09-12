@@ -5,3 +5,5 @@
 - pkg:composer/lucasacoutinho/ext-clickhouse@v1.1.0
 - pkg:composer/lucasacoutinho/ext-clickhouse@v1.2.0
 - pkg:composer/lucasacoutinho/ext-clickhouse@v1.3.0
+- pkg:composer/lucasacoutinho/ext-clickhouse@v1.4.0
+- pkg:composer/lucasacoutinho/ext-clickhouse@v1.4.1
