@@ -210,3 +210,4 @@
 - pkg:composer/nosto/module-nostotagging@9.0.0
 - pkg:composer/nosto/module-nostotagging@9.0.1
 - pkg:composer/nosto/module-nostotagging@9.0.2
+- pkg:composer/nosto/module-nostotagging@9.0.3
