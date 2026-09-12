@@ -40,3 +40,4 @@
 - pkg:composer/packaged/http@1.8.1
 - pkg:composer/packaged/http@1.9.0
 - pkg:composer/packaged/http@2.0.0
+- pkg:composer/packaged/http@2.0.1
