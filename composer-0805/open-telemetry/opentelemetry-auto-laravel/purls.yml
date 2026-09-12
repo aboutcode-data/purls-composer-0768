@@ -40,3 +40,4 @@
 - pkg:composer/open-telemetry/opentelemetry-auto-laravel@1.6.0
 - pkg:composer/open-telemetry/opentelemetry-auto-laravel@1.7.0
 - pkg:composer/open-telemetry/opentelemetry-auto-laravel@1.8.0
+- pkg:composer/open-telemetry/opentelemetry-auto-laravel@1.9.0
