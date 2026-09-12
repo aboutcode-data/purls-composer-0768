@@ -20,3 +20,4 @@
 - pkg:composer/magento/magento-composer-installer@0.4.0
 - pkg:composer/magento/magento-composer-installer@0.4.0-beta1
 - pkg:composer/magento/magento-composer-installer@0.4.0-beta2
+- pkg:composer/magento/magento-composer-installer@0.5.0
