@@ -8,7 +8,15 @@
 - pkg:composer/milpa/live@v0.15.0
 - pkg:composer/milpa/live@v0.16.0
 - pkg:composer/milpa/live@v0.17.0
+- pkg:composer/milpa/live@v0.18.0
+- pkg:composer/milpa/live@v0.19.0
 - pkg:composer/milpa/live@v0.2.0
+- pkg:composer/milpa/live@v0.20.0
+- pkg:composer/milpa/live@v0.21.0
+- pkg:composer/milpa/live@v0.22.0
+- pkg:composer/milpa/live@v0.23.0
+- pkg:composer/milpa/live@v0.24.0
+- pkg:composer/milpa/live@v0.25.0
 - pkg:composer/milpa/live@v0.3.0
 - pkg:composer/milpa/live@v0.4.0
 - pkg:composer/milpa/live@v0.4.1

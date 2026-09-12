@@ -10,6 +10,8 @@
 - pkg:composer/millipress/millibase@v2.0.0
 - pkg:composer/millipress/millibase@v2.1.0
 - pkg:composer/millipress/millibase@v2.1.1
+- pkg:composer/millipress/millibase@v2.10.0
+- pkg:composer/millipress/millibase@v2.11.0
 - pkg:composer/millipress/millibase@v2.2.0
 - pkg:composer/millipress/millibase@v2.2.1
 - pkg:composer/millipress/millibase@v2.3.0
