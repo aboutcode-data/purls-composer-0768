@@ -1,3 +1,6 @@
 - pkg:composer/marque/trove@v2.0.0
 - pkg:composer/marque/trove@v2.0.1
 - pkg:composer/marque/trove@v3.0.0
+- pkg:composer/marque/trove@v4.0.0
+- pkg:composer/marque/trove@v4.1.0
+- pkg:composer/marque/trove@v4.2.0
