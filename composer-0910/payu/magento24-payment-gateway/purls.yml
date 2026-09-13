@@ -23,3 +23,5 @@
 - pkg:composer/payu/magento24-payment-gateway@2.1.0
 - pkg:composer/payu/magento24-payment-gateway@2.1.1
 - pkg:composer/payu/magento24-payment-gateway@2.1.2
+- pkg:composer/payu/magento24-payment-gateway@2.2.0
+- pkg:composer/payu/magento24-payment-gateway@2.2.1
