@@ -397,6 +397,7 @@
 - pkg:composer/pushword/version@0.1.9978
 - pkg:composer/pushword/version@0.1.9979
 - pkg:composer/pushword/version@0.1.9980
+- pkg:composer/pushword/version@1.0.0
 - pkg:composer/pushword/version@1.0.0-rc0
 - pkg:composer/pushword/version@1.0.0-rc1
 - pkg:composer/pushword/version@1.0.0-rc10
@@ -1257,6 +1258,11 @@
 - pkg:composer/pushword/version@1.0.0-rc891
 - pkg:composer/pushword/version@1.0.0-rc892
 - pkg:composer/pushword/version@1.0.0-rc893
+- pkg:composer/pushword/version@1.0.0-rc894
+- pkg:composer/pushword/version@1.0.0-rc895
+- pkg:composer/pushword/version@1.0.0-rc896
+- pkg:composer/pushword/version@1.0.0-rc897
+- pkg:composer/pushword/version@1.0.0-rc898
 - pkg:composer/pushword/version@1.0.0-rc9
 - pkg:composer/pushword/version@1.0.0-rc90
 - pkg:composer/pushword/version@1.0.0-rc91
@@ -1268,3 +1274,8 @@
 - pkg:composer/pushword/version@1.0.0-rc97
 - pkg:composer/pushword/version@1.0.0-rc98
 - pkg:composer/pushword/version@1.0.0-rc99
+- pkg:composer/pushword/version@1.0.1
+- pkg:composer/pushword/version@1.0.2
+- pkg:composer/pushword/version@1.0.3
+- pkg:composer/pushword/version@1.0.4
+- pkg:composer/pushword/version@1.0.5
