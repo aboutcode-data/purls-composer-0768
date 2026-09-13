@@ -17,3 +17,4 @@
 - pkg:composer/prestashop/productcomments@v6.0.3
 - pkg:composer/prestashop/productcomments@v7.0.0
 - pkg:composer/prestashop/productcomments@v8.0.0
+- pkg:composer/prestashop/productcomments@v9.0.0

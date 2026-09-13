@@ -5,3 +5,4 @@
 - pkg:composer/prestashop/ps_cashondelivery@v1.0.6
 - pkg:composer/prestashop/ps_cashondelivery@v2.0.0
 - pkg:composer/prestashop/ps_cashondelivery@v2.0.1
+- pkg:composer/prestashop/ps_cashondelivery@v3.0.0
