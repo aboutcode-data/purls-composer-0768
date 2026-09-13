@@ -239,3 +239,4 @@
 - pkg:composer/psx/schema@v7.7.3
 - pkg:composer/psx/schema@v7.8.0
 - pkg:composer/psx/schema@v7.8.1
+- pkg:composer/psx/schema@v7.8.2
