@@ -10,3 +10,4 @@
 - pkg:composer/qubus/mail@v4.1.0
 - pkg:composer/qubus/mail@v5.0.0
 - pkg:composer/qubus/mail@v5.0.1
+- pkg:composer/qubus/mail@v6.0.0
