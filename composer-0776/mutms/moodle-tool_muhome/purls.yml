@@ -4,6 +4,8 @@
 - pkg:composer/mutms/moodle-tool_muhome@v4.5.11.01
 - pkg:composer/mutms/moodle-tool_muhome@v4.5.12.01
 - pkg:composer/mutms/moodle-tool_muhome@v4.5.13.01
+- pkg:composer/mutms/moodle-tool_muhome@v4.5.14.01
+- pkg:composer/mutms/moodle-tool_muhome@v5.0.10.01
 - pkg:composer/mutms/moodle-tool_muhome@v5.0.6.04
 - pkg:composer/mutms/moodle-tool_muhome@v5.0.6.05
 - pkg:composer/mutms/moodle-tool_muhome@v5.0.6.06
