@@ -13,3 +13,4 @@
 - pkg:composer/nyoncode/laravel-package-toolkit@2.4.2
 - pkg:composer/nyoncode/laravel-package-toolkit@2.5.0
 - pkg:composer/nyoncode/laravel-package-toolkit@2.5.1
+- pkg:composer/nyoncode/laravel-package-toolkit@2.5.2
