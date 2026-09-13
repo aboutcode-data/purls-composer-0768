@@ -55,6 +55,7 @@
 - pkg:composer/remp/crm-stripe-module@3.7.0
 - pkg:composer/remp/crm-stripe-module@4.0.0
 - pkg:composer/remp/crm-stripe-module@4.1.0
+- pkg:composer/remp/crm-stripe-module@4.1.2
 - pkg:composer/remp/crm-stripe-module@4.2.0
 - pkg:composer/remp/crm-stripe-module@4.3.0
 - pkg:composer/remp/crm-stripe-module@4.4.0
