@@ -10,3 +10,4 @@
 - pkg:composer/phalcon/traits@2.0.4
 - pkg:composer/phalcon/traits@3.0.0
 - pkg:composer/phalcon/traits@4.0.0
+- pkg:composer/phalcon/traits@4.1.0
