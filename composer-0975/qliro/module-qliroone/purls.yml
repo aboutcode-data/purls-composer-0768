@@ -26,6 +26,8 @@
 - pkg:composer/qliro/module-qliroone@1.7.12
 - pkg:composer/qliro/module-qliroone@1.7.17
 - pkg:composer/qliro/module-qliroone@1.7.2
+- pkg:composer/qliro/module-qliroone@1.7.23
+- pkg:composer/qliro/module-qliroone@1.7.35
 - pkg:composer/qliro/module-qliroone@1.7.4
 - pkg:composer/qliro/module-qliroone@1.7.5
 - pkg:composer/qliro/module-qliroone@1.7.6
