@@ -72,7 +72,14 @@
 - pkg:composer/pushery/wirekit@v2.42.0
 - pkg:composer/pushery/wirekit@v2.43.0
 - pkg:composer/pushery/wirekit@v2.44.0
+- pkg:composer/pushery/wirekit@v2.45.0
+- pkg:composer/pushery/wirekit@v2.45.1
+- pkg:composer/pushery/wirekit@v2.46.0
+- pkg:composer/pushery/wirekit@v2.47.0
+- pkg:composer/pushery/wirekit@v2.48.0
+- pkg:composer/pushery/wirekit@v2.49.0
 - pkg:composer/pushery/wirekit@v2.5.0
+- pkg:composer/pushery/wirekit@v2.50.0
 - pkg:composer/pushery/wirekit@v2.6.0
 - pkg:composer/pushery/wirekit@v2.6.1
 - pkg:composer/pushery/wirekit@v2.6.2
