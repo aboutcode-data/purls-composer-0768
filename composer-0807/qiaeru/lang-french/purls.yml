@@ -64,6 +64,7 @@
 - pkg:composer/qiaeru/lang-french@v4.29.2
 - pkg:composer/qiaeru/lang-french@v4.29.3
 - pkg:composer/qiaeru/lang-french@v4.29.4
+- pkg:composer/qiaeru/lang-french@v4.29.5
 - pkg:composer/qiaeru/lang-french@v4.3.0
 - pkg:composer/qiaeru/lang-french@v4.4.0
 - pkg:composer/qiaeru/lang-french@v4.5.0
@@ -74,6 +75,8 @@
 - pkg:composer/qiaeru/lang-french@v4.9.0
 - pkg:composer/qiaeru/lang-french@v5.0.0
 - pkg:composer/qiaeru/lang-french@v5.0.1
+- pkg:composer/qiaeru/lang-french@v5.0.10
+- pkg:composer/qiaeru/lang-french@v5.0.11
 - pkg:composer/qiaeru/lang-french@v5.0.2
 - pkg:composer/qiaeru/lang-french@v5.0.3
 - pkg:composer/qiaeru/lang-french@v5.0.4
