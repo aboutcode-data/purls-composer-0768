@@ -18,3 +18,4 @@
 - pkg:composer/proofage/laravel-client@v0.2.7
 - pkg:composer/proofage/laravel-client@v0.2.8
 - pkg:composer/proofage/laravel-client@v0.6.0
+- pkg:composer/proofage/laravel-client@v0.7.0
