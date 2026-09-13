@@ -2,3 +2,6 @@
 - pkg:composer/pspychalski/phpcache@1.1.0
 - pkg:composer/pspychalski/phpcache@1.1.1
 - pkg:composer/pspychalski/phpcache@1.1.2
+- pkg:composer/pspychalski/phpcache@1.2.0
+- pkg:composer/pspychalski/phpcache@2.0.0
+- pkg:composer/pspychalski/phpcache@2.1.0
