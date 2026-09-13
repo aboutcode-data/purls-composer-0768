@@ -1,3 +1,5 @@
 - pkg:composer/paymint/paymint-laravel@1.0.0
 - pkg:composer/paymint/paymint-laravel@v1.0.1
 - pkg:composer/paymint/paymint-laravel@v1.0.2
+- pkg:composer/paymint/paymint-laravel@v1.1.0
+- pkg:composer/paymint/paymint-laravel@v1.1.1
