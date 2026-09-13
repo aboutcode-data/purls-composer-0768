@@ -8,3 +8,4 @@
 - pkg:composer/pear/http_request2@v2.5.1
 - pkg:composer/pear/http_request2@v2.6.0
 - pkg:composer/pear/http_request2@v2.7.0
+- pkg:composer/pear/http_request2@v2.8.0
