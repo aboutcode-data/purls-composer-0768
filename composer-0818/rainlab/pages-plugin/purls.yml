@@ -60,3 +60,6 @@
 - pkg:composer/rainlab/pages-plugin@v2.2.4
 - pkg:composer/rainlab/pages-plugin@v2.2.5
 - pkg:composer/rainlab/pages-plugin@v2.2.6
+- pkg:composer/rainlab/pages-plugin@v3.0.0
+- pkg:composer/rainlab/pages-plugin@v3.0.1
+- pkg:composer/rainlab/pages-plugin@v3.0.2
