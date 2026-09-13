@@ -126,3 +126,6 @@
 - pkg:composer/ph7software/ph7cms@v18.6.1
 - pkg:composer/ph7software/ph7cms@v18.6.2
 - pkg:composer/ph7software/ph7cms@v19.0.0
+- pkg:composer/ph7software/ph7cms@v19.0.1
+- pkg:composer/ph7software/ph7cms@v19.1.0
+- pkg:composer/ph7software/ph7cms@v19.2.0
