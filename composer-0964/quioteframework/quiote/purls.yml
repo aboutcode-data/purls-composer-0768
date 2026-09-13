@@ -28,3 +28,6 @@
 - pkg:composer/quioteframework/quiote@v4.4.0
 - pkg:composer/quioteframework/quiote@v4.4.0-RC1
 - pkg:composer/quioteframework/quiote@v4.4.0-RC2
+- pkg:composer/quioteframework/quiote@v4.4.1
+- pkg:composer/quioteframework/quiote@v4.5.0
+- pkg:composer/quioteframework/quiote@v4.5.0-beta
