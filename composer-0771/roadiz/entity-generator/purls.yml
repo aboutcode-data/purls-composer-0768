@@ -166,6 +166,7 @@
 - pkg:composer/roadiz/entity-generator@v2.3.44
 - pkg:composer/roadiz/entity-generator@v2.3.45
 - pkg:composer/roadiz/entity-generator@v2.3.46
+- pkg:composer/roadiz/entity-generator@v2.3.47
 - pkg:composer/roadiz/entity-generator@v2.3.5
 - pkg:composer/roadiz/entity-generator@v2.3.6
 - pkg:composer/roadiz/entity-generator@v2.3.7
@@ -248,6 +249,7 @@
 - pkg:composer/roadiz/entity-generator@v2.5.51
 - pkg:composer/roadiz/entity-generator@v2.5.52
 - pkg:composer/roadiz/entity-generator@v2.5.53
+- pkg:composer/roadiz/entity-generator@v2.5.54
 - pkg:composer/roadiz/entity-generator@v2.5.6
 - pkg:composer/roadiz/entity-generator@v2.5.7
 - pkg:composer/roadiz/entity-generator@v2.5.8
@@ -325,6 +327,8 @@
 - pkg:composer/roadiz/entity-generator@v2.7.40
 - pkg:composer/roadiz/entity-generator@v2.7.41
 - pkg:composer/roadiz/entity-generator@v2.7.42
+- pkg:composer/roadiz/entity-generator@v2.7.43
+- pkg:composer/roadiz/entity-generator@v2.7.44
 - pkg:composer/roadiz/entity-generator@v2.7.5
 - pkg:composer/roadiz/entity-generator@v2.7.6
 - pkg:composer/roadiz/entity-generator@v2.7.7
