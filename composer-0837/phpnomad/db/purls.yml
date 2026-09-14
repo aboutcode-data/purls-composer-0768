@@ -6,6 +6,7 @@
 - pkg:composer/phpnomad/db@2.0.5
 - pkg:composer/phpnomad/db@2.1.0
 - pkg:composer/phpnomad/db@2.1.1
+- pkg:composer/phpnomad/db@2.1.2
 - pkg:composer/phpnomad/db@2.2.0
 - pkg:composer/phpnomad/db@2.2.1
 - pkg:composer/phpnomad/db@2.2.2
