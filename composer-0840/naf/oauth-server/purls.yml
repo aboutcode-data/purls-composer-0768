@@ -1,1 +1,3 @@
 - pkg:composer/naf/oauth-server@v0.2.0
+- pkg:composer/naf/oauth-server@v0.2.1
+- pkg:composer/naf/oauth-server@v0.2.2
