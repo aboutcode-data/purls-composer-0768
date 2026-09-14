@@ -25,6 +25,8 @@
 - pkg:composer/railhook/php@2.19.2
 - pkg:composer/railhook/php@2.2.1
 - pkg:composer/railhook/php@2.20.0
+- pkg:composer/railhook/php@2.20.1
+- pkg:composer/railhook/php@2.20.2
 - pkg:composer/railhook/php@2.6.1
 - pkg:composer/railhook/php@2.7.0
 - pkg:composer/railhook/php@2.8.0
