@@ -15,3 +15,5 @@
 - pkg:composer/roolith/router@1.0.9
 - pkg:composer/roolith/router@1.1.0
 - pkg:composer/roolith/router@1.2.0
+- pkg:composer/roolith/router@2.0.0
+- pkg:composer/roolith/router@2.1.0
