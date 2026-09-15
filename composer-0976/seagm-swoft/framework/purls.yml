@@ -1,1 +1,3 @@
 - pkg:composer/seagm-swoft/framework@v2.0.11
+- pkg:composer/seagm-swoft/framework@v2.1.0
+- pkg:composer/seagm-swoft/framework@v2.1.1
