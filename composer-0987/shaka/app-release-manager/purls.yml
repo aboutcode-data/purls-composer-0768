@@ -4,3 +4,6 @@
 - pkg:composer/shaka/app-release-manager@v0.1.0-beta.4
 - pkg:composer/shaka/app-release-manager@v0.1.0-beta.5
 - pkg:composer/shaka/app-release-manager@v1.0.0
+- pkg:composer/shaka/app-release-manager@v1.1.0
+- pkg:composer/shaka/app-release-manager@v1.2.0
+- pkg:composer/shaka/app-release-manager@v1.3.0
