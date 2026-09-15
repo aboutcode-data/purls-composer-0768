@@ -1,3 +1,4 @@
 - pkg:composer/sendgo/symfony@v1.0.0
 - pkg:composer/sendgo/symfony@v1.2.0
 - pkg:composer/sendgo/symfony@v1.2.1
+- pkg:composer/sendgo/symfony@v1.3.0
