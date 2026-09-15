@@ -1,2 +1,3 @@
 - pkg:composer/sandstorm/filament-keycloak-admin@v1.0.0
 - pkg:composer/sandstorm/filament-keycloak-admin@v1.1.0
+- pkg:composer/sandstorm/filament-keycloak-admin@v1.2.0
