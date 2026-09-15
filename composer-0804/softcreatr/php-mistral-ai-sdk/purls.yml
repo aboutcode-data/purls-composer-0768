@@ -3,3 +3,4 @@
 - pkg:composer/softcreatr/php-mistral-ai-sdk@2.0.0
 - pkg:composer/softcreatr/php-mistral-ai-sdk@3.0.0
 - pkg:composer/softcreatr/php-mistral-ai-sdk@3.0.1
+- pkg:composer/softcreatr/php-mistral-ai-sdk@4.0.0
