@@ -8,3 +8,4 @@
 - pkg:composer/shureban/laravel-object-mapper@1.1.0
 - pkg:composer/shureban/laravel-object-mapper@1.2.0
 - pkg:composer/shureban/laravel-object-mapper@2.0.0
+- pkg:composer/shureban/laravel-object-mapper@2.0.1
