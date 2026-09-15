@@ -9,3 +9,5 @@
 - pkg:composer/simply-stream/twitch-api@1.1.2
 - pkg:composer/simply-stream/twitch-api@2.0.0
 - pkg:composer/simply-stream/twitch-api@2.0.1
+- pkg:composer/simply-stream/twitch-api@2.1.1
+- pkg:composer/simply-stream/twitch-api@2.1.2
