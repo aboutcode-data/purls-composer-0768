@@ -23,3 +23,5 @@
 - pkg:composer/spryker/product-relation-gui@2.0.0
 - pkg:composer/spryker/product-relation-gui@2.0.1
 - pkg:composer/spryker/product-relation-gui@2.1.0
+- pkg:composer/spryker/product-relation-gui@2.1.1
+- pkg:composer/spryker/product-relation-gui@2.2.0
