@@ -21,3 +21,7 @@
 - pkg:composer/opensolr/loghound@v1.3.4
 - pkg:composer/opensolr/loghound@v1.4.0
 - pkg:composer/opensolr/loghound@v1.5.0
+- pkg:composer/opensolr/loghound@v1.6.0
+- pkg:composer/opensolr/loghound@v1.6.1
+- pkg:composer/opensolr/loghound@v1.6.2
+- pkg:composer/opensolr/loghound@v1.6.3
