@@ -6,3 +6,4 @@
 - pkg:composer/sequra/middleware@v3.0.0
 - pkg:composer/sequra/middleware@v3.1.0
 - pkg:composer/sequra/middleware@v3.2.0
+- pkg:composer/sequra/middleware@v4.0.0
