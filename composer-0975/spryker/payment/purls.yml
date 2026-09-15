@@ -53,6 +53,7 @@
 - pkg:composer/spryker/payment@5.27.1
 - pkg:composer/spryker/payment@5.27.2
 - pkg:composer/spryker/payment@5.28.0
+- pkg:composer/spryker/payment@5.28.1
 - pkg:composer/spryker/payment@5.3.0
 - pkg:composer/spryker/payment@5.4.0
 - pkg:composer/spryker/payment@5.4.1
