@@ -42,6 +42,8 @@
 - pkg:composer/spryker/state-machine@2.25.0
 - pkg:composer/spryker/state-machine@2.25.1
 - pkg:composer/spryker/state-machine@2.26.0
+- pkg:composer/spryker/state-machine@2.27.0
+- pkg:composer/spryker/state-machine@2.27.1
 - pkg:composer/spryker/state-machine@2.3.0
 - pkg:composer/spryker/state-machine@2.4.0
 - pkg:composer/spryker/state-machine@2.4.1
