@@ -33,6 +33,7 @@
 - pkg:composer/spryker/locale@4.13.0
 - pkg:composer/spryker/locale@4.14.0
 - pkg:composer/spryker/locale@4.14.1
+- pkg:composer/spryker/locale@4.15.0
 - pkg:composer/spryker/locale@4.2.0
 - pkg:composer/spryker/locale@4.3.0
 - pkg:composer/spryker/locale@4.4.0
