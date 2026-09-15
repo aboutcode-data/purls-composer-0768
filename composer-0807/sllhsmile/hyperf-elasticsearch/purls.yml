@@ -1,2 +1,4 @@
 - pkg:composer/sllhsmile/hyperf-elasticsearch@0.0.1
 - pkg:composer/sllhsmile/hyperf-elasticsearch@0.0.2
+- pkg:composer/sllhsmile/hyperf-elasticsearch@v0.1.0
+- pkg:composer/sllhsmile/hyperf-elasticsearch@v0.1.1
