@@ -50,3 +50,5 @@
 - pkg:composer/scify/laravel-cookies-consent@v4.1.9
 - pkg:composer/scify/laravel-cookies-consent@v5.0.0
 - pkg:composer/scify/laravel-cookies-consent@v5.0.1
+- pkg:composer/scify/laravel-cookies-consent@v5.0.2
+- pkg:composer/scify/laravel-cookies-consent@v5.1.0
