@@ -17,6 +17,9 @@
 - pkg:composer/spryker/catalog-search-rest-api@2.14.0
 - pkg:composer/spryker/catalog-search-rest-api@2.15.0
 - pkg:composer/spryker/catalog-search-rest-api@2.15.1
+- pkg:composer/spryker/catalog-search-rest-api@2.15.2
+- pkg:composer/spryker/catalog-search-rest-api@2.15.3
+- pkg:composer/spryker/catalog-search-rest-api@2.16.0
 - pkg:composer/spryker/catalog-search-rest-api@2.2.0
 - pkg:composer/spryker/catalog-search-rest-api@2.2.1
 - pkg:composer/spryker/catalog-search-rest-api@2.2.2

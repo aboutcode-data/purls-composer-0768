@@ -15,3 +15,5 @@
 - pkg:composer/spryker/category-gui@2.7.0
 - pkg:composer/spryker/category-gui@2.8.0
 - pkg:composer/spryker/category-gui@2.8.1
+- pkg:composer/spryker/category-gui@2.8.2
+- pkg:composer/spryker/category-gui@2.9.0
