@@ -1,5 +1,6 @@
 - pkg:composer/psvneo/typo3-extension-meilisearch@0.1.0
 - pkg:composer/psvneo/typo3-extension-meilisearch@0.10.0
+- pkg:composer/psvneo/typo3-extension-meilisearch@0.11.0
 - pkg:composer/psvneo/typo3-extension-meilisearch@0.3.0
 - pkg:composer/psvneo/typo3-extension-meilisearch@0.3.1
 - pkg:composer/psvneo/typo3-extension-meilisearch@0.3.2
