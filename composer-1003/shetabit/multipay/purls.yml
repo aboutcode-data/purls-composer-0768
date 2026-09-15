@@ -130,3 +130,5 @@
 - pkg:composer/shetabit/multipay@v3.0.4
 - pkg:composer/shetabit/multipay@v3.1.0
 - pkg:composer/shetabit/multipay@v3.1.1
+- pkg:composer/shetabit/multipay@v3.2.0
+- pkg:composer/shetabit/multipay@v3.3.0
