@@ -53,6 +53,8 @@
 - pkg:composer/spryker/zed-request@3.27.0
 - pkg:composer/spryker/zed-request@3.27.1
 - pkg:composer/spryker/zed-request@3.28.0
+- pkg:composer/spryker/zed-request@3.29.0
+- pkg:composer/spryker/zed-request@3.29.1
 - pkg:composer/spryker/zed-request@3.3.0
 - pkg:composer/spryker/zed-request@3.4.0
 - pkg:composer/spryker/zed-request@3.4.1
