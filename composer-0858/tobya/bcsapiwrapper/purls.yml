@@ -54,3 +54,4 @@
 - pkg:composer/tobya/bcsapiwrapper@v4.8
 - pkg:composer/tobya/bcsapiwrapper@v4.9
 - pkg:composer/tobya/bcsapiwrapper@v4.9.1
+- pkg:composer/tobya/bcsapiwrapper@v5.0
