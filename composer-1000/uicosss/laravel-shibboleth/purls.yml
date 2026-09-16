@@ -3,3 +3,5 @@
 - pkg:composer/uicosss/laravel-shibboleth@v11.0.2
 - pkg:composer/uicosss/laravel-shibboleth@v11.0.3
 - pkg:composer/uicosss/laravel-shibboleth@v11.0.4
+- pkg:composer/uicosss/laravel-shibboleth@v12.0.1
+- pkg:composer/uicosss/laravel-shibboleth@v13.0.1
