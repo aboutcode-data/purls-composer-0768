@@ -22,3 +22,4 @@
 - pkg:composer/sonnenglas/laravel5-amazon-mws@6.0.1
 - pkg:composer/sonnenglas/laravel5-amazon-mws@6.0.2
 - pkg:composer/sonnenglas/laravel5-amazon-mws@6.0.3
+- pkg:composer/sonnenglas/laravel5-amazon-mws@6.1.0
