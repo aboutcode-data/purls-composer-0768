@@ -67,3 +67,5 @@
 - pkg:composer/su-sws/decanter@7.5.3
 - pkg:composer/su-sws/decanter@8.0.0-alpha.1
 - pkg:composer/su-sws/decanter@8.0.0-beta.0
+- pkg:composer/su-sws/decanter@8.0.0-beta.1
+- pkg:composer/su-sws/decanter@8.0.0-beta.2
