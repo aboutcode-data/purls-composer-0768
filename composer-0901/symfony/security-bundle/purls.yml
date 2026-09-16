@@ -713,3 +713,4 @@
 - pkg:composer/symfony/security-bundle@v8.1.1
 - pkg:composer/symfony/security-bundle@v8.1.2
 - pkg:composer/symfony/security-bundle@v8.1.6
+- pkg:composer/symfony/security-bundle@v8.1.7
