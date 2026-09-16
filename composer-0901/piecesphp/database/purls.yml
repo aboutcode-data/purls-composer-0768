@@ -71,3 +71,4 @@
 - pkg:composer/piecesphp/database@v3.9.0
 - pkg:composer/piecesphp/database@v4.0.0
 - pkg:composer/piecesphp/database@v4.1.0
+- pkg:composer/piecesphp/database@v5.0.0
