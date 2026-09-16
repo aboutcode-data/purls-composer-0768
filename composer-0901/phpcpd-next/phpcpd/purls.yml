@@ -3,3 +3,4 @@
 - pkg:composer/phpcpd-next/phpcpd@v1.2
 - pkg:composer/phpcpd-next/phpcpd@v1.3
 - pkg:composer/phpcpd-next/phpcpd@v1.4
+- pkg:composer/phpcpd-next/phpcpd@v2.0
