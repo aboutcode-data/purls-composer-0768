@@ -20,4 +20,5 @@
 - pkg:composer/rexlabs/laravel-smokescreen@4.1.0
 - pkg:composer/rexlabs/laravel-smokescreen@4.2.0
 - pkg:composer/rexlabs/laravel-smokescreen@4.3.0
+- pkg:composer/rexlabs/laravel-smokescreen@4.4.0
 - pkg:composer/rexlabs/laravel-smokescreen@v0.1.0
