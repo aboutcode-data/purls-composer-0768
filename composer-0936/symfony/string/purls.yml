@@ -153,6 +153,7 @@
 - pkg:composer/symfony/string@v6.4.39
 - pkg:composer/symfony/string@v6.4.4
 - pkg:composer/symfony/string@v6.4.43
+- pkg:composer/symfony/string@v6.4.46
 - pkg:composer/symfony/string@v6.4.7
 - pkg:composer/symfony/string@v6.4.8
 - pkg:composer/symfony/string@v6.4.9
@@ -196,6 +197,7 @@
 - pkg:composer/symfony/string@v7.4.11
 - pkg:composer/symfony/string@v7.4.13
 - pkg:composer/symfony/string@v7.4.15
+- pkg:composer/symfony/string@v7.4.19
 - pkg:composer/symfony/string@v7.4.4
 - pkg:composer/symfony/string@v7.4.6
 - pkg:composer/symfony/string@v7.4.8
@@ -214,3 +216,4 @@
 - pkg:composer/symfony/string@v8.1.0-BETA2
 - pkg:composer/symfony/string@v8.1.0-RC1
 - pkg:composer/symfony/string@v8.1.2
+- pkg:composer/symfony/string@v8.1.7

@@ -600,3 +600,4 @@
 - pkg:composer/symfony/var-dumper@v8.1.2
 - pkg:composer/symfony/var-dumper@v8.1.5
 - pkg:composer/symfony/var-dumper@v8.1.6
+- pkg:composer/symfony/var-dumper@v8.1.7
