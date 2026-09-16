@@ -1,1 +1,4 @@
 - pkg:composer/tagadvance/elephant-retrying@1.0.0
+- pkg:composer/tagadvance/elephant-retrying@2.0.0
+- pkg:composer/tagadvance/elephant-retrying@3.0.0
+- pkg:composer/tagadvance/elephant-retrying@4.0.0
