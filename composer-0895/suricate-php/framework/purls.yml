@@ -77,6 +77,10 @@
 - pkg:composer/suricate-php/framework@v0.6.23
 - pkg:composer/suricate-php/framework@v0.6.24
 - pkg:composer/suricate-php/framework@v0.6.25
+- pkg:composer/suricate-php/framework@v0.6.26
+- pkg:composer/suricate-php/framework@v0.6.27
+- pkg:composer/suricate-php/framework@v0.6.28
+- pkg:composer/suricate-php/framework@v0.6.29
 - pkg:composer/suricate-php/framework@v0.6.3
 - pkg:composer/suricate-php/framework@v0.6.4
 - pkg:composer/suricate-php/framework@v0.6.5
