@@ -87,6 +87,7 @@
 - pkg:composer/swoole/ide-helper@6.0.2
 - pkg:composer/swoole/ide-helper@6.1.0
 - pkg:composer/swoole/ide-helper@6.1.1
+- pkg:composer/swoole/ide-helper@6.1.10
 - pkg:composer/swoole/ide-helper@6.1.2
 - pkg:composer/swoole/ide-helper@6.1.3
 - pkg:composer/swoole/ide-helper@6.1.4
