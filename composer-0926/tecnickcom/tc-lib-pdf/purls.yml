@@ -182,6 +182,12 @@
 - pkg:composer/tecnickcom/tc-lib-pdf@8.73.0
 - pkg:composer/tecnickcom/tc-lib-pdf@8.73.1
 - pkg:composer/tecnickcom/tc-lib-pdf@8.73.2
+- pkg:composer/tecnickcom/tc-lib-pdf@8.73.4
+- pkg:composer/tecnickcom/tc-lib-pdf@8.73.5
+- pkg:composer/tecnickcom/tc-lib-pdf@8.73.6
+- pkg:composer/tecnickcom/tc-lib-pdf@8.74.0
+- pkg:composer/tecnickcom/tc-lib-pdf@8.74.1
+- pkg:composer/tecnickcom/tc-lib-pdf@8.75.0
 - pkg:composer/tecnickcom/tc-lib-pdf@8.8.0
 - pkg:composer/tecnickcom/tc-lib-pdf@8.8.1
 - pkg:composer/tecnickcom/tc-lib-pdf@8.8.2
