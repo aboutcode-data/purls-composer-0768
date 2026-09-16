@@ -1,3 +1,4 @@
+- pkg:composer/tomatophp/filament-artisan@5.0.0
 - pkg:composer/tomatophp/filament-artisan@v1.0.0
 - pkg:composer/tomatophp/filament-artisan@v1.0.1
 - pkg:composer/tomatophp/filament-artisan@v1.1.0

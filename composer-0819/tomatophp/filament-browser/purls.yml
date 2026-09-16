@@ -1,3 +1,4 @@
+- pkg:composer/tomatophp/filament-browser@5.0.0
 - pkg:composer/tomatophp/filament-browser@v1.0.0
 - pkg:composer/tomatophp/filament-browser@v1.0.1
 - pkg:composer/tomatophp/filament-browser@v1.0.2

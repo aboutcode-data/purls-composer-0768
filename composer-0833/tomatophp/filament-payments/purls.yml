@@ -1,3 +1,4 @@
+- pkg:composer/tomatophp/filament-payments@5.0.0
 - pkg:composer/tomatophp/filament-payments@v1.0.0
 - pkg:composer/tomatophp/filament-payments@v1.0.1
 - pkg:composer/tomatophp/filament-payments@v1.0.10

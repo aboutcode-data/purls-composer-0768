@@ -1,3 +1,4 @@
+- pkg:composer/tomatophp/filament-api@5.0.0
 - pkg:composer/tomatophp/filament-api@v1.0.0
 - pkg:composer/tomatophp/filament-api@v1.0.1
 - pkg:composer/tomatophp/filament-api@v1.0.2

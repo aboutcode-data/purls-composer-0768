@@ -1,3 +1,4 @@
+- pkg:composer/tomatophp/filament-translations-gpt@5.0.0
 - pkg:composer/tomatophp/filament-translations-gpt@v1.0.0
 - pkg:composer/tomatophp/filament-translations-gpt@v1.0.1
 - pkg:composer/tomatophp/filament-translations-gpt@v4.0.0
