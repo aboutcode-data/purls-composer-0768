@@ -1,1 +1,2 @@
 - pkg:composer/tomatophp/filament-accounts-auth@1.0.0
+- pkg:composer/tomatophp/filament-accounts-auth@5.0.0
