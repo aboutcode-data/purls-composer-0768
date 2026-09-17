@@ -44,6 +44,8 @@
 - pkg:composer/vardot/varbase-project@11.0.4
 - pkg:composer/vardot/varbase-project@11.0.5
 - pkg:composer/vardot/varbase-project@11.0.6
+- pkg:composer/vardot/varbase-project@11.0.7
+- pkg:composer/vardot/varbase-project@11.0.8
 - pkg:composer/vardot/varbase-project@8.4.06
 - pkg:composer/vardot/varbase-project@8.4.07
 - pkg:composer/vardot/varbase-project@8.4.08
