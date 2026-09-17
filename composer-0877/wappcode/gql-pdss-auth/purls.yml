@@ -23,6 +23,7 @@
 - pkg:composer/wappcode/gql-pdss-auth@4.0.12
 - pkg:composer/wappcode/gql-pdss-auth@4.0.13
 - pkg:composer/wappcode/gql-pdss-auth@4.0.15
+- pkg:composer/wappcode/gql-pdss-auth@4.0.16
 - pkg:composer/wappcode/gql-pdss-auth@4.0.3
 - pkg:composer/wappcode/gql-pdss-auth@4.0.4
 - pkg:composer/wappcode/gql-pdss-auth@4.0.5
