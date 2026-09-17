@@ -429,6 +429,7 @@
 - pkg:composer/tencentcloud/region@3.0.1667
 - pkg:composer/tencentcloud/region@3.0.1668
 - pkg:composer/tencentcloud/region@3.0.1669
+- pkg:composer/tencentcloud/region@3.0.1670
 - pkg:composer/tencentcloud/region@3.0.683
 - pkg:composer/tencentcloud/region@3.0.684
 - pkg:composer/tencentcloud/region@3.0.685
