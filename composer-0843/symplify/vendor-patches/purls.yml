@@ -155,6 +155,7 @@
 - pkg:composer/symplify/vendor-patches@12.1.0
 - pkg:composer/symplify/vendor-patches@12.1.1
 - pkg:composer/symplify/vendor-patches@12.1.2
+- pkg:composer/symplify/vendor-patches@12.2.0
 - pkg:composer/symplify/vendor-patches@9.0.0
 - pkg:composer/symplify/vendor-patches@9.0.0-BETA2
 - pkg:composer/symplify/vendor-patches@9.0.0-BETA3
