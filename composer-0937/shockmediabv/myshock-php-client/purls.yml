@@ -46,3 +46,4 @@
 - pkg:composer/shockmediabv/myshock-php-client@26.8.1
 - pkg:composer/shockmediabv/myshock-php-client@26.8.2
 - pkg:composer/shockmediabv/myshock-php-client@26.8.3
+- pkg:composer/shockmediabv/myshock-php-client@26.9.0
