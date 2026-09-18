@@ -70,3 +70,4 @@
 - pkg:composer/afurgeri/laravel-crud@v0.8.3
 - pkg:composer/afurgeri/laravel-crud@v0.9.0
 - pkg:composer/afurgeri/laravel-crud@v0.9.1
+- pkg:composer/afurgeri/laravel-crud@v0.9.2
