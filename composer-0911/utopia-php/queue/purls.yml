@@ -89,3 +89,4 @@
 - pkg:composer/utopia-php/queue@2.2.2
 - pkg:composer/utopia-php/queue@2.2.3
 - pkg:composer/utopia-php/queue@2.2.4
+- pkg:composer/utopia-php/queue@3.0.0
