@@ -1,4 +1,5 @@
 - pkg:composer/adamcmoore/laravel-approvable@2.1.1
+- pkg:composer/adamcmoore/laravel-approvable@2.2
 - pkg:composer/adamcmoore/laravel-approvable@v0.1
 - pkg:composer/adamcmoore/laravel-approvable@v0.3
 - pkg:composer/adamcmoore/laravel-approvable@v0.4
