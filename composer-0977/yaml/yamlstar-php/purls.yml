@@ -5,3 +5,5 @@
 - pkg:composer/yaml/yamlstar-php@0.1.17
 - pkg:composer/yaml/yamlstar-php@0.1.18
 - pkg:composer/yaml/yamlstar-php@0.1.19
+- pkg:composer/yaml/yamlstar-php@0.1.20
+- pkg:composer/yaml/yamlstar-php@0.1.21
