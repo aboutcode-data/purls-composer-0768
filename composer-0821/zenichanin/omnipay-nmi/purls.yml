@@ -1,3 +1,6 @@
 - pkg:composer/zenichanin/omnipay-nmi@3.0.0
+- pkg:composer/zenichanin/omnipay-nmi@3.1.0
+- pkg:composer/zenichanin/omnipay-nmi@3.2.0
+- pkg:composer/zenichanin/omnipay-nmi@3.3.0
 - pkg:composer/zenichanin/omnipay-nmi@v2.0.0
 - pkg:composer/zenichanin/omnipay-nmi@v2.0.1
