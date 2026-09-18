@@ -15,3 +15,4 @@
 - pkg:composer/xdebug/xdebug@3.5.1
 - pkg:composer/xdebug/xdebug@3.5.2
 - pkg:composer/xdebug/xdebug@3.5.3
+- pkg:composer/xdebug/xdebug@3.6.0alpha1
