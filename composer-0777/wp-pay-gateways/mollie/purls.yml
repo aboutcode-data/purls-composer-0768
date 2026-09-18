@@ -70,6 +70,7 @@
 - pkg:composer/wp-pay-gateways/mollie@v4.18.0
 - pkg:composer/wp-pay-gateways/mollie@v4.19.0
 - pkg:composer/wp-pay-gateways/mollie@v4.20.0
+- pkg:composer/wp-pay-gateways/mollie@v4.21.0
 - pkg:composer/wp-pay-gateways/mollie@v4.7.0
 - pkg:composer/wp-pay-gateways/mollie@v4.7.1
 - pkg:composer/wp-pay-gateways/mollie@v4.7.10
