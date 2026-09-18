@@ -25,3 +25,4 @@
 - pkg:composer/zf1s/zend-server@1.15.6
 - pkg:composer/zf1s/zend-server@1.16.0
 - pkg:composer/zf1s/zend-server@1.16.1
+- pkg:composer/zf1s/zend-server@1.16.2
