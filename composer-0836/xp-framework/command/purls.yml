@@ -4,6 +4,7 @@
 - pkg:composer/xp-framework/command@v11.2.0
 - pkg:composer/xp-framework/command@v12.0.0
 - pkg:composer/xp-framework/command@v12.0.1
+- pkg:composer/xp-framework/command@v13.0.0
 - pkg:composer/xp-framework/command@v6.10.0
 - pkg:composer/xp-framework/command@v6.9.2
 - pkg:composer/xp-framework/command@v7.0.0
