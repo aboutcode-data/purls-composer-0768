@@ -30,3 +30,4 @@
 - pkg:composer/wilr/silverstripe-googlesitemaps@3.2.0
 - pkg:composer/wilr/silverstripe-googlesitemaps@4.0.0
 - pkg:composer/wilr/silverstripe-googlesitemaps@4.0.1
+- pkg:composer/wilr/silverstripe-googlesitemaps@4.1.0
