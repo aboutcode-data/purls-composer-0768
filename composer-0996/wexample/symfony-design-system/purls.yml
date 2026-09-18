@@ -144,6 +144,9 @@
 - pkg:composer/wexample/symfony-design-system@10.0.0
 - pkg:composer/wexample/symfony-design-system@10.0.1
 - pkg:composer/wexample/symfony-design-system@10.0.2
+- pkg:composer/wexample/symfony-design-system@11.0.0
+- pkg:composer/wexample/symfony-design-system@11.0.1
+- pkg:composer/wexample/symfony-design-system@11.0.2
 - pkg:composer/wexample/symfony-design-system@3.0.0
 - pkg:composer/wexample/symfony-design-system@3.0.1
 - pkg:composer/wexample/symfony-design-system@3.0.2

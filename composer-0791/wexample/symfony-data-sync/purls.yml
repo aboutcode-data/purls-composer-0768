@@ -129,3 +129,4 @@
 - pkg:composer/wexample/symfony-data-sync@1.0.94
 - pkg:composer/wexample/symfony-data-sync@2.0.0
 - pkg:composer/wexample/symfony-data-sync@2.0.1
+- pkg:composer/wexample/symfony-data-sync@2.0.2
