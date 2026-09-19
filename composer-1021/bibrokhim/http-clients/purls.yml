@@ -17,6 +17,7 @@
 - pkg:composer/bibrokhim/http-clients@1.13.1
 - pkg:composer/bibrokhim/http-clients@1.14.0
 - pkg:composer/bibrokhim/http-clients@1.14.1
+- pkg:composer/bibrokhim/http-clients@1.15.0
 - pkg:composer/bibrokhim/http-clients@1.2.0
 - pkg:composer/bibrokhim/http-clients@1.2.1
 - pkg:composer/bibrokhim/http-clients@1.2.2
@@ -106,4 +107,8 @@
 - pkg:composer/bibrokhim/http-clients@1.8.8
 - pkg:composer/bibrokhim/http-clients@1.8.9
 - pkg:composer/bibrokhim/http-clients@1.9.0
+- pkg:composer/bibrokhim/http-clients@2.0.0
+- pkg:composer/bibrokhim/http-clients@2.1.0
+- pkg:composer/bibrokhim/http-clients@2.2.0
+- pkg:composer/bibrokhim/http-clients@2.3.0
 - pkg:composer/bibrokhim/http-clients@v1.10.0
