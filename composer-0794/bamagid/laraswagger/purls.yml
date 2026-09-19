@@ -5,3 +5,6 @@
 - pkg:composer/bamagid/laraswagger@v1.0.1
 - pkg:composer/bamagid/laraswagger@v1.0.2
 - pkg:composer/bamagid/laraswagger@v1.0.6
+- pkg:composer/bamagid/laraswagger@v2.0.0
+- pkg:composer/bamagid/laraswagger@v2.0.1
+- pkg:composer/bamagid/laraswagger@v2.0.2
