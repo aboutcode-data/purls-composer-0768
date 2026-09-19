@@ -35,3 +35,7 @@
 - pkg:composer/axiam/axiam-sdk@v1.0.0-beta10
 - pkg:composer/axiam/axiam-sdk@v1.0.0-beta11
 - pkg:composer/axiam/axiam-sdk@v1.0.0-beta12
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta13
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta14
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta15
+- pkg:composer/axiam/axiam-sdk@v1.0.0-beta16
