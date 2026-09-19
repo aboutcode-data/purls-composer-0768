@@ -157,7 +157,15 @@
 - pkg:composer/blutrixx/generator-engine@v3.5.13
 - pkg:composer/blutrixx/generator-engine@v3.5.14
 - pkg:composer/blutrixx/generator-engine@v3.5.15
+- pkg:composer/blutrixx/generator-engine@v3.5.17
+- pkg:composer/blutrixx/generator-engine@v3.5.18
+- pkg:composer/blutrixx/generator-engine@v3.5.19
 - pkg:composer/blutrixx/generator-engine@v3.5.2
+- pkg:composer/blutrixx/generator-engine@v3.5.20
+- pkg:composer/blutrixx/generator-engine@v3.5.21
+- pkg:composer/blutrixx/generator-engine@v3.5.22
+- pkg:composer/blutrixx/generator-engine@v3.5.23
+- pkg:composer/blutrixx/generator-engine@v3.5.24
 - pkg:composer/blutrixx/generator-engine@v3.5.3
 - pkg:composer/blutrixx/generator-engine@v3.5.4
 - pkg:composer/blutrixx/generator-engine@v3.5.5
