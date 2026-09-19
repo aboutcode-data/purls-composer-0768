@@ -24,6 +24,7 @@
 - pkg:composer/andydefer/laravel-actions@v2.11.3
 - pkg:composer/andydefer/laravel-actions@v2.11.4
 - pkg:composer/andydefer/laravel-actions@v2.11.5
+- pkg:composer/andydefer/laravel-actions@v2.11.6
 - pkg:composer/andydefer/laravel-actions@v2.2.0
 - pkg:composer/andydefer/laravel-actions@v2.3.0
 - pkg:composer/andydefer/laravel-actions@v2.4.0
