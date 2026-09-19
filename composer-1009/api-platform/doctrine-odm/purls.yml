@@ -148,6 +148,7 @@
 - pkg:composer/api-platform/doctrine-odm@v4.3.16
 - pkg:composer/api-platform/doctrine-odm@v4.3.17
 - pkg:composer/api-platform/doctrine-odm@v4.3.18
+- pkg:composer/api-platform/doctrine-odm@v4.3.19
 - pkg:composer/api-platform/doctrine-odm@v4.3.2
 - pkg:composer/api-platform/doctrine-odm@v4.3.3
 - pkg:composer/api-platform/doctrine-odm@v4.3.4
@@ -156,10 +157,17 @@
 - pkg:composer/api-platform/doctrine-odm@v4.3.7
 - pkg:composer/api-platform/doctrine-odm@v4.3.8
 - pkg:composer/api-platform/doctrine-odm@v4.3.9
+- pkg:composer/api-platform/doctrine-odm@v4.4.0
 - pkg:composer/api-platform/doctrine-odm@v4.4.0-alpha.1
 - pkg:composer/api-platform/doctrine-odm@v4.4.0-alpha.2
 - pkg:composer/api-platform/doctrine-odm@v4.4.0-alpha.3
 - pkg:composer/api-platform/doctrine-odm@v4.4.0-alpha.4
+- pkg:composer/api-platform/doctrine-odm@v4.4.0-beta.1
+- pkg:composer/api-platform/doctrine-odm@v4.4.0-beta.2
+- pkg:composer/api-platform/doctrine-odm@v4.4.0-beta.3
+- pkg:composer/api-platform/doctrine-odm@v5.0.0
 - pkg:composer/api-platform/doctrine-odm@v5.0.0-alpha.1
 - pkg:composer/api-platform/doctrine-odm@v5.0.0-alpha.2
 - pkg:composer/api-platform/doctrine-odm@v5.0.0-alpha.3
+- pkg:composer/api-platform/doctrine-odm@v5.0.0-beta.1
+- pkg:composer/api-platform/doctrine-odm@v5.0.0-beta.2
