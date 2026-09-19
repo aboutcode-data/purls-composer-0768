@@ -5,3 +5,6 @@
 - pkg:composer/bitgen/sdk@v0.1.5
 - pkg:composer/bitgen/sdk@v0.1.6
 - pkg:composer/bitgen/sdk@v0.1.7
+- pkg:composer/bitgen/sdk@v1.0.0
+- pkg:composer/bitgen/sdk@v1.0.1
+- pkg:composer/bitgen/sdk@v1.0.2
