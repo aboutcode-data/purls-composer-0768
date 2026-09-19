@@ -41,3 +41,5 @@
 - pkg:composer/adt/doctrine-loggable@v3.0.5
 - pkg:composer/adt/doctrine-loggable@v4.0
 - pkg:composer/adt/doctrine-loggable@v4.0.1
+- pkg:composer/adt/doctrine-loggable@v4.1
+- pkg:composer/adt/doctrine-loggable@v4.2
