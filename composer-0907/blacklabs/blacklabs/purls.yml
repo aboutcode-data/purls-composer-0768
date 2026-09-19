@@ -50,3 +50,5 @@
 - pkg:composer/blacklabs/blacklabs@v2.0.1
 - pkg:composer/blacklabs/blacklabs@v2.0.2
 - pkg:composer/blacklabs/blacklabs@v2.0.3
+- pkg:composer/blacklabs/blacklabs@v3.0.0
+- pkg:composer/blacklabs/blacklabs@v3.0.1
