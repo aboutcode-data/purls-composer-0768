@@ -43,6 +43,8 @@
 - pkg:composer/asuwebplatforms/asu_react_core@2.19.4
 - pkg:composer/asuwebplatforms/asu_react_core@2.19.5
 - pkg:composer/asuwebplatforms/asu_react_core@2.19.6
+- pkg:composer/asuwebplatforms/asu_react_core@2.19.7
+- pkg:composer/asuwebplatforms/asu_react_core@2.19.8
 - pkg:composer/asuwebplatforms/asu_react_core@v2.14.1
 - pkg:composer/asuwebplatforms/asu_react_core@v2.15.1
 - pkg:composer/asuwebplatforms/asu_react_core@v2.15.2
