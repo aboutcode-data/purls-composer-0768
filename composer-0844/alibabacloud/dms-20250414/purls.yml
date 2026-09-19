@@ -51,3 +51,6 @@
 - pkg:composer/alibabacloud/dms-20250414@1.8.6
 - pkg:composer/alibabacloud/dms-20250414@1.8.7
 - pkg:composer/alibabacloud/dms-20250414@1.9.0
+- pkg:composer/alibabacloud/dms-20250414@2.0.0
+- pkg:composer/alibabacloud/dms-20250414@2.1.0
+- pkg:composer/alibabacloud/dms-20250414@2.1.1
