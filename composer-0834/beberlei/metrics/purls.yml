@@ -19,3 +19,4 @@
 - pkg:composer/beberlei/metrics@v2.8.0
 - pkg:composer/beberlei/metrics@v2.8.1
 - pkg:composer/beberlei/metrics@v2.9.0
+- pkg:composer/beberlei/metrics@v3.0.0
