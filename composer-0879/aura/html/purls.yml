@@ -8,3 +8,4 @@
 - pkg:composer/aura/html@2.4.1
 - pkg:composer/aura/html@2.5.0
 - pkg:composer/aura/html@2.6.0
+- pkg:composer/aura/html@7.0.0-beta1
