@@ -35,3 +35,4 @@
 - pkg:composer/anomaly/helper-plugin@v2.1.8
 - pkg:composer/anomaly/helper-plugin@v2.1.9
 - pkg:composer/anomaly/helper-plugin@v2.2.0
+- pkg:composer/anomaly/helper-plugin@v2.2.1
