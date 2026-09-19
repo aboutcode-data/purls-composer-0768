@@ -394,3 +394,8 @@
 - pkg:composer/automattic/jetpack-connection@v8.9.0.1
 - pkg:composer/automattic/jetpack-connection@v9.0.0
 - pkg:composer/automattic/jetpack-connection@v9.1.0
+- pkg:composer/automattic/jetpack-connection@v9.1.1
+- pkg:composer/automattic/jetpack-connection@v9.1.2
+- pkg:composer/automattic/jetpack-connection@v9.2.0
+- pkg:composer/automattic/jetpack-connection@v9.3.0
+- pkg:composer/automattic/jetpack-connection@v9.4.0

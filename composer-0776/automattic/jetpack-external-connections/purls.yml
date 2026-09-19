@@ -39,3 +39,5 @@
 - pkg:composer/automattic/jetpack-external-connections@v0.1.8
 - pkg:composer/automattic/jetpack-external-connections@v0.1.9
 - pkg:composer/automattic/jetpack-external-connections@v0.2.0
+- pkg:composer/automattic/jetpack-external-connections@v0.2.1
+- pkg:composer/automattic/jetpack-external-connections@v0.2.2
