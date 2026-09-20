@@ -80,6 +80,9 @@
 - pkg:composer/cognesy/instructor-utils@v1.9.1
 - pkg:composer/cognesy/instructor-utils@v2.0.0
 - pkg:composer/cognesy/instructor-utils@v2.1.0
+- pkg:composer/cognesy/instructor-utils@v2.10.0
+- pkg:composer/cognesy/instructor-utils@v2.10.1
+- pkg:composer/cognesy/instructor-utils@v2.11.0
 - pkg:composer/cognesy/instructor-utils@v2.2.0
 - pkg:composer/cognesy/instructor-utils@v2.3.0
 - pkg:composer/cognesy/instructor-utils@v2.3.1

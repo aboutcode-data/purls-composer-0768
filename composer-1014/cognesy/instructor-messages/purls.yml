@@ -36,6 +36,9 @@
 - pkg:composer/cognesy/instructor-messages@v1.9.1
 - pkg:composer/cognesy/instructor-messages@v2.0.0
 - pkg:composer/cognesy/instructor-messages@v2.1.0
+- pkg:composer/cognesy/instructor-messages@v2.10.0
+- pkg:composer/cognesy/instructor-messages@v2.10.1
+- pkg:composer/cognesy/instructor-messages@v2.11.0
 - pkg:composer/cognesy/instructor-messages@v2.2.0
 - pkg:composer/cognesy/instructor-messages@v2.3.0
 - pkg:composer/cognesy/instructor-messages@v2.3.1
