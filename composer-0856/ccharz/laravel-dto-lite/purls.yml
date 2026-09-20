@@ -16,3 +16,4 @@
 - pkg:composer/ccharz/laravel-dto-lite@v3.7.0
 - pkg:composer/ccharz/laravel-dto-lite@v3.8.0
 - pkg:composer/ccharz/laravel-dto-lite@v3.9.0
+- pkg:composer/ccharz/laravel-dto-lite@v4.0.0
