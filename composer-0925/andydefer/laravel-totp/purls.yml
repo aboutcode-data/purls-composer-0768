@@ -53,7 +53,9 @@
 - pkg:composer/andydefer/laravel-totp@v0.1.56
 - pkg:composer/andydefer/laravel-totp@v0.1.57
 - pkg:composer/andydefer/laravel-totp@v0.1.58
+- pkg:composer/andydefer/laravel-totp@v0.1.59
 - pkg:composer/andydefer/laravel-totp@v0.1.6
+- pkg:composer/andydefer/laravel-totp@v0.1.60
 - pkg:composer/andydefer/laravel-totp@v0.1.7
 - pkg:composer/andydefer/laravel-totp@v0.1.8
 - pkg:composer/andydefer/laravel-totp@v0.1.9

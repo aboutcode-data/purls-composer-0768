@@ -33,6 +33,8 @@
 - pkg:composer/andydefer/laravel-jsonl@v0.8.23
 - pkg:composer/andydefer/laravel-jsonl@v0.8.24
 - pkg:composer/andydefer/laravel-jsonl@v0.8.25
+- pkg:composer/andydefer/laravel-jsonl@v0.8.26
+- pkg:composer/andydefer/laravel-jsonl@v0.8.27
 - pkg:composer/andydefer/laravel-jsonl@v0.8.3
 - pkg:composer/andydefer/laravel-jsonl@v0.8.4
 - pkg:composer/andydefer/laravel-jsonl@v0.8.5

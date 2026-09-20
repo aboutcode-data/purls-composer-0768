@@ -40,6 +40,8 @@
 - pkg:composer/andydefer/php-vo@v0.21.0
 - pkg:composer/andydefer/php-vo@v0.22.0
 - pkg:composer/andydefer/php-vo@v0.22.1
+- pkg:composer/andydefer/php-vo@v0.23.0
+- pkg:composer/andydefer/php-vo@v0.24.0
 - pkg:composer/andydefer/php-vo@v0.8.1
 - pkg:composer/andydefer/php-vo@v0.8.2
 - pkg:composer/andydefer/php-vo@v0.8.3

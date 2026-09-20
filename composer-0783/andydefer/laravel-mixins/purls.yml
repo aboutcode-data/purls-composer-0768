@@ -69,7 +69,15 @@
 - pkg:composer/andydefer/laravel-mixins@v0.4.31
 - pkg:composer/andydefer/laravel-mixins@v0.4.32
 - pkg:composer/andydefer/laravel-mixins@v0.4.33
+- pkg:composer/andydefer/laravel-mixins@v0.4.34
+- pkg:composer/andydefer/laravel-mixins@v0.4.35
+- pkg:composer/andydefer/laravel-mixins@v0.4.36
+- pkg:composer/andydefer/laravel-mixins@v0.4.37
+- pkg:composer/andydefer/laravel-mixins@v0.4.38
+- pkg:composer/andydefer/laravel-mixins@v0.4.39
 - pkg:composer/andydefer/laravel-mixins@v0.4.4
+- pkg:composer/andydefer/laravel-mixins@v0.4.40
+- pkg:composer/andydefer/laravel-mixins@v0.4.41
 - pkg:composer/andydefer/laravel-mixins@v0.4.5
 - pkg:composer/andydefer/laravel-mixins@v0.4.6
 - pkg:composer/andydefer/laravel-mixins@v0.4.7
