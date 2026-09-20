@@ -1,4 +1,5 @@
 - pkg:composer/danack/typespec@0.1.0
+- pkg:composer/danack/typespec@0.10.0
 - pkg:composer/danack/typespec@0.5.0
 - pkg:composer/danack/typespec@0.5.1
 - pkg:composer/danack/typespec@0.5.2
