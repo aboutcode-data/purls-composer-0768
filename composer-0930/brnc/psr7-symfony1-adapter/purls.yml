@@ -16,3 +16,5 @@
 - pkg:composer/brnc/psr7-symfony1-adapter@v1.5.0
 - pkg:composer/brnc/psr7-symfony1-adapter@v1.6.0
 - pkg:composer/brnc/psr7-symfony1-adapter@v1.6.1
+- pkg:composer/brnc/psr7-symfony1-adapter@v1.7.0
+- pkg:composer/brnc/psr7-symfony1-adapter@v1.7.1
