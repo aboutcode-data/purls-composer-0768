@@ -16,3 +16,6 @@
 - pkg:composer/buexplain/netsvr-business-serial@v7.0.0
 - pkg:composer/buexplain/netsvr-business-serial@v7.0.1
 - pkg:composer/buexplain/netsvr-business-serial@v8.0.0
+- pkg:composer/buexplain/netsvr-business-serial@v9.0.0
+- pkg:composer/buexplain/netsvr-business-serial@v9.0.1
+- pkg:composer/buexplain/netsvr-business-serial@v9.0.2
