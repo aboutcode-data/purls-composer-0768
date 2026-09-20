@@ -19,4 +19,5 @@
 - pkg:composer/cblink/laravel-dto@v2.0.2
 - pkg:composer/cblink/laravel-dto@v2.0.3
 - pkg:composer/cblink/laravel-dto@v2.1.0
+- pkg:composer/cblink/laravel-dto@v2.2.0
 - pkg:composer/cblink/laravel-dto@v3.0.0
