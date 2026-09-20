@@ -11,3 +11,5 @@
 - pkg:composer/convertkit/convertkitapi@2.5
 - pkg:composer/convertkit/convertkitapi@2.6
 - pkg:composer/convertkit/convertkitapi@2.7
+- pkg:composer/convertkit/convertkitapi@2.7.1
+- pkg:composer/convertkit/convertkitapi@2.8
