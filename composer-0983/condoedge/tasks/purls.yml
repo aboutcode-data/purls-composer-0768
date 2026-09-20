@@ -66,6 +66,7 @@
 - pkg:composer/condoedge/tasks@v0.2.34
 - pkg:composer/condoedge/tasks@v0.2.35
 - pkg:composer/condoedge/tasks@v0.2.36
+- pkg:composer/condoedge/tasks@v0.2.37
 - pkg:composer/condoedge/tasks@v0.2.5
 - pkg:composer/condoedge/tasks@v0.2.6
 - pkg:composer/condoedge/tasks@v0.2.7
