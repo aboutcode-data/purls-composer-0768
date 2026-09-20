@@ -46,3 +46,4 @@
 - pkg:composer/antom/global-open-sdk-php@v1.5.7
 - pkg:composer/antom/global-open-sdk-php@v1.5.8
 - pkg:composer/antom/global-open-sdk-php@v1.6.0
+- pkg:composer/antom/global-open-sdk-php@v1.6.1
