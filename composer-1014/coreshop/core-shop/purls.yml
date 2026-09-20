@@ -71,6 +71,7 @@
 - pkg:composer/coreshop/core-shop@2026.1.0-beta.1
 - pkg:composer/coreshop/core-shop@2026.2.0
 - pkg:composer/coreshop/core-shop@2026.2.1
+- pkg:composer/coreshop/core-shop@2026.2.2
 - pkg:composer/coreshop/core-shop@3.0.0
 - pkg:composer/coreshop/core-shop@3.0.0-beta.1
 - pkg:composer/coreshop/core-shop@3.0.0-beta.2
@@ -155,7 +156,9 @@
 - pkg:composer/coreshop/core-shop@5.0.0-beta.1
 - pkg:composer/coreshop/core-shop@5.0.1
 - pkg:composer/coreshop/core-shop@5.0.2
+- pkg:composer/coreshop/core-shop@5.0.3
 - pkg:composer/coreshop/core-shop@5.1.0
 - pkg:composer/coreshop/core-shop@5.1.0-beta.1
 - pkg:composer/coreshop/core-shop@5.1.1
+- pkg:composer/coreshop/core-shop@5.1.2
 - pkg:composer/coreshop/core-shop@v0.2
