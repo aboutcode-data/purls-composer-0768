@@ -395,3 +395,4 @@
 - pkg:composer/easycorp/easyadmin-bundle@v5.4.1
 - pkg:composer/easycorp/easyadmin-bundle@v5.5.0
 - pkg:composer/easycorp/easyadmin-bundle@v5.5.1
+- pkg:composer/easycorp/easyadmin-bundle@v5.6.0

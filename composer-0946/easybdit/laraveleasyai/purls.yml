@@ -18,6 +18,8 @@
 - pkg:composer/easybdit/laraveleasyai@2.18.1
 - pkg:composer/easybdit/laraveleasyai@2.19.0
 - pkg:composer/easybdit/laraveleasyai@2.2.0
+- pkg:composer/easybdit/laraveleasyai@2.21.0
+- pkg:composer/easybdit/laraveleasyai@2.21.1
 - pkg:composer/easybdit/laraveleasyai@2.3.0
 - pkg:composer/easybdit/laraveleasyai@2.4.0
 - pkg:composer/easybdit/laraveleasyai@2.5.0
