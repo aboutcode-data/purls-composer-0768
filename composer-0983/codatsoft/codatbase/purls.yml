@@ -12,6 +12,8 @@
 - pkg:composer/codatsoft/codatbase@3.20.0
 - pkg:composer/codatsoft/codatbase@3.9.5
 - pkg:composer/codatsoft/codatbase@3.9.9
+- pkg:composer/codatsoft/codatbase@4.0.0
+- pkg:composer/codatsoft/codatbase@4.1.0
 - pkg:composer/codatsoft/codatbase@v3.10.4
 - pkg:composer/codatsoft/codatbase@v3.10.5
 - pkg:composer/codatsoft/codatbase@v3.10.6
