@@ -8,6 +8,7 @@
 - pkg:composer/ezyang/htmlpurifier@v4.17.0
 - pkg:composer/ezyang/htmlpurifier@v4.18.0
 - pkg:composer/ezyang/htmlpurifier@v4.19.0
+- pkg:composer/ezyang/htmlpurifier@v4.19.1
 - pkg:composer/ezyang/htmlpurifier@v4.5.0
 - pkg:composer/ezyang/htmlpurifier@v4.6.0
 - pkg:composer/ezyang/htmlpurifier@v4.7.0
