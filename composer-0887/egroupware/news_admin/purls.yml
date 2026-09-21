@@ -135,3 +135,5 @@
 - pkg:composer/egroupware/news_admin@26.8.20260819
 - pkg:composer/egroupware/news_admin@26.8.20260825
 - pkg:composer/egroupware/news_admin@26.9.20260907
+- pkg:composer/egroupware/news_admin@26.9.20260916
+- pkg:composer/egroupware/news_admin@26.9.20260918
