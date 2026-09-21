@@ -1,0 +1,16 @@
+- pkg:composer/ez-php/event-store@2.3.7
+- pkg:composer/ez-php/event-store@2.3.8
+- pkg:composer/ez-php/event-store@2.3.9
+- pkg:composer/ez-php/event-store@2.4.0
+- pkg:composer/ez-php/event-store@2.4.1
+- pkg:composer/ez-php/event-store@2.4.10
+- pkg:composer/ez-php/event-store@2.4.11
+- pkg:composer/ez-php/event-store@2.4.2
+- pkg:composer/ez-php/event-store@2.4.3
+- pkg:composer/ez-php/event-store@2.4.4
+- pkg:composer/ez-php/event-store@2.4.5
+- pkg:composer/ez-php/event-store@2.4.6
+- pkg:composer/ez-php/event-store@2.4.7
+- pkg:composer/ez-php/event-store@2.4.8
+- pkg:composer/ez-php/event-store@2.4.9
+- pkg:composer/ez-php/event-store@2.5.0
