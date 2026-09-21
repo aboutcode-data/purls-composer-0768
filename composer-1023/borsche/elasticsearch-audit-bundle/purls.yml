@@ -24,3 +24,4 @@
 - pkg:composer/borsche/elasticsearch-audit-bundle@v1.2.1
 - pkg:composer/borsche/elasticsearch-audit-bundle@v1.2.2
 - pkg:composer/borsche/elasticsearch-audit-bundle@v1.2.3
+- pkg:composer/borsche/elasticsearch-audit-bundle@v1.2.4
