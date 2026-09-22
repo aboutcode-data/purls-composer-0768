@@ -25,4 +25,5 @@
 - pkg:composer/cetera-labs/cetera-cms@3.70.0
 - pkg:composer/cetera-labs/cetera-cms@3.70.1
 - pkg:composer/cetera-labs/cetera-cms@3.70.2
+- pkg:composer/cetera-labs/cetera-cms@3.80.0
 - pkg:composer/cetera-labs/cetera-cms@v3.80.0-beta
