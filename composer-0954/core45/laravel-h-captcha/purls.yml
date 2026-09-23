@@ -3,3 +3,4 @@
 - pkg:composer/core45/laravel-h-captcha@v2.0.1
 - pkg:composer/core45/laravel-h-captcha@v2.0.3
 - pkg:composer/core45/laravel-h-captcha@v2.0.4
+- pkg:composer/core45/laravel-h-captcha@v3.0.0
