@@ -48,8 +48,11 @@
 - pkg:composer/forgeomni/superaicore@v1.1.10
 - pkg:composer/forgeomni/superaicore@v1.1.11
 - pkg:composer/forgeomni/superaicore@v1.1.12
+- pkg:composer/forgeomni/superaicore@v1.1.15
+- pkg:composer/forgeomni/superaicore@v1.1.16
 - pkg:composer/forgeomni/superaicore@v1.1.2
 - pkg:composer/forgeomni/superaicore@v1.1.5
 - pkg:composer/forgeomni/superaicore@v1.1.6
 - pkg:composer/forgeomni/superaicore@v1.1.8
 - pkg:composer/forgeomni/superaicore@v1.1.9
+- pkg:composer/forgeomni/superaicore@v1.2.0
