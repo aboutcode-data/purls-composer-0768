@@ -142,3 +142,5 @@
 - pkg:composer/fusio/model@v4.9.6
 - pkg:composer/fusio/model@v5.0.0
 - pkg:composer/fusio/model@v5.0.1
+- pkg:composer/fusio/model@v5.0.2
+- pkg:composer/fusio/model@v5.0.3
