@@ -84,6 +84,7 @@
 - pkg:composer/gcworld/formconfig@3.11.21
 - pkg:composer/gcworld/formconfig@3.11.22
 - pkg:composer/gcworld/formconfig@3.11.23
+- pkg:composer/gcworld/formconfig@3.11.24
 - pkg:composer/gcworld/formconfig@3.11.3
 - pkg:composer/gcworld/formconfig@3.11.4
 - pkg:composer/gcworld/formconfig@3.11.5
@@ -178,3 +179,4 @@
 - pkg:composer/gcworld/formconfig@3.9.7
 - pkg:composer/gcworld/formconfig@3.9.8
 - pkg:composer/gcworld/formconfig@3.9.9
+- pkg:composer/gcworld/formconfig@4.0.0
