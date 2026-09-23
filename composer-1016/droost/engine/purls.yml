@@ -12,5 +12,7 @@
 - pkg:composer/droost/engine@0.6.4
 - pkg:composer/droost/engine@0.6.5
 - pkg:composer/droost/engine@0.6.6
+- pkg:composer/droost/engine@0.7.0
+- pkg:composer/droost/engine@0.7.1
 - pkg:composer/droost/engine@v0.1.0
 - pkg:composer/droost/engine@v0.1.1
