@@ -11,3 +11,4 @@
 - pkg:composer/datatables.net/datatables.net-responsive-se@4.0.1
 - pkg:composer/datatables.net/datatables.net-responsive-se@4.0.2
 - pkg:composer/datatables.net/datatables.net-responsive-se@4.0.3
+- pkg:composer/datatables.net/datatables.net-responsive-se@4.1.0

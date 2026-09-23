@@ -6,3 +6,4 @@
 - pkg:composer/datatables.net/datatables.net-fixedheader-dt@4.0.5
 - pkg:composer/datatables.net/datatables.net-fixedheader-dt@4.0.6
 - pkg:composer/datatables.net/datatables.net-fixedheader-dt@5.0.0
+- pkg:composer/datatables.net/datatables.net-fixedheader-dt@5.1.0
