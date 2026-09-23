@@ -21,3 +21,6 @@
 - pkg:composer/hivelog/hivelog@1.8.3
 - pkg:composer/hivelog/hivelog@1.8.4
 - pkg:composer/hivelog/hivelog@1.8.5
+- pkg:composer/hivelog/hivelog@1.8.6
+- pkg:composer/hivelog/hivelog@1.8.7
+- pkg:composer/hivelog/hivelog@1.8.8
