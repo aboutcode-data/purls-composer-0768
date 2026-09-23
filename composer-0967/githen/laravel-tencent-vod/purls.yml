@@ -1,5 +1,6 @@
 - pkg:composer/githen/laravel-tencent-vod@V1.0.0
 - pkg:composer/githen/laravel-tencent-vod@v1.0.1
+- pkg:composer/githen/laravel-tencent-vod@v1.0.10
 - pkg:composer/githen/laravel-tencent-vod@v1.0.2
 - pkg:composer/githen/laravel-tencent-vod@v1.0.3
 - pkg:composer/githen/laravel-tencent-vod@v1.0.4
@@ -9,3 +10,4 @@
 - pkg:composer/githen/laravel-tencent-vod@v1.0.8
 - pkg:composer/githen/laravel-tencent-vod@v1.0.9
 - pkg:composer/githen/laravel-tencent-vod@v2.0.0
+- pkg:composer/githen/laravel-tencent-vod@v2.0.1
