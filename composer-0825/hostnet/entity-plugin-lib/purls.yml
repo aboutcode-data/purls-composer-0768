@@ -45,3 +45,5 @@
 - pkg:composer/hostnet/entity-plugin-lib@4.0.1
 - pkg:composer/hostnet/entity-plugin-lib@4.0.2
 - pkg:composer/hostnet/entity-plugin-lib@4.0.3
+- pkg:composer/hostnet/entity-plugin-lib@4.1.0
+- pkg:composer/hostnet/entity-plugin-lib@4.2.0
