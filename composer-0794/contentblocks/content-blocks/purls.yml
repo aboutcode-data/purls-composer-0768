@@ -101,6 +101,7 @@
 - pkg:composer/contentblocks/content-blocks@1.6.2
 - pkg:composer/contentblocks/content-blocks@1.6.3
 - pkg:composer/contentblocks/content-blocks@1.6.4
+- pkg:composer/contentblocks/content-blocks@1.6.5
 - pkg:composer/contentblocks/content-blocks@2.0.0
 - pkg:composer/contentblocks/content-blocks@2.0.1
 - pkg:composer/contentblocks/content-blocks@2.0.2
@@ -124,6 +125,7 @@
 - pkg:composer/contentblocks/content-blocks@2.3.5
 - pkg:composer/contentblocks/content-blocks@2.4.0
 - pkg:composer/contentblocks/content-blocks@2.4.1
+- pkg:composer/contentblocks/content-blocks@2.4.10
 - pkg:composer/contentblocks/content-blocks@2.4.2
 - pkg:composer/contentblocks/content-blocks@2.4.3
 - pkg:composer/contentblocks/content-blocks@2.4.4
