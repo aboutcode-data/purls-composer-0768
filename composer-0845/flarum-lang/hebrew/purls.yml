@@ -15,6 +15,8 @@
 - pkg:composer/flarum-lang/hebrew@2.6.3
 - pkg:composer/flarum-lang/hebrew@2.7.0
 - pkg:composer/flarum-lang/hebrew@2.7.1
+- pkg:composer/flarum-lang/hebrew@2.7.2
 - pkg:composer/flarum-lang/hebrew@3.0.0
 - pkg:composer/flarum-lang/hebrew@3.0.1
 - pkg:composer/flarum-lang/hebrew@3.0.2
+- pkg:composer/flarum-lang/hebrew@3.0.3
