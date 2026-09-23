@@ -26,6 +26,8 @@
 - pkg:composer/goldnead/statamic-payments@v1.24.3
 - pkg:composer/goldnead/statamic-payments@v1.24.4
 - pkg:composer/goldnead/statamic-payments@v1.24.5
+- pkg:composer/goldnead/statamic-payments@v1.25.0-rc.1
+- pkg:composer/goldnead/statamic-payments@v1.25.0-rc.2
 - pkg:composer/goldnead/statamic-payments@v1.3.0
 - pkg:composer/goldnead/statamic-payments@v1.4.0
 - pkg:composer/goldnead/statamic-payments@v1.5.0
