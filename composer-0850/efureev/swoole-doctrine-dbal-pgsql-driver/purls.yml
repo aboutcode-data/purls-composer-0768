@@ -11,3 +11,4 @@
 - pkg:composer/efureev/swoole-doctrine-dbal-pgsql-driver@v2.1.2
 - pkg:composer/efureev/swoole-doctrine-dbal-pgsql-driver@v2.1.3
 - pkg:composer/efureev/swoole-doctrine-dbal-pgsql-driver@v2.1.4
+- pkg:composer/efureev/swoole-doctrine-dbal-pgsql-driver@v3.0.0
