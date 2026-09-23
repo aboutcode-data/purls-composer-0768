@@ -67,6 +67,7 @@
 - pkg:composer/google/apiclient@v2.2.2
 - pkg:composer/google/apiclient@v2.2.3
 - pkg:composer/google/apiclient@v2.2.4
+- pkg:composer/google/apiclient@v2.20.0
 - pkg:composer/google/apiclient@v2.3.0
 - pkg:composer/google/apiclient@v2.4.0
 - pkg:composer/google/apiclient@v2.4.1
