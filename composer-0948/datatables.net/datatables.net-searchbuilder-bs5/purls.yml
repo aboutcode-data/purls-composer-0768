@@ -7,3 +7,4 @@
 - pkg:composer/datatables.net/datatables.net-searchbuilder-bs5@1.8.4
 - pkg:composer/datatables.net/datatables.net-searchbuilder-bs5@2.0.0
 - pkg:composer/datatables.net/datatables.net-searchbuilder-bs5@2.0.1
+- pkg:composer/datatables.net/datatables.net-searchbuilder-bs5@2.1.0
