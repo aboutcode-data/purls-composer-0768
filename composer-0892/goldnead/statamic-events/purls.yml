@@ -8,3 +8,6 @@
 - pkg:composer/goldnead/statamic-events@v2.3.0
 - pkg:composer/goldnead/statamic-events@v2.4.0
 - pkg:composer/goldnead/statamic-events@v2.5.0
+- pkg:composer/goldnead/statamic-events@v2.6.0
+- pkg:composer/goldnead/statamic-events@v2.6.1
+- pkg:composer/goldnead/statamic-events@v2.6.2
