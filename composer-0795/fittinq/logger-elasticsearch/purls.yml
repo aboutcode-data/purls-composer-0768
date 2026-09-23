@@ -27,3 +27,5 @@
 - pkg:composer/fittinq/logger-elasticsearch@5.3.1
 - pkg:composer/fittinq/logger-elasticsearch@6.0.0
 - pkg:composer/fittinq/logger-elasticsearch@7.0.0
+- pkg:composer/fittinq/logger-elasticsearch@8.0.0
+- pkg:composer/fittinq/logger-elasticsearch@9.0.0
