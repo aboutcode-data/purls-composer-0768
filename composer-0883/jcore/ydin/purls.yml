@@ -17,3 +17,5 @@
 - pkg:composer/jcore/ydin@v4.1.1
 - pkg:composer/jcore/ydin@v4.2.0
 - pkg:composer/jcore/ydin@v4.2.1
+- pkg:composer/jcore/ydin@v5.0.0
+- pkg:composer/jcore/ydin@v5.0.1
