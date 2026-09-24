@@ -6,3 +6,5 @@
 - pkg:composer/integrat/queue@2.0.0-beta.2
 - pkg:composer/integrat/queue@2.0.0-beta.2.1
 - pkg:composer/integrat/queue@2.0.0-beta.3
+- pkg:composer/integrat/queue@3.0.0
+- pkg:composer/integrat/queue@4.0.0
