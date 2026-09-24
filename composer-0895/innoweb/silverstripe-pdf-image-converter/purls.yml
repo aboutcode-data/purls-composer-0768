@@ -3,3 +3,4 @@
 - pkg:composer/innoweb/silverstripe-pdf-image-converter@1.0.2
 - pkg:composer/innoweb/silverstripe-pdf-image-converter@1.0.3
 - pkg:composer/innoweb/silverstripe-pdf-image-converter@1.0.4
+- pkg:composer/innoweb/silverstripe-pdf-image-converter@2.0.0
