@@ -49,3 +49,9 @@
 - pkg:composer/innoboxrr/laravel-auth@3.2.9
 - pkg:composer/innoboxrr/laravel-auth@4.0.0
 - pkg:composer/innoboxrr/laravel-auth@4.0.1
+- pkg:composer/innoboxrr/laravel-auth@5.0.0
+- pkg:composer/innoboxrr/laravel-auth@6.0.0
+- pkg:composer/innoboxrr/laravel-auth@6.0.1
+- pkg:composer/innoboxrr/laravel-auth@6.0.2
+- pkg:composer/innoboxrr/laravel-auth@6.0.3
+- pkg:composer/innoboxrr/laravel-auth@6.1.0
