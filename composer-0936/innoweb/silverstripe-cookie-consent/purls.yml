@@ -42,4 +42,13 @@
 - pkg:composer/innoweb/silverstripe-cookie-consent@3.9.0
 - pkg:composer/innoweb/silverstripe-cookie-consent@3.9.1
 - pkg:composer/innoweb/silverstripe-cookie-consent@4.0.0
+- pkg:composer/innoweb/silverstripe-cookie-consent@4.1.0
+- pkg:composer/innoweb/silverstripe-cookie-consent@4.1.1
+- pkg:composer/innoweb/silverstripe-cookie-consent@4.1.2
+- pkg:composer/innoweb/silverstripe-cookie-consent@4.2.0
+- pkg:composer/innoweb/silverstripe-cookie-consent@4.2.1
 - pkg:composer/innoweb/silverstripe-cookie-consent@5.0.0
+- pkg:composer/innoweb/silverstripe-cookie-consent@5.1.0
+- pkg:composer/innoweb/silverstripe-cookie-consent@5.2.0
+- pkg:composer/innoweb/silverstripe-cookie-consent@5.2.1
+- pkg:composer/innoweb/silverstripe-cookie-consent@5.2.2
