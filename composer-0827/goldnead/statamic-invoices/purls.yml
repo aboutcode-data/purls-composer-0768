@@ -10,3 +10,5 @@
 - pkg:composer/goldnead/statamic-invoices@v2.1.2
 - pkg:composer/goldnead/statamic-invoices@v2.2.0
 - pkg:composer/goldnead/statamic-invoices@v2.2.0-rc.1
+- pkg:composer/goldnead/statamic-invoices@v2.3.0
+- pkg:composer/goldnead/statamic-invoices@v2.3.0-rc.1
