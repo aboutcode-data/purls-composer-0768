@@ -1,6 +1,9 @@
 - pkg:composer/jawbfl/dbdiff@v1.0.0
 - pkg:composer/jawbfl/dbdiff@v2.0.0
 - pkg:composer/jawbfl/dbdiff@v3.0.0-rc.1
+- pkg:composer/jawbfl/dbdiff@v3.0.0-rc.10
+- pkg:composer/jawbfl/dbdiff@v3.0.0-rc.11
+- pkg:composer/jawbfl/dbdiff@v3.0.0-rc.12
 - pkg:composer/jawbfl/dbdiff@v3.0.0-rc.2
 - pkg:composer/jawbfl/dbdiff@v3.0.0-rc.3
 - pkg:composer/jawbfl/dbdiff@v3.0.0-rc.4
