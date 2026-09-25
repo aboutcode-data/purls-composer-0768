@@ -1,1 +1,5 @@
 - pkg:composer/jpmmartin/sylius-nmi-plugin@v1.0.0
+- pkg:composer/jpmmartin/sylius-nmi-plugin@v1.1.0
+- pkg:composer/jpmmartin/sylius-nmi-plugin@v1.2.0
+- pkg:composer/jpmmartin/sylius-nmi-plugin@v1.2.1
+- pkg:composer/jpmmartin/sylius-nmi-plugin@v1.3.0
