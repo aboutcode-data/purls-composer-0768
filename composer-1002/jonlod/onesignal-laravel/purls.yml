@@ -28,3 +28,4 @@
 - pkg:composer/jonlod/onesignal-laravel@v1.3.4
 - pkg:composer/jonlod/onesignal-laravel@v1.3.5
 - pkg:composer/jonlod/onesignal-laravel@v1.5.0
+- pkg:composer/jonlod/onesignal-laravel@v1.6.0
