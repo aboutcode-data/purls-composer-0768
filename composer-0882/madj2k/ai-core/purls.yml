@@ -1,4 +1,6 @@
 - pkg:composer/madj2k/ai-core@1.0.0
 - pkg:composer/madj2k/ai-core@1.0.1
 - pkg:composer/madj2k/ai-core@2.0.0
-- pkg:composer/madj2k/ai-core@v2.0.1
+- pkg:composer/madj2k/ai-core@2.0.2
+- pkg:composer/madj2k/ai-core@2.0.3
+- pkg:composer/madj2k/ai-core@2.0.4
