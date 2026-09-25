@@ -7,3 +7,7 @@
 - pkg:composer/kinetis/cache-redis@v1.1.8
 - pkg:composer/kinetis/cache-redis@v1.1.9
 - pkg:composer/kinetis/cache-redis@v1.2.0
+- pkg:composer/kinetis/cache-redis@v1.2.1
+- pkg:composer/kinetis/cache-redis@v1.2.2
+- pkg:composer/kinetis/cache-redis@v1.2.3
+- pkg:composer/kinetis/cache-redis@v1.3.0

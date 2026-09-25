@@ -4,3 +4,5 @@
 - pkg:composer/kinetis/storage@v1.1.4
 - pkg:composer/kinetis/storage@v1.2.0
 - pkg:composer/kinetis/storage@v1.2.1
+- pkg:composer/kinetis/storage@v1.2.2
+- pkg:composer/kinetis/storage@v1.2.3
