@@ -115,6 +115,7 @@
 - pkg:composer/jordandalton/laravel-tackle@v1.56.0
 - pkg:composer/jordandalton/laravel-tackle@v1.56.1
 - pkg:composer/jordandalton/laravel-tackle@v1.56.10
+- pkg:composer/jordandalton/laravel-tackle@v1.56.11
 - pkg:composer/jordandalton/laravel-tackle@v1.56.2
 - pkg:composer/jordandalton/laravel-tackle@v1.56.3
 - pkg:composer/jordandalton/laravel-tackle@v1.56.4
