@@ -9,6 +9,9 @@
 - pkg:composer/larasell-dev/larasell@v1.14.0
 - pkg:composer/larasell-dev/larasell@v1.14.1
 - pkg:composer/larasell-dev/larasell@v1.15.0
+- pkg:composer/larasell-dev/larasell@v1.16.0
+- pkg:composer/larasell-dev/larasell@v1.17.0
+- pkg:composer/larasell-dev/larasell@v1.18.0
 - pkg:composer/larasell-dev/larasell@v1.2.0
 - pkg:composer/larasell-dev/larasell@v1.3.0
 - pkg:composer/larasell-dev/larasell@v1.4.0
