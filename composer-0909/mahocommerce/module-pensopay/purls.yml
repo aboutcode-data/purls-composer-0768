@@ -1,3 +1,4 @@
 - pkg:composer/mahocommerce/module-pensopay@2.0.0
 - pkg:composer/mahocommerce/module-pensopay@3.0.0
 - pkg:composer/mahocommerce/module-pensopay@4.0.0
+- pkg:composer/mahocommerce/module-pensopay@4.0.1
