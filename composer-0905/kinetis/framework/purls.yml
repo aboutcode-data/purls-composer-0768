@@ -18,9 +18,12 @@
 - pkg:composer/kinetis/framework@v1.17.0
 - pkg:composer/kinetis/framework@v1.18.0
 - pkg:composer/kinetis/framework@v1.19.0
+- pkg:composer/kinetis/framework@v1.19.1
 - pkg:composer/kinetis/framework@v1.2.5
 - pkg:composer/kinetis/framework@v1.2.6
 - pkg:composer/kinetis/framework@v1.2.7
+- pkg:composer/kinetis/framework@v1.20.0
+- pkg:composer/kinetis/framework@v1.20.1
 - pkg:composer/kinetis/framework@v1.3.0
 - pkg:composer/kinetis/framework@v1.3.1
 - pkg:composer/kinetis/framework@v1.4.0
