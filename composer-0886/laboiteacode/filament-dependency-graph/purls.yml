@@ -1,3 +1,5 @@
 - pkg:composer/laboiteacode/filament-dependency-graph@v1.0.0
 - pkg:composer/laboiteacode/filament-dependency-graph@v1.1.0
 - pkg:composer/laboiteacode/filament-dependency-graph@v1.1.1
+- pkg:composer/laboiteacode/filament-dependency-graph@v1.1.2
+- pkg:composer/laboiteacode/filament-dependency-graph@v1.2.0
