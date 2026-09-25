@@ -64,3 +64,6 @@
 - pkg:composer/kode/process@5.2.7
 - pkg:composer/kode/process@5.2.8
 - pkg:composer/kode/process@5.2.9
+- pkg:composer/kode/process@5.3.0
+- pkg:composer/kode/process@5.3.1
+- pkg:composer/kode/process@5.4.0
