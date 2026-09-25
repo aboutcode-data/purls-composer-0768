@@ -29,6 +29,8 @@
 - pkg:composer/mage-obsidian/module-storefront@3.20.0
 - pkg:composer/mage-obsidian/module-storefront@3.21.0
 - pkg:composer/mage-obsidian/module-storefront@3.21.1
+- pkg:composer/mage-obsidian/module-storefront@3.22.0
+- pkg:composer/mage-obsidian/module-storefront@3.22.1
 - pkg:composer/mage-obsidian/module-storefront@3.3.0
 - pkg:composer/mage-obsidian/module-storefront@3.4.0
 - pkg:composer/mage-obsidian/module-storefront@3.4.1
