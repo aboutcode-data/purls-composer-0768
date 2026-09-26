@@ -1,1 +1,3 @@
 - pkg:composer/mitydigital/statamic-llms-txt@1.0.0
+- pkg:composer/mitydigital/statamic-llms-txt@1.1.0
+- pkg:composer/mitydigital/statamic-llms-txt@1.1.1
