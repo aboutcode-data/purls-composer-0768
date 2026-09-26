@@ -9,3 +9,4 @@
 - pkg:composer/jackardios/laravel-query-wizard@v2.1.2
 - pkg:composer/jackardios/laravel-query-wizard@v2.1.3
 - pkg:composer/jackardios/laravel-query-wizard@v3.0.0-rc.1
+- pkg:composer/jackardios/laravel-query-wizard@v3.0.0-rc.2
