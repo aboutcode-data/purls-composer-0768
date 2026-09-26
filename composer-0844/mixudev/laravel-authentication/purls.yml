@@ -34,3 +34,4 @@
 - pkg:composer/mixudev/laravel-authentication@v1.7.3
 - pkg:composer/mixudev/laravel-authentication@v1.7.4
 - pkg:composer/mixudev/laravel-authentication@v1.7.5
+- pkg:composer/mixudev/laravel-authentication@v1.8.0
