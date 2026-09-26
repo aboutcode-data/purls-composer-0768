@@ -39,6 +39,15 @@
 - pkg:composer/netresearch/nr-llm@v0.32.0
 - pkg:composer/netresearch/nr-llm@v0.33.0
 - pkg:composer/netresearch/nr-llm@v0.34.0
+- pkg:composer/netresearch/nr-llm@v0.35.0
+- pkg:composer/netresearch/nr-llm@v0.36.0
+- pkg:composer/netresearch/nr-llm@v0.37.0
+- pkg:composer/netresearch/nr-llm@v0.37.1
+- pkg:composer/netresearch/nr-llm@v0.37.2
+- pkg:composer/netresearch/nr-llm@v0.37.3
+- pkg:composer/netresearch/nr-llm@v0.37.4
+- pkg:composer/netresearch/nr-llm@v0.37.5
+- pkg:composer/netresearch/nr-llm@v0.37.6
 - pkg:composer/netresearch/nr-llm@v0.4.0
 - pkg:composer/netresearch/nr-llm@v0.4.1
 - pkg:composer/netresearch/nr-llm@v0.4.10
