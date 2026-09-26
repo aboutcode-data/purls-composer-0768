@@ -3,3 +3,5 @@
 - pkg:composer/mobiscroll/connect-php@v1.1.0
 - pkg:composer/mobiscroll/connect-php@v1.1.1
 - pkg:composer/mobiscroll/connect-php@v1.2.0
+- pkg:composer/mobiscroll/connect-php@v1.5.0
+- pkg:composer/mobiscroll/connect-php@v1.5.1
