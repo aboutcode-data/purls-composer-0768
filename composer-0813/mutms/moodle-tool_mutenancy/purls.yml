@@ -5,7 +5,10 @@
 - pkg:composer/mutms/moodle-tool_mutenancy@v4.5.12.01
 - pkg:composer/mutms/moodle-tool_mutenancy@v4.5.13.01
 - pkg:composer/mutms/moodle-tool_mutenancy@v4.5.14.01
+- pkg:composer/mutms/moodle-tool_mutenancy@v4.5.14.02
+- pkg:composer/mutms/moodle-tool_mutenancy@v4.5.14.03
 - pkg:composer/mutms/moodle-tool_mutenancy@v5.0.10.01
+- pkg:composer/mutms/moodle-tool_mutenancy@v5.0.10.03
 - pkg:composer/mutms/moodle-tool_mutenancy@v5.0.6.04
 - pkg:composer/mutms/moodle-tool_mutenancy@v5.0.6.05
 - pkg:composer/mutms/moodle-tool_mutenancy@v5.0.6.06
@@ -19,7 +22,9 @@
 - pkg:composer/mutms/moodle-tool_mutenancy@v5.1.5.01
 - pkg:composer/mutms/moodle-tool_mutenancy@v5.1.6.01
 - pkg:composer/mutms/moodle-tool_mutenancy@v5.1.7.01
+- pkg:composer/mutms/moodle-tool_mutenancy@v5.1.7.03
 - pkg:composer/mutms/moodle-tool_mutenancy@v5.2.0.01
 - pkg:composer/mutms/moodle-tool_mutenancy@v5.2.1.01
 - pkg:composer/mutms/moodle-tool_mutenancy@v5.2.2.01
 - pkg:composer/mutms/moodle-tool_mutenancy@v5.2.3.01
+- pkg:composer/mutms/moodle-tool_mutenancy@v5.2.3.03
