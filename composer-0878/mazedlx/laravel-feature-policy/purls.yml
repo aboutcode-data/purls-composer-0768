@@ -24,3 +24,5 @@
 - pkg:composer/mazedlx/laravel-feature-policy@v2.3.2
 - pkg:composer/mazedlx/laravel-feature-policy@v2.4
 - pkg:composer/mazedlx/laravel-feature-policy@v3.0
+- pkg:composer/mazedlx/laravel-feature-policy@v3.1
+- pkg:composer/mazedlx/laravel-feature-policy@v3.2
