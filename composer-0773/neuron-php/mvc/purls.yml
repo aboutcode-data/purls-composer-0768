@@ -118,6 +118,9 @@
 - pkg:composer/neuron-php/mvc@0.9.51
 - pkg:composer/neuron-php/mvc@0.9.52
 - pkg:composer/neuron-php/mvc@0.9.53
+- pkg:composer/neuron-php/mvc@0.9.54
+- pkg:composer/neuron-php/mvc@0.9.55
+- pkg:composer/neuron-php/mvc@0.9.56
 - pkg:composer/neuron-php/mvc@0.9.6
 - pkg:composer/neuron-php/mvc@0.9.7
 - pkg:composer/neuron-php/mvc@0.9.8
