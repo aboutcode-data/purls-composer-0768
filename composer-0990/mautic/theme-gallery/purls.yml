@@ -39,3 +39,4 @@
 - pkg:composer/mautic/theme-gallery@7.2.0
 - pkg:composer/mautic/theme-gallery@7.2.0-rc
 - pkg:composer/mautic/theme-gallery@7.2.0-rc2
+- pkg:composer/mautic/theme-gallery@7.2.1

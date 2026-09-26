@@ -26,3 +26,4 @@
 - pkg:composer/mautic/theme-capture@7.2.0
 - pkg:composer/mautic/theme-capture@7.2.0-rc
 - pkg:composer/mautic/theme-capture@7.2.0-rc2
+- pkg:composer/mautic/theme-capture@7.2.1
