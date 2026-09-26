@@ -33,3 +33,4 @@
 - pkg:composer/mwstake/mediawiki-component-processmanager@5.0.0
 - pkg:composer/mwstake/mediawiki-component-processmanager@5.0.1
 - pkg:composer/mwstake/mediawiki-component-processmanager@5.0.2
+- pkg:composer/mwstake/mediawiki-component-processmanager@6.0.0
