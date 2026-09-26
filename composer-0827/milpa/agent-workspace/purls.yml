@@ -90,5 +90,10 @@
 - pkg:composer/milpa/agent-workspace@v0.74.0
 - pkg:composer/milpa/agent-workspace@v0.74.1
 - pkg:composer/milpa/agent-workspace@v0.75.0
+- pkg:composer/milpa/agent-workspace@v0.76.0
+- pkg:composer/milpa/agent-workspace@v0.76.1
+- pkg:composer/milpa/agent-workspace@v0.77.0
+- pkg:composer/milpa/agent-workspace@v0.78.0
+- pkg:composer/milpa/agent-workspace@v0.79.0
 - pkg:composer/milpa/agent-workspace@v0.8.0
 - pkg:composer/milpa/agent-workspace@v0.9.0
