@@ -64,3 +64,5 @@
 - pkg:composer/neos/form@6.0.3
 - pkg:composer/neos/form@6.1.0
 - pkg:composer/neos/form@6.1.1
+- pkg:composer/neos/form@6.1.2
+- pkg:composer/neos/form@6.1.3
