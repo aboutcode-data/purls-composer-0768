@@ -1,1 +1,4 @@
 - pkg:composer/nasirkhan/laravel-admin@v1.0.0
+- pkg:composer/nasirkhan/laravel-admin@v1.1.0
+- pkg:composer/nasirkhan/laravel-admin@v2.0.0
+- pkg:composer/nasirkhan/laravel-admin@v2.1.0
