@@ -1,2 +1,3 @@
 - pkg:composer/rivium-trace/laravel-sdk@v0.1.0
 - pkg:composer/rivium-trace/laravel-sdk@v0.1.2
+- pkg:composer/rivium-trace/laravel-sdk@v0.2.0
