@@ -5,3 +5,5 @@
 - pkg:composer/restruct/dot-static@1.4
 - pkg:composer/restruct/dot-static@1.5
 - pkg:composer/restruct/dot-static@2.0
+- pkg:composer/restruct/dot-static@2.0.1
+- pkg:composer/restruct/dot-static@2.0.2
