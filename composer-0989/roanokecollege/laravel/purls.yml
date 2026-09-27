@@ -1,6 +1,7 @@
 - pkg:composer/roanokecollege/laravel@v10.23.2
 - pkg:composer/roanokecollege/laravel@v10.23.3
 - pkg:composer/roanokecollege/laravel@v11.42.1
+- pkg:composer/roanokecollege/laravel@v13.32.0
 - pkg:composer/roanokecollege/laravel@v6.0
 - pkg:composer/roanokecollege/laravel@v6.1
 - pkg:composer/roanokecollege/laravel@v6.20
