@@ -1,2 +1,5 @@
 - pkg:composer/phpay-io/phpay@v1.0.0
 - pkg:composer/phpay-io/phpay@v1.0.1
+- pkg:composer/phpay-io/phpay@v2.0.0
+- pkg:composer/phpay-io/phpay@v2.1.0
+- pkg:composer/phpay-io/phpay@v2.2.0
