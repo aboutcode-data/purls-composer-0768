@@ -41,6 +41,7 @@
 - pkg:composer/netresearch/agent-typo3-docs@v2.20.3
 - pkg:composer/netresearch/agent-typo3-docs@v2.20.4
 - pkg:composer/netresearch/agent-typo3-docs@v2.20.5
+- pkg:composer/netresearch/agent-typo3-docs@v2.20.6
 - pkg:composer/netresearch/agent-typo3-docs@v2.4.0
 - pkg:composer/netresearch/agent-typo3-docs@v2.5.0
 - pkg:composer/netresearch/agent-typo3-docs@v2.5.1
