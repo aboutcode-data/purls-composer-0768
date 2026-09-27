@@ -113,3 +113,5 @@
 - pkg:composer/otgs/installer@3.1.9
 - pkg:composer/otgs/installer@3.2.0-b.1
 - pkg:composer/otgs/installer@5.0.0
+- pkg:composer/otgs/installer@5.0.2
+- pkg:composer/otgs/installer@5.1.0
