@@ -59,3 +59,4 @@
 - pkg:composer/popphp/pop-pdf@6.1.0
 - pkg:composer/popphp/pop-pdf@6.1.1
 - pkg:composer/popphp/pop-pdf@6.2.0
+- pkg:composer/popphp/pop-pdf@6.2.1
