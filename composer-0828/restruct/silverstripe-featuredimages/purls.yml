@@ -12,3 +12,6 @@
 - pkg:composer/restruct/silverstripe-featuredimages@4.0.0
 - pkg:composer/restruct/silverstripe-featuredimages@4.0.1
 - pkg:composer/restruct/silverstripe-featuredimages@4.0.2
+- pkg:composer/restruct/silverstripe-featuredimages@4.1.0
+- pkg:composer/restruct/silverstripe-featuredimages@4.1.1
+- pkg:composer/restruct/silverstripe-featuredimages@5.0.0
