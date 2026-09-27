@@ -96,6 +96,8 @@
 - pkg:composer/phalcon/cphalcon@v5.20.1
 - pkg:composer/phalcon/cphalcon@v5.20.2
 - pkg:composer/phalcon/cphalcon@v5.20.3
+- pkg:composer/phalcon/cphalcon@v5.21.0
+- pkg:composer/phalcon/cphalcon@v5.22.0
 - pkg:composer/phalcon/cphalcon@v5.3.0
 - pkg:composer/phalcon/cphalcon@v5.3.1
 - pkg:composer/phalcon/cphalcon@v5.4.0
