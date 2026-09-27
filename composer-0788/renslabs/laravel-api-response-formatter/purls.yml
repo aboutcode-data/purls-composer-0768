@@ -1,3 +1,4 @@
 - pkg:composer/renslabs/laravel-api-response-formatter@v1.4.0
 - pkg:composer/renslabs/laravel-api-response-formatter@v1.4.1
 - pkg:composer/renslabs/laravel-api-response-formatter@v1.5.0
+- pkg:composer/renslabs/laravel-api-response-formatter@v1.6.0
