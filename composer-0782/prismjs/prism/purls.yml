@@ -30,3 +30,4 @@
 - pkg:composer/prismjs/prism@v1.8.3
 - pkg:composer/prismjs/prism@v1.8.4
 - pkg:composer/prismjs/prism@v1.9.0
+- pkg:composer/prismjs/prism@v2.0.0-alpha.1
