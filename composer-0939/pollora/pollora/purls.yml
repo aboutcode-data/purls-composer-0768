@@ -1,3 +1,10 @@
 - pkg:composer/pollora/pollora@v12.0.0
 - pkg:composer/pollora/pollora@v13.0.0
+- pkg:composer/pollora/pollora@v13.32.0-beta
+- pkg:composer/pollora/pollora@v13.32.0-beta.2
+- pkg:composer/pollora/pollora@v13.32.0-beta.3
+- pkg:composer/pollora/pollora@v13.32.0-beta.4
+- pkg:composer/pollora/pollora@v13.32.0-beta.6
+- pkg:composer/pollora/pollora@v13.32.0-beta.7
+- pkg:composer/pollora/pollora@v13.32.0-beta.8
 - pkg:composer/pollora/pollora@v13.4.0

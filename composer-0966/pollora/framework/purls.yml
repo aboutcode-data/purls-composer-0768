@@ -3,7 +3,16 @@
 - pkg:composer/pollora/framework@v13.1.0
 - pkg:composer/pollora/framework@v13.2.0
 - pkg:composer/pollora/framework@v13.3.0
+- pkg:composer/pollora/framework@v13.32.0-beta
+- pkg:composer/pollora/framework@v13.32.0-beta.2
+- pkg:composer/pollora/framework@v13.32.0-beta.3
+- pkg:composer/pollora/framework@v13.32.0-beta.4
+- pkg:composer/pollora/framework@v13.32.0-beta.5
+- pkg:composer/pollora/framework@v13.32.0-beta.6
+- pkg:composer/pollora/framework@v13.32.0-beta.7
+- pkg:composer/pollora/framework@v13.32.0-beta.8
 - pkg:composer/pollora/framework@v13.4.0
 - pkg:composer/pollora/framework@v13.4.1
 - pkg:composer/pollora/framework@v13.4.2
 - pkg:composer/pollora/framework@v13.4.3
+- pkg:composer/pollora/framework@v13.4.4
