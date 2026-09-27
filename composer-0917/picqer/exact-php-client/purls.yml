@@ -90,6 +90,7 @@
 - pkg:composer/picqer/exact-php-client@v3.9.0
 - pkg:composer/picqer/exact-php-client@v4.0.0
 - pkg:composer/picqer/exact-php-client@v4.1.0
+- pkg:composer/picqer/exact-php-client@v4.10.0
 - pkg:composer/picqer/exact-php-client@v4.2.0
 - pkg:composer/picqer/exact-php-client@v4.3.0
 - pkg:composer/picqer/exact-php-client@v4.3.1
@@ -106,3 +107,7 @@
 - pkg:composer/picqer/exact-php-client@v4.5.4
 - pkg:composer/picqer/exact-php-client@v4.5.5
 - pkg:composer/picqer/exact-php-client@v4.6.0
+- pkg:composer/picqer/exact-php-client@v4.6.1
+- pkg:composer/picqer/exact-php-client@v4.7.0
+- pkg:composer/picqer/exact-php-client@v4.8.0
+- pkg:composer/picqer/exact-php-client@v4.9.0
