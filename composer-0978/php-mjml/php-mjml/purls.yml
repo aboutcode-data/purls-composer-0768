@@ -1,3 +1,4 @@
 - pkg:composer/php-mjml/php-mjml@v0.0.1
 - pkg:composer/php-mjml/php-mjml@v0.0.1-alpha
 - pkg:composer/php-mjml/php-mjml@v0.1.0
+- pkg:composer/php-mjml/php-mjml@v0.2.0
