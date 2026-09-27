@@ -13,3 +13,4 @@
 - pkg:composer/readdle/stripe-httpclient-mock@1.5.2
 - pkg:composer/readdle/stripe-httpclient-mock@2.0.0
 - pkg:composer/readdle/stripe-httpclient-mock@2.1.0
+- pkg:composer/readdle/stripe-httpclient-mock@2.1.1
