@@ -7,3 +7,4 @@
 - pkg:composer/php-standard-library/trait@6.1.2
 - pkg:composer/php-standard-library/trait@6.2.0
 - pkg:composer/php-standard-library/trait@6.2.1
+- pkg:composer/php-standard-library/trait@6.3.0
