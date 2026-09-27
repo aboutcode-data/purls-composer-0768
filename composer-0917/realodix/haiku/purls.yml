@@ -29,6 +29,11 @@
 - pkg:composer/realodix/haiku@v1.13.2
 - pkg:composer/realodix/haiku@v1.13.20
 - pkg:composer/realodix/haiku@v1.13.21
+- pkg:composer/realodix/haiku@v1.13.22
+- pkg:composer/realodix/haiku@v1.13.23
+- pkg:composer/realodix/haiku@v1.13.24
+- pkg:composer/realodix/haiku@v1.13.25
+- pkg:composer/realodix/haiku@v1.13.26
 - pkg:composer/realodix/haiku@v1.13.3
 - pkg:composer/realodix/haiku@v1.13.4
 - pkg:composer/realodix/haiku@v1.13.5
