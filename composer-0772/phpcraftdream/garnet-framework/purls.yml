@@ -1,1 +1,2 @@
-- pkg:composer/phpcraftdream/garnet-framework@v0.1.0-alpha63
+- pkg:composer/phpcraftdream/garnet-framework@v0.1.0
+- pkg:composer/phpcraftdream/garnet-framework@v0.1.1
