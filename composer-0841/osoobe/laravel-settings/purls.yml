@@ -5,3 +5,4 @@
 - pkg:composer/osoobe/laravel-settings@2.3.0
 - pkg:composer/osoobe/laravel-settings@2.4.0
 - pkg:composer/osoobe/laravel-settings@2.4.1
+- pkg:composer/osoobe/laravel-settings@v2.4.2
