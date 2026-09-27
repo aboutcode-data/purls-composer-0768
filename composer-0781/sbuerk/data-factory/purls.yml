@@ -1,2 +1,4 @@
 - pkg:composer/sbuerk/data-factory@1.0.0
+- pkg:composer/sbuerk/data-factory@1.0.1
 - pkg:composer/sbuerk/data-factory@2.0.0
+- pkg:composer/sbuerk/data-factory@2.0.1
