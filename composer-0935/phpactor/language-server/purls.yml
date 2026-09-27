@@ -47,3 +47,4 @@
 - pkg:composer/phpactor/language-server@6.2.0
 - pkg:composer/phpactor/language-server@7.0.0
 - pkg:composer/phpactor/language-server@7.0.1
+- pkg:composer/phpactor/language-server@8.0.0
