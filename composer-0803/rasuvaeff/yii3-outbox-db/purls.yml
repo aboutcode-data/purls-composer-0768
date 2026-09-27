@@ -7,3 +7,6 @@
 - pkg:composer/rasuvaeff/yii3-outbox-db@v2.0.3
 - pkg:composer/rasuvaeff/yii3-outbox-db@v2.1.0
 - pkg:composer/rasuvaeff/yii3-outbox-db@v2.2.0
+- pkg:composer/rasuvaeff/yii3-outbox-db@v2.3.0
+- pkg:composer/rasuvaeff/yii3-outbox-db@v2.4.0
+- pkg:composer/rasuvaeff/yii3-outbox-db@v2.5.0
