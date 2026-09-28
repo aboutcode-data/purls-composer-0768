@@ -65,3 +65,4 @@
 - pkg:composer/railhook/php@2.8.0
 - pkg:composer/railhook/php@2.9.0
 - pkg:composer/railhook/php@2.9.1
+- pkg:composer/railhook/php@3.0.0
