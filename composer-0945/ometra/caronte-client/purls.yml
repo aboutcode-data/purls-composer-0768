@@ -34,6 +34,7 @@
 - pkg:composer/ometra/caronte-client@8.1.1
 - pkg:composer/ometra/caronte-client@8.10.0
 - pkg:composer/ometra/caronte-client@8.10.1
+- pkg:composer/ometra/caronte-client@8.10.2
 - pkg:composer/ometra/caronte-client@8.2.0
 - pkg:composer/ometra/caronte-client@8.3.0
 - pkg:composer/ometra/caronte-client@8.3.1
