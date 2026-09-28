@@ -6,3 +6,5 @@
 - pkg:composer/pittacusw/database@v3
 - pkg:composer/pittacusw/database@v3.1
 - pkg:composer/pittacusw/database@v4.0
+- pkg:composer/pittacusw/database@v4.1
+- pkg:composer/pittacusw/database@v4.2
