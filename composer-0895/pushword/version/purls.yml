@@ -1289,6 +1289,8 @@
 - pkg:composer/pushword/version@1.0.20
 - pkg:composer/pushword/version@1.0.21
 - pkg:composer/pushword/version@1.0.22
+- pkg:composer/pushword/version@1.0.23
+- pkg:composer/pushword/version@1.0.24
 - pkg:composer/pushword/version@1.0.3
 - pkg:composer/pushword/version@1.0.4
 - pkg:composer/pushword/version@1.0.5
