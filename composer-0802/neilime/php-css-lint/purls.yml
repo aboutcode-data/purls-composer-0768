@@ -23,3 +23,4 @@
 - pkg:composer/neilime/php-css-lint@v7.0.0
 - pkg:composer/neilime/php-css-lint@v7.1.0
 - pkg:composer/neilime/php-css-lint@v7.2.0
+- pkg:composer/neilime/php-css-lint@v7.2.1
