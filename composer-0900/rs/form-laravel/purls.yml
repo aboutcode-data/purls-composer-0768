@@ -35,3 +35,4 @@
 - pkg:composer/rs/form-laravel@v6.6.0
 - pkg:composer/rs/form-laravel@v7.0.0
 - pkg:composer/rs/form-laravel@v7.1.0
+- pkg:composer/rs/form-laravel@v8.0.0
