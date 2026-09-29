@@ -29,6 +29,8 @@
 - pkg:composer/rocketeers-app/rocketeers-laravel@v2.17.0
 - pkg:composer/rocketeers-app/rocketeers-laravel@v2.18.0
 - pkg:composer/rocketeers-app/rocketeers-laravel@v2.18.1
+- pkg:composer/rocketeers-app/rocketeers-laravel@v2.19.0
+- pkg:composer/rocketeers-app/rocketeers-laravel@v2.19.2
 - pkg:composer/rocketeers-app/rocketeers-laravel@v2.2.0
 - pkg:composer/rocketeers-app/rocketeers-laravel@v2.2.1
 - pkg:composer/rocketeers-app/rocketeers-laravel@v2.3.0
