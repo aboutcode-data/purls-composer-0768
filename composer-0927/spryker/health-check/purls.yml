@@ -2,3 +2,5 @@
 - pkg:composer/spryker/health-check@1.0.1
 - pkg:composer/spryker/health-check@1.1.0
 - pkg:composer/spryker/health-check@1.1.1
+- pkg:composer/spryker/health-check@1.2.0
+- pkg:composer/spryker/health-check@1.2.1
