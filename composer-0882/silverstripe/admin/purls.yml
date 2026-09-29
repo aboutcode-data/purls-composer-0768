@@ -255,4 +255,6 @@
 - pkg:composer/silverstripe/admin@3.2.2
 - pkg:composer/silverstripe/admin@3.2.3
 - pkg:composer/silverstripe/admin@3.2.4
+- pkg:composer/silverstripe/admin@3.2.5
 - pkg:composer/silverstripe/admin@3.3.0-beta1
+- pkg:composer/silverstripe/admin@3.3.0-rc1
