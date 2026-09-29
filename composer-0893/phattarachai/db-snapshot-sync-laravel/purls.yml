@@ -5,3 +5,4 @@
 - pkg:composer/phattarachai/db-snapshot-sync-laravel@v0.1.4
 - pkg:composer/phattarachai/db-snapshot-sync-laravel@v0.1.5
 - pkg:composer/phattarachai/db-snapshot-sync-laravel@v1.0.0
+- pkg:composer/phattarachai/db-snapshot-sync-laravel@v1.1.0
