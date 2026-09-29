@@ -1,10 +1,10 @@
-- pkg:composer/packagist-conductors/publish-test@6807.0.0
-- pkg:composer/packagist-conductors/publish-test@6808.0.0
-- pkg:composer/packagist-conductors/publish-test@6809.0.0
-- pkg:composer/packagist-conductors/publish-test@6810.0.0
-- pkg:composer/packagist-conductors/publish-test@6811.0.0
 - pkg:composer/packagist-conductors/publish-test@6812.0.0
 - pkg:composer/packagist-conductors/publish-test@6813.0.0
 - pkg:composer/packagist-conductors/publish-test@6814.0.0
 - pkg:composer/packagist-conductors/publish-test@6815.0.0
 - pkg:composer/packagist-conductors/publish-test@6816.0.0
+- pkg:composer/packagist-conductors/publish-test@6817.0.0
+- pkg:composer/packagist-conductors/publish-test@6818.0.0
+- pkg:composer/packagist-conductors/publish-test@6819.0.0
+- pkg:composer/packagist-conductors/publish-test@6820.0.0
+- pkg:composer/packagist-conductors/publish-test@6821.0.0
