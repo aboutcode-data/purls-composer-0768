@@ -1,2 +1,3 @@
 - pkg:composer/qinii/wechat-payment@v0.1.0
 - pkg:composer/qinii/wechat-payment@v1.0.0
+- pkg:composer/qinii/wechat-payment@v1.0.1
