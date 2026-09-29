@@ -1,2 +1,3 @@
 - pkg:composer/ondewo/nlu-client-php@7.1.0
 - pkg:composer/ondewo/nlu-client-php@7.2.0
+- pkg:composer/ondewo/nlu-client-php@7.3.0
