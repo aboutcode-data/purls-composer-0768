@@ -45,3 +45,4 @@
 - pkg:composer/pimcore/studio-ui-bundle@v2026.2.7
 - pkg:composer/pimcore/studio-ui-bundle@v2026.2.8
 - pkg:composer/pimcore/studio-ui-bundle@v2026.2.9
+- pkg:composer/pimcore/studio-ui-bundle@v2026.3.0
