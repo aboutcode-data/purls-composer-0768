@@ -13,3 +13,4 @@
 - pkg:composer/moselwal/secret-resolver@v0.8.7
 - pkg:composer/moselwal/secret-resolver@v0.8.8
 - pkg:composer/moselwal/secret-resolver@v0.8.9
+- pkg:composer/moselwal/secret-resolver@v0.9.0
