@@ -13,6 +13,8 @@
 - pkg:composer/spipu/api-partner-bundle@v4.2.0
 - pkg:composer/spipu/api-partner-bundle@v4.2.1
 - pkg:composer/spipu/api-partner-bundle@v4.2.2
+- pkg:composer/spipu/api-partner-bundle@v4.2.3
 - pkg:composer/spipu/api-partner-bundle@v5.0.0
 - pkg:composer/spipu/api-partner-bundle@v5.0.1
 - pkg:composer/spipu/api-partner-bundle@v5.0.2
+- pkg:composer/spipu/api-partner-bundle@v5.0.3
