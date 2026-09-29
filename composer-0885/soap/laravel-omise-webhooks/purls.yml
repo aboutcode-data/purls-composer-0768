@@ -4,3 +4,4 @@
 - pkg:composer/soap/laravel-omise-webhooks@v1.0.0
 - pkg:composer/soap/laravel-omise-webhooks@v1.1.0
 - pkg:composer/soap/laravel-omise-webhooks@v1.1.1
+- pkg:composer/soap/laravel-omise-webhooks@v1.2.0
