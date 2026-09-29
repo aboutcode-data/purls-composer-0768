@@ -1,6 +1,9 @@
 - pkg:composer/mohamedtarek/laravel-stampede-guard@1.0.0
 - pkg:composer/mohamedtarek/laravel-stampede-guard@1.0.1
+- pkg:composer/mohamedtarek/laravel-stampede-guard@1.0.2
 - pkg:composer/mohamedtarek/laravel-stampede-guard@2.0.0
 - pkg:composer/mohamedtarek/laravel-stampede-guard@2.0.1
+- pkg:composer/mohamedtarek/laravel-stampede-guard@2.0.2
 - pkg:composer/mohamedtarek/laravel-stampede-guard@3.0.0
 - pkg:composer/mohamedtarek/laravel-stampede-guard@3.0.1
+- pkg:composer/mohamedtarek/laravel-stampede-guard@3.0.2
