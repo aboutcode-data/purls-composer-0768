@@ -1,0 +1,2 @@
+- pkg:composer/socket-bridge/laravel-socketio@v0.1.0
+- pkg:composer/socket-bridge/laravel-socketio@v0.2.0
