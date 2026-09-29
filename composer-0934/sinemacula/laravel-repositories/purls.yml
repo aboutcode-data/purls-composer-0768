@@ -8,3 +8,5 @@
 - pkg:composer/sinemacula/laravel-repositories@v2.1.0
 - pkg:composer/sinemacula/laravel-repositories@v2.2.0
 - pkg:composer/sinemacula/laravel-repositories@v3.0.0
+- pkg:composer/sinemacula/laravel-repositories@v3.1.0
+- pkg:composer/sinemacula/laravel-repositories@v3.2.0
