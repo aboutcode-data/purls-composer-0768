@@ -9,3 +9,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp-module-expirycheck@v1.1.0
 - pkg:composer/simplesamlphp/simplesamlphp-module-expirycheck@v1.1.1
 - pkg:composer/simplesamlphp/simplesamlphp-module-expirycheck@v1.2.0
+- pkg:composer/simplesamlphp/simplesamlphp-module-expirycheck@v1.2.1
