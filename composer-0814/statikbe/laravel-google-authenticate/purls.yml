@@ -35,3 +35,5 @@
 - pkg:composer/statikbe/laravel-google-authenticate@4.5.2
 - pkg:composer/statikbe/laravel-google-authenticate@4.6.0
 - pkg:composer/statikbe/laravel-google-authenticate@4.6.1
+- pkg:composer/statikbe/laravel-google-authenticate@4.6.2
+- pkg:composer/statikbe/laravel-google-authenticate@4.6.3
