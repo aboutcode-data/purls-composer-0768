@@ -39,6 +39,7 @@
 - pkg:composer/spryker/wishlist@8.0.0
 - pkg:composer/spryker/wishlist@8.1.0
 - pkg:composer/spryker/wishlist@8.10.0
+- pkg:composer/spryker/wishlist@8.10.1
 - pkg:composer/spryker/wishlist@8.2.0
 - pkg:composer/spryker/wishlist@8.2.1
 - pkg:composer/spryker/wishlist@8.2.2
