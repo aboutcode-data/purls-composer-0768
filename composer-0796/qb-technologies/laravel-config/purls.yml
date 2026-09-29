@@ -3,3 +3,5 @@
 - pkg:composer/qb-technologies/laravel-config@1.0.3
 - pkg:composer/qb-technologies/laravel-config@1.1.0
 - pkg:composer/qb-technologies/laravel-config@1.1.1
+- pkg:composer/qb-technologies/laravel-config@1.2.0
+- pkg:composer/qb-technologies/laravel-config@2.0.0
