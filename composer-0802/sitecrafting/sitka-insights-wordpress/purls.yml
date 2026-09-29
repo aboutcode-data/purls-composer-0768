@@ -1,3 +1,4 @@
+- pkg:composer/sitecrafting/sitka-insights-wordpress@3.1.0
 - pkg:composer/sitecrafting/sitka-insights-wordpress@v0.0.1
 - pkg:composer/sitecrafting/sitka-insights-wordpress@v0.0.2
 - pkg:composer/sitecrafting/sitka-insights-wordpress@v0.0.3
