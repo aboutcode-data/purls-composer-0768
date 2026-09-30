@@ -32,3 +32,8 @@
 - pkg:composer/viswoole/framework@v1.5.4
 - pkg:composer/viswoole/framework@v1.6.0
 - pkg:composer/viswoole/framework@v1.6.1
+- pkg:composer/viswoole/framework@v1.6.2
+- pkg:composer/viswoole/framework@v1.6.3
+- pkg:composer/viswoole/framework@v1.7.0
+- pkg:composer/viswoole/framework@v1.7.1
+- pkg:composer/viswoole/framework@v1.8.0
