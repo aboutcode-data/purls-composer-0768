@@ -311,9 +311,12 @@
 - pkg:composer/sylius/addressing-bundle@v2.1.9
 - pkg:composer/sylius/addressing-bundle@v2.2.0
 - pkg:composer/sylius/addressing-bundle@v2.2.1
+- pkg:composer/sylius/addressing-bundle@v2.2.10
 - pkg:composer/sylius/addressing-bundle@v2.2.2
 - pkg:composer/sylius/addressing-bundle@v2.2.3
 - pkg:composer/sylius/addressing-bundle@v2.2.4
 - pkg:composer/sylius/addressing-bundle@v2.2.5
 - pkg:composer/sylius/addressing-bundle@v2.2.6
 - pkg:composer/sylius/addressing-bundle@v2.2.9
+- pkg:composer/sylius/addressing-bundle@v2.3.0
+- pkg:composer/sylius/addressing-bundle@v2.3.0-RC.1
