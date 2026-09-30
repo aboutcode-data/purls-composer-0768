@@ -38,3 +38,6 @@
 - pkg:composer/viicslen/laravel-trackable-tasks@v10.1.1
 - pkg:composer/viicslen/laravel-trackable-tasks@v11.0.0
 - pkg:composer/viicslen/laravel-trackable-tasks@v11.0.1
+- pkg:composer/viicslen/laravel-trackable-tasks@v12.0.1
+- pkg:composer/viicslen/laravel-trackable-tasks@v13.0.0
+- pkg:composer/viicslen/laravel-trackable-tasks@v13.0.1
