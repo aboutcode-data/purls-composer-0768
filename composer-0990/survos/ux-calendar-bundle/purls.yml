@@ -53,6 +53,7 @@
 - pkg:composer/survos/ux-calendar-bundle@2.2.5
 - pkg:composer/survos/ux-calendar-bundle@2.24.4
 - pkg:composer/survos/ux-calendar-bundle@2.3.0
+- pkg:composer/survos/ux-calendar-bundle@2.33.0
 - pkg:composer/survos/ux-calendar-bundle@2.4.0
 - pkg:composer/survos/ux-calendar-bundle@2.4.1
 - pkg:composer/survos/ux-calendar-bundle@2.4.2
