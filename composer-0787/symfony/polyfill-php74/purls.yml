@@ -30,3 +30,4 @@
 - pkg:composer/symfony/polyfill-php74@v1.37.0
 - pkg:composer/symfony/polyfill-php74@v1.38.1
 - pkg:composer/symfony/polyfill-php74@v1.41.0
+- pkg:composer/symfony/polyfill-php74@v1.43.0
