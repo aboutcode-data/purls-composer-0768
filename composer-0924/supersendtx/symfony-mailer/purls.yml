@@ -1,3 +1,5 @@
 - pkg:composer/supersendtx/symfony-mailer@v0.8.3
 - pkg:composer/supersendtx/symfony-mailer@v0.8.4
 - pkg:composer/supersendtx/symfony-mailer@v0.8.5
+- pkg:composer/supersendtx/symfony-mailer@v0.8.6
+- pkg:composer/supersendtx/symfony-mailer@v0.8.7
