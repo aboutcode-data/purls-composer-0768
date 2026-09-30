@@ -96,6 +96,7 @@
 - pkg:composer/pushery/wirekit@v2.6.4
 - pkg:composer/pushery/wirekit@v2.6.5
 - pkg:composer/pushery/wirekit@v2.6.6
+- pkg:composer/pushery/wirekit@v2.60.0
 - pkg:composer/pushery/wirekit@v2.7.0
 - pkg:composer/pushery/wirekit@v2.7.1
 - pkg:composer/pushery/wirekit@v2.7.2
