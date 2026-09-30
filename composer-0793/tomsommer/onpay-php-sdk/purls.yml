@@ -10,3 +10,4 @@
 - pkg:composer/tomsommer/onpay-php-sdk@3.4.0
 - pkg:composer/tomsommer/onpay-php-sdk@4.0.0
 - pkg:composer/tomsommer/onpay-php-sdk@4.1.0
+- pkg:composer/tomsommer/onpay-php-sdk@4.1.1
