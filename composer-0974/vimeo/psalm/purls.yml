@@ -435,6 +435,10 @@
 - pkg:composer/vimeo/psalm@6.17.0
 - pkg:composer/vimeo/psalm@6.17.1
 - pkg:composer/vimeo/psalm@6.17.2
+- pkg:composer/vimeo/psalm@6.18.0
+- pkg:composer/vimeo/psalm@6.18.1
+- pkg:composer/vimeo/psalm@6.19.0
+- pkg:composer/vimeo/psalm@6.19.1
 - pkg:composer/vimeo/psalm@6.2.0
 - pkg:composer/vimeo/psalm@6.3.0
 - pkg:composer/vimeo/psalm@6.4.0
@@ -477,6 +481,7 @@
 - pkg:composer/vimeo/psalm@7.0.0-beta2
 - pkg:composer/vimeo/psalm@7.0.0-beta20
 - pkg:composer/vimeo/psalm@7.0.0-beta21
+- pkg:composer/vimeo/psalm@7.0.0-beta22
 - pkg:composer/vimeo/psalm@7.0.0-beta3
 - pkg:composer/vimeo/psalm@7.0.0-beta4
 - pkg:composer/vimeo/psalm@7.0.0-beta5
