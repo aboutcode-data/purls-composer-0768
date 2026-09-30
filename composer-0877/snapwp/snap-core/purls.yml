@@ -69,6 +69,7 @@
 - pkg:composer/snapwp/snap-core@0.20.7
 - pkg:composer/snapwp/snap-core@0.20.8
 - pkg:composer/snapwp/snap-core@0.20.9
+- pkg:composer/snapwp/snap-core@0.21.0
 - pkg:composer/snapwp/snap-core@0.6.5
 - pkg:composer/snapwp/snap-core@0.7.0
 - pkg:composer/snapwp/snap-core@0.7.1
