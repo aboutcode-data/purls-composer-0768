@@ -12,3 +12,4 @@
 - pkg:composer/uniforcemusic/php-duckdb-cli@v1.4.0
 - pkg:composer/uniforcemusic/php-duckdb-cli@v1.5.0
 - pkg:composer/uniforcemusic/php-duckdb-cli@v1.5.1
+- pkg:composer/uniforcemusic/php-duckdb-cli@v1.6.0
