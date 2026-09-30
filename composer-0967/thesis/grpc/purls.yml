@@ -13,3 +13,8 @@
 - pkg:composer/thesis/grpc@0.2.2
 - pkg:composer/thesis/grpc@0.2.3
 - pkg:composer/thesis/grpc@0.2.4
+- pkg:composer/thesis/grpc@0.3.0
+- pkg:composer/thesis/grpc@0.3.1
+- pkg:composer/thesis/grpc@0.3.2
+- pkg:composer/thesis/grpc@0.3.3
+- pkg:composer/thesis/grpc@0.3.4
