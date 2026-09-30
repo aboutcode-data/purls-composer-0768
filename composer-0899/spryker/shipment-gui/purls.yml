@@ -36,3 +36,4 @@
 - pkg:composer/spryker/shipment-gui@3.3.0
 - pkg:composer/spryker/shipment-gui@3.4.0
 - pkg:composer/spryker/shipment-gui@3.5.0
+- pkg:composer/spryker/shipment-gui@3.5.1
