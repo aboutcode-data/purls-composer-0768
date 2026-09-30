@@ -33,3 +33,6 @@
 - pkg:composer/torq/pimcore-helpers-bundle@v3.1.5
 - pkg:composer/torq/pimcore-helpers-bundle@v3.2.0
 - pkg:composer/torq/pimcore-helpers-bundle@v3.2.1
+- pkg:composer/torq/pimcore-helpers-bundle@v3.2.2
+- pkg:composer/torq/pimcore-helpers-bundle@v3.2.3
+- pkg:composer/torq/pimcore-helpers-bundle@v3.2.4
