@@ -9,3 +9,4 @@
 - pkg:composer/thelia/product-status-module@1.0.7
 - pkg:composer/thelia/product-status-module@1.0.8
 - pkg:composer/thelia/product-status-module@1.0.9
+- pkg:composer/thelia/product-status-module@3.0.0
