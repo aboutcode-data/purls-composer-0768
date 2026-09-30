@@ -30,6 +30,7 @@
 - pkg:composer/symfony/type-info@v7.4.0-RC1
 - pkg:composer/symfony/type-info@v7.4.1
 - pkg:composer/symfony/type-info@v7.4.17
+- pkg:composer/symfony/type-info@v7.4.20
 - pkg:composer/symfony/type-info@v7.4.4
 - pkg:composer/symfony/type-info@v7.4.6
 - pkg:composer/symfony/type-info@v7.4.7
@@ -49,3 +50,4 @@
 - pkg:composer/symfony/type-info@v8.1.0-BETA1
 - pkg:composer/symfony/type-info@v8.1.0-BETA3
 - pkg:composer/symfony/type-info@v8.1.5
+- pkg:composer/symfony/type-info@v8.1.8
