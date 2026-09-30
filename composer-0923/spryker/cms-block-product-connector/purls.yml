@@ -16,3 +16,4 @@
 - pkg:composer/spryker/cms-block-product-connector@1.6.1
 - pkg:composer/spryker/cms-block-product-connector@1.7.0
 - pkg:composer/spryker/cms-block-product-connector@1.8.0
+- pkg:composer/spryker/cms-block-product-connector@1.8.1
