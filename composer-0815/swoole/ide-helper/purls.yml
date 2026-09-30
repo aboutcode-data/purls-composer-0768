@@ -99,3 +99,4 @@
 - pkg:composer/swoole/ide-helper@6.2.0
 - pkg:composer/swoole/ide-helper@6.2.1
 - pkg:composer/swoole/ide-helper@6.2.2
+- pkg:composer/swoole/ide-helper@6.2.3
