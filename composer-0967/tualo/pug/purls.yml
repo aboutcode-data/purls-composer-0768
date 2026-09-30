@@ -33,6 +33,8 @@
 - pkg:composer/tualo/pug@1.4.18
 - pkg:composer/tualo/pug@1.4.19
 - pkg:composer/tualo/pug@1.4.2
+- pkg:composer/tualo/pug@1.4.20
+- pkg:composer/tualo/pug@1.4.21
 - pkg:composer/tualo/pug@1.4.3
 - pkg:composer/tualo/pug@1.4.4
 - pkg:composer/tualo/pug@1.4.5
