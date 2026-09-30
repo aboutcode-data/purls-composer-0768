@@ -59,6 +59,14 @@
 - pkg:composer/telegram-bot-essentials/essence@v0.11.2
 - pkg:composer/telegram-bot-essentials/essence@v0.11.3
 - pkg:composer/telegram-bot-essentials/essence@v0.12.0
+- pkg:composer/telegram-bot-essentials/essence@v0.13.0
+- pkg:composer/telegram-bot-essentials/essence@v0.14.0
+- pkg:composer/telegram-bot-essentials/essence@v0.14.1
+- pkg:composer/telegram-bot-essentials/essence@v0.15.0
+- pkg:composer/telegram-bot-essentials/essence@v0.15.0-beta.1
+- pkg:composer/telegram-bot-essentials/essence@v0.16.0
+- pkg:composer/telegram-bot-essentials/essence@v0.16.1
+- pkg:composer/telegram-bot-essentials/essence@v0.16.2
 - pkg:composer/telegram-bot-essentials/essence@v0.8.1
 - pkg:composer/telegram-bot-essentials/essence@v0.8.10
 - pkg:composer/telegram-bot-essentials/essence@v0.8.11
