@@ -66,6 +66,7 @@
 - pkg:composer/valkyrja/ci-phparkitect@v26.7.54
 - pkg:composer/valkyrja/ci-phparkitect@v26.7.55
 - pkg:composer/valkyrja/ci-phparkitect@v26.7.56
+- pkg:composer/valkyrja/ci-phparkitect@v26.7.57
 - pkg:composer/valkyrja/ci-phparkitect@v26.7.6
 - pkg:composer/valkyrja/ci-phparkitect@v26.7.7
 - pkg:composer/valkyrja/ci-phparkitect@v26.7.8
