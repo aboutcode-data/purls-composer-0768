@@ -10,3 +10,4 @@
 - pkg:composer/wilkques/http-client@v4.0.0
 - pkg:composer/wilkques/http-client@v4.1.0
 - pkg:composer/wilkques/http-client@v5.0.1
+- pkg:composer/wilkques/http-client@v6.0.0
