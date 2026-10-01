@@ -38,3 +38,7 @@
 - pkg:composer/xklmicroapps/slim_api_essentials@2.3.6
 - pkg:composer/xklmicroapps/slim_api_essentials@2.3.7
 - pkg:composer/xklmicroapps/slim_api_essentials@2.4.0
+- pkg:composer/xklmicroapps/slim_api_essentials@3.0.0
+- pkg:composer/xklmicroapps/slim_api_essentials@3.0.1
+- pkg:composer/xklmicroapps/slim_api_essentials@3.0.2
+- pkg:composer/xklmicroapps/slim_api_essentials@3.0.3
