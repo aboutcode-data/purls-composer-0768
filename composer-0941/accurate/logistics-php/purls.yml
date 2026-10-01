@@ -26,6 +26,8 @@
 - pkg:composer/accurate/logistics-php@v0.2.13
 - pkg:composer/accurate/logistics-php@v0.2.14
 - pkg:composer/accurate/logistics-php@v0.2.15
+- pkg:composer/accurate/logistics-php@v0.2.16
+- pkg:composer/accurate/logistics-php@v0.2.17
 - pkg:composer/accurate/logistics-php@v0.2.2
 - pkg:composer/accurate/logistics-php@v0.2.3
 - pkg:composer/accurate/logistics-php@v0.2.4
