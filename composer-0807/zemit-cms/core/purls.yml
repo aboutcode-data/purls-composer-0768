@@ -108,6 +108,9 @@
 - pkg:composer/zemit-cms/core@3.10.5
 - pkg:composer/zemit-cms/core@3.10.6
 - pkg:composer/zemit-cms/core@3.10.7
+- pkg:composer/zemit-cms/core@3.10.8
+- pkg:composer/zemit-cms/core@3.11.0
+- pkg:composer/zemit-cms/core@3.11.1
 - pkg:composer/zemit-cms/core@3.2.0
 - pkg:composer/zemit-cms/core@3.3.0
 - pkg:composer/zemit-cms/core@3.4.0
@@ -120,3 +123,5 @@
 - pkg:composer/zemit-cms/core@3.7.2
 - pkg:composer/zemit-cms/core@3.8.0
 - pkg:composer/zemit-cms/core@3.9.0
+- pkg:composer/zemit-cms/core@4.0.0
+- pkg:composer/zemit-cms/core@4.0.1
