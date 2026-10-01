@@ -28,3 +28,5 @@
 - pkg:composer/wucdbm/filter-bundle@v0.8.4
 - pkg:composer/wucdbm/filter-bundle@v0.9.0
 - pkg:composer/wucdbm/filter-bundle@v0.9.1
+- pkg:composer/wucdbm/filter-bundle@v0.9.2
+- pkg:composer/wucdbm/filter-bundle@v0.9.3
