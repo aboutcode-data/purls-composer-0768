@@ -5,6 +5,8 @@
 - pkg:composer/shoper/sdk@0.5.19
 - pkg:composer/shoper/sdk@0.5.20
 - pkg:composer/shoper/sdk@0.5.21
+- pkg:composer/shoper/sdk@0.5.22
+- pkg:composer/shoper/sdk@0.5.23
 - pkg:composer/shoper/sdk@0.5.7
 - pkg:composer/shoper/sdk@v0.3.0
 - pkg:composer/shoper/sdk@v0.5.4
