@@ -241,6 +241,7 @@
 - pkg:composer/survos/lingua-bundle@2.24.8
 - pkg:composer/survos/lingua-bundle@2.3.0
 - pkg:composer/survos/lingua-bundle@2.33.0
+- pkg:composer/survos/lingua-bundle@2.34.29
 - pkg:composer/survos/lingua-bundle@2.4.0
 - pkg:composer/survos/lingua-bundle@2.4.1
 - pkg:composer/survos/lingua-bundle@2.4.2

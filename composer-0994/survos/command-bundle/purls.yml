@@ -950,6 +950,8 @@
 - pkg:composer/survos/command-bundle@2.34.16
 - pkg:composer/survos/command-bundle@2.34.17
 - pkg:composer/survos/command-bundle@2.34.18
+- pkg:composer/survos/command-bundle@2.34.23
+- pkg:composer/survos/command-bundle@2.34.29
 - pkg:composer/survos/command-bundle@2.4.0
 - pkg:composer/survos/command-bundle@2.4.1
 - pkg:composer/survos/command-bundle@2.4.2
