@@ -16,6 +16,7 @@
 - pkg:composer/win32service/win32service@1.1.1beta19
 - pkg:composer/win32service/win32service@1.1.1beta2
 - pkg:composer/win32service/win32service@1.1.1beta20
+- pkg:composer/win32service/win32service@1.1.1beta21
 - pkg:composer/win32service/win32service@1.1.1beta3
 - pkg:composer/win32service/win32service@1.1.1beta4
 - pkg:composer/win32service/win32service@1.1.1beta5
@@ -23,6 +24,7 @@
 - pkg:composer/win32service/win32service@1.1.1beta7
 - pkg:composer/win32service/win32service@1.1.1beta8
 - pkg:composer/win32service/win32service@1.1.1beta9
+- pkg:composer/win32service/win32service@1.2.0alpha1
 - pkg:composer/win32service/win32service@v1.1.0beta4
 - pkg:composer/win32service/win32service@v1.1.0beta6
 - pkg:composer/win32service/win32service@v1.1.0beta7
