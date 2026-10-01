@@ -6,3 +6,4 @@
 - pkg:composer/togul/php-sdk@v2.3.0
 - pkg:composer/togul/php-sdk@v3.0.2
 - pkg:composer/togul/php-sdk@v3.1.0
+- pkg:composer/togul/php-sdk@v3.1.1
