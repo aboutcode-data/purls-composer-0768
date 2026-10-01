@@ -8,6 +8,7 @@
 - pkg:composer/zipmoney/merchantapi-php@1.0.16
 - pkg:composer/zipmoney/merchantapi-php@1.0.17
 - pkg:composer/zipmoney/merchantapi-php@1.0.18
+- pkg:composer/zipmoney/merchantapi-php@1.0.18.1
 - pkg:composer/zipmoney/merchantapi-php@1.0.19
 - pkg:composer/zipmoney/merchantapi-php@1.0.2
 - pkg:composer/zipmoney/merchantapi-php@1.0.20
