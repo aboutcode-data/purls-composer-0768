@@ -15,6 +15,15 @@
 - pkg:composer/wexample/symfony-stage@1.0.0
 - pkg:composer/wexample/symfony-stage@1.0.1
 - pkg:composer/wexample/symfony-stage@1.0.10
+- pkg:composer/wexample/symfony-stage@1.0.100
+- pkg:composer/wexample/symfony-stage@1.0.101
+- pkg:composer/wexample/symfony-stage@1.0.102
+- pkg:composer/wexample/symfony-stage@1.0.103
+- pkg:composer/wexample/symfony-stage@1.0.104
+- pkg:composer/wexample/symfony-stage@1.0.105
+- pkg:composer/wexample/symfony-stage@1.0.106
+- pkg:composer/wexample/symfony-stage@1.0.107
+- pkg:composer/wexample/symfony-stage@1.0.108
 - pkg:composer/wexample/symfony-stage@1.0.15
 - pkg:composer/wexample/symfony-stage@1.0.16
 - pkg:composer/wexample/symfony-stage@1.0.17
@@ -100,3 +109,5 @@
 - pkg:composer/wexample/symfony-stage@1.0.95
 - pkg:composer/wexample/symfony-stage@1.0.96
 - pkg:composer/wexample/symfony-stage@1.0.97
+- pkg:composer/wexample/symfony-stage@1.0.98
+- pkg:composer/wexample/symfony-stage@1.0.99
