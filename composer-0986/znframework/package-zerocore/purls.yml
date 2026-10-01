@@ -38,6 +38,7 @@
 - pkg:composer/znframework/package-zerocore@8.19.4
 - pkg:composer/znframework/package-zerocore@8.20.0
 - pkg:composer/znframework/package-zerocore@8.21.0
+- pkg:composer/znframework/package-zerocore@8.25.1
 - pkg:composer/znframework/package-zerocore@8.3.0
 - pkg:composer/znframework/package-zerocore@8.4.1
 - pkg:composer/znframework/package-zerocore@8.4.11
