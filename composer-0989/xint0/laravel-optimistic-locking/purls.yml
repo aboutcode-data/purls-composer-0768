@@ -23,3 +23,4 @@
 - pkg:composer/xint0/laravel-optimistic-locking@2.1.0
 - pkg:composer/xint0/laravel-optimistic-locking@3.0.0
 - pkg:composer/xint0/laravel-optimistic-locking@3.1.0
+- pkg:composer/xint0/laravel-optimistic-locking@3.1.1
