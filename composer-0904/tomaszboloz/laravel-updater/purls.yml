@@ -6,3 +6,7 @@
 - pkg:composer/tomaszboloz/laravel-updater@v3.0.1
 - pkg:composer/tomaszboloz/laravel-updater@v3.0.2
 - pkg:composer/tomaszboloz/laravel-updater@v3.0.3
+- pkg:composer/tomaszboloz/laravel-updater@v3.0.4
+- pkg:composer/tomaszboloz/laravel-updater@v3.1.0
+- pkg:composer/tomaszboloz/laravel-updater@v3.2.0
+- pkg:composer/tomaszboloz/laravel-updater@v3.3.0
