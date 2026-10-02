@@ -66,6 +66,7 @@
 - pkg:composer/webx-ui/localization@v0.53.1
 - pkg:composer/webx-ui/localization@v0.54.0
 - pkg:composer/webx-ui/localization@v0.55.0
+- pkg:composer/webx-ui/localization@v0.56.0
 - pkg:composer/webx-ui/localization@v0.6.0
 - pkg:composer/webx-ui/localization@v0.7.0
 - pkg:composer/webx-ui/localization@v0.8.0
