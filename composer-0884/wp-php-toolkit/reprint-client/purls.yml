@@ -2,6 +2,8 @@
 - pkg:composer/wp-php-toolkit/reprint-client@v0.10.1
 - pkg:composer/wp-php-toolkit/reprint-client@v0.10.10
 - pkg:composer/wp-php-toolkit/reprint-client@v0.10.11
+- pkg:composer/wp-php-toolkit/reprint-client@v0.10.12
+- pkg:composer/wp-php-toolkit/reprint-client@v0.10.13
 - pkg:composer/wp-php-toolkit/reprint-client@v0.10.2
 - pkg:composer/wp-php-toolkit/reprint-client@v0.10.3
 - pkg:composer/wp-php-toolkit/reprint-client@v0.10.4
