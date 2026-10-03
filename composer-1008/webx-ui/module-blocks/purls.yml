@@ -58,3 +58,5 @@
 - pkg:composer/webx-ui/module-blocks@v0.54.0
 - pkg:composer/webx-ui/module-blocks@v0.55.0
 - pkg:composer/webx-ui/module-blocks@v0.56.0
+- pkg:composer/webx-ui/module-blocks@v0.57.0
+- pkg:composer/webx-ui/module-blocks@v0.58.0

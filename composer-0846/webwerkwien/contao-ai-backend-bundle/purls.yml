@@ -5,6 +5,7 @@
 - pkg:composer/webwerkwien/contao-ai-backend-bundle@v0.1.4
 - pkg:composer/webwerkwien/contao-ai-backend-bundle@v0.1.5
 - pkg:composer/webwerkwien/contao-ai-backend-bundle@v0.1.6
+- pkg:composer/webwerkwien/contao-ai-backend-bundle@v0.10.0
 - pkg:composer/webwerkwien/contao-ai-backend-bundle@v0.2.0
 - pkg:composer/webwerkwien/contao-ai-backend-bundle@v0.3.0
 - pkg:composer/webwerkwien/contao-ai-backend-bundle@v0.4.0
