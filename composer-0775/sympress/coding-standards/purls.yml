@@ -1,3 +1,4 @@
 - pkg:composer/sympress/coding-standards@1.0.0
 - pkg:composer/sympress/coding-standards@1.0.1
 - pkg:composer/sympress/coding-standards@1.1.0
+- pkg:composer/sympress/coding-standards@v1.1.1
