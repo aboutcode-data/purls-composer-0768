@@ -106,6 +106,7 @@
 - pkg:composer/verbb/vizy@3.2.1
 - pkg:composer/verbb/vizy@3.2.10
 - pkg:composer/verbb/vizy@3.2.11
+- pkg:composer/verbb/vizy@3.2.12
 - pkg:composer/verbb/vizy@3.2.2
 - pkg:composer/verbb/vizy@3.2.3
 - pkg:composer/verbb/vizy@3.2.4
@@ -115,3 +116,4 @@
 - pkg:composer/verbb/vizy@3.2.8
 - pkg:composer/verbb/vizy@3.2.9
 - pkg:composer/verbb/vizy@4.0.0-beta.1
+- pkg:composer/verbb/vizy@4.0.0-beta.2
