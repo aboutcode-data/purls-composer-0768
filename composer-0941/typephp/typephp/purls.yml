@@ -27,6 +27,8 @@
 - pkg:composer/typephp/typephp@v0.10.24
 - pkg:composer/typephp/typephp@v0.10.25
 - pkg:composer/typephp/typephp@v0.10.26
+- pkg:composer/typephp/typephp@v0.10.27
+- pkg:composer/typephp/typephp@v0.10.28
 - pkg:composer/typephp/typephp@v0.10.3
 - pkg:composer/typephp/typephp@v0.10.4
 - pkg:composer/typephp/typephp@v0.10.5
