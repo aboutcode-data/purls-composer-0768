@@ -49,12 +49,16 @@
 - pkg:composer/aimeos/ai-fosuser@2023.10.2
 - pkg:composer/aimeos/ai-fosuser@2023.10.3
 - pkg:composer/aimeos/ai-fosuser@2023.10.4
+- pkg:composer/aimeos/ai-fosuser@2023.10.5
 - pkg:composer/aimeos/ai-fosuser@2024.04.1
 - pkg:composer/aimeos/ai-fosuser@2024.07.1
 - pkg:composer/aimeos/ai-fosuser@2024.10.1
 - pkg:composer/aimeos/ai-fosuser@2024.10.2
 - pkg:composer/aimeos/ai-fosuser@2024.10.3
+- pkg:composer/aimeos/ai-fosuser@2024.10.4
 - pkg:composer/aimeos/ai-fosuser@2025.04.1
 - pkg:composer/aimeos/ai-fosuser@2025.07.1
 - pkg:composer/aimeos/ai-fosuser@2025.10.1
+- pkg:composer/aimeos/ai-fosuser@2025.10.2
 - pkg:composer/aimeos/ai-fosuser@2026.04.1
+- pkg:composer/aimeos/ai-fosuser@2026.04.2
