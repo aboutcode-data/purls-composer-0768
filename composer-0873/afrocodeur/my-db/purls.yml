@@ -1,5 +1,6 @@
 - pkg:composer/afrocodeur/my-db@0.0.1
 - pkg:composer/afrocodeur/my-db@0.0.10
+- pkg:composer/afrocodeur/my-db@0.0.100
 - pkg:composer/afrocodeur/my-db@0.0.11
 - pkg:composer/afrocodeur/my-db@0.0.12
 - pkg:composer/afrocodeur/my-db@0.0.13
