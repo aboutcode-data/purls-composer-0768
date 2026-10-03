@@ -3,3 +3,4 @@
 - pkg:composer/axcherednikov/cloudpayments-php-client@3.2.3
 - pkg:composer/axcherednikov/cloudpayments-php-client@3.2.4
 - pkg:composer/axcherednikov/cloudpayments-php-client@3.3.0
+- pkg:composer/axcherednikov/cloudpayments-php-client@4.0.0
