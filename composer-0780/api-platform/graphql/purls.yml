@@ -163,6 +163,8 @@
 - pkg:composer/api-platform/graphql@v4.3.18
 - pkg:composer/api-platform/graphql@v4.3.19
 - pkg:composer/api-platform/graphql@v4.3.2
+- pkg:composer/api-platform/graphql@v4.3.20
+- pkg:composer/api-platform/graphql@v4.3.21
 - pkg:composer/api-platform/graphql@v4.3.3
 - pkg:composer/api-platform/graphql@v4.3.4
 - pkg:composer/api-platform/graphql@v4.3.5
@@ -178,9 +180,14 @@
 - pkg:composer/api-platform/graphql@v4.4.0-beta.1
 - pkg:composer/api-platform/graphql@v4.4.0-beta.2
 - pkg:composer/api-platform/graphql@v4.4.0-beta.3
+- pkg:composer/api-platform/graphql@v4.4.1
+- pkg:composer/api-platform/graphql@v4.4.2
+- pkg:composer/api-platform/graphql@v4.4.3
 - pkg:composer/api-platform/graphql@v5.0.0
 - pkg:composer/api-platform/graphql@v5.0.0-alpha.1
 - pkg:composer/api-platform/graphql@v5.0.0-alpha.2
 - pkg:composer/api-platform/graphql@v5.0.0-alpha.3
 - pkg:composer/api-platform/graphql@v5.0.0-beta.1
 - pkg:composer/api-platform/graphql@v5.0.0-beta.2
+- pkg:composer/api-platform/graphql@v5.0.1
+- pkg:composer/api-platform/graphql@v5.0.2
