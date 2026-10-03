@@ -92,6 +92,7 @@
 - pkg:composer/backstage/ai@v4.1.5
 - pkg:composer/backstage/ai@v4.2.0
 - pkg:composer/backstage/ai@v4.2.1
+- pkg:composer/backstage/ai@v4.2.10
 - pkg:composer/backstage/ai@v4.2.2
 - pkg:composer/backstage/ai@v4.2.3
 - pkg:composer/backstage/ai@v4.2.4
@@ -150,3 +151,9 @@
 - pkg:composer/backstage/ai@v5.2.6
 - pkg:composer/backstage/ai@v5.2.7
 - pkg:composer/backstage/ai@v5.2.8
+- pkg:composer/backstage/ai@v5.2.9
+- pkg:composer/backstage/ai@v5.3.0
+- pkg:composer/backstage/ai@v5.4.0
+- pkg:composer/backstage/ai@v5.5.0
+- pkg:composer/backstage/ai@v5.6.0
+- pkg:composer/backstage/ai@v5.6.1
