@@ -123,6 +123,7 @@
 - pkg:composer/znframework/znframework@8.24.0
 - pkg:composer/znframework/znframework@8.24.2
 - pkg:composer/znframework/znframework@8.25.1
+- pkg:composer/znframework/znframework@8.25.3
 - pkg:composer/znframework/znframework@8.3.0
 - pkg:composer/znframework/znframework@8.3.1
 - pkg:composer/znframework/znframework@8.3.3
