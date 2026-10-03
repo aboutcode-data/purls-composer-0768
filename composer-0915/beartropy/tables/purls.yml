@@ -150,3 +150,5 @@
 - pkg:composer/beartropy/tables@2.9.8
 - pkg:composer/beartropy/tables@2.9.9
 - pkg:composer/beartropy/tables@3.0.0
+- pkg:composer/beartropy/tables@3.0.1
+- pkg:composer/beartropy/tables@3.0.2
