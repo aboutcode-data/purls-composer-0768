@@ -29,3 +29,4 @@
 - pkg:composer/automattic/jetpack-videopress-plugin@v3.4
 - pkg:composer/automattic/jetpack-videopress-plugin@v3.4.1
 - pkg:composer/automattic/jetpack-videopress-plugin@v3.5
+- pkg:composer/automattic/jetpack-videopress-plugin@v3.6
