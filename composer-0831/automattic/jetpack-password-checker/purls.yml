@@ -43,3 +43,4 @@
 - pkg:composer/automattic/jetpack-password-checker@v0.4.9
 - pkg:composer/automattic/jetpack-password-checker@v0.5.0
 - pkg:composer/automattic/jetpack-password-checker@v0.5.1
+- pkg:composer/automattic/jetpack-password-checker@v0.5.2
