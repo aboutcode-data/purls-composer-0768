@@ -24,6 +24,8 @@
 - pkg:composer/wexample/symfony-stage@1.0.106
 - pkg:composer/wexample/symfony-stage@1.0.107
 - pkg:composer/wexample/symfony-stage@1.0.108
+- pkg:composer/wexample/symfony-stage@1.0.109
+- pkg:composer/wexample/symfony-stage@1.0.110
 - pkg:composer/wexample/symfony-stage@1.0.15
 - pkg:composer/wexample/symfony-stage@1.0.16
 - pkg:composer/wexample/symfony-stage@1.0.17

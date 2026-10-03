@@ -4,3 +4,5 @@
 - pkg:composer/wexample/symfony-user-demo@4.0.0
 - pkg:composer/wexample/symfony-user-demo@4.0.1
 - pkg:composer/wexample/symfony-user-demo@4.0.2
+- pkg:composer/wexample/symfony-user-demo@5.0.0
+- pkg:composer/wexample/symfony-user-demo@5.0.1

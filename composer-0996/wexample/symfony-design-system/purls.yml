@@ -163,6 +163,8 @@
 - pkg:composer/wexample/symfony-design-system@21.0.0
 - pkg:composer/wexample/symfony-design-system@22.0.0
 - pkg:composer/wexample/symfony-design-system@23.0.0
+- pkg:composer/wexample/symfony-design-system@25.0.0
+- pkg:composer/wexample/symfony-design-system@26.0.0
 - pkg:composer/wexample/symfony-design-system@3.0.0
 - pkg:composer/wexample/symfony-design-system@3.0.1
 - pkg:composer/wexample/symfony-design-system@3.0.2
