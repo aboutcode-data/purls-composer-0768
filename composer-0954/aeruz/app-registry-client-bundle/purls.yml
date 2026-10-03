@@ -1,3 +1,5 @@
 - pkg:composer/aeruz/app-registry-client-bundle@0.0.1
 - pkg:composer/aeruz/app-registry-client-bundle@0.0.2
 - pkg:composer/aeruz/app-registry-client-bundle@1.0.0
+- pkg:composer/aeruz/app-registry-client-bundle@1.0.1
+- pkg:composer/aeruz/app-registry-client-bundle@1.0.2
