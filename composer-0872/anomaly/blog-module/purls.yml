@@ -191,3 +191,4 @@
 - pkg:composer/anomaly/blog-module@v2.6.8
 - pkg:composer/anomaly/blog-module@v2.6.9
 - pkg:composer/anomaly/blog-module@v2.7.0
+- pkg:composer/anomaly/blog-module@v2.7.1

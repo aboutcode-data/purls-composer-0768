@@ -69,3 +69,4 @@
 - pkg:composer/anomaly/boolean-field-type@v2.3.7
 - pkg:composer/anomaly/boolean-field-type@v2.3.8
 - pkg:composer/anomaly/boolean-field-type@v2.3.9
+- pkg:composer/anomaly/boolean-field-type@v2.4.0
