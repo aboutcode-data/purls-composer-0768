@@ -118,6 +118,9 @@
 - pkg:composer/arzcode/finisterre@3.2.2
 - pkg:composer/arzcode/finisterre@4.0.0
 - pkg:composer/arzcode/finisterre@4.1.0
+- pkg:composer/arzcode/finisterre@4.10.0
+- pkg:composer/arzcode/finisterre@4.10.1
+- pkg:composer/arzcode/finisterre@4.11.0
 - pkg:composer/arzcode/finisterre@4.2.0
 - pkg:composer/arzcode/finisterre@4.2.1
 - pkg:composer/arzcode/finisterre@4.3.0
@@ -137,6 +140,10 @@
 - pkg:composer/arzcode/finisterre@4.7.3
 - pkg:composer/arzcode/finisterre@4.8.0
 - pkg:composer/arzcode/finisterre@4.8.1
+- pkg:composer/arzcode/finisterre@4.8.3
+- pkg:composer/arzcode/finisterre@4.9.0
+- pkg:composer/arzcode/finisterre@4.9.1
+- pkg:composer/arzcode/finisterre@4.9.2
 - pkg:composer/arzcode/finisterre@v4.0.1
 - pkg:composer/arzcode/finisterre@v4.0.2
 - pkg:composer/arzcode/finisterre@v4.0.3
