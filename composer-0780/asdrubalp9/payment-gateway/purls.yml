@@ -1,2 +1,5 @@
 - pkg:composer/asdrubalp9/payment-gateway@v2.0.0
 - pkg:composer/asdrubalp9/payment-gateway@v2.1.0
+- pkg:composer/asdrubalp9/payment-gateway@v2.2.0
+- pkg:composer/asdrubalp9/payment-gateway@v2.3.0
+- pkg:composer/asdrubalp9/payment-gateway@v2.4.0
