@@ -20,3 +20,4 @@
 - pkg:composer/chemaclass/edifact-parser@6.4.0
 - pkg:composer/chemaclass/edifact-parser@6.5.0
 - pkg:composer/chemaclass/edifact-parser@7.0.0
+- pkg:composer/chemaclass/edifact-parser@7.1.0
