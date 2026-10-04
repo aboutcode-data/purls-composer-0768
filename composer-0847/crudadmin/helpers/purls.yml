@@ -44,3 +44,5 @@
 - pkg:composer/crudadmin/helpers@1.3.4
 - pkg:composer/crudadmin/helpers@1.3.5
 - pkg:composer/crudadmin/helpers@1.3.6
+- pkg:composer/crudadmin/helpers@2.0.1
+- pkg:composer/crudadmin/helpers@2.0.2
