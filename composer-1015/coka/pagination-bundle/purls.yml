@@ -136,3 +136,4 @@
 - pkg:composer/coka/pagination-bundle@5.9.1
 - pkg:composer/coka/pagination-bundle@6.0.0
 - pkg:composer/coka/pagination-bundle@6.0.1
+- pkg:composer/coka/pagination-bundle@6.0.2
