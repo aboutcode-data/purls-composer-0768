@@ -2,3 +2,4 @@
 - pkg:composer/brickservers/gsuite@2.0
 - pkg:composer/brickservers/gsuite@v1.1
 - pkg:composer/brickservers/gsuite@v2.1
+- pkg:composer/brickservers/gsuite@v3.0.0
