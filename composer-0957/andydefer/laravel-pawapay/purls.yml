@@ -45,6 +45,9 @@
 - pkg:composer/andydefer/laravel-pawapay@v0.12.2
 - pkg:composer/andydefer/laravel-pawapay@v0.12.20
 - pkg:composer/andydefer/laravel-pawapay@v0.12.21
+- pkg:composer/andydefer/laravel-pawapay@v0.12.22
+- pkg:composer/andydefer/laravel-pawapay@v0.12.23
+- pkg:composer/andydefer/laravel-pawapay@v0.12.24
 - pkg:composer/andydefer/laravel-pawapay@v0.12.4
 - pkg:composer/andydefer/laravel-pawapay@v0.12.5
 - pkg:composer/andydefer/laravel-pawapay@v0.12.6
