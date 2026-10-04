@@ -27,3 +27,4 @@
 - pkg:composer/bravecollective/neucore-api@2.7.3
 - pkg:composer/bravecollective/neucore-api@2.8.0
 - pkg:composer/bravecollective/neucore-api@2.9.0
+- pkg:composer/bravecollective/neucore-api@3.0.0
