@@ -32,3 +32,12 @@
 - pkg:composer/conductor/core@5.3.1
 - pkg:composer/conductor/core@5.4.0
 - pkg:composer/conductor/core@6.0.0
+- pkg:composer/conductor/core@6.0.1
+- pkg:composer/conductor/core@6.1.0
+- pkg:composer/conductor/core@6.2.0
+- pkg:composer/conductor/core@6.2.1
+- pkg:composer/conductor/core@6.3.0
+- pkg:composer/conductor/core@6.4.0
+- pkg:composer/conductor/core@6.5.0
+- pkg:composer/conductor/core@6.6.0
+- pkg:composer/conductor/core@6.6.1

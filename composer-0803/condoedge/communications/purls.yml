@@ -70,6 +70,8 @@
 - pkg:composer/condoedge/communications@v0.2.54
 - pkg:composer/condoedge/communications@v0.2.55
 - pkg:composer/condoedge/communications@v0.2.56
+- pkg:composer/condoedge/communications@v0.2.57
+- pkg:composer/condoedge/communications@v0.2.58
 - pkg:composer/condoedge/communications@v0.2.6
 - pkg:composer/condoedge/communications@v0.2.7
 - pkg:composer/condoedge/communications@v0.2.8
