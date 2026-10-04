@@ -33,3 +33,4 @@
 - pkg:composer/brotkrueml/typo3-matomo-widgets@v3.3.0
 - pkg:composer/brotkrueml/typo3-matomo-widgets@v3.4.0
 - pkg:composer/brotkrueml/typo3-matomo-widgets@v4.0.0
+- pkg:composer/brotkrueml/typo3-matomo-widgets@v4.0.1
