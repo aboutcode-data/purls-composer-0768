@@ -9,3 +9,9 @@
 - pkg:composer/calebdw/phpstan-laravel@v1.6.0
 - pkg:composer/calebdw/phpstan-laravel@v1.7.0
 - pkg:composer/calebdw/phpstan-laravel@v1.8.0
+- pkg:composer/calebdw/phpstan-laravel@v1.9.0
+- pkg:composer/calebdw/phpstan-laravel@v1.9.1
+- pkg:composer/calebdw/phpstan-laravel@v1.9.2
+- pkg:composer/calebdw/phpstan-laravel@v1.9.3
+- pkg:composer/calebdw/phpstan-laravel@v1.9.4
+- pkg:composer/calebdw/phpstan-laravel@v1.9.5
