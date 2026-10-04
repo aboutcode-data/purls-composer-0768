@@ -559,4 +559,7 @@
 - pkg:composer/ccxt/ccxt@v4.5.80
 - pkg:composer/ccxt/ccxt@v4.5.81
 - pkg:composer/ccxt/ccxt@v4.5.82
+- pkg:composer/ccxt/ccxt@v4.5.83
+- pkg:composer/ccxt/ccxt@v4.5.84
+- pkg:composer/ccxt/ccxt@v4.5.85
 - pkg:composer/ccxt/ccxt@v4.5.9
