@@ -40,3 +40,4 @@
 - pkg:composer/boneybone/auth-server-sdk@v3.3
 - pkg:composer/boneybone/auth-server-sdk@v4
 - pkg:composer/boneybone/auth-server-sdk@v4.0.1
+- pkg:composer/boneybone/auth-server-sdk@v4.1.0
