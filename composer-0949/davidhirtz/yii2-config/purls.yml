@@ -8,6 +8,11 @@
 - pkg:composer/davidhirtz/yii2-config@2.2.1
 - pkg:composer/davidhirtz/yii2-config@2.2.2
 - pkg:composer/davidhirtz/yii2-config@2.3.0
+- pkg:composer/davidhirtz/yii2-config@3.0.0
+- pkg:composer/davidhirtz/yii2-config@3.0.1
+- pkg:composer/davidhirtz/yii2-config@3.0.2
+- pkg:composer/davidhirtz/yii2-config@3.1.0
+- pkg:composer/davidhirtz/yii2-config@3.1.1
 - pkg:composer/davidhirtz/yii2-config@v1.0.1
 - pkg:composer/davidhirtz/yii2-config@v1.1.0
 - pkg:composer/davidhirtz/yii2-config@v1.1.1

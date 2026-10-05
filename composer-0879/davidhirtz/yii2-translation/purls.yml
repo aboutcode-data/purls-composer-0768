@@ -2,3 +2,5 @@
 - pkg:composer/davidhirtz/yii2-translation@1.0.1
 - pkg:composer/davidhirtz/yii2-translation@1.1.0
 - pkg:composer/davidhirtz/yii2-translation@1.1.1
+- pkg:composer/davidhirtz/yii2-translation@1.1.2
+- pkg:composer/davidhirtz/yii2-translation@3.0.0
