@@ -407,3 +407,4 @@
 - pkg:composer/automattic/jetpack-my-jetpack@v6.6.0
 - pkg:composer/automattic/jetpack-my-jetpack@v6.7.0
 - pkg:composer/automattic/jetpack-my-jetpack@v6.7.1
+- pkg:composer/automattic/jetpack-my-jetpack@v6.8.0
