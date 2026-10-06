@@ -32,6 +32,12 @@
 - pkg:composer/alrayyes/forge-dashboard-sdk-php@v2.0.9
 - pkg:composer/alrayyes/forge-dashboard-sdk-php@v3.0.0
 - pkg:composer/alrayyes/forge-dashboard-sdk-php@v3.0.1
+- pkg:composer/alrayyes/forge-dashboard-sdk-php@v3.0.10
+- pkg:composer/alrayyes/forge-dashboard-sdk-php@v3.0.11
+- pkg:composer/alrayyes/forge-dashboard-sdk-php@v3.0.12
+- pkg:composer/alrayyes/forge-dashboard-sdk-php@v3.0.13
+- pkg:composer/alrayyes/forge-dashboard-sdk-php@v3.0.14
+- pkg:composer/alrayyes/forge-dashboard-sdk-php@v3.0.15
 - pkg:composer/alrayyes/forge-dashboard-sdk-php@v3.0.2
 - pkg:composer/alrayyes/forge-dashboard-sdk-php@v3.0.3
 - pkg:composer/alrayyes/forge-dashboard-sdk-php@v3.0.4
