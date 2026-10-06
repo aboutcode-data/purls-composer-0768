@@ -404,3 +404,4 @@
 - pkg:composer/automattic/jetpack-connection@v9.7.0
 - pkg:composer/automattic/jetpack-connection@v9.8.0
 - pkg:composer/automattic/jetpack-connection@v9.8.1
+- pkg:composer/automattic/jetpack-connection@v9.9.0

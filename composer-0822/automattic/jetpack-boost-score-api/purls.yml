@@ -128,3 +128,4 @@
 - pkg:composer/automattic/jetpack-boost-score-api@v1.0.8
 - pkg:composer/automattic/jetpack-boost-score-api@v1.0.9
 - pkg:composer/automattic/jetpack-boost-score-api@v1.1.0
+- pkg:composer/automattic/jetpack-boost-score-api@v1.2.0
