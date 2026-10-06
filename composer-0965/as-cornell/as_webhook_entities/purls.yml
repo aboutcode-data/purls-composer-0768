@@ -26,3 +26,6 @@
 - pkg:composer/as-cornell/as_webhook_entities@v2.13.0
 - pkg:composer/as-cornell/as_webhook_entities@v2.14.0
 - pkg:composer/as-cornell/as_webhook_entities@v2.14.1
+- pkg:composer/as-cornell/as_webhook_entities@v2.15.0
+- pkg:composer/as-cornell/as_webhook_entities@v2.15.1
+- pkg:composer/as-cornell/as_webhook_entities@v2.16.0
