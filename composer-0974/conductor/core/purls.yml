@@ -41,3 +41,4 @@
 - pkg:composer/conductor/core@6.5.0
 - pkg:composer/conductor/core@6.6.0
 - pkg:composer/conductor/core@6.6.1
+- pkg:composer/conductor/core@6.6.2
