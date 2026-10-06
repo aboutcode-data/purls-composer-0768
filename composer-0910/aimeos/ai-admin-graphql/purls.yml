@@ -2,6 +2,7 @@
 - pkg:composer/aimeos/ai-admin-graphql@2022.10.10
 - pkg:composer/aimeos/ai-admin-graphql@2022.10.11
 - pkg:composer/aimeos/ai-admin-graphql@2022.10.12
+- pkg:composer/aimeos/ai-admin-graphql@2022.10.13
 - pkg:composer/aimeos/ai-admin-graphql@2022.10.2
 - pkg:composer/aimeos/ai-admin-graphql@2022.10.3
 - pkg:composer/aimeos/ai-admin-graphql@2022.10.4
@@ -17,6 +18,7 @@
 - pkg:composer/aimeos/ai-admin-graphql@2023.07.2
 - pkg:composer/aimeos/ai-admin-graphql@2023.10.1
 - pkg:composer/aimeos/ai-admin-graphql@2023.10.10
+- pkg:composer/aimeos/ai-admin-graphql@2023.10.11
 - pkg:composer/aimeos/ai-admin-graphql@2023.10.2
 - pkg:composer/aimeos/ai-admin-graphql@2023.10.3
 - pkg:composer/aimeos/ai-admin-graphql@2023.10.4
@@ -39,10 +41,14 @@
 - pkg:composer/aimeos/ai-admin-graphql@2024.10.3
 - pkg:composer/aimeos/ai-admin-graphql@2024.10.4
 - pkg:composer/aimeos/ai-admin-graphql@2024.10.5
+- pkg:composer/aimeos/ai-admin-graphql@2024.10.6
 - pkg:composer/aimeos/ai-admin-graphql@2025.04.1
 - pkg:composer/aimeos/ai-admin-graphql@2025.07.1
 - pkg:composer/aimeos/ai-admin-graphql@2025.10.1
 - pkg:composer/aimeos/ai-admin-graphql@2025.10.2
 - pkg:composer/aimeos/ai-admin-graphql@2025.10.3
+- pkg:composer/aimeos/ai-admin-graphql@2025.10.4
 - pkg:composer/aimeos/ai-admin-graphql@2026.04.1
 - pkg:composer/aimeos/ai-admin-graphql@2026.04.2
+- pkg:composer/aimeos/ai-admin-graphql@2026.04.3
+- pkg:composer/aimeos/ai-admin-graphql@2026.10.1
