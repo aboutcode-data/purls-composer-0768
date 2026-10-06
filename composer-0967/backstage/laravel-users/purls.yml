@@ -184,3 +184,4 @@
 - pkg:composer/backstage/laravel-users@v5.5.0
 - pkg:composer/backstage/laravel-users@v5.6.0
 - pkg:composer/backstage/laravel-users@v5.6.1
+- pkg:composer/backstage/laravel-users@v5.6.2
