@@ -8,3 +8,5 @@
 - pkg:composer/gatovel/cli@v1.0.7
 - pkg:composer/gatovel/cli@v1.0.8
 - pkg:composer/gatovel/cli@v1.0.9
+- pkg:composer/gatovel/cli@v2.0.0
+- pkg:composer/gatovel/cli@v2.1.0
