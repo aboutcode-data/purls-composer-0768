@@ -1,5 +1,4 @@
-- pkg:composer/evaengine/eva-oauth@0.1.0
-- pkg:composer/evaengine/eva-oauth@0.1.1
 - pkg:composer/evaengine/eva-oauth@1.0.0
 - pkg:composer/evaengine/eva-oauth@1.0.1
 - pkg:composer/evaengine/eva-oauth@1.0.2
+- pkg:composer/evaengine/eva-oauth@2.0.0
