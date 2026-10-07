@@ -59,3 +59,4 @@
 - pkg:composer/dreamfactory/df-sqldb@1.4.2
 - pkg:composer/dreamfactory/df-sqldb@1.4.3
 - pkg:composer/dreamfactory/df-sqldb@1.5.0
+- pkg:composer/dreamfactory/df-sqldb@1.5.1
