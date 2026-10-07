@@ -6,5 +6,8 @@
 - pkg:composer/firecrawl/firecrawl-sdk@v1.14.0
 - pkg:composer/firecrawl/firecrawl-sdk@v1.15.0
 - pkg:composer/firecrawl/firecrawl-sdk@v1.16.0
+- pkg:composer/firecrawl/firecrawl-sdk@v1.16.1
+- pkg:composer/firecrawl/firecrawl-sdk@v1.16.2
+- pkg:composer/firecrawl/firecrawl-sdk@v1.16.3
 - pkg:composer/firecrawl/firecrawl-sdk@v1.9.0
 - pkg:composer/firecrawl/firecrawl-sdk@v1.9.1
