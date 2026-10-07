@@ -9,3 +9,4 @@
 - pkg:composer/flow-php/phpunit-postgresql-bridge@0.43.0
 - pkg:composer/flow-php/phpunit-postgresql-bridge@0.44.0
 - pkg:composer/flow-php/phpunit-postgresql-bridge@0.44.1
+- pkg:composer/flow-php/phpunit-postgresql-bridge@0.45.0
