@@ -4,3 +4,7 @@
 - pkg:composer/ez-php/metrics-statsd@2.4.8
 - pkg:composer/ez-php/metrics-statsd@2.4.9
 - pkg:composer/ez-php/metrics-statsd@2.5.0
+- pkg:composer/ez-php/metrics-statsd@2.5.1
+- pkg:composer/ez-php/metrics-statsd@2.5.2
+- pkg:composer/ez-php/metrics-statsd@2.5.3
+- pkg:composer/ez-php/metrics-statsd@2.5.4
