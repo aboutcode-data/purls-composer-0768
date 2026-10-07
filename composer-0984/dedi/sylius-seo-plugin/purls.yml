@@ -25,10 +25,14 @@
 - pkg:composer/dedi/sylius-seo-plugin@v3.0.3
 - pkg:composer/dedi/sylius-seo-plugin@v3.0.4
 - pkg:composer/dedi/sylius-seo-plugin@v3.1.0
+- pkg:composer/dedi/sylius-seo-plugin@v3.2.0
 - pkg:composer/dedi/sylius-seo-plugin@v4.0.0
 - pkg:composer/dedi/sylius-seo-plugin@v4.0.0-RC1
 - pkg:composer/dedi/sylius-seo-plugin@v4.0.0-RC2
 - pkg:composer/dedi/sylius-seo-plugin@v4.0.0-RC3
 - pkg:composer/dedi/sylius-seo-plugin@v4.0.0-RC4
 - pkg:composer/dedi/sylius-seo-plugin@v4.0.0-RC5
+- pkg:composer/dedi/sylius-seo-plugin@v4.1.0
+- pkg:composer/dedi/sylius-seo-plugin@v4.2.0
+- pkg:composer/dedi/sylius-seo-plugin@v4.2.1
 - pkg:composer/dedi/sylius-seo-plugin@v5.0.0-RC1
