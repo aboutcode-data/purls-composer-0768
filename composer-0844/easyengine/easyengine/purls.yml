@@ -35,6 +35,8 @@
 - pkg:composer/easyengine/easyengine@v4.10.2
 - pkg:composer/easyengine/easyengine@v4.11.0
 - pkg:composer/easyengine/easyengine@v4.12.0
+- pkg:composer/easyengine/easyengine@v4.13.0
+- pkg:composer/easyengine/easyengine@v4.13.1
 - pkg:composer/easyengine/easyengine@v4.2.0
 - pkg:composer/easyengine/easyengine@v4.3.0
 - pkg:composer/easyengine/easyengine@v4.3.1
