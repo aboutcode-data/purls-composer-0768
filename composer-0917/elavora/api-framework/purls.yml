@@ -24,4 +24,5 @@
 - pkg:composer/elavora/api-framework@v0.8.1
 - pkg:composer/elavora/api-framework@v0.8.2
 - pkg:composer/elavora/api-framework@v1.0.0
+- pkg:composer/elavora/api-framework@v1.1.0-rc.1
 - pkg:composer/elavora/api-framework@v2.0.0-rc.1
