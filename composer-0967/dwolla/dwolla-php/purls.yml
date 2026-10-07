@@ -2,3 +2,5 @@
 - pkg:composer/dwolla/dwolla-php@v0.0.1-beta.2
 - pkg:composer/dwolla/dwolla-php@v0.0.1-beta.3
 - pkg:composer/dwolla/dwolla-php@v0.0.1-beta.4
+- pkg:composer/dwolla/dwolla-php@v0.0.1-beta.5
+- pkg:composer/dwolla/dwolla-php@v0.0.1-beta.6
