@@ -1,2 +1,4 @@
-- pkg:composer/erebox/flightphp-wire@1.0.0
-- pkg:composer/erebox/flightphp-wire@1.0.1
+- pkg:composer/erebox/flightphp-wire@0.0.1
+- pkg:composer/erebox/flightphp-wire@0.0.2
+- pkg:composer/erebox/flightphp-wire@0.0.3
+- pkg:composer/erebox/flightphp-wire@0.0.4
