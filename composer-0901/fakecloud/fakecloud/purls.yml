@@ -64,3 +64,9 @@
 - pkg:composer/fakecloud/fakecloud@v0.44.9
 - pkg:composer/fakecloud/fakecloud@v0.45.0
 - pkg:composer/fakecloud/fakecloud@v0.45.1
+- pkg:composer/fakecloud/fakecloud@v0.46.0
+- pkg:composer/fakecloud/fakecloud@v0.47.0
+- pkg:composer/fakecloud/fakecloud@v0.48.0
+- pkg:composer/fakecloud/fakecloud@v0.48.1
+- pkg:composer/fakecloud/fakecloud@v0.49.0
+- pkg:composer/fakecloud/fakecloud@v0.50.0
