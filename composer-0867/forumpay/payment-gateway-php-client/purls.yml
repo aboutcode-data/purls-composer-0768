@@ -20,3 +20,4 @@
 - pkg:composer/forumpay/payment-gateway-php-client@v1.5.1
 - pkg:composer/forumpay/payment-gateway-php-client@v1.6.0
 - pkg:composer/forumpay/payment-gateway-php-client@v1.7.0
+- pkg:composer/forumpay/payment-gateway-php-client@v1.8.0
