@@ -57,6 +57,7 @@
 - pkg:composer/capell-app/installer@v1.0.63
 - pkg:composer/capell-app/installer@v1.0.64
 - pkg:composer/capell-app/installer@v1.0.65
+- pkg:composer/capell-app/installer@v1.0.66
 - pkg:composer/capell-app/installer@v1.0.7
 - pkg:composer/capell-app/installer@v1.0.8
 - pkg:composer/capell-app/installer@v1.0.9
