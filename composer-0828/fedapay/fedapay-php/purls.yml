@@ -34,3 +34,4 @@
 - pkg:composer/fedapay/fedapay-php@0.4.6
 - pkg:composer/fedapay/fedapay-php@0.4.7
 - pkg:composer/fedapay/fedapay-php@0.4.8
+- pkg:composer/fedapay/fedapay-php@0.4.9
