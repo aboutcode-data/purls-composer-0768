@@ -232,3 +232,5 @@
 - pkg:composer/durable-workflow/waterline@2.2.0
 - pkg:composer/durable-workflow/waterline@2.2.0-rc.1
 - pkg:composer/durable-workflow/waterline@2.2.0-rc.2
+- pkg:composer/durable-workflow/waterline@2.3.0
+- pkg:composer/durable-workflow/waterline@2.3.1
