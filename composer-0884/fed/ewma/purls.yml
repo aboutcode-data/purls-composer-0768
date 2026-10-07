@@ -75,6 +75,12 @@
 - pkg:composer/fed/ewma@0.22.1
 - pkg:composer/fed/ewma@0.23.0
 - pkg:composer/fed/ewma@0.23.1
+- pkg:composer/fed/ewma@0.24.0
+- pkg:composer/fed/ewma@0.24.1
+- pkg:composer/fed/ewma@0.24.2
+- pkg:composer/fed/ewma@0.24.3
+- pkg:composer/fed/ewma@0.24.4
+- pkg:composer/fed/ewma@0.24.5
 - pkg:composer/fed/ewma@0.3.0
 - pkg:composer/fed/ewma@0.4.0
 - pkg:composer/fed/ewma@0.5.0
