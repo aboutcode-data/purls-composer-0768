@@ -5,6 +5,4 @@
 - pkg:composer/contenir/cache-laminas-mvc@v0.1.4
 - pkg:composer/contenir/cache-laminas-mvc@v0.2.0
 - pkg:composer/contenir/cache-laminas-mvc@v0.3.0
-- pkg:composer/contenir/cache-laminas-mvc@v2.0.0
-- pkg:composer/contenir/cache-laminas-mvc@v2.1.0
-- pkg:composer/contenir/cache-laminas-mvc@v2.2.0
+- pkg:composer/contenir/cache-laminas-mvc@v2.0.0-RC1
