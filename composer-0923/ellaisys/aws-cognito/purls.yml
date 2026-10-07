@@ -50,3 +50,4 @@
 - pkg:composer/ellaisys/aws-cognito@v2.0.6
 - pkg:composer/ellaisys/aws-cognito@v2.0.7
 - pkg:composer/ellaisys/aws-cognito@v2.0.8
+- pkg:composer/ellaisys/aws-cognito@v2.0.9
