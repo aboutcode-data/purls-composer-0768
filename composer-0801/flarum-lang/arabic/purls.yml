@@ -1,3 +1,5 @@
+- pkg:composer/flarum-lang/arabic@1.0.0
+- pkg:composer/flarum-lang/arabic@2.0.0
 - pkg:composer/flarum-lang/arabic@v0.1.0
 - pkg:composer/flarum-lang/arabic@v0.1.1
 - pkg:composer/flarum-lang/arabic@v0.2.0
