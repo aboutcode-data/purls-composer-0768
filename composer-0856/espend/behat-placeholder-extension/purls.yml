@@ -5,3 +5,4 @@
 - pkg:composer/espend/behat-placeholder-extension@1.2
 - pkg:composer/espend/behat-placeholder-extension@1.2.1
 - pkg:composer/espend/behat-placeholder-extension@2.0.0
+- pkg:composer/espend/behat-placeholder-extension@3.0.0
