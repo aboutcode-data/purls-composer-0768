@@ -60,3 +60,4 @@
 - pkg:composer/google/cloud-data-catalog@v2.5.0
 - pkg:composer/google/cloud-data-catalog@v2.5.1
 - pkg:composer/google/cloud-data-catalog@v2.5.2
+- pkg:composer/google/cloud-data-catalog@v2.5.3
