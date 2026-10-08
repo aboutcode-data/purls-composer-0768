@@ -16,6 +16,8 @@
 - pkg:composer/fmcorz/moodle-block_xp@v20.0
 - pkg:composer/fmcorz/moodle-block_xp@v20.0-rc1
 - pkg:composer/fmcorz/moodle-block_xp@v20.1
+- pkg:composer/fmcorz/moodle-block_xp@v21.0
+- pkg:composer/fmcorz/moodle-block_xp@v21.0-rc1
 - pkg:composer/fmcorz/moodle-block_xp@v3.0.0
 - pkg:composer/fmcorz/moodle-block_xp@v3.0.1
 - pkg:composer/fmcorz/moodle-block_xp@v3.0.2
