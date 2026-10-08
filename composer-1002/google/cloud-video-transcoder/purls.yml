@@ -42,3 +42,4 @@
 - pkg:composer/google/cloud-video-transcoder@v1.5.0
 - pkg:composer/google/cloud-video-transcoder@v1.5.1
 - pkg:composer/google/cloud-video-transcoder@v1.5.2
+- pkg:composer/google/cloud-video-transcoder@v1.5.3
