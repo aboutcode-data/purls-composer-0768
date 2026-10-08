@@ -33,6 +33,9 @@
 - pkg:composer/goldnead/statamic-leadhub@v2.12.0
 - pkg:composer/goldnead/statamic-leadhub@v2.12.1
 - pkg:composer/goldnead/statamic-leadhub@v2.13.0
+- pkg:composer/goldnead/statamic-leadhub@v2.13.1
+- pkg:composer/goldnead/statamic-leadhub@v2.14.0
+- pkg:composer/goldnead/statamic-leadhub@v2.15.0
 - pkg:composer/goldnead/statamic-leadhub@v2.2.0
 - pkg:composer/goldnead/statamic-leadhub@v2.2.1
 - pkg:composer/goldnead/statamic-leadhub@v2.3.0
