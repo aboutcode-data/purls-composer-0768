@@ -7,6 +7,7 @@
 - pkg:composer/googleads/ad-manager@v0.12.0
 - pkg:composer/googleads/ad-manager@v0.13.0
 - pkg:composer/googleads/ad-manager@v0.14.0
+- pkg:composer/googleads/ad-manager@v0.14.1
 - pkg:composer/googleads/ad-manager@v0.2.0
 - pkg:composer/googleads/ad-manager@v0.3.0
 - pkg:composer/googleads/ad-manager@v0.3.1
