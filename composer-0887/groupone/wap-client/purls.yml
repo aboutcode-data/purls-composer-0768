@@ -1,4 +1,5 @@
 - pkg:composer/groupone/wap-client@2.2.1
 - pkg:composer/groupone/wap-client@2.2.2
 - pkg:composer/groupone/wap-client@2.3.0
+- pkg:composer/groupone/wap-client@2.4.0
 - pkg:composer/groupone/wap-client@v0.0.1
