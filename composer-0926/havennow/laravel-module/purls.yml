@@ -11,4 +11,6 @@
 - pkg:composer/havennow/laravel-module@0.2.10
 - pkg:composer/havennow/laravel-module@0.2.11
 - pkg:composer/havennow/laravel-module@0.2.12
+- pkg:composer/havennow/laravel-module@0.2.13
+- pkg:composer/havennow/laravel-module@0.2.14
 - pkg:composer/havennow/laravel-module@0.2.9
