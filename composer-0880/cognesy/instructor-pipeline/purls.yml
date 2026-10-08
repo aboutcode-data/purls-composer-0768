@@ -36,6 +36,8 @@
 - pkg:composer/cognesy/instructor-pipeline@v2.11.0
 - pkg:composer/cognesy/instructor-pipeline@v2.12.0
 - pkg:composer/cognesy/instructor-pipeline@v2.13.0
+- pkg:composer/cognesy/instructor-pipeline@v2.14.0
+- pkg:composer/cognesy/instructor-pipeline@v2.14.1
 - pkg:composer/cognesy/instructor-pipeline@v2.2.0
 - pkg:composer/cognesy/instructor-pipeline@v2.3.0
 - pkg:composer/cognesy/instructor-pipeline@v2.3.1
