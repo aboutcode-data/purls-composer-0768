@@ -21,3 +21,4 @@
 - pkg:composer/hauerheinrich/typo3_monitor_api@1.5.0
 - pkg:composer/hauerheinrich/typo3_monitor_api@1.5.1
 - pkg:composer/hauerheinrich/typo3_monitor_api@1.5.2
+- pkg:composer/hauerheinrich/typo3_monitor_api@2.0.0
