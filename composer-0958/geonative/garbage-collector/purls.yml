@@ -6,3 +6,4 @@
 - pkg:composer/geonative/garbage-collector@0.5
 - pkg:composer/geonative/garbage-collector@0.6
 - pkg:composer/geonative/garbage-collector@0.6.1
+- pkg:composer/geonative/garbage-collector@0.6.2

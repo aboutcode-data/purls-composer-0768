@@ -8,6 +8,8 @@
 - pkg:composer/georgestephanis/two-factor@0.15.0
 - pkg:composer/georgestephanis/two-factor@0.16.0
 - pkg:composer/georgestephanis/two-factor@0.16.0-beta.1
+- pkg:composer/georgestephanis/two-factor@0.17.0
+- pkg:composer/georgestephanis/two-factor@0.17.0-rc
 - pkg:composer/georgestephanis/two-factor@0.2.0
 - pkg:composer/georgestephanis/two-factor@0.3.0
 - pkg:composer/georgestephanis/two-factor@0.4.0
