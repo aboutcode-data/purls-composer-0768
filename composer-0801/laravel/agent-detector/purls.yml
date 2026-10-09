@@ -9,3 +9,5 @@
 - pkg:composer/laravel/agent-detector@v2.0.0
 - pkg:composer/laravel/agent-detector@v2.0.1
 - pkg:composer/laravel/agent-detector@v2.0.2
+- pkg:composer/laravel/agent-detector@v2.0.3
+- pkg:composer/laravel/agent-detector@v2.0.4
