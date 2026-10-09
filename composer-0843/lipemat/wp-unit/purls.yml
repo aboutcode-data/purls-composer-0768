@@ -45,6 +45,7 @@
 - pkg:composer/lipemat/wp-unit@4.0.0
 - pkg:composer/lipemat/wp-unit@4.1.0
 - pkg:composer/lipemat/wp-unit@4.1.1
+- pkg:composer/lipemat/wp-unit@4.10.0
 - pkg:composer/lipemat/wp-unit@4.2.0
 - pkg:composer/lipemat/wp-unit@4.2.1
 - pkg:composer/lipemat/wp-unit@4.2.2
