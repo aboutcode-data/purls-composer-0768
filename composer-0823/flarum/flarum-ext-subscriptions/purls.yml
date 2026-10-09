@@ -22,6 +22,7 @@
 - pkg:composer/flarum/flarum-ext-subscriptions@v1.7.0
 - pkg:composer/flarum/flarum-ext-subscriptions@v1.8.0
 - pkg:composer/flarum/flarum-ext-subscriptions@v1.8.1
+- pkg:composer/flarum/flarum-ext-subscriptions@v2.0.0
 - pkg:composer/flarum/flarum-ext-subscriptions@v2.0.0-beta.1
 - pkg:composer/flarum/flarum-ext-subscriptions@v2.0.0-beta.2
 - pkg:composer/flarum/flarum-ext-subscriptions@v2.0.0-beta.3
