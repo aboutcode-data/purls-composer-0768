@@ -1,9 +1,12 @@
 - pkg:composer/kipchak/driver-openai@1.0
 - pkg:composer/kipchak/driver-openai@2.0
 - pkg:composer/kipchak/driver-openai@2.1
+- pkg:composer/kipchak/driver-openai@2.10
 - pkg:composer/kipchak/driver-openai@2.2
 - pkg:composer/kipchak/driver-openai@2.3
 - pkg:composer/kipchak/driver-openai@2.4
 - pkg:composer/kipchak/driver-openai@2.5
 - pkg:composer/kipchak/driver-openai@2.6
 - pkg:composer/kipchak/driver-openai@2.7
+- pkg:composer/kipchak/driver-openai@2.8
+- pkg:composer/kipchak/driver-openai@2.9
