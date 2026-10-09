@@ -1,3 +1,4 @@
 - pkg:composer/langsys/laravel-request-query-cache@1.0.0
 - pkg:composer/langsys/laravel-request-query-cache@v1.1.0
 - pkg:composer/langsys/laravel-request-query-cache@v1.2.0
+- pkg:composer/langsys/laravel-request-query-cache@v1.3.0
