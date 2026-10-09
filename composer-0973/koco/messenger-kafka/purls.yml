@@ -8,6 +8,7 @@
 - pkg:composer/koco/messenger-kafka@v0.16
 - pkg:composer/koco/messenger-kafka@v0.17
 - pkg:composer/koco/messenger-kafka@v0.18
+- pkg:composer/koco/messenger-kafka@v0.19
 - pkg:composer/koco/messenger-kafka@v0.2
 - pkg:composer/koco/messenger-kafka@v0.3
 - pkg:composer/koco/messenger-kafka@v0.4
