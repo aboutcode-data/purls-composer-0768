@@ -14,3 +14,5 @@
 - pkg:composer/jasonmccreary/test-double@v0.8.0
 - pkg:composer/jasonmccreary/test-double@v0.8.1
 - pkg:composer/jasonmccreary/test-double@v0.9.0
+- pkg:composer/jasonmccreary/test-double@v1.0.0
+- pkg:composer/jasonmccreary/test-double@v1.0.1
