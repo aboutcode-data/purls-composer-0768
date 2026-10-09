@@ -7,9 +7,13 @@
 - pkg:composer/liquidstack/base@v1.3.0
 - pkg:composer/liquidstack/base@v1.4.0
 - pkg:composer/liquidstack/base@v1.4.1
+- pkg:composer/liquidstack/base@v1.4.10
+- pkg:composer/liquidstack/base@v1.4.11
 - pkg:composer/liquidstack/base@v1.4.2
 - pkg:composer/liquidstack/base@v1.4.3
 - pkg:composer/liquidstack/base@v1.4.4
 - pkg:composer/liquidstack/base@v1.4.5
 - pkg:composer/liquidstack/base@v1.4.6
 - pkg:composer/liquidstack/base@v1.4.7
+- pkg:composer/liquidstack/base@v1.4.8
+- pkg:composer/liquidstack/base@v1.4.9
