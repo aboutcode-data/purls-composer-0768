@@ -17,6 +17,8 @@
 - pkg:composer/lpdfio/lpdf@v0.20.0
 - pkg:composer/lpdfio/lpdf@v0.21.0
 - pkg:composer/lpdfio/lpdf@v0.22.0
+- pkg:composer/lpdfio/lpdf@v0.23.0
+- pkg:composer/lpdfio/lpdf@v0.24.0
 - pkg:composer/lpdfio/lpdf@v0.5.0
 - pkg:composer/lpdfio/lpdf@v0.6.0
 - pkg:composer/lpdfio/lpdf@v0.7.0
