@@ -31,6 +31,12 @@
 - pkg:composer/limenet/laravel-baseline@2.12.0
 - pkg:composer/limenet/laravel-baseline@2.12.1
 - pkg:composer/limenet/laravel-baseline@2.12.2
+- pkg:composer/limenet/laravel-baseline@2.13.0
+- pkg:composer/limenet/laravel-baseline@2.14.0
+- pkg:composer/limenet/laravel-baseline@2.15.0
+- pkg:composer/limenet/laravel-baseline@2.15.1
+- pkg:composer/limenet/laravel-baseline@2.16.0
+- pkg:composer/limenet/laravel-baseline@2.17.0
 - pkg:composer/limenet/laravel-baseline@2.2.0
 - pkg:composer/limenet/laravel-baseline@2.3.0
 - pkg:composer/limenet/laravel-baseline@2.3.1
