@@ -7,3 +7,4 @@
 - pkg:composer/gopatchworks/core-laravel-queue@v1.0.5
 - pkg:composer/gopatchworks/core-laravel-queue@v1.0.6
 - pkg:composer/gopatchworks/core-laravel-queue@v1.1.0
+- pkg:composer/gopatchworks/core-laravel-queue@v1.1.2
