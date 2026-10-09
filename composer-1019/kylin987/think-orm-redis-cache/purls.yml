@@ -12,3 +12,4 @@
 - pkg:composer/kylin987/think-orm-redis-cache@v1.2.4
 - pkg:composer/kylin987/think-orm-redis-cache@v1.2.5
 - pkg:composer/kylin987/think-orm-redis-cache@v1.2.6
+- pkg:composer/kylin987/think-orm-redis-cache@v2.1.0
