@@ -274,3 +274,4 @@
 - pkg:composer/fusio/impl@v8.8.9
 - pkg:composer/fusio/impl@v8.9.0
 - pkg:composer/fusio/impl@v8.9.1
+- pkg:composer/fusio/impl@v8.9.2
