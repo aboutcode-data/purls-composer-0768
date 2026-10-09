@@ -48,6 +48,7 @@
 - pkg:composer/jane-php/open-api-common@v7.14.0
 - pkg:composer/jane-php/open-api-common@v7.14.2
 - pkg:composer/jane-php/open-api-common@v7.14.3
+- pkg:composer/jane-php/open-api-common@v7.14.4
 - pkg:composer/jane-php/open-api-common@v7.2.0
 - pkg:composer/jane-php/open-api-common@v7.2.1
 - pkg:composer/jane-php/open-api-common@v7.2.2
@@ -74,3 +75,5 @@
 - pkg:composer/jane-php/open-api-common@v7.8.0
 - pkg:composer/jane-php/open-api-common@v7.8.1
 - pkg:composer/jane-php/open-api-common@v7.9.0
+- pkg:composer/jane-php/open-api-common@v8.0.0
+- pkg:composer/jane-php/open-api-common@v8.0.1
