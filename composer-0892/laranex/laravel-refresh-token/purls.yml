@@ -1,2 +1,4 @@
 - pkg:composer/laranex/laravel-refresh-token@v1.0.0
 - pkg:composer/laranex/laravel-refresh-token@v1.0.1
+- pkg:composer/laranex/laravel-refresh-token@v4.0.0-alpha.1
+- pkg:composer/laranex/laravel-refresh-token@v4.0.0-alpha.2
