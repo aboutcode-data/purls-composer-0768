@@ -3,3 +3,4 @@
 - pkg:composer/hydrakit/commonmark@v0.30.0
 - pkg:composer/hydrakit/commonmark@v0.31.0
 - pkg:composer/hydrakit/commonmark@v0.31.1
+- pkg:composer/hydrakit/commonmark@v0.31.2

@@ -33,6 +33,7 @@
 - pkg:composer/hydrakit/app@v0.30.0
 - pkg:composer/hydrakit/app@v0.31.0
 - pkg:composer/hydrakit/app@v0.31.1
+- pkg:composer/hydrakit/app@v0.31.2
 - pkg:composer/hydrakit/app@v0.4.1
 - pkg:composer/hydrakit/app@v0.5.0
 - pkg:composer/hydrakit/app@v0.5.1
