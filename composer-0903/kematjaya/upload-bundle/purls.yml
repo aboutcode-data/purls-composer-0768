@@ -37,6 +37,8 @@
 - pkg:composer/kematjaya/upload-bundle@3.4.3
 - pkg:composer/kematjaya/upload-bundle@3.4.4
 - pkg:composer/kematjaya/upload-bundle@3.4.5
+- pkg:composer/kematjaya/upload-bundle@6.4
+- pkg:composer/kematjaya/upload-bundle@6.5
 - pkg:composer/kematjaya/upload-bundle@7.0
 - pkg:composer/kematjaya/upload-bundle@7.0.1
 - pkg:composer/kematjaya/upload-bundle@7.0.2
