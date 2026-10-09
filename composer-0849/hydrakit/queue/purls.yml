@@ -24,6 +24,7 @@
 - pkg:composer/hydrakit/queue@v0.30.0
 - pkg:composer/hydrakit/queue@v0.31.0
 - pkg:composer/hydrakit/queue@v0.31.1
+- pkg:composer/hydrakit/queue@v0.31.2
 - pkg:composer/hydrakit/queue@v0.9.10
 - pkg:composer/hydrakit/queue@v0.9.11
 - pkg:composer/hydrakit/queue@v0.9.12
