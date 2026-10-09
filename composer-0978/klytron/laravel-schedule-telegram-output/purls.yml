@@ -11,3 +11,5 @@
 - pkg:composer/klytron/laravel-schedule-telegram-output@v1.1.8
 - pkg:composer/klytron/laravel-schedule-telegram-output@v1.1.9
 - pkg:composer/klytron/laravel-schedule-telegram-output@v1.2.1
+- pkg:composer/klytron/laravel-schedule-telegram-output@v1.3.0
+- pkg:composer/klytron/laravel-schedule-telegram-output@v1.4.0
