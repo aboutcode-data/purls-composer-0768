@@ -9,3 +9,4 @@
 - pkg:composer/jackal/image-merge@v0.4.3
 - pkg:composer/jackal/image-merge@v0.4.4
 - pkg:composer/jackal/image-merge@v0.4.5
+- pkg:composer/jackal/image-merge@v1.0.0
