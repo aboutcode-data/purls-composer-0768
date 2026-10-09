@@ -34,6 +34,7 @@
 - pkg:composer/erdmannfreunde/portfoliobundle@5.0.11
 - pkg:composer/erdmannfreunde/portfoliobundle@5.0.12
 - pkg:composer/erdmannfreunde/portfoliobundle@5.0.13
+- pkg:composer/erdmannfreunde/portfoliobundle@5.0.14
 - pkg:composer/erdmannfreunde/portfoliobundle@5.0.2
 - pkg:composer/erdmannfreunde/portfoliobundle@5.0.3
 - pkg:composer/erdmannfreunde/portfoliobundle@5.0.4
@@ -42,3 +43,4 @@
 - pkg:composer/erdmannfreunde/portfoliobundle@5.0.7
 - pkg:composer/erdmannfreunde/portfoliobundle@5.0.8
 - pkg:composer/erdmannfreunde/portfoliobundle@5.0.9
+- pkg:composer/erdmannfreunde/portfoliobundle@5.1.0
