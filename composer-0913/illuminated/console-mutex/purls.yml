@@ -40,6 +40,7 @@
 - pkg:composer/illuminated/console-mutex@10.0.0
 - pkg:composer/illuminated/console-mutex@11.0.0
 - pkg:composer/illuminated/console-mutex@12.0.0
+- pkg:composer/illuminated/console-mutex@13.0.0
 - pkg:composer/illuminated/console-mutex@5.1.0
 - pkg:composer/illuminated/console-mutex@5.1.1
 - pkg:composer/illuminated/console-mutex@5.1.2

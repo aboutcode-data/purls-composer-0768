@@ -61,6 +61,7 @@
 - pkg:composer/illuminated/console-logger@10.0.0
 - pkg:composer/illuminated/console-logger@11.0.0
 - pkg:composer/illuminated/console-logger@12.0.0
+- pkg:composer/illuminated/console-logger@13.0.0
 - pkg:composer/illuminated/console-logger@2.0.0
 - pkg:composer/illuminated/console-logger@2.0.1
 - pkg:composer/illuminated/console-logger@2.0.2
