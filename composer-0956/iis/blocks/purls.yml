@@ -165,3 +165,4 @@
 - pkg:composer/iis/blocks@v7.0.8
 - pkg:composer/iis/blocks@v7.0.9
 - pkg:composer/iis/blocks@v8.0.0
+- pkg:composer/iis/blocks@v8.0.1
