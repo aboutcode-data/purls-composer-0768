@@ -1,0 +1,12 @@
+- pkg:composer/lts/php-qa-ci@84.0.0
+- pkg:composer/lts/php-qa-ci@84.0.1
+- pkg:composer/lts/php-qa-ci@84.0.2
+- pkg:composer/lts/php-qa-ci@85.0.0
+- pkg:composer/lts/php-qa-ci@85.1.0
+- pkg:composer/lts/php-qa-ci@85.2.0
+- pkg:composer/lts/php-qa-ci@85.3.0
+- pkg:composer/lts/php-qa-ci@85.4.0
+- pkg:composer/lts/php-qa-ci@85.5.0
+- pkg:composer/lts/php-qa-ci@85.6.0
+- pkg:composer/lts/php-qa-ci@85.6.1
+- pkg:composer/lts/php-qa-ci@85.7.0
