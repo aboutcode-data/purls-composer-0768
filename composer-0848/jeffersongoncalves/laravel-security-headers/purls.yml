@@ -1,3 +1,4 @@
 - pkg:composer/jeffersongoncalves/laravel-security-headers@v1.0.0
 - pkg:composer/jeffersongoncalves/laravel-security-headers@v1.0.1
 - pkg:composer/jeffersongoncalves/laravel-security-headers@v2.0.0
+- pkg:composer/jeffersongoncalves/laravel-security-headers@v2.1.0
