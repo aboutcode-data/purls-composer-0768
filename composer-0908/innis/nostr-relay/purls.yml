@@ -20,6 +20,8 @@
 - pkg:composer/innis/nostr-relay@v0.1.7
 - pkg:composer/innis/nostr-relay@v0.1.8
 - pkg:composer/innis/nostr-relay@v0.1.9
+- pkg:composer/innis/nostr-relay@v0.10.0
+- pkg:composer/innis/nostr-relay@v0.11.0
 - pkg:composer/innis/nostr-relay@v0.2.0
 - pkg:composer/innis/nostr-relay@v0.2.1
 - pkg:composer/innis/nostr-relay@v0.2.2
