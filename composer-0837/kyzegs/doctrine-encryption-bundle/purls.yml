@@ -1,3 +1,4 @@
 - pkg:composer/kyzegs/doctrine-encryption-bundle@v1.0.0
 - pkg:composer/kyzegs/doctrine-encryption-bundle@v1.1.0
 - pkg:composer/kyzegs/doctrine-encryption-bundle@v1.1.1
+- pkg:composer/kyzegs/doctrine-encryption-bundle@v2.0.0
