@@ -33,3 +33,4 @@
 - pkg:composer/keboola/api-bundle@6.0.0
 - pkg:composer/keboola/api-bundle@6.1.0
 - pkg:composer/keboola/api-bundle@6.2.0
+- pkg:composer/keboola/api-bundle@6.3.0
