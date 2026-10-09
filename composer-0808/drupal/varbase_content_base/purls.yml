@@ -8,3 +8,4 @@
 - pkg:composer/drupal/varbase_content_base@1.0.0-rc4
 - pkg:composer/drupal/varbase_content_base@1.0.1
 - pkg:composer/drupal/varbase_content_base@1.0.2
+- pkg:composer/drupal/varbase_content_base@1.0.3

@@ -7,3 +7,4 @@
 - pkg:composer/drupal/varbase_editor_base@1.0.0-beta4
 - pkg:composer/drupal/varbase_editor_base@1.0.0-rc1
 - pkg:composer/drupal/varbase_editor_base@1.0.0-rc2
+- pkg:composer/drupal/varbase_editor_base@1.0.1
