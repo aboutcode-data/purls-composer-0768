@@ -8,3 +8,4 @@
 - pkg:composer/integrat/queue@2.0.0-beta.3
 - pkg:composer/integrat/queue@3.0.0
 - pkg:composer/integrat/queue@4.0.0
+- pkg:composer/integrat/queue@4.1.0
