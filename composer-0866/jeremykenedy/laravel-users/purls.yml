@@ -34,3 +34,5 @@
 - pkg:composer/jeremykenedy/laravel-users@v4.2.0
 - pkg:composer/jeremykenedy/laravel-users@v4.3.0
 - pkg:composer/jeremykenedy/laravel-users@v4.5.0
+- pkg:composer/jeremykenedy/laravel-users@v6.0.0
+- pkg:composer/jeremykenedy/laravel-users@v6.0.1
