@@ -138,6 +138,7 @@
 - pkg:composer/intervention/image@3.10.2
 - pkg:composer/intervention/image@3.11.0
 - pkg:composer/intervention/image@3.11.1
+- pkg:composer/intervention/image@3.11.10
 - pkg:composer/intervention/image@3.11.2
 - pkg:composer/intervention/image@3.11.3
 - pkg:composer/intervention/image@3.11.4
@@ -194,3 +195,4 @@
 - pkg:composer/intervention/image@4.3.2
 - pkg:composer/intervention/image@4.3.3
 - pkg:composer/intervention/image@4.3.4
+- pkg:composer/intervention/image@4.3.5
