@@ -10,3 +10,7 @@
 - pkg:composer/macula-io/macula-php@v0.4.0
 - pkg:composer/macula-io/macula-php@v0.5.0
 - pkg:composer/macula-io/macula-php@v0.6.0
+- pkg:composer/macula-io/macula-php@v0.7.0
+- pkg:composer/macula-io/macula-php@v0.8.0
+- pkg:composer/macula-io/macula-php@v0.8.1
+- pkg:composer/macula-io/macula-php@v0.8.2
