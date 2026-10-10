@@ -3,3 +3,5 @@
 - pkg:composer/mage-obsidian/module-vault@2.1.0
 - pkg:composer/mage-obsidian/module-vault@2.2.0
 - pkg:composer/mage-obsidian/module-vault@2.3.0
+- pkg:composer/mage-obsidian/module-vault@4.0.0
+- pkg:composer/mage-obsidian/module-vault@4.0.1
