@@ -6,6 +6,7 @@
 - pkg:composer/kode/session@2.0.0
 - pkg:composer/kode/session@2.0.1
 - pkg:composer/kode/session@2.0.2
+- pkg:composer/kode/session@4.0.0
 - pkg:composer/kode/session@v3.0.0
 - pkg:composer/kode/session@v3.1.0
 - pkg:composer/kode/session@v3.2.0

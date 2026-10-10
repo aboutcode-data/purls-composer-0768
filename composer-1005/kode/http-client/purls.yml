@@ -6,5 +6,6 @@
 - pkg:composer/kode/http-client@2.5.1
 - pkg:composer/kode/http-client@2.6.0
 - pkg:composer/kode/http-client@2.7.0
+- pkg:composer/kode/http-client@3.0.0
 - pkg:composer/kode/http-client@v2.1.0
 - pkg:composer/kode/http-client@v2.1.1
