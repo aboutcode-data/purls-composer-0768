@@ -1,1 +1,4 @@
 - pkg:composer/mauticinsights/mautic-cron-orchestrator@5.0.0
+- pkg:composer/mauticinsights/mautic-cron-orchestrator@5.0.2
+- pkg:composer/mauticinsights/mautic-cron-orchestrator@6.0.0
+- pkg:composer/mauticinsights/mautic-cron-orchestrator@7.0.0
