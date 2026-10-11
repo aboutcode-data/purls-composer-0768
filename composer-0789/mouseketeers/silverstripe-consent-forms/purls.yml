@@ -11,6 +11,11 @@
 - pkg:composer/mouseketeers/silverstripe-consent-forms@1.0.9
 - pkg:composer/mouseketeers/silverstripe-consent-forms@1.1.0
 - pkg:composer/mouseketeers/silverstripe-consent-forms@1.1.1
+- pkg:composer/mouseketeers/silverstripe-consent-forms@1.2.0
 - pkg:composer/mouseketeers/silverstripe-consent-forms@2.0.0
 - pkg:composer/mouseketeers/silverstripe-consent-forms@2.0.1
 - pkg:composer/mouseketeers/silverstripe-consent-forms@2.0.2
+- pkg:composer/mouseketeers/silverstripe-consent-forms@2.1.0
+- pkg:composer/mouseketeers/silverstripe-consent-forms@3.0.0
+- pkg:composer/mouseketeers/silverstripe-consent-forms@4.0.0
+- pkg:composer/mouseketeers/silverstripe-consent-forms@4.0.1
