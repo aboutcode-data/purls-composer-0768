@@ -7,3 +7,4 @@
 - pkg:composer/monoverse/voicebot-laravel-sync@v0.5.0
 - pkg:composer/monoverse/voicebot-laravel-sync@v0.5.1
 - pkg:composer/monoverse/voicebot-laravel-sync@v0.7.0
+- pkg:composer/monoverse/voicebot-laravel-sync@v0.8.0
