@@ -58,3 +58,5 @@
 - pkg:composer/magewirephp/magewire@3.6.0
 - pkg:composer/magewirephp/magewire@3.6.1
 - pkg:composer/magewirephp/magewire@3.7.0
+- pkg:composer/magewirephp/magewire@3.7.1
+- pkg:composer/magewirephp/magewire@3.7.2
