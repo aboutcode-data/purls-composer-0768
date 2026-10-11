@@ -24,3 +24,6 @@
 - pkg:composer/kode/event@1.8.0
 - pkg:composer/kode/event@1.9.0
 - pkg:composer/kode/event@2.0.0
+- pkg:composer/kode/event@3.0.0
+- pkg:composer/kode/event@3.0.1
+- pkg:composer/kode/event@3.0.2

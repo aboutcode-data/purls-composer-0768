@@ -70,3 +70,7 @@
 - pkg:composer/kode/process@5.5.0
 - pkg:composer/kode/process@5.5.1
 - pkg:composer/kode/process@6.0.0
+- pkg:composer/kode/process@7.0.0
+- pkg:composer/kode/process@7.0.1
+- pkg:composer/kode/process@7.0.2
+- pkg:composer/kode/process@7.0.3
