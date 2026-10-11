@@ -36,3 +36,5 @@
 - pkg:composer/mfjordvald/commentable@v5.7.4
 - pkg:composer/mfjordvald/commentable@v5.8.0
 - pkg:composer/mfjordvald/commentable@v5.8.1
+- pkg:composer/mfjordvald/commentable@v5.8.2
+- pkg:composer/mfjordvald/commentable@v5.8.3
