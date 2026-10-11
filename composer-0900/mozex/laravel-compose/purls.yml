@@ -1,3 +1,5 @@
 - pkg:composer/mozex/laravel-compose@1.0.0
 - pkg:composer/mozex/laravel-compose@1.0.1
 - pkg:composer/mozex/laravel-compose@1.0.2
+- pkg:composer/mozex/laravel-compose@1.0.3
+- pkg:composer/mozex/laravel-compose@1.1.0
