@@ -4,3 +4,4 @@
 - pkg:composer/marekskopal/orm-migrations@v1.0.0
 - pkg:composer/marekskopal/orm-migrations@v1.0.1
 - pkg:composer/marekskopal/orm-migrations@v1.1.0
+- pkg:composer/marekskopal/orm-migrations@v2.0.0
