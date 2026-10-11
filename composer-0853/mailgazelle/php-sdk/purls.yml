@@ -1,1 +1,2 @@
 - pkg:composer/mailgazelle/php-sdk@v0.1.0-alpha
+- pkg:composer/mailgazelle/php-sdk@v1.1.0
