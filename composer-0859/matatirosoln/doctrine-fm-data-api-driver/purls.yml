@@ -11,6 +11,7 @@
 - pkg:composer/matatirosoln/doctrine-fm-data-api-driver@0.10.7
 - pkg:composer/matatirosoln/doctrine-fm-data-api-driver@0.10.8
 - pkg:composer/matatirosoln/doctrine-fm-data-api-driver@0.10.9
+- pkg:composer/matatirosoln/doctrine-fm-data-api-driver@0.11.0
 - pkg:composer/matatirosoln/doctrine-fm-data-api-driver@0.2.0
 - pkg:composer/matatirosoln/doctrine-fm-data-api-driver@0.2.1
 - pkg:composer/matatirosoln/doctrine-fm-data-api-driver@0.2.2
