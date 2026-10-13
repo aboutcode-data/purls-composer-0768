@@ -9,6 +9,7 @@
 - pkg:composer/phpdocumentor/guides-cli@0.3.7
 - pkg:composer/phpdocumentor/guides-cli@1.0.0
 - pkg:composer/phpdocumentor/guides-cli@1.0.0-rc
+- pkg:composer/phpdocumentor/guides-cli@1.11.0
 - pkg:composer/phpdocumentor/guides-cli@1.2.1
 - pkg:composer/phpdocumentor/guides-cli@1.4.0
 - pkg:composer/phpdocumentor/guides-cli@1.5.0

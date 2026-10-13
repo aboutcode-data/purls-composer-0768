@@ -10,6 +10,7 @@
 - pkg:composer/phpdocumentor/guides-graphs@0.3.7
 - pkg:composer/phpdocumentor/guides-graphs@1.0.0
 - pkg:composer/phpdocumentor/guides-graphs@1.0.0-rc
+- pkg:composer/phpdocumentor/guides-graphs@1.11.0
 - pkg:composer/phpdocumentor/guides-graphs@1.3.0
 - pkg:composer/phpdocumentor/guides-graphs@1.4.0
 - pkg:composer/phpdocumentor/guides-graphs@1.7.0

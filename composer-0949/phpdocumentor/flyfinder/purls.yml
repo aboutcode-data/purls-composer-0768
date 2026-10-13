@@ -6,3 +6,4 @@
 - pkg:composer/phpdocumentor/flyfinder@1.0.0-beta4
 - pkg:composer/phpdocumentor/flyfinder@1.1.0
 - pkg:composer/phpdocumentor/flyfinder@2.0.0
+- pkg:composer/phpdocumentor/flyfinder@2.0.1
