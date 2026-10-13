@@ -14,3 +14,5 @@
 - pkg:composer/macula-io/macula-php@v0.8.0
 - pkg:composer/macula-io/macula-php@v0.8.1
 - pkg:composer/macula-io/macula-php@v0.8.2
+- pkg:composer/macula-io/macula-php@v0.9.0-rc.1
+- pkg:composer/macula-io/macula-php@v0.9.0-rc.2
