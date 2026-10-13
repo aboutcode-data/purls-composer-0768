@@ -4,6 +4,8 @@
 - pkg:composer/psr7-sessions/storageless@10.0.0
 - pkg:composer/psr7-sessions/storageless@10.1.0
 - pkg:composer/psr7-sessions/storageless@10.2.0
+- pkg:composer/psr7-sessions/storageless@10.2.1
+- pkg:composer/psr7-sessions/storageless@10.3.0
 - pkg:composer/psr7-sessions/storageless@2.0.0
 - pkg:composer/psr7-sessions/storageless@3.0.0
 - pkg:composer/psr7-sessions/storageless@3.0.1
