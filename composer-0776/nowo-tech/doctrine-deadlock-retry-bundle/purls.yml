@@ -13,3 +13,4 @@
 - pkg:composer/nowo-tech/doctrine-deadlock-retry-bundle@v2.1.0
 - pkg:composer/nowo-tech/doctrine-deadlock-retry-bundle@v2.1.1
 - pkg:composer/nowo-tech/doctrine-deadlock-retry-bundle@v2.1.2
+- pkg:composer/nowo-tech/doctrine-deadlock-retry-bundle@v2.1.3
