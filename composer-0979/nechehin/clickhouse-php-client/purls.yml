@@ -25,3 +25,4 @@
 - pkg:composer/nechehin/clickhouse-php-client@3.0.0
 - pkg:composer/nechehin/clickhouse-php-client@4.0.0
 - pkg:composer/nechehin/clickhouse-php-client@4.0.1
+- pkg:composer/nechehin/clickhouse-php-client@4.0.2

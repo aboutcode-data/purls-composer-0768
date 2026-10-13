@@ -28,3 +28,4 @@
 - pkg:composer/nechehin/clickhouse-builder@3.0.0
 - pkg:composer/nechehin/clickhouse-builder@4.0.0
 - pkg:composer/nechehin/clickhouse-builder@5.0.0
+- pkg:composer/nechehin/clickhouse-builder@5.0.1
