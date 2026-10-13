@@ -8,3 +8,5 @@
 - pkg:composer/netresearch/nr-llm-compat@v0.2.1
 - pkg:composer/netresearch/nr-llm-compat@v0.2.2
 - pkg:composer/netresearch/nr-llm-compat@v0.2.3
+- pkg:composer/netresearch/nr-llm-compat@v0.3.0
+- pkg:composer/netresearch/nr-llm-compat@v0.4.0
