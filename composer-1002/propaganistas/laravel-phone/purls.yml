@@ -86,3 +86,4 @@
 - pkg:composer/propaganistas/laravel-phone@6.0.1
 - pkg:composer/propaganistas/laravel-phone@6.0.2
 - pkg:composer/propaganistas/laravel-phone@6.0.3
+- pkg:composer/propaganistas/laravel-phone@6.1.0
