@@ -64,3 +64,4 @@
 - pkg:composer/phpactor/phpactor@2026.06.23.0
 - pkg:composer/phpactor/phpactor@2026.06.25.0
 - pkg:composer/phpactor/phpactor@2026.07.22.0
+- pkg:composer/phpactor/phpactor@2026.10.07.0
