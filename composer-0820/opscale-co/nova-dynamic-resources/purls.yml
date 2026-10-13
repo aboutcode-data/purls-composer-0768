@@ -8,6 +8,8 @@
 - pkg:composer/opscale-co/nova-dynamic-resources@1.11.4
 - pkg:composer/opscale-co/nova-dynamic-resources@1.11.5
 - pkg:composer/opscale-co/nova-dynamic-resources@1.11.6
+- pkg:composer/opscale-co/nova-dynamic-resources@1.11.7
+- pkg:composer/opscale-co/nova-dynamic-resources@1.12.0
 - pkg:composer/opscale-co/nova-dynamic-resources@1.2.0
 - pkg:composer/opscale-co/nova-dynamic-resources@1.2.1
 - pkg:composer/opscale-co/nova-dynamic-resources@1.2.2
