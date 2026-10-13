@@ -223,6 +223,7 @@
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.4820.202607291300
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.4824.202609291207
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.4824.202609291455
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.4824.202610011530
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.4961.202609031500
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.4961.20260903161400
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.4967.202608311600
@@ -234,9 +235,15 @@
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5004.202609171630
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5004.202609180930
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5004.202609211000
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5004.202610021300
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5004.202610021630
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5004.202610071100
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5004.202610071430
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5004.202630091230
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5010.202609231910
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5010.202609231930
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5035.202609250022
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5035.202610062312
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5043.202609251620
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.71.0
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.750.202111261805
@@ -301,6 +308,7 @@
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.37.0
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.37.1
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.38.0
+- pkg:composer/openeuropa/oe_bootstrap_theme@1.39.0
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.4.0
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.4.1
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.5.0
