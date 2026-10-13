@@ -12,3 +12,6 @@
 - pkg:composer/musikhood/auth-client-bundle@v0.3.1
 - pkg:composer/musikhood/auth-client-bundle@v0.3.2
 - pkg:composer/musikhood/auth-client-bundle@v0.6.0
+- pkg:composer/musikhood/auth-client-bundle@v0.7.0
+- pkg:composer/musikhood/auth-client-bundle@v0.8.0
+- pkg:composer/musikhood/auth-client-bundle@v0.8.1
