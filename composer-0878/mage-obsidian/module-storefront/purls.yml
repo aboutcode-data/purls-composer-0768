@@ -45,3 +45,4 @@
 - pkg:composer/mage-obsidian/module-storefront@3.9.0
 - pkg:composer/mage-obsidian/module-storefront@4.0.0
 - pkg:composer/mage-obsidian/module-storefront@4.0.1
+- pkg:composer/mage-obsidian/module-storefront@4.1.0
