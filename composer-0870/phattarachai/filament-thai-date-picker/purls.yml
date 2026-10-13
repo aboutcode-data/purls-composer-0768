@@ -12,6 +12,7 @@
 - pkg:composer/phattarachai/filament-thai-date-picker@1.4.3
 - pkg:composer/phattarachai/filament-thai-date-picker@1.5.0
 - pkg:composer/phattarachai/filament-thai-date-picker@1.6.0
+- pkg:composer/phattarachai/filament-thai-date-picker@1.6.1
 - pkg:composer/phattarachai/filament-thai-date-picker@2.0.0
 - pkg:composer/phattarachai/filament-thai-date-picker@2.0.1
 - pkg:composer/phattarachai/filament-thai-date-picker@2.0.2
@@ -22,3 +23,6 @@
 - pkg:composer/phattarachai/filament-thai-date-picker@3.0.0
 - pkg:composer/phattarachai/filament-thai-date-picker@3.0.1
 - pkg:composer/phattarachai/filament-thai-date-picker@v4.0.0
+- pkg:composer/phattarachai/filament-thai-date-picker@v4.0.1
+- pkg:composer/phattarachai/filament-thai-date-picker@v4.0.2
+- pkg:composer/phattarachai/filament-thai-date-picker@v4.1.0
