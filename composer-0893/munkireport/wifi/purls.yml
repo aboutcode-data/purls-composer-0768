@@ -12,6 +12,7 @@
 - pkg:composer/munkireport/wifi@v3.12
 - pkg:composer/munkireport/wifi@v3.13
 - pkg:composer/munkireport/wifi@v3.15
+- pkg:composer/munkireport/wifi@v3.16
 - pkg:composer/munkireport/wifi@v3.2
 - pkg:composer/munkireport/wifi@v3.3
 - pkg:composer/munkireport/wifi@v3.4
