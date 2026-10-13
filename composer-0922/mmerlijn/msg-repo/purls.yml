@@ -119,3 +119,4 @@
 - pkg:composer/mmerlijn/msg-repo@v3.9.7
 - pkg:composer/mmerlijn/msg-repo@v3.9.8
 - pkg:composer/mmerlijn/msg-repo@v3.9.9
+- pkg:composer/mmerlijn/msg-repo@v4.0
