@@ -38,6 +38,10 @@
 - pkg:composer/netzhirsch/contao-mcp-bundle@v1.34.0
 - pkg:composer/netzhirsch/contao-mcp-bundle@v1.35.0
 - pkg:composer/netzhirsch/contao-mcp-bundle@v1.36.0
+- pkg:composer/netzhirsch/contao-mcp-bundle@v1.37.0
+- pkg:composer/netzhirsch/contao-mcp-bundle@v1.37.1
+- pkg:composer/netzhirsch/contao-mcp-bundle@v1.38.0
+- pkg:composer/netzhirsch/contao-mcp-bundle@v1.38.1
 - pkg:composer/netzhirsch/contao-mcp-bundle@v1.4.0
 - pkg:composer/netzhirsch/contao-mcp-bundle@v1.5.0
 - pkg:composer/netzhirsch/contao-mcp-bundle@v1.5.1
