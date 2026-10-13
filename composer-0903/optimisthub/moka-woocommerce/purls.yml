@@ -33,3 +33,5 @@
 - pkg:composer/optimisthub/moka-woocommerce@3.8.5
 - pkg:composer/optimisthub/moka-woocommerce@3.8.8
 - pkg:composer/optimisthub/moka-woocommerce@3.8.9
+- pkg:composer/optimisthub/moka-woocommerce@3.9.0
+- pkg:composer/optimisthub/moka-woocommerce@3.9.1
