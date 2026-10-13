@@ -45,6 +45,7 @@
 - pkg:composer/pixelfed/pixelfed@v0.14.4
 - pkg:composer/pixelfed/pixelfed@v0.14.5-rc
 - pkg:composer/pixelfed/pixelfed@v0.14.5-rc1
+- pkg:composer/pixelfed/pixelfed@v0.15.0-rc1
 - pkg:composer/pixelfed/pixelfed@v0.5.9
 - pkg:composer/pixelfed/pixelfed@v0.6.0
 - pkg:composer/pixelfed/pixelfed@v0.6.1
