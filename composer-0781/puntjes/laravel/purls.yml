@@ -2,3 +2,6 @@
 - pkg:composer/puntjes/laravel@v0.1.1
 - pkg:composer/puntjes/laravel@v0.2.0
 - pkg:composer/puntjes/laravel@v1.0.0
+- pkg:composer/puntjes/laravel@v1.1.0
+- pkg:composer/puntjes/laravel@v2.0.0
+- pkg:composer/puntjes/laravel@v3.0.0
