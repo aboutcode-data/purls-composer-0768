@@ -6,3 +6,4 @@
 - pkg:composer/pecl/timezonedb@2026.1
 - pkg:composer/pecl/timezonedb@2026.3
 - pkg:composer/pecl/timezonedb@2026.4
+- pkg:composer/pecl/timezonedb@2026.5
