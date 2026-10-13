@@ -1,2 +1,4 @@
 - pkg:composer/nvl/taxonomy@v2.2.0
 - pkg:composer/nvl/taxonomy@v2.2.1
+- pkg:composer/nvl/taxonomy@v5.0.0
+- pkg:composer/nvl/taxonomy@v5.0.1
