@@ -12,3 +12,4 @@
 - pkg:composer/nepada/phpstan-nette-tester@v2.0.0
 - pkg:composer/nepada/phpstan-nette-tester@v2.0.1
 - pkg:composer/nepada/phpstan-nette-tester@v2.1.0
+- pkg:composer/nepada/phpstan-nette-tester@v2.1.2
