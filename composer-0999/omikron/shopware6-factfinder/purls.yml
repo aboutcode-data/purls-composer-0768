@@ -62,6 +62,7 @@
 - pkg:composer/omikron/shopware6-factfinder@v6.5.1
 - pkg:composer/omikron/shopware6-factfinder@v6.5.2
 - pkg:composer/omikron/shopware6-factfinder@v6.6.0
+- pkg:composer/omikron/shopware6-factfinder@v6.6.1
 - pkg:composer/omikron/shopware6-factfinder@v7.0.0
 - pkg:composer/omikron/shopware6-factfinder@v7.1.0
 - pkg:composer/omikron/shopware6-factfinder@v7.2.0
@@ -70,3 +71,4 @@
 - pkg:composer/omikron/shopware6-factfinder@v7.3.0
 - pkg:composer/omikron/shopware6-factfinder@v7.3.1
 - pkg:composer/omikron/shopware6-factfinder@v7.4.0
+- pkg:composer/omikron/shopware6-factfinder@v7.5.0
