@@ -7,3 +7,4 @@
 - pkg:composer/pmochine/laravel-report@3.0.0
 - pkg:composer/pmochine/laravel-report@3.1.0
 - pkg:composer/pmochine/laravel-report@3.2.0
+- pkg:composer/pmochine/laravel-report@4.0.0
