@@ -1,1 +1,3 @@
 - pkg:composer/pieceofcake2/phpstan-cakephp2@v0.2.1
+- pkg:composer/pieceofcake2/phpstan-cakephp2@v0.2.2
+- pkg:composer/pieceofcake2/phpstan-cakephp2@v0.2.3
