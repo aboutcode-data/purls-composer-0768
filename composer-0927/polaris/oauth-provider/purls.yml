@@ -1,2 +1,4 @@
 - pkg:composer/polaris/oauth-provider@v0.10.0
+- pkg:composer/polaris/oauth-provider@v0.10.1
+- pkg:composer/polaris/oauth-provider@v0.11.0
 - pkg:composer/polaris/oauth-provider@v0.9.0
