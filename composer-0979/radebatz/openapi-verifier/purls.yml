@@ -7,3 +7,5 @@
 - pkg:composer/radebatz/openapi-verifier@2.1.0
 - pkg:composer/radebatz/openapi-verifier@2.2.0
 - pkg:composer/radebatz/openapi-verifier@2.2.1
+- pkg:composer/radebatz/openapi-verifier@2.2.2
+- pkg:composer/radebatz/openapi-verifier@3.0.0
