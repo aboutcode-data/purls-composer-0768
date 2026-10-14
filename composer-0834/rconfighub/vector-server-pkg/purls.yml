@@ -20,3 +20,5 @@
 - pkg:composer/rconfighub/vector-server-pkg@v1.3.0
 - pkg:composer/rconfighub/vector-server-pkg@v1.3.1
 - pkg:composer/rconfighub/vector-server-pkg@v1.3.2
+- pkg:composer/rconfighub/vector-server-pkg@v2.0.0
+- pkg:composer/rconfighub/vector-server-pkg@v2.0.1
