@@ -4,3 +4,4 @@
 - pkg:composer/php-concept/extension-csrf@v1.0.3
 - pkg:composer/php-concept/extension-csrf@v1.1.0
 - pkg:composer/php-concept/extension-csrf@v1.1.1
+- pkg:composer/php-concept/extension-csrf@v1.1.2
