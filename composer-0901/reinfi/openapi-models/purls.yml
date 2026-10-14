@@ -36,3 +36,6 @@
 - pkg:composer/reinfi/openapi-models@v1.9.5
 - pkg:composer/reinfi/openapi-models@v1.9.6
 - pkg:composer/reinfi/openapi-models@v1.9.7
+- pkg:composer/reinfi/openapi-models@v2.0.0
+- pkg:composer/reinfi/openapi-models@v2.0.1
+- pkg:composer/reinfi/openapi-models@v2.0.2
