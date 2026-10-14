@@ -456,6 +456,10 @@
 - pkg:composer/remotion/lambda@4.0.53
 - pkg:composer/remotion/lambda@4.0.530
 - pkg:composer/remotion/lambda@4.0.531
+- pkg:composer/remotion/lambda@4.0.532
+- pkg:composer/remotion/lambda@4.0.533
+- pkg:composer/remotion/lambda@4.0.534
+- pkg:composer/remotion/lambda@4.0.535
 - pkg:composer/remotion/lambda@4.0.54
 - pkg:composer/remotion/lambda@4.0.55
 - pkg:composer/remotion/lambda@4.0.56
