@@ -28,6 +28,7 @@
 - pkg:composer/pollora/framework@v13.35.4
 - pkg:composer/pollora/framework@v13.35.5
 - pkg:composer/pollora/framework@v13.35.6
+- pkg:composer/pollora/framework@v13.36.0
 - pkg:composer/pollora/framework@v13.4.0
 - pkg:composer/pollora/framework@v13.4.1
 - pkg:composer/pollora/framework@v13.4.2
