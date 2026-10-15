@@ -16,6 +16,7 @@
 - pkg:composer/sdubois/amezmo-drupal-integrations@10.6.16
 - pkg:composer/sdubois/amezmo-drupal-integrations@10.6.17
 - pkg:composer/sdubois/amezmo-drupal-integrations@10.6.18
+- pkg:composer/sdubois/amezmo-drupal-integrations@10.6.19
 - pkg:composer/sdubois/amezmo-drupal-integrations@10.6.2
 - pkg:composer/sdubois/amezmo-drupal-integrations@10.6.3
 - pkg:composer/sdubois/amezmo-drupal-integrations@10.6.4
@@ -29,6 +30,7 @@
 - pkg:composer/sdubois/amezmo-drupal-integrations@11.3.13
 - pkg:composer/sdubois/amezmo-drupal-integrations@11.4.0
 - pkg:composer/sdubois/amezmo-drupal-integrations@11.4.1
+- pkg:composer/sdubois/amezmo-drupal-integrations@11.4.10
 - pkg:composer/sdubois/amezmo-drupal-integrations@11.4.2
 - pkg:composer/sdubois/amezmo-drupal-integrations@11.4.3
 - pkg:composer/sdubois/amezmo-drupal-integrations@11.4.4
@@ -36,3 +38,4 @@
 - pkg:composer/sdubois/amezmo-drupal-integrations@11.4.6
 - pkg:composer/sdubois/amezmo-drupal-integrations@11.4.7
 - pkg:composer/sdubois/amezmo-drupal-integrations@11.4.8
+- pkg:composer/sdubois/amezmo-drupal-integrations@11.4.9
