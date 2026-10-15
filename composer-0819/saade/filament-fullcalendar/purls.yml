@@ -36,6 +36,7 @@
 - pkg:composer/saade/filament-fullcalendar@v3.2.2
 - pkg:composer/saade/filament-fullcalendar@v3.2.3
 - pkg:composer/saade/filament-fullcalendar@v3.2.4
+- pkg:composer/saade/filament-fullcalendar@v4.0.0
 - pkg:composer/saade/filament-fullcalendar@v4.0.0-beta1
 - pkg:composer/saade/filament-fullcalendar@v4.0.0-beta2
 - pkg:composer/saade/filament-fullcalendar@v4.0.0-beta3
@@ -43,3 +44,6 @@
 - pkg:composer/saade/filament-fullcalendar@v4.0.0-beta5
 - pkg:composer/saade/filament-fullcalendar@v4.0.0-beta6
 - pkg:composer/saade/filament-fullcalendar@v4.0.0-beta7
+- pkg:composer/saade/filament-fullcalendar@v4.0.1
+- pkg:composer/saade/filament-fullcalendar@v5.0.0-beta1
+- pkg:composer/saade/filament-fullcalendar@v5.0.0-beta2
