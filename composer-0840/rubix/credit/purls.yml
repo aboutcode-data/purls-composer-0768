@@ -1,3 +1,6 @@
+- pkg:composer/rubix/credit@V6
+- pkg:composer/rubix/credit@V7
+- pkg:composer/rubix/credit@V8
 - pkg:composer/rubix/credit@v1
 - pkg:composer/rubix/credit@v2
 - pkg:composer/rubix/credit@v3
