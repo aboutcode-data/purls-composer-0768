@@ -15,3 +15,7 @@
 - pkg:composer/saucebase/announcements@v1.0.0
 - pkg:composer/saucebase/announcements@v2.0.0
 - pkg:composer/saucebase/announcements@v2.1.0
+- pkg:composer/saucebase/announcements@v3.0.0
+- pkg:composer/saucebase/announcements@v3.1.0
+- pkg:composer/saucebase/announcements@v3.2.0
+- pkg:composer/saucebase/announcements@v3.2.1
