@@ -14,6 +14,7 @@
 - pkg:composer/samjuk/wp-theme-fishpig@2.0.24.0
 - pkg:composer/samjuk/wp-theme-fishpig@2.0.24.1
 - pkg:composer/samjuk/wp-theme-fishpig@2.0.24.2
+- pkg:composer/samjuk/wp-theme-fishpig@2.14.4
 - pkg:composer/samjuk/wp-theme-fishpig@3.0.0
 - pkg:composer/samjuk/wp-theme-fishpig@3.0.1
 - pkg:composer/samjuk/wp-theme-fishpig@3.0.10
@@ -206,6 +207,8 @@
 - pkg:composer/samjuk/wp-theme-fishpig@3.32.1
 - pkg:composer/samjuk/wp-theme-fishpig@3.32.2
 - pkg:composer/samjuk/wp-theme-fishpig@3.32.3
+- pkg:composer/samjuk/wp-theme-fishpig@3.32.5
+- pkg:composer/samjuk/wp-theme-fishpig@3.32.6
 - pkg:composer/samjuk/wp-theme-fishpig@3.4.0
 - pkg:composer/samjuk/wp-theme-fishpig@3.4.1
 - pkg:composer/samjuk/wp-theme-fishpig@3.4.2
