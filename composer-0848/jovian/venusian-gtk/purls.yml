@@ -1,2 +1,6 @@
+- pkg:composer/jovian/venusian-gtk@0.10.4
+- pkg:composer/jovian/venusian-gtk@0.10.5
 - pkg:composer/jovian/venusian-gtk@v0.10.0
 - pkg:composer/jovian/venusian-gtk@v0.10.1
+- pkg:composer/jovian/venusian-gtk@v0.10.2
+- pkg:composer/jovian/venusian-gtk@v0.10.3
