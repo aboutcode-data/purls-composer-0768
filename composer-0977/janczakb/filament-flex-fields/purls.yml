@@ -27,6 +27,19 @@
 - pkg:composer/janczakb/filament-flex-fields@3.1.16
 - pkg:composer/janczakb/filament-flex-fields@3.1.17
 - pkg:composer/janczakb/filament-flex-fields@3.1.9
+- pkg:composer/janczakb/filament-flex-fields@4.0
+- pkg:composer/janczakb/filament-flex-fields@4.0.1
+- pkg:composer/janczakb/filament-flex-fields@4.0.11
+- pkg:composer/janczakb/filament-flex-fields@4.0.13
+- pkg:composer/janczakb/filament-flex-fields@4.0.14
+- pkg:composer/janczakb/filament-flex-fields@4.0.15
+- pkg:composer/janczakb/filament-flex-fields@4.0.2
+- pkg:composer/janczakb/filament-flex-fields@4.0.4
+- pkg:composer/janczakb/filament-flex-fields@4.0.5
+- pkg:composer/janczakb/filament-flex-fields@4.0.6
+- pkg:composer/janczakb/filament-flex-fields@4.0.7
+- pkg:composer/janczakb/filament-flex-fields@4.0.8
+- pkg:composer/janczakb/filament-flex-fields@4.0.9
 - pkg:composer/janczakb/filament-flex-fields@v1.2.1
 - pkg:composer/janczakb/filament-flex-fields@v2.1.10
 - pkg:composer/janczakb/filament-flex-fields@v2.1.6
@@ -65,3 +78,6 @@
 - pkg:composer/janczakb/filament-flex-fields@v3.1.6
 - pkg:composer/janczakb/filament-flex-fields@v3.1.7
 - pkg:composer/janczakb/filament-flex-fields@v3.1.8
+- pkg:composer/janczakb/filament-flex-fields@v4.0.10
+- pkg:composer/janczakb/filament-flex-fields@v4.0.12
+- pkg:composer/janczakb/filament-flex-fields@v4.0.3
