@@ -59,3 +59,4 @@
 - pkg:composer/janole/laravel-dockerize@1.3.4
 - pkg:composer/janole/laravel-dockerize@1.3.5
 - pkg:composer/janole/laravel-dockerize@1.3.6
+- pkg:composer/janole/laravel-dockerize@2.0.0
