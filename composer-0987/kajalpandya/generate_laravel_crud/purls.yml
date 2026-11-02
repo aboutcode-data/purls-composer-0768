@@ -12,3 +12,5 @@
 - pkg:composer/kajalpandya/generate_laravel_crud@v1.1.6
 - pkg:composer/kajalpandya/generate_laravel_crud@v1.1.7
 - pkg:composer/kajalpandya/generate_laravel_crud@v2.0
+- pkg:composer/kajalpandya/generate_laravel_crud@v3.0.0
+- pkg:composer/kajalpandya/generate_laravel_crud@v3.0.1
