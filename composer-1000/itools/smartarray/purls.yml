@@ -33,3 +33,4 @@
 - pkg:composer/itools/smartarray@v2.6.6
 - pkg:composer/itools/smartarray@v2.6.7
 - pkg:composer/itools/smartarray@v2.7.0
+- pkg:composer/itools/smartarray@v3.0.0
