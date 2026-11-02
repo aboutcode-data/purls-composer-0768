@@ -11,6 +11,8 @@
 - pkg:composer/jeffersongoncalves/laravel-short-url@5.2.1
 - pkg:composer/jeffersongoncalves/laravel-short-url@5.2.2
 - pkg:composer/jeffersongoncalves/laravel-short-url@5.2.3
+- pkg:composer/jeffersongoncalves/laravel-short-url@5.2.4
+- pkg:composer/jeffersongoncalves/laravel-short-url@5.2.5
 - pkg:composer/jeffersongoncalves/laravel-short-url@v1.0.0
 - pkg:composer/jeffersongoncalves/laravel-short-url@v1.0.1
 - pkg:composer/jeffersongoncalves/laravel-short-url@v1.1.0
