@@ -13,3 +13,5 @@
 - pkg:composer/inova/nova-laravel-starter@v2.3.0
 - pkg:composer/inova/nova-laravel-starter@v2.3.1
 - pkg:composer/inova/nova-laravel-starter@v2.4.0
+- pkg:composer/inova/nova-laravel-starter@v2.5.0
+- pkg:composer/inova/nova-laravel-starter@v2.5.1
