@@ -37,3 +37,4 @@
 - pkg:composer/justbetter/laravel-magento-prices@2.4.7
 - pkg:composer/justbetter/laravel-magento-prices@2.5.0
 - pkg:composer/justbetter/laravel-magento-prices@2.6.0
+- pkg:composer/justbetter/laravel-magento-prices@2.6.1
