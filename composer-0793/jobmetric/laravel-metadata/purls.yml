@@ -35,3 +35,4 @@
 - pkg:composer/jobmetric/laravel-metadata@4.0.1
 - pkg:composer/jobmetric/laravel-metadata@4.0.2
 - pkg:composer/jobmetric/laravel-metadata@4.0.3
+- pkg:composer/jobmetric/laravel-metadata@4.1.0
