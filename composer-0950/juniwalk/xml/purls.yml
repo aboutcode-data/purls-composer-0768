@@ -13,3 +13,5 @@
 - pkg:composer/juniwalk/xml@v2.1.1
 - pkg:composer/juniwalk/xml@v2.1.2
 - pkg:composer/juniwalk/xml@v2.1.3
+- pkg:composer/juniwalk/xml@v3.0.0
+- pkg:composer/juniwalk/xml@v3.0.1
