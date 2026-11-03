@@ -373,6 +373,7 @@
 - pkg:composer/mmi/mmi@4.1.9
 - pkg:composer/mmi/mmi@4.2.1
 - pkg:composer/mmi/mmi@4.2.10
+- pkg:composer/mmi/mmi@4.2.11
 - pkg:composer/mmi/mmi@4.2.2
 - pkg:composer/mmi/mmi@4.2.3
 - pkg:composer/mmi/mmi@4.2.4
@@ -384,3 +385,4 @@
 - pkg:composer/mmi/mmi@4.2.8
 - pkg:composer/mmi/mmi@4.2.9
 - pkg:composer/mmi/mmi@5.0.0
+- pkg:composer/mmi/mmi@5.0.1
