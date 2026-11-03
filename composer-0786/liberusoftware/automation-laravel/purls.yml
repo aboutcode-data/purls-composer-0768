@@ -8,3 +8,7 @@
 - pkg:composer/liberusoftware/automation-laravel@v4.1.0
 - pkg:composer/liberusoftware/automation-laravel@v5.0.0
 - pkg:composer/liberusoftware/automation-laravel@v6.0.0
+- pkg:composer/liberusoftware/automation-laravel@v7.0.0
+- pkg:composer/liberusoftware/automation-laravel@v8.0.0
+- pkg:composer/liberusoftware/automation-laravel@v8.0.1
+- pkg:composer/liberusoftware/automation-laravel@v8.0.2
