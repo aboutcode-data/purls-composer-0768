@@ -22,6 +22,7 @@
 - pkg:composer/kuriousagency/commerce-bundles@1.2
 - pkg:composer/kuriousagency/commerce-bundles@1.2.1
 - pkg:composer/kuriousagency/commerce-bundles@1.2.2
+- pkg:composer/kuriousagency/commerce-bundles@2.0.0
 - pkg:composer/kuriousagency/commerce-bundles@2.0.0-beta.1
 - pkg:composer/kuriousagency/commerce-bundles@2.0.0-beta.2
 - pkg:composer/kuriousagency/commerce-bundles@2.0.0-beta.3
@@ -29,3 +30,4 @@
 - pkg:composer/kuriousagency/commerce-bundles@2.0.0-beta.5
 - pkg:composer/kuriousagency/commerce-bundles@2.0.0-beta.6
 - pkg:composer/kuriousagency/commerce-bundles@2.0.0-beta.7
+- pkg:composer/kuriousagency/commerce-bundles@2.0.1
