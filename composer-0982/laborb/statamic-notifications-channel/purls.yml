@@ -7,3 +7,4 @@
 - pkg:composer/laborb/statamic-notifications-channel@1.0.6
 - pkg:composer/laborb/statamic-notifications-channel@1.1.0
 - pkg:composer/laborb/statamic-notifications-channel@1.1.1
+- pkg:composer/laborb/statamic-notifications-channel@2.0.0
