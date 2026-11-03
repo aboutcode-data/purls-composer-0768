@@ -44,6 +44,9 @@
 - pkg:composer/mailersend/mailersend@v0.42.0
 - pkg:composer/mailersend/mailersend@v0.43.0
 - pkg:composer/mailersend/mailersend@v0.44.0
+- pkg:composer/mailersend/mailersend@v0.45.0
+- pkg:composer/mailersend/mailersend@v0.46.0
+- pkg:composer/mailersend/mailersend@v0.47.0
 - pkg:composer/mailersend/mailersend@v0.5.0
 - pkg:composer/mailersend/mailersend@v0.6.0
 - pkg:composer/mailersend/mailersend@v0.7.0
