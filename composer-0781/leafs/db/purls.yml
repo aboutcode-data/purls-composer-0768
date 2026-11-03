@@ -16,3 +16,4 @@
 - pkg:composer/leafs/db@v5.0
 - pkg:composer/leafs/db@v5.1.0
 - pkg:composer/leafs/db@v5.1.1
+- pkg:composer/leafs/db@v5.1.2
