@@ -1,1 +1,3 @@
 - pkg:composer/michel/php-sql-mapper@1.0.0
+- pkg:composer/michel/php-sql-mapper@1.1.0
+- pkg:composer/michel/php-sql-mapper@2.0.0
