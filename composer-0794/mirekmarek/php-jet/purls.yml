@@ -72,3 +72,6 @@
 - pkg:composer/mirekmarek/php-jet@v2026.13
 - pkg:composer/mirekmarek/php-jet@v2026.14
 - pkg:composer/mirekmarek/php-jet@v2026.15
+- pkg:composer/mirekmarek/php-jet@v2026.16b
+- pkg:composer/mirekmarek/php-jet@v2026.17
+- pkg:composer/mirekmarek/php-jet@v2026.18
