@@ -1,5 +1,6 @@
 - pkg:composer/marko/devserver@0.10.0
 - pkg:composer/marko/devserver@0.11.0
+- pkg:composer/marko/devserver@0.12.0
 - pkg:composer/marko/devserver@0.8.0
 - pkg:composer/marko/devserver@0.8.1
 - pkg:composer/marko/devserver@0.8.2
