@@ -22,3 +22,4 @@
 - pkg:composer/lasselehtinen/laravel-conventions-checker@v5.0.0
 - pkg:composer/lasselehtinen/laravel-conventions-checker@v6.0.0
 - pkg:composer/lasselehtinen/laravel-conventions-checker@v6.0.1
+- pkg:composer/lasselehtinen/laravel-conventions-checker@v6.0.2
