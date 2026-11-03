@@ -1,1 +1,4 @@
 - pkg:composer/mage-obsidian/module-inventory-in-store-pickup@4.1.0
+- pkg:composer/mage-obsidian/module-inventory-in-store-pickup@4.2.0
+- pkg:composer/mage-obsidian/module-inventory-in-store-pickup@4.2.1
+- pkg:composer/mage-obsidian/module-inventory-in-store-pickup@4.3.0
