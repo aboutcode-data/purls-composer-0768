@@ -1,3 +1,5 @@
+- pkg:composer/koriym/semantic-logger@0.10.0
+- pkg:composer/koriym/semantic-logger@0.11.0
 - pkg:composer/koriym/semantic-logger@0.2.0
 - pkg:composer/koriym/semantic-logger@0.3.0
 - pkg:composer/koriym/semantic-logger@0.3.1
