@@ -19,3 +19,4 @@
 - pkg:composer/mollie/magento2-hyva-compatibility@v3.1.0
 - pkg:composer/mollie/magento2-hyva-compatibility@v3.1.1
 - pkg:composer/mollie/magento2-hyva-compatibility@v3.1.2
+- pkg:composer/mollie/magento2-hyva-compatibility@v3.2.0
