@@ -1,2 +1,6 @@
 - pkg:composer/laraxgram/database@v3.0.0
 - pkg:composer/laraxgram/database@v4.0.0
+- pkg:composer/laraxgram/database@v4.5.0
+- pkg:composer/laraxgram/database@v4.6.0
+- pkg:composer/laraxgram/database@v4.6.1
+- pkg:composer/laraxgram/database@v4.7.0
