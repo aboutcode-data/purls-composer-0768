@@ -287,3 +287,4 @@
 - pkg:composer/netflex/encryption@v6.7.3
 - pkg:composer/netflex/encryption@v7.0.0
 - pkg:composer/netflex/encryption@v7.0.1
+- pkg:composer/netflex/encryption@v7.0.2
