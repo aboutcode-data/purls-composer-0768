@@ -4,6 +4,9 @@
 - pkg:composer/madwings/insanedb@1.0rc8
 - pkg:composer/madwings/insanedb@1.0rc9
 - pkg:composer/madwings/insanedb@1.4.0
+- pkg:composer/madwings/insanedb@1.4.1
+- pkg:composer/madwings/insanedb@1.4.3
+- pkg:composer/madwings/insanedb@1.4.4
 - pkg:composer/madwings/insanedb@v1.0.0
 - pkg:composer/madwings/insanedb@v1.0.1
 - pkg:composer/madwings/insanedb@v1.0.2
