@@ -57,6 +57,8 @@
 - pkg:composer/neonbug/meexo-common@0.5.6
 - pkg:composer/neonbug/meexo-common@0.5.7
 - pkg:composer/neonbug/meexo-common@0.5.8
+- pkg:composer/neonbug/meexo-common@0.5.9
+- pkg:composer/neonbug/meexo-common@0.6.0
 - pkg:composer/neonbug/meexo-common@1.0.0
 - pkg:composer/neonbug/meexo-common@1.0.1
 - pkg:composer/neonbug/meexo-common@1.0.10
