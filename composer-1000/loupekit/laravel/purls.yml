@@ -35,6 +35,7 @@
 - pkg:composer/loupekit/laravel@v0.14.0
 - pkg:composer/loupekit/laravel@v0.14.1
 - pkg:composer/loupekit/laravel@v0.14.2
+- pkg:composer/loupekit/laravel@v0.15.0
 - pkg:composer/loupekit/laravel@v0.3.0
 - pkg:composer/loupekit/laravel@v0.3.1
 - pkg:composer/loupekit/laravel@v0.3.2
