@@ -1,2 +1,4 @@
 - pkg:composer/laravel-tipi/support@v1.0.0
 - pkg:composer/laravel-tipi/support@v1.0.1
+- pkg:composer/laravel-tipi/support@v1.0.11
+- pkg:composer/laravel-tipi/support@v1.0.12
