@@ -1,2 +1,8 @@
 - pkg:composer/liblynx-llc/liblynx-connect-php@0.1.0-alpha
 - pkg:composer/liblynx-llc/liblynx-connect-php@0.2.0-alpha
+- pkg:composer/liblynx-llc/liblynx-connect-php@0.3.0
+- pkg:composer/liblynx-llc/liblynx-connect-php@0.4.0
+- pkg:composer/liblynx-llc/liblynx-connect-php@1.0.0
+- pkg:composer/liblynx-llc/liblynx-connect-php@1.0.1
+- pkg:composer/liblynx-llc/liblynx-connect-php@1.0.2
+- pkg:composer/liblynx-llc/liblynx-connect-php@1.0.3
