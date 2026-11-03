@@ -5,3 +5,4 @@
 - pkg:composer/microscrap/ftdi@0.5.2
 - pkg:composer/microscrap/ftdi@0.7.0
 - pkg:composer/microscrap/ftdi@0.8.0
+- pkg:composer/microscrap/ftdi@0.9.0
