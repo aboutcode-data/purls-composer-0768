@@ -1,3 +1,6 @@
 - pkg:composer/leopoletto/robots-txt-parser@v1.0.0
 - pkg:composer/leopoletto/robots-txt-parser@v1.0.1
 - pkg:composer/leopoletto/robots-txt-parser@v2.0.0
+- pkg:composer/leopoletto/robots-txt-parser@v2.0.1
+- pkg:composer/leopoletto/robots-txt-parser@v2.1.0
+- pkg:composer/leopoletto/robots-txt-parser@v2.1.1
