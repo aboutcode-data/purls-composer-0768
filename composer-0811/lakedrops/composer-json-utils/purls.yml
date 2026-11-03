@@ -48,3 +48,4 @@
 - pkg:composer/lakedrops/composer-json-utils@v2.5.2
 - pkg:composer/lakedrops/composer-json-utils@v2.5.3
 - pkg:composer/lakedrops/composer-json-utils@v2.5.4
+- pkg:composer/lakedrops/composer-json-utils@v2.5.5
