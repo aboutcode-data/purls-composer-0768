@@ -9,3 +9,5 @@
 - pkg:composer/meioa/make-crud@v1.0.7
 - pkg:composer/meioa/make-crud@v1.0.8
 - pkg:composer/meioa/make-crud@v1.0.9
+- pkg:composer/meioa/make-crud@v8.0.1
+- pkg:composer/meioa/make-crud@v8.0.2
