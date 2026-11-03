@@ -24,3 +24,4 @@
 - pkg:composer/mindtwo/statamic-base@0.4.1
 - pkg:composer/mindtwo/statamic-base@0.5
 - pkg:composer/mindtwo/statamic-base@0.5.1
+- pkg:composer/mindtwo/statamic-base@0.5.2
