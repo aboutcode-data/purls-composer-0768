@@ -5,3 +5,5 @@
 - pkg:composer/ndrstmr/icap-flow@v2.1.2
 - pkg:composer/ndrstmr/icap-flow@v2.2.0
 - pkg:composer/ndrstmr/icap-flow@v3.0.0
+- pkg:composer/ndrstmr/icap-flow@v4.0.0
+- pkg:composer/ndrstmr/icap-flow@v4.1.0
