@@ -1,6 +1,7 @@
 - pkg:composer/macula-io/macula-php@v0.1.0
 - pkg:composer/macula-io/macula-php@v0.1.1
 - pkg:composer/macula-io/macula-php@v0.1.2
+- pkg:composer/macula-io/macula-php@v0.10.0
 - pkg:composer/macula-io/macula-php@v0.2.0
 - pkg:composer/macula-io/macula-php@v0.3.0
 - pkg:composer/macula-io/macula-php@v0.3.1
@@ -14,5 +15,10 @@
 - pkg:composer/macula-io/macula-php@v0.8.0
 - pkg:composer/macula-io/macula-php@v0.8.1
 - pkg:composer/macula-io/macula-php@v0.8.2
+- pkg:composer/macula-io/macula-php@v0.9.0
 - pkg:composer/macula-io/macula-php@v0.9.0-rc.1
 - pkg:composer/macula-io/macula-php@v0.9.0-rc.2
+- pkg:composer/macula-io/macula-php@v0.9.0-rc.3
+- pkg:composer/macula-io/macula-php@v0.9.0-rc.4
+- pkg:composer/macula-io/macula-php@v0.9.0-rc.5
+- pkg:composer/macula-io/macula-php@v0.9.0-rc.6
