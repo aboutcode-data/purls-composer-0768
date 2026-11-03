@@ -71,6 +71,8 @@
 - pkg:composer/magefan/module-community@2.3.6
 - pkg:composer/magefan/module-community@2.4.0
 - pkg:composer/magefan/module-community@2.4.1
+- pkg:composer/magefan/module-community@2.4.10
+- pkg:composer/magefan/module-community@2.4.11
 - pkg:composer/magefan/module-community@2.4.2
 - pkg:composer/magefan/module-community@2.4.3
 - pkg:composer/magefan/module-community@2.4.4
@@ -78,3 +80,4 @@
 - pkg:composer/magefan/module-community@2.4.6
 - pkg:composer/magefan/module-community@2.4.7
 - pkg:composer/magefan/module-community@2.4.8
+- pkg:composer/magefan/module-community@2.4.9
