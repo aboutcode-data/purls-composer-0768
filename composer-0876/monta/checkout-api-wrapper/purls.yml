@@ -6,6 +6,8 @@
 - pkg:composer/monta/checkout-api-wrapper@1.25.5
 - pkg:composer/monta/checkout-api-wrapper@2.0
 - pkg:composer/monta/checkout-api-wrapper@2.0.1
+- pkg:composer/monta/checkout-api-wrapper@2.0.2
+- pkg:composer/monta/checkout-api-wrapper@2.0.3
 - pkg:composer/monta/checkout-api-wrapper@v1.0
 - pkg:composer/monta/checkout-api-wrapper@v1.1
 - pkg:composer/monta/checkout-api-wrapper@v1.10
