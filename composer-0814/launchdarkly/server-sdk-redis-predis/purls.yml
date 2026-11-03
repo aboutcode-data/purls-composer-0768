@@ -8,3 +8,4 @@
 - pkg:composer/launchdarkly/server-sdk-redis-predis@2.0.2
 - pkg:composer/launchdarkly/server-sdk-redis-predis@2.0.3
 - pkg:composer/launchdarkly/server-sdk-redis-predis@2.0.4
+- pkg:composer/launchdarkly/server-sdk-redis-predis@2.1.0

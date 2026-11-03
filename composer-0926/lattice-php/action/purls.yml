@@ -49,3 +49,5 @@
 - pkg:composer/lattice-php/action@0.76.0
 - pkg:composer/lattice-php/action@0.76.1
 - pkg:composer/lattice-php/action@0.77.0
+- pkg:composer/lattice-php/action@0.78.0
+- pkg:composer/lattice-php/action@0.78.1
