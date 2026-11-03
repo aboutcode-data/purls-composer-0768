@@ -26,3 +26,4 @@
 - pkg:composer/n7/symfony-http-bundle@v1.0.9
 - pkg:composer/n7/symfony-http-bundle@v2.0
 - pkg:composer/n7/symfony-http-bundle@v2.0.1
+- pkg:composer/n7/symfony-http-bundle@v2.0.2
