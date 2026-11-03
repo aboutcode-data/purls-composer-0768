@@ -3,6 +3,7 @@
 - pkg:composer/mautic/theme-capture@6.0.0-beta2
 - pkg:composer/mautic/theme-capture@6.0.0-rc
 - pkg:composer/mautic/theme-capture@6.0.1
+- pkg:composer/mautic/theme-capture@6.0.10
 - pkg:composer/mautic/theme-capture@6.0.2
 - pkg:composer/mautic/theme-capture@6.0.3
 - pkg:composer/mautic/theme-capture@6.0.4
@@ -27,3 +28,4 @@
 - pkg:composer/mautic/theme-capture@7.2.0-rc
 - pkg:composer/mautic/theme-capture@7.2.0-rc2
 - pkg:composer/mautic/theme-capture@7.2.1
+- pkg:composer/mautic/theme-capture@7.2.2
