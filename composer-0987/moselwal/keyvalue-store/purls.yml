@@ -6,3 +6,6 @@
 - pkg:composer/moselwal/keyvalue-store@v4.6.11
 - pkg:composer/moselwal/keyvalue-store@v4.6.12
 - pkg:composer/moselwal/keyvalue-store@v4.6.13
+- pkg:composer/moselwal/keyvalue-store@v4.6.14
+- pkg:composer/moselwal/keyvalue-store@v4.6.15
+- pkg:composer/moselwal/keyvalue-store@v4.6.16
