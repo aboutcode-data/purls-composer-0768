@@ -14,3 +14,5 @@
 - pkg:composer/limedeck/phpunit-detailed-printer@4.2.0
 - pkg:composer/limedeck/phpunit-detailed-printer@5.0.0
 - pkg:composer/limedeck/phpunit-detailed-printer@6.0.0
+- pkg:composer/limedeck/phpunit-detailed-printer@7.0.0
+- pkg:composer/limedeck/phpunit-detailed-printer@7.1.0
