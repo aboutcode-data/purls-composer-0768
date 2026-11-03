@@ -6,3 +6,7 @@
 - pkg:composer/marque/hound@v3.3.0
 - pkg:composer/marque/hound@v3.3.1
 - pkg:composer/marque/hound@v4.0.0
+- pkg:composer/marque/hound@v5.0.0
+- pkg:composer/marque/hound@v5.1.0
+- pkg:composer/marque/hound@v5.2.0
+- pkg:composer/marque/hound@v5.3.0
