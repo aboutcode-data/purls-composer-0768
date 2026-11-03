@@ -1,1 +1,3 @@
-- pkg:composer/ket-php/turnstile@1.0
+- pkg:composer/ket-php/turnstile@1.0.0
+- pkg:composer/ket-php/turnstile@1.1.0
+- pkg:composer/ket-php/turnstile@1.1.1
