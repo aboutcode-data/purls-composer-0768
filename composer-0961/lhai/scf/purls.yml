@@ -385,3 +385,6 @@
 - pkg:composer/lhai/scf@v1.4.9
 - pkg:composer/lhai/scf@v1.4.90
 - pkg:composer/lhai/scf@v1.4.91
+- pkg:composer/lhai/scf@v1.4.92
+- pkg:composer/lhai/scf@v1.4.93
+- pkg:composer/lhai/scf@v1.4.94
