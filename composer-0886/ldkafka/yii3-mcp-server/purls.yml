@@ -1,2 +1,5 @@
 - pkg:composer/ldkafka/yii3-mcp-server@v1.2.0
 - pkg:composer/ldkafka/yii3-mcp-server@v1.3.0
+- pkg:composer/ldkafka/yii3-mcp-server@v1.4.0
+- pkg:composer/ldkafka/yii3-mcp-server@v1.5.0
+- pkg:composer/ldkafka/yii3-mcp-server@v1.6.0

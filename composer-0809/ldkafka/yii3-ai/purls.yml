@@ -1,2 +1,3 @@
 - pkg:composer/ldkafka/yii3-ai@v0.1.0
 - pkg:composer/ldkafka/yii3-ai@v0.1.1
+- pkg:composer/ldkafka/yii3-ai@v0.1.2
