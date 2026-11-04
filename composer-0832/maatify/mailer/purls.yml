@@ -10,3 +10,4 @@
 - pkg:composer/maatify/mailer@1.3.0001
 - pkg:composer/maatify/mailer@2.0.0
 - pkg:composer/maatify/mailer@5.0.1
+- pkg:composer/maatify/mailer@6.0.0
