@@ -19,3 +19,4 @@
 - pkg:composer/laravel/surveyor@v0.2.7
 - pkg:composer/laravel/surveyor@v0.2.8
 - pkg:composer/laravel/surveyor@v0.3.0
+- pkg:composer/laravel/surveyor@v0.3.1
