@@ -95,3 +95,4 @@
 - pkg:composer/liquiddesign/liquid-monitor-connector@v3.2.3
 - pkg:composer/liquiddesign/liquid-monitor-connector@v3.2.4
 - pkg:composer/liquiddesign/liquid-monitor-connector@v4.0.0
+- pkg:composer/liquiddesign/liquid-monitor-connector@v4.1.0
