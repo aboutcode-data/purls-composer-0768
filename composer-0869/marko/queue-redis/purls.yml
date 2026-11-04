@@ -1,1 +1,2 @@
 - pkg:composer/marko/queue-redis@0.12.0
+- pkg:composer/marko/queue-redis@0.13.0
