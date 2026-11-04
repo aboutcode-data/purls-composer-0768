@@ -111,3 +111,5 @@
 - pkg:composer/messagebird/sdk@v0.95.1
 - pkg:composer/messagebird/sdk@v0.96.0
 - pkg:composer/messagebird/sdk@v0.97.0
+- pkg:composer/messagebird/sdk@v0.98.0
+- pkg:composer/messagebird/sdk@v0.99.0
