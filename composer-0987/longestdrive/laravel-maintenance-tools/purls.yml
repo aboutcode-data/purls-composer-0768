@@ -1,1 +1,4 @@
 - pkg:composer/longestdrive/laravel-maintenance-tools@1.0.1
+- pkg:composer/longestdrive/laravel-maintenance-tools@2.0.0
+- pkg:composer/longestdrive/laravel-maintenance-tools@2.0.1
+- pkg:composer/longestdrive/laravel-maintenance-tools@2.0.2
