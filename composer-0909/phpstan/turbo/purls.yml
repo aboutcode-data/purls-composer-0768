@@ -12,3 +12,7 @@
 - pkg:composer/phpstan/turbo@2.2.9
 - pkg:composer/phpstan/turbo@2.3.0
 - pkg:composer/phpstan/turbo@2.3.1
+- pkg:composer/phpstan/turbo@2.3.2
+- pkg:composer/phpstan/turbo@2.3.3
+- pkg:composer/phpstan/turbo@2.3.4
+- pkg:composer/phpstan/turbo@2.3.5
