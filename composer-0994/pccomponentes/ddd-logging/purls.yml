@@ -23,3 +23,4 @@
 - pkg:composer/pccomponentes/ddd-logging@v3.0.0
 - pkg:composer/pccomponentes/ddd-logging@v3.1.0
 - pkg:composer/pccomponentes/ddd-logging@v3.2.0
+- pkg:composer/pccomponentes/ddd-logging@v3.2.1
