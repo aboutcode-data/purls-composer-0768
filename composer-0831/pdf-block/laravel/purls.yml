@@ -21,3 +21,4 @@
 - pkg:composer/pdf-block/laravel@v3.4.0
 - pkg:composer/pdf-block/laravel@v3.5.0
 - pkg:composer/pdf-block/laravel@v3.6.0
+- pkg:composer/pdf-block/laravel@v3.7.0
