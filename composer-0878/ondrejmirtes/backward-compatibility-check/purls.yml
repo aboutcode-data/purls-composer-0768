@@ -30,3 +30,5 @@
 - pkg:composer/ondrejmirtes/backward-compatibility-check@7.1.0.3
 - pkg:composer/ondrejmirtes/backward-compatibility-check@7.3.0
 - pkg:composer/ondrejmirtes/backward-compatibility-check@7.3.0.1
+- pkg:composer/ondrejmirtes/backward-compatibility-check@8.27.0.1
+- pkg:composer/ondrejmirtes/backward-compatibility-check@8.27.0.2
