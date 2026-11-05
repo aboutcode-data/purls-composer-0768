@@ -1,3 +1,6 @@
 - pkg:composer/nvl/payments@v2.0.0
 - pkg:composer/nvl/payments@v5.0.0
 - pkg:composer/nvl/payments@v5.0.1
+- pkg:composer/nvl/payments@v6.0.0
+- pkg:composer/nvl/payments@v6.0.1
+- pkg:composer/nvl/payments@v7.0.0
