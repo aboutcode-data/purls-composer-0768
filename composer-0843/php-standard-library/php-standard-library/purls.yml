@@ -73,3 +73,6 @@
 - pkg:composer/php-standard-library/php-standard-library@6.2.0
 - pkg:composer/php-standard-library/php-standard-library@6.2.1
 - pkg:composer/php-standard-library/php-standard-library@6.3.0
+- pkg:composer/php-standard-library/php-standard-library@6.4.0
+- pkg:composer/php-standard-library/php-standard-library@6.4.1
+- pkg:composer/php-standard-library/php-standard-library@6.4.2
