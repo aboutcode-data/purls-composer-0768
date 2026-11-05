@@ -17,6 +17,12 @@
 - pkg:composer/plan2net/playwright-toolkit@v0.22.0
 - pkg:composer/plan2net/playwright-toolkit@v0.23.0
 - pkg:composer/plan2net/playwright-toolkit@v0.23.1
+- pkg:composer/plan2net/playwright-toolkit@v0.24.0
+- pkg:composer/plan2net/playwright-toolkit@v0.25.0
+- pkg:composer/plan2net/playwright-toolkit@v0.26.0
+- pkg:composer/plan2net/playwright-toolkit@v0.27.0
+- pkg:composer/plan2net/playwright-toolkit@v0.27.1
+- pkg:composer/plan2net/playwright-toolkit@v0.27.2
 - pkg:composer/plan2net/playwright-toolkit@v0.3.0
 - pkg:composer/plan2net/playwright-toolkit@v0.4.0
 - pkg:composer/plan2net/playwright-toolkit@v0.4.1
