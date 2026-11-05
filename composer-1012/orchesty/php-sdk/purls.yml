@@ -25,3 +25,4 @@
 - pkg:composer/orchesty/php-sdk@4.0.3
 - pkg:composer/orchesty/php-sdk@4.0.4
 - pkg:composer/orchesty/php-sdk@4.0.5
+- pkg:composer/orchesty/php-sdk@4.1.0
