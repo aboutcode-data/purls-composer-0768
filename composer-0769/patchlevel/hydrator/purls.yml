@@ -44,3 +44,4 @@
 - pkg:composer/patchlevel/hydrator@2.0.1
 - pkg:composer/patchlevel/hydrator@2.0.2
 - pkg:composer/patchlevel/hydrator@2.0.3
+- pkg:composer/patchlevel/hydrator@2.1.0
