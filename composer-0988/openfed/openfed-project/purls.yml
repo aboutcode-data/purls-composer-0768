@@ -20,3 +20,4 @@
 - pkg:composer/openfed/openfed-project@13.6.0
 - pkg:composer/openfed/openfed-project@13.6.1
 - pkg:composer/openfed/openfed-project@13.6.2
+- pkg:composer/openfed/openfed-project@14.0.0-alpha1
