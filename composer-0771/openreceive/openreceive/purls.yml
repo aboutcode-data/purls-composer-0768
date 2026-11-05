@@ -14,6 +14,11 @@
 - pkg:composer/openreceive/openreceive@v0.4.24
 - pkg:composer/openreceive/openreceive@v0.4.25
 - pkg:composer/openreceive/openreceive@v0.4.26
+- pkg:composer/openreceive/openreceive@v0.4.27
+- pkg:composer/openreceive/openreceive@v0.4.28
+- pkg:composer/openreceive/openreceive@v0.4.29
+- pkg:composer/openreceive/openreceive@v0.4.30
+- pkg:composer/openreceive/openreceive@v0.4.31
 - pkg:composer/openreceive/openreceive@v0.4.5
 - pkg:composer/openreceive/openreceive@v0.4.6
 - pkg:composer/openreceive/openreceive@v0.4.8

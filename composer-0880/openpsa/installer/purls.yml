@@ -16,3 +16,4 @@
 - pkg:composer/openpsa/installer@v1.5.2
 - pkg:composer/openpsa/installer@v1.5.3
 - pkg:composer/openpsa/installer@v1.5.4
+- pkg:composer/openpsa/installer@v1.6.0
