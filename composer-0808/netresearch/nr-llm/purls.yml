@@ -93,6 +93,8 @@
 - pkg:composer/netresearch/nr-llm@v0.43.13
 - pkg:composer/netresearch/nr-llm@v0.43.14
 - pkg:composer/netresearch/nr-llm@v0.43.15
+- pkg:composer/netresearch/nr-llm@v0.43.16
+- pkg:composer/netresearch/nr-llm@v0.43.17
 - pkg:composer/netresearch/nr-llm@v0.43.2
 - pkg:composer/netresearch/nr-llm@v0.43.3
 - pkg:composer/netresearch/nr-llm@v0.43.4
