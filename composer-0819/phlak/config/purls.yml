@@ -3,6 +3,7 @@
 - pkg:composer/phlak/config@0.3.0
 - pkg:composer/phlak/config@0.4.0
 - pkg:composer/phlak/config@1.0.0
+- pkg:composer/phlak/config@10.0.0
 - pkg:composer/phlak/config@2.0.0
 - pkg:composer/phlak/config@3.0.0
 - pkg:composer/phlak/config@3.0.1
