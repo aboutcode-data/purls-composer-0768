@@ -10,6 +10,7 @@
 - pkg:composer/netresearch/concourse-ci-skill@v1.11.4
 - pkg:composer/netresearch/concourse-ci-skill@v1.11.5
 - pkg:composer/netresearch/concourse-ci-skill@v1.11.6
+- pkg:composer/netresearch/concourse-ci-skill@v1.11.7
 - pkg:composer/netresearch/concourse-ci-skill@v1.2.0
 - pkg:composer/netresearch/concourse-ci-skill@v1.2.1
 - pkg:composer/netresearch/concourse-ci-skill@v1.2.2
