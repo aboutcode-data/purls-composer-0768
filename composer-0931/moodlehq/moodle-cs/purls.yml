@@ -38,3 +38,4 @@
 - pkg:composer/moodlehq/moodle-cs@v3.5.2
 - pkg:composer/moodlehq/moodle-cs@v3.6.0
 - pkg:composer/moodlehq/moodle-cs@v3.7.0
+- pkg:composer/moodlehq/moodle-cs@v3.9.0
