@@ -8,7 +8,16 @@
 - pkg:composer/php-extended/placeholder-phpunit@10.0.7
 - pkg:composer/php-extended/placeholder-phpunit@10.1.0
 - pkg:composer/php-extended/placeholder-phpunit@10.1.1
+- pkg:composer/php-extended/placeholder-phpunit@10.1.10
+- pkg:composer/php-extended/placeholder-phpunit@10.1.11
 - pkg:composer/php-extended/placeholder-phpunit@10.1.2
+- pkg:composer/php-extended/placeholder-phpunit@10.1.3
+- pkg:composer/php-extended/placeholder-phpunit@10.1.4
+- pkg:composer/php-extended/placeholder-phpunit@10.1.5
+- pkg:composer/php-extended/placeholder-phpunit@10.1.6
+- pkg:composer/php-extended/placeholder-phpunit@10.1.7
+- pkg:composer/php-extended/placeholder-phpunit@10.1.8
+- pkg:composer/php-extended/placeholder-phpunit@10.1.9
 - pkg:composer/php-extended/placeholder-phpunit@8.0.0
 - pkg:composer/php-extended/placeholder-phpunit@8.0.1
 - pkg:composer/php-extended/placeholder-phpunit@8.0.10
