@@ -1,0 +1,5 @@
+- pkg:composer/pharaonic/laravel-dynamic-config@10.0.0
+- pkg:composer/pharaonic/laravel-dynamic-config@11.0.0
+- pkg:composer/pharaonic/laravel-dynamic-config@12.0.0
+- pkg:composer/pharaonic/laravel-dynamic-config@13.0.0
+- pkg:composer/pharaonic/laravel-dynamic-config@9.0.0

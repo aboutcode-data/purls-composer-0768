@@ -1,6 +1,10 @@
 - pkg:composer/pharaonic/laravel-uploader@1.0.0
 - pkg:composer/pharaonic/laravel-uploader@1.0.1
 - pkg:composer/pharaonic/laravel-uploader@1.0.2
+- pkg:composer/pharaonic/laravel-uploader@10.0.0
+- pkg:composer/pharaonic/laravel-uploader@11.0.0
+- pkg:composer/pharaonic/laravel-uploader@12.0.0
+- pkg:composer/pharaonic/laravel-uploader@13.0.0
 - pkg:composer/pharaonic/laravel-uploader@2.0.0
 - pkg:composer/pharaonic/laravel-uploader@2.1.0
 - pkg:composer/pharaonic/laravel-uploader@2.1.1
@@ -22,3 +26,8 @@
 - pkg:composer/pharaonic/laravel-uploader@4.0.4
 - pkg:composer/pharaonic/laravel-uploader@4.0.5
 - pkg:composer/pharaonic/laravel-uploader@4.0.6
+- pkg:composer/pharaonic/laravel-uploader@6.0.0
+- pkg:composer/pharaonic/laravel-uploader@6.1.0
+- pkg:composer/pharaonic/laravel-uploader@7.0.0
+- pkg:composer/pharaonic/laravel-uploader@8.0.0
+- pkg:composer/pharaonic/laravel-uploader@9.0.0
