@@ -32,3 +32,4 @@
 - pkg:composer/ordersify/shopify-api-php@2.4.9
 - pkg:composer/ordersify/shopify-api-php@v2.4.12
 - pkg:composer/ordersify/shopify-api-php@v2.4.20
+- pkg:composer/ordersify/shopify-api-php@v2.4.21
