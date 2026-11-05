@@ -1,5 +1,18 @@
 - pkg:composer/particle-academy/last-word@v0.1.0
+- pkg:composer/particle-academy/last-word@v0.10.0
+- pkg:composer/particle-academy/last-word@v0.10.1
+- pkg:composer/particle-academy/last-word@v0.11.0
+- pkg:composer/particle-academy/last-word@v0.12.0
+- pkg:composer/particle-academy/last-word@v0.13.0
+- pkg:composer/particle-academy/last-word@v0.14.0
+- pkg:composer/particle-academy/last-word@v0.15.0
+- pkg:composer/particle-academy/last-word@v0.16.0
+- pkg:composer/particle-academy/last-word@v0.17.0
+- pkg:composer/particle-academy/last-word@v0.18.0
+- pkg:composer/particle-academy/last-word@v0.19.0
 - pkg:composer/particle-academy/last-word@v0.2.0
+- pkg:composer/particle-academy/last-word@v0.20.0
+- pkg:composer/particle-academy/last-word@v0.20.1
 - pkg:composer/particle-academy/last-word@v0.3.0
 - pkg:composer/particle-academy/last-word@v0.4.0
 - pkg:composer/particle-academy/last-word@v0.4.1
@@ -9,3 +22,5 @@
 - pkg:composer/particle-academy/last-word@v0.6.2
 - pkg:composer/particle-academy/last-word@v0.6.3
 - pkg:composer/particle-academy/last-word@v0.7.0
+- pkg:composer/particle-academy/last-word@v0.8.0
+- pkg:composer/particle-academy/last-word@v0.9.0
