@@ -59,6 +59,9 @@
 - pkg:composer/netresearch/nr-mcp-agent@v0.30.1
 - pkg:composer/netresearch/nr-mcp-agent@v0.30.2
 - pkg:composer/netresearch/nr-mcp-agent@v0.30.3
+- pkg:composer/netresearch/nr-mcp-agent@v0.31.0
+- pkg:composer/netresearch/nr-mcp-agent@v0.31.1
+- pkg:composer/netresearch/nr-mcp-agent@v0.31.2
 - pkg:composer/netresearch/nr-mcp-agent@v0.4.0
 - pkg:composer/netresearch/nr-mcp-agent@v0.4.1
 - pkg:composer/netresearch/nr-mcp-agent@v0.5.0
