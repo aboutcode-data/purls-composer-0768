@@ -1,3 +1,4 @@
 - pkg:composer/php-io-extensions/epoll@v0.10.0
 - pkg:composer/php-io-extensions/epoll@v0.10.5
 - pkg:composer/php-io-extensions/epoll@v0.10.6
+- pkg:composer/php-io-extensions/epoll@v0.11.0
