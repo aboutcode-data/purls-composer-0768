@@ -9,3 +9,5 @@
 - pkg:composer/phalapi/cli@v3.2.0
 - pkg:composer/phalapi/cli@v3.3.0
 - pkg:composer/phalapi/cli@v3.4.0
+- pkg:composer/phalapi/cli@v8.0.0
+- pkg:composer/phalapi/cli@v8.0.1
