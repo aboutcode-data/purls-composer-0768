@@ -28,3 +28,6 @@
 - pkg:composer/petrknap/optional@v3.5.0
 - pkg:composer/petrknap/optional@v3.5.1
 - pkg:composer/petrknap/optional@v3.5.2
+- pkg:composer/petrknap/optional@v4.0.0-rc1
+- pkg:composer/petrknap/optional@v4.0.0-rc2
+- pkg:composer/petrknap/optional@v4.0.0-rc3
