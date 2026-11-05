@@ -28,3 +28,5 @@
 - pkg:composer/ousaa/utils@v1.0.9
 - pkg:composer/ousaa/utils@v2.0.0
 - pkg:composer/ousaa/utils@v2.0.1
+- pkg:composer/ousaa/utils@v2.0.2
+- pkg:composer/ousaa/utils@v3.0.1
