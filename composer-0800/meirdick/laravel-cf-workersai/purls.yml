@@ -11,3 +11,6 @@
 - pkg:composer/meirdick/laravel-cf-workersai@v0.8.2
 - pkg:composer/meirdick/laravel-cf-workersai@v1.0.0
 - pkg:composer/meirdick/laravel-cf-workersai@v1.0.1
+- pkg:composer/meirdick/laravel-cf-workersai@v1.1.0
+- pkg:composer/meirdick/laravel-cf-workersai@v1.2.0
+- pkg:composer/meirdick/laravel-cf-workersai@v1.3.0
