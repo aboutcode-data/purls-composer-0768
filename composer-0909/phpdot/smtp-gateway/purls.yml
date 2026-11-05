@@ -1,0 +1,2 @@
+- pkg:composer/phpdot/smtp-gateway@v0.5.3
+- pkg:composer/phpdot/smtp-gateway@v0.6.0

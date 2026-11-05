@@ -1,1 +1,2 @@
-- pkg:composer/phpdot/imap@v1.0.0
+- pkg:composer/phpdot/imap@v0.5.3
+- pkg:composer/phpdot/imap@v0.6.0
