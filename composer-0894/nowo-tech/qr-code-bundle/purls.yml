@@ -1,5 +1,8 @@
 - pkg:composer/nowo-tech/qr-code-bundle@v1.0.0
 - pkg:composer/nowo-tech/qr-code-bundle@v1.1.0
+- pkg:composer/nowo-tech/qr-code-bundle@v1.10.0
+- pkg:composer/nowo-tech/qr-code-bundle@v1.11.0
+- pkg:composer/nowo-tech/qr-code-bundle@v1.11.1
 - pkg:composer/nowo-tech/qr-code-bundle@v1.2.0
 - pkg:composer/nowo-tech/qr-code-bundle@v1.3.0
 - pkg:composer/nowo-tech/qr-code-bundle@v1.4.0
@@ -18,3 +21,8 @@
 - pkg:composer/nowo-tech/qr-code-bundle@v1.6.0
 - pkg:composer/nowo-tech/qr-code-bundle@v1.7.0
 - pkg:composer/nowo-tech/qr-code-bundle@v1.7.1
+- pkg:composer/nowo-tech/qr-code-bundle@v1.7.2
+- pkg:composer/nowo-tech/qr-code-bundle@v1.8.0
+- pkg:composer/nowo-tech/qr-code-bundle@v1.8.1
+- pkg:composer/nowo-tech/qr-code-bundle@v1.9.0
+- pkg:composer/nowo-tech/qr-code-bundle@v1.9.1
