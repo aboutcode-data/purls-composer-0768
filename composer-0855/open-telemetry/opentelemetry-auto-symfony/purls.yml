@@ -33,3 +33,8 @@
 - pkg:composer/open-telemetry/opentelemetry-auto-symfony@1.4.0
 - pkg:composer/open-telemetry/opentelemetry-auto-symfony@1.5.0
 - pkg:composer/open-telemetry/opentelemetry-auto-symfony@1.5.1
+- pkg:composer/open-telemetry/opentelemetry-auto-symfony@1.5.2
+- pkg:composer/open-telemetry/opentelemetry-auto-symfony@1.6.0
+- pkg:composer/open-telemetry/opentelemetry-auto-symfony@1.6.1
+- pkg:composer/open-telemetry/opentelemetry-auto-symfony@1.6.2
+- pkg:composer/open-telemetry/opentelemetry-auto-symfony@1.7.0
