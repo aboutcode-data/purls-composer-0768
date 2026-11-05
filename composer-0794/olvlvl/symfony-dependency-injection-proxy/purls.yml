@@ -8,3 +8,5 @@
 - pkg:composer/olvlvl/symfony-dependency-injection-proxy@v4.0.0
 - pkg:composer/olvlvl/symfony-dependency-injection-proxy@v4.0.1
 - pkg:composer/olvlvl/symfony-dependency-injection-proxy@v5.0.0
+- pkg:composer/olvlvl/symfony-dependency-injection-proxy@v6.0.0
+- pkg:composer/olvlvl/symfony-dependency-injection-proxy@v8.0.0
