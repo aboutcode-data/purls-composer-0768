@@ -11,3 +11,4 @@
 - pkg:composer/oafasys/dblookup@0.3.6
 - pkg:composer/oafasys/dblookup@1.0.0
 - pkg:composer/oafasys/dblookup@1.1.0
+- pkg:composer/oafasys/dblookup@v2.0.0-beta.1
