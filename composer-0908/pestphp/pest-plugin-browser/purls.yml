@@ -13,3 +13,4 @@
 - pkg:composer/pestphp/pest-plugin-browser@v5.1.0
 - pkg:composer/pestphp/pest-plugin-browser@v5.1.1
 - pkg:composer/pestphp/pest-plugin-browser@v5.1.2
+- pkg:composer/pestphp/pest-plugin-browser@v5.2.0
