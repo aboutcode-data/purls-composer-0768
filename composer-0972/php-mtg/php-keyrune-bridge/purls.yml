@@ -69,6 +69,7 @@
 - pkg:composer/php-mtg/php-keyrune-bridge@8.1.9
 - pkg:composer/php-mtg/php-keyrune-bridge@9.0.0
 - pkg:composer/php-mtg/php-keyrune-bridge@9.0.1
+- pkg:composer/php-mtg/php-keyrune-bridge@9.0.10
 - pkg:composer/php-mtg/php-keyrune-bridge@9.0.2
 - pkg:composer/php-mtg/php-keyrune-bridge@9.0.3
 - pkg:composer/php-mtg/php-keyrune-bridge@9.0.4
