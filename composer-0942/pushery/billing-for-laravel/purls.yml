@@ -42,7 +42,17 @@
 - pkg:composer/pushery/billing-for-laravel@v0.42.1
 - pkg:composer/pushery/billing-for-laravel@v0.43.0
 - pkg:composer/pushery/billing-for-laravel@v0.44.0
+- pkg:composer/pushery/billing-for-laravel@v0.45.0
+- pkg:composer/pushery/billing-for-laravel@v0.46.0
+- pkg:composer/pushery/billing-for-laravel@v0.47.0
+- pkg:composer/pushery/billing-for-laravel@v0.48.0
+- pkg:composer/pushery/billing-for-laravel@v0.49.0
 - pkg:composer/pushery/billing-for-laravel@v0.5.0
+- pkg:composer/pushery/billing-for-laravel@v0.50.0
+- pkg:composer/pushery/billing-for-laravel@v0.51.0
+- pkg:composer/pushery/billing-for-laravel@v0.52.0
+- pkg:composer/pushery/billing-for-laravel@v0.53.0
+- pkg:composer/pushery/billing-for-laravel@v0.54.0
 - pkg:composer/pushery/billing-for-laravel@v0.6.0
 - pkg:composer/pushery/billing-for-laravel@v0.7.0
 - pkg:composer/pushery/billing-for-laravel@v0.8.0
