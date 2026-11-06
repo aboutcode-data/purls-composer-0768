@@ -38,3 +38,5 @@
 - pkg:composer/paliari/php-utils@1.2.3
 - pkg:composer/paliari/php-utils@2.0.0
 - pkg:composer/paliari/php-utils@2.0.1
+- pkg:composer/paliari/php-utils@2.0.2
+- pkg:composer/paliari/php-utils@3.0.0
