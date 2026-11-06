@@ -159,3 +159,4 @@
 - pkg:composer/popphp/pop-db@7.0.8
 - pkg:composer/popphp/pop-db@7.0.9
 - pkg:composer/popphp/pop-db@7.1.0
+- pkg:composer/popphp/pop-db@7.1.1
