@@ -95,3 +95,4 @@
 - pkg:composer/miropen/mir-php@v0.88.0
 - pkg:composer/miropen/mir-php@v0.89.0
 - pkg:composer/miropen/mir-php@v0.90.0
+- pkg:composer/miropen/mir-php@v0.91.0
