@@ -2,3 +2,4 @@
 - pkg:composer/programster/orm-generator@1.0.0
 - pkg:composer/programster/orm-generator@1.1.0
 - pkg:composer/programster/orm-generator@1.1.1
+- pkg:composer/programster/orm-generator@2.0.0
