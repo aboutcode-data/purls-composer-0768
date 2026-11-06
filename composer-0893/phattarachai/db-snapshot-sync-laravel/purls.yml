@@ -13,3 +13,4 @@
 - pkg:composer/phattarachai/db-snapshot-sync-laravel@v1.3.0
 - pkg:composer/phattarachai/db-snapshot-sync-laravel@v1.4.0
 - pkg:composer/phattarachai/db-snapshot-sync-laravel@v1.5.0
+- pkg:composer/phattarachai/db-snapshot-sync-laravel@v1.5.1
