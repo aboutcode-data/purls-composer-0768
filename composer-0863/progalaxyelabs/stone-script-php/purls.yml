@@ -2,6 +2,13 @@
 - pkg:composer/progalaxyelabs/stone-script-php@11.0.0
 - pkg:composer/progalaxyelabs/stone-script-php@12.0.1
 - pkg:composer/progalaxyelabs/stone-script-php@12.1.0
+- pkg:composer/progalaxyelabs/stone-script-php@12.2.0
+- pkg:composer/progalaxyelabs/stone-script-php@13.0.0
+- pkg:composer/progalaxyelabs/stone-script-php@13.1.0
+- pkg:composer/progalaxyelabs/stone-script-php@13.2.0
+- pkg:composer/progalaxyelabs/stone-script-php@13.2.1
+- pkg:composer/progalaxyelabs/stone-script-php@14.0.0
+- pkg:composer/progalaxyelabs/stone-script-php@14.0.1
 - pkg:composer/progalaxyelabs/stone-script-php@4.0.0
 - pkg:composer/progalaxyelabs/stone-script-php@4.0.1
 - pkg:composer/progalaxyelabs/stone-script-php@4.0.2
