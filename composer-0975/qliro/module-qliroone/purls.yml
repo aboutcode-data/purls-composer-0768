@@ -38,3 +38,6 @@
 - pkg:composer/qliro/module-qliroone@1.7.8
 - pkg:composer/qliro/module-qliroone@1.7.9
 - pkg:composer/qliro/module-qliroone@1.8.0
+- pkg:composer/qliro/module-qliroone@1.8.12
+- pkg:composer/qliro/module-qliroone@1.8.20
+- pkg:composer/qliro/module-qliroone@1.8.39
