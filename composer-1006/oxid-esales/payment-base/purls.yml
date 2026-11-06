@@ -8,3 +8,4 @@
 - pkg:composer/oxid-esales/payment-base@v1.3.0
 - pkg:composer/oxid-esales/payment-base@v1.5.0
 - pkg:composer/oxid-esales/payment-base@v1.7.0
+- pkg:composer/oxid-esales/payment-base@v1.7.1
