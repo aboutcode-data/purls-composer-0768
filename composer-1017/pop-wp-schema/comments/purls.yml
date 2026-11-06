@@ -124,6 +124,7 @@
 - pkg:composer/pop-wp-schema/comments@2.5.2
 - pkg:composer/pop-wp-schema/comments@2.6.0
 - pkg:composer/pop-wp-schema/comments@2.6.1
+- pkg:composer/pop-wp-schema/comments@20.0.0
 - pkg:composer/pop-wp-schema/comments@3.0.0
 - pkg:composer/pop-wp-schema/comments@4.0.0
 - pkg:composer/pop-wp-schema/comments@4.0.1

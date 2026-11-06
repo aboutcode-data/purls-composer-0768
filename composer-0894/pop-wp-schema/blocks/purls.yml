@@ -109,6 +109,7 @@
 - pkg:composer/pop-wp-schema/blocks@2.5.2
 - pkg:composer/pop-wp-schema/blocks@2.6.0
 - pkg:composer/pop-wp-schema/blocks@2.6.1
+- pkg:composer/pop-wp-schema/blocks@20.0.0
 - pkg:composer/pop-wp-schema/blocks@3.0.0
 - pkg:composer/pop-wp-schema/blocks@4.0.0
 - pkg:composer/pop-wp-schema/blocks@4.0.1
