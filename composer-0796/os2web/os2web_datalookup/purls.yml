@@ -43,3 +43,4 @@
 - pkg:composer/os2web/os2web_datalookup@3.4.1
 - pkg:composer/os2web/os2web_datalookup@3.4.2
 - pkg:composer/os2web/os2web_datalookup@3.5.0
+- pkg:composer/os2web/os2web_datalookup@3.6.0
