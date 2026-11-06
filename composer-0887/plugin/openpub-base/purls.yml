@@ -106,3 +106,4 @@
 - pkg:composer/plugin/openpub-base@v3.9.2
 - pkg:composer/plugin/openpub-base@v3.9.3
 - pkg:composer/plugin/openpub-base@v3.9.4
+- pkg:composer/plugin/openpub-base@v3.9.5
