@@ -31,3 +31,4 @@
 - pkg:composer/printed/rabbitmq-queue-bundle@5.3.0
 - pkg:composer/printed/rabbitmq-queue-bundle@5.3.1
 - pkg:composer/printed/rabbitmq-queue-bundle@5.3.2
+- pkg:composer/printed/rabbitmq-queue-bundle@6.1.1
