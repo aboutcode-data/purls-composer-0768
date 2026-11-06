@@ -138,6 +138,7 @@
 - pkg:composer/pop-schema/taxonomies@2.5.2
 - pkg:composer/pop-schema/taxonomies@2.6.0
 - pkg:composer/pop-schema/taxonomies@2.6.1
+- pkg:composer/pop-schema/taxonomies@20.0.0
 - pkg:composer/pop-schema/taxonomies@3.0.0
 - pkg:composer/pop-schema/taxonomies@4.0.0
 - pkg:composer/pop-schema/taxonomies@4.0.1

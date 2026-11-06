@@ -138,6 +138,7 @@
 - pkg:composer/pop-schema/pages-wp@2.5.2
 - pkg:composer/pop-schema/pages-wp@2.6.0
 - pkg:composer/pop-schema/pages-wp@2.6.1
+- pkg:composer/pop-schema/pages-wp@20.0.0
 - pkg:composer/pop-schema/pages-wp@3.0.0
 - pkg:composer/pop-schema/pages-wp@4.0.0
 - pkg:composer/pop-schema/pages-wp@4.0.1
