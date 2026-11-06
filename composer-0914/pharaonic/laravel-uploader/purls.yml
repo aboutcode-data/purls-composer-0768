@@ -5,6 +5,7 @@
 - pkg:composer/pharaonic/laravel-uploader@11.0.0
 - pkg:composer/pharaonic/laravel-uploader@12.0.0
 - pkg:composer/pharaonic/laravel-uploader@13.0.0
+- pkg:composer/pharaonic/laravel-uploader@13.1.0
 - pkg:composer/pharaonic/laravel-uploader@2.0.0
 - pkg:composer/pharaonic/laravel-uploader@2.1.0
 - pkg:composer/pharaonic/laravel-uploader@2.1.1
