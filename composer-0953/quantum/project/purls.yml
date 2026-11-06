@@ -29,3 +29,5 @@
 - pkg:composer/quantum/project@2.9.9
 - pkg:composer/quantum/project@3.0.0
 - pkg:composer/quantum/project@3.0.3
+- pkg:composer/quantum/project@3.1.0
+- pkg:composer/quantum/project@3.1.1

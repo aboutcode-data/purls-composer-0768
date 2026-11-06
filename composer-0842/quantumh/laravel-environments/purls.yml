@@ -6,3 +6,4 @@
 - pkg:composer/quantumh/laravel-environments@v1.6
 - pkg:composer/quantumh/laravel-environments@v1.7
 - pkg:composer/quantumh/laravel-environments@v2.0
+- pkg:composer/quantumh/laravel-environments@v2.1
