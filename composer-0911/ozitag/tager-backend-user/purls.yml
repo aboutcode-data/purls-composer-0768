@@ -35,3 +35,6 @@
 - pkg:composer/ozitag/tager-backend-user@1.2.1
 - pkg:composer/ozitag/tager-backend-user@1.2.2
 - pkg:composer/ozitag/tager-backend-user@1.2.3
+- pkg:composer/ozitag/tager-backend-user@2.0.0
+- pkg:composer/ozitag/tager-backend-user@2.0.1
+- pkg:composer/ozitag/tager-backend-user@2.0.2

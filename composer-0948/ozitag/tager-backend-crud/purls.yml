@@ -92,3 +92,6 @@
 - pkg:composer/ozitag/tager-backend-crud@1.7.7
 - pkg:composer/ozitag/tager-backend-crud@1.7.8
 - pkg:composer/ozitag/tager-backend-crud@1.7.9
+- pkg:composer/ozitag/tager-backend-crud@2.0.0
+- pkg:composer/ozitag/tager-backend-crud@2.0.1
+- pkg:composer/ozitag/tager-backend-crud@2.1.0
