@@ -130,6 +130,7 @@
 - pkg:composer/pop-schema/custompost-category-mutations@2.5.2
 - pkg:composer/pop-schema/custompost-category-mutations@2.6.0
 - pkg:composer/pop-schema/custompost-category-mutations@2.6.1
+- pkg:composer/pop-schema/custompost-category-mutations@20.0.0
 - pkg:composer/pop-schema/custompost-category-mutations@3.0.0
 - pkg:composer/pop-schema/custompost-category-mutations@4.0.0
 - pkg:composer/pop-schema/custompost-category-mutations@4.0.1

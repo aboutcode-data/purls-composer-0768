@@ -138,6 +138,7 @@
 - pkg:composer/pop-cms-schema/custompostmedia@2.5.2
 - pkg:composer/pop-cms-schema/custompostmedia@2.6.0
 - pkg:composer/pop-cms-schema/custompostmedia@2.6.1
+- pkg:composer/pop-cms-schema/custompostmedia@20.0.0
 - pkg:composer/pop-cms-schema/custompostmedia@3.0.0
 - pkg:composer/pop-cms-schema/custompostmedia@4.0.0
 - pkg:composer/pop-cms-schema/custompostmedia@4.0.1
