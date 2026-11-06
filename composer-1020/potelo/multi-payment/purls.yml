@@ -28,3 +28,5 @@
 - pkg:composer/potelo/multi-payment@v4.0.0
 - pkg:composer/potelo/multi-payment@v4.0.1
 - pkg:composer/potelo/multi-payment@v4.1.0
+- pkg:composer/potelo/multi-payment@v4.2.0
+- pkg:composer/potelo/multi-payment@v4.2.1
