@@ -38,6 +38,7 @@
 - pkg:composer/open-telemetry/api@1.1.2
 - pkg:composer/open-telemetry/api@1.10.0
 - pkg:composer/open-telemetry/api@1.10.1
+- pkg:composer/open-telemetry/api@1.11.0
 - pkg:composer/open-telemetry/api@1.2.0
 - pkg:composer/open-telemetry/api@1.2.1
 - pkg:composer/open-telemetry/api@1.2.2
