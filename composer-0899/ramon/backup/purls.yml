@@ -24,3 +24,5 @@
 - pkg:composer/ramon/backup@v2.0.23
 - pkg:composer/ramon/backup@v2.0.24
 - pkg:composer/ramon/backup@v2.0.25
+- pkg:composer/ramon/backup@v2.1.0
+- pkg:composer/ramon/backup@v2.1.1
