@@ -16,8 +16,13 @@
 - pkg:composer/provemark/content-credentials@v0.19.0
 - pkg:composer/provemark/content-credentials@v0.19.1
 - pkg:composer/provemark/content-credentials@v0.19.2
+- pkg:composer/provemark/content-credentials@v0.19.3
+- pkg:composer/provemark/content-credentials@v0.19.4
+- pkg:composer/provemark/content-credentials@v0.19.5
+- pkg:composer/provemark/content-credentials@v0.19.6
 - pkg:composer/provemark/content-credentials@v0.2.0
 - pkg:composer/provemark/content-credentials@v0.2.1
+- pkg:composer/provemark/content-credentials@v0.20.0
 - pkg:composer/provemark/content-credentials@v0.3.0
 - pkg:composer/provemark/content-credentials@v0.4.0
 - pkg:composer/provemark/content-credentials@v0.4.1
