@@ -223,3 +223,4 @@
 - pkg:composer/plotly/plotly.js@v4.1.0
 - pkg:composer/plotly/plotly.js@v4.1.1
 - pkg:composer/plotly/plotly.js@v4.1.2
+- pkg:composer/plotly/plotly.js@v4.2.0
