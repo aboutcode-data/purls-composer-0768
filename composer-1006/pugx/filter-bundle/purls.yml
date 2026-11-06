@@ -31,3 +31,4 @@
 - pkg:composer/pugx/filter-bundle@v1.6.0
 - pkg:composer/pugx/filter-bundle@v1.7.0
 - pkg:composer/pugx/filter-bundle@v1.7.1
+- pkg:composer/pugx/filter-bundle@v1.8.0
