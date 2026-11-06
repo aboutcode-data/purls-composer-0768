@@ -198,3 +198,4 @@
 - pkg:composer/outeredge/edge-magento-module-base@5.5.0
 - pkg:composer/outeredge/edge-magento-module-base@5.5.1
 - pkg:composer/outeredge/edge-magento-module-base@5.6.0
+- pkg:composer/outeredge/edge-magento-module-base@5.6.1
