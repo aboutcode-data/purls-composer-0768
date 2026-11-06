@@ -35,3 +35,9 @@
 - pkg:composer/ozitag/tager-backend-auth@1.6.5
 - pkg:composer/ozitag/tager-backend-auth@1.7
 - pkg:composer/ozitag/tager-backend-auth@1.8
+- pkg:composer/ozitag/tager-backend-auth@2.0.0
+- pkg:composer/ozitag/tager-backend-auth@2.0.1
+- pkg:composer/ozitag/tager-backend-auth@2.0.2
+- pkg:composer/ozitag/tager-backend-auth@2.0.3
+- pkg:composer/ozitag/tager-backend-auth@2.0.4
+- pkg:composer/ozitag/tager-backend-auth@2.0.5
