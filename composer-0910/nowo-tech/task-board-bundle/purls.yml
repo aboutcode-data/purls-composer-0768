@@ -41,6 +41,9 @@
 - pkg:composer/nowo-tech/task-board-bundle@v1.26.0
 - pkg:composer/nowo-tech/task-board-bundle@v1.26.1
 - pkg:composer/nowo-tech/task-board-bundle@v1.26.2
+- pkg:composer/nowo-tech/task-board-bundle@v1.26.3
+- pkg:composer/nowo-tech/task-board-bundle@v1.27.0
+- pkg:composer/nowo-tech/task-board-bundle@v1.28.0
 - pkg:composer/nowo-tech/task-board-bundle@v1.3.0
 - pkg:composer/nowo-tech/task-board-bundle@v1.3.1
 - pkg:composer/nowo-tech/task-board-bundle@v1.4.0
