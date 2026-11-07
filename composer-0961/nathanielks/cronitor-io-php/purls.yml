@@ -21,3 +21,5 @@
 - pkg:composer/nathanielks/cronitor-io-php@1.3.1
 - pkg:composer/nathanielks/cronitor-io-php@1.3.2
 - pkg:composer/nathanielks/cronitor-io-php@1.3.3
+- pkg:composer/nathanielks/cronitor-io-php@1.3.4
+- pkg:composer/nathanielks/cronitor-io-php@1.4.0
