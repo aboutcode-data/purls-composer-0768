@@ -10,3 +10,4 @@
 - pkg:composer/opscale-co/nova-authorization@1.2.0
 - pkg:composer/opscale-co/nova-authorization@1.2.1
 - pkg:composer/opscale-co/nova-authorization@1.2.2
+- pkg:composer/opscale-co/nova-authorization@2.0.0
