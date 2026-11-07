@@ -1,2 +1,4 @@
 - pkg:composer/rohama/koin-idpay@2.1.1
 - pkg:composer/rohama/koin-idpay@2.2.0
+- pkg:composer/rohama/koin-idpay@2.2.1
+- pkg:composer/rohama/koin-idpay@2.3.0
