@@ -24,3 +24,6 @@
 - pkg:composer/reacon-io/sdk@v2.0.9-beta.1
 - pkg:composer/reacon-io/sdk@v3.0.0-beta.1
 - pkg:composer/reacon-io/sdk@v4.0.0-beta.1
+- pkg:composer/reacon-io/sdk@v6.0.0-beta.1
+- pkg:composer/reacon-io/sdk@v6.0.1-beta.1
+- pkg:composer/reacon-io/sdk@v6.0.2-beta.1
