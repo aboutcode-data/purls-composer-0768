@@ -6,3 +6,4 @@
 - pkg:composer/open-telemetry/ext-opentelemetry@1.4.0
 - pkg:composer/open-telemetry/ext-opentelemetry@1.4.1
 - pkg:composer/open-telemetry/ext-opentelemetry@1.4.2
+- pkg:composer/open-telemetry/ext-opentelemetry@1.5.0
