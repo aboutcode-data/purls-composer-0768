@@ -16,3 +16,4 @@
 - pkg:composer/phpunit/phpunit-dom-assertions@v3.6.0
 - pkg:composer/phpunit/phpunit-dom-assertions@v3.7.0
 - pkg:composer/phpunit/phpunit-dom-assertions@v3.8.0
+- pkg:composer/phpunit/phpunit-dom-assertions@v3.9.0
