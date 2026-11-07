@@ -20,3 +20,4 @@
 - pkg:composer/phpmussel/web@v3.5.3
 - pkg:composer/phpmussel/web@v3.6.0
 - pkg:composer/phpmussel/web@v3.6.1
+- pkg:composer/phpmussel/web@v3.6.2
