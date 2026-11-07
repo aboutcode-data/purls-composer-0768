@@ -1,3 +1,4 @@
 - pkg:composer/rem42/scraper-tmdb@v0.1
 - pkg:composer/rem42/scraper-tmdb@v0.2
 - pkg:composer/rem42/scraper-tmdb@v1.0
+- pkg:composer/rem42/scraper-tmdb@v2.0.0
