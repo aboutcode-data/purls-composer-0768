@@ -53,6 +53,7 @@
 - pkg:composer/pushery/matomo-analytics-for-laravel@v0.39.0
 - pkg:composer/pushery/matomo-analytics-for-laravel@v0.4.0
 - pkg:composer/pushery/matomo-analytics-for-laravel@v0.40.0
+- pkg:composer/pushery/matomo-analytics-for-laravel@v0.41.0
 - pkg:composer/pushery/matomo-analytics-for-laravel@v0.5.0
 - pkg:composer/pushery/matomo-analytics-for-laravel@v0.6.0
 - pkg:composer/pushery/matomo-analytics-for-laravel@v0.7.0
