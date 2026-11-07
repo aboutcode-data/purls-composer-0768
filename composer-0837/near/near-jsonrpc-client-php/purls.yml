@@ -6,3 +6,4 @@
 - pkg:composer/near/near-jsonrpc-client-php@v0.1.5
 - pkg:composer/near/near-jsonrpc-client-php@v0.1.6
 - pkg:composer/near/near-jsonrpc-client-php@v0.1.7
+- pkg:composer/near/near-jsonrpc-client-php@v0.1.8
