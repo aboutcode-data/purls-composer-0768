@@ -37,3 +37,4 @@
 - pkg:composer/ns/filtered-pagination-bundle@4.2.3
 - pkg:composer/ns/filtered-pagination-bundle@4.3.0
 - pkg:composer/ns/filtered-pagination-bundle@5.0.0
+- pkg:composer/ns/filtered-pagination-bundle@6.0.0
