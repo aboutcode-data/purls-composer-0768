@@ -3,3 +3,4 @@
 - pkg:composer/php-io-extensions/glfw@0.7.1
 - pkg:composer/php-io-extensions/glfw@v0.10.0
 - pkg:composer/php-io-extensions/glfw@v0.11.0
+- pkg:composer/php-io-extensions/glfw@v0.11.1
