@@ -5,7 +5,12 @@
 - pkg:composer/rondodevs/craft-toolkit@v0.0.13
 - pkg:composer/rondodevs/craft-toolkit@v0.0.14
 - pkg:composer/rondodevs/craft-toolkit@v0.0.15
+- pkg:composer/rondodevs/craft-toolkit@v0.0.16
+- pkg:composer/rondodevs/craft-toolkit@v0.0.17
+- pkg:composer/rondodevs/craft-toolkit@v0.0.18
+- pkg:composer/rondodevs/craft-toolkit@v0.0.19
 - pkg:composer/rondodevs/craft-toolkit@v0.0.2
+- pkg:composer/rondodevs/craft-toolkit@v0.0.20
 - pkg:composer/rondodevs/craft-toolkit@v0.0.3
 - pkg:composer/rondodevs/craft-toolkit@v0.0.4
 - pkg:composer/rondodevs/craft-toolkit@v0.0.5
@@ -13,3 +18,14 @@
 - pkg:composer/rondodevs/craft-toolkit@v0.0.7
 - pkg:composer/rondodevs/craft-toolkit@v0.0.8
 - pkg:composer/rondodevs/craft-toolkit@v0.0.9
+- pkg:composer/rondodevs/craft-toolkit@v1.0.0
+- pkg:composer/rondodevs/craft-toolkit@v1.1.0
+- pkg:composer/rondodevs/craft-toolkit@v1.2.0
+- pkg:composer/rondodevs/craft-toolkit@v1.2.1
+- pkg:composer/rondodevs/craft-toolkit@v1.2.2
+- pkg:composer/rondodevs/craft-toolkit@v1.3.0
+- pkg:composer/rondodevs/craft-toolkit@v1.4.0
+- pkg:composer/rondodevs/craft-toolkit@v1.5.0
+- pkg:composer/rondodevs/craft-toolkit@v1.6.0
+- pkg:composer/rondodevs/craft-toolkit@v1.7.0
+- pkg:composer/rondodevs/craft-toolkit@v1.8.0
