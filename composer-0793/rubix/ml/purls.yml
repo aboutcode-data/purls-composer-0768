@@ -99,3 +99,6 @@
 - pkg:composer/rubix/ml@3.0.0-rc5
 - pkg:composer/rubix/ml@3.1.0
 - pkg:composer/rubix/ml@3.2.0
+- pkg:composer/rubix/ml@3.2.1
+- pkg:composer/rubix/ml@3.2.2
+- pkg:composer/rubix/ml@3.3.0
