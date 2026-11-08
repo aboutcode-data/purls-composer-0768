@@ -9,3 +9,5 @@
 - pkg:composer/softcreatr/php-openai-sdk@4.0.1
 - pkg:composer/softcreatr/php-openai-sdk@4.0.2
 - pkg:composer/softcreatr/php-openai-sdk@4.1.0
+- pkg:composer/softcreatr/php-openai-sdk@v4.2.0
+- pkg:composer/softcreatr/php-openai-sdk@v4.3.0
