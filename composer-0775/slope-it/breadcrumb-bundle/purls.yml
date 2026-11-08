@@ -20,3 +20,4 @@
 - pkg:composer/slope-it/breadcrumb-bundle@2.1.0
 - pkg:composer/slope-it/breadcrumb-bundle@2.1.1
 - pkg:composer/slope-it/breadcrumb-bundle@2.1.2
+- pkg:composer/slope-it/breadcrumb-bundle@3.0.0
