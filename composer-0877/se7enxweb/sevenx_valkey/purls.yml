@@ -1,3 +1,4 @@
 - pkg:composer/se7enxweb/sevenx_valkey@v1.0.0
 - pkg:composer/se7enxweb/sevenx_valkey@v1.0.1
 - pkg:composer/se7enxweb/sevenx_valkey@v1.0.2
+- pkg:composer/se7enxweb/sevenx_valkey@v1.0.3
