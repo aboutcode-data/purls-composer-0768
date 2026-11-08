@@ -1,1 +1,3 @@
 - pkg:composer/rosgear/rg-be-recovery@v1.0
+- pkg:composer/rosgear/rg-be-recovery@v1.0.1
+- pkg:composer/rosgear/rg-be-recovery@v1.0.2
