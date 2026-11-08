@@ -7,3 +7,4 @@
 - pkg:composer/small/swoole-entity-manager-bundle@1.0.4
 - pkg:composer/small/swoole-entity-manager-bundle@1.1.0
 - pkg:composer/small/swoole-entity-manager-bundle@1.1.1
+- pkg:composer/small/swoole-entity-manager-bundle@3.0.0
