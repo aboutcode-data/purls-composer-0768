@@ -24,3 +24,4 @@
 - pkg:composer/slub/slub-digitalcollections@v5.0.1
 - pkg:composer/slub/slub-digitalcollections@v6.0.0
 - pkg:composer/slub/slub-digitalcollections@v7.0.0
+- pkg:composer/slub/slub-digitalcollections@v7.1.0
