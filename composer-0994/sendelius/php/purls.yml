@@ -19,3 +19,6 @@
 - pkg:composer/sendelius/php@v0.6.4
 - pkg:composer/sendelius/php@v0.7.0
 - pkg:composer/sendelius/php@v0.7.1
+- pkg:composer/sendelius/php@v0.7.2
+- pkg:composer/sendelius/php@v0.7.3
+- pkg:composer/sendelius/php@v0.7.4
