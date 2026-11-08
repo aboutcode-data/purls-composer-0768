@@ -27,6 +27,9 @@
 - pkg:composer/simovative/zeus@17.0.0
 - pkg:composer/simovative/zeus@17.0.1
 - pkg:composer/simovative/zeus@17.1.0
+- pkg:composer/simovative/zeus@18.0.1
+- pkg:composer/simovative/zeus@18.0.2
+- pkg:composer/simovative/zeus@18.1.0
 - pkg:composer/simovative/zeus@2.0.0
 - pkg:composer/simovative/zeus@2.0.1
 - pkg:composer/simovative/zeus@2.1.0
