@@ -16,3 +16,4 @@
 - pkg:composer/simsoft/http-client@3.0.0
 - pkg:composer/simsoft/http-client@4.0.0
 - pkg:composer/simsoft/http-client@5.0.0
+- pkg:composer/simsoft/http-client@5.0.1
