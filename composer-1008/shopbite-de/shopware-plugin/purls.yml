@@ -1,6 +1,7 @@
 - pkg:composer/shopbite-de/shopware-plugin@v1.0.0
 - pkg:composer/shopbite-de/shopware-plugin@v1.0.1
 - pkg:composer/shopbite-de/shopware-plugin@v1.1.0
+- pkg:composer/shopbite-de/shopware-plugin@v1.10.0
 - pkg:composer/shopbite-de/shopware-plugin@v1.2.0
 - pkg:composer/shopbite-de/shopware-plugin@v1.3.0
 - pkg:composer/shopbite-de/shopware-plugin@v1.4.0
@@ -15,3 +16,7 @@
 - pkg:composer/shopbite-de/shopware-plugin@v1.5.1
 - pkg:composer/shopbite-de/shopware-plugin@v1.6.0
 - pkg:composer/shopbite-de/shopware-plugin@v1.7.0
+- pkg:composer/shopbite-de/shopware-plugin@v1.7.1
+- pkg:composer/shopbite-de/shopware-plugin@v1.7.2
+- pkg:composer/shopbite-de/shopware-plugin@v1.8.0
+- pkg:composer/shopbite-de/shopware-plugin@v1.9.0
