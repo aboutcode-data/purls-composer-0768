@@ -25,3 +25,4 @@
 - pkg:composer/sblum/exception-enricher@v2.0.2
 - pkg:composer/sblum/exception-enricher@v2.1.0
 - pkg:composer/sblum/exception-enricher@v2.1.1
+- pkg:composer/sblum/exception-enricher@v2.2.0
