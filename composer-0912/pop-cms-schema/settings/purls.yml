@@ -131,6 +131,7 @@
 - pkg:composer/pop-cms-schema/settings@2.6.0
 - pkg:composer/pop-cms-schema/settings@2.6.1
 - pkg:composer/pop-cms-schema/settings@20.0.0
+- pkg:composer/pop-cms-schema/settings@20.0.1
 - pkg:composer/pop-cms-schema/settings@3.0.0
 - pkg:composer/pop-cms-schema/settings@4.0.0
 - pkg:composer/pop-cms-schema/settings@4.0.1

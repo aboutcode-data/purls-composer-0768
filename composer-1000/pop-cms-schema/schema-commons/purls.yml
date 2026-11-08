@@ -124,6 +124,7 @@
 - pkg:composer/pop-cms-schema/schema-commons@2.6.0
 - pkg:composer/pop-cms-schema/schema-commons@2.6.1
 - pkg:composer/pop-cms-schema/schema-commons@20.0.0
+- pkg:composer/pop-cms-schema/schema-commons@20.0.1
 - pkg:composer/pop-cms-schema/schema-commons@3.0.0
 - pkg:composer/pop-cms-schema/schema-commons@4.0.0
 - pkg:composer/pop-cms-schema/schema-commons@4.0.1

@@ -138,6 +138,7 @@
 - pkg:composer/pop-schema/comment-mutations-wp@2.6.0
 - pkg:composer/pop-schema/comment-mutations-wp@2.6.1
 - pkg:composer/pop-schema/comment-mutations-wp@20.0.0
+- pkg:composer/pop-schema/comment-mutations-wp@20.0.1
 - pkg:composer/pop-schema/comment-mutations-wp@3.0.0
 - pkg:composer/pop-schema/comment-mutations-wp@4.0.0
 - pkg:composer/pop-schema/comment-mutations-wp@4.0.1

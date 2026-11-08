@@ -140,6 +140,7 @@
 - pkg:composer/pop-schema/basic-directives@2.6.0
 - pkg:composer/pop-schema/basic-directives@2.6.1
 - pkg:composer/pop-schema/basic-directives@20.0.0
+- pkg:composer/pop-schema/basic-directives@20.0.1
 - pkg:composer/pop-schema/basic-directives@3.0.0
 - pkg:composer/pop-schema/basic-directives@4.0.0
 - pkg:composer/pop-schema/basic-directives@4.0.1

@@ -139,6 +139,7 @@
 - pkg:composer/pop-cms-schema/queriedobject@2.6.0
 - pkg:composer/pop-cms-schema/queriedobject@2.6.1
 - pkg:composer/pop-cms-schema/queriedobject@20.0.0
+- pkg:composer/pop-cms-schema/queriedobject@20.0.1
 - pkg:composer/pop-cms-schema/queriedobject@3.0.0
 - pkg:composer/pop-cms-schema/queriedobject@4.0.0
 - pkg:composer/pop-cms-schema/queriedobject@4.0.1

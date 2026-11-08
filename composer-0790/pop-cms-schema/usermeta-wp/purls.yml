@@ -139,6 +139,7 @@
 - pkg:composer/pop-cms-schema/usermeta-wp@2.6.0
 - pkg:composer/pop-cms-schema/usermeta-wp@2.6.1
 - pkg:composer/pop-cms-schema/usermeta-wp@20.0.0
+- pkg:composer/pop-cms-schema/usermeta-wp@20.0.1
 - pkg:composer/pop-cms-schema/usermeta-wp@3.0.0
 - pkg:composer/pop-cms-schema/usermeta-wp@4.0.0
 - pkg:composer/pop-cms-schema/usermeta-wp@4.0.1
