@@ -77,6 +77,7 @@
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v1.5.30
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v1.5.31
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v1.5.32
+- pkg:composer/se7enxweb/ezplatform-admin-ui@v1.5.34
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v1.5.4
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v1.5.5
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v1.5.6
@@ -159,6 +160,7 @@
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v2.3.41
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v2.3.42
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v2.3.43
+- pkg:composer/se7enxweb/ezplatform-admin-ui@v2.3.44
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v2.3.5
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v2.3.6
 - pkg:composer/se7enxweb/ezplatform-admin-ui@v2.3.7

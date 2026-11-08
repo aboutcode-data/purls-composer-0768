@@ -8,6 +8,7 @@
 - pkg:composer/se7enxweb/ezplatform-core@v1.0.6
 - pkg:composer/se7enxweb/ezplatform-core@v1.0.7
 - pkg:composer/se7enxweb/ezplatform-core@v1.0.8
+- pkg:composer/se7enxweb/ezplatform-core@v1.0.9
 - pkg:composer/se7enxweb/ezplatform-core@v2.0.0
 - pkg:composer/se7enxweb/ezplatform-core@v2.0.0-beta1
 - pkg:composer/se7enxweb/ezplatform-core@v2.0.0-beta2
