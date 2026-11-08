@@ -128,6 +128,7 @@
 - pkg:composer/softspring/cms-sylius-bundle@v5.5.11
 - pkg:composer/softspring/cms-sylius-bundle@v5.5.12
 - pkg:composer/softspring/cms-sylius-bundle@v5.5.13
+- pkg:composer/softspring/cms-sylius-bundle@v5.5.14
 - pkg:composer/softspring/cms-sylius-bundle@v5.5.2
 - pkg:composer/softspring/cms-sylius-bundle@v5.5.3
 - pkg:composer/softspring/cms-sylius-bundle@v5.5.4
@@ -136,3 +137,5 @@
 - pkg:composer/softspring/cms-sylius-bundle@v5.5.7
 - pkg:composer/softspring/cms-sylius-bundle@v5.5.8
 - pkg:composer/softspring/cms-sylius-bundle@v5.5.9
+- pkg:composer/softspring/cms-sylius-bundle@v5.6.0
+- pkg:composer/softspring/cms-sylius-bundle@v6.0.0-rc1
