@@ -138,6 +138,7 @@
 - pkg:composer/pop-schema/user-roles@2.6.0
 - pkg:composer/pop-schema/user-roles@2.6.1
 - pkg:composer/pop-schema/user-roles@20.0.0
+- pkg:composer/pop-schema/user-roles@20.0.1
 - pkg:composer/pop-schema/user-roles@3.0.0
 - pkg:composer/pop-schema/user-roles@4.0.0
 - pkg:composer/pop-schema/user-roles@4.0.1

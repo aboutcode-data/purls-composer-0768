@@ -139,6 +139,7 @@
 - pkg:composer/pop-schema/taxonomymeta@2.6.0
 - pkg:composer/pop-schema/taxonomymeta@2.6.1
 - pkg:composer/pop-schema/taxonomymeta@20.0.0
+- pkg:composer/pop-schema/taxonomymeta@20.0.1
 - pkg:composer/pop-schema/taxonomymeta@3.0.0
 - pkg:composer/pop-schema/taxonomymeta@4.0.0
 - pkg:composer/pop-schema/taxonomymeta@4.0.1

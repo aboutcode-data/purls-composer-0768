@@ -139,6 +139,7 @@
 - pkg:composer/pop-schema/taxonomies-wp@2.6.0
 - pkg:composer/pop-schema/taxonomies-wp@2.6.1
 - pkg:composer/pop-schema/taxonomies-wp@20.0.0
+- pkg:composer/pop-schema/taxonomies-wp@20.0.1
 - pkg:composer/pop-schema/taxonomies-wp@3.0.0
 - pkg:composer/pop-schema/taxonomies-wp@4.0.0
 - pkg:composer/pop-schema/taxonomies-wp@4.0.1

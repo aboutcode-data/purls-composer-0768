@@ -131,6 +131,7 @@
 - pkg:composer/pop-schema/post-categories@2.6.0
 - pkg:composer/pop-schema/post-categories@2.6.1
 - pkg:composer/pop-schema/post-categories@20.0.0
+- pkg:composer/pop-schema/post-categories@20.0.1
 - pkg:composer/pop-schema/post-categories@3.0.0
 - pkg:composer/pop-schema/post-categories@4.0.0
 - pkg:composer/pop-schema/post-categories@4.0.1

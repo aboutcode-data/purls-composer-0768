@@ -125,6 +125,7 @@
 - pkg:composer/pop-schema/postmedia-mutations@2.6.0
 - pkg:composer/pop-schema/postmedia-mutations@2.6.1
 - pkg:composer/pop-schema/postmedia-mutations@20.0.0
+- pkg:composer/pop-schema/postmedia-mutations@20.0.1
 - pkg:composer/pop-schema/postmedia-mutations@3.0.0
 - pkg:composer/pop-schema/postmedia-mutations@4.0.0
 - pkg:composer/pop-schema/postmedia-mutations@4.0.1
