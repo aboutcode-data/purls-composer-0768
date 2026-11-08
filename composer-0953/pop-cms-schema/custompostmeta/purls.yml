@@ -139,6 +139,7 @@
 - pkg:composer/pop-cms-schema/custompostmeta@2.6.0
 - pkg:composer/pop-cms-schema/custompostmeta@2.6.1
 - pkg:composer/pop-cms-schema/custompostmeta@20.0.0
+- pkg:composer/pop-cms-schema/custompostmeta@20.0.1
 - pkg:composer/pop-cms-schema/custompostmeta@3.0.0
 - pkg:composer/pop-cms-schema/custompostmeta@4.0.0
 - pkg:composer/pop-cms-schema/custompostmeta@4.0.1

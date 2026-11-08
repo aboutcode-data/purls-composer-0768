@@ -138,6 +138,7 @@
 - pkg:composer/pop-cms-schema/metaquery-wp@2.6.0
 - pkg:composer/pop-cms-schema/metaquery-wp@2.6.1
 - pkg:composer/pop-cms-schema/metaquery-wp@20.0.0
+- pkg:composer/pop-cms-schema/metaquery-wp@20.0.1
 - pkg:composer/pop-cms-schema/metaquery-wp@3.0.0
 - pkg:composer/pop-cms-schema/metaquery-wp@4.0.0
 - pkg:composer/pop-cms-schema/metaquery-wp@4.0.1

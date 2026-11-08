@@ -138,6 +138,7 @@
 - pkg:composer/pop-cms-schema/customposts@2.6.0
 - pkg:composer/pop-cms-schema/customposts@2.6.1
 - pkg:composer/pop-cms-schema/customposts@20.0.0
+- pkg:composer/pop-cms-schema/customposts@20.0.1
 - pkg:composer/pop-cms-schema/customposts@3.0.0
 - pkg:composer/pop-cms-schema/customposts@4.0.0
 - pkg:composer/pop-cms-schema/customposts@4.0.1
