@@ -45,3 +45,9 @@
 - pkg:composer/socket-manager/launcher@v2.4.7
 - pkg:composer/socket-manager/launcher@v2.4.8
 - pkg:composer/socket-manager/launcher@v2.4.9
+- pkg:composer/socket-manager/launcher@v2.5.0
+- pkg:composer/socket-manager/launcher@v2.6.0
+- pkg:composer/socket-manager/launcher@v2.6.1
+- pkg:composer/socket-manager/launcher@v2.7.0
+- pkg:composer/socket-manager/launcher@v2.7.1
+- pkg:composer/socket-manager/launcher@v2.7.2
