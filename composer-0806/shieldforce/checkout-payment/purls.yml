@@ -147,6 +147,8 @@
 - pkg:composer/shieldforce/checkout-payment@v6.33.0
 - pkg:composer/shieldforce/checkout-payment@v6.34.0
 - pkg:composer/shieldforce/checkout-payment@v6.34.1
+- pkg:composer/shieldforce/checkout-payment@v6.34.10
+- pkg:composer/shieldforce/checkout-payment@v6.34.11
 - pkg:composer/shieldforce/checkout-payment@v6.34.2
 - pkg:composer/shieldforce/checkout-payment@v6.34.3
 - pkg:composer/shieldforce/checkout-payment@v6.34.4
