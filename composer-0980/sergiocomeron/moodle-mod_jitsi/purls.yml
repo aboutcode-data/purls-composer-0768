@@ -25,3 +25,5 @@
 - pkg:composer/sergiocomeron/moodle-mod_jitsi@v5.2.0
 - pkg:composer/sergiocomeron/moodle-mod_jitsi@v5.3.0
 - pkg:composer/sergiocomeron/moodle-mod_jitsi@v5.4.0
+- pkg:composer/sergiocomeron/moodle-mod_jitsi@v5.5.0
+- pkg:composer/sergiocomeron/moodle-mod_jitsi@v5.5.1
