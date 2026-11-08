@@ -21,3 +21,4 @@
 - pkg:composer/s1t2/wordpress-s3-uploads-drop-in@2.3.3
 - pkg:composer/s1t2/wordpress-s3-uploads-drop-in@2.4.0
 - pkg:composer/s1t2/wordpress-s3-uploads-drop-in@2.4.1
+- pkg:composer/s1t2/wordpress-s3-uploads-drop-in@2.4.2
