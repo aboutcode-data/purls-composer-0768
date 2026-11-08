@@ -3,3 +3,4 @@
 - pkg:composer/sirix/mezzio-valinor-request-mapper@1.0.0
 - pkg:composer/sirix/mezzio-valinor-request-mapper@2.0.0
 - pkg:composer/sirix/mezzio-valinor-request-mapper@3.0.0
+- pkg:composer/sirix/mezzio-valinor-request-mapper@4.0.0
