@@ -111,6 +111,10 @@
 - pkg:composer/sirserik/admin-core@v1.17.0
 - pkg:composer/sirserik/admin-core@v1.17.1
 - pkg:composer/sirserik/admin-core@v1.17.2
+- pkg:composer/sirserik/admin-core@v1.18.0
+- pkg:composer/sirserik/admin-core@v1.19.0
+- pkg:composer/sirserik/admin-core@v1.19.1
+- pkg:composer/sirserik/admin-core@v1.20.0
 - pkg:composer/sirserik/admin-core@v1.3.1
 - pkg:composer/sirserik/admin-core@v1.3.2
 - pkg:composer/sirserik/admin-core@v1.3.3
