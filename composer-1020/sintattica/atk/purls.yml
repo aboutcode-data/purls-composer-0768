@@ -49,6 +49,10 @@
 - pkg:composer/sintattica/atk@v11.7.0
 - pkg:composer/sintattica/atk@v11.7.1
 - pkg:composer/sintattica/atk@v11.8.0
+- pkg:composer/sintattica/atk@v11.8.1
+- pkg:composer/sintattica/atk@v12.0.0
+- pkg:composer/sintattica/atk@v12.0.0-beta
+- pkg:composer/sintattica/atk@v12.0.1
 - pkg:composer/sintattica/atk@v8.2.4
 - pkg:composer/sintattica/atk@v8.2.5
 - pkg:composer/sintattica/atk@v8.2.6
