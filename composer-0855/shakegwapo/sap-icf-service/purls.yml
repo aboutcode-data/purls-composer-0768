@@ -5,3 +5,5 @@
 - pkg:composer/shakegwapo/sap-icf-service@2.0.2
 - pkg:composer/shakegwapo/sap-icf-service@3.0.0
 - pkg:composer/shakegwapo/sap-icf-service@v1.0.0
+- pkg:composer/shakegwapo/sap-icf-service@v3.1.0
+- pkg:composer/shakegwapo/sap-icf-service@v4.0.0
