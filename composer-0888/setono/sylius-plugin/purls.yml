@@ -5,4 +5,6 @@
 - pkg:composer/setono/sylius-plugin@2.2.0
 - pkg:composer/setono/sylius-plugin@2.3.0
 - pkg:composer/setono/sylius-plugin@2.3.1
+- pkg:composer/setono/sylius-plugin@2.4.0
+- pkg:composer/setono/sylius-plugin@2.5.0
 - pkg:composer/setono/sylius-plugin@v2
