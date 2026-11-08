@@ -24,3 +24,5 @@
 - pkg:composer/ptadmin/core@v0.4.2
 - pkg:composer/ptadmin/core@v0.5.0
 - pkg:composer/ptadmin/core@v0.5.1
+- pkg:composer/ptadmin/core@v0.5.2
+- pkg:composer/ptadmin/core@v0.6.0
