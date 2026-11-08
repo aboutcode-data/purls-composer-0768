@@ -18,3 +18,4 @@
 - pkg:composer/sl4mmer/phpcent@6.0.1
 - pkg:composer/sl4mmer/phpcent@6.0.2
 - pkg:composer/sl4mmer/phpcent@6.0.3
+- pkg:composer/sl4mmer/phpcent@v7.0.0

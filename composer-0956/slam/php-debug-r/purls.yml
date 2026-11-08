@@ -5,6 +5,7 @@
 - pkg:composer/slam/php-debug-r@v1.1.0
 - pkg:composer/slam/php-debug-r@v1.10.0
 - pkg:composer/slam/php-debug-r@v1.11.0
+- pkg:composer/slam/php-debug-r@v1.12.0
 - pkg:composer/slam/php-debug-r@v1.2.0
 - pkg:composer/slam/php-debug-r@v1.3.0
 - pkg:composer/slam/php-debug-r@v1.4.0
