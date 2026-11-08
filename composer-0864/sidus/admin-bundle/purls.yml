@@ -29,3 +29,5 @@
 - pkg:composer/sidus/admin-bundle@v5.0.4
 - pkg:composer/sidus/admin-bundle@v5.0.5
 - pkg:composer/sidus/admin-bundle@v5.0.6
+- pkg:composer/sidus/admin-bundle@v5.0.7
+- pkg:composer/sidus/admin-bundle@v6.0.0
