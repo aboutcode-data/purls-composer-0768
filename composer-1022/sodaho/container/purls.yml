@@ -1,1 +1,6 @@
 - pkg:composer/sodaho/container@v1.0.0
+- pkg:composer/sodaho/container@v1.1.0
+- pkg:composer/sodaho/container@v2.0.0
+- pkg:composer/sodaho/container@v2.0.0-beta.1
+- pkg:composer/sodaho/container@v2.0.1
+- pkg:composer/sodaho/container@v2.1.0
