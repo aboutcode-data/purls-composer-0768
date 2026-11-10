@@ -1,3 +1,4 @@
 - pkg:composer/tekinfopg/sso-helper-laravel@1.1.2
 - pkg:composer/tekinfopg/sso-helper-laravel@2.0.1
 - pkg:composer/tekinfopg/sso-helper-laravel@3.0.0
+- pkg:composer/tekinfopg/sso-helper-laravel@4.0.0
