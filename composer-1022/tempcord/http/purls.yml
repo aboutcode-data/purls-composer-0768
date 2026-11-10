@@ -1,3 +1,4 @@
 - pkg:composer/tempcord/http@v1.0.0
 - pkg:composer/tempcord/http@v1.1.0
 - pkg:composer/tempcord/http@v1.1.1
+- pkg:composer/tempcord/http@v2.0.0
