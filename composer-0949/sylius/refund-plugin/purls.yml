@@ -51,3 +51,4 @@
 - pkg:composer/sylius/refund-plugin@v2.0.5
 - pkg:composer/sylius/refund-plugin@v2.1.0
 - pkg:composer/sylius/refund-plugin@v2.2.0
+- pkg:composer/sylius/refund-plugin@v2.2.1
