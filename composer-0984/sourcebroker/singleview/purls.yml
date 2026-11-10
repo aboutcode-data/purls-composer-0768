@@ -10,3 +10,4 @@
 - pkg:composer/sourcebroker/singleview@2.1.1
 - pkg:composer/sourcebroker/singleview@3.0.0
 - pkg:composer/sourcebroker/singleview@4.0.0
+- pkg:composer/sourcebroker/singleview@5.0.0
