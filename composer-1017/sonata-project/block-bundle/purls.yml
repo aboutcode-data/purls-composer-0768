@@ -108,3 +108,4 @@
 - pkg:composer/sonata-project/block-bundle@5.2.0
 - pkg:composer/sonata-project/block-bundle@5.3.0
 - pkg:composer/sonata-project/block-bundle@5.4.0
+- pkg:composer/sonata-project/block-bundle@5.5.0
