@@ -54,6 +54,8 @@
 - pkg:composer/pushery/billing-for-laravel@v0.53.0
 - pkg:composer/pushery/billing-for-laravel@v0.54.0
 - pkg:composer/pushery/billing-for-laravel@v0.55.0
+- pkg:composer/pushery/billing-for-laravel@v0.56.0
+- pkg:composer/pushery/billing-for-laravel@v0.57.0
 - pkg:composer/pushery/billing-for-laravel@v0.6.0
 - pkg:composer/pushery/billing-for-laravel@v0.7.0
 - pkg:composer/pushery/billing-for-laravel@v0.8.0
