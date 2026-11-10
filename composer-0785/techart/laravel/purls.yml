@@ -25,6 +25,7 @@
 - pkg:composer/techart/laravel@1.3.4
 - pkg:composer/techart/laravel@10.0.0
 - pkg:composer/techart/laravel@11.0.0
+- pkg:composer/techart/laravel@12.1.0
 - pkg:composer/techart/laravel@4.0.0
 - pkg:composer/techart/laravel@4.0.1
 - pkg:composer/techart/laravel@4.0.2
