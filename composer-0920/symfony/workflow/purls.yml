@@ -367,3 +367,4 @@
 - pkg:composer/symfony/workflow@v8.1.0-BETA1
 - pkg:composer/symfony/workflow@v8.1.0-BETA3
 - pkg:composer/symfony/workflow@v8.1.8
+- pkg:composer/symfony/workflow@v8.2.0-BETA1
