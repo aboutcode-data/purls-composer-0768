@@ -48,6 +48,9 @@
 - pkg:composer/spiral/router@3.17.0
 - pkg:composer/spiral/router@3.17.1
 - pkg:composer/spiral/router@3.17.2
+- pkg:composer/spiral/router@3.18.0
+- pkg:composer/spiral/router@3.18.1
+- pkg:composer/spiral/router@3.18.2
 - pkg:composer/spiral/router@3.2.0
 - pkg:composer/spiral/router@3.3.0
 - pkg:composer/spiral/router@3.4.0

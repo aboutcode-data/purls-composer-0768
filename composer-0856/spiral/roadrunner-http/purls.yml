@@ -20,3 +20,5 @@
 - pkg:composer/spiral/roadrunner-http@v3.6.0
 - pkg:composer/spiral/roadrunner-http@v4.0.0
 - pkg:composer/spiral/roadrunner-http@v4.1.0
+- pkg:composer/spiral/roadrunner-http@v4.2.0
+- pkg:composer/spiral/roadrunner-http@v4.2.1

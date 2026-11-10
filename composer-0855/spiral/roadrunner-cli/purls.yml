@@ -1,3 +1,6 @@
+- pkg:composer/spiral/roadrunner-cli@3.0.0
+- pkg:composer/spiral/roadrunner-cli@3.0.1
+- pkg:composer/spiral/roadrunner-cli@3.1.0
 - pkg:composer/spiral/roadrunner-cli@v2.0.0
 - pkg:composer/spiral/roadrunner-cli@v2.0.1
 - pkg:composer/spiral/roadrunner-cli@v2.0.10
