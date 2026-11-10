@@ -40,3 +40,5 @@
 - pkg:composer/suhype/craft-pagecache@2.1.2
 - pkg:composer/suhype/craft-pagecache@2.1.3
 - pkg:composer/suhype/craft-pagecache@2.1.4
+- pkg:composer/suhype/craft-pagecache@2.1.5
+- pkg:composer/suhype/craft-pagecache@2.2.0
