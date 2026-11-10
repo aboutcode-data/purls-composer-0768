@@ -218,6 +218,12 @@
 - pkg:composer/symplify/phpstan-rules@14.15.3
 - pkg:composer/symplify/phpstan-rules@14.16.0
 - pkg:composer/symplify/phpstan-rules@14.17.0
+- pkg:composer/symplify/phpstan-rules@14.18.0
+- pkg:composer/symplify/phpstan-rules@14.18.3
+- pkg:composer/symplify/phpstan-rules@14.19.0
+- pkg:composer/symplify/phpstan-rules@14.19.1
+- pkg:composer/symplify/phpstan-rules@14.19.2
+- pkg:composer/symplify/phpstan-rules@14.19.3
 - pkg:composer/symplify/phpstan-rules@14.2.0
 - pkg:composer/symplify/phpstan-rules@14.2.1
 - pkg:composer/symplify/phpstan-rules@14.2.2
@@ -422,6 +428,8 @@
 - pkg:composer/symplify/phpstan-rules@9.4.70
 - pkg:composer/symplify/phpstan-rules@9.4.8
 - pkg:composer/symplify/phpstan-rules@9.4.9
+- pkg:composer/symplify/phpstan-rules@v14.18.1
+- pkg:composer/symplify/phpstan-rules@v14.18.2
 - pkg:composer/symplify/phpstan-rules@v9.2.10
 - pkg:composer/symplify/phpstan-rules@v9.2.11
 - pkg:composer/symplify/phpstan-rules@v9.2.12
