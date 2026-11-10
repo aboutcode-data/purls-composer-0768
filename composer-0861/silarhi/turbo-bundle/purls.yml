@@ -1,3 +1,5 @@
+- pkg:composer/silarhi/turbo-bundle@v0.10.0
+- pkg:composer/silarhi/turbo-bundle@v0.11.0
 - pkg:composer/silarhi/turbo-bundle@v0.2.0
 - pkg:composer/silarhi/turbo-bundle@v0.2.1
 - pkg:composer/silarhi/turbo-bundle@v0.2.2
