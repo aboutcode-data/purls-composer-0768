@@ -9,3 +9,5 @@
 - pkg:composer/spora-ai/spora-plugin-semantic-scholar@v0.3.3
 - pkg:composer/spora-ai/spora-plugin-semantic-scholar@v0.3.4
 - pkg:composer/spora-ai/spora-plugin-semantic-scholar@v0.4.0
+- pkg:composer/spora-ai/spora-plugin-semantic-scholar@v0.5.0
+- pkg:composer/spora-ai/spora-plugin-semantic-scholar@v0.6.0
