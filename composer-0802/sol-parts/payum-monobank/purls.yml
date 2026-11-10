@@ -1,1 +1,2 @@
 - pkg:composer/sol-parts/payum-monobank@v1.0.0
+- pkg:composer/sol-parts/payum-monobank@v1.0.1
