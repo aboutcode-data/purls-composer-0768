@@ -8,3 +8,9 @@
 - pkg:composer/solophp/http-client@v2.1.1
 - pkg:composer/solophp/http-client@v3.0.0
 - pkg:composer/solophp/http-client@v3.1.0
+- pkg:composer/solophp/http-client@v4.0.0
+- pkg:composer/solophp/http-client@v4.0.1
+- pkg:composer/solophp/http-client@v5.0.0-RC1
+- pkg:composer/solophp/http-client@v5.0.0-RC2
+- pkg:composer/solophp/http-client@v5.0.0-RC3
+- pkg:composer/solophp/http-client@v5.0.0-RC4
