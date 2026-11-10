@@ -90,9 +90,12 @@
 - pkg:composer/spatie/image@3.8.7
 - pkg:composer/spatie/image@3.9.0
 - pkg:composer/spatie/image@3.9.1
+- pkg:composer/spatie/image@3.9.10
 - pkg:composer/spatie/image@3.9.2
 - pkg:composer/spatie/image@3.9.3
 - pkg:composer/spatie/image@3.9.4
 - pkg:composer/spatie/image@3.9.5
 - pkg:composer/spatie/image@3.9.6
 - pkg:composer/spatie/image@3.9.7
+- pkg:composer/spatie/image@3.9.8
+- pkg:composer/spatie/image@3.9.9
