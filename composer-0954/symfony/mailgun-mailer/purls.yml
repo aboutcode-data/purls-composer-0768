@@ -187,3 +187,4 @@
 - pkg:composer/symfony/mailgun-mailer@v8.1.1
 - pkg:composer/symfony/mailgun-mailer@v8.1.4
 - pkg:composer/symfony/mailgun-mailer@v8.1.6
+- pkg:composer/symfony/mailgun-mailer@v8.2.0-BETA1
