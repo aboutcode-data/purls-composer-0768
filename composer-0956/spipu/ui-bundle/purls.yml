@@ -78,3 +78,7 @@
 - pkg:composer/spipu/ui-bundle@v5.0.6
 - pkg:composer/spipu/ui-bundle@v5.0.7
 - pkg:composer/spipu/ui-bundle@v5.1.0
+- pkg:composer/spipu/ui-bundle@v5.1.1
+- pkg:composer/spipu/ui-bundle@v5.2.0
+- pkg:composer/spipu/ui-bundle@v5.2.1
+- pkg:composer/spipu/ui-bundle@v5.2.2
