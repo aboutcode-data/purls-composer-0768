@@ -16,6 +16,7 @@
 - pkg:composer/spryker/country@3.5.0
 - pkg:composer/spryker/country@4.0.0
 - pkg:composer/spryker/country@4.1.0
+- pkg:composer/spryker/country@4.10.0
 - pkg:composer/spryker/country@4.2.0
 - pkg:composer/spryker/country@4.2.1
 - pkg:composer/spryker/country@4.3.0
@@ -28,3 +29,4 @@
 - pkg:composer/spryker/country@4.8.1
 - pkg:composer/spryker/country@4.9.0
 - pkg:composer/spryker/country@4.9.1
+- pkg:composer/spryker/country@4.9.2
