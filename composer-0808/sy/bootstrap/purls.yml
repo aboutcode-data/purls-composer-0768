@@ -67,6 +67,7 @@
 - pkg:composer/sy/bootstrap@1.18.0
 - pkg:composer/sy/bootstrap@1.18.1
 - pkg:composer/sy/bootstrap@1.18.2
+- pkg:composer/sy/bootstrap@1.18.3
 - pkg:composer/sy/bootstrap@1.2.0
 - pkg:composer/sy/bootstrap@1.2.1
 - pkg:composer/sy/bootstrap@1.2.2
