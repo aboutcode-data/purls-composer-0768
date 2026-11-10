@@ -1,3 +1,5 @@
 - pkg:composer/spatie/php-attribute-reader@0.0.1
 - pkg:composer/spatie/php-attribute-reader@1.0.0
 - pkg:composer/spatie/php-attribute-reader@1.1.0
+- pkg:composer/spatie/php-attribute-reader@1.2.0
+- pkg:composer/spatie/php-attribute-reader@1.2.1
