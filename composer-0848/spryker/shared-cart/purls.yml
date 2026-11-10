@@ -22,6 +22,8 @@
 - pkg:composer/spryker/shared-cart@1.22.0
 - pkg:composer/spryker/shared-cart@1.23.0
 - pkg:composer/spryker/shared-cart@1.24.0
+- pkg:composer/spryker/shared-cart@1.25.0
+- pkg:composer/spryker/shared-cart@1.25.1
 - pkg:composer/spryker/shared-cart@1.3.0
 - pkg:composer/spryker/shared-cart@1.4.0
 - pkg:composer/spryker/shared-cart@1.5.0
