@@ -61,6 +61,9 @@
 - pkg:composer/spryker/user@3.34.0
 - pkg:composer/spryker/user@3.35.0
 - pkg:composer/spryker/user@3.35.1
+- pkg:composer/spryker/user@3.35.2
+- pkg:composer/spryker/user@3.35.3
+- pkg:composer/spryker/user@3.36.0
 - pkg:composer/spryker/user@3.4.0
 - pkg:composer/spryker/user@3.4.1
 - pkg:composer/spryker/user@3.4.2
