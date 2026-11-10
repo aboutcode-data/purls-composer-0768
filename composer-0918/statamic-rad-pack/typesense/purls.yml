@@ -23,3 +23,4 @@
 - pkg:composer/statamic-rad-pack/typesense@v3.2.1
 - pkg:composer/statamic-rad-pack/typesense@v3.2.2
 - pkg:composer/statamic-rad-pack/typesense@v3.3.0
+- pkg:composer/statamic-rad-pack/typesense@v3.3.1
