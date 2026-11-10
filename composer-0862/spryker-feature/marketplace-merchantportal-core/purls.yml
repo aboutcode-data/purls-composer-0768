@@ -12,3 +12,4 @@
 - pkg:composer/spryker-feature/marketplace-merchantportal-core@202604.0
 - pkg:composer/spryker-feature/marketplace-merchantportal-core@202606.0
 - pkg:composer/spryker-feature/marketplace-merchantportal-core@202608.0
+- pkg:composer/spryker-feature/marketplace-merchantportal-core@202610.0
