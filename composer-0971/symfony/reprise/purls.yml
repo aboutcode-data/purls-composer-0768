@@ -14,3 +14,4 @@
 - pkg:composer/symfony/reprise@v1.1.3
 - pkg:composer/symfony/reprise@v1.2.0
 - pkg:composer/symfony/reprise@v1.3.0
+- pkg:composer/symfony/reprise@v1.4.0

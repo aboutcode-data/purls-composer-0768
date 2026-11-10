@@ -60,3 +60,7 @@
 - pkg:composer/symfony/ux-autocomplete@v3.4.0
 - pkg:composer/symfony/ux-autocomplete@v3.5.0
 - pkg:composer/symfony/ux-autocomplete@v3.5.1
+- pkg:composer/symfony/ux-autocomplete@v3.6.0
+- pkg:composer/symfony/ux-autocomplete@v3.7.0
+- pkg:composer/symfony/ux-autocomplete@v3.7.1
+- pkg:composer/symfony/ux-autocomplete@v3.7.2
