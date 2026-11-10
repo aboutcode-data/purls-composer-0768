@@ -2,3 +2,5 @@
 - pkg:composer/squidweb/roviox-laravel@v0.2.0
 - pkg:composer/squidweb/roviox-laravel@v0.3.0
 - pkg:composer/squidweb/roviox-laravel@v0.4.0
+- pkg:composer/squidweb/roviox-laravel@v0.5.0
+- pkg:composer/squidweb/roviox-laravel@v0.6.0
