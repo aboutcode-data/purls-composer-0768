@@ -9,3 +9,5 @@
 - pkg:composer/steady-ua/unicorn@v1.9.0
 - pkg:composer/steady-ua/unicorn@v2.0.0
 - pkg:composer/steady-ua/unicorn@v2.0.1
+- pkg:composer/steady-ua/unicorn@v2.1.1
+- pkg:composer/steady-ua/unicorn@v2.2.0
