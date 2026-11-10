@@ -61,6 +61,9 @@
 - pkg:composer/survos/reveal-bundle@2.2.4
 - pkg:composer/survos/reveal-bundle@2.2.5
 - pkg:composer/survos/reveal-bundle@2.3.0
+- pkg:composer/survos/reveal-bundle@2.33.0
+- pkg:composer/survos/reveal-bundle@2.35.2
+- pkg:composer/survos/reveal-bundle@2.35.3
 - pkg:composer/survos/reveal-bundle@2.4.0
 - pkg:composer/survos/reveal-bundle@2.4.1
 - pkg:composer/survos/reveal-bundle@2.4.2
