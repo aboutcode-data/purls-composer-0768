@@ -17,3 +17,7 @@
 - pkg:composer/stellarwp/harbor@v1.5.0
 - pkg:composer/stellarwp/harbor@v1.6.0
 - pkg:composer/stellarwp/harbor@v1.6.1
+- pkg:composer/stellarwp/harbor@v1.6.2
+- pkg:composer/stellarwp/harbor@v2.0.2
+- pkg:composer/stellarwp/harbor@v2.0.3
+- pkg:composer/stellarwp/harbor@v2.0.4
