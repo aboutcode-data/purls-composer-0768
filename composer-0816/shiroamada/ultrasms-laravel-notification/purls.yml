@@ -9,6 +9,7 @@
 - pkg:composer/shiroamada/ultrasms-laravel-notification@v1.0.8
 - pkg:composer/shiroamada/ultrasms-laravel-notification@v1.0.9
 - pkg:composer/shiroamada/ultrasms-laravel-notification@v11.0.0
+- pkg:composer/shiroamada/ultrasms-laravel-notification@v11.1.0
 - pkg:composer/shiroamada/ultrasms-laravel-notification@v2.0.0
 - pkg:composer/shiroamada/ultrasms-laravel-notification@v2.0.1
 - pkg:composer/shiroamada/ultrasms-laravel-notification@v2.0.2
