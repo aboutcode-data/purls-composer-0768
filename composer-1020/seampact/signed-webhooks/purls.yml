@@ -1,1 +1,2 @@
 - pkg:composer/seampact/signed-webhooks@v1.0.0
+- pkg:composer/seampact/signed-webhooks@v1.0.1
