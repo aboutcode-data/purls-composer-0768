@@ -33,6 +33,10 @@
 - pkg:composer/stevevega/kima@0.19.1
 - pkg:composer/stevevega/kima@0.19.2
 - pkg:composer/stevevega/kima@0.19.3
+- pkg:composer/stevevega/kima@0.19.4
+- pkg:composer/stevevega/kima@0.19.4-rc1
+- pkg:composer/stevevega/kima@0.19.5
+- pkg:composer/stevevega/kima@0.19.6
 - pkg:composer/stevevega/kima@0.9.0
 - pkg:composer/stevevega/kima@0.9.1
 - pkg:composer/stevevega/kima@0.9.10
