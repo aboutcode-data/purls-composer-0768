@@ -1,2 +1,6 @@
 - pkg:composer/survos/classifier-bundle@2.34.22
 - pkg:composer/survos/classifier-bundle@2.34.23
+- pkg:composer/survos/classifier-bundle@2.35.6
+- pkg:composer/survos/classifier-bundle@2.41.9
+- pkg:composer/survos/classifier-bundle@2.43.14
+- pkg:composer/survos/classifier-bundle@2.44.0
