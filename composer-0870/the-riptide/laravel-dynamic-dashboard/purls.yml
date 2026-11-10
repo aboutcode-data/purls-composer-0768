@@ -10,6 +10,7 @@
 - pkg:composer/the-riptide/laravel-dynamic-dashboard@v0.11.6
 - pkg:composer/the-riptide/laravel-dynamic-dashboard@v0.11.7
 - pkg:composer/the-riptide/laravel-dynamic-dashboard@v0.12.0
+- pkg:composer/the-riptide/laravel-dynamic-dashboard@v0.13.0
 - pkg:composer/the-riptide/laravel-dynamic-dashboard@v0.2.0
 - pkg:composer/the-riptide/laravel-dynamic-dashboard@v0.2.1
 - pkg:composer/the-riptide/laravel-dynamic-dashboard@v0.2.2
