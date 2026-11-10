@@ -1,1 +1,2 @@
-- pkg:composer/super-kernel/config@v1.0.0
+- pkg:composer/super-kernel/config@1.0.0-alpha.1
+- pkg:composer/super-kernel/config@1.0.0-alpha.2
