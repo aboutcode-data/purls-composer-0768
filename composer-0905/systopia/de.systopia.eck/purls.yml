@@ -21,6 +21,7 @@
 - pkg:composer/systopia/de.systopia.eck@1.1-alpha7
 - pkg:composer/systopia/de.systopia.eck@1.1-alpha8
 - pkg:composer/systopia/de.systopia.eck@1.1-alpha9
+- pkg:composer/systopia/de.systopia.eck@1.1.0
 - pkg:composer/systopia/de.systopia.eck@1.1.0-alpha11
 - pkg:composer/systopia/de.systopia.eck@1.1.0-beta1
 - pkg:composer/systopia/de.systopia.eck@1.1.0-beta2
@@ -28,3 +29,5 @@
 - pkg:composer/systopia/de.systopia.eck@1.1.0-beta4
 - pkg:composer/systopia/de.systopia.eck@1.1.0-beta5
 - pkg:composer/systopia/de.systopia.eck@1.1.0-beta6
+- pkg:composer/systopia/de.systopia.eck@1.2.0
+- pkg:composer/systopia/de.systopia.eck@1.2.0-beta1
