@@ -18,3 +18,4 @@
 - pkg:composer/thesis/grpc@0.3.2
 - pkg:composer/thesis/grpc@0.3.3
 - pkg:composer/thesis/grpc@0.3.4
+- pkg:composer/thesis/grpc@0.4.0
