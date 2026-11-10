@@ -1,3 +1,4 @@
 - pkg:composer/thelia/delivery-delay-module@1.0
 - pkg:composer/thelia/delivery-delay-module@1.1
 - pkg:composer/thelia/delivery-delay-module@2.0.0
+- pkg:composer/thelia/delivery-delay-module@3.0.0
