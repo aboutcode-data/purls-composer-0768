@@ -1,3 +1,4 @@
+- pkg:composer/strukt/commons@1.2.0
 - pkg:composer/strukt/commons@v1.0.0-alpha
 - pkg:composer/strukt/commons@v1.0.1-alpha
 - pkg:composer/strukt/commons@v1.0.2-alpha
