@@ -69,3 +69,5 @@
 - pkg:composer/technicpack/solder@v1.3.1
 - pkg:composer/technicpack/solder@v1.4.0
 - pkg:composer/technicpack/solder@v1.5.0
+- pkg:composer/technicpack/solder@v1.5.1
+- pkg:composer/technicpack/solder@v1.5.2
