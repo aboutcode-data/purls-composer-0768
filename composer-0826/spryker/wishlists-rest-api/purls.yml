@@ -8,6 +8,7 @@
 - pkg:composer/spryker/wishlists-rest-api@1.10.3
 - pkg:composer/spryker/wishlists-rest-api@1.10.4
 - pkg:composer/spryker/wishlists-rest-api@1.11.0
+- pkg:composer/spryker/wishlists-rest-api@1.11.1
 - pkg:composer/spryker/wishlists-rest-api@1.2.0
 - pkg:composer/spryker/wishlists-rest-api@1.2.1
 - pkg:composer/spryker/wishlists-rest-api@1.2.2
