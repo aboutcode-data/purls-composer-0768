@@ -16,3 +16,4 @@
 - pkg:composer/tapp/laravel-uppy-s3-multipart-upload@v1.2
 - pkg:composer/tapp/laravel-uppy-s3-multipart-upload@v1.2.1
 - pkg:composer/tapp/laravel-uppy-s3-multipart-upload@v1.3.0
+- pkg:composer/tapp/laravel-uppy-s3-multipart-upload@v2.0.0
