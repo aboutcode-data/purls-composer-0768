@@ -1,1 +1,3 @@
 - pkg:composer/u2secured/u2auth@v0.3.1
+- pkg:composer/u2secured/u2auth@v0.3.2
+- pkg:composer/u2secured/u2auth@v0.4.0
