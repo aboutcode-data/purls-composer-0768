@@ -20,6 +20,7 @@
 - pkg:composer/thelia/cms-module@2.23.0
 - pkg:composer/thelia/cms-module@2.24.0
 - pkg:composer/thelia/cms-module@2.25.0
+- pkg:composer/thelia/cms-module@2.26.0
 - pkg:composer/thelia/cms-module@2.4.0
 - pkg:composer/thelia/cms-module@2.5.0
 - pkg:composer/thelia/cms-module@2.6.0
