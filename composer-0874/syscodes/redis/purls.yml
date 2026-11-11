@@ -24,3 +24,4 @@
 - pkg:composer/syscodes/redis@v0.8.9
 - pkg:composer/syscodes/redis@v0.9.0
 - pkg:composer/syscodes/redis@v0.9.1
+- pkg:composer/syscodes/redis@v0.9.2
