@@ -33,3 +33,5 @@
 - pkg:composer/tpokorra/flarum-ext-post-notification@0.4.6
 - pkg:composer/tpokorra/flarum-ext-post-notification@0.4.7
 - pkg:composer/tpokorra/flarum-ext-post-notification@0.4.8
+- pkg:composer/tpokorra/flarum-ext-post-notification@0.5.0
+- pkg:composer/tpokorra/flarum-ext-post-notification@0.5.1

@@ -69,6 +69,7 @@
 - pkg:composer/tpetry/laravel-postgresql-enhanced@2.4.1
 - pkg:composer/tpetry/laravel-postgresql-enhanced@3.0.0
 - pkg:composer/tpetry/laravel-postgresql-enhanced@3.1.0
+- pkg:composer/tpetry/laravel-postgresql-enhanced@3.10.0
 - pkg:composer/tpetry/laravel-postgresql-enhanced@3.2.0
 - pkg:composer/tpetry/laravel-postgresql-enhanced@3.3.0
 - pkg:composer/tpetry/laravel-postgresql-enhanced@3.4.0
@@ -76,3 +77,5 @@
 - pkg:composer/tpetry/laravel-postgresql-enhanced@3.5.1
 - pkg:composer/tpetry/laravel-postgresql-enhanced@3.6.0
 - pkg:composer/tpetry/laravel-postgresql-enhanced@3.7.0
+- pkg:composer/tpetry/laravel-postgresql-enhanced@3.8.0
+- pkg:composer/tpetry/laravel-postgresql-enhanced@3.9.0
