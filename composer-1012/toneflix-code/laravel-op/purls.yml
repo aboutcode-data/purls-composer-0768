@@ -28,3 +28,6 @@
 - pkg:composer/toneflix-code/laravel-op@3.0.7
 - pkg:composer/toneflix-code/laravel-op@3.0.8
 - pkg:composer/toneflix-code/laravel-op@3.0.9
+- pkg:composer/toneflix-code/laravel-op@4.0.0
+- pkg:composer/toneflix-code/laravel-op@4.0.1
+- pkg:composer/toneflix-code/laravel-op@4.0.2
