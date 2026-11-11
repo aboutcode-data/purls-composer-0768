@@ -1,3 +1,5 @@
 - pkg:composer/timelogic-api/php-sdk@v1.0.1
 - pkg:composer/timelogic-api/php-sdk@v1.0.2
 - pkg:composer/timelogic-api/php-sdk@v1.0.3
+- pkg:composer/timelogic-api/php-sdk@v1.1.0
+- pkg:composer/timelogic-api/php-sdk@v2.0.0
