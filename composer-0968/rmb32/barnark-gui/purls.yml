@@ -1,15 +1,1 @@
-- pkg:composer/rmb32/barnark-gui@v1.0.0
-- pkg:composer/rmb32/barnark-gui@v1.0.1
-- pkg:composer/rmb32/barnark-gui@v1.1.0
-- pkg:composer/rmb32/barnark-gui@v1.2.0
-- pkg:composer/rmb32/barnark-gui@v1.3.0
-- pkg:composer/rmb32/barnark-gui@v1.4.0
-- pkg:composer/rmb32/barnark-gui@v2.0.0
-- pkg:composer/rmb32/barnark-gui@v3.0.0
-- pkg:composer/rmb32/barnark-gui@v4.0.0
-- pkg:composer/rmb32/barnark-gui@v5.0.0
-- pkg:composer/rmb32/barnark-gui@v5.1.0
-- pkg:composer/rmb32/barnark-gui@v5.2.0
-- pkg:composer/rmb32/barnark-gui@v6.0.0
-- pkg:composer/rmb32/barnark-gui@v7.0.0
-- pkg:composer/rmb32/barnark-gui@v7.1.0
+- pkg:composer/rmb32/barnark-gui@v0.1.0
