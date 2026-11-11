@@ -38,3 +38,5 @@
 - pkg:composer/traderinteractive/filter@v4.3.0
 - pkg:composer/traderinteractive/filter@v4.4.0
 - pkg:composer/traderinteractive/filter@v4.5.0
+- pkg:composer/traderinteractive/filter@v4.6.0
+- pkg:composer/traderinteractive/filter@v4.6.1
