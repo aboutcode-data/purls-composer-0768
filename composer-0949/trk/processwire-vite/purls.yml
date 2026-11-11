@@ -2,3 +2,5 @@
 - pkg:composer/trk/processwire-vite@v0.0.3
 - pkg:composer/trk/processwire-vite@v0.0.4
 - pkg:composer/trk/processwire-vite@v0.0.5
+- pkg:composer/trk/processwire-vite@v1.0.0
+- pkg:composer/trk/processwire-vite@v1.0.1
