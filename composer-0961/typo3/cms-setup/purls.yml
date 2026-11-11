@@ -182,6 +182,9 @@
 - pkg:composer/typo3/cms-setup@v13.4.33
 - pkg:composer/typo3/cms-setup@v13.4.34
 - pkg:composer/typo3/cms-setup@v13.4.35
+- pkg:composer/typo3/cms-setup@v13.4.36
+- pkg:composer/typo3/cms-setup@v13.4.37
+- pkg:composer/typo3/cms-setup@v13.4.39
 - pkg:composer/typo3/cms-setup@v13.4.4
 - pkg:composer/typo3/cms-setup@v13.4.5
 - pkg:composer/typo3/cms-setup@v13.4.6
