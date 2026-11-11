@@ -23,6 +23,7 @@
 - pkg:composer/tobimori/kirby-seo@1.1.0
 - pkg:composer/tobimori/kirby-seo@1.1.1
 - pkg:composer/tobimori/kirby-seo@1.1.2
+- pkg:composer/tobimori/kirby-seo@2.0.0
 - pkg:composer/tobimori/kirby-seo@2.0.0-alpha.1
 - pkg:composer/tobimori/kirby-seo@2.0.0-alpha.10
 - pkg:composer/tobimori/kirby-seo@2.0.0-alpha.11
@@ -41,3 +42,7 @@
 - pkg:composer/tobimori/kirby-seo@2.0.0-beta.3
 - pkg:composer/tobimori/kirby-seo@2.0.0-beta.4
 - pkg:composer/tobimori/kirby-seo@2.0.0-beta.5
+- pkg:composer/tobimori/kirby-seo@2.0.0-rc.0
+- pkg:composer/tobimori/kirby-seo@2.0.0-rc.1
+- pkg:composer/tobimori/kirby-seo@2.0.0-rc.2
+- pkg:composer/tobimori/kirby-seo@2.0.1
