@@ -30,3 +30,4 @@
 - pkg:composer/sofascore/purgatory-bundle@v2.0.1
 - pkg:composer/sofascore/purgatory-bundle@v2.0.2
 - pkg:composer/sofascore/purgatory-bundle@v2.0.3
+- pkg:composer/sofascore/purgatory-bundle@v2.1.0
