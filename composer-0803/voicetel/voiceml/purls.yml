@@ -12,3 +12,6 @@
 - pkg:composer/voicetel/voiceml@v0.6.2
 - pkg:composer/voicetel/voiceml@v0.6.3
 - pkg:composer/voicetel/voiceml@v0.6.4
+- pkg:composer/voicetel/voiceml@v0.9.3
+- pkg:composer/voicetel/voiceml@v0.9.4
+- pkg:composer/voicetel/voiceml@v0.9.5
