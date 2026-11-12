@@ -48,3 +48,4 @@
 - pkg:composer/umanit/saml-bundle@1.1.0
 - pkg:composer/umanit/saml-bundle@2.0.0
 - pkg:composer/umanit/saml-bundle@2.0.1
+- pkg:composer/umanit/saml-bundle@2.0.2
