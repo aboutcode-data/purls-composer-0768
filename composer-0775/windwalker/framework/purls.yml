@@ -180,6 +180,7 @@
 - pkg:composer/windwalker/framework@4.2.0
 - pkg:composer/windwalker/framework@4.2.0-beta1
 - pkg:composer/windwalker/framework@4.2.1
+- pkg:composer/windwalker/framework@4.2.10
 - pkg:composer/windwalker/framework@4.2.2
 - pkg:composer/windwalker/framework@4.2.3
 - pkg:composer/windwalker/framework@4.2.4
@@ -189,7 +190,6 @@
 - pkg:composer/windwalker/framework@4.2.6
 - pkg:composer/windwalker/framework@4.2.7
 - pkg:composer/windwalker/framework@4.2.8
-- pkg:composer/windwalker/framework@4.2.9
 - pkg:composer/windwalker/framework@4.2.9-beta1
 - pkg:composer/windwalker/framework@4.2.9-beta2
 - pkg:composer/windwalker/framework@4.2.9-beta3
