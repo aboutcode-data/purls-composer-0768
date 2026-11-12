@@ -1,2 +1,3 @@
 - pkg:composer/wayaquick/payment-sdk@v1.0.0
 - pkg:composer/wayaquick/payment-sdk@v2.0.0
+- pkg:composer/wayaquick/payment-sdk@v2.0.1
