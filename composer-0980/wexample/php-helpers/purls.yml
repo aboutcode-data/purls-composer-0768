@@ -97,3 +97,8 @@
 - pkg:composer/wexample/php-helpers@4.0.1
 - pkg:composer/wexample/php-helpers@5.0.0
 - pkg:composer/wexample/php-helpers@6.0.0
+- pkg:composer/wexample/php-helpers@7.0.0
+- pkg:composer/wexample/php-helpers@7.0.1
+- pkg:composer/wexample/php-helpers@7.0.2
+- pkg:composer/wexample/php-helpers@7.0.3
+- pkg:composer/wexample/php-helpers@7.0.4
