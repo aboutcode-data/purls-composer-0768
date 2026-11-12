@@ -12,3 +12,8 @@
 - pkg:composer/vskstudio/takt-core-php@v0.5.1
 - pkg:composer/vskstudio/takt-core-php@v0.5.2
 - pkg:composer/vskstudio/takt-core-php@v0.6.0
+- pkg:composer/vskstudio/takt-core-php@v0.6.1
+- pkg:composer/vskstudio/takt-core-php@v0.7.0
+- pkg:composer/vskstudio/takt-core-php@v0.7.1
+- pkg:composer/vskstudio/takt-core-php@v0.7.2
+- pkg:composer/vskstudio/takt-core-php@v0.7.3

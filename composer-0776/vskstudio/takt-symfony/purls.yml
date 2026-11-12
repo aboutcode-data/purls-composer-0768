@@ -8,3 +8,5 @@
 - pkg:composer/vskstudio/takt-symfony@v0.5.0
 - pkg:composer/vskstudio/takt-symfony@v0.5.1
 - pkg:composer/vskstudio/takt-symfony@v0.6.0
+- pkg:composer/vskstudio/takt-symfony@v0.7.0
+- pkg:composer/vskstudio/takt-symfony@v0.7.1
