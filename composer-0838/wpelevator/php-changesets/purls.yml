@@ -1,0 +1,4 @@
+- pkg:composer/wpelevator/php-changesets@0.1.1
+- pkg:composer/wpelevator/php-changesets@1.0.0
+- pkg:composer/wpelevator/php-changesets@2.0.0
+- pkg:composer/wpelevator/php-changesets@2.0.1
