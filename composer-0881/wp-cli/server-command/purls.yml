@@ -30,3 +30,4 @@
 - pkg:composer/wp-cli/server-command@v2.0.9
 - pkg:composer/wp-cli/server-command@v3.0.0
 - pkg:composer/wp-cli/server-command@v3.0.1
+- pkg:composer/wp-cli/server-command@v3.0.2

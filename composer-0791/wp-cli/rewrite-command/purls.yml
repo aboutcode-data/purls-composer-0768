@@ -24,3 +24,4 @@
 - pkg:composer/wp-cli/rewrite-command@v2.0.8
 - pkg:composer/wp-cli/rewrite-command@v2.0.9
 - pkg:composer/wp-cli/rewrite-command@v3.0.0
+- pkg:composer/wp-cli/rewrite-command@v3.0.1
