@@ -27,6 +27,10 @@
 - pkg:composer/vrok/symfony-addons@3.4.0
 - pkg:composer/vrok/symfony-addons@3.5.0
 - pkg:composer/vrok/symfony-addons@3.6.0
+- pkg:composer/vrok/symfony-addons@3.7.0
+- pkg:composer/vrok/symfony-addons@3.8.0
+- pkg:composer/vrok/symfony-addons@4.0.0
+- pkg:composer/vrok/symfony-addons@4.1.0
 - pkg:composer/vrok/symfony-addons@v1.0.0
 - pkg:composer/vrok/symfony-addons@v1.1.0
 - pkg:composer/vrok/symfony-addons@v1.1.1
