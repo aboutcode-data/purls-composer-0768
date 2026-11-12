@@ -5,7 +5,12 @@
 - pkg:composer/xlabs/centrobillbundle@1.0.4
 - pkg:composer/xlabs/centrobillbundle@1.0.5
 - pkg:composer/xlabs/centrobillbundle@1.0.6
+- pkg:composer/xlabs/centrobillbundle@1.0.6.1
 - pkg:composer/xlabs/centrobillbundle@5.0.0
 - pkg:composer/xlabs/centrobillbundle@5.0.1
 - pkg:composer/xlabs/centrobillbundle@7.0.0
 - pkg:composer/xlabs/centrobillbundle@7.0.1
+- pkg:composer/xlabs/centrobillbundle@7.0.2
+- pkg:composer/xlabs/centrobillbundle@7.0.3
+- pkg:composer/xlabs/centrobillbundle@7.0.4
+- pkg:composer/xlabs/centrobillbundle@7.0.5
