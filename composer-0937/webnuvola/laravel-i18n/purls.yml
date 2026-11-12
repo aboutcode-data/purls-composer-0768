@@ -21,3 +21,4 @@
 - pkg:composer/webnuvola/laravel-i18n@v2.1.0
 - pkg:composer/webnuvola/laravel-i18n@v2.2.0
 - pkg:composer/webnuvola/laravel-i18n@v2.3.0
+- pkg:composer/webnuvola/laravel-i18n@v2.4.0
