@@ -27,3 +27,6 @@
 - pkg:composer/van-ons/filament-content-builder@v2.5.0
 - pkg:composer/van-ons/filament-content-builder@v2.5.1
 - pkg:composer/van-ons/filament-content-builder@v2.6.0
+- pkg:composer/van-ons/filament-content-builder@v2.7.0
+- pkg:composer/van-ons/filament-content-builder@v2.8.0
+- pkg:composer/van-ons/filament-content-builder@v2.8.1
