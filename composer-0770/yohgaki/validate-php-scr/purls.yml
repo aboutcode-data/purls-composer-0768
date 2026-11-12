@@ -1,1 +1,10 @@
 - pkg:composer/yohgaki/validate-php-scr@v0.8.0
+- pkg:composer/yohgaki/validate-php-scr@v1.0.500
+- pkg:composer/yohgaki/validate-php-scr@v1.0.501
+- pkg:composer/yohgaki/validate-php-scr@v1.0.502
+- pkg:composer/yohgaki/validate-php-scr@v1.0.700
+- pkg:composer/yohgaki/validate-php-scr@v1.0.701
+- pkg:composer/yohgaki/validate-php-scr@v1.0.702
+- pkg:composer/yohgaki/validate-php-scr@v1.0.800
+- pkg:composer/yohgaki/validate-php-scr@v1.0.801
+- pkg:composer/yohgaki/validate-php-scr@v1.0.802

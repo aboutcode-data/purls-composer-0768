@@ -25,3 +25,4 @@
 - pkg:composer/yokai/batch-symfony-serializer@0.7.5
 - pkg:composer/yokai/batch-symfony-serializer@0.7.6
 - pkg:composer/yokai/batch-symfony-serializer@0.7.7
+- pkg:composer/yokai/batch-symfony-serializer@0.8.0
