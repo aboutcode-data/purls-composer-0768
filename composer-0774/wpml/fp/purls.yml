@@ -21,3 +21,4 @@
 - pkg:composer/wpml/fp@0.2.8
 - pkg:composer/wpml/fp@0.2.9
 - pkg:composer/wpml/fp@5.0.0
+- pkg:composer/wpml/fp@5.4.0

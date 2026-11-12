@@ -120,6 +120,10 @@
 - pkg:composer/wpmetabox/meta-box@5.14.1
 - pkg:composer/wpmetabox/meta-box@5.15.0
 - pkg:composer/wpmetabox/meta-box@5.15.1
+- pkg:composer/wpmetabox/meta-box@5.15.2
+- pkg:composer/wpmetabox/meta-box@5.15.3
+- pkg:composer/wpmetabox/meta-box@5.15.4
+- pkg:composer/wpmetabox/meta-box@5.15.5
 - pkg:composer/wpmetabox/meta-box@5.2.0
 - pkg:composer/wpmetabox/meta-box@5.2.1
 - pkg:composer/wpmetabox/meta-box@5.2.10
