@@ -13,6 +13,8 @@
 - pkg:composer/wapplersystems/videos@11.0.9
 - pkg:composer/wapplersystems/videos@12.0.0
 - pkg:composer/wapplersystems/videos@12.0.1
+- pkg:composer/wapplersystems/videos@12.0.10
+- pkg:composer/wapplersystems/videos@12.0.11
 - pkg:composer/wapplersystems/videos@12.0.2
 - pkg:composer/wapplersystems/videos@12.0.3
 - pkg:composer/wapplersystems/videos@12.0.4
@@ -25,5 +27,10 @@
 - pkg:composer/wapplersystems/videos@13.1.0
 - pkg:composer/wapplersystems/videos@13.1.1
 - pkg:composer/wapplersystems/videos@13.1.2
+- pkg:composer/wapplersystems/videos@13.1.3
 - pkg:composer/wapplersystems/videos@14.0.0
 - pkg:composer/wapplersystems/videos@14.0.1
+- pkg:composer/wapplersystems/videos@14.0.2
+- pkg:composer/wapplersystems/videos@14.0.3
+- pkg:composer/wapplersystems/videos@14.0.4
+- pkg:composer/wapplersystems/videos@14.0.5

@@ -5,3 +5,4 @@
 - pkg:composer/wapplersystems/core-upgrader@12.0.4
 - pkg:composer/wapplersystems/core-upgrader@13.0.0
 - pkg:composer/wapplersystems/core-upgrader@13.0.1
+- pkg:composer/wapplersystems/core-upgrader@14.0.0
