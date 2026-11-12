@@ -13,3 +13,6 @@
 - pkg:composer/webservco/form@v0.2.2
 - pkg:composer/webservco/form@v0.8.0
 - pkg:composer/webservco/form@v1.0.0
+- pkg:composer/webservco/form@v2.0.0
+- pkg:composer/webservco/form@v2.1.0
+- pkg:composer/webservco/form@v2.3.0

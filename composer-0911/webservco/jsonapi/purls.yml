@@ -11,3 +11,6 @@
 - pkg:composer/webservco/jsonapi@v0.1.5
 - pkg:composer/webservco/jsonapi@v0.8.0
 - pkg:composer/webservco/jsonapi@v1.0.0
+- pkg:composer/webservco/jsonapi@v2.0.0
+- pkg:composer/webservco/jsonapi@v2.1.0
+- pkg:composer/webservco/jsonapi@v2.3.0

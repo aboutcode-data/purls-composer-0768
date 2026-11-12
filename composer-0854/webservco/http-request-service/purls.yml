@@ -6,3 +6,7 @@
 - pkg:composer/webservco/http-request-service@v0.0.6
 - pkg:composer/webservco/http-request-service@v0.8.0
 - pkg:composer/webservco/http-request-service@v1.0.0
+- pkg:composer/webservco/http-request-service@v2.0.0
+- pkg:composer/webservco/http-request-service@v2.0.1
+- pkg:composer/webservco/http-request-service@v2.1.0
+- pkg:composer/webservco/http-request-service@v2.3.0

@@ -1,3 +1,6 @@
 - pkg:composer/webservco/memory@v0.0.1
 - pkg:composer/webservco/memory@v0.8.0
 - pkg:composer/webservco/memory@v1.0.0
+- pkg:composer/webservco/memory@v2.0.0
+- pkg:composer/webservco/memory@v2.1.0
+- pkg:composer/webservco/memory@v2.3.0
