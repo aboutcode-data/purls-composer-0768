@@ -1,3 +1,5 @@
 - pkg:composer/wazum/typo3-live-reload@2.0.0
 - pkg:composer/wazum/typo3-live-reload@2.1.0
 - pkg:composer/wazum/typo3-live-reload@2.2.0
+- pkg:composer/wazum/typo3-live-reload@2.2.1
+- pkg:composer/wazum/typo3-live-reload@2.3.0
