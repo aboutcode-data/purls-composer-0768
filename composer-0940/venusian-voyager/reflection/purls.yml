@@ -1,4 +1,6 @@
 - pkg:composer/venusian-voyager/reflection@v0.10.0
+- pkg:composer/venusian-voyager/reflection@v0.10.10
+- pkg:composer/venusian-voyager/reflection@v0.11.0
 - pkg:composer/venusian-voyager/reflection@v0.8.0
 - pkg:composer/venusian-voyager/reflection@v0.8.1
 - pkg:composer/venusian-voyager/reflection@v0.9.0

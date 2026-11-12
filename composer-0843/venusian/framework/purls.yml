@@ -1,7 +1,15 @@
 - pkg:composer/venusian/framework@0.10.0
 - pkg:composer/venusian/framework@0.10.1
+- pkg:composer/venusian/framework@0.10.10
 - pkg:composer/venusian/framework@0.10.2
 - pkg:composer/venusian/framework@0.10.3
+- pkg:composer/venusian/framework@0.10.4
+- pkg:composer/venusian/framework@0.10.5
+- pkg:composer/venusian/framework@0.10.6
+- pkg:composer/venusian/framework@0.10.7
+- pkg:composer/venusian/framework@0.10.8
+- pkg:composer/venusian/framework@0.10.9
+- pkg:composer/venusian/framework@0.11.0
 - pkg:composer/venusian/framework@0.8.0
 - pkg:composer/venusian/framework@0.8.1
 - pkg:composer/venusian/framework@0.8.2
