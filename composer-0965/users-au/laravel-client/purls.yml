@@ -4,3 +4,7 @@
 - pkg:composer/users-au/laravel-client@1.1.2
 - pkg:composer/users-au/laravel-client@1.2.0
 - pkg:composer/users-au/laravel-client@1.2.1
+- pkg:composer/users-au/laravel-client@1.2.2
+- pkg:composer/users-au/laravel-client@v1.3.0
+- pkg:composer/users-au/laravel-client@v2.0.0
+- pkg:composer/users-au/laravel-client@v2.1.0
