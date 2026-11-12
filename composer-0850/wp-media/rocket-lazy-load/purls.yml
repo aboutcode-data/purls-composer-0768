@@ -34,3 +34,4 @@
 - pkg:composer/wp-media/rocket-lazy-load@v2.3.8.2
 - pkg:composer/wp-media/rocket-lazy-load@v2.3.9
 - pkg:composer/wp-media/rocket-lazy-load@v2.4.0
+- pkg:composer/wp-media/rocket-lazy-load@v2.4.1
