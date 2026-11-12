@@ -4,3 +4,4 @@
 - pkg:composer/wt-health/laravel-json-schema-request@v2.0.0
 - pkg:composer/wt-health/laravel-json-schema-request@v3.0.0
 - pkg:composer/wt-health/laravel-json-schema-request@v3.2.0
+- pkg:composer/wt-health/laravel-json-schema-request@v4.0.0
