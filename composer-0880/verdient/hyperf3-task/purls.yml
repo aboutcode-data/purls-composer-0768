@@ -1,2 +1,3 @@
 - pkg:composer/verdient/hyperf3-task@1.0.0
 - pkg:composer/verdient/hyperf3-task@2.0.0
+- pkg:composer/verdient/hyperf3-task@2.1.0
