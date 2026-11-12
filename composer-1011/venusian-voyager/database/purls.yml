@@ -1,4 +1,6 @@
 - pkg:composer/venusian-voyager/database@0.9.0
 - pkg:composer/venusian-voyager/database@v0.10.0
+- pkg:composer/venusian-voyager/database@v0.10.10
+- pkg:composer/venusian-voyager/database@v0.11.0
 - pkg:composer/venusian-voyager/database@v0.8.0
 - pkg:composer/venusian-voyager/database@v0.9.1
