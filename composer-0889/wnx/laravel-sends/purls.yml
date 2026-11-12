@@ -16,3 +16,4 @@
 - pkg:composer/wnx/laravel-sends@v2.7.0
 - pkg:composer/wnx/laravel-sends@v2.8.0
 - pkg:composer/wnx/laravel-sends@v2.8.1
+- pkg:composer/wnx/laravel-sends@v2.9.0
