@@ -24,3 +24,4 @@
 - pkg:composer/uspdev/laravel-tools@1.4.8
 - pkg:composer/uspdev/laravel-tools@1.5.0
 - pkg:composer/uspdev/laravel-tools@1.6.0
+- pkg:composer/uspdev/laravel-tools@1.7.0
