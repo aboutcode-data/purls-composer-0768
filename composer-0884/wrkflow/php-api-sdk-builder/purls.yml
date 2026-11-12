@@ -1,5 +1,6 @@
 - pkg:composer/wrkflow/php-api-sdk-builder@v0.1.0
 - pkg:composer/wrkflow/php-api-sdk-builder@v0.1.1
+- pkg:composer/wrkflow/php-api-sdk-builder@v0.2.0
 - pkg:composer/wrkflow/php-api-sdk-builder@v0.2.0-rc
 - pkg:composer/wrkflow/php-api-sdk-builder@v0.2.0-rc10
 - pkg:composer/wrkflow/php-api-sdk-builder@v0.2.0-rc11
