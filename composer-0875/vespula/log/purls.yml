@@ -30,3 +30,5 @@
 - pkg:composer/vespula/log@3.0.0
 - pkg:composer/vespula/log@3.0.1
 - pkg:composer/vespula/log@3.1.0
+- pkg:composer/vespula/log@4.0.0
+- pkg:composer/vespula/log@4.0.1
