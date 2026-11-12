@@ -3,3 +3,4 @@
 - pkg:composer/xoops/smartyextensions@v1.3.0
 - pkg:composer/xoops/smartyextensions@v1.3.0-Beta1
 - pkg:composer/xoops/smartyextensions@v1.3.0-Beta2
+- pkg:composer/xoops/smartyextensions@v2.0.0-Beta1
