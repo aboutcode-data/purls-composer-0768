@@ -1,4 +1,5 @@
 - pkg:composer/wotz/filament-brigada-cms@v0.1.0
+- pkg:composer/wotz/filament-brigada-cms@v0.10.0
 - pkg:composer/wotz/filament-brigada-cms@v0.2.0
 - pkg:composer/wotz/filament-brigada-cms@v0.2.1
 - pkg:composer/wotz/filament-brigada-cms@v0.3.0
@@ -12,3 +13,4 @@
 - pkg:composer/wotz/filament-brigada-cms@v0.8.0
 - pkg:composer/wotz/filament-brigada-cms@v0.8.1
 - pkg:composer/wotz/filament-brigada-cms@v0.8.2
+- pkg:composer/wotz/filament-brigada-cms@v0.9.0
