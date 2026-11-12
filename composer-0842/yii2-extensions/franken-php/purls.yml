@@ -3,3 +3,5 @@
 - pkg:composer/yii2-extensions/franken-php@0.1.2
 - pkg:composer/yii2-extensions/franken-php@0.2.0
 - pkg:composer/yii2-extensions/franken-php@0.3.0
+- pkg:composer/yii2-extensions/franken-php@0.4.0
+- pkg:composer/yii2-extensions/franken-php@0.4.1
