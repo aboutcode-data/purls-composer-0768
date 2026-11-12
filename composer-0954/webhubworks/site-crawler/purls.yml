@@ -36,3 +36,4 @@
 - pkg:composer/webhubworks/site-crawler@3.3.2
 - pkg:composer/webhubworks/site-crawler@3.4.0
 - pkg:composer/webhubworks/site-crawler@3.4.1
+- pkg:composer/webhubworks/site-crawler@3.5.0
