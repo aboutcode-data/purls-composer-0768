@@ -3,3 +3,5 @@
 - pkg:composer/zhushide/thinkphp-filesystem-cloud@v1.0.2
 - pkg:composer/zhushide/thinkphp-filesystem-cloud@v1.0.3
 - pkg:composer/zhushide/thinkphp-filesystem-cloud@v2.0.0
+- pkg:composer/zhushide/thinkphp-filesystem-cloud@v3.0.0
+- pkg:composer/zhushide/thinkphp-filesystem-cloud@v3.0.1
