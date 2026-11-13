@@ -146,6 +146,7 @@
 - pkg:composer/tinymvc/tinycore@v4.2.22
 - pkg:composer/tinymvc/tinycore@v4.2.23
 - pkg:composer/tinymvc/tinycore@v4.2.24
+- pkg:composer/tinymvc/tinycore@v4.2.25
 - pkg:composer/tinymvc/tinycore@v4.2.3
 - pkg:composer/tinymvc/tinycore@v4.2.4
 - pkg:composer/tinymvc/tinycore@v4.2.5
