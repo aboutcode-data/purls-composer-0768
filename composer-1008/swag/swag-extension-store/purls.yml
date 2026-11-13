@@ -46,3 +46,4 @@
 - pkg:composer/swag/swag-extension-store@4.2.3
 - pkg:composer/swag/swag-extension-store@6.0.0
 - pkg:composer/swag/swag-extension-store@7.0.0
+- pkg:composer/swag/swag-extension-store@7.0.1
