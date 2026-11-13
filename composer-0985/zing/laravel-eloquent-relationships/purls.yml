@@ -16,3 +16,4 @@
 - pkg:composer/zing/laravel-eloquent-relationships@2.2.1
 - pkg:composer/zing/laravel-eloquent-relationships@2.3.0
 - pkg:composer/zing/laravel-eloquent-relationships@2.4.0
+- pkg:composer/zing/laravel-eloquent-relationships@2.4.1
