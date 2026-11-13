@@ -15,6 +15,8 @@
 - pkg:composer/aaron-dev/xhprof-webman@v3.0.6
 - pkg:composer/aaron-dev/xhprof-webman@v3.1.0
 - pkg:composer/aaron-dev/xhprof-webman@v3.1.1
+- pkg:composer/aaron-dev/xhprof-webman@v3.10.0
+- pkg:composer/aaron-dev/xhprof-webman@v3.10.1
 - pkg:composer/aaron-dev/xhprof-webman@v3.2.0
 - pkg:composer/aaron-dev/xhprof-webman@v3.3.0
 - pkg:composer/aaron-dev/xhprof-webman@v3.3.1
