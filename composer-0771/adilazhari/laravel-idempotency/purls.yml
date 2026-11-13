@@ -1,1 +1,2 @@
 - pkg:composer/adilazhari/laravel-idempotency@v1.0.0
+- pkg:composer/adilazhari/laravel-idempotency@v1.1.0
