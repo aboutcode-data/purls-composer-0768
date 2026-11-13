@@ -6,3 +6,5 @@
 - pkg:composer/3brs/sylius-payment-fee-plugin@v2.0.1
 - pkg:composer/3brs/sylius-payment-fee-plugin@v2.0.2
 - pkg:composer/3brs/sylius-payment-fee-plugin@v2.1.0
+- pkg:composer/3brs/sylius-payment-fee-plugin@v2.2.0
+- pkg:composer/3brs/sylius-payment-fee-plugin@v2.2.1
