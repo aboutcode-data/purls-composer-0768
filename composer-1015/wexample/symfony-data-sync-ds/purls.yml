@@ -35,3 +35,4 @@
 - pkg:composer/wexample/symfony-data-sync-ds@3.0.6
 - pkg:composer/wexample/symfony-data-sync-ds@3.0.7
 - pkg:composer/wexample/symfony-data-sync-ds@3.0.8
+- pkg:composer/wexample/symfony-data-sync-ds@3.0.9

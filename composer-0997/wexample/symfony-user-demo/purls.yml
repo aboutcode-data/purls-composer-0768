@@ -28,6 +28,7 @@
 - pkg:composer/wexample/symfony-user-demo@8.0.15
 - pkg:composer/wexample/symfony-user-demo@8.0.16
 - pkg:composer/wexample/symfony-user-demo@8.0.17
+- pkg:composer/wexample/symfony-user-demo@8.0.18
 - pkg:composer/wexample/symfony-user-demo@8.0.2
 - pkg:composer/wexample/symfony-user-demo@8.0.3
 - pkg:composer/wexample/symfony-user-demo@8.0.4

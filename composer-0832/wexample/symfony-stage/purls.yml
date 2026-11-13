@@ -124,6 +124,7 @@
 - pkg:composer/wexample/symfony-stage@2.0.10
 - pkg:composer/wexample/symfony-stage@2.0.11
 - pkg:composer/wexample/symfony-stage@2.0.12
+- pkg:composer/wexample/symfony-stage@2.0.13
 - pkg:composer/wexample/symfony-stage@2.0.2
 - pkg:composer/wexample/symfony-stage@2.0.3
 - pkg:composer/wexample/symfony-stage@2.0.4
