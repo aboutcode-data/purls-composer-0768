@@ -8,3 +8,4 @@
 - pkg:composer/zenstruck/messenger-monitor-bundle@v0.5.3
 - pkg:composer/zenstruck/messenger-monitor-bundle@v0.5.4
 - pkg:composer/zenstruck/messenger-monitor-bundle@v0.6.0
+- pkg:composer/zenstruck/messenger-monitor-bundle@v0.7.0
