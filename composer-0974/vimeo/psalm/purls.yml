@@ -543,6 +543,7 @@
 - pkg:composer/vimeo/psalm@7.2.1
 - pkg:composer/vimeo/psalm@7.3.0
 - pkg:composer/vimeo/psalm@7.3.1
+- pkg:composer/vimeo/psalm@7.3.2
 - pkg:composer/vimeo/psalm@v4.14.0
 - pkg:composer/vimeo/psalm@v4.15.0
 - pkg:composer/vimeo/psalm@v4.25.0
