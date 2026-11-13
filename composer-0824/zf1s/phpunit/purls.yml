@@ -5,3 +5,4 @@
 - pkg:composer/zf1s/phpunit@3.7.42
 - pkg:composer/zf1s/phpunit@3.7.43
 - pkg:composer/zf1s/phpunit@3.7.44
+- pkg:composer/zf1s/phpunit@3.7.45
