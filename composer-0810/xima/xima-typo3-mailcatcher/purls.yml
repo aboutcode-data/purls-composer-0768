@@ -3,6 +3,7 @@
 - pkg:composer/xima/xima-typo3-mailcatcher@1.5.0
 - pkg:composer/xima/xima-typo3-mailcatcher@1.6.0
 - pkg:composer/xima/xima-typo3-mailcatcher@1.6.1
+- pkg:composer/xima/xima-typo3-mailcatcher@2.0.0
 - pkg:composer/xima/xima-typo3-mailcatcher@v1.0.0
 - pkg:composer/xima/xima-typo3-mailcatcher@v1.1.0
 - pkg:composer/xima/xima-typo3-mailcatcher@v1.2.0
