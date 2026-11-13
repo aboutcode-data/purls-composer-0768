@@ -55,6 +55,11 @@
 - pkg:composer/51degrees/fiftyone.devicedetection@4.5.19
 - pkg:composer/51degrees/fiftyone.devicedetection@4.5.2.0
 - pkg:composer/51degrees/fiftyone.devicedetection@4.5.20
+- pkg:composer/51degrees/fiftyone.devicedetection@4.5.203
+- pkg:composer/51degrees/fiftyone.devicedetection@4.5.204
+- pkg:composer/51degrees/fiftyone.devicedetection@4.5.205
+- pkg:composer/51degrees/fiftyone.devicedetection@4.5.206
+- pkg:composer/51degrees/fiftyone.devicedetection@4.5.207
 - pkg:composer/51degrees/fiftyone.devicedetection@4.5.21
 - pkg:composer/51degrees/fiftyone.devicedetection@4.5.22
 - pkg:composer/51degrees/fiftyone.devicedetection@4.5.23
