@@ -3,3 +3,4 @@
 - pkg:composer/verdient/hyperf3-http-action-async-job@2.0.2
 - pkg:composer/verdient/hyperf3-http-action-async-job@2.0.3
 - pkg:composer/verdient/hyperf3-http-action-async-job@2.1.0
+- pkg:composer/verdient/hyperf3-http-action-async-job@3.2.0
