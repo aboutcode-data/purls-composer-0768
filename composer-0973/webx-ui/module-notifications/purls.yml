@@ -19,3 +19,4 @@
 - pkg:composer/webx-ui/module-notifications@v0.93.0
 - pkg:composer/webx-ui/module-notifications@v0.94.0
 - pkg:composer/webx-ui/module-notifications@v0.95.0
+- pkg:composer/webx-ui/module-notifications@v0.95.1
