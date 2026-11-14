@@ -2,3 +2,4 @@
 - pkg:composer/bckp/translator-nette@v2.0.0-rc1
 - pkg:composer/bckp/translator-nette@v2.0.0-rc2
 - pkg:composer/bckp/translator-nette@v2.0.0-rc3
+- pkg:composer/bckp/translator-nette@v3.0.0
