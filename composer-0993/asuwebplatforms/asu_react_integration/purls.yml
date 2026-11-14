@@ -46,6 +46,10 @@
 - pkg:composer/asuwebplatforms/asu_react_integration@2.19.7
 - pkg:composer/asuwebplatforms/asu_react_integration@2.19.8
 - pkg:composer/asuwebplatforms/asu_react_integration@2.19.9
+- pkg:composer/asuwebplatforms/asu_react_integration@2.20.0
+- pkg:composer/asuwebplatforms/asu_react_integration@2.20.1
+- pkg:composer/asuwebplatforms/asu_react_integration@2.20.2
+- pkg:composer/asuwebplatforms/asu_react_integration@2.20.3
 - pkg:composer/asuwebplatforms/asu_react_integration@v2.14.1
 - pkg:composer/asuwebplatforms/asu_react_integration@v2.15.1
 - pkg:composer/asuwebplatforms/asu_react_integration@v2.15.2
