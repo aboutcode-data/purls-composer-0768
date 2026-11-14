@@ -35,4 +35,5 @@
 - pkg:composer/amritms/invoice-gateways@0.4.1
 - pkg:composer/amritms/invoice-gateways@0.4.2
 - pkg:composer/amritms/invoice-gateways@0.5.0
+- pkg:composer/amritms/invoice-gateways@0.5.1
 - pkg:composer/amritms/invoice-gateways@v0.4.3
