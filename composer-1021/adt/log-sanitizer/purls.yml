@@ -1,3 +1,6 @@
 - pkg:composer/adt/log-sanitizer@v1.0.0
 - pkg:composer/adt/log-sanitizer@v1.0.1
 - pkg:composer/adt/log-sanitizer@v1.1
+- pkg:composer/adt/log-sanitizer@v1.2
+- pkg:composer/adt/log-sanitizer@v1.3
+- pkg:composer/adt/log-sanitizer@v1.3.1

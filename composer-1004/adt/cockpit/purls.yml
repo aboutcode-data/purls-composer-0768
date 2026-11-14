@@ -9,3 +9,4 @@
 - pkg:composer/adt/cockpit@v1.1.7
 - pkg:composer/adt/cockpit@v1.2
 - pkg:composer/adt/cockpit@v1.2.1
+- pkg:composer/adt/cockpit@v2.0
