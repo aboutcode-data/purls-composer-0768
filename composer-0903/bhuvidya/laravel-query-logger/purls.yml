@@ -3,6 +3,11 @@
 - pkg:composer/bhuvidya/laravel-query-logger@v0.3
 - pkg:composer/bhuvidya/laravel-query-logger@v0.4
 - pkg:composer/bhuvidya/laravel-query-logger@v0.5
+- pkg:composer/bhuvidya/laravel-query-logger@v10.0
+- pkg:composer/bhuvidya/laravel-query-logger@v11.0
+- pkg:composer/bhuvidya/laravel-query-logger@v12.0
+- pkg:composer/bhuvidya/laravel-query-logger@v13.0
 - pkg:composer/bhuvidya/laravel-query-logger@v8.0
 - pkg:composer/bhuvidya/laravel-query-logger@v8.0.1
 - pkg:composer/bhuvidya/laravel-query-logger@v8.0.2
+- pkg:composer/bhuvidya/laravel-query-logger@v9.0
