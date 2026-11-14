@@ -8,3 +8,4 @@
 - pkg:composer/afbora/kirby-loader@2.2.0
 - pkg:composer/afbora/kirby-loader@2.3.0
 - pkg:composer/afbora/kirby-loader@2.3.2
+- pkg:composer/afbora/kirby-loader@3.0.0
