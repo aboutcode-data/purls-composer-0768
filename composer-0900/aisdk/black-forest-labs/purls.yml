@@ -1,2 +1,7 @@
+- pkg:composer/aisdk/black-forest-labs@v0.10.0
+- pkg:composer/aisdk/black-forest-labs@v0.10.1
+- pkg:composer/aisdk/black-forest-labs@v0.10.2
+- pkg:composer/aisdk/black-forest-labs@v0.11.0
+- pkg:composer/aisdk/black-forest-labs@v0.11.1
 - pkg:composer/aisdk/black-forest-labs@v0.8.0
 - pkg:composer/aisdk/black-forest-labs@v0.8.1

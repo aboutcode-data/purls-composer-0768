@@ -1,2 +1,5 @@
+- pkg:composer/aisdk/baseten@v0.10.0
+- pkg:composer/aisdk/baseten@v0.11.0
+- pkg:composer/aisdk/baseten@v0.11.1
 - pkg:composer/aisdk/baseten@v0.8.0
 - pkg:composer/aisdk/baseten@v0.8.1

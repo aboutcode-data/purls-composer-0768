@@ -1,3 +1,6 @@
+- pkg:composer/aisdk/ollama@v0.10.0
+- pkg:composer/aisdk/ollama@v0.11.0
+- pkg:composer/aisdk/ollama@v0.11.1
 - pkg:composer/aisdk/ollama@v0.4.0
 - pkg:composer/aisdk/ollama@v0.5.0
 - pkg:composer/aisdk/ollama@v0.5.1

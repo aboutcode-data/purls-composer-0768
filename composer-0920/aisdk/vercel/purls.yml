@@ -1,2 +1,5 @@
+- pkg:composer/aisdk/vercel@v0.10.0
+- pkg:composer/aisdk/vercel@v0.11.0
+- pkg:composer/aisdk/vercel@v0.11.1
 - pkg:composer/aisdk/vercel@v0.8.0
 - pkg:composer/aisdk/vercel@v0.8.1
