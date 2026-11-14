@@ -10,3 +10,5 @@
 - pkg:composer/bfabio/publiccode-parser-php@v1.1.1
 - pkg:composer/bfabio/publiccode-parser-php@v1.2.0
 - pkg:composer/bfabio/publiccode-parser-php@v1.3.0
+- pkg:composer/bfabio/publiccode-parser-php@v1.4.0
+- pkg:composer/bfabio/publiccode-parser-php@v1.4.1
