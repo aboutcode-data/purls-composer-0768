@@ -16,3 +16,4 @@
 - pkg:composer/artemeon/http-client@1.1.0
 - pkg:composer/artemeon/http-client@1.1.1
 - pkg:composer/artemeon/http-client@1.1.2
+- pkg:composer/artemeon/http-client@1.1.3
