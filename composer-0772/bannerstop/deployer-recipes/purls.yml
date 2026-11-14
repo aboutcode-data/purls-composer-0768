@@ -1,3 +1,5 @@
 - pkg:composer/bannerstop/deployer-recipes@v6.0.0
 - pkg:composer/bannerstop/deployer-recipes@v6.1.0
+- pkg:composer/bannerstop/deployer-recipes@v6.2.0
 - pkg:composer/bannerstop/deployer-recipes@v7.0.0
+- pkg:composer/bannerstop/deployer-recipes@v7.1.0
