@@ -43,7 +43,14 @@
 - pkg:composer/andydefer/laravel-cluster@v0.23.24
 - pkg:composer/andydefer/laravel-cluster@v0.23.25
 - pkg:composer/andydefer/laravel-cluster@v0.23.26
+- pkg:composer/andydefer/laravel-cluster@v0.23.27
+- pkg:composer/andydefer/laravel-cluster@v0.23.28
+- pkg:composer/andydefer/laravel-cluster@v0.23.29
 - pkg:composer/andydefer/laravel-cluster@v0.23.3
+- pkg:composer/andydefer/laravel-cluster@v0.23.30
+- pkg:composer/andydefer/laravel-cluster@v0.23.31
+- pkg:composer/andydefer/laravel-cluster@v0.23.32
+- pkg:composer/andydefer/laravel-cluster@v0.23.33
 - pkg:composer/andydefer/laravel-cluster@v0.23.4
 - pkg:composer/andydefer/laravel-cluster@v0.23.5
 - pkg:composer/andydefer/laravel-cluster@v0.23.6
