@@ -1,0 +1,4 @@
+- pkg:composer/bitlane/wordpress@0.6.0
+- pkg:composer/bitlane/wordpress@0.6.1
+- pkg:composer/bitlane/wordpress@v0.5.0
+- pkg:composer/bitlane/wordpress@v0.5.1
