@@ -74,3 +74,6 @@
 - pkg:composer/alibabacloud/adb-20211201@5.2.0
 - pkg:composer/alibabacloud/adb-20211201@5.3.0
 - pkg:composer/alibabacloud/adb-20211201@5.4.0
+- pkg:composer/alibabacloud/adb-20211201@5.5.0
+- pkg:composer/alibabacloud/adb-20211201@5.5.1
+- pkg:composer/alibabacloud/adb-20211201@5.6.0
