@@ -1,3 +1,4 @@
 - pkg:composer/alex433/laravel-eloquent-cache@v0.9
 - pkg:composer/alex433/laravel-eloquent-cache@v0.9.1
 - pkg:composer/alex433/laravel-eloquent-cache@v0.9.2
+- pkg:composer/alex433/laravel-eloquent-cache@v0.9.3
