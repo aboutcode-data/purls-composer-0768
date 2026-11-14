@@ -39,7 +39,10 @@
 - pkg:composer/banago/phploy@4.8.5
 - pkg:composer/banago/phploy@4.9.2
 - pkg:composer/banago/phploy@4.9.3
+- pkg:composer/banago/phploy@5.0.0
 - pkg:composer/banago/phploy@5.0.0-beta
+- pkg:composer/banago/phploy@5.0.0-beta2
+- pkg:composer/banago/phploy@5.0.0-rc
 - pkg:composer/banago/phploy@v3.0.0-alpha
 - pkg:composer/banago/phploy@v3.0.10-alpha
 - pkg:composer/banago/phploy@v3.0.11-alpha
