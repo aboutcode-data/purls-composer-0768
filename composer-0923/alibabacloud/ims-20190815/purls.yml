@@ -33,3 +33,5 @@
 - pkg:composer/alibabacloud/ims-20190815@3.4.0
 - pkg:composer/alibabacloud/ims-20190815@3.4.1
 - pkg:composer/alibabacloud/ims-20190815@3.4.2
+- pkg:composer/alibabacloud/ims-20190815@3.5.0
+- pkg:composer/alibabacloud/ims-20190815@3.6.0
