@@ -96,6 +96,7 @@
 - pkg:composer/agoradesign/agoratheme@3.0.9
 - pkg:composer/agoradesign/agoratheme@3.1.0
 - pkg:composer/agoradesign/agoratheme@3.1.1
+- pkg:composer/agoradesign/agoratheme@3.2.0
 - pkg:composer/agoradesign/agoratheme@4.0.0
 - pkg:composer/agoradesign/agoratheme@4.0.1
 - pkg:composer/agoradesign/agoratheme@4.0.2
@@ -119,6 +120,7 @@
 - pkg:composer/agoradesign/agoratheme@4.4.6
 - pkg:composer/agoradesign/agoratheme@4.4.7
 - pkg:composer/agoradesign/agoratheme@4.4.8
+- pkg:composer/agoradesign/agoratheme@4.5.0
 - pkg:composer/agoradesign/agoratheme@5.0.0
 - pkg:composer/agoradesign/agoratheme@5.0.1
 - pkg:composer/agoradesign/agoratheme@5.0.2
@@ -167,6 +169,8 @@
 - pkg:composer/agoradesign/agoratheme@6.0.0-alpha3
 - pkg:composer/agoradesign/agoratheme@6.0.0-alpha30
 - pkg:composer/agoradesign/agoratheme@6.0.0-alpha31
+- pkg:composer/agoradesign/agoratheme@6.0.0-alpha32
+- pkg:composer/agoradesign/agoratheme@6.0.0-alpha33
 - pkg:composer/agoradesign/agoratheme@6.0.0-alpha4
 - pkg:composer/agoradesign/agoratheme@6.0.0-alpha5
 - pkg:composer/agoradesign/agoratheme@6.0.0-alpha6
