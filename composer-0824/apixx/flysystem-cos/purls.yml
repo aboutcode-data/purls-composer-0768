@@ -1,1 +1,2 @@
 - pkg:composer/apixx/flysystem-cos@1.0
+- pkg:composer/apixx/flysystem-cos@v1.0.1
