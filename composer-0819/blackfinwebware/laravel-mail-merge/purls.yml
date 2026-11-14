@@ -1,1 +1,3 @@
+- pkg:composer/blackfinwebware/laravel-mail-merge@1.0.0
 - pkg:composer/blackfinwebware/laravel-mail-merge@1.0.0beta
+- pkg:composer/blackfinwebware/laravel-mail-merge@1.1.0
