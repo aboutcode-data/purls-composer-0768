@@ -1,3 +1,4 @@
 - pkg:composer/aporat/laravel-auth-signature@v1.0.0
 - pkg:composer/aporat/laravel-auth-signature@v3.0.0
 - pkg:composer/aporat/laravel-auth-signature@v3.1.0
+- pkg:composer/aporat/laravel-auth-signature@v3.2.0
