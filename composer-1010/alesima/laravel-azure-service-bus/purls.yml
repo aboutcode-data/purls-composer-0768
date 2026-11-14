@@ -4,3 +4,4 @@
 - pkg:composer/alesima/laravel-azure-service-bus@1.0.5
 - pkg:composer/alesima/laravel-azure-service-bus@1.0.6
 - pkg:composer/alesima/laravel-azure-service-bus@1.0.7
+- pkg:composer/alesima/laravel-azure-service-bus@v2.0.0
