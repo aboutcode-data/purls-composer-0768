@@ -5,6 +5,7 @@
 - pkg:composer/alcamo/spreadsheet@0.10.0
 - pkg:composer/alcamo/spreadsheet@0.10.1
 - pkg:composer/alcamo/spreadsheet@0.10.2
+- pkg:composer/alcamo/spreadsheet@0.10.3
 - pkg:composer/alcamo/spreadsheet@0.2
 - pkg:composer/alcamo/spreadsheet@0.2.1
 - pkg:composer/alcamo/spreadsheet@0.3.0
