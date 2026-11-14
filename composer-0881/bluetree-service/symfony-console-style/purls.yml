@@ -9,3 +9,6 @@
 - pkg:composer/bluetree-service/symfony-console-style@0.6.0.0
 - pkg:composer/bluetree-service/symfony-console-style@0.6.1.1
 - pkg:composer/bluetree-service/symfony-console-style@0.7.0.0
+- pkg:composer/bluetree-service/symfony-console-style@0.8.0.0
+- pkg:composer/bluetree-service/symfony-console-style@0.8.1.0
+- pkg:composer/bluetree-service/symfony-console-style@0.8.2.0
