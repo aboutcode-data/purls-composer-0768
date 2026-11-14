@@ -70,3 +70,4 @@
 - pkg:composer/bizley/migration@4.4.2
 - pkg:composer/bizley/migration@4.4.3
 - pkg:composer/bizley/migration@4.4.4
+- pkg:composer/bizley/migration@5.0.0

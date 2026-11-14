@@ -11,6 +11,7 @@
 - pkg:composer/bizley/jwt@4.1.0
 - pkg:composer/bizley/jwt@4.1.1
 - pkg:composer/bizley/jwt@4.1.2
+- pkg:composer/bizley/jwt@4.2.0
 - pkg:composer/bizley/jwt@v1.0.0
 - pkg:composer/bizley/jwt@v1.0.1
 - pkg:composer/bizley/jwt@v1.0.2
