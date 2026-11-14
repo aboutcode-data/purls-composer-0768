@@ -50,3 +50,4 @@
 - pkg:composer/automattic/jetpack-image-guide@v1.0.7
 - pkg:composer/automattic/jetpack-image-guide@v1.0.8
 - pkg:composer/automattic/jetpack-image-guide@v1.0.9
+- pkg:composer/automattic/jetpack-image-guide@v2.0.0
