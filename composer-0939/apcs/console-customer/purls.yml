@@ -1,2 +1,3 @@
 - pkg:composer/apcs/console-customer@2.0
 - pkg:composer/apcs/console-customer@2.1
+- pkg:composer/apcs/console-customer@3.0.0
