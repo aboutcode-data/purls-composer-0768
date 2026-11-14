@@ -21,3 +21,4 @@
 - pkg:composer/amphp/sql-common@v2.0.2
 - pkg:composer/amphp/sql-common@v2.0.3
 - pkg:composer/amphp/sql-common@v2.0.4
+- pkg:composer/amphp/sql-common@v2.0.5
