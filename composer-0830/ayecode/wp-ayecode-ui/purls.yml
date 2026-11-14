@@ -149,9 +149,13 @@
 - pkg:composer/ayecode/wp-ayecode-ui@0.2.54
 - pkg:composer/ayecode/wp-ayecode-ui@0.2.55
 - pkg:composer/ayecode/wp-ayecode-ui@0.2.56
+- pkg:composer/ayecode/wp-ayecode-ui@0.2.57
+- pkg:composer/ayecode/wp-ayecode-ui@0.2.58
+- pkg:composer/ayecode/wp-ayecode-ui@0.2.59
 - pkg:composer/ayecode/wp-ayecode-ui@0.2.6
 - pkg:composer/ayecode/wp-ayecode-ui@0.2.8
 - pkg:composer/ayecode/wp-ayecode-ui@0.2.9
+- pkg:composer/ayecode/wp-ayecode-ui@0.3.0
 - pkg:composer/ayecode/wp-ayecode-ui@3.0.0-beta
 - pkg:composer/ayecode/wp-ayecode-ui@3.0.1-beta
 - pkg:composer/ayecode/wp-ayecode-ui@3.0.2-beta
