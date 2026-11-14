@@ -123,7 +123,11 @@
 - pkg:composer/automattic/jetpack-base-styles@v1.2.14
 - pkg:composer/automattic/jetpack-base-styles@v1.2.15
 - pkg:composer/automattic/jetpack-base-styles@v1.2.16
+- pkg:composer/automattic/jetpack-base-styles@v1.2.17
+- pkg:composer/automattic/jetpack-base-styles@v1.2.18
+- pkg:composer/automattic/jetpack-base-styles@v1.2.19
 - pkg:composer/automattic/jetpack-base-styles@v1.2.2
+- pkg:composer/automattic/jetpack-base-styles@v1.2.20
 - pkg:composer/automattic/jetpack-base-styles@v1.2.3
 - pkg:composer/automattic/jetpack-base-styles@v1.2.4
 - pkg:composer/automattic/jetpack-base-styles@v1.2.5
@@ -131,3 +135,4 @@
 - pkg:composer/automattic/jetpack-base-styles@v1.2.7
 - pkg:composer/automattic/jetpack-base-styles@v1.2.8
 - pkg:composer/automattic/jetpack-base-styles@v1.2.9
+- pkg:composer/automattic/jetpack-base-styles@v2.0.0

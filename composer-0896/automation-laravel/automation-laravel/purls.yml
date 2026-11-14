@@ -8,3 +8,10 @@
 - pkg:composer/automation-laravel/automation-laravel@v4.1.0
 - pkg:composer/automation-laravel/automation-laravel@v5.0.0
 - pkg:composer/automation-laravel/automation-laravel@v6.0.0
+- pkg:composer/automation-laravel/automation-laravel@v7.0.0
+- pkg:composer/automation-laravel/automation-laravel@v8.0.0
+- pkg:composer/automation-laravel/automation-laravel@v8.0.1
+- pkg:composer/automation-laravel/automation-laravel@v8.0.2
+- pkg:composer/automation-laravel/automation-laravel@v8.0.3
+- pkg:composer/automation-laravel/automation-laravel@v8.0.4
+- pkg:composer/automation-laravel/automation-laravel@v8.0.5

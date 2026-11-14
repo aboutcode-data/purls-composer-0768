@@ -1,5 +1,6 @@
 - pkg:composer/automattic/jetpack-codesniffer@v1.0.0
 - pkg:composer/automattic/jetpack-codesniffer@v1.1.0
+- pkg:composer/automattic/jetpack-codesniffer@v10.0.0
 - pkg:composer/automattic/jetpack-codesniffer@v2.0.0
 - pkg:composer/automattic/jetpack-codesniffer@v2.1.0
 - pkg:composer/automattic/jetpack-codesniffer@v2.1.1

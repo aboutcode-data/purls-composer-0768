@@ -158,6 +158,12 @@
 - pkg:composer/automattic/jetpack-blaze@v0.28.5
 - pkg:composer/automattic/jetpack-blaze@v0.29.0
 - pkg:composer/automattic/jetpack-blaze@v0.29.1
+- pkg:composer/automattic/jetpack-blaze@v0.29.10
+- pkg:composer/automattic/jetpack-blaze@v0.29.11
+- pkg:composer/automattic/jetpack-blaze@v0.29.12
+- pkg:composer/automattic/jetpack-blaze@v0.29.13
+- pkg:composer/automattic/jetpack-blaze@v0.29.14
+- pkg:composer/automattic/jetpack-blaze@v0.29.15
 - pkg:composer/automattic/jetpack-blaze@v0.29.2
 - pkg:composer/automattic/jetpack-blaze@v0.29.3
 - pkg:composer/automattic/jetpack-blaze@v0.29.4
@@ -165,6 +171,7 @@
 - pkg:composer/automattic/jetpack-blaze@v0.29.6
 - pkg:composer/automattic/jetpack-blaze@v0.29.7
 - pkg:composer/automattic/jetpack-blaze@v0.29.8
+- pkg:composer/automattic/jetpack-blaze@v0.29.9
 - pkg:composer/automattic/jetpack-blaze@v0.3.0
 - pkg:composer/automattic/jetpack-blaze@v0.3.1
 - pkg:composer/automattic/jetpack-blaze@v0.3.2

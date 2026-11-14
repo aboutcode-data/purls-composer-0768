@@ -79,3 +79,5 @@
 - pkg:composer/automattic/jetpack-changelogger@v7.0.2
 - pkg:composer/automattic/jetpack-changelogger@v7.0.3
 - pkg:composer/automattic/jetpack-changelogger@v7.0.4
+- pkg:composer/automattic/jetpack-changelogger@v7.0.5
+- pkg:composer/automattic/jetpack-changelogger@v7.0.6
