@@ -30,6 +30,8 @@
 - pkg:composer/aoepeople/crawler@12.0.7
 - pkg:composer/aoepeople/crawler@12.0.8
 - pkg:composer/aoepeople/crawler@12.0.9
+- pkg:composer/aoepeople/crawler@13.0.0
+- pkg:composer/aoepeople/crawler@13.0.1
 - pkg:composer/aoepeople/crawler@5.0.0
 - pkg:composer/aoepeople/crawler@5.0.1
 - pkg:composer/aoepeople/crawler@5.0.2
