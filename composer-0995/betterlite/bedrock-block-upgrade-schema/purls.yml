@@ -1,1 +1,2 @@
 - pkg:composer/betterlite/bedrock-block-upgrade-schema@5.4.1%2Bbedrock-1.26.50
+- pkg:composer/betterlite/bedrock-block-upgrade-schema@5.5.0
