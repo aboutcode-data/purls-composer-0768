@@ -1,3 +1,7 @@
 - pkg:composer/atoms/database-illuminate@0.4.0
 - pkg:composer/atoms/database-illuminate@0.5.0
 - pkg:composer/atoms/database-illuminate@0.6.0
+- pkg:composer/atoms/database-illuminate@0.7.0
+- pkg:composer/atoms/database-illuminate@0.8.0
+- pkg:composer/atoms/database-illuminate@0.9.0
+- pkg:composer/atoms/database-illuminate@0.9.1
