@@ -6,3 +6,4 @@
 - pkg:composer/adt/command-lock@v1.2.2
 - pkg:composer/adt/command-lock@v1.2.3
 - pkg:composer/adt/command-lock@v2.0
+- pkg:composer/adt/command-lock@v2.1
