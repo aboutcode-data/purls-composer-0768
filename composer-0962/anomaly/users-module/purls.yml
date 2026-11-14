@@ -226,6 +226,7 @@
 - pkg:composer/anomaly/users-module@v2.6.11
 - pkg:composer/anomaly/users-module@v2.6.12
 - pkg:composer/anomaly/users-module@v2.6.13
+- pkg:composer/anomaly/users-module@v2.6.14
 - pkg:composer/anomaly/users-module@v2.6.2
 - pkg:composer/anomaly/users-module@v2.6.3
 - pkg:composer/anomaly/users-module@v2.6.4
