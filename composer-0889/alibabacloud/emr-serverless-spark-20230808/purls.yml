@@ -46,3 +46,5 @@
 - pkg:composer/alibabacloud/emr-serverless-spark-20230808@1.9.0
 - pkg:composer/alibabacloud/emr-serverless-spark-20230808@2.0.0
 - pkg:composer/alibabacloud/emr-serverless-spark-20230808@2.1.0
+- pkg:composer/alibabacloud/emr-serverless-spark-20230808@2.2.0
+- pkg:composer/alibabacloud/emr-serverless-spark-20230808@2.3.0

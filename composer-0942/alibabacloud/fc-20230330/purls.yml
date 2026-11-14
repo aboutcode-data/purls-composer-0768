@@ -50,3 +50,6 @@
 - pkg:composer/alibabacloud/fc-20230330@4.8.0
 - pkg:composer/alibabacloud/fc-20230330@4.8.1
 - pkg:composer/alibabacloud/fc-20230330@4.8.2
+- pkg:composer/alibabacloud/fc-20230330@4.8.3
+- pkg:composer/alibabacloud/fc-20230330@4.8.4
+- pkg:composer/alibabacloud/fc-20230330@4.8.5
