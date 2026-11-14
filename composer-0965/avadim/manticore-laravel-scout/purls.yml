@@ -1,3 +1,4 @@
 - pkg:composer/avadim/manticore-laravel-scout@v2.0.0
 - pkg:composer/avadim/manticore-laravel-scout@v2.1.0
 - pkg:composer/avadim/manticore-laravel-scout@v3.0.0
+- pkg:composer/avadim/manticore-laravel-scout@v4.0.0-alpha.1
