@@ -27,3 +27,5 @@
 - pkg:composer/betalabs/laravel-api-handler@v4.0.0
 - pkg:composer/betalabs/laravel-api-handler@v4.0.1
 - pkg:composer/betalabs/laravel-api-handler@v4.0.2
+- pkg:composer/betalabs/laravel-api-handler@v5.0.0
+- pkg:composer/betalabs/laravel-api-handler@v5.0.1
