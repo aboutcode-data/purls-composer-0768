@@ -126,3 +126,5 @@
 - pkg:composer/altapay/magento2-community@4.2.4
 - pkg:composer/altapay/magento2-community@4.2.5
 - pkg:composer/altapay/magento2-community@4.3.0
+- pkg:composer/altapay/magento2-community@4.3.1
+- pkg:composer/altapay/magento2-community@4.3.2
