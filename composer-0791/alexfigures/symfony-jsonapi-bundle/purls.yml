@@ -27,3 +27,5 @@
 - pkg:composer/alexfigures/symfony-jsonapi-bundle@v0.1.7
 - pkg:composer/alexfigures/symfony-jsonapi-bundle@v0.1.8
 - pkg:composer/alexfigures/symfony-jsonapi-bundle@v0.1.9
+- pkg:composer/alexfigures/symfony-jsonapi-bundle@v1.0.0
+- pkg:composer/alexfigures/symfony-jsonapi-bundle@v1.0.0-RC
