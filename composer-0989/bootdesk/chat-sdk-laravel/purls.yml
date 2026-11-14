@@ -24,6 +24,8 @@
 - pkg:composer/bootdesk/chat-sdk-laravel@0.4.4
 - pkg:composer/bootdesk/chat-sdk-laravel@0.4.44
 - pkg:composer/bootdesk/chat-sdk-laravel@0.4.45
+- pkg:composer/bootdesk/chat-sdk-laravel@0.4.46
+- pkg:composer/bootdesk/chat-sdk-laravel@0.4.47
 - pkg:composer/bootdesk/chat-sdk-laravel@0.4.5
 - pkg:composer/bootdesk/chat-sdk-laravel@0.4.6
 - pkg:composer/bootdesk/chat-sdk-laravel@0.4.7
