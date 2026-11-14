@@ -12,3 +12,10 @@
 - pkg:composer/bronsted/psr-http@v1.4.4
 - pkg:composer/bronsted/psr-http@v1.4.5
 - pkg:composer/bronsted/psr-http@v2.0
+- pkg:composer/bronsted/psr-http@v2.1
+- pkg:composer/bronsted/psr-http@v3.0
+- pkg:composer/bronsted/psr-http@v3.0.1
+- pkg:composer/bronsted/psr-http@v3.0.2
+- pkg:composer/bronsted/psr-http@v3.0.3
+- pkg:composer/bronsted/psr-http@v3.0.4
+- pkg:composer/bronsted/psr-http@v3.1
