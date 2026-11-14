@@ -572,3 +572,6 @@
 - pkg:composer/alibabacloud/dingtalk@2.1.98
 - pkg:composer/alibabacloud/dingtalk@2.1.99
 - pkg:composer/alibabacloud/dingtalk@2.2.10
+- pkg:composer/alibabacloud/dingtalk@2.2.11
+- pkg:composer/alibabacloud/dingtalk@2.2.15
+- pkg:composer/alibabacloud/dingtalk@2.2.17
