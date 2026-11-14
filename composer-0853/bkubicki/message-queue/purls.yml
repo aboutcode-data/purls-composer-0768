@@ -1,3 +1,5 @@
 - pkg:composer/bkubicki/message-queue@1.0.1
 - pkg:composer/bkubicki/message-queue@1.0.2
 - pkg:composer/bkubicki/message-queue@1.1
+- pkg:composer/bkubicki/message-queue@1.2
+- pkg:composer/bkubicki/message-queue@1.2.1
