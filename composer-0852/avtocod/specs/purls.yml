@@ -233,6 +233,9 @@
 - pkg:composer/avtocod/specs@v5.30.0
 - pkg:composer/avtocod/specs@v5.31.0
 - pkg:composer/avtocod/specs@v5.32.0
+- pkg:composer/avtocod/specs@v5.33.0
+- pkg:composer/avtocod/specs@v5.34.0
+- pkg:composer/avtocod/specs@v5.35.0
 - pkg:composer/avtocod/specs@v5.4.0
 - pkg:composer/avtocod/specs@v5.5.0
 - pkg:composer/avtocod/specs@v5.6.0
