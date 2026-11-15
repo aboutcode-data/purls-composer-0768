@@ -20,3 +20,4 @@
 - pkg:composer/byerikas/cache-tags@2.0.7
 - pkg:composer/byerikas/cache-tags@3.0.0
 - pkg:composer/byerikas/cache-tags@3.0.1
+- pkg:composer/byerikas/cache-tags@v3.0.2
