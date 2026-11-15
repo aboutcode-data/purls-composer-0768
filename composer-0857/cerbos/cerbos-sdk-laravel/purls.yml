@@ -22,3 +22,4 @@
 - pkg:composer/cerbos/cerbos-sdk-laravel@v1.12.3
 - pkg:composer/cerbos/cerbos-sdk-laravel@v1.13.0
 - pkg:composer/cerbos/cerbos-sdk-laravel@v1.13.1
+- pkg:composer/cerbos/cerbos-sdk-laravel@v1.13.2
