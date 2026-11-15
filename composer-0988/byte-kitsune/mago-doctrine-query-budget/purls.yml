@@ -2,6 +2,9 @@
 - pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.10
 - pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.11
 - pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.12
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.13
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.14
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.15
 - pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.2
 - pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.3
 - pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.4
@@ -10,3 +13,13 @@
 - pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.7
 - pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.8
 - pkg:composer/byte-kitsune/mago-doctrine-query-budget@v0.1.0-beta.9
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v1.0.0
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v1.0.1
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v1.1.0
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v1.1.0-RC1
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v1.1.0-RC2
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v1.1.0-RC3
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v1.1.1
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v1.1.2
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v1.2.0
+- pkg:composer/byte-kitsune/mago-doctrine-query-budget@v1.2.0-RC1
