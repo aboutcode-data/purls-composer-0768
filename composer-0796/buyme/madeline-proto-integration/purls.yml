@@ -23,3 +23,5 @@
 - pkg:composer/buyme/madeline-proto-integration@1.4.5
 - pkg:composer/buyme/madeline-proto-integration@1.4.6
 - pkg:composer/buyme/madeline-proto-integration@1.4.7
+- pkg:composer/buyme/madeline-proto-integration@v1.4.9
+- pkg:composer/buyme/madeline-proto-integration@v1.5.0
