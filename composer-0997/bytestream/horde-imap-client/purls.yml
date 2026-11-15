@@ -79,3 +79,5 @@
 - pkg:composer/bytestream/horde-imap-client@v2.34.0
 - pkg:composer/bytestream/horde-imap-client@v2.34.1
 - pkg:composer/bytestream/horde-imap-client@v2.34.2
+- pkg:composer/bytestream/horde-imap-client@v2.34.3
+- pkg:composer/bytestream/horde-imap-client@v2.34.4

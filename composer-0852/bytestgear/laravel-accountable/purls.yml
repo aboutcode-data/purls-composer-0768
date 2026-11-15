@@ -6,6 +6,7 @@
 - pkg:composer/bytestgear/laravel-accountable@1.1.1
 - pkg:composer/bytestgear/laravel-accountable@10.0.0
 - pkg:composer/bytestgear/laravel-accountable@10.1.0
+- pkg:composer/bytestgear/laravel-accountable@11.0.0
 - pkg:composer/bytestgear/laravel-accountable@2.0.0
 - pkg:composer/bytestgear/laravel-accountable@2.1.0
 - pkg:composer/bytestgear/laravel-accountable@3.0.0
