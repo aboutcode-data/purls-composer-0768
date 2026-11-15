@@ -48,3 +48,4 @@
 - pkg:composer/alpine-ronin/phpgraph@v2.0.0
 - pkg:composer/alpine-ronin/phpgraph@v2.1.0
 - pkg:composer/alpine-ronin/phpgraph@v2.2.0
+- pkg:composer/alpine-ronin/phpgraph@v2.3.0
