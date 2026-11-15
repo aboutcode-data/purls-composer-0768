@@ -9,3 +9,5 @@
 - pkg:composer/celema/console@0.5.2
 - pkg:composer/celema/console@0.5.3
 - pkg:composer/celema/console@0.5.4
+- pkg:composer/celema/console@0.6.0
+- pkg:composer/celema/console@0.7.0
