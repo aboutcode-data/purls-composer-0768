@@ -53,3 +53,4 @@
 - pkg:composer/canvixhq/laravel-page-builder@v1.5.5
 - pkg:composer/canvixhq/laravel-page-builder@v1.5.6
 - pkg:composer/canvixhq/laravel-page-builder@v1.5.7
+- pkg:composer/canvixhq/laravel-page-builder@v1.5.8
