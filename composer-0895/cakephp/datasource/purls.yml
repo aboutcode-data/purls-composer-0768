@@ -278,6 +278,7 @@
 - pkg:composer/cakephp/datasource@4.6.2
 - pkg:composer/cakephp/datasource@4.6.3
 - pkg:composer/cakephp/datasource@4.6.5
+- pkg:composer/cakephp/datasource@4.6.6
 - pkg:composer/cakephp/datasource@5.0.0
 - pkg:composer/cakephp/datasource@5.0.0-RC1
 - pkg:composer/cakephp/datasource@5.0.0-RC2
@@ -330,9 +331,11 @@
 - pkg:composer/cakephp/datasource@5.3.5
 - pkg:composer/cakephp/datasource@5.3.6
 - pkg:composer/cakephp/datasource@5.3.7
+- pkg:composer/cakephp/datasource@5.3.8
 - pkg:composer/cakephp/datasource@5.4.0
 - pkg:composer/cakephp/datasource@5.4.0-RC1
 - pkg:composer/cakephp/datasource@5.4.0-RC2
 - pkg:composer/cakephp/datasource@5.4.1
 - pkg:composer/cakephp/datasource@5.4.2
 - pkg:composer/cakephp/datasource@5.4.3
+- pkg:composer/cakephp/datasource@5.4.4
