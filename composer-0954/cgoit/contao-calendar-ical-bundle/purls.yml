@@ -72,3 +72,4 @@
 - pkg:composer/cgoit/contao-calendar-ical-bundle@5.9.7
 - pkg:composer/cgoit/contao-calendar-ical-bundle@5.9.8
 - pkg:composer/cgoit/contao-calendar-ical-bundle@5.9.9
+- pkg:composer/cgoit/contao-calendar-ical-bundle@6.0.0
