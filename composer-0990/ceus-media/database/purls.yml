@@ -18,5 +18,7 @@
 - pkg:composer/ceus-media/database@0.6.5
 - pkg:composer/ceus-media/database@0.6.6
 - pkg:composer/ceus-media/database@0.6.7
+- pkg:composer/ceus-media/database@0.6.8
 - pkg:composer/ceus-media/database@0.7.0
 - pkg:composer/ceus-media/database@0.7.1
+- pkg:composer/ceus-media/database@0.7.2
