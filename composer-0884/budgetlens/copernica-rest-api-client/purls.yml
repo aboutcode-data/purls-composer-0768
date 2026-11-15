@@ -1,3 +1,4 @@
 - pkg:composer/budgetlens/copernica-rest-api-client@3.0.2
 - pkg:composer/budgetlens/copernica-rest-api-client@v3.0.1
 - pkg:composer/budgetlens/copernica-rest-api-client@v3.0.3
+- pkg:composer/budgetlens/copernica-rest-api-client@v3.1.0
