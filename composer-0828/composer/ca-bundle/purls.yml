@@ -41,6 +41,7 @@
 - pkg:composer/composer/ca-bundle@1.4.13
 - pkg:composer/composer/ca-bundle@1.4.14
 - pkg:composer/composer/ca-bundle@1.4.15
+- pkg:composer/composer/ca-bundle@1.4.16
 - pkg:composer/composer/ca-bundle@1.4.2
 - pkg:composer/composer/ca-bundle@1.4.3
 - pkg:composer/composer/ca-bundle@1.4.4
@@ -64,3 +65,5 @@
 - pkg:composer/composer/ca-bundle@1.5.7
 - pkg:composer/composer/ca-bundle@1.5.8
 - pkg:composer/composer/ca-bundle@1.5.9
+- pkg:composer/composer/ca-bundle@1.6.0
+- pkg:composer/composer/ca-bundle@1.6.1

@@ -37,3 +37,5 @@
 - pkg:composer/composer/semver@3.4.4
 - pkg:composer/composer/semver@3.5.0
 - pkg:composer/composer/semver@3.5.1
+- pkg:composer/composer/semver@3.5.2
+- pkg:composer/composer/semver@3.6.0
