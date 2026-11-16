@@ -35,3 +35,4 @@
 - pkg:composer/configcat/configcat-client@v9.1.1
 - pkg:composer/configcat/configcat-client@v9.2.0
 - pkg:composer/configcat/configcat-client@v9.2.1
+- pkg:composer/configcat/configcat-client@v9.2.2
