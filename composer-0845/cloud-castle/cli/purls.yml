@@ -8,3 +8,4 @@
 - pkg:composer/cloud-castle/cli@v1.3.0
 - pkg:composer/cloud-castle/cli@v2.0.0
 - pkg:composer/cloud-castle/cli@v2.1.0
+- pkg:composer/cloud-castle/cli@v2.1.1

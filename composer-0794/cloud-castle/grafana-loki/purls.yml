@@ -1,3 +1,7 @@
 - pkg:composer/cloud-castle/grafana-loki@v0.1.0
 - pkg:composer/cloud-castle/grafana-loki@v1.0.0
 - pkg:composer/cloud-castle/grafana-loki@v1.1.0
+- pkg:composer/cloud-castle/grafana-loki@v1.2.0
+- pkg:composer/cloud-castle/grafana-loki@v1.2.1
+- pkg:composer/cloud-castle/grafana-loki@v1.3.0
+- pkg:composer/cloud-castle/grafana-loki@v1.4.0

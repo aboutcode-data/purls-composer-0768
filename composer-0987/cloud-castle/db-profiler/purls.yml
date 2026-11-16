@@ -1,2 +1,4 @@
 - pkg:composer/cloud-castle/db-profiler@v0.1.0
 - pkg:composer/cloud-castle/db-profiler@v0.1.1
+- pkg:composer/cloud-castle/db-profiler@v1.0.0
+- pkg:composer/cloud-castle/db-profiler@v1.0.1
