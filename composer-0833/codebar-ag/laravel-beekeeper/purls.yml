@@ -16,3 +16,6 @@
 - pkg:composer/codebar-ag/laravel-beekeeper@v12.3
 - pkg:composer/codebar-ag/laravel-beekeeper@v12.4
 - pkg:composer/codebar-ag/laravel-beekeeper@v12.5
+- pkg:composer/codebar-ag/laravel-beekeeper@v13.0.0
+- pkg:composer/codebar-ag/laravel-beekeeper@v13.1.0
+- pkg:composer/codebar-ag/laravel-beekeeper@v13.2.0

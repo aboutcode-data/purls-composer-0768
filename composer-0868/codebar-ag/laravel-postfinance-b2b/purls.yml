@@ -1,4 +1,6 @@
 - pkg:composer/codebar-ag/laravel-postfinance-b2b@v0.1.0
+- pkg:composer/codebar-ag/laravel-postfinance-b2b@v0.10.0
+- pkg:composer/codebar-ag/laravel-postfinance-b2b@v0.11.0
 - pkg:composer/codebar-ag/laravel-postfinance-b2b@v0.2.0
 - pkg:composer/codebar-ag/laravel-postfinance-b2b@v0.3.0
 - pkg:composer/codebar-ag/laravel-postfinance-b2b@v0.4.0
