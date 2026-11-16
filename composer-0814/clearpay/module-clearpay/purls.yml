@@ -29,6 +29,7 @@
 - pkg:composer/clearpay/module-clearpay@4.3.3
 - pkg:composer/clearpay/module-clearpay@4.3.5
 - pkg:composer/clearpay/module-clearpay@4.3.6
+- pkg:composer/clearpay/module-clearpay@4.3.7
 - pkg:composer/clearpay/module-clearpay@5.0.0
 - pkg:composer/clearpay/module-clearpay@5.0.1
 - pkg:composer/clearpay/module-clearpay@5.0.2
@@ -51,4 +52,5 @@
 - pkg:composer/clearpay/module-clearpay@5.4.4
 - pkg:composer/clearpay/module-clearpay@5.4.5
 - pkg:composer/clearpay/module-clearpay@5.4.6
+- pkg:composer/clearpay/module-clearpay@5.4.7
 - pkg:composer/clearpay/module-clearpay@v3.1.0
