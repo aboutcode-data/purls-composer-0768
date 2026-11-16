@@ -1,3 +1,4 @@
 - pkg:composer/codeception/module-doctrine@3.1.0
 - pkg:composer/codeception/module-doctrine@3.2.0
 - pkg:composer/codeception/module-doctrine@3.3.0
+- pkg:composer/codeception/module-doctrine@3.3.1
