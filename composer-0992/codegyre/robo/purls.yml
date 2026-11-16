@@ -105,3 +105,7 @@
 - pkg:composer/codegyre/robo@5.0.0
 - pkg:composer/codegyre/robo@5.1.0
 - pkg:composer/codegyre/robo@5.1.1
+- pkg:composer/codegyre/robo@5.2.0
+- pkg:composer/codegyre/robo@5.2.1
+- pkg:composer/codegyre/robo@5.2.2
+- pkg:composer/codegyre/robo@5.2.3
