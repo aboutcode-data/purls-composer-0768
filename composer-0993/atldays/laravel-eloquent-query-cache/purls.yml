@@ -1,3 +1,4 @@
 - pkg:composer/atldays/laravel-eloquent-query-cache@v1.0.0
 - pkg:composer/atldays/laravel-eloquent-query-cache@v1.1.0
 - pkg:composer/atldays/laravel-eloquent-query-cache@v2.0.0
+- pkg:composer/atldays/laravel-eloquent-query-cache@v2.1.0
