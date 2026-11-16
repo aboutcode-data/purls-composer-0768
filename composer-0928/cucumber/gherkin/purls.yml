@@ -46,3 +46,4 @@
 - pkg:composer/cucumber/gherkin@v41.0.0
 - pkg:composer/cucumber/gherkin@v42.0.0
 - pkg:composer/cucumber/gherkin@v42.0.1
+- pkg:composer/cucumber/gherkin@v43.0.0
