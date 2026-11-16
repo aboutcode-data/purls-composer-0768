@@ -8,6 +8,10 @@
 - pkg:composer/contao/loupe-bridge@5.7.11
 - pkg:composer/contao/loupe-bridge@5.7.12
 - pkg:composer/contao/loupe-bridge@5.7.13
+- pkg:composer/contao/loupe-bridge@5.7.14
+- pkg:composer/contao/loupe-bridge@5.7.15
+- pkg:composer/contao/loupe-bridge@5.7.16
+- pkg:composer/contao/loupe-bridge@5.7.17
 - pkg:composer/contao/loupe-bridge@5.7.2
 - pkg:composer/contao/loupe-bridge@5.7.3
 - pkg:composer/contao/loupe-bridge@5.7.4
@@ -21,3 +25,7 @@
 - pkg:composer/contao/loupe-bridge@6.0.0-RC2
 - pkg:composer/contao/loupe-bridge@6.0.1
 - pkg:composer/contao/loupe-bridge@6.0.2
+- pkg:composer/contao/loupe-bridge@6.0.3
+- pkg:composer/contao/loupe-bridge@6.0.4
+- pkg:composer/contao/loupe-bridge@6.0.5
+- pkg:composer/contao/loupe-bridge@6.0.6
