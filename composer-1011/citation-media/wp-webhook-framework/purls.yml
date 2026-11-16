@@ -4,3 +4,7 @@
 - pkg:composer/citation-media/wp-webhook-framework@1.1.1
 - pkg:composer/citation-media/wp-webhook-framework@1.1.2
 - pkg:composer/citation-media/wp-webhook-framework@2.0.0
+- pkg:composer/citation-media/wp-webhook-framework@2.1.0
+- pkg:composer/citation-media/wp-webhook-framework@3.0.0
+- pkg:composer/citation-media/wp-webhook-framework@4.0.0
+- pkg:composer/citation-media/wp-webhook-framework@4.1.0
