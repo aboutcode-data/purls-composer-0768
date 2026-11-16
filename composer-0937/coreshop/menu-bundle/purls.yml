@@ -31,6 +31,7 @@
 - pkg:composer/coreshop/menu-bundle@2026.2.0
 - pkg:composer/coreshop/menu-bundle@2026.2.1
 - pkg:composer/coreshop/menu-bundle@2026.2.2
+- pkg:composer/coreshop/menu-bundle@2026.2.3
 - pkg:composer/coreshop/menu-bundle@3.0.0
 - pkg:composer/coreshop/menu-bundle@3.0.0-beta.1
 - pkg:composer/coreshop/menu-bundle@3.0.0-beta.2
@@ -118,3 +119,4 @@
 - pkg:composer/coreshop/menu-bundle@5.1.0-beta.1
 - pkg:composer/coreshop/menu-bundle@5.1.1
 - pkg:composer/coreshop/menu-bundle@5.1.2
+- pkg:composer/coreshop/menu-bundle@5.1.3
