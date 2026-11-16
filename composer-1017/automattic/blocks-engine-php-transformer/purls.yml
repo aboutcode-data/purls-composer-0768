@@ -1229,6 +1229,16 @@
 - pkg:composer/automattic/blocks-engine-php-transformer@v0.46.1
 - pkg:composer/automattic/blocks-engine-php-transformer@v0.46.2
 - pkg:composer/automattic/blocks-engine-php-transformer@v0.46.3
+- pkg:composer/automattic/blocks-engine-php-transformer@v0.46.4
+- pkg:composer/automattic/blocks-engine-php-transformer@v0.46.5
+- pkg:composer/automattic/blocks-engine-php-transformer@v0.46.6
+- pkg:composer/automattic/blocks-engine-php-transformer@v0.46.7
+- pkg:composer/automattic/blocks-engine-php-transformer@v0.47.0
+- pkg:composer/automattic/blocks-engine-php-transformer@v0.47.1
+- pkg:composer/automattic/blocks-engine-php-transformer@v0.47.2
+- pkg:composer/automattic/blocks-engine-php-transformer@v0.47.3
+- pkg:composer/automattic/blocks-engine-php-transformer@v0.47.4
+- pkg:composer/automattic/blocks-engine-php-transformer@v0.47.5
 - pkg:composer/automattic/blocks-engine-php-transformer@v0.5.0
 - pkg:composer/automattic/blocks-engine-php-transformer@v0.5.1
 - pkg:composer/automattic/blocks-engine-php-transformer@v0.6.0
