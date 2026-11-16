@@ -1,0 +1,4 @@
+- pkg:composer/crabphp/redis@v0.1.0
+- pkg:composer/crabphp/redis@v0.1.1
+- pkg:composer/crabphp/redis@v0.2.0
+- pkg:composer/crabphp/redis@v0.2.1
