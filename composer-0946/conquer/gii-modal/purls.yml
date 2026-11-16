@@ -1,2 +1,4 @@
 - pkg:composer/conquer/gii-modal@1.1
 - pkg:composer/conquer/gii-modal@1.1.1
+- pkg:composer/conquer/gii-modal@1.2.0
+- pkg:composer/conquer/gii-modal@1.3.0
