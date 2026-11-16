@@ -72,3 +72,5 @@
 - pkg:composer/dama/doctrine-test-bundle@v8.5.0
 - pkg:composer/dama/doctrine-test-bundle@v8.6.0
 - pkg:composer/dama/doctrine-test-bundle@v8.7.0
+- pkg:composer/dama/doctrine-test-bundle@v8.7.1
+- pkg:composer/dama/doctrine-test-bundle@v8.8.0
