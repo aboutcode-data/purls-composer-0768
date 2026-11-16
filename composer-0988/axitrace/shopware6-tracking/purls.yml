@@ -17,3 +17,4 @@
 - pkg:composer/axitrace/shopware6-tracking@0.6.1
 - pkg:composer/axitrace/shopware6-tracking@0.6.2
 - pkg:composer/axitrace/shopware6-tracking@0.6.3
+- pkg:composer/axitrace/shopware6-tracking@0.7.0
