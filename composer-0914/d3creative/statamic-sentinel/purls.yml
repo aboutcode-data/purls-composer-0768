@@ -23,3 +23,5 @@
 - pkg:composer/d3creative/statamic-sentinel@v2.2.1
 - pkg:composer/d3creative/statamic-sentinel@v2.3.0
 - pkg:composer/d3creative/statamic-sentinel@v2.4.0
+- pkg:composer/d3creative/statamic-sentinel@v3.0.0
+- pkg:composer/d3creative/statamic-sentinel@v3.1.0
