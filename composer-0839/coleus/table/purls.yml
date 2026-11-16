@@ -46,7 +46,14 @@
 - pkg:composer/coleus/table@v1.0.51
 - pkg:composer/coleus/table@v1.0.52
 - pkg:composer/coleus/table@v1.0.53
+- pkg:composer/coleus/table@v1.0.56
+- pkg:composer/coleus/table@v1.0.57
+- pkg:composer/coleus/table@v1.0.58
+- pkg:composer/coleus/table@v1.0.59
 - pkg:composer/coleus/table@v1.0.6
+- pkg:composer/coleus/table@v1.0.60
+- pkg:composer/coleus/table@v1.0.62
+- pkg:composer/coleus/table@v1.0.63
 - pkg:composer/coleus/table@v1.0.7
 - pkg:composer/coleus/table@v1.0.8
 - pkg:composer/coleus/table@v1.0.9
