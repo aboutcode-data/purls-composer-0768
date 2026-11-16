@@ -1,3 +1,5 @@
 - pkg:composer/contenir/contenir-workflow@v0.1.0
 - pkg:composer/contenir/contenir-workflow@v2.0.0
 - pkg:composer/contenir/contenir-workflow@v2.1.0
+- pkg:composer/contenir/contenir-workflow@v2.2.0
+- pkg:composer/contenir/contenir-workflow@v2.3.0
