@@ -3,3 +3,4 @@
 - pkg:composer/browser-grpc/eventbus-grpc@v0.40.0
 - pkg:composer/browser-grpc/eventbus-grpc@v0.41.0
 - pkg:composer/browser-grpc/eventbus-grpc@v0.42.0
+- pkg:composer/browser-grpc/eventbus-grpc@v0.43.0
