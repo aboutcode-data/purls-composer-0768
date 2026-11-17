@@ -278,3 +278,4 @@
 - pkg:composer/automattic/jetpack-search@v8.4.0
 - pkg:composer/automattic/jetpack-search@v8.4.1
 - pkg:composer/automattic/jetpack-search@v8.4.2
+- pkg:composer/automattic/jetpack-search@v8.4.3

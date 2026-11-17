@@ -30,3 +30,4 @@
 - pkg:composer/automattic/jetpack-ip@v0.6.0
 - pkg:composer/automattic/jetpack-ip@v0.7.0
 - pkg:composer/automattic/jetpack-ip@v0.7.1
+- pkg:composer/automattic/jetpack-ip@v0.8.0
