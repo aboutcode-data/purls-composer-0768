@@ -1,1 +1,2 @@
 - pkg:composer/ctsoftwarellc/laravel-job-throttle@v1.0.0
+- pkg:composer/ctsoftwarellc/laravel-job-throttle@v1.0.1
