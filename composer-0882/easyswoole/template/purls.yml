@@ -10,3 +10,5 @@
 - pkg:composer/easyswoole/template@1.1.0
 - pkg:composer/easyswoole/template@1.2.0
 - pkg:composer/easyswoole/template@1.2.1
+- pkg:composer/easyswoole/template@2.0.1
+- pkg:composer/easyswoole/template@2.0.2

@@ -1,2 +1,3 @@
 - pkg:composer/easyswoole/linux-dash@1.0.0
 - pkg:composer/easyswoole/linux-dash@1.0.1
+- pkg:composer/easyswoole/linux-dash@2.0.1
