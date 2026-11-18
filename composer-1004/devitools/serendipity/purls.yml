@@ -113,3 +113,7 @@
 - pkg:composer/devitools/serendipity@2.1.0
 - pkg:composer/devitools/serendipity@2.1.1
 - pkg:composer/devitools/serendipity@2.1.2
+- pkg:composer/devitools/serendipity@2.2.0
+- pkg:composer/devitools/serendipity@2.3.0
+- pkg:composer/devitools/serendipity@2.4.0
+- pkg:composer/devitools/serendipity@2.4.1
