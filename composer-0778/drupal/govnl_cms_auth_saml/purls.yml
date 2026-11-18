@@ -1,3 +1,4 @@
 - pkg:composer/drupal/govnl_cms_auth_saml@1.0.0
 - pkg:composer/drupal/govnl_cms_auth_saml@1.0.1
 - pkg:composer/drupal/govnl_cms_auth_saml@1.0.2
+- pkg:composer/drupal/govnl_cms_auth_saml@1.1.0
