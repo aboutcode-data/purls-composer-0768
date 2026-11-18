@@ -54,3 +54,5 @@
 - pkg:composer/dashed/dashed-pages@v4.5.1
 - pkg:composer/dashed/dashed-pages@v4.6.0
 - pkg:composer/dashed/dashed-pages@v4.7.0
+- pkg:composer/dashed/dashed-pages@v4.8.0
+- pkg:composer/dashed/dashed-pages@v4.8.1

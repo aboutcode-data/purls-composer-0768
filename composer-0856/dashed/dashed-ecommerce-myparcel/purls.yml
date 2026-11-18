@@ -42,6 +42,13 @@
 - pkg:composer/dashed/dashed-ecommerce-myparcel@v4.12.1
 - pkg:composer/dashed/dashed-ecommerce-myparcel@v4.13.0
 - pkg:composer/dashed/dashed-ecommerce-myparcel@v4.14.0
+- pkg:composer/dashed/dashed-ecommerce-myparcel@v4.15.0
+- pkg:composer/dashed/dashed-ecommerce-myparcel@v4.15.1
+- pkg:composer/dashed/dashed-ecommerce-myparcel@v4.15.2
+- pkg:composer/dashed/dashed-ecommerce-myparcel@v4.15.3
+- pkg:composer/dashed/dashed-ecommerce-myparcel@v4.16.0
+- pkg:composer/dashed/dashed-ecommerce-myparcel@v4.17.0
+- pkg:composer/dashed/dashed-ecommerce-myparcel@v4.18.0
 - pkg:composer/dashed/dashed-ecommerce-myparcel@v4.2.0
 - pkg:composer/dashed/dashed-ecommerce-myparcel@v4.2.1
 - pkg:composer/dashed/dashed-ecommerce-myparcel@v4.3.0
