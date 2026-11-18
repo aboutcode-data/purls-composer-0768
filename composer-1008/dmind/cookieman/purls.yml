@@ -128,6 +128,7 @@
 - pkg:composer/dmind/cookieman@3.1.4
 - pkg:composer/dmind/cookieman@3.1.5
 - pkg:composer/dmind/cookieman@3.1.6
+- pkg:composer/dmind/cookieman@3.2.0
 - pkg:composer/dmind/cookieman@4.0.0
 - pkg:composer/dmind/cookieman@4.0.1
 - pkg:composer/dmind/cookieman@4.1.0
