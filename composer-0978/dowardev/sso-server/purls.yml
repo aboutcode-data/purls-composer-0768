@@ -1,3 +1,5 @@
 - pkg:composer/dowardev/sso-server@0.1.2
+- pkg:composer/dowardev/sso-server@0.2.0
+- pkg:composer/dowardev/sso-server@0.2.1
 - pkg:composer/dowardev/sso-server@v0.1.0
 - pkg:composer/dowardev/sso-server@v0.1.1
