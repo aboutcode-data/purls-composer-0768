@@ -38,8 +38,11 @@
 - pkg:composer/dtyq/cloudfile@v0.1.42
 - pkg:composer/dtyq/cloudfile@v0.1.43
 - pkg:composer/dtyq/cloudfile@v0.1.44
+- pkg:composer/dtyq/cloudfile@v0.1.45
+- pkg:composer/dtyq/cloudfile@v0.1.46
 - pkg:composer/dtyq/cloudfile@v0.1.5
 - pkg:composer/dtyq/cloudfile@v0.1.6
 - pkg:composer/dtyq/cloudfile@v0.1.7
 - pkg:composer/dtyq/cloudfile@v0.1.8
 - pkg:composer/dtyq/cloudfile@v0.1.9
+- pkg:composer/dtyq/cloudfile@v0.2.0
