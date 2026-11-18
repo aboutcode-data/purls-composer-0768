@@ -43,3 +43,6 @@
 - pkg:composer/doublethreedigital/guest-entries@v5.1.0
 - pkg:composer/doublethreedigital/guest-entries@v5.2.0
 - pkg:composer/doublethreedigital/guest-entries@v5.2.1
+- pkg:composer/doublethreedigital/guest-entries@v5.2.2
+- pkg:composer/doublethreedigital/guest-entries@v6.0.0
+- pkg:composer/doublethreedigital/guest-entries@v6.1.0
