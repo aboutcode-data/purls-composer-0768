@@ -46,3 +46,8 @@
 - pkg:composer/dmstr/yii2-filemanager-widgets@1.3.0-rc1
 - pkg:composer/dmstr/yii2-filemanager-widgets@1.3.1
 - pkg:composer/dmstr/yii2-filemanager-widgets@1.3.2
+- pkg:composer/dmstr/yii2-filemanager-widgets@2.0.0
+- pkg:composer/dmstr/yii2-filemanager-widgets@2.0.1
+- pkg:composer/dmstr/yii2-filemanager-widgets@2.0.2
+- pkg:composer/dmstr/yii2-filemanager-widgets@2.0.3
+- pkg:composer/dmstr/yii2-filemanager-widgets@2.0.4

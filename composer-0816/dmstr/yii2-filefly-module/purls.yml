@@ -80,3 +80,8 @@
 - pkg:composer/dmstr/yii2-filefly-module@1.7.3
 - pkg:composer/dmstr/yii2-filefly-module@1.7.4
 - pkg:composer/dmstr/yii2-filefly-module@1.7.5
+- pkg:composer/dmstr/yii2-filefly-module@1.8.0
+- pkg:composer/dmstr/yii2-filefly-module@1.8.1
+- pkg:composer/dmstr/yii2-filefly-module@1.9.0
+- pkg:composer/dmstr/yii2-filefly-module@2.0.0
+- pkg:composer/dmstr/yii2-filefly-module@2.0.1
