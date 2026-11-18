@@ -38,3 +38,4 @@
 - pkg:composer/dmk/mksanitizedparameters@v12.0.5
 - pkg:composer/dmk/mksanitizedparameters@v13.0.0
 - pkg:composer/dmk/mksanitizedparameters@v13.0.1
+- pkg:composer/dmk/mksanitizedparameters@v14.0.0
