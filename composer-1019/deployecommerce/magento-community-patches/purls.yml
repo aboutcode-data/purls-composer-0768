@@ -1,0 +1,4 @@
+- pkg:composer/deployecommerce/magento-community-patches@1.0.0
+- pkg:composer/deployecommerce/magento-community-patches@1.1.0
+- pkg:composer/deployecommerce/magento-community-patches@1.1.1
+- pkg:composer/deployecommerce/magento-community-patches@1.1.2
