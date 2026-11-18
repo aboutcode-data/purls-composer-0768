@@ -6,3 +6,4 @@
 - pkg:composer/dsi-iepg/cas-connection@v1.2
 - pkg:composer/dsi-iepg/cas-connection@v2.0.1
 - pkg:composer/dsi-iepg/cas-connection@v2.1.1
+- pkg:composer/dsi-iepg/cas-connection@v3.0.0
