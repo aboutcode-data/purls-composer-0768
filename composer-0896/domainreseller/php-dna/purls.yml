@@ -30,6 +30,11 @@
 - pkg:composer/domainreseller/php-dna@V3.0.7
 - pkg:composer/domainreseller/php-dna@V3.0.8
 - pkg:composer/domainreseller/php-dna@V3.0.9
+- pkg:composer/domainreseller/php-dna@V4.0.0
+- pkg:composer/domainreseller/php-dna@V4.0.2
+- pkg:composer/domainreseller/php-dna@V4.0.3
+- pkg:composer/domainreseller/php-dna@V4.0.4
+- pkg:composer/domainreseller/php-dna@V4.0.6
 - pkg:composer/domainreseller/php-dna@v2.0.24
 - pkg:composer/domainreseller/php-dna@v2.1.1
 - pkg:composer/domainreseller/php-dna@v2.1.10
