@@ -89,3 +89,4 @@
 - pkg:composer/dominservice/laravel-cms@5.0.1
 - pkg:composer/dominservice/laravel-cms@5.1.0
 - pkg:composer/dominservice/laravel-cms@5.1.1
+- pkg:composer/dominservice/laravel-cms@5.1.2
