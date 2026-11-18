@@ -51,3 +51,5 @@
 - pkg:composer/dcarbone/simple-consul-php@v2.0.2
 - pkg:composer/dcarbone/simple-consul-php@v3.0.0
 - pkg:composer/dcarbone/simple-consul-php@v3.0.0-rc1
+- pkg:composer/dcarbone/simple-consul-php@v3.1.0
+- pkg:composer/dcarbone/simple-consul-php@v3.2.0
