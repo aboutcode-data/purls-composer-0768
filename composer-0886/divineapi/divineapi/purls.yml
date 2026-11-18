@@ -5,7 +5,13 @@
 - pkg:composer/divineapi/divineapi@v1.1.0
 - pkg:composer/divineapi/divineapi@v1.10.0
 - pkg:composer/divineapi/divineapi@v1.11.0
+- pkg:composer/divineapi/divineapi@v1.15.0
+- pkg:composer/divineapi/divineapi@v1.17.0
+- pkg:composer/divineapi/divineapi@v1.18.0
+- pkg:composer/divineapi/divineapi@v1.19.0
 - pkg:composer/divineapi/divineapi@v1.2.0
+- pkg:composer/divineapi/divineapi@v1.20.0
+- pkg:composer/divineapi/divineapi@v1.21.0
 - pkg:composer/divineapi/divineapi@v1.3.0
 - pkg:composer/divineapi/divineapi@v1.4.0
 - pkg:composer/divineapi/divineapi@v1.5.0
