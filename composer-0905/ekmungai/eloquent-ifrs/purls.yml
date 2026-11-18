@@ -21,3 +21,6 @@
 - pkg:composer/ekmungai/eloquent-ifrs@v5.0.3
 - pkg:composer/ekmungai/eloquent-ifrs@v5.0.4
 - pkg:composer/ekmungai/eloquent-ifrs@v6.0.0
+- pkg:composer/ekmungai/eloquent-ifrs@v7.0.0
+- pkg:composer/ekmungai/eloquent-ifrs@v7.1.0
+- pkg:composer/ekmungai/eloquent-ifrs@v7.2.0
