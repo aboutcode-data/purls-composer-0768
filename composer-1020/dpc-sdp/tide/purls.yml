@@ -212,4 +212,11 @@
 - pkg:composer/dpc-sdp/tide@5.20.3
 - pkg:composer/dpc-sdp/tide@5.20.4
 - pkg:composer/dpc-sdp/tide@6.0.0
+- pkg:composer/dpc-sdp/tide@6.0.2
+- pkg:composer/dpc-sdp/tide@6.0.3
+- pkg:composer/dpc-sdp/tide@6.0.4
+- pkg:composer/dpc-sdp/tide@6.0.5
+- pkg:composer/dpc-sdp/tide@6.0.6
+- pkg:composer/dpc-sdp/tide@6.0.7
+- pkg:composer/dpc-sdp/tide@6.0.8
 - pkg:composer/dpc-sdp/tide@v1.0.0-alpha1
