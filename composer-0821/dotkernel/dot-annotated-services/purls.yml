@@ -22,6 +22,7 @@
 - pkg:composer/dotkernel/dot-annotated-services@5.1.1
 - pkg:composer/dotkernel/dot-annotated-services@5.1.2
 - pkg:composer/dotkernel/dot-annotated-services@5.2.0
+- pkg:composer/dotkernel/dot-annotated-services@6.0.0
 - pkg:composer/dotkernel/dot-annotated-services@v1.1.1
 - pkg:composer/dotkernel/dot-annotated-services@v2.0.0
 - pkg:composer/dotkernel/dot-annotated-services@v3.0
