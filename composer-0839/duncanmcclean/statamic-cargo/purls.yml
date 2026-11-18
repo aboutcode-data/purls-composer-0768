@@ -35,6 +35,13 @@
 - pkg:composer/duncanmcclean/statamic-cargo@v1.14.2
 - pkg:composer/duncanmcclean/statamic-cargo@v1.14.3
 - pkg:composer/duncanmcclean/statamic-cargo@v1.15.0
+- pkg:composer/duncanmcclean/statamic-cargo@v1.15.1
+- pkg:composer/duncanmcclean/statamic-cargo@v1.16.0
+- pkg:composer/duncanmcclean/statamic-cargo@v1.16.1
+- pkg:composer/duncanmcclean/statamic-cargo@v1.17.0
+- pkg:composer/duncanmcclean/statamic-cargo@v1.17.1
+- pkg:composer/duncanmcclean/statamic-cargo@v1.17.2
+- pkg:composer/duncanmcclean/statamic-cargo@v1.18.0
 - pkg:composer/duncanmcclean/statamic-cargo@v1.2.0
 - pkg:composer/duncanmcclean/statamic-cargo@v1.2.1
 - pkg:composer/duncanmcclean/statamic-cargo@v1.2.2
