@@ -16,3 +16,4 @@
 - pkg:composer/dravencms/database@0.2.1
 - pkg:composer/dravencms/database@0.2.2
 - pkg:composer/dravencms/database@0.2.3
+- pkg:composer/dravencms/database@0.2.4
