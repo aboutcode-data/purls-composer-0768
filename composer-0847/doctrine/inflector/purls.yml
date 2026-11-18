@@ -17,6 +17,7 @@
 - pkg:composer/doctrine/inflector@2.0.8
 - pkg:composer/doctrine/inflector@2.0.9
 - pkg:composer/doctrine/inflector@2.1.0
+- pkg:composer/doctrine/inflector@2.1.1
 - pkg:composer/doctrine/inflector@v1.0
 - pkg:composer/doctrine/inflector@v1.0.1
 - pkg:composer/doctrine/inflector@v1.1.0

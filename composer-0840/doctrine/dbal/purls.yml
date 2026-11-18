@@ -57,6 +57,7 @@
 - pkg:composer/doctrine/dbal@3.10.4
 - pkg:composer/doctrine/dbal@3.10.5
 - pkg:composer/doctrine/dbal@3.10.6
+- pkg:composer/doctrine/dbal@3.10.7
 - pkg:composer/doctrine/dbal@3.2.0
 - pkg:composer/doctrine/dbal@3.2.1
 - pkg:composer/doctrine/dbal@3.2.2
@@ -139,6 +140,8 @@
 - pkg:composer/doctrine/dbal@4.4.4
 - pkg:composer/doctrine/dbal@4.4.5
 - pkg:composer/doctrine/dbal@4.5.0
+- pkg:composer/doctrine/dbal@4.5.1
+- pkg:composer/doctrine/dbal@4.6.0
 - pkg:composer/doctrine/dbal@v2.10.0
 - pkg:composer/doctrine/dbal@v2.10.1
 - pkg:composer/doctrine/dbal@v2.4.0
