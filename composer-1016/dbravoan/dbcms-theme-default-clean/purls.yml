@@ -1,5 +1,1 @@
-- pkg:composer/dbravoan/dbcms-theme-default-clean@v1.0.0
-- pkg:composer/dbravoan/dbcms-theme-default-clean@v1.0.1
-- pkg:composer/dbravoan/dbcms-theme-default-clean@v1.1.0
-- pkg:composer/dbravoan/dbcms-theme-default-clean@v1.2.0
-- pkg:composer/dbravoan/dbcms-theme-default-clean@v2.0.0
+- pkg:composer/dbravoan/dbcms-theme-default-clean@v0.1.0
