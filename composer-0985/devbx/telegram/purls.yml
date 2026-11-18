@@ -1,3 +1,4 @@
 - pkg:composer/devbx/telegram@9.4
 - pkg:composer/devbx/telegram@9.5
 - pkg:composer/devbx/telegram@v10.3
+- pkg:composer/devbx/telegram@v10.4
