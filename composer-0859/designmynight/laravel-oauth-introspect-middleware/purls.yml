@@ -21,3 +21,5 @@
 - pkg:composer/designmynight/laravel-oauth-introspect-middleware@v3.1.0
 - pkg:composer/designmynight/laravel-oauth-introspect-middleware@v3.2.0
 - pkg:composer/designmynight/laravel-oauth-introspect-middleware@v4.0.1
+- pkg:composer/designmynight/laravel-oauth-introspect-middleware@v4.1.0
+- pkg:composer/designmynight/laravel-oauth-introspect-middleware@v4.1.1
