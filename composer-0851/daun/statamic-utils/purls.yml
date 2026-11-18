@@ -24,3 +24,9 @@
 - pkg:composer/daun/statamic-utils@3.7.1
 - pkg:composer/daun/statamic-utils@3.7.2
 - pkg:composer/daun/statamic-utils@3.7.3
+- pkg:composer/daun/statamic-utils@3.8.0
+- pkg:composer/daun/statamic-utils@3.9.0
+- pkg:composer/daun/statamic-utils@3.9.1
+- pkg:composer/daun/statamic-utils@4.0.0
+- pkg:composer/daun/statamic-utils@4.0.1
+- pkg:composer/daun/statamic-utils@4.1.0

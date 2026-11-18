@@ -16,3 +16,6 @@
 - pkg:composer/daun/statamic-placeholders@4.1.0
 - pkg:composer/daun/statamic-placeholders@4.1.1
 - pkg:composer/daun/statamic-placeholders@4.2.0
+- pkg:composer/daun/statamic-placeholders@5.0.0
+- pkg:composer/daun/statamic-placeholders@5.1.0
+- pkg:composer/daun/statamic-placeholders@5.1.1
