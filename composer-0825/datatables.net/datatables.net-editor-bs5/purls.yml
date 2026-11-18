@@ -1,3 +1,4 @@
 - pkg:composer/datatables.net/datatables.net-editor-bs5@3.0.2
 - pkg:composer/datatables.net/datatables.net-editor-bs5@3.1.0
 - pkg:composer/datatables.net/datatables.net-editor-bs5@3.1.1
+- pkg:composer/datatables.net/datatables.net-editor-bs5@3.1.2
