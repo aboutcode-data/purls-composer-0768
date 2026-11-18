@@ -9,3 +9,5 @@
 - pkg:composer/decomplexity/sendoauth2@v3.0.1
 - pkg:composer/decomplexity/sendoauth2@v4.0.0
 - pkg:composer/decomplexity/sendoauth2@v4.1.0
+- pkg:composer/decomplexity/sendoauth2@v4.1.1
+- pkg:composer/decomplexity/sendoauth2@v4.1.2
