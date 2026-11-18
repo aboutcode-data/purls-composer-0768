@@ -14,3 +14,4 @@
 - pkg:composer/docusign/admin-client@v2.0.0-rc2
 - pkg:composer/docusign/admin-client@v2.1.0
 - pkg:composer/docusign/admin-client@v2.2.0
+- pkg:composer/docusign/admin-client@v3.0.0
