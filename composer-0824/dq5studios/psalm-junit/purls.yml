@@ -5,3 +5,4 @@
 - pkg:composer/dq5studios/psalm-junit@v3.0.0
 - pkg:composer/dq5studios/psalm-junit@v4.0.0
 - pkg:composer/dq5studios/psalm-junit@v4.1.0
+- pkg:composer/dq5studios/psalm-junit@v4.2.0

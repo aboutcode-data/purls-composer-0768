@@ -10,3 +10,5 @@
 - pkg:composer/drago-ex/bootstrap@v1.0.6
 - pkg:composer/drago-ex/bootstrap@v2.0.0
 - pkg:composer/drago-ex/bootstrap@v2.0.1
+- pkg:composer/drago-ex/bootstrap@v2.0.2
+- pkg:composer/drago-ex/bootstrap@v2.1.0
