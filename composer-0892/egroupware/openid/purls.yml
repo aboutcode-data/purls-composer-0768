@@ -105,6 +105,7 @@
 - pkg:composer/egroupware/openid@23.1.20260724
 - pkg:composer/egroupware/openid@23.1.20260804
 - pkg:composer/egroupware/openid@23.1.20260819
+- pkg:composer/egroupware/openid@23.1.20261021
 - pkg:composer/egroupware/openid@26.0.20251208
 - pkg:composer/egroupware/openid@26.0.20251216
 - pkg:composer/egroupware/openid@26.0.20260108
@@ -112,6 +113,12 @@
 - pkg:composer/egroupware/openid@26.0.20260123
 - pkg:composer/egroupware/openid@26.1.20260130
 - pkg:composer/egroupware/openid@26.10.20261003
+- pkg:composer/egroupware/openid@26.10.20261012
+- pkg:composer/egroupware/openid@26.10.20261016
+- pkg:composer/egroupware/openid@26.10.20261016.2
+- pkg:composer/egroupware/openid@26.10.20261021
+- pkg:composer/egroupware/openid@26.10.20261030
+- pkg:composer/egroupware/openid@26.11.20261112
 - pkg:composer/egroupware/openid@26.2.20260203
 - pkg:composer/egroupware/openid@26.2.20260207
 - pkg:composer/egroupware/openid@26.2.20260209
