@@ -2,3 +2,4 @@
 - pkg:composer/edoaurahman/keycloak-sso@2.0.0
 - pkg:composer/edoaurahman/keycloak-sso@2.0.1
 - pkg:composer/edoaurahman/keycloak-sso@3.0.0
+- pkg:composer/edoaurahman/keycloak-sso@4.0.0
