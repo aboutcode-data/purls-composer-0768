@@ -1,2 +1,3 @@
 - pkg:composer/drupal/ai_recipe_validations_image_safety@1.0.0
 - pkg:composer/drupal/ai_recipe_validations_image_safety@1.0.1
+- pkg:composer/drupal/ai_recipe_validations_image_safety@1.1.0
