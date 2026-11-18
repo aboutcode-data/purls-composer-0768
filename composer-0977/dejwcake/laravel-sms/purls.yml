@@ -6,3 +6,4 @@
 - pkg:composer/dejwcake/laravel-sms@1.0.5
 - pkg:composer/dejwcake/laravel-sms@2.0.0
 - pkg:composer/dejwcake/laravel-sms@3.0.0
+- pkg:composer/dejwcake/laravel-sms@3.0.1
