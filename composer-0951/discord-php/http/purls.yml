@@ -45,6 +45,7 @@
 - pkg:composer/discord-php/http@v10.8.0
 - pkg:composer/discord-php/http@v10.9.0
 - pkg:composer/discord-php/http@v10.9.1
+- pkg:composer/discord-php/http@v10.9.10
 - pkg:composer/discord-php/http@v10.9.2
 - pkg:composer/discord-php/http@v10.9.3
 - pkg:composer/discord-php/http@v10.9.4
