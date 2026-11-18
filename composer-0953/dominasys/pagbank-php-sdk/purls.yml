@@ -1,3 +1,4 @@
 - pkg:composer/dominasys/pagbank-php-sdk@v0.1.0
 - pkg:composer/dominasys/pagbank-php-sdk@v0.1.1
 - pkg:composer/dominasys/pagbank-php-sdk@v1.0.0
+- pkg:composer/dominasys/pagbank-php-sdk@v1.0.1
