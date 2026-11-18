@@ -3,3 +3,5 @@
 - pkg:composer/dvsa/mot-cpms-shared-reports@v2.0.0
 - pkg:composer/dvsa/mot-cpms-shared-reports@v3.0.0
 - pkg:composer/dvsa/mot-cpms-shared-reports@v3.0.1
+- pkg:composer/dvsa/mot-cpms-shared-reports@v3.0.2
+- pkg:composer/dvsa/mot-cpms-shared-reports@v3.0.3
