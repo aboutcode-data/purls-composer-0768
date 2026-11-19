@@ -1,1 +1,7 @@
+- pkg:composer/elavora/api-cache-redis@1.0.0
+- pkg:composer/elavora/api-cache-redis@1.0.1
+- pkg:composer/elavora/api-cache-redis@1.0.1-beta.1
+- pkg:composer/elavora/api-cache-redis@2.0.0
+- pkg:composer/elavora/api-cache-redis@3.0.0
+- pkg:composer/elavora/api-cache-redis@3.0.1
 - pkg:composer/elavora/api-cache-redis@v0.1.1

@@ -1,2 +1,9 @@
+- pkg:composer/elavora/api-datatype-base64@1.0.0
+- pkg:composer/elavora/api-datatype-base64@1.0.1
+- pkg:composer/elavora/api-datatype-base64@1.0.1-beta.1
+- pkg:composer/elavora/api-datatype-base64@2.0.0
+- pkg:composer/elavora/api-datatype-base64@3.0.0
+- pkg:composer/elavora/api-datatype-base64@3.1.0
+- pkg:composer/elavora/api-datatype-base64@3.1.1
 - pkg:composer/elavora/api-datatype-base64@v0.1.1
 - pkg:composer/elavora/api-datatype-base64@v0.2.0

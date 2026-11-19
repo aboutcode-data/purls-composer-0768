@@ -1,2 +1,9 @@
+- pkg:composer/elavora/api-datatype-folder-path@1.0.0
+- pkg:composer/elavora/api-datatype-folder-path@1.0.1
+- pkg:composer/elavora/api-datatype-folder-path@1.0.1-beta.1
+- pkg:composer/elavora/api-datatype-folder-path@2.0.0
+- pkg:composer/elavora/api-datatype-folder-path@3.0.0
+- pkg:composer/elavora/api-datatype-folder-path@3.1.0
+- pkg:composer/elavora/api-datatype-folder-path@3.1.1
 - pkg:composer/elavora/api-datatype-folder-path@v0.1.1
 - pkg:composer/elavora/api-datatype-folder-path@v0.2.0

@@ -1,2 +1,9 @@
+- pkg:composer/elavora/api-datatype-cnpj@1.0.0
+- pkg:composer/elavora/api-datatype-cnpj@1.0.1
+- pkg:composer/elavora/api-datatype-cnpj@1.0.1-beta.1
+- pkg:composer/elavora/api-datatype-cnpj@2.0.0
+- pkg:composer/elavora/api-datatype-cnpj@3.0.0
+- pkg:composer/elavora/api-datatype-cnpj@3.1.0
+- pkg:composer/elavora/api-datatype-cnpj@3.1.1
 - pkg:composer/elavora/api-datatype-cnpj@v0.1.1
 - pkg:composer/elavora/api-datatype-cnpj@v0.2.0
