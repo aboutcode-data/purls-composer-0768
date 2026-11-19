@@ -16,3 +16,5 @@
 - pkg:composer/erikwang2013/consul-php@v4.0.1
 - pkg:composer/erikwang2013/consul-php@v4.0.2
 - pkg:composer/erikwang2013/consul-php@v4.1.0
+- pkg:composer/erikwang2013/consul-php@v5.0.0
+- pkg:composer/erikwang2013/consul-php@v5.0.1
