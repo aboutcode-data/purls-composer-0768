@@ -7,11 +7,17 @@
 - pkg:composer/ernestdefoe/armory@v0.14.1
 - pkg:composer/ernestdefoe/armory@v0.15.0
 - pkg:composer/ernestdefoe/armory@v0.15.1
+- pkg:composer/ernestdefoe/armory@v0.15.10
+- pkg:composer/ernestdefoe/armory@v0.15.11
+- pkg:composer/ernestdefoe/armory@v0.15.12
 - pkg:composer/ernestdefoe/armory@v0.15.2
 - pkg:composer/ernestdefoe/armory@v0.15.3
 - pkg:composer/ernestdefoe/armory@v0.15.4
 - pkg:composer/ernestdefoe/armory@v0.15.5
 - pkg:composer/ernestdefoe/armory@v0.15.6
+- pkg:composer/ernestdefoe/armory@v0.15.7
+- pkg:composer/ernestdefoe/armory@v0.15.8
+- pkg:composer/ernestdefoe/armory@v0.15.9
 - pkg:composer/ernestdefoe/armory@v0.2.0
 - pkg:composer/ernestdefoe/armory@v0.2.1
 - pkg:composer/ernestdefoe/armory@v0.3.0
