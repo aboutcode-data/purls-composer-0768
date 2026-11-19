@@ -398,6 +398,11 @@
 - pkg:composer/eonx-com/easy-random@6.24.1
 - pkg:composer/eonx-com/easy-random@6.25.0
 - pkg:composer/eonx-com/easy-random@6.25.1
+- pkg:composer/eonx-com/easy-random@6.25.2
+- pkg:composer/eonx-com/easy-random@6.26.0
+- pkg:composer/eonx-com/easy-random@6.26.1
+- pkg:composer/eonx-com/easy-random@6.27.0
+- pkg:composer/eonx-com/easy-random@6.28.0
 - pkg:composer/eonx-com/easy-random@6.3.0
 - pkg:composer/eonx-com/easy-random@6.3.1
 - pkg:composer/eonx-com/easy-random@6.3.2
@@ -412,6 +417,8 @@
 - pkg:composer/eonx-com/easy-random@6.7.0
 - pkg:composer/eonx-com/easy-random@6.8.0
 - pkg:composer/eonx-com/easy-random@6.9.0
+- pkg:composer/eonx-com/easy-random@7.0.0-alpha.1
+- pkg:composer/eonx-com/easy-random@7.0.0-alpha.2
 - pkg:composer/eonx-com/easy-random@v2.4.10
 - pkg:composer/eonx-com/easy-random@v2.4.11
 - pkg:composer/eonx-com/easy-random@v2.4.12

@@ -399,6 +399,11 @@
 - pkg:composer/eonx-com/easy-api-token@6.24.1
 - pkg:composer/eonx-com/easy-api-token@6.25.0
 - pkg:composer/eonx-com/easy-api-token@6.25.1
+- pkg:composer/eonx-com/easy-api-token@6.25.2
+- pkg:composer/eonx-com/easy-api-token@6.26.0
+- pkg:composer/eonx-com/easy-api-token@6.26.1
+- pkg:composer/eonx-com/easy-api-token@6.27.0
+- pkg:composer/eonx-com/easy-api-token@6.28.0
 - pkg:composer/eonx-com/easy-api-token@6.3.0
 - pkg:composer/eonx-com/easy-api-token@6.3.1
 - pkg:composer/eonx-com/easy-api-token@6.3.2
@@ -413,6 +418,8 @@
 - pkg:composer/eonx-com/easy-api-token@6.7.0
 - pkg:composer/eonx-com/easy-api-token@6.8.0
 - pkg:composer/eonx-com/easy-api-token@6.9.0
+- pkg:composer/eonx-com/easy-api-token@7.0.0-alpha.1
+- pkg:composer/eonx-com/easy-api-token@7.0.0-alpha.2
 - pkg:composer/eonx-com/easy-api-token@v0.10.10
 - pkg:composer/eonx-com/easy-api-token@v0.10.11
 - pkg:composer/eonx-com/easy-api-token@v0.10.7

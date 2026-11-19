@@ -398,6 +398,11 @@
 - pkg:composer/eonx-com/easy-bugsnag@6.24.1
 - pkg:composer/eonx-com/easy-bugsnag@6.25.0
 - pkg:composer/eonx-com/easy-bugsnag@6.25.1
+- pkg:composer/eonx-com/easy-bugsnag@6.25.2
+- pkg:composer/eonx-com/easy-bugsnag@6.26.0
+- pkg:composer/eonx-com/easy-bugsnag@6.26.1
+- pkg:composer/eonx-com/easy-bugsnag@6.27.0
+- pkg:composer/eonx-com/easy-bugsnag@6.28.0
 - pkg:composer/eonx-com/easy-bugsnag@6.3.0
 - pkg:composer/eonx-com/easy-bugsnag@6.3.1
 - pkg:composer/eonx-com/easy-bugsnag@6.3.2
@@ -412,6 +417,8 @@
 - pkg:composer/eonx-com/easy-bugsnag@6.7.0
 - pkg:composer/eonx-com/easy-bugsnag@6.8.0
 - pkg:composer/eonx-com/easy-bugsnag@6.9.0
+- pkg:composer/eonx-com/easy-bugsnag@7.0.0-alpha.1
+- pkg:composer/eonx-com/easy-bugsnag@7.0.0-alpha.2
 - pkg:composer/eonx-com/easy-bugsnag@v2.4.40
 - pkg:composer/eonx-com/easy-bugsnag@v2.4.41
 - pkg:composer/eonx-com/easy-bugsnag@v2.4.42
