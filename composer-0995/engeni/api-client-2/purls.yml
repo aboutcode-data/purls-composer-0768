@@ -23,3 +23,6 @@
 - pkg:composer/engeni/api-client-2@v1.6.3
 - pkg:composer/engeni/api-client-2@v1.6.4
 - pkg:composer/engeni/api-client-2@v1.6.5
+- pkg:composer/engeni/api-client-2@v1.7.0
+- pkg:composer/engeni/api-client-2@v1.8.0
+- pkg:composer/engeni/api-client-2@v1.9.0
