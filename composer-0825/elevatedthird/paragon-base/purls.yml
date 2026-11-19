@@ -16,6 +16,9 @@
 - pkg:composer/elevatedthird/paragon-base@4.0.0
 - pkg:composer/elevatedthird/paragon-base@4.0.2
 - pkg:composer/elevatedthird/paragon-base@4.1.0
+- pkg:composer/elevatedthird/paragon-base@5.0.0
+- pkg:composer/elevatedthird/paragon-base@5.0.0-alpha
+- pkg:composer/elevatedthird/paragon-base@5.0.0alpha1
 - pkg:composer/elevatedthird/paragon-base@8.1.0-a
 - pkg:composer/elevatedthird/paragon-base@8.1.0-alpha1
 - pkg:composer/elevatedthird/paragon-base@8.1.0-alpha10
