@@ -1,2 +1,4 @@
 - pkg:composer/emailsherlock/client@v0.1.0
 - pkg:composer/emailsherlock/client@v0.2.0
+- pkg:composer/emailsherlock/client@v0.2.1
+- pkg:composer/emailsherlock/client@v0.3.0
