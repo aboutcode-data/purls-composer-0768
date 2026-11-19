@@ -67,6 +67,17 @@
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.34.0
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.34.0-beta1
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.34.0-beta2
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.34.1
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.34.2
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.34.3
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.34.4
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.34.5
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.35.0
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.36.0
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.36.1
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.37.0
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.38.0
+- pkg:composer/fabiodalez/faz-cookie-manager@v1.39.0
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.4.0
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.4.1
 - pkg:composer/fabiodalez/faz-cookie-manager@v1.5.0
