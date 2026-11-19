@@ -9,6 +9,8 @@
 - pkg:composer/didit-protocol/sdk-php@v2.13.0
 - pkg:composer/didit-protocol/sdk-php@v2.13.1
 - pkg:composer/didit-protocol/sdk-php@v2.13.2
+- pkg:composer/didit-protocol/sdk-php@v2.14.0
+- pkg:composer/didit-protocol/sdk-php@v2.15.0
 - pkg:composer/didit-protocol/sdk-php@v2.2.0
 - pkg:composer/didit-protocol/sdk-php@v2.3.0
 - pkg:composer/didit-protocol/sdk-php@v2.4.0
