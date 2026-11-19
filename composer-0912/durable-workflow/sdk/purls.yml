@@ -134,6 +134,7 @@
 - pkg:composer/durable-workflow/sdk@3.2.1
 - pkg:composer/durable-workflow/sdk@3.20.0
 - pkg:composer/durable-workflow/sdk@3.21.0
+- pkg:composer/durable-workflow/sdk@3.22.0
 - pkg:composer/durable-workflow/sdk@3.3.0
 - pkg:composer/durable-workflow/sdk@3.4.0
 - pkg:composer/durable-workflow/sdk@3.4.1
