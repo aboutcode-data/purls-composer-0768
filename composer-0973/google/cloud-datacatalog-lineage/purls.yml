@@ -29,3 +29,5 @@
 - pkg:composer/google/cloud-datacatalog-lineage@v1.5.1
 - pkg:composer/google/cloud-datacatalog-lineage@v1.5.2
 - pkg:composer/google/cloud-datacatalog-lineage@v1.5.3
+- pkg:composer/google/cloud-datacatalog-lineage@v1.5.4
+- pkg:composer/google/cloud-datacatalog-lineage@v1.6.0

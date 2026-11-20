@@ -93,6 +93,8 @@
 - pkg:composer/google/auth@v1.54.0
 - pkg:composer/google/auth@v1.55.0
 - pkg:composer/google/auth@v1.55.1
+- pkg:composer/google/auth@v1.55.2
+- pkg:composer/google/auth@v1.55.3
 - pkg:composer/google/auth@v1.6.0
 - pkg:composer/google/auth@v1.6.1
 - pkg:composer/google/auth@v1.7.0
