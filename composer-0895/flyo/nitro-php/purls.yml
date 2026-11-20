@@ -18,3 +18,9 @@
 - pkg:composer/flyo/nitro-php@3.5
 - pkg:composer/flyo/nitro-php@3.6
 - pkg:composer/flyo/nitro-php@3.7
+- pkg:composer/flyo/nitro-php@3.8
+- pkg:composer/flyo/nitro-php@4.0
+- pkg:composer/flyo/nitro-php@4.0.1
+- pkg:composer/flyo/nitro-php@4.1.0
+- pkg:composer/flyo/nitro-php@4.1.1
+- pkg:composer/flyo/nitro-php@4.2
