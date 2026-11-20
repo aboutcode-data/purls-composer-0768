@@ -8,3 +8,4 @@
 - pkg:composer/heyday/silverstripe-wkhtml@1.1.1
 - pkg:composer/heyday/silverstripe-wkhtml@2.0.0-beta1
 - pkg:composer/heyday/silverstripe-wkhtml@3.0.0
+- pkg:composer/heyday/silverstripe-wkhtml@4.0.0
