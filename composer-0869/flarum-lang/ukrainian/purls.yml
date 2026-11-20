@@ -1,5 +1,11 @@
 - pkg:composer/flarum-lang/ukrainian@1.54.3
+- pkg:composer/flarum-lang/ukrainian@1.54.4
 - pkg:composer/flarum-lang/ukrainian@2.0.0
+- pkg:composer/flarum-lang/ukrainian@2.0.1
+- pkg:composer/flarum-lang/ukrainian@2.0.2
+- pkg:composer/flarum-lang/ukrainian@2.0.3
+- pkg:composer/flarum-lang/ukrainian@2.0.4
+- pkg:composer/flarum-lang/ukrainian@2.0.5
 - pkg:composer/flarum-lang/ukrainian@v1.0.0
 - pkg:composer/flarum-lang/ukrainian@v1.1.0
 - pkg:composer/flarum-lang/ukrainian@v1.10.0

@@ -37,3 +37,5 @@
 - pkg:composer/flarum/flarum-ext-likes@v2.0.0-rc.6
 - pkg:composer/flarum/flarum-ext-likes@v2.0.0-rc.7
 - pkg:composer/flarum/flarum-ext-likes@v2.0.0-rc.8
+- pkg:composer/flarum/flarum-ext-likes@v2.0.1
+- pkg:composer/flarum/flarum-ext-likes@v2.0.2

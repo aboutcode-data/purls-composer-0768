@@ -1,5 +1,10 @@
 - pkg:composer/flarum-lang/chinese-simplified@1.6.1
+- pkg:composer/flarum-lang/chinese-simplified@1.6.2
+- pkg:composer/flarum-lang/chinese-simplified@1.6.3
 - pkg:composer/flarum-lang/chinese-simplified@2.0.0
+- pkg:composer/flarum-lang/chinese-simplified@2.0.1
+- pkg:composer/flarum-lang/chinese-simplified@2.0.2
+- pkg:composer/flarum-lang/chinese-simplified@2.0.3
 - pkg:composer/flarum-lang/chinese-simplified@v0.1.0
 - pkg:composer/flarum-lang/chinese-simplified@v0.1.0-beta.15
 - pkg:composer/flarum-lang/chinese-simplified@v0.1.0-beta.15.1
