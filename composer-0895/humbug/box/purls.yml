@@ -135,3 +135,4 @@
 - pkg:composer/humbug/box@4.6.8
 - pkg:composer/humbug/box@4.6.9
 - pkg:composer/humbug/box@4.7.0
+- pkg:composer/humbug/box@4.7.1
