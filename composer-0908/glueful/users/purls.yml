@@ -12,3 +12,7 @@
 - pkg:composer/glueful/users@v2.3.2
 - pkg:composer/glueful/users@v2.4.0
 - pkg:composer/glueful/users@v2.5.0
+- pkg:composer/glueful/users@v2.5.1
+- pkg:composer/glueful/users@v2.5.4
+- pkg:composer/glueful/users@v2.5.5
+- pkg:composer/glueful/users@v2.5.6
