@@ -61,6 +61,8 @@
 - pkg:composer/glesys/butler-service@v0.3.4
 - pkg:composer/glesys/butler-service@v0.3.5
 - pkg:composer/glesys/butler-service@v0.30.0
+- pkg:composer/glesys/butler-service@v0.31.0
+- pkg:composer/glesys/butler-service@v0.31.1
 - pkg:composer/glesys/butler-service@v0.4.0
 - pkg:composer/glesys/butler-service@v0.4.1
 - pkg:composer/glesys/butler-service@v0.5.0

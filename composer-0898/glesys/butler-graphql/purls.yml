@@ -14,6 +14,8 @@
 - pkg:composer/glesys/butler-graphql@v12.0.0
 - pkg:composer/glesys/butler-graphql@v12.0.1
 - pkg:composer/glesys/butler-graphql@v12.1.0
+- pkg:composer/glesys/butler-graphql@v13.0.0
+- pkg:composer/glesys/butler-graphql@v13.1.0
 - pkg:composer/glesys/butler-graphql@v2.0.0
 - pkg:composer/glesys/butler-graphql@v2.0.1
 - pkg:composer/glesys/butler-graphql@v2.1.0
