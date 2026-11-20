@@ -11,3 +11,5 @@
 - pkg:composer/inanepain/cli@0.15.0
 - pkg:composer/inanepain/cli@0.16.0
 - pkg:composer/inanepain/cli@0.17.0
+- pkg:composer/inanepain/cli@26.10.0
+- pkg:composer/inanepain/cli@26.10.1

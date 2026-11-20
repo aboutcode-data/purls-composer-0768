@@ -58,6 +58,7 @@
 - pkg:composer/in2code/in2publish_core@13.4.3
 - pkg:composer/in2code/in2publish_core@13.4.4
 - pkg:composer/in2code/in2publish_core@13.5.0
+- pkg:composer/in2code/in2publish_core@13.6.0
 - pkg:composer/in2code/in2publish_core@14.0.1
 - pkg:composer/in2code/in2publish_core@14.0.2
 - pkg:composer/in2code/in2publish_core@14.0.3
