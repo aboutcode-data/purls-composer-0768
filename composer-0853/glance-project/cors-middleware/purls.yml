@@ -1,2 +1,4 @@
 - pkg:composer/glance-project/cors-middleware@v0.1.0
 - pkg:composer/glance-project/cors-middleware@v1.0.0
+- pkg:composer/glance-project/cors-middleware@v2.0.0
+- pkg:composer/glance-project/cors-middleware@v2.1.0

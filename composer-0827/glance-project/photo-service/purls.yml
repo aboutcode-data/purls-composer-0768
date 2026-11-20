@@ -11,3 +11,4 @@
 - pkg:composer/glance-project/photo-service@v3.1.1
 - pkg:composer/glance-project/photo-service@v3.1.2
 - pkg:composer/glance-project/photo-service@v3.2.0
+- pkg:composer/glance-project/photo-service@v3.3.0
