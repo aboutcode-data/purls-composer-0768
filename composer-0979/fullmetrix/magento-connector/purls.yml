@@ -1,2 +1,5 @@
 - pkg:composer/fullmetrix/magento-connector@v1.5.1
 - pkg:composer/fullmetrix/magento-connector@v1.6.1
+- pkg:composer/fullmetrix/magento-connector@v1.7.0
+- pkg:composer/fullmetrix/magento-connector@v1.8.0
+- pkg:composer/fullmetrix/magento-connector@v1.8.1
