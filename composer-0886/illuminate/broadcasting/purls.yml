@@ -329,6 +329,11 @@
 - pkg:composer/illuminate/broadcasting@v12.7.0
 - pkg:composer/illuminate/broadcasting@v12.7.1
 - pkg:composer/illuminate/broadcasting@v12.7.2
+- pkg:composer/illuminate/broadcasting@v12.70.0
+- pkg:composer/illuminate/broadcasting@v12.70.1
+- pkg:composer/illuminate/broadcasting@v12.70.2
+- pkg:composer/illuminate/broadcasting@v12.72.0
+- pkg:composer/illuminate/broadcasting@v12.73.0
 - pkg:composer/illuminate/broadcasting@v12.8.0
 - pkg:composer/illuminate/broadcasting@v12.8.1
 - pkg:composer/illuminate/broadcasting@v12.9.0
@@ -371,7 +376,15 @@
 - pkg:composer/illuminate/broadcasting@v13.33.0
 - pkg:composer/illuminate/broadcasting@v13.34.0
 - pkg:composer/illuminate/broadcasting@v13.35.0
+- pkg:composer/illuminate/broadcasting@v13.36.0
+- pkg:composer/illuminate/broadcasting@v13.37.0
+- pkg:composer/illuminate/broadcasting@v13.38.0
+- pkg:composer/illuminate/broadcasting@v13.39.0
 - pkg:composer/illuminate/broadcasting@v13.4.0
+- pkg:composer/illuminate/broadcasting@v13.40.0
+- pkg:composer/illuminate/broadcasting@v13.41.0
+- pkg:composer/illuminate/broadcasting@v13.42.0
+- pkg:composer/illuminate/broadcasting@v13.43.0
 - pkg:composer/illuminate/broadcasting@v13.5.0
 - pkg:composer/illuminate/broadcasting@v13.6.0
 - pkg:composer/illuminate/broadcasting@v13.7.0

@@ -330,6 +330,11 @@
 - pkg:composer/illuminate/console@v12.7.0
 - pkg:composer/illuminate/console@v12.7.1
 - pkg:composer/illuminate/console@v12.7.2
+- pkg:composer/illuminate/console@v12.70.0
+- pkg:composer/illuminate/console@v12.70.1
+- pkg:composer/illuminate/console@v12.70.2
+- pkg:composer/illuminate/console@v12.72.0
+- pkg:composer/illuminate/console@v12.73.0
 - pkg:composer/illuminate/console@v12.8.0
 - pkg:composer/illuminate/console@v12.8.1
 - pkg:composer/illuminate/console@v12.9.0
@@ -371,7 +376,15 @@
 - pkg:composer/illuminate/console@v13.33.0
 - pkg:composer/illuminate/console@v13.34.0
 - pkg:composer/illuminate/console@v13.35.0
+- pkg:composer/illuminate/console@v13.36.0
+- pkg:composer/illuminate/console@v13.37.0
+- pkg:composer/illuminate/console@v13.38.0
+- pkg:composer/illuminate/console@v13.39.0
 - pkg:composer/illuminate/console@v13.4.0
+- pkg:composer/illuminate/console@v13.40.0
+- pkg:composer/illuminate/console@v13.41.0
+- pkg:composer/illuminate/console@v13.42.0
+- pkg:composer/illuminate/console@v13.43.0
 - pkg:composer/illuminate/console@v13.5.0
 - pkg:composer/illuminate/console@v13.6.0
 - pkg:composer/illuminate/console@v13.7.0
