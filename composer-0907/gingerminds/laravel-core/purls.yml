@@ -19,3 +19,6 @@
 - pkg:composer/gingerminds/laravel-core@4.7.1
 - pkg:composer/gingerminds/laravel-core@4.8.0
 - pkg:composer/gingerminds/laravel-core@4.9.0
+- pkg:composer/gingerminds/laravel-core@4.9.1
+- pkg:composer/gingerminds/laravel-core@4.9.2
+- pkg:composer/gingerminds/laravel-core@4.9.3
