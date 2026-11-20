@@ -138,6 +138,9 @@
 - pkg:composer/getpop/api-mirrorquery@2.5.2
 - pkg:composer/getpop/api-mirrorquery@2.6.0
 - pkg:composer/getpop/api-mirrorquery@2.6.1
+- pkg:composer/getpop/api-mirrorquery@20.0.0
+- pkg:composer/getpop/api-mirrorquery@20.0.1
+- pkg:composer/getpop/api-mirrorquery@20.0.2
 - pkg:composer/getpop/api-mirrorquery@3.0.0
 - pkg:composer/getpop/api-mirrorquery@4.0.0
 - pkg:composer/getpop/api-mirrorquery@4.0.1

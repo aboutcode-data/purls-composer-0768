@@ -138,6 +138,9 @@
 - pkg:composer/getpop/commentmeta@2.5.2
 - pkg:composer/getpop/commentmeta@2.6.0
 - pkg:composer/getpop/commentmeta@2.6.1
+- pkg:composer/getpop/commentmeta@20.0.0
+- pkg:composer/getpop/commentmeta@20.0.1
+- pkg:composer/getpop/commentmeta@20.0.2
 - pkg:composer/getpop/commentmeta@3.0.0
 - pkg:composer/getpop/commentmeta@4.0.0
 - pkg:composer/getpop/commentmeta@4.0.1
