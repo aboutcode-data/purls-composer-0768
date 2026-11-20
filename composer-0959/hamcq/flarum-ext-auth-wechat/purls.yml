@@ -45,3 +45,4 @@
 - pkg:composer/hamcq/flarum-ext-auth-wechat@1.0.9
 - pkg:composer/hamcq/flarum-ext-auth-wechat@1.1
 - pkg:composer/hamcq/flarum-ext-auth-wechat@1.2
+- pkg:composer/hamcq/flarum-ext-auth-wechat@1.3
