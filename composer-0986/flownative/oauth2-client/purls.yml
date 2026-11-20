@@ -37,3 +37,4 @@
 - pkg:composer/flownative/oauth2-client@v4.1.1
 - pkg:composer/flownative/oauth2-client@v4.1.2
 - pkg:composer/flownative/oauth2-client@v5.0.0
+- pkg:composer/flownative/oauth2-client@v5.1.0
