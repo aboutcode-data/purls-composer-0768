@@ -19,3 +19,4 @@
 - pkg:composer/fusio/adapter-php@v6.0.4
 - pkg:composer/fusio/adapter-php@v6.1.0
 - pkg:composer/fusio/adapter-php@v6.2.0
+- pkg:composer/fusio/adapter-php@v6.3.0
