@@ -16,3 +16,4 @@
 - pkg:composer/horde/browser@v3.0.0alpha9
 - pkg:composer/horde/browser@v3.0.0beta1
 - pkg:composer/horde/browser@v3.0.0beta2
+- pkg:composer/horde/browser@v3.1.0
