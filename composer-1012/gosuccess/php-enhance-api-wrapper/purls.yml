@@ -1,3 +1,6 @@
 - pkg:composer/gosuccess/php-enhance-api-wrapper@3.0.0
+- pkg:composer/gosuccess/php-enhance-api-wrapper@3.1.0
+- pkg:composer/gosuccess/php-enhance-api-wrapper@3.2.0
+- pkg:composer/gosuccess/php-enhance-api-wrapper@3.3.0
 - pkg:composer/gosuccess/php-enhance-api-wrapper@v1.0.0
 - pkg:composer/gosuccess/php-enhance-api-wrapper@v2.0.0
