@@ -1,1 +1,5 @@
 - pkg:composer/foldas/qrstart-php@v2.0.0
+- pkg:composer/foldas/qrstart-php@v2.1.0
+- pkg:composer/foldas/qrstart-php@v2.1.1
+- pkg:composer/foldas/qrstart-php@v2.2.0
+- pkg:composer/foldas/qrstart-php@v2.3.0
