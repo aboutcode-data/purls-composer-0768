@@ -32,3 +32,4 @@
 - pkg:composer/foxws/laravel-shaka@2.3.2
 - pkg:composer/foxws/laravel-shaka@2.4.0
 - pkg:composer/foxws/laravel-shaka@3.0.0
+- pkg:composer/foxws/laravel-shaka@3.0.1
