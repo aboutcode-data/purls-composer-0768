@@ -74,6 +74,8 @@
 - pkg:composer/govcms/scaffold-tooling@6.0.0
 - pkg:composer/govcms/scaffold-tooling@6.0.1
 - pkg:composer/govcms/scaffold-tooling@6.0.10
+- pkg:composer/govcms/scaffold-tooling@6.0.11
+- pkg:composer/govcms/scaffold-tooling@6.0.12
 - pkg:composer/govcms/scaffold-tooling@6.0.2
 - pkg:composer/govcms/scaffold-tooling@6.0.3
 - pkg:composer/govcms/scaffold-tooling@6.0.4

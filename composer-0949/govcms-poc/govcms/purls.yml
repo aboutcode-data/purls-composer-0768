@@ -110,3 +110,8 @@
 - pkg:composer/govcms-poc/govcms@4.5.0.1
 - pkg:composer/govcms-poc/govcms@4.5.1
 - pkg:composer/govcms-poc/govcms@4.5.1.1
+- pkg:composer/govcms-poc/govcms@4.5.1.2
+- pkg:composer/govcms-poc/govcms@4.6.0
+- pkg:composer/govcms-poc/govcms@4.6.1
+- pkg:composer/govcms-poc/govcms@4.7.0
+- pkg:composer/govcms-poc/govcms@4.7.1
