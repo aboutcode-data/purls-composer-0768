@@ -24,3 +24,5 @@
 - pkg:composer/getdevflow/core@v2.6.0
 - pkg:composer/getdevflow/core@v2.6.1
 - pkg:composer/getdevflow/core@v3.0.0
+- pkg:composer/getdevflow/core@v3.0.1
+- pkg:composer/getdevflow/core@v3.0.2
