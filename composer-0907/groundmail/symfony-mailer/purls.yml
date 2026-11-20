@@ -1,0 +1,5 @@
+- pkg:composer/groundmail/symfony-mailer@v0.8.3
+- pkg:composer/groundmail/symfony-mailer@v0.8.4
+- pkg:composer/groundmail/symfony-mailer@v0.9.1
+- pkg:composer/groundmail/symfony-mailer@v0.9.2
+- pkg:composer/groundmail/symfony-mailer@v0.9.3
