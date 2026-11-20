@@ -138,6 +138,9 @@
 - pkg:composer/graphql-by-pop/graphql-endpoint-for-wp@2.5.2
 - pkg:composer/graphql-by-pop/graphql-endpoint-for-wp@2.6.0
 - pkg:composer/graphql-by-pop/graphql-endpoint-for-wp@2.6.1
+- pkg:composer/graphql-by-pop/graphql-endpoint-for-wp@20.0.0
+- pkg:composer/graphql-by-pop/graphql-endpoint-for-wp@20.0.1
+- pkg:composer/graphql-by-pop/graphql-endpoint-for-wp@20.0.2
 - pkg:composer/graphql-by-pop/graphql-endpoint-for-wp@3.0.0
 - pkg:composer/graphql-by-pop/graphql-endpoint-for-wp@4.0.0
 - pkg:composer/graphql-by-pop/graphql-endpoint-for-wp@4.0.1

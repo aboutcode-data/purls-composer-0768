@@ -138,6 +138,9 @@
 - pkg:composer/graphql-by-pop/graphql-server@2.5.2
 - pkg:composer/graphql-by-pop/graphql-server@2.6.0
 - pkg:composer/graphql-by-pop/graphql-server@2.6.1
+- pkg:composer/graphql-by-pop/graphql-server@20.0.0
+- pkg:composer/graphql-by-pop/graphql-server@20.0.1
+- pkg:composer/graphql-by-pop/graphql-server@20.0.2
 - pkg:composer/graphql-by-pop/graphql-server@3.0.0
 - pkg:composer/graphql-by-pop/graphql-server@4.0.0
 - pkg:composer/graphql-by-pop/graphql-server@4.0.1
