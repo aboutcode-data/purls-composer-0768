@@ -1,1 +1,3 @@
 - pkg:composer/flintphp/framework@1.0.0
+- pkg:composer/flintphp/framework@v1.1.0
+- pkg:composer/flintphp/framework@v1.2.0
