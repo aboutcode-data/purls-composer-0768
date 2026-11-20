@@ -5,3 +5,4 @@
 - pkg:composer/goaop/goaop-symfony-bundle@2.1.1
 - pkg:composer/goaop/goaop-symfony-bundle@2.1.2
 - pkg:composer/goaop/goaop-symfony-bundle@2.2.0
+- pkg:composer/goaop/goaop-symfony-bundle@4.0.0
