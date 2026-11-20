@@ -10,6 +10,9 @@
 - pkg:composer/gate/gateapi-php@7.2.129
 - pkg:composer/gate/gateapi-php@7.2.132
 - pkg:composer/gate/gateapi-php@7.2.144
+- pkg:composer/gate/gateapi-php@7.2.149
+- pkg:composer/gate/gateapi-php@7.2.160
+- pkg:composer/gate/gateapi-php@7.2.161
 - pkg:composer/gate/gateapi-php@7.2.18
 - pkg:composer/gate/gateapi-php@7.2.22
 - pkg:composer/gate/gateapi-php@7.2.23
@@ -41,3 +44,14 @@
 - pkg:composer/gate/gateapi-php@7.2.78
 - pkg:composer/gate/gateapi-php@7.2.8
 - pkg:composer/gate/gateapi-php@7.2.99
+- pkg:composer/gate/gateapi-php@8.2.164
+- pkg:composer/gate/gateapi-php@8.2.167
+- pkg:composer/gate/gateapi-php@8.2.170
+- pkg:composer/gate/gateapi-php@8.2.172
+- pkg:composer/gate/gateapi-php@8.2.173
+- pkg:composer/gate/gateapi-php@v7.2.176
+- pkg:composer/gate/gateapi-php@v7.2.177
+- pkg:composer/gate/gateapi-php@v7.2.178
+- pkg:composer/gate/gateapi-php@v7.2.179
+- pkg:composer/gate/gateapi-php@v7.2.181
+- pkg:composer/gate/gateapi-php@v7.2.184
