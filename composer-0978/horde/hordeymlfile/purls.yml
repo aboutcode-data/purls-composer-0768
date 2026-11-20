@@ -6,3 +6,4 @@
 - pkg:composer/horde/hordeymlfile@v1.0.0RC2
 - pkg:composer/horde/hordeymlfile@v1.0.0beta1
 - pkg:composer/horde/hordeymlfile@v1.0.0beta2
+- pkg:composer/horde/hordeymlfile@v1.0.1

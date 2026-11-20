@@ -15,3 +15,4 @@
 - pkg:composer/horde/rpc@v3.0.0beta3
 - pkg:composer/horde/rpc@v3.0.0beta4
 - pkg:composer/horde/rpc@v3.1.0
+- pkg:composer/horde/rpc@v3.2.0
