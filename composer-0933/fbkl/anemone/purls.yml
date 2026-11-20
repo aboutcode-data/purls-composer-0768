@@ -116,3 +116,6 @@
 - pkg:composer/fbkl/anemone@v4.8.3
 - pkg:composer/fbkl/anemone@v4.8.4
 - pkg:composer/fbkl/anemone@v4.9.0
+- pkg:composer/fbkl/anemone@v5.0.0
+- pkg:composer/fbkl/anemone@v5.0.1
+- pkg:composer/fbkl/anemone@v5.1.0
