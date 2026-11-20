@@ -6,6 +6,12 @@
 - pkg:composer/fuzzphony/fuzzphony@v0.12.1
 - pkg:composer/fuzzphony/fuzzphony@v0.12.2
 - pkg:composer/fuzzphony/fuzzphony@v0.12.3
+- pkg:composer/fuzzphony/fuzzphony@v0.12.4
+- pkg:composer/fuzzphony/fuzzphony@v0.12.5
+- pkg:composer/fuzzphony/fuzzphony@v0.12.6
+- pkg:composer/fuzzphony/fuzzphony@v0.12.7
+- pkg:composer/fuzzphony/fuzzphony@v0.12.8
+- pkg:composer/fuzzphony/fuzzphony@v0.12.9
 - pkg:composer/fuzzphony/fuzzphony@v0.3.0
 - pkg:composer/fuzzphony/fuzzphony@v0.3.1
 - pkg:composer/fuzzphony/fuzzphony@v0.3.2
@@ -36,3 +42,4 @@
 - pkg:composer/fuzzphony/fuzzphony@v0.9.7
 - pkg:composer/fuzzphony/fuzzphony@v0.9.8
 - pkg:composer/fuzzphony/fuzzphony@v0.9.9
+- pkg:composer/fuzzphony/fuzzphony@v1.0.0
