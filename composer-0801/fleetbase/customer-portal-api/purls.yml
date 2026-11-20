@@ -5,6 +5,7 @@
 - pkg:composer/fleetbase/customer-portal-api@0.0.13
 - pkg:composer/fleetbase/customer-portal-api@0.0.14
 - pkg:composer/fleetbase/customer-portal-api@0.0.15
+- pkg:composer/fleetbase/customer-portal-api@0.0.16
 - pkg:composer/fleetbase/customer-portal-api@0.0.2
 - pkg:composer/fleetbase/customer-portal-api@0.0.3
 - pkg:composer/fleetbase/customer-portal-api@0.0.4
@@ -13,3 +14,4 @@
 - pkg:composer/fleetbase/customer-portal-api@0.0.7
 - pkg:composer/fleetbase/customer-portal-api@0.0.8
 - pkg:composer/fleetbase/customer-portal-api@0.0.9
+- pkg:composer/fleetbase/customer-portal-api@0.1.0
