@@ -163,6 +163,8 @@
 - pkg:composer/google/cloud-pubsub@v2.21.2
 - pkg:composer/google/cloud-pubsub@v2.22.0
 - pkg:composer/google/cloud-pubsub@v2.22.1
+- pkg:composer/google/cloud-pubsub@v2.23.0
+- pkg:composer/google/cloud-pubsub@v2.24.0
 - pkg:composer/google/cloud-pubsub@v2.3.0
 - pkg:composer/google/cloud-pubsub@v2.4.0
 - pkg:composer/google/cloud-pubsub@v2.5.0

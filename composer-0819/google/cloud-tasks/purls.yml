@@ -77,3 +77,5 @@
 - pkg:composer/google/cloud-tasks@v2.2.3
 - pkg:composer/google/cloud-tasks@v2.2.4
 - pkg:composer/google/cloud-tasks@v2.3.0
+- pkg:composer/google/cloud-tasks@v2.3.1
+- pkg:composer/google/cloud-tasks@v2.4.0

@@ -83,3 +83,5 @@
 - pkg:composer/google/cloud-security-center@v2.6.3
 - pkg:composer/google/cloud-security-center@v2.6.4
 - pkg:composer/google/cloud-security-center@v2.6.5
+- pkg:composer/google/cloud-security-center@v2.7.0
+- pkg:composer/google/cloud-security-center@v2.8.0

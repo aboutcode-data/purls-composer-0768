@@ -42,3 +42,5 @@
 - pkg:composer/google/cloud-iap@v2.4.1
 - pkg:composer/google/cloud-iap@v2.4.2
 - pkg:composer/google/cloud-iap@v2.4.3
+- pkg:composer/google/cloud-iap@v2.4.4
+- pkg:composer/google/cloud-iap@v2.5.0
