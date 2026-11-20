@@ -41,3 +41,4 @@
 - pkg:composer/hanaboso/mongo-data-grid@1.9.1
 - pkg:composer/hanaboso/mongo-data-grid@2.0.0
 - pkg:composer/hanaboso/mongo-data-grid@2.0.1
+- pkg:composer/hanaboso/mongo-data-grid@2.1.0
