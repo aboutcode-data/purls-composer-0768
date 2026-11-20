@@ -3,3 +3,4 @@
 - pkg:composer/ffi/env@1.0.1
 - pkg:composer/ffi/env@1.0.2
 - pkg:composer/ffi/env@1.0.3
+- pkg:composer/ffi/env@1.1.0
