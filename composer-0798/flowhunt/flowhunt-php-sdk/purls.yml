@@ -16,3 +16,4 @@
 - pkg:composer/flowhunt/flowhunt-php-sdk@3.17.2
 - pkg:composer/flowhunt/flowhunt-php-sdk@3.18.2
 - pkg:composer/flowhunt/flowhunt-php-sdk@3.19.1
+- pkg:composer/flowhunt/flowhunt-php-sdk@4.0.0
