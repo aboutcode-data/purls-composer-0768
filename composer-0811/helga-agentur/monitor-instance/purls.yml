@@ -11,3 +11,5 @@
 - pkg:composer/helga-agentur/monitor-instance@v3.0.1
 - pkg:composer/helga-agentur/monitor-instance@v3.0.1-rc.1
 - pkg:composer/helga-agentur/monitor-instance@v3.0.1-rc.2
+- pkg:composer/helga-agentur/monitor-instance@v4.0.0
+- pkg:composer/helga-agentur/monitor-instance@v4.0.1
