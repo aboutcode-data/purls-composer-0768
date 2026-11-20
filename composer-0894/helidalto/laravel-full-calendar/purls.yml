@@ -5,3 +5,4 @@
 - pkg:composer/helidalto/laravel-full-calendar@0.1.4
 - pkg:composer/helidalto/laravel-full-calendar@0.1.5
 - pkg:composer/helidalto/laravel-full-calendar@0.1.6
+- pkg:composer/helidalto/laravel-full-calendar@v2.0.0
