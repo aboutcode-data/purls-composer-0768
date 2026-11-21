@@ -22,6 +22,10 @@
 - pkg:composer/innis/nostr-relay@v0.1.9
 - pkg:composer/innis/nostr-relay@v0.10.0
 - pkg:composer/innis/nostr-relay@v0.11.0
+- pkg:composer/innis/nostr-relay@v0.12.0
+- pkg:composer/innis/nostr-relay@v0.13.0
+- pkg:composer/innis/nostr-relay@v0.14.0
+- pkg:composer/innis/nostr-relay@v0.15.0
 - pkg:composer/innis/nostr-relay@v0.2.0
 - pkg:composer/innis/nostr-relay@v0.2.1
 - pkg:composer/innis/nostr-relay@v0.2.2
