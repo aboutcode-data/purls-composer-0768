@@ -13,7 +13,9 @@
 - pkg:composer/grpc/grpc-php-ext@v1.84.1
 - pkg:composer/grpc/grpc-php-ext@v1.84.2
 - pkg:composer/grpc/grpc-php-ext@v1.84.3
+- pkg:composer/grpc/grpc-php-ext@v1.84.4
 - pkg:composer/grpc/grpc-php-ext@v1.85.0
 - pkg:composer/grpc/grpc-php-ext@v1.85.1
 - pkg:composer/grpc/grpc-php-ext@v1.85.2
 - pkg:composer/grpc/grpc-php-ext@v1.85.3
+- pkg:composer/grpc/grpc-php-ext@v1.85.4
