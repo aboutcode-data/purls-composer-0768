@@ -23,3 +23,5 @@
 - pkg:composer/industrious/wp-helpers@v0.28
 - pkg:composer/industrious/wp-helpers@v0.30
 - pkg:composer/industrious/wp-helpers@v1.0
+- pkg:composer/industrious/wp-helpers@v1.1
+- pkg:composer/industrious/wp-helpers@v1.2
