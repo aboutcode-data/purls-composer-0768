@@ -48,3 +48,4 @@
 - pkg:composer/ingenerator/php-utils@v2.4.0
 - pkg:composer/ingenerator/php-utils@v2.5.0
 - pkg:composer/ingenerator/php-utils@v2.5.1
+- pkg:composer/ingenerator/php-utils@v3.0.0
