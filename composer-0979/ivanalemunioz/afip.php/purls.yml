@@ -1,5 +1,6 @@
 - pkg:composer/ivanalemunioz/afip.php@0.5.1
 - pkg:composer/ivanalemunioz/afip.php@0.5.3
+- pkg:composer/ivanalemunioz/afip.php@V1.3.1
 - pkg:composer/ivanalemunioz/afip.php@v0.5.4
 - pkg:composer/ivanalemunioz/afip.php@v0.6.0
 - pkg:composer/ivanalemunioz/afip.php@v0.6.1
@@ -24,3 +25,4 @@
 - pkg:composer/ivanalemunioz/afip.php@v1.1.4
 - pkg:composer/ivanalemunioz/afip.php@v1.1.5
 - pkg:composer/ivanalemunioz/afip.php@v1.2.0
+- pkg:composer/ivanalemunioz/afip.php@v1.3.0
