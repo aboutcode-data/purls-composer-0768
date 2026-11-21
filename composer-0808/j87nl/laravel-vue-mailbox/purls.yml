@@ -14,6 +14,14 @@
 - pkg:composer/j87nl/laravel-vue-mailbox@0.8.1
 - pkg:composer/j87nl/laravel-vue-mailbox@0.8.2
 - pkg:composer/j87nl/laravel-vue-mailbox@v0.10.0
+- pkg:composer/j87nl/laravel-vue-mailbox@v0.11.0
+- pkg:composer/j87nl/laravel-vue-mailbox@v0.12.0
+- pkg:composer/j87nl/laravel-vue-mailbox@v0.13.0
+- pkg:composer/j87nl/laravel-vue-mailbox@v0.13.1
+- pkg:composer/j87nl/laravel-vue-mailbox@v0.14.0
+- pkg:composer/j87nl/laravel-vue-mailbox@v0.14.1
+- pkg:composer/j87nl/laravel-vue-mailbox@v0.15.0
+- pkg:composer/j87nl/laravel-vue-mailbox@v0.16.0
 - pkg:composer/j87nl/laravel-vue-mailbox@v0.9.0
 - pkg:composer/j87nl/laravel-vue-mailbox@v0.9.1
 - pkg:composer/j87nl/laravel-vue-mailbox@v0.9.2
