@@ -1,6 +1,7 @@
 - pkg:composer/hydrafetch/hydrafetch@v0.1.0
 - pkg:composer/hydrafetch/hydrafetch@v0.1.1
 - pkg:composer/hydrafetch/hydrafetch@v0.10.0
+- pkg:composer/hydrafetch/hydrafetch@v0.11.0
 - pkg:composer/hydrafetch/hydrafetch@v0.2.0
 - pkg:composer/hydrafetch/hydrafetch@v0.3.0
 - pkg:composer/hydrafetch/hydrafetch@v0.4.0
