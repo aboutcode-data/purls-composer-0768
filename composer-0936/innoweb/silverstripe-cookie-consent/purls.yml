@@ -52,3 +52,5 @@
 - pkg:composer/innoweb/silverstripe-cookie-consent@5.2.0
 - pkg:composer/innoweb/silverstripe-cookie-consent@5.2.1
 - pkg:composer/innoweb/silverstripe-cookie-consent@5.2.2
+- pkg:composer/innoweb/silverstripe-cookie-consent@5.3.0
+- pkg:composer/innoweb/silverstripe-cookie-consent@5.3.1
