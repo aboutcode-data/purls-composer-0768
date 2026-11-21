@@ -5,3 +5,5 @@
 - pkg:composer/joserick/png-metadata@v0.1.2
 - pkg:composer/joserick/png-metadata@v0.2
 - pkg:composer/joserick/png-metadata@v0.2.8
+- pkg:composer/joserick/png-metadata@v1.0.0
+- pkg:composer/joserick/png-metadata@v2.0.0-beta.1
