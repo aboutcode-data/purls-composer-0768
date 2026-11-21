@@ -7,3 +7,6 @@
 - pkg:composer/jedymatt/laravel-sail-env@v1.1.4
 - pkg:composer/jedymatt/laravel-sail-env@v1.1.5
 - pkg:composer/jedymatt/laravel-sail-env@v1.1.6
+- pkg:composer/jedymatt/laravel-sail-env@v1.1.7
+- pkg:composer/jedymatt/laravel-sail-env@v1.1.8
+- pkg:composer/jedymatt/laravel-sail-env@v1.1.9
