@@ -117,9 +117,13 @@
 - pkg:composer/itzbund/gsb-feusermanagement@v2.0.11-rc.1
 - pkg:composer/itzbund/gsb-feusermanagement@v2.0.12
 - pkg:composer/itzbund/gsb-feusermanagement@v2.0.12-rc.1
+- pkg:composer/itzbund/gsb-feusermanagement@v2.0.13
 - pkg:composer/itzbund/gsb-feusermanagement@v2.0.13-beta.1
 - pkg:composer/itzbund/gsb-feusermanagement@v2.0.13-beta.2
 - pkg:composer/itzbund/gsb-feusermanagement@v2.0.13-rc.1
+- pkg:composer/itzbund/gsb-feusermanagement@v2.0.14-beta.1
+- pkg:composer/itzbund/gsb-feusermanagement@v2.0.14-beta.2
+- pkg:composer/itzbund/gsb-feusermanagement@v2.0.14-rc.1
 - pkg:composer/itzbund/gsb-feusermanagement@v2.0.2
 - pkg:composer/itzbund/gsb-feusermanagement@v2.0.3
 - pkg:composer/itzbund/gsb-feusermanagement@v2.0.4
