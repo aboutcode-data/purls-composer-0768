@@ -2,3 +2,4 @@
 - pkg:composer/ipgeolocation/ipgeolocation-php-sdk@v2.0.1
 - pkg:composer/ipgeolocation/ipgeolocation-php-sdk@v3.0.0
 - pkg:composer/ipgeolocation/ipgeolocation-php-sdk@v3.0.1
+- pkg:composer/ipgeolocation/ipgeolocation-php-sdk@v3.0.2
