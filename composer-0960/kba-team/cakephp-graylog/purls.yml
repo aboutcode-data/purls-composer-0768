@@ -11,6 +11,8 @@
 - pkg:composer/kba-team/cakephp-graylog@v1.2.0
 - pkg:composer/kba-team/cakephp-graylog@v1.3.0
 - pkg:composer/kba-team/cakephp-graylog@v1.4.0
+- pkg:composer/kba-team/cakephp-graylog@v1.4.1
+- pkg:composer/kba-team/cakephp-graylog@v1.4.2
 - pkg:composer/kba-team/cakephp-graylog@v2.0.0
 - pkg:composer/kba-team/cakephp-graylog@v2.0.1
 - pkg:composer/kba-team/cakephp-graylog@v2.0.2
@@ -25,3 +27,4 @@
 - pkg:composer/kba-team/cakephp-graylog@v4.0.0
 - pkg:composer/kba-team/cakephp-graylog@v4.0.1
 - pkg:composer/kba-team/cakephp-graylog@v4.0.2
+- pkg:composer/kba-team/cakephp-graylog@v4.0.3
