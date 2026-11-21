@@ -40,3 +40,4 @@
 - pkg:composer/johnbillion/plugin-infrastructure@2.9.7
 - pkg:composer/johnbillion/plugin-infrastructure@2.9.8
 - pkg:composer/johnbillion/plugin-infrastructure@2.9.9
+- pkg:composer/johnbillion/plugin-infrastructure@3.0.0
