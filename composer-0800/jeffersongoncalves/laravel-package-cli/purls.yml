@@ -10,3 +10,5 @@
 - pkg:composer/jeffersongoncalves/laravel-package-cli@v1.0.7
 - pkg:composer/jeffersongoncalves/laravel-package-cli@v1.0.8
 - pkg:composer/jeffersongoncalves/laravel-package-cli@v1.0.9
+- pkg:composer/jeffersongoncalves/laravel-package-cli@v1.1.0
+- pkg:composer/jeffersongoncalves/laravel-package-cli@v1.2.0
