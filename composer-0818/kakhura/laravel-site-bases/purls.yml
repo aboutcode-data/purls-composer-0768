@@ -88,6 +88,7 @@
 - pkg:composer/kakhura/laravel-site-bases@63.0.0
 - pkg:composer/kakhura/laravel-site-bases@63.1.0
 - pkg:composer/kakhura/laravel-site-bases@63.2.0
+- pkg:composer/kakhura/laravel-site-bases@64.0.0
 - pkg:composer/kakhura/laravel-site-bases@7.0.0
 - pkg:composer/kakhura/laravel-site-bases@8.0.0
 - pkg:composer/kakhura/laravel-site-bases@9.0.0
