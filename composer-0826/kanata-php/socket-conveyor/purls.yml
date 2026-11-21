@@ -57,5 +57,7 @@
 - pkg:composer/kanata-php/socket-conveyor@2.4.4
 - pkg:composer/kanata-php/socket-conveyor@2.5.0
 - pkg:composer/kanata-php/socket-conveyor@2.5.1
+- pkg:composer/kanata-php/socket-conveyor@2.6.0
+- pkg:composer/kanata-php/socket-conveyor@2.6.1
 - pkg:composer/kanata-php/socket-conveyor@3.0.0-beta
 - pkg:composer/kanata-php/socket-conveyor@3.0.1-beta

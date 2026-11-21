@@ -22,3 +22,4 @@
 - pkg:composer/kanata-php/conveyor-laravel-broadcaster@0.1.9
 - pkg:composer/kanata-php/conveyor-laravel-broadcaster@0.2.0
 - pkg:composer/kanata-php/conveyor-laravel-broadcaster@0.2.0-beta
+- pkg:composer/kanata-php/conveyor-laravel-broadcaster@0.3.0
