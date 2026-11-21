@@ -39,6 +39,8 @@
 - pkg:composer/jaguarsoft/laravel-env-loader@6.0.4
 - pkg:composer/jaguarsoft/laravel-env-loader@6.0.5
 - pkg:composer/jaguarsoft/laravel-env-loader@6.0.6
+- pkg:composer/jaguarsoft/laravel-env-loader@6.0.7
+- pkg:composer/jaguarsoft/laravel-env-loader@6.0.8
 - pkg:composer/jaguarsoft/laravel-env-loader@7.0.0
 - pkg:composer/jaguarsoft/laravel-env-loader@7.0.1
 - pkg:composer/jaguarsoft/laravel-env-loader@7.0.2
