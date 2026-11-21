@@ -37,3 +37,4 @@
 - pkg:composer/innmind/server-control@7.0.0
 - pkg:composer/innmind/server-control@7.1.0
 - pkg:composer/innmind/server-control@7.2.0
+- pkg:composer/innmind/server-control@7.2.1
