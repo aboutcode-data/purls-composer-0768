@@ -14,6 +14,7 @@
 - pkg:composer/innomedia/shopextensions@0.5.2
 - pkg:composer/innomedia/shopextensions@0.5.3
 - pkg:composer/innomedia/shopextensions@0.5.4
+- pkg:composer/innomedia/shopextensions@0.5.5
 - pkg:composer/innomedia/shopextensions@1.0.0
 - pkg:composer/innomedia/shopextensions@1.0.1
 - pkg:composer/innomedia/shopextensions@1.1.0
@@ -36,3 +37,6 @@
 - pkg:composer/innomedia/shopextensions@6.1.0
 - pkg:composer/innomedia/shopextensions@6.1.1
 - pkg:composer/innomedia/shopextensions@6.1.2
+- pkg:composer/innomedia/shopextensions@6.2.0
+- pkg:composer/innomedia/shopextensions@6.2.1
+- pkg:composer/innomedia/shopextensions@6.2.2
