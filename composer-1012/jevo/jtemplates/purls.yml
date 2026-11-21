@@ -1,1 +1,3 @@
 - pkg:composer/jevo/jtemplates@0.0.1
+- pkg:composer/jevo/jtemplates@0.1.0
+- pkg:composer/jevo/jtemplates@v0.0.2
