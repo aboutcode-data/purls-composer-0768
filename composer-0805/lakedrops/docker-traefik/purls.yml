@@ -41,7 +41,9 @@
 - pkg:composer/lakedrops/docker-traefik@v3.3.16
 - pkg:composer/lakedrops/docker-traefik@v3.3.17
 - pkg:composer/lakedrops/docker-traefik@v3.3.18
+- pkg:composer/lakedrops/docker-traefik@v3.3.19
 - pkg:composer/lakedrops/docker-traefik@v3.3.2
+- pkg:composer/lakedrops/docker-traefik@v3.3.20
 - pkg:composer/lakedrops/docker-traefik@v3.3.3
 - pkg:composer/lakedrops/docker-traefik@v3.3.4
 - pkg:composer/lakedrops/docker-traefik@v3.3.5

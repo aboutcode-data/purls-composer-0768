@@ -32,3 +32,4 @@
 - pkg:composer/lakedrops/behat4drupal@v3.2.2
 - pkg:composer/lakedrops/behat4drupal@v3.2.3
 - pkg:composer/lakedrops/behat4drupal@v3.2.4
+- pkg:composer/lakedrops/behat4drupal@v3.2.5
