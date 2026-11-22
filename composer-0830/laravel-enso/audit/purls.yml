@@ -9,3 +9,4 @@
 - pkg:composer/laravel-enso/audit@2.0.5
 - pkg:composer/laravel-enso/audit@2.0.6
 - pkg:composer/laravel-enso/audit@2.0.7
+- pkg:composer/laravel-enso/audit@2.0.8
