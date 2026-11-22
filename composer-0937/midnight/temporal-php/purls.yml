@@ -4,3 +4,5 @@
 - pkg:composer/midnight/temporal-php@v0.3.1
 - pkg:composer/midnight/temporal-php@v0.3.2
 - pkg:composer/midnight/temporal-php@v0.3.3
+- pkg:composer/midnight/temporal-php@v1.0.0
+- pkg:composer/midnight/temporal-php@v1.0.1
