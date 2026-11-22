@@ -46,3 +46,4 @@
 - pkg:composer/maxmind/minfraud@v3.5.0
 - pkg:composer/maxmind/minfraud@v3.6.0
 - pkg:composer/maxmind/minfraud@v3.7.0
+- pkg:composer/maxmind/minfraud@v3.8.0
