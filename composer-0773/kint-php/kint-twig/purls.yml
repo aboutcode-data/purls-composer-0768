@@ -10,3 +10,4 @@
 - pkg:composer/kint-php/kint-twig@4.0
 - pkg:composer/kint-php/kint-twig@5.0
 - pkg:composer/kint-php/kint-twig@6.0
+- pkg:composer/kint-php/kint-twig@6.1

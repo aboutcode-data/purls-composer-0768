@@ -8,7 +8,11 @@
 - pkg:composer/kipchak/driver-openai@2.14
 - pkg:composer/kipchak/driver-openai@2.15
 - pkg:composer/kipchak/driver-openai@2.16
+- pkg:composer/kipchak/driver-openai@2.17
+- pkg:composer/kipchak/driver-openai@2.18
+- pkg:composer/kipchak/driver-openai@2.19
 - pkg:composer/kipchak/driver-openai@2.2
+- pkg:composer/kipchak/driver-openai@2.20
 - pkg:composer/kipchak/driver-openai@2.3
 - pkg:composer/kipchak/driver-openai@2.4
 - pkg:composer/kipchak/driver-openai@2.5

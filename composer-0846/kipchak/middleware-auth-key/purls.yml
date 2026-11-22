@@ -33,6 +33,11 @@
 - pkg:composer/kipchak/middleware-auth-key@1.38
 - pkg:composer/kipchak/middleware-auth-key@1.39
 - pkg:composer/kipchak/middleware-auth-key@1.4
+- pkg:composer/kipchak/middleware-auth-key@1.40
+- pkg:composer/kipchak/middleware-auth-key@1.41
+- pkg:composer/kipchak/middleware-auth-key@1.42
+- pkg:composer/kipchak/middleware-auth-key@1.43
+- pkg:composer/kipchak/middleware-auth-key@1.44
 - pkg:composer/kipchak/middleware-auth-key@1.5
 - pkg:composer/kipchak/middleware-auth-key@1.6
 - pkg:composer/kipchak/middleware-auth-key@1.7
