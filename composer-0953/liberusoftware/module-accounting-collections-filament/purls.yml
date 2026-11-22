@@ -1,2 +1,4 @@
 - pkg:composer/liberusoftware/module-accounting-collections-filament@1.0.0
 - pkg:composer/liberusoftware/module-accounting-collections-filament@1.1.0
+- pkg:composer/liberusoftware/module-accounting-collections-filament@1.1.1
+- pkg:composer/liberusoftware/module-accounting-collections-filament@1.2.0
