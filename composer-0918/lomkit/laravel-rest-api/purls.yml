@@ -80,3 +80,15 @@
 - pkg:composer/lomkit/laravel-rest-api@v2.8.6
 - pkg:composer/lomkit/laravel-rest-api@v2.8.7
 - pkg:composer/lomkit/laravel-rest-api@v2.9.0
+- pkg:composer/lomkit/laravel-rest-api@v3.0.0
+- pkg:composer/lomkit/laravel-rest-api@v3.0.1
+- pkg:composer/lomkit/laravel-rest-api@v3.1.0
+- pkg:composer/lomkit/laravel-rest-api@v3.1.1
+- pkg:composer/lomkit/laravel-rest-api@v3.2.0
+- pkg:composer/lomkit/laravel-rest-api@v3.2.1
+- pkg:composer/lomkit/laravel-rest-api@v3.2.2
+- pkg:composer/lomkit/laravel-rest-api@v3.2.3
+- pkg:composer/lomkit/laravel-rest-api@v3.3.0
+- pkg:composer/lomkit/laravel-rest-api@v3.4.0
+- pkg:composer/lomkit/laravel-rest-api@v3.5.0
+- pkg:composer/lomkit/laravel-rest-api@v3.6.0
