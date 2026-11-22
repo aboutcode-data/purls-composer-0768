@@ -120,3 +120,4 @@
 - pkg:composer/milpa/agent-workspace@v0.93.1
 - pkg:composer/milpa/agent-workspace@v0.94.0
 - pkg:composer/milpa/agent-workspace@v0.95.0
+- pkg:composer/milpa/agent-workspace@v0.96.0
