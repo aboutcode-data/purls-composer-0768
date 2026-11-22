@@ -72,3 +72,4 @@
 - pkg:composer/laminas/laminas-permissions-rbac@3.6.0
 - pkg:composer/laminas/laminas-permissions-rbac@3.7.0
 - pkg:composer/laminas/laminas-permissions-rbac@3.8.0
+- pkg:composer/laminas/laminas-permissions-rbac@3.9.0

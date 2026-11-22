@@ -14,6 +14,7 @@
 - pkg:composer/laminas/laminas-httphandlerrunner@2.12.0
 - pkg:composer/laminas/laminas-httphandlerrunner@2.13.0
 - pkg:composer/laminas/laminas-httphandlerrunner@2.14.0
+- pkg:composer/laminas/laminas-httphandlerrunner@2.15.0
 - pkg:composer/laminas/laminas-httphandlerrunner@2.2.0
 - pkg:composer/laminas/laminas-httphandlerrunner@2.3.0
 - pkg:composer/laminas/laminas-httphandlerrunner@2.4.0

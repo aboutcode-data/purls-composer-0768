@@ -39,6 +39,7 @@
 - pkg:composer/laminas/laminas-server@2.2.7
 - pkg:composer/laminas/laminas-server@2.2.8
 - pkg:composer/laminas/laminas-server@2.2.9
+- pkg:composer/laminas/laminas-server@2.20.0
 - pkg:composer/laminas/laminas-server@2.3.0
 - pkg:composer/laminas/laminas-server@2.3.1
 - pkg:composer/laminas/laminas-server@2.3.2

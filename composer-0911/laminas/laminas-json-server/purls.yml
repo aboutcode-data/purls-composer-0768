@@ -1,6 +1,7 @@
 - pkg:composer/laminas/laminas-json-server@3.0.0
 - pkg:composer/laminas/laminas-json-server@3.1.0
 - pkg:composer/laminas/laminas-json-server@3.10.0
+- pkg:composer/laminas/laminas-json-server@3.11.0
 - pkg:composer/laminas/laminas-json-server@3.2.0
 - pkg:composer/laminas/laminas-json-server@3.2.1
 - pkg:composer/laminas/laminas-json-server@3.2.2
