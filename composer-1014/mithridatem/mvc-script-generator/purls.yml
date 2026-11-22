@@ -2,3 +2,6 @@
 - pkg:composer/mithridatem/mvc-script-generator@v1.0.1
 - pkg:composer/mithridatem/mvc-script-generator@v1.0.2
 - pkg:composer/mithridatem/mvc-script-generator@v1.0.3
+- pkg:composer/mithridatem/mvc-script-generator@v1.2.2
+- pkg:composer/mithridatem/mvc-script-generator@v1.3.0
+- pkg:composer/mithridatem/mvc-script-generator@v1.4.0
