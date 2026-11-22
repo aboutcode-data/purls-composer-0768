@@ -1,0 +1,3 @@
+- pkg:composer/lessormq/client@v0.1.0
+- pkg:composer/lessormq/client@v0.2.9
+- pkg:composer/lessormq/client@v0.3.0
