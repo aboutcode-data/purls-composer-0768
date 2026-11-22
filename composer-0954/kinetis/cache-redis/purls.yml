@@ -15,3 +15,4 @@
 - pkg:composer/kinetis/cache-redis@v1.3.2
 - pkg:composer/kinetis/cache-redis@v1.3.3
 - pkg:composer/kinetis/cache-redis@v1.3.4
+- pkg:composer/kinetis/cache-redis@v1.3.5
