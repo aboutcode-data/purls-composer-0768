@@ -9,6 +9,13 @@
 - pkg:composer/lts/php-qa-ci@85.10.3
 - pkg:composer/lts/php-qa-ci@85.11.0
 - pkg:composer/lts/php-qa-ci@85.12.0
+- pkg:composer/lts/php-qa-ci@85.13.0
+- pkg:composer/lts/php-qa-ci@85.14.0
+- pkg:composer/lts/php-qa-ci@85.15.0
+- pkg:composer/lts/php-qa-ci@85.16.0
+- pkg:composer/lts/php-qa-ci@85.17.0
+- pkg:composer/lts/php-qa-ci@85.18.0
+- pkg:composer/lts/php-qa-ci@85.18.1
 - pkg:composer/lts/php-qa-ci@85.2.0
 - pkg:composer/lts/php-qa-ci@85.3.0
 - pkg:composer/lts/php-qa-ci@85.4.0
