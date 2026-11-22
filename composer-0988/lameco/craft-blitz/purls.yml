@@ -9,6 +9,10 @@
 - pkg:composer/lameco/craft-blitz@1.0.1
 - pkg:composer/lameco/craft-blitz@1.0.2
 - pkg:composer/lameco/craft-blitz@1.1.2
+- pkg:composer/lameco/craft-blitz@1.1.3
 - pkg:composer/lameco/craft-blitz@4.0.0
 - pkg:composer/lameco/craft-blitz@5.0.0
 - pkg:composer/lameco/craft-blitz@5.0.1
+- pkg:composer/lameco/craft-blitz@6.0.0
+- pkg:composer/lameco/craft-blitz@6.0.1
+- pkg:composer/lameco/craft-blitz@6.1.0
