@@ -42,3 +42,4 @@
 - pkg:composer/mezzio/mezzio-laminasviewrenderer@2.8.0
 - pkg:composer/mezzio/mezzio-laminasviewrenderer@2.9.0
 - pkg:composer/mezzio/mezzio-laminasviewrenderer@3.0.0
+- pkg:composer/mezzio/mezzio-laminasviewrenderer@3.1.0

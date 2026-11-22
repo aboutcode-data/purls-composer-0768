@@ -21,3 +21,4 @@
 - pkg:composer/mezzio/mezzio-template@2.8.0
 - pkg:composer/mezzio/mezzio-template@2.9.0
 - pkg:composer/mezzio/mezzio-template@3.0.0
+- pkg:composer/mezzio/mezzio-template@3.1.0

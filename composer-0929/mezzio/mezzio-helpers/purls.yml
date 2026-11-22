@@ -38,6 +38,7 @@
 - pkg:composer/mezzio/mezzio-helpers@5.19.0
 - pkg:composer/mezzio/mezzio-helpers@5.2.0
 - pkg:composer/mezzio/mezzio-helpers@5.20.0
+- pkg:composer/mezzio/mezzio-helpers@5.21.0
 - pkg:composer/mezzio/mezzio-helpers@5.3.0
 - pkg:composer/mezzio/mezzio-helpers@5.4.0
 - pkg:composer/mezzio/mezzio-helpers@5.4.1
