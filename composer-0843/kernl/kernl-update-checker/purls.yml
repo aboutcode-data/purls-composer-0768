@@ -11,3 +11,5 @@
 - pkg:composer/kernl/kernl-update-checker@4.0.2
 - pkg:composer/kernl/kernl-update-checker@4.1.0
 - pkg:composer/kernl/kernl-update-checker@v4.2
+- pkg:composer/kernl/kernl-update-checker@v4.3
+- pkg:composer/kernl/kernl-update-checker@v4.4
