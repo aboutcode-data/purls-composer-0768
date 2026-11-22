@@ -29,3 +29,5 @@
 - pkg:composer/laravel/folio@v1.1.8
 - pkg:composer/laravel/folio@v1.1.9
 - pkg:composer/laravel/folio@v1.2.0
+- pkg:composer/laravel/folio@v1.3.0
+- pkg:composer/laravel/folio@v1.4.0
