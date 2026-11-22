@@ -1,2 +1,4 @@
 - pkg:composer/medienreaktor/neos-studio-example-plugins@1.0
 - pkg:composer/medienreaktor/neos-studio-example-plugins@1.0.1
+- pkg:composer/medienreaktor/neos-studio-example-plugins@2.0.0
+- pkg:composer/medienreaktor/neos-studio-example-plugins@2.0.1
