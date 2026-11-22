@@ -66,6 +66,11 @@
 - pkg:composer/mendesalexandre/php-nfse-nacional@v0.44.0
 - pkg:composer/mendesalexandre/php-nfse-nacional@v0.45.0
 - pkg:composer/mendesalexandre/php-nfse-nacional@v0.45.1
+- pkg:composer/mendesalexandre/php-nfse-nacional@v0.45.2
+- pkg:composer/mendesalexandre/php-nfse-nacional@v0.46.0
+- pkg:composer/mendesalexandre/php-nfse-nacional@v0.47.0
+- pkg:composer/mendesalexandre/php-nfse-nacional@v0.48.0
+- pkg:composer/mendesalexandre/php-nfse-nacional@v0.48.1
 - pkg:composer/mendesalexandre/php-nfse-nacional@v0.5.0
 - pkg:composer/mendesalexandre/php-nfse-nacional@v0.5.1
 - pkg:composer/mendesalexandre/php-nfse-nacional@v0.5.2
