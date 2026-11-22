@@ -24,6 +24,7 @@
 - pkg:composer/lowgravitypl/raccoonwp-core@2.0
 - pkg:composer/lowgravitypl/raccoonwp-core@2.1
 - pkg:composer/lowgravitypl/raccoonwp-core@2.1.1
+- pkg:composer/lowgravitypl/raccoonwp-core@2.10.0
 - pkg:composer/lowgravitypl/raccoonwp-core@2.2
 - pkg:composer/lowgravitypl/raccoonwp-core@2.2.1
 - pkg:composer/lowgravitypl/raccoonwp-core@2.2.2
