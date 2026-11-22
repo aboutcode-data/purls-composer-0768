@@ -29,3 +29,5 @@
 - pkg:composer/liberusoftware/identity-socialstream@1.7.3
 - pkg:composer/liberusoftware/identity-socialstream@1.8.0
 - pkg:composer/liberusoftware/identity-socialstream@1.8.1
+- pkg:composer/liberusoftware/identity-socialstream@1.8.2
+- pkg:composer/liberusoftware/identity-socialstream@1.9.0
