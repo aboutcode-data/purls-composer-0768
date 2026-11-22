@@ -5,3 +5,4 @@
 - pkg:composer/mamitech/laravel-http-logger@v3.0
 - pkg:composer/mamitech/laravel-http-logger@v3.1
 - pkg:composer/mamitech/laravel-http-logger@v4.0
+- pkg:composer/mamitech/laravel-http-logger@v5.0
