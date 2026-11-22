@@ -68,3 +68,4 @@
 - pkg:composer/level23/druid-client@v4.1.3
 - pkg:composer/level23/druid-client@v4.1.4
 - pkg:composer/level23/druid-client@v4.2.0
+- pkg:composer/level23/druid-client@v4.2.1
