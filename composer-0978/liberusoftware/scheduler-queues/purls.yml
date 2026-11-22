@@ -14,3 +14,6 @@
 - pkg:composer/liberusoftware/scheduler-queues@1.4.4
 - pkg:composer/liberusoftware/scheduler-queues@1.5.0
 - pkg:composer/liberusoftware/scheduler-queues@1.5.1
+- pkg:composer/liberusoftware/scheduler-queues@1.6.0
+- pkg:composer/liberusoftware/scheduler-queues@1.6.1
+- pkg:composer/liberusoftware/scheduler-queues@1.6.2
