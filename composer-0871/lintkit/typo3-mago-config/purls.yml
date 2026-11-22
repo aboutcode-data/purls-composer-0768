@@ -1,0 +1,4 @@
+- pkg:composer/lintkit/typo3-mago-config@1.0.0
+- pkg:composer/lintkit/typo3-mago-config@1.1.0
+- pkg:composer/lintkit/typo3-mago-config@1.1.1
+- pkg:composer/lintkit/typo3-mago-config@2.0.0
