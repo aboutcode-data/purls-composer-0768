@@ -21,6 +21,7 @@
 - pkg:composer/mertaydin/elasticsearch-monitoring@0.33.0
 - pkg:composer/mertaydin/elasticsearch-monitoring@0.33.1
 - pkg:composer/mertaydin/elasticsearch-monitoring@0.34.0
+- pkg:composer/mertaydin/elasticsearch-monitoring@0.34.1
 - pkg:composer/mertaydin/elasticsearch-monitoring@v0.1.0
 - pkg:composer/mertaydin/elasticsearch-monitoring@v0.1.1
 - pkg:composer/mertaydin/elasticsearch-monitoring@v0.1.2
