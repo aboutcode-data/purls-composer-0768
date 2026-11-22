@@ -1,3 +1,4 @@
 - pkg:composer/lck/swoft-auth@v2.0.0
 - pkg:composer/lck/swoft-auth@v2.0.12
+- pkg:composer/lck/swoft-auth@v2.0.12.1
 - pkg:composer/lck/swoft-auth@v2.0.13
