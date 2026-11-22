@@ -234,6 +234,7 @@
 - pkg:composer/lara-zeus/bolt@v4.0.14
 - pkg:composer/lara-zeus/bolt@v4.0.15
 - pkg:composer/lara-zeus/bolt@v4.0.16
+- pkg:composer/lara-zeus/bolt@v4.0.17
 - pkg:composer/lara-zeus/bolt@v4.0.2
 - pkg:composer/lara-zeus/bolt@v4.0.3
 - pkg:composer/lara-zeus/bolt@v4.0.4
@@ -244,6 +245,7 @@
 - pkg:composer/lara-zeus/bolt@v4.0.9
 - pkg:composer/lara-zeus/bolt@v5.0.0
 - pkg:composer/lara-zeus/bolt@v5.0.1
+- pkg:composer/lara-zeus/bolt@v5.0.10
 - pkg:composer/lara-zeus/bolt@v5.0.2
 - pkg:composer/lara-zeus/bolt@v5.0.3
 - pkg:composer/lara-zeus/bolt@v5.0.4
@@ -252,3 +254,6 @@
 - pkg:composer/lara-zeus/bolt@v5.0.7
 - pkg:composer/lara-zeus/bolt@v5.0.8
 - pkg:composer/lara-zeus/bolt@v5.0.9
+- pkg:composer/lara-zeus/bolt@v5.1.0
+- pkg:composer/lara-zeus/bolt@v5.1.1
+- pkg:composer/lara-zeus/bolt@v5.1.2
