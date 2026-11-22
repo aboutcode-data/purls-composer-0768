@@ -1,4 +1,6 @@
 - pkg:composer/kuvardin/telegram-bots-api@v10.0
+- pkg:composer/kuvardin/telegram-bots-api@v10.4
+- pkg:composer/kuvardin/telegram-bots-api@v10.5
 - pkg:composer/kuvardin/telegram-bots-api@v6.2
 - pkg:composer/kuvardin/telegram-bots-api@v7.0
 - pkg:composer/kuvardin/telegram-bots-api@v7.1
