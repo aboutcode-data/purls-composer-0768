@@ -10,3 +10,4 @@
 - pkg:composer/mediawiki/semantic-cite@3.0.0
 - pkg:composer/mediawiki/semantic-cite@4.0.0
 - pkg:composer/mediawiki/semantic-cite@5.0.0
+- pkg:composer/mediawiki/semantic-cite@5.0.1
