@@ -24,6 +24,8 @@
 - pkg:composer/mitydigital/sitemapamic@3.4.1
 - pkg:composer/mitydigital/sitemapamic@3.5.0
 - pkg:composer/mitydigital/sitemapamic@3.5.1
+- pkg:composer/mitydigital/sitemapamic@4.0.0
+- pkg:composer/mitydigital/sitemapamic@4.0.0-beta.5
 - pkg:composer/mitydigital/sitemapamic@v1.0
 - pkg:composer/mitydigital/sitemapamic@v1.1
 - pkg:composer/mitydigital/sitemapamic@v1.2
@@ -37,3 +39,8 @@
 - pkg:composer/mitydigital/sitemapamic@v1.3.6
 - pkg:composer/mitydigital/sitemapamic@v2.0.0
 - pkg:composer/mitydigital/sitemapamic@v2.0.1
+- pkg:composer/mitydigital/sitemapamic@v4.0.0-beta.1
+- pkg:composer/mitydigital/sitemapamic@v4.0.0-beta.2
+- pkg:composer/mitydigital/sitemapamic@v4.0.0-beta.3
+- pkg:composer/mitydigital/sitemapamic@v4.0.0-beta.4
+- pkg:composer/mitydigital/sitemapamic@v4.0.0-beta.6
