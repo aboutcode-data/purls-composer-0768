@@ -1,3 +1,4 @@
 - pkg:composer/maatify/channel-delivery@v1.0.0
 - pkg:composer/maatify/channel-delivery@v1.0.1
 - pkg:composer/maatify/channel-delivery@v1.1.0
+- pkg:composer/maatify/channel-delivery@v2.0.0
