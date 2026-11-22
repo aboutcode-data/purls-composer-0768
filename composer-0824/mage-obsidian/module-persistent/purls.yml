@@ -9,3 +9,5 @@
 - pkg:composer/mage-obsidian/module-persistent@4.2.0
 - pkg:composer/mage-obsidian/module-persistent@4.2.1
 - pkg:composer/mage-obsidian/module-persistent@4.3.0
+- pkg:composer/mage-obsidian/module-persistent@4.3.1
+- pkg:composer/mage-obsidian/module-persistent@4.3.2
