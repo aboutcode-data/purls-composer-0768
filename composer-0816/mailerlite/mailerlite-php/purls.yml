@@ -5,3 +5,4 @@
 - pkg:composer/mailerlite/mailerlite-php@v1.0.4
 - pkg:composer/mailerlite/mailerlite-php@v1.0.5
 - pkg:composer/mailerlite/mailerlite-php@v1.1.0
+- pkg:composer/mailerlite/mailerlite-php@v1.2.0
