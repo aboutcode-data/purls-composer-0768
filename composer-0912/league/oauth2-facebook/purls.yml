@@ -31,3 +31,4 @@
 - pkg:composer/league/oauth2-facebook@2.0.5
 - pkg:composer/league/oauth2-facebook@2.1.0
 - pkg:composer/league/oauth2-facebook@2.2.0
+- pkg:composer/league/oauth2-facebook@2.3.0
