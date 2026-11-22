@@ -32,6 +32,8 @@
 - pkg:composer/jul6art/core-bundle@v3.11.0
 - pkg:composer/jul6art/core-bundle@v3.11.1
 - pkg:composer/jul6art/core-bundle@v3.12.0
+- pkg:composer/jul6art/core-bundle@v3.13.0
+- pkg:composer/jul6art/core-bundle@v3.13.1
 - pkg:composer/jul6art/core-bundle@v3.2.0
 - pkg:composer/jul6art/core-bundle@v3.3.0
 - pkg:composer/jul6art/core-bundle@v3.4.0
