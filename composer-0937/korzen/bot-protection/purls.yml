@@ -1,1 +1,5 @@
 - pkg:composer/korzen/bot-protection@1.0.0
+- pkg:composer/korzen/bot-protection@2.0.0
+- pkg:composer/korzen/bot-protection@2.0.1
+- pkg:composer/korzen/bot-protection@2.1.0
+- pkg:composer/korzen/bot-protection@2.2.0
