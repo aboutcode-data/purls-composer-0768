@@ -65,3 +65,4 @@
 - pkg:composer/kitware/cdash@v5.5.0
 - pkg:composer/kitware/cdash@v5.5.1
 - pkg:composer/kitware/cdash@v5.5.2
+- pkg:composer/kitware/cdash@v5.6.0
