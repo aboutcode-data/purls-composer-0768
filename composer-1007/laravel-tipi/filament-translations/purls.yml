@@ -7,3 +7,4 @@
 - pkg:composer/laravel-tipi/filament-translations@v0.1.15
 - pkg:composer/laravel-tipi/filament-translations@v0.1.16
 - pkg:composer/laravel-tipi/filament-translations@v0.2.0
+- pkg:composer/laravel-tipi/filament-translations@v0.2.1
