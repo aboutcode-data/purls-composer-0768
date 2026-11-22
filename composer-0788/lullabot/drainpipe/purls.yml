@@ -72,3 +72,5 @@
 - pkg:composer/lullabot/drainpipe@v6.1.2
 - pkg:composer/lullabot/drainpipe@v6.2.0
 - pkg:composer/lullabot/drainpipe@v6.2.1
+- pkg:composer/lullabot/drainpipe@v6.3.0
+- pkg:composer/lullabot/drainpipe@v6.3.1
