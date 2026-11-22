@@ -19,3 +19,5 @@
 - pkg:composer/macc/common-bundle@v1.4.6
 - pkg:composer/macc/common-bundle@v1.5.0
 - pkg:composer/macc/common-bundle@v1.5.1
+- pkg:composer/macc/common-bundle@v1.5.2
+- pkg:composer/macc/common-bundle@v1.5.2beta1
