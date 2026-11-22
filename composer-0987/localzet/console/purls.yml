@@ -15,3 +15,7 @@
 - pkg:composer/localzet/console@v2.0.0
 - pkg:composer/localzet/console@v2.0.1
 - pkg:composer/localzet/console@v2.1.0
+- pkg:composer/localzet/console@v2.2.0
+- pkg:composer/localzet/console@v2.2.1
+- pkg:composer/localzet/console@v2.2.2
+- pkg:composer/localzet/console@v2.3.0
