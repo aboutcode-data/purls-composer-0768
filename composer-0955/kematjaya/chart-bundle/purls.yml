@@ -32,3 +32,4 @@
 - pkg:composer/kematjaya/chart-bundle@6.5
 - pkg:composer/kematjaya/chart-bundle@7.0
 - pkg:composer/kematjaya/chart-bundle@7.0-BETA
+- pkg:composer/kematjaya/chart-bundle@7.4
