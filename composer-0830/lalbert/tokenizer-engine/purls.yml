@@ -1,1 +1,6 @@
 - pkg:composer/lalbert/tokenizer-engine@0.0.1
+- pkg:composer/lalbert/tokenizer-engine@1.0.0
+- pkg:composer/lalbert/tokenizer-engine@1.1.0
+- pkg:composer/lalbert/tokenizer-engine@1.2.0
+- pkg:composer/lalbert/tokenizer-engine@1.2.1
+- pkg:composer/lalbert/tokenizer-engine@1.3.0
