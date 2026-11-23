@@ -9,3 +9,7 @@
 - pkg:composer/nordwerk/contao-theme-base@v0.5.7
 - pkg:composer/nordwerk/contao-theme-base@v0.6.0
 - pkg:composer/nordwerk/contao-theme-base@v0.6.1
+- pkg:composer/nordwerk/contao-theme-base@v0.6.2
+- pkg:composer/nordwerk/contao-theme-base@v0.6.3
+- pkg:composer/nordwerk/contao-theme-base@v0.7.0
+- pkg:composer/nordwerk/contao-theme-base@v0.7.1
