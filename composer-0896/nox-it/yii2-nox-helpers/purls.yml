@@ -16,3 +16,5 @@
 - pkg:composer/nox-it/yii2-nox-helpers@1.1.7
 - pkg:composer/nox-it/yii2-nox-helpers@1.1.8
 - pkg:composer/nox-it/yii2-nox-helpers@2.0.0
+- pkg:composer/nox-it/yii2-nox-helpers@4.0.0
+- pkg:composer/nox-it/yii2-nox-helpers@5.0.0

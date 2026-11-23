@@ -11,3 +11,5 @@
 - pkg:composer/nox-it/yii2-nox-mvc@1.1.0
 - pkg:composer/nox-it/yii2-nox-mvc@2.0.0
 - pkg:composer/nox-it/yii2-nox-mvc@2.0.1
+- pkg:composer/nox-it/yii2-nox-mvc@4.0.0
+- pkg:composer/nox-it/yii2-nox-mvc@5.0.0

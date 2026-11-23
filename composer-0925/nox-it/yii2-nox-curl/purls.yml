@@ -6,3 +6,5 @@
 - pkg:composer/nox-it/yii2-nox-curl@1.0.5
 - pkg:composer/nox-it/yii2-nox-curl@1.0.6
 - pkg:composer/nox-it/yii2-nox-curl@2.0.0
+- pkg:composer/nox-it/yii2-nox-curl@4.0.0
+- pkg:composer/nox-it/yii2-nox-curl@5.0.0

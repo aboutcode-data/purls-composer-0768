@@ -1,1 +1,2 @@
-- pkg:composer/nox-it/wp-nox-activerecord@1.0.0
+- pkg:composer/nox-it/wp-nox-activerecord@2.0.1
+- pkg:composer/nox-it/wp-nox-activerecord@5.0.0
