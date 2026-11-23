@@ -18,3 +18,6 @@
 - pkg:composer/okapi/aop@1.2.7
 - pkg:composer/okapi/aop@1.2.8
 - pkg:composer/okapi/aop@1.2.9
+- pkg:composer/okapi/aop@2.0.0
+- pkg:composer/okapi/aop@2.1.0
+- pkg:composer/okapi/aop@2.1.1
