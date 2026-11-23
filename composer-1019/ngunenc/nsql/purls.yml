@@ -60,4 +60,12 @@
 - pkg:composer/ngunenc/nsql@2.2.3
 - pkg:composer/ngunenc/nsql@2.3.0
 - pkg:composer/ngunenc/nsql@2.4.0
+- pkg:composer/ngunenc/nsql@2.4.1
+- pkg:composer/ngunenc/nsql@2.5.0
+- pkg:composer/ngunenc/nsql@2.5.1
+- pkg:composer/ngunenc/nsql@2.5.2
+- pkg:composer/ngunenc/nsql@2.5.3
+- pkg:composer/ngunenc/nsql@2.6.0
+- pkg:composer/ngunenc/nsql@2.7.0
 - pkg:composer/ngunenc/nsql@v1.1
+- pkg:composer/ngunenc/nsql@v2.8.0
