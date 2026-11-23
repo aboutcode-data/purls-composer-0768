@@ -41,6 +41,9 @@
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.1.202603061400
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.1.202607021300
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.1.202611061431
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.1.202611101507
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.1.202611101508
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.1.202611201212
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.100920211846
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.1047.202202071100
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.1047202201181650
@@ -248,8 +251,17 @@
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5035.202609250022
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5035.202610062312
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5043.202609251620
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5080.202611161310
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5121.202611031450
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5148.202611200039
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5157.202610111230
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.5158.20261106
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5158.202611101537
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5158.202611200042
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5227.202611161500
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5227.202611161510
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5227.202611161520
+- pkg:composer/openeuropa/oe_bootstrap_theme@0.5227.202611181600
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.71.0
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.750.202111261805
 - pkg:composer/openeuropa/oe_bootstrap_theme@0.779.202202020929
@@ -317,6 +329,7 @@
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.4.0
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.4.1
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.40.0
+- pkg:composer/openeuropa/oe_bootstrap_theme@1.41.0
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.5.0
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.5.1
 - pkg:composer/openeuropa/oe_bootstrap_theme@1.6.0
