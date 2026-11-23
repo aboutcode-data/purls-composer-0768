@@ -52,6 +52,11 @@
 - pkg:composer/nowo-tech/performance-bundle@v3.15.1
 - pkg:composer/nowo-tech/performance-bundle@v3.15.2
 - pkg:composer/nowo-tech/performance-bundle@v3.15.3
+- pkg:composer/nowo-tech/performance-bundle@v3.16.0
+- pkg:composer/nowo-tech/performance-bundle@v3.16.1
+- pkg:composer/nowo-tech/performance-bundle@v3.17.0
+- pkg:composer/nowo-tech/performance-bundle@v3.18.0
+- pkg:composer/nowo-tech/performance-bundle@v3.19.0
 - pkg:composer/nowo-tech/performance-bundle@v3.2.0
 - pkg:composer/nowo-tech/performance-bundle@v3.2.1
 - pkg:composer/nowo-tech/performance-bundle@v3.2.2
