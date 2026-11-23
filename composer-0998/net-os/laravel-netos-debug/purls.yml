@@ -7,3 +7,4 @@
 - pkg:composer/net-os/laravel-netos-debug@v0.2.4
 - pkg:composer/net-os/laravel-netos-debug@v0.2.5
 - pkg:composer/net-os/laravel-netos-debug@v0.2.6
+- pkg:composer/net-os/laravel-netos-debug@v0.3.0
