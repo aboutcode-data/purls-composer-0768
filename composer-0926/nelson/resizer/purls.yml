@@ -32,6 +32,9 @@
 - pkg:composer/nelson/resizer@8.2.0
 - pkg:composer/nelson/resizer@8.3.0
 - pkg:composer/nelson/resizer@8.3.1
+- pkg:composer/nelson/resizer@8.4.0
+- pkg:composer/nelson/resizer@9.0.0
+- pkg:composer/nelson/resizer@9.1.0
 - pkg:composer/nelson/resizer@v1.0
 - pkg:composer/nelson/resizer@v1.1
 - pkg:composer/nelson/resizer@v1.2
