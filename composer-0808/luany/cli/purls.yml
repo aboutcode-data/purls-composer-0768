@@ -19,6 +19,7 @@
 - pkg:composer/luany/cli@v1.10.1
 - pkg:composer/luany/cli@v1.11.0
 - pkg:composer/luany/cli@v1.12.0
+- pkg:composer/luany/cli@v1.13.0
 - pkg:composer/luany/cli@v1.2.0
 - pkg:composer/luany/cli@v1.2.1
 - pkg:composer/luany/cli@v1.3.0
