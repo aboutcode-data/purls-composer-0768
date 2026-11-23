@@ -1,2 +1,3 @@
 - pkg:composer/open-feature/go-feature-flag-provider@1.0.0
 - pkg:composer/open-feature/go-feature-flag-provider@1.1.1
+- pkg:composer/open-feature/go-feature-flag-provider@1.2.0
