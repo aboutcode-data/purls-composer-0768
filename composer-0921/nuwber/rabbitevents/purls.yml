@@ -11,6 +11,9 @@
 - pkg:composer/nuwber/rabbitevents@v1.2
 - pkg:composer/nuwber/rabbitevents@v1.3
 - pkg:composer/nuwber/rabbitevents@v1.4
+- pkg:composer/nuwber/rabbitevents@v10.0.0
+- pkg:composer/nuwber/rabbitevents@v10.0.1
+- pkg:composer/nuwber/rabbitevents@v10.1.0
 - pkg:composer/nuwber/rabbitevents@v2.0
 - pkg:composer/nuwber/rabbitevents@v3.0
 - pkg:composer/nuwber/rabbitevents@v3.0-beta1
@@ -76,3 +79,4 @@
 - pkg:composer/nuwber/rabbitevents@v9.1.1
 - pkg:composer/nuwber/rabbitevents@v9.1.2
 - pkg:composer/nuwber/rabbitevents@v9.1.3
+- pkg:composer/nuwber/rabbitevents@v9.1.4
