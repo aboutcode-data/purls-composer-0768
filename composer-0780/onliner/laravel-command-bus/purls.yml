@@ -16,3 +16,4 @@
 - pkg:composer/onliner/laravel-command-bus@v1.1.6
 - pkg:composer/onliner/laravel-command-bus@v1.1.7
 - pkg:composer/onliner/laravel-command-bus@v1.1.8
+- pkg:composer/onliner/laravel-command-bus@v1.1.9
