@@ -22,3 +22,8 @@
 - pkg:composer/npabisz/laravel-metrics@v1.3.2
 - pkg:composer/npabisz/laravel-metrics@v1.3.3
 - pkg:composer/npabisz/laravel-metrics@v1.3.4
+- pkg:composer/npabisz/laravel-metrics@v1.4.0
+- pkg:composer/npabisz/laravel-metrics@v2.0.1
+- pkg:composer/npabisz/laravel-metrics@v2.1.0
+- pkg:composer/npabisz/laravel-metrics@v2.1.1
+- pkg:composer/npabisz/laravel-metrics@v2.1.2
