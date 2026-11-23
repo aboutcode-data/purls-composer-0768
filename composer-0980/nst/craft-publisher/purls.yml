@@ -10,3 +10,4 @@
 - pkg:composer/nst/craft-publisher@5.2.0
 - pkg:composer/nst/craft-publisher@6.0.0
 - pkg:composer/nst/craft-publisher@6.1.0
+- pkg:composer/nst/craft-publisher@6.1.1
