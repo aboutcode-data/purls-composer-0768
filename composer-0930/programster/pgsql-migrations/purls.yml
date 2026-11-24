@@ -5,3 +5,4 @@
 - pkg:composer/programster/pgsql-migrations@0.3.2
 - pkg:composer/programster/pgsql-migrations@1.0.0
 - pkg:composer/programster/pgsql-migrations@1.1.0
+- pkg:composer/programster/pgsql-migrations@1.2.0

@@ -6,3 +6,7 @@
 - pkg:composer/programster/nftables@0.2.2
 - pkg:composer/programster/nftables@0.3.0
 - pkg:composer/programster/nftables@0.4.0
+- pkg:composer/programster/nftables@0.5.0
+- pkg:composer/programster/nftables@1.0.0-alpha1
+- pkg:composer/programster/nftables@1.0.0-alpha2
+- pkg:composer/programster/nftables@1.0.0-alpha3
