@@ -13,6 +13,16 @@
 - pkg:composer/ptadmin/core@v0.0.9
 - pkg:composer/ptadmin/core@v0.1.0
 - pkg:composer/ptadmin/core@v0.1.1
+- pkg:composer/ptadmin/core@v0.10.0
+- pkg:composer/ptadmin/core@v0.11.0
+- pkg:composer/ptadmin/core@v0.12.0
+- pkg:composer/ptadmin/core@v0.12.1
+- pkg:composer/ptadmin/core@v0.12.2
+- pkg:composer/ptadmin/core@v0.12.3
+- pkg:composer/ptadmin/core@v0.12.4
+- pkg:composer/ptadmin/core@v0.12.5
+- pkg:composer/ptadmin/core@v0.13.0
+- pkg:composer/ptadmin/core@v0.13.1
 - pkg:composer/ptadmin/core@v0.2.0
 - pkg:composer/ptadmin/core@v0.2.1
 - pkg:composer/ptadmin/core@v0.2.2
@@ -28,3 +38,7 @@
 - pkg:composer/ptadmin/core@v0.6.0
 - pkg:composer/ptadmin/core@v0.6.1
 - pkg:composer/ptadmin/core@v0.7.0
+- pkg:composer/ptadmin/core@v0.8.0
+- pkg:composer/ptadmin/core@v0.8.1
+- pkg:composer/ptadmin/core@v0.8.2
+- pkg:composer/ptadmin/core@v0.9.0
