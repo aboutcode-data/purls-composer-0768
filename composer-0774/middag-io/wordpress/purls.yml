@@ -16,6 +16,13 @@
 - pkg:composer/middag-io/wordpress@v1.15.0
 - pkg:composer/middag-io/wordpress@v1.15.1
 - pkg:composer/middag-io/wordpress@v1.16.0
+- pkg:composer/middag-io/wordpress@v1.16.1
+- pkg:composer/middag-io/wordpress@v1.16.2
+- pkg:composer/middag-io/wordpress@v1.17.0
+- pkg:composer/middag-io/wordpress@v1.17.1
+- pkg:composer/middag-io/wordpress@v1.18.0
+- pkg:composer/middag-io/wordpress@v1.18.1
+- pkg:composer/middag-io/wordpress@v1.18.2
 - pkg:composer/middag-io/wordpress@v1.2.0
 - pkg:composer/middag-io/wordpress@v1.3.0
 - pkg:composer/middag-io/wordpress@v1.4.0
