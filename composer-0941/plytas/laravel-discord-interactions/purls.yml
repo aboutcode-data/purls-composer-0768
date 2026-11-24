@@ -2,6 +2,7 @@
 - pkg:composer/plytas/laravel-discord-interactions@0.10
 - pkg:composer/plytas/laravel-discord-interactions@0.11.0
 - pkg:composer/plytas/laravel-discord-interactions@0.12.0
+- pkg:composer/plytas/laravel-discord-interactions@0.12.1
 - pkg:composer/plytas/laravel-discord-interactions@0.2.0
 - pkg:composer/plytas/laravel-discord-interactions@0.3.0
 - pkg:composer/plytas/laravel-discord-interactions@0.4.0
@@ -11,3 +12,4 @@
 - pkg:composer/plytas/laravel-discord-interactions@0.7
 - pkg:composer/plytas/laravel-discord-interactions@0.8
 - pkg:composer/plytas/laravel-discord-interactions@0.9
+- pkg:composer/plytas/laravel-discord-interactions@1.0.0
