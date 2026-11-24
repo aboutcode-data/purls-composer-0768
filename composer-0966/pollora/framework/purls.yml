@@ -51,3 +51,5 @@
 - pkg:composer/pollora/framework@v13.43.0
 - pkg:composer/pollora/framework@v13.43.1
 - pkg:composer/pollora/framework@v13.43.2
+- pkg:composer/pollora/framework@v13.43.3
+- pkg:composer/pollora/framework@v13.43.4
