@@ -23,3 +23,5 @@
 - pkg:composer/rasuvaeff/yii3-mcp@v4.0.1
 - pkg:composer/rasuvaeff/yii3-mcp@v4.1.0
 - pkg:composer/rasuvaeff/yii3-mcp@v4.1.1
+- pkg:composer/rasuvaeff/yii3-mcp@v5.0.0
+- pkg:composer/rasuvaeff/yii3-mcp@v5.0.1
