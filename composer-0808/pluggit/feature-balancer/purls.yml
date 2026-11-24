@@ -6,3 +6,4 @@
 - pkg:composer/pluggit/feature-balancer@2.0.0
 - pkg:composer/pluggit/feature-balancer@3.0.0
 - pkg:composer/pluggit/feature-balancer@4.0.0
+- pkg:composer/pluggit/feature-balancer@5.0.0
