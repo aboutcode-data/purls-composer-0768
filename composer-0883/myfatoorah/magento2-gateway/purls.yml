@@ -1,6 +1,7 @@
 - pkg:composer/myfatoorah/magento2-gateway@2.0.0
 - pkg:composer/myfatoorah/magento2-gateway@2.1.0
 - pkg:composer/myfatoorah/magento2-gateway@2.1.1
+- pkg:composer/myfatoorah/magento2-gateway@2.2.10
 - pkg:composer/myfatoorah/magento2-gateway@2.2.4
 - pkg:composer/myfatoorah/magento2-gateway@2.2.5
 - pkg:composer/myfatoorah/magento2-gateway@2.2.6
