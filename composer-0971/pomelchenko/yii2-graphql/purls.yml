@@ -12,3 +12,6 @@
 - pkg:composer/pomelchenko/yii2-graphql@0.17.4
 - pkg:composer/pomelchenko/yii2-graphql@0.17.5
 - pkg:composer/pomelchenko/yii2-graphql@0.18.1
+- pkg:composer/pomelchenko/yii2-graphql@14.11.0
+- pkg:composer/pomelchenko/yii2-graphql@14.11.1
+- pkg:composer/pomelchenko/yii2-graphql@14.11.2
