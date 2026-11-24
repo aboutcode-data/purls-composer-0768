@@ -29,3 +29,5 @@
 - pkg:composer/notakey/simplesamlphp-module-notakey@2.7
 - pkg:composer/notakey/simplesamlphp-module-notakey@2.8
 - pkg:composer/notakey/simplesamlphp-module-notakey@2.9
+- pkg:composer/notakey/simplesamlphp-module-notakey@3.0.0
+- pkg:composer/notakey/simplesamlphp-module-notakey@3.0.1
