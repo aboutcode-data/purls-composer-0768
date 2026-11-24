@@ -204,3 +204,5 @@
 - pkg:composer/nutgram/nutgram@4.8.0
 - pkg:composer/nutgram/nutgram@4.9.0
 - pkg:composer/nutgram/nutgram@4.9.1
+- pkg:composer/nutgram/nutgram@5.0.0-RC1
+- pkg:composer/nutgram/nutgram@5.0.0-RC2
