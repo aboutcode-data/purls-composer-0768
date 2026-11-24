@@ -1,1 +1,3 @@
 - pkg:composer/particle-academy/microsoft-outlook-php@v0.1.0
+- pkg:composer/particle-academy/microsoft-outlook-php@v0.2.0
+- pkg:composer/particle-academy/microsoft-outlook-php@v0.2.1
