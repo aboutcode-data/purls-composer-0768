@@ -51,5 +51,6 @@
 - pkg:composer/plain/kirby-form-block-suite@6.0.0
 - pkg:composer/plain/kirby-form-block-suite@6.0.1
 - pkg:composer/plain/kirby-form-block-suite@6.0.2
+- pkg:composer/plain/kirby-form-block-suite@7.0.0-beta.1
 - pkg:composer/plain/kirby-form-block-suite@v3.1-Beta
 - pkg:composer/plain/kirby-form-block-suite@v3.2-BETA
