@@ -104,6 +104,11 @@
 - pkg:composer/ouitoulia/prosis@2.0.2
 - pkg:composer/ouitoulia/prosis@2.0.3
 - pkg:composer/ouitoulia/prosis@2.1.0
+- pkg:composer/ouitoulia/prosis@2.10.0
+- pkg:composer/ouitoulia/prosis@2.10.1
+- pkg:composer/ouitoulia/prosis@2.10.2
+- pkg:composer/ouitoulia/prosis@2.10.3
+- pkg:composer/ouitoulia/prosis@2.10.4
 - pkg:composer/ouitoulia/prosis@2.2.0
 - pkg:composer/ouitoulia/prosis@2.3.0
 - pkg:composer/ouitoulia/prosis@2.4.0
