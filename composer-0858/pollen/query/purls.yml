@@ -5,3 +5,5 @@
 - pkg:composer/pollen/query@2.0.0
 - pkg:composer/pollen/query@3.0.0
 - pkg:composer/pollen/query@3.0.1
+- pkg:composer/pollen/query@3.1.0
+- pkg:composer/pollen/query@3.1.1
