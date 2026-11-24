@@ -1,7 +1,9 @@
 - pkg:composer/php-gtk4/php-gtk4@v0.1.1
 - pkg:composer/php-gtk4/php-gtk4@v0.3.0
 - pkg:composer/php-gtk4/php-gtk4@v0.4.0
-- pkg:composer/php-gtk4/php-gtk4@v0.4.0-rc.10
 - pkg:composer/php-gtk4/php-gtk4@v0.4.0-rc.11
 - pkg:composer/php-gtk4/php-gtk4@v0.4.0-rc.12
 - pkg:composer/php-gtk4/php-gtk4@v0.4.0-rc.15
+- pkg:composer/php-gtk4/php-gtk4@v0.5.0
+- pkg:composer/php-gtk4/php-gtk4@v0.5.0-rc.21
+- pkg:composer/php-gtk4/php-gtk4@v0.5.0-rc.22
