@@ -43,6 +43,7 @@
 - pkg:composer/nevela/laravel@v0.34.1
 - pkg:composer/nevela/laravel@v0.35.0
 - pkg:composer/nevela/laravel@v0.36.0
+- pkg:composer/nevela/laravel@v0.37.0
 - pkg:composer/nevela/laravel@v0.4.0
 - pkg:composer/nevela/laravel@v0.4.1
 - pkg:composer/nevela/laravel@v0.4.2
