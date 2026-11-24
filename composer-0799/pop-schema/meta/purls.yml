@@ -141,6 +141,7 @@
 - pkg:composer/pop-schema/meta@20.0.0
 - pkg:composer/pop-schema/meta@20.0.1
 - pkg:composer/pop-schema/meta@20.0.2
+- pkg:composer/pop-schema/meta@21.0.0
 - pkg:composer/pop-schema/meta@3.0.0
 - pkg:composer/pop-schema/meta@4.0.0
 - pkg:composer/pop-schema/meta@4.0.1
