@@ -126,6 +126,7 @@
 - pkg:composer/pop-wp-schema/taxonomymeta@20.0.0
 - pkg:composer/pop-wp-schema/taxonomymeta@20.0.1
 - pkg:composer/pop-wp-schema/taxonomymeta@20.0.2
+- pkg:composer/pop-wp-schema/taxonomymeta@21.0.0
 - pkg:composer/pop-wp-schema/taxonomymeta@3.0.0
 - pkg:composer/pop-wp-schema/taxonomymeta@4.0.0
 - pkg:composer/pop-wp-schema/taxonomymeta@4.0.1

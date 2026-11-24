@@ -132,6 +132,7 @@
 - pkg:composer/pop-wp-schema/posts@20.0.0
 - pkg:composer/pop-wp-schema/posts@20.0.1
 - pkg:composer/pop-wp-schema/posts@20.0.2
+- pkg:composer/pop-wp-schema/posts@21.0.0
 - pkg:composer/pop-wp-schema/posts@3.0.0
 - pkg:composer/pop-wp-schema/posts@4.0.0
 - pkg:composer/pop-wp-schema/posts@4.0.1

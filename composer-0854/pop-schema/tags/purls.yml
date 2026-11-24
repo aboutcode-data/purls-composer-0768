@@ -141,6 +141,7 @@
 - pkg:composer/pop-schema/tags@20.0.0
 - pkg:composer/pop-schema/tags@20.0.1
 - pkg:composer/pop-schema/tags@20.0.2
+- pkg:composer/pop-schema/tags@21.0.0
 - pkg:composer/pop-schema/tags@3.0.0
 - pkg:composer/pop-schema/tags@4.0.0
 - pkg:composer/pop-schema/tags@4.0.1
