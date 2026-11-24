@@ -80,3 +80,4 @@
 - pkg:composer/railhook/php@3.6.0
 - pkg:composer/railhook/php@3.6.1
 - pkg:composer/railhook/php@3.7.0
+- pkg:composer/railhook/php@3.7.1
