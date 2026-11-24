@@ -60,3 +60,6 @@
 - pkg:composer/pepperfm/api-responder-for-laravel@3.0.0
 - pkg:composer/pepperfm/api-responder-for-laravel@3.0.1
 - pkg:composer/pepperfm/api-responder-for-laravel@3.0.2
+- pkg:composer/pepperfm/api-responder-for-laravel@4.0.0
+- pkg:composer/pepperfm/api-responder-for-laravel@4.0.1
+- pkg:composer/pepperfm/api-responder-for-laravel@4.1.0
