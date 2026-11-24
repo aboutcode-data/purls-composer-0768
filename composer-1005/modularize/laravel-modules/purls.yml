@@ -1,5 +1,6 @@
 - pkg:composer/modularize/laravel-modules@1.3.0
 - pkg:composer/modularize/laravel-modules@1.4.0
+- pkg:composer/modularize/laravel-modules@1.5.0
 - pkg:composer/modularize/laravel-modules@v1.0.0
 - pkg:composer/modularize/laravel-modules@v1.1.0
 - pkg:composer/modularize/laravel-modules@v1.2.0
