@@ -10,6 +10,9 @@
 - pkg:composer/mertaydin/laravel-backup-manager@v0.7.0
 - pkg:composer/mertaydin/laravel-backup-manager@v0.8.0
 - pkg:composer/mertaydin/laravel-backup-manager@v0.8.1
+- pkg:composer/mertaydin/laravel-backup-manager@v0.8.10
+- pkg:composer/mertaydin/laravel-backup-manager@v0.8.11
+- pkg:composer/mertaydin/laravel-backup-manager@v0.8.12
 - pkg:composer/mertaydin/laravel-backup-manager@v0.8.2
 - pkg:composer/mertaydin/laravel-backup-manager@v0.8.3
 - pkg:composer/mertaydin/laravel-backup-manager@v0.8.4
