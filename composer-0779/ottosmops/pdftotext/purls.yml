@@ -1,4 +1,6 @@
 - pkg:composer/ottosmops/pdftotext@2.0.1
+- pkg:composer/ottosmops/pdftotext@2.1.0
+- pkg:composer/ottosmops/pdftotext@2.2.0
 - pkg:composer/ottosmops/pdftotext@v1.0.0
 - pkg:composer/ottosmops/pdftotext@v1.0.1
 - pkg:composer/ottosmops/pdftotext@v1.0.2
