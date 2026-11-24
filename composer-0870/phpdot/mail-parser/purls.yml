@@ -1,2 +1,3 @@
 - pkg:composer/phpdot/mail-parser@v0.5.3
 - pkg:composer/phpdot/mail-parser@v0.6.0
+- pkg:composer/phpdot/mail-parser@v0.7.0
