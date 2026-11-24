@@ -132,6 +132,7 @@
 - pkg:composer/pop-schema/custompost-categories-wp@2.6.1
 - pkg:composer/pop-schema/custompost-categories-wp@20.0.0
 - pkg:composer/pop-schema/custompost-categories-wp@20.0.1
+- pkg:composer/pop-schema/custompost-categories-wp@20.0.2
 - pkg:composer/pop-schema/custompost-categories-wp@3.0.0
 - pkg:composer/pop-schema/custompost-categories-wp@4.0.0
 - pkg:composer/pop-schema/custompost-categories-wp@4.0.1
