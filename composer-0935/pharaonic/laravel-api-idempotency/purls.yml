@@ -1,0 +1,8 @@
+- pkg:composer/pharaonic/laravel-api-idempotency@10.0.0
+- pkg:composer/pharaonic/laravel-api-idempotency@11.0.0
+- pkg:composer/pharaonic/laravel-api-idempotency@12.0.0
+- pkg:composer/pharaonic/laravel-api-idempotency@13.0.0
+- pkg:composer/pharaonic/laravel-api-idempotency@6.0.0
+- pkg:composer/pharaonic/laravel-api-idempotency@7.0.0
+- pkg:composer/pharaonic/laravel-api-idempotency@8.0.0
+- pkg:composer/pharaonic/laravel-api-idempotency@9.0.0

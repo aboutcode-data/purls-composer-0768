@@ -1,8 +1,16 @@
 - pkg:composer/pharaonic/laravel-notification-dependencies@10.0.0
+- pkg:composer/pharaonic/laravel-notification-dependencies@10.1.0
 - pkg:composer/pharaonic/laravel-notification-dependencies@11.0.0
+- pkg:composer/pharaonic/laravel-notification-dependencies@11.1.0
 - pkg:composer/pharaonic/laravel-notification-dependencies@12.0.0
+- pkg:composer/pharaonic/laravel-notification-dependencies@12.1.0
 - pkg:composer/pharaonic/laravel-notification-dependencies@13.0.0
+- pkg:composer/pharaonic/laravel-notification-dependencies@13.1.0
 - pkg:composer/pharaonic/laravel-notification-dependencies@6.0.0
+- pkg:composer/pharaonic/laravel-notification-dependencies@6.1.0
 - pkg:composer/pharaonic/laravel-notification-dependencies@7.0.0
+- pkg:composer/pharaonic/laravel-notification-dependencies@7.1.0
 - pkg:composer/pharaonic/laravel-notification-dependencies@8.0.0
+- pkg:composer/pharaonic/laravel-notification-dependencies@8.1.0
 - pkg:composer/pharaonic/laravel-notification-dependencies@9.0.0
+- pkg:composer/pharaonic/laravel-notification-dependencies@9.1.0
