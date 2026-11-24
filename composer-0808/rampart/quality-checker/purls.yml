@@ -17,3 +17,5 @@
 - pkg:composer/rampart/quality-checker@v1.5.8
 - pkg:composer/rampart/quality-checker@v1.5.9
 - pkg:composer/rampart/quality-checker@v1.6.0
+- pkg:composer/rampart/quality-checker@v1.6.1
+- pkg:composer/rampart/quality-checker@v1.7.0
