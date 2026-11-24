@@ -3,5 +3,8 @@
 - pkg:composer/papi-ai/azure-openai@v0.15.0
 - pkg:composer/papi-ai/azure-openai@v0.15.1
 - pkg:composer/papi-ai/azure-openai@v0.15.2
+- pkg:composer/papi-ai/azure-openai@v0.16.0
+- pkg:composer/papi-ai/azure-openai@v0.16.1
+- pkg:composer/papi-ai/azure-openai@v0.16.2
 - pkg:composer/papi-ai/azure-openai@v0.9.0
 - pkg:composer/papi-ai/azure-openai@v0.9.1
