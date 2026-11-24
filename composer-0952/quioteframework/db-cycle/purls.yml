@@ -14,3 +14,4 @@
 - pkg:composer/quioteframework/db-cycle@v4.0.0-RC5
 - pkg:composer/quioteframework/db-cycle@v4.0.0-RC6
 - pkg:composer/quioteframework/db-cycle@v4.0.1
+- pkg:composer/quioteframework/db-cycle@v4.1.0-beta1
