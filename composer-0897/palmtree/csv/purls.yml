@@ -20,3 +20,5 @@
 - pkg:composer/palmtree/csv@v3.0.1
 - pkg:composer/palmtree/csv@v4.0.0
 - pkg:composer/palmtree/csv@v4.0.1
+- pkg:composer/palmtree/csv@v5.0.0
+- pkg:composer/palmtree/csv@v5.1.0
