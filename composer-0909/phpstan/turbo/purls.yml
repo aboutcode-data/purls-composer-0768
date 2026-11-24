@@ -16,3 +16,5 @@
 - pkg:composer/phpstan/turbo@2.3.3
 - pkg:composer/phpstan/turbo@2.3.4
 - pkg:composer/phpstan/turbo@2.3.5
+- pkg:composer/phpstan/turbo@2.3.6
+- pkg:composer/phpstan/turbo@2.3.7
