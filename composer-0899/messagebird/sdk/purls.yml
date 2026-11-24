@@ -35,6 +35,7 @@
 - pkg:composer/messagebird/sdk@v0.124.0
 - pkg:composer/messagebird/sdk@v0.124.1
 - pkg:composer/messagebird/sdk@v0.125.0
+- pkg:composer/messagebird/sdk@v0.126.0
 - pkg:composer/messagebird/sdk@v0.13.0
 - pkg:composer/messagebird/sdk@v0.14.0
 - pkg:composer/messagebird/sdk@v0.15.0
