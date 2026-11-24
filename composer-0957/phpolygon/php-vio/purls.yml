@@ -129,6 +129,14 @@
 - pkg:composer/phpolygon/php-vio@2.41.0
 - pkg:composer/phpolygon/php-vio@2.41.1
 - pkg:composer/phpolygon/php-vio@2.42.0
+- pkg:composer/phpolygon/php-vio@2.42.1
+- pkg:composer/phpolygon/php-vio@2.43.0
+- pkg:composer/phpolygon/php-vio@2.43.1
+- pkg:composer/phpolygon/php-vio@2.44.0
+- pkg:composer/phpolygon/php-vio@2.44.1
+- pkg:composer/phpolygon/php-vio@2.44.2
+- pkg:composer/phpolygon/php-vio@2.45.0
+- pkg:composer/phpolygon/php-vio@2.45.1
 - pkg:composer/phpolygon/php-vio@2.5.0
 - pkg:composer/phpolygon/php-vio@2.6.0
 - pkg:composer/phpolygon/php-vio@2.6.1
