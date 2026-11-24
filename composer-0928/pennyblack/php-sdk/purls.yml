@@ -7,3 +7,4 @@
 - pkg:composer/pennyblack/php-sdk@1.4.1
 - pkg:composer/pennyblack/php-sdk@1.4.2
 - pkg:composer/pennyblack/php-sdk@1.5.0
+- pkg:composer/pennyblack/php-sdk@1.5.1
