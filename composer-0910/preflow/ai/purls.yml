@@ -70,3 +70,5 @@
 - pkg:composer/preflow/ai@v0.86.0
 - pkg:composer/preflow/ai@v0.87.0
 - pkg:composer/preflow/ai@v0.88.0
+- pkg:composer/preflow/ai@v0.89.0
+- pkg:composer/preflow/ai@v0.90.0
