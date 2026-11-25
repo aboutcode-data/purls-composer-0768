@@ -69,6 +69,8 @@
 - pkg:composer/psalm/plugin-symfony@v5.12.2
 - pkg:composer/psalm/plugin-symfony@v5.13.0
 - pkg:composer/psalm/plugin-symfony@v5.14.0
+- pkg:composer/psalm/plugin-symfony@v5.15.0
+- pkg:composer/psalm/plugin-symfony@v5.15.1
 - pkg:composer/psalm/plugin-symfony@v5.2.0
 - pkg:composer/psalm/plugin-symfony@v5.2.1
 - pkg:composer/psalm/plugin-symfony@v5.2.2
