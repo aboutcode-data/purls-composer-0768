@@ -3,3 +3,4 @@
 - pkg:composer/php-baremetal/spec@v1.1.0
 - pkg:composer/php-baremetal/spec@v1.2.0
 - pkg:composer/php-baremetal/spec@v1.3.0
+- pkg:composer/php-baremetal/spec@v1.3.1
