@@ -10,3 +10,6 @@
 - pkg:composer/roots/post-content-to-markdown@v1.6.0
 - pkg:composer/roots/post-content-to-markdown@v1.7.0
 - pkg:composer/roots/post-content-to-markdown@v1.7.1
+- pkg:composer/roots/post-content-to-markdown@v1.7.2
+- pkg:composer/roots/post-content-to-markdown@v1.8.0
+- pkg:composer/roots/post-content-to-markdown@v1.8.1
