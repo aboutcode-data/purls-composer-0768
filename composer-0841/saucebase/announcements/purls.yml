@@ -27,3 +27,5 @@
 - pkg:composer/saucebase/announcements@v3.4.4
 - pkg:composer/saucebase/announcements@v3.4.5
 - pkg:composer/saucebase/announcements@v3.4.6
+- pkg:composer/saucebase/announcements@v3.4.7
+- pkg:composer/saucebase/announcements@v3.5.0
