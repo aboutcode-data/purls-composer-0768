@@ -1,3 +1,5 @@
 - pkg:composer/simpay/ecommerce@1.0.1
 - pkg:composer/simpay/ecommerce@1.0.2
 - pkg:composer/simpay/ecommerce@1.0.3
+- pkg:composer/simpay/ecommerce@1.1.0
+- pkg:composer/simpay/ecommerce@1.1.1
