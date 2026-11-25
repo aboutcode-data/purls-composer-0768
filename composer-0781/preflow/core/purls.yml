@@ -150,5 +150,7 @@
 - pkg:composer/preflow/core@v0.86.0
 - pkg:composer/preflow/core@v0.87.0
 - pkg:composer/preflow/core@v0.88.0
+- pkg:composer/preflow/core@v0.89.0
 - pkg:composer/preflow/core@v0.9.0
 - pkg:composer/preflow/core@v0.9.1
+- pkg:composer/preflow/core@v0.90.0

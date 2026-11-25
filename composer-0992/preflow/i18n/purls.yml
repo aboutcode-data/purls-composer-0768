@@ -150,5 +150,7 @@
 - pkg:composer/preflow/i18n@v0.86.0
 - pkg:composer/preflow/i18n@v0.87.0
 - pkg:composer/preflow/i18n@v0.88.0
+- pkg:composer/preflow/i18n@v0.89.0
 - pkg:composer/preflow/i18n@v0.9.0
 - pkg:composer/preflow/i18n@v0.9.1
+- pkg:composer/preflow/i18n@v0.90.0

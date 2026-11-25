@@ -149,5 +149,7 @@
 - pkg:composer/preflow/view@v0.86.0
 - pkg:composer/preflow/view@v0.87.0
 - pkg:composer/preflow/view@v0.88.0
+- pkg:composer/preflow/view@v0.89.0
 - pkg:composer/preflow/view@v0.9.0
 - pkg:composer/preflow/view@v0.9.1
+- pkg:composer/preflow/view@v0.90.0
