@@ -16,3 +16,5 @@
 - pkg:composer/revolt/event-loop@v1.0.7
 - pkg:composer/revolt/event-loop@v1.0.8
 - pkg:composer/revolt/event-loop@v1.0.9
+- pkg:composer/revolt/event-loop@v1.1.0
+- pkg:composer/revolt/event-loop@v1.1.0-RC1
