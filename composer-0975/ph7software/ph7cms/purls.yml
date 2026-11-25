@@ -134,3 +134,4 @@
 - pkg:composer/ph7software/ph7cms@v19.3.2
 - pkg:composer/ph7software/ph7cms@v19.3.3
 - pkg:composer/ph7software/ph7cms@v19.4.0
+- pkg:composer/ph7software/ph7cms@v20.0.0
