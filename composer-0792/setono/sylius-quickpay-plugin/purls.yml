@@ -18,3 +18,5 @@
 - pkg:composer/setono/sylius-quickpay-plugin@v1.5.0
 - pkg:composer/setono/sylius-quickpay-plugin@v2.0.0-alpha.1
 - pkg:composer/setono/sylius-quickpay-plugin@v2.0.0-alpha.2
+- pkg:composer/setono/sylius-quickpay-plugin@v2.0.0-beta.1
+- pkg:composer/setono/sylius-quickpay-plugin@v2.0.0-beta.2
