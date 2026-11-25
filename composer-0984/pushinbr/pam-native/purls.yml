@@ -197,6 +197,7 @@
 - pkg:composer/pushinbr/pam-native@v1.53.9
 - pkg:composer/pushinbr/pam-native@v1.54.0
 - pkg:composer/pushinbr/pam-native@v1.54.1
+- pkg:composer/pushinbr/pam-native@v1.54.10
 - pkg:composer/pushinbr/pam-native@v1.54.2
 - pkg:composer/pushinbr/pam-native@v1.54.3
 - pkg:composer/pushinbr/pam-native@v1.54.4
