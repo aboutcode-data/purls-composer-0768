@@ -57,3 +57,4 @@
 - pkg:composer/seatable/seatable-api-php@v6.2.12
 - pkg:composer/seatable/seatable-api-php@v6.2.12.1
 - pkg:composer/seatable/seatable-api-php@v7.0.13
+- pkg:composer/seatable/seatable-api-php@v7.0.15
