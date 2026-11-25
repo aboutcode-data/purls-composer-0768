@@ -83,3 +83,4 @@
 - pkg:composer/selveq/quote-graphql@3.0.6
 - pkg:composer/selveq/quote-graphql@3.1.0
 - pkg:composer/selveq/quote-graphql@4.0.0
+- pkg:composer/selveq/quote-graphql@4.0.1
