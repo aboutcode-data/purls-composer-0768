@@ -1,1 +1,3 @@
 - pkg:composer/ophelios/php-webauthn-passkey@1.0.0
+- pkg:composer/ophelios/php-webauthn-passkey@2.0.0
+- pkg:composer/ophelios/php-webauthn-passkey@3.0.0
