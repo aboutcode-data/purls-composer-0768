@@ -136,6 +136,8 @@
 - pkg:composer/sentry/sentry-laravel@4.29.0
 - pkg:composer/sentry/sentry-laravel@4.3.0
 - pkg:composer/sentry/sentry-laravel@4.3.1
+- pkg:composer/sentry/sentry-laravel@4.30.0
+- pkg:composer/sentry/sentry-laravel@4.31.0
 - pkg:composer/sentry/sentry-laravel@4.4.0
 - pkg:composer/sentry/sentry-laravel@4.4.1
 - pkg:composer/sentry/sentry-laravel@4.5.0
@@ -146,3 +148,4 @@
 - pkg:composer/sentry/sentry-laravel@4.7.1
 - pkg:composer/sentry/sentry-laravel@4.8.0
 - pkg:composer/sentry/sentry-laravel@4.9.0
+- pkg:composer/sentry/sentry-laravel@5.0.0-beta1
