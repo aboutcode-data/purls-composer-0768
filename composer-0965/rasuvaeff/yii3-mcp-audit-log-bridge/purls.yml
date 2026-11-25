@@ -7,3 +7,4 @@
 - pkg:composer/rasuvaeff/yii3-mcp-audit-log-bridge@v2.2.0
 - pkg:composer/rasuvaeff/yii3-mcp-audit-log-bridge@v2.3.0
 - pkg:composer/rasuvaeff/yii3-mcp-audit-log-bridge@v2.3.1
+- pkg:composer/rasuvaeff/yii3-mcp-audit-log-bridge@v3.0.0
