@@ -28,6 +28,7 @@
 - pkg:composer/pollora/harness@v0.1.33
 - pkg:composer/pollora/harness@v0.1.34
 - pkg:composer/pollora/harness@v0.1.35
+- pkg:composer/pollora/harness@v0.1.36
 - pkg:composer/pollora/harness@v0.1.4
 - pkg:composer/pollora/harness@v0.1.5
 - pkg:composer/pollora/harness@v0.1.6
