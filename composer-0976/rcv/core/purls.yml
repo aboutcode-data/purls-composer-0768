@@ -1,4 +1,5 @@
 - pkg:composer/rcv/core@1.0.0-alpha
+- pkg:composer/rcv/core@2.0.0
 - pkg:composer/rcv/core@v1.0.0
 - pkg:composer/rcv/core@v1.0.1
 - pkg:composer/rcv/core@v1.0.2
