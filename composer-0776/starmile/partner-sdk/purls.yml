@@ -25,3 +25,5 @@
 - pkg:composer/starmile/partner-sdk@v7.2.0
 - pkg:composer/starmile/partner-sdk@v7.3.0
 - pkg:composer/starmile/partner-sdk@v7.4.0
+- pkg:composer/starmile/partner-sdk@v7.5.0
+- pkg:composer/starmile/partner-sdk@v7.5.1
