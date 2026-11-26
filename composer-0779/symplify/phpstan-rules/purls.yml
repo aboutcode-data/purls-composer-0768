@@ -224,6 +224,7 @@
 - pkg:composer/symplify/phpstan-rules@14.19.1
 - pkg:composer/symplify/phpstan-rules@14.19.2
 - pkg:composer/symplify/phpstan-rules@14.19.3
+- pkg:composer/symplify/phpstan-rules@14.19.4
 - pkg:composer/symplify/phpstan-rules@14.2.0
 - pkg:composer/symplify/phpstan-rules@14.2.1
 - pkg:composer/symplify/phpstan-rules@14.2.2
