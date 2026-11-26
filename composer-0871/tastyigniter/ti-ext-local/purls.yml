@@ -39,3 +39,6 @@
 - pkg:composer/tastyigniter/ti-ext-local@v4.2.1
 - pkg:composer/tastyigniter/ti-ext-local@v4.3.0
 - pkg:composer/tastyigniter/ti-ext-local@v4.3.1
+- pkg:composer/tastyigniter/ti-ext-local@v4.3.2
+- pkg:composer/tastyigniter/ti-ext-local@v4.4.0
+- pkg:composer/tastyigniter/ti-ext-local@v4.4.1
