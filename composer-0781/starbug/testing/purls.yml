@@ -1,3 +1,4 @@
 - pkg:composer/starbug/testing@v1.0.0
 - pkg:composer/starbug/testing@v1.0.1
 - pkg:composer/starbug/testing@v1.1.0
+- pkg:composer/starbug/testing@v1.1.1
