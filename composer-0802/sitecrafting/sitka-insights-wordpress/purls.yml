@@ -33,6 +33,7 @@
 - pkg:composer/sitecrafting/sitka-insights-wordpress@v2.3.7
 - pkg:composer/sitecrafting/sitka-insights-wordpress@v2.3.8
 - pkg:composer/sitecrafting/sitka-insights-wordpress@v2.3.9
+- pkg:composer/sitecrafting/sitka-insights-wordpress@v2.4.0
 - pkg:composer/sitecrafting/sitka-insights-wordpress@v3.0.0
 - pkg:composer/sitecrafting/sitka-insights-wordpress@v3.0.1
 - pkg:composer/sitecrafting/sitka-insights-wordpress@v3.0.2
