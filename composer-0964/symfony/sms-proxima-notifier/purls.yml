@@ -1,1 +1,2 @@
 - pkg:composer/symfony/sms-proxima-notifier@v8.2.0-BETA1
+- pkg:composer/symfony/sms-proxima-notifier@v8.2.0-RC1
