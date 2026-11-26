@@ -81,6 +81,7 @@
 - pkg:composer/spipu/process-bundle@v4.3.1
 - pkg:composer/spipu/process-bundle@v4.3.2
 - pkg:composer/spipu/process-bundle@v4.3.3
+- pkg:composer/spipu/process-bundle@v4.3.4
 - pkg:composer/spipu/process-bundle@v5.0.0
 - pkg:composer/spipu/process-bundle@v5.0.1
 - pkg:composer/spipu/process-bundle@v5.0.2
@@ -97,3 +98,4 @@
 - pkg:composer/spipu/process-bundle@v5.1.4
 - pkg:composer/spipu/process-bundle@v5.2.0
 - pkg:composer/spipu/process-bundle@v5.2.1
+- pkg:composer/spipu/process-bundle@v5.2.2

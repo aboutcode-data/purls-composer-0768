@@ -6,6 +6,9 @@
 - pkg:composer/spiral/goridge@4.2.1
 - pkg:composer/spiral/goridge@4.2.2
 - pkg:composer/spiral/goridge@4.3.0
+- pkg:composer/spiral/goridge@4.4.0
+- pkg:composer/spiral/goridge@4.5.0
+- pkg:composer/spiral/goridge@4.6.0
 - pkg:composer/spiral/goridge@v1.0.0
 - pkg:composer/spiral/goridge@v1.0.1
 - pkg:composer/spiral/goridge@v1.0.2
