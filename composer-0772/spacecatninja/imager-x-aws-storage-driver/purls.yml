@@ -1,1 +1,3 @@
 - pkg:composer/spacecatninja/imager-x-aws-storage-driver@1.0.0
+- pkg:composer/spacecatninja/imager-x-aws-storage-driver@1.0.1
+- pkg:composer/spacecatninja/imager-x-aws-storage-driver@2.0.0-beta.1
