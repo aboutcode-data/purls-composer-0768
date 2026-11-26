@@ -18,3 +18,4 @@
 - pkg:composer/smartassert/health-check-bundle@8.0
 - pkg:composer/smartassert/health-check-bundle@8.1
 - pkg:composer/smartassert/health-check-bundle@8.2
+- pkg:composer/smartassert/health-check-bundle@9.0
