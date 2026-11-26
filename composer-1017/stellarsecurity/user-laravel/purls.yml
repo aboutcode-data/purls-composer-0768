@@ -4,6 +4,7 @@
 - pkg:composer/stellarsecurity/user-laravel@1.0.6
 - pkg:composer/stellarsecurity/user-laravel@1.0.7
 - pkg:composer/stellarsecurity/user-laravel@1.0.8
+- pkg:composer/stellarsecurity/user-laravel@1.0.9
 - pkg:composer/stellarsecurity/user-laravel@v1.0.0
 - pkg:composer/stellarsecurity/user-laravel@v1.0.1
 - pkg:composer/stellarsecurity/user-laravel@v1.0.2
