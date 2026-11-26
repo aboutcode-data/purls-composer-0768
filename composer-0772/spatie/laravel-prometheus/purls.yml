@@ -22,3 +22,4 @@
 - pkg:composer/spatie/laravel-prometheus@1.6.1
 - pkg:composer/spatie/laravel-prometheus@1.7.0
 - pkg:composer/spatie/laravel-prometheus@1.7.1
+- pkg:composer/spatie/laravel-prometheus@1.7.2
