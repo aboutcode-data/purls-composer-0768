@@ -25,6 +25,7 @@
 - pkg:composer/statikbe/laravel-filament-chained-translation-manager@v3.2.7
 - pkg:composer/statikbe/laravel-filament-chained-translation-manager@v3.2.8
 - pkg:composer/statikbe/laravel-filament-chained-translation-manager@v3.3.0
+- pkg:composer/statikbe/laravel-filament-chained-translation-manager@v3.4.1
 - pkg:composer/statikbe/laravel-filament-chained-translation-manager@v4.0.0
 - pkg:composer/statikbe/laravel-filament-chained-translation-manager@v4.1.0
 - pkg:composer/statikbe/laravel-filament-chained-translation-manager@v4.2.0
@@ -32,3 +33,7 @@
 - pkg:composer/statikbe/laravel-filament-chained-translation-manager@v4.2.2
 - pkg:composer/statikbe/laravel-filament-chained-translation-manager@v4.3.0
 - pkg:composer/statikbe/laravel-filament-chained-translation-manager@v4.3.1
+- pkg:composer/statikbe/laravel-filament-chained-translation-manager@v4.4.0
+- pkg:composer/statikbe/laravel-filament-chained-translation-manager@v4.5.0
+- pkg:composer/statikbe/laravel-filament-chained-translation-manager@v4.6.0
+- pkg:composer/statikbe/laravel-filament-chained-translation-manager@v4.6.1
