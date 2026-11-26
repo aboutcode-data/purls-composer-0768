@@ -222,6 +222,8 @@
 - pkg:composer/survos/jsonl-bundle@2.41.9
 - pkg:composer/survos/jsonl-bundle@2.43.20
 - pkg:composer/survos/jsonl-bundle@2.43.9
+- pkg:composer/survos/jsonl-bundle@2.45.66
+- pkg:composer/survos/jsonl-bundle@2.45.85
 - pkg:composer/survos/jsonl-bundle@2.5.0
 - pkg:composer/survos/jsonl-bundle@2.5.1
 - pkg:composer/survos/jsonl-bundle@2.5.2

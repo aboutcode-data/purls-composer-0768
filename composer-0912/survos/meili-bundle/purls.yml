@@ -315,6 +315,9 @@
 - pkg:composer/survos/meili-bundle@2.43.14
 - pkg:composer/survos/meili-bundle@2.43.21
 - pkg:composer/survos/meili-bundle@2.44.0
+- pkg:composer/survos/meili-bundle@2.45.47
+- pkg:composer/survos/meili-bundle@2.45.49
+- pkg:composer/survos/meili-bundle@2.45.91
 - pkg:composer/survos/meili-bundle@2.5.0
 - pkg:composer/survos/meili-bundle@2.5.1
 - pkg:composer/survos/meili-bundle@2.5.2

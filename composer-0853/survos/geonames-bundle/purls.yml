@@ -64,6 +64,10 @@
 - pkg:composer/survos/geonames-bundle@2.4.3
 - pkg:composer/survos/geonames-bundle@2.4.4
 - pkg:composer/survos/geonames-bundle@2.41.9
+- pkg:composer/survos/geonames-bundle@2.45.73
+- pkg:composer/survos/geonames-bundle@2.45.74
+- pkg:composer/survos/geonames-bundle@2.45.76
+- pkg:composer/survos/geonames-bundle@2.45.80
 - pkg:composer/survos/geonames-bundle@2.5.0
 - pkg:composer/survos/geonames-bundle@2.5.1
 - pkg:composer/survos/geonames-bundle@2.5.2
