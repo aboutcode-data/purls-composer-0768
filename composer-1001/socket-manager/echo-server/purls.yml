@@ -11,3 +11,4 @@
 - pkg:composer/socket-manager/echo-server@v1.4.4
 - pkg:composer/socket-manager/echo-server@v1.4.5
 - pkg:composer/socket-manager/echo-server@v1.4.6
+- pkg:composer/socket-manager/echo-server@v1.4.7
