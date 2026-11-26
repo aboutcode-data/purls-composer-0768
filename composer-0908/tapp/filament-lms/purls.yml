@@ -73,3 +73,7 @@
 - pkg:composer/tapp/filament-lms@v5.2.8
 - pkg:composer/tapp/filament-lms@v5.2.9
 - pkg:composer/tapp/filament-lms@v5.3.0
+- pkg:composer/tapp/filament-lms@v5.3.1
+- pkg:composer/tapp/filament-lms@v5.3.2
+- pkg:composer/tapp/filament-lms@v5.3.3
+- pkg:composer/tapp/filament-lms@v6.0.0
