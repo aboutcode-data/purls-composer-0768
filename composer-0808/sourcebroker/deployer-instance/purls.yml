@@ -15,3 +15,5 @@
 - pkg:composer/sourcebroker/deployer-instance@5.0.0
 - pkg:composer/sourcebroker/deployer-instance@6.0.0
 - pkg:composer/sourcebroker/deployer-instance@7.0.0
+- pkg:composer/sourcebroker/deployer-instance@7.1.0
+- pkg:composer/sourcebroker/deployer-instance@7.1.1

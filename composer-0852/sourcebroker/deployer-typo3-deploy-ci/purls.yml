@@ -17,3 +17,4 @@
 - pkg:composer/sourcebroker/deployer-typo3-deploy-ci@1.0.1
 - pkg:composer/sourcebroker/deployer-typo3-deploy-ci@1.0.2
 - pkg:composer/sourcebroker/deployer-typo3-deploy-ci@2.0.0
+- pkg:composer/sourcebroker/deployer-typo3-deploy-ci@2.1.0
