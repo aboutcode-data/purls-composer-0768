@@ -1,5 +1,6 @@
 - pkg:composer/sat-suite/certificates@1.0.0
 - pkg:composer/sat-suite/certificates@1.0.1
+- pkg:composer/sat-suite/certificates@1.0.2
 - pkg:composer/sat-suite/certificates@v0.1
 - pkg:composer/sat-suite/certificates@v0.2
 - pkg:composer/sat-suite/certificates@v0.2.1
