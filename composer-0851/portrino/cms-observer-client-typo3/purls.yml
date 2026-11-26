@@ -1,3 +1,4 @@
 - pkg:composer/portrino/cms-observer-client-typo3@1.0.0
 - pkg:composer/portrino/cms-observer-client-typo3@1.1.0
 - pkg:composer/portrino/cms-observer-client-typo3@2.0.0
+- pkg:composer/portrino/cms-observer-client-typo3@2.0.1
