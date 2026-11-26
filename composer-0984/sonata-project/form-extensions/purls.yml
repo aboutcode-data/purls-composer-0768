@@ -52,3 +52,4 @@
 - pkg:composer/sonata-project/form-extensions@2.6.0
 - pkg:composer/sonata-project/form-extensions@2.6.1
 - pkg:composer/sonata-project/form-extensions@2.7.0
+- pkg:composer/sonata-project/form-extensions@2.8.0
