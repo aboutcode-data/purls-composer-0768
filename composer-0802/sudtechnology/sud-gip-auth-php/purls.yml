@@ -1,1 +1,4 @@
 - pkg:composer/sudtechnology/sud-gip-auth-php@v1.0.0.1
+- pkg:composer/sudtechnology/sud-gip-auth-php@v2.0.0
+- pkg:composer/sudtechnology/sud-gip-auth-php@v2.1.0
+- pkg:composer/sudtechnology/sud-gip-auth-php@v2.2.0
