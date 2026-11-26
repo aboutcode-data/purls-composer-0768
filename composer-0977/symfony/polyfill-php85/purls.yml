@@ -8,3 +8,4 @@
 - pkg:composer/symfony/polyfill-php85@v1.38.1
 - pkg:composer/symfony/polyfill-php85@v1.41.0
 - pkg:composer/symfony/polyfill-php85@v1.43.0
+- pkg:composer/symfony/polyfill-php85@v1.44.0
