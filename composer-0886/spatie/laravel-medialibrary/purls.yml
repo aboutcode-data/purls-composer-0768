@@ -141,6 +141,8 @@
 - pkg:composer/spatie/laravel-medialibrary@11.23.10
 - pkg:composer/spatie/laravel-medialibrary@11.23.11
 - pkg:composer/spatie/laravel-medialibrary@11.23.12
+- pkg:composer/spatie/laravel-medialibrary@11.23.13
+- pkg:composer/spatie/laravel-medialibrary@11.23.14
 - pkg:composer/spatie/laravel-medialibrary@11.23.2
 - pkg:composer/spatie/laravel-medialibrary@11.23.3
 - pkg:composer/spatie/laravel-medialibrary@11.23.4
