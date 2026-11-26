@@ -47,3 +47,5 @@
 - pkg:composer/studioespresso/craft-easyaddressfield@5.0.3
 - pkg:composer/studioespresso/craft-easyaddressfield@5.1.0
 - pkg:composer/studioespresso/craft-easyaddressfield@6.0.0-alpha.1
+- pkg:composer/studioespresso/craft-easyaddressfield@6.0.0-beta.1
+- pkg:composer/studioespresso/craft-easyaddressfield@6.0.0-beta.2
