@@ -14,4 +14,8 @@
 - pkg:composer/standard-library/sdk@1.0.35
 - pkg:composer/standard-library/sdk@1.0.36
 - pkg:composer/standard-library/sdk@1.0.38
+- pkg:composer/standard-library/sdk@1.0.39
+- pkg:composer/standard-library/sdk@1.0.40
+- pkg:composer/standard-library/sdk@1.0.42
+- pkg:composer/standard-library/sdk@1.0.43
 - pkg:composer/standard-library/sdk@v1.0.20
