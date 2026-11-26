@@ -43,6 +43,7 @@
 - pkg:composer/svewap/ws-scss@13.1.5
 - pkg:composer/svewap/ws-scss@13.1.6
 - pkg:composer/svewap/ws-scss@13.1.7
+- pkg:composer/svewap/ws-scss@13.1.8
 - pkg:composer/svewap/ws-scss@14.0.0
 - pkg:composer/svewap/ws-scss@14.0.1
 - pkg:composer/svewap/ws-scss@14.0.2
@@ -53,3 +54,6 @@
 - pkg:composer/svewap/ws-scss@14.1.1
 - pkg:composer/svewap/ws-scss@14.1.2
 - pkg:composer/svewap/ws-scss@14.1.3
+- pkg:composer/svewap/ws-scss@14.1.4
+- pkg:composer/svewap/ws-scss@14.1.5
+- pkg:composer/svewap/ws-scss@14.1.6
