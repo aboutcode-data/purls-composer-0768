@@ -18,3 +18,4 @@
 - pkg:composer/spiral/temporal-bridge@3.2.1
 - pkg:composer/spiral/temporal-bridge@3.2.2
 - pkg:composer/spiral/temporal-bridge@3.3.0
+- pkg:composer/spiral/temporal-bridge@3.4.0

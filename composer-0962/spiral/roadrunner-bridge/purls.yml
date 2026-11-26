@@ -41,3 +41,4 @@
 - pkg:composer/spiral/roadrunner-bridge@v4.0.0-alpha
 - pkg:composer/spiral/roadrunner-bridge@v4.0.0-alpha2
 - pkg:composer/spiral/roadrunner-bridge@v4.1.0
+- pkg:composer/spiral/roadrunner-bridge@v5.0.0
