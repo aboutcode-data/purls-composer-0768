@@ -5,6 +5,7 @@
 - pkg:composer/signalhouse-sms/sdk@v1.14.0
 - pkg:composer/signalhouse-sms/sdk@v1.15.0
 - pkg:composer/signalhouse-sms/sdk@v1.16.0
+- pkg:composer/signalhouse-sms/sdk@v1.17.0
 - pkg:composer/signalhouse-sms/sdk@v1.5.1
 - pkg:composer/signalhouse-sms/sdk@v1.6.0
 - pkg:composer/signalhouse-sms/sdk@v1.7.0
