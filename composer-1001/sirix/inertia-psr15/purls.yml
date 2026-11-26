@@ -10,3 +10,5 @@
 - pkg:composer/sirix/inertia-psr15@2.1.0
 - pkg:composer/sirix/inertia-psr15@2.1.1
 - pkg:composer/sirix/inertia-psr15@3.0.0
+- pkg:composer/sirix/inertia-psr15@3.1.0
+- pkg:composer/sirix/inertia-psr15@3.1.1
