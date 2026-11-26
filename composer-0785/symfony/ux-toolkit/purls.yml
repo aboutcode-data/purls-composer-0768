@@ -4,6 +4,7 @@
 - pkg:composer/symfony/ux-toolkit@v2.35.0
 - pkg:composer/symfony/ux-toolkit@v2.36.0
 - pkg:composer/symfony/ux-toolkit@v2.36.1
+- pkg:composer/symfony/ux-toolkit@v2.36.3
 - pkg:composer/symfony/ux-toolkit@v3.0.0
 - pkg:composer/symfony/ux-toolkit@v3.1.0
 - pkg:composer/symfony/ux-toolkit@v3.2.0
@@ -14,3 +15,4 @@
 - pkg:composer/symfony/ux-toolkit@v3.6.0
 - pkg:composer/symfony/ux-toolkit@v3.7.0
 - pkg:composer/symfony/ux-toolkit@v3.7.1
+- pkg:composer/symfony/ux-toolkit@v3.8.0
