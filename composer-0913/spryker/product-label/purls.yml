@@ -33,6 +33,7 @@
 - pkg:composer/spryker/product-label@3.13.1
 - pkg:composer/spryker/product-label@3.13.2
 - pkg:composer/spryker/product-label@3.14.0
+- pkg:composer/spryker/product-label@3.14.1
 - pkg:composer/spryker/product-label@3.2.0
 - pkg:composer/spryker/product-label@3.3.0
 - pkg:composer/spryker/product-label@3.4.0
