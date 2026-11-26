@@ -26,8 +26,10 @@
 - pkg:composer/sofascore/purgatory-bundle@v1.6.0
 - pkg:composer/sofascore/purgatory-bundle@v1.6.1
 - pkg:composer/sofascore/purgatory-bundle@v1.6.2
+- pkg:composer/sofascore/purgatory-bundle@v1.7.0
 - pkg:composer/sofascore/purgatory-bundle@v2.0.0
 - pkg:composer/sofascore/purgatory-bundle@v2.0.1
 - pkg:composer/sofascore/purgatory-bundle@v2.0.2
 - pkg:composer/sofascore/purgatory-bundle@v2.0.3
 - pkg:composer/sofascore/purgatory-bundle@v2.1.0
+- pkg:composer/sofascore/purgatory-bundle@v2.2.0
