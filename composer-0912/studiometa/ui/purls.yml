@@ -89,6 +89,9 @@
 - pkg:composer/studiometa/ui@1.10.0-beta.6
 - pkg:composer/studiometa/ui@1.11.0
 - pkg:composer/studiometa/ui@1.11.1
+- pkg:composer/studiometa/ui@1.11.2
+- pkg:composer/studiometa/ui@1.11.3
+- pkg:composer/studiometa/ui@1.11.4
 - pkg:composer/studiometa/ui@1.2.0
 - pkg:composer/studiometa/ui@1.3.0
 - pkg:composer/studiometa/ui@1.4.0
@@ -108,3 +111,8 @@
 - pkg:composer/studiometa/ui@2.0.0-alpha.1
 - pkg:composer/studiometa/ui@2.0.0-alpha.2
 - pkg:composer/studiometa/ui@2.0.0-alpha.3
+- pkg:composer/studiometa/ui@2.0.0-alpha.4
+- pkg:composer/studiometa/ui@2.0.0-rc.0
+- pkg:composer/studiometa/ui@2.0.0-rc.1
+- pkg:composer/studiometa/ui@2.0.0-rc.2
+- pkg:composer/studiometa/ui@2.0.0-rc.3
