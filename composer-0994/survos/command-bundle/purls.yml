@@ -963,6 +963,7 @@
 - pkg:composer/survos/command-bundle@2.42.5
 - pkg:composer/survos/command-bundle@2.43.14
 - pkg:composer/survos/command-bundle@2.45.23
+- pkg:composer/survos/command-bundle@2.45.61
 - pkg:composer/survos/command-bundle@2.5.0
 - pkg:composer/survos/command-bundle@2.5.1
 - pkg:composer/survos/command-bundle@2.5.2

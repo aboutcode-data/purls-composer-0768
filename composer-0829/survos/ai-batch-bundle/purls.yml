@@ -104,6 +104,8 @@
 - pkg:composer/survos/ai-batch-bundle@2.42.14
 - pkg:composer/survos/ai-batch-bundle@2.43.14
 - pkg:composer/survos/ai-batch-bundle@2.44.0
+- pkg:composer/survos/ai-batch-bundle@2.45.66
+- pkg:composer/survos/ai-batch-bundle@2.45.71
 - pkg:composer/survos/ai-batch-bundle@2.5.0
 - pkg:composer/survos/ai-batch-bundle@2.5.1
 - pkg:composer/survos/ai-batch-bundle@2.5.2
