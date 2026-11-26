@@ -13,3 +13,4 @@
 - pkg:composer/supaapps/supaapps-guard@v0.6.0
 - pkg:composer/supaapps/supaapps-guard@v0.7.0
 - pkg:composer/supaapps/supaapps-guard@v1.0.0
+- pkg:composer/supaapps/supaapps-guard@v2.0.0
