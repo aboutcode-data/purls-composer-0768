@@ -66,3 +66,4 @@
 - pkg:composer/symfony/mailjet-notifier@v8.1.0-BETA1
 - pkg:composer/symfony/mailjet-notifier@v8.1.11
 - pkg:composer/symfony/mailjet-notifier@v8.2.0-BETA1
+- pkg:composer/symfony/mailjet-notifier@v8.2.0-RC1
