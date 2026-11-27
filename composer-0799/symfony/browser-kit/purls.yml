@@ -591,6 +591,7 @@
 - pkg:composer/symfony/browser-kit@v7.4.22
 - pkg:composer/symfony/browser-kit@v7.4.23
 - pkg:composer/symfony/browser-kit@v7.4.24
+- pkg:composer/symfony/browser-kit@v7.4.25
 - pkg:composer/symfony/browser-kit@v7.4.3
 - pkg:composer/symfony/browser-kit@v7.4.4
 - pkg:composer/symfony/browser-kit@v7.4.8
@@ -607,7 +608,9 @@
 - pkg:composer/symfony/browser-kit@v8.1.10
 - pkg:composer/symfony/browser-kit@v8.1.11
 - pkg:composer/symfony/browser-kit@v8.1.12
+- pkg:composer/symfony/browser-kit@v8.1.13
 - pkg:composer/symfony/browser-kit@v8.1.5
 - pkg:composer/symfony/browser-kit@v8.1.9
 - pkg:composer/symfony/browser-kit@v8.2.0-BETA1
 - pkg:composer/symfony/browser-kit@v8.2.0-BETA2
+- pkg:composer/symfony/browser-kit@v8.2.0-RC1
