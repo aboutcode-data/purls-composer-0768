@@ -630,3 +630,4 @@
 - pkg:composer/symfony/monolog-bridge@v8.1.5
 - pkg:composer/symfony/monolog-bridge@v8.1.6
 - pkg:composer/symfony/monolog-bridge@v8.2.0-BETA1
+- pkg:composer/symfony/monolog-bridge@v8.2.0-RC1
