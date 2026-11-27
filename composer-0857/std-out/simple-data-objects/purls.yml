@@ -33,3 +33,4 @@
 - pkg:composer/std-out/simple-data-objects@v2.6.0
 - pkg:composer/std-out/simple-data-objects@v2.7.0
 - pkg:composer/std-out/simple-data-objects@v2.8.0
+- pkg:composer/std-out/simple-data-objects@v2.8.1
