@@ -58,6 +58,9 @@
 - pkg:composer/thefrosty/wp-utilities@v3.12.1
 - pkg:composer/thefrosty/wp-utilities@v3.12.2
 - pkg:composer/thefrosty/wp-utilities@v3.12.3
+- pkg:composer/thefrosty/wp-utilities@v3.13.0
+- pkg:composer/thefrosty/wp-utilities@v3.13.1
+- pkg:composer/thefrosty/wp-utilities@v3.13.2
 - pkg:composer/thefrosty/wp-utilities@v3.2.0
 - pkg:composer/thefrosty/wp-utilities@v3.2.1
 - pkg:composer/thefrosty/wp-utilities@v3.2.2
@@ -94,3 +97,6 @@
 - pkg:composer/thefrosty/wp-utilities@v3.8.9.1
 - pkg:composer/thefrosty/wp-utilities@v3.9.0
 - pkg:composer/thefrosty/wp-utilities@v3.9.1
+- pkg:composer/thefrosty/wp-utilities@v4.0-RC1
+- pkg:composer/thefrosty/wp-utilities@v4.0.0
+- pkg:composer/thefrosty/wp-utilities@v4.1.0
