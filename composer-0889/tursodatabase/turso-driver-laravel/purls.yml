@@ -29,3 +29,4 @@
 - pkg:composer/tursodatabase/turso-driver-laravel@1.5.0
 - pkg:composer/tursodatabase/turso-driver-laravel@1.6.0
 - pkg:composer/tursodatabase/turso-driver-laravel@1.7.0
+- pkg:composer/tursodatabase/turso-driver-laravel@1.7.1
