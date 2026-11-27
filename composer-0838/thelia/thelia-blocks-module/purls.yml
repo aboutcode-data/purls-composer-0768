@@ -47,3 +47,5 @@
 - pkg:composer/thelia/thelia-blocks-module@3.3.0
 - pkg:composer/thelia/thelia-blocks-module@3.3.1
 - pkg:composer/thelia/thelia-blocks-module@3.3.2
+- pkg:composer/thelia/thelia-blocks-module@3.3.3
+- pkg:composer/thelia/thelia-blocks-module@3.3.4
