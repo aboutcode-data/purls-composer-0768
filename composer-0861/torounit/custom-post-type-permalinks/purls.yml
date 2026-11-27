@@ -36,3 +36,4 @@
 - pkg:composer/torounit/custom-post-type-permalinks@3.5.4
 - pkg:composer/torounit/custom-post-type-permalinks@3.5.5
 - pkg:composer/torounit/custom-post-type-permalinks@3.5.6
+- pkg:composer/torounit/custom-post-type-permalinks@3.6.0
