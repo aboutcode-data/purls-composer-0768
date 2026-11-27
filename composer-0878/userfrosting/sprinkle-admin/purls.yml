@@ -34,3 +34,4 @@
 - pkg:composer/userfrosting/sprinkle-admin@6.0.1
 - pkg:composer/userfrosting/sprinkle-admin@6.0.2
 - pkg:composer/userfrosting/sprinkle-admin@6.0.3
+- pkg:composer/userfrosting/sprinkle-admin@6.1.0-beta.1
