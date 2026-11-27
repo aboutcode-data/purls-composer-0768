@@ -57,6 +57,8 @@
 - pkg:composer/tdoescher/cokiban-bundle@3.6.6
 - pkg:composer/tdoescher/cokiban-bundle@3.7.0
 - pkg:composer/tdoescher/cokiban-bundle@3.7.1
+- pkg:composer/tdoescher/cokiban-bundle@3.7.10
+- pkg:composer/tdoescher/cokiban-bundle@3.7.11
 - pkg:composer/tdoescher/cokiban-bundle@3.7.2
 - pkg:composer/tdoescher/cokiban-bundle@3.7.3
 - pkg:composer/tdoescher/cokiban-bundle@3.7.4
@@ -64,3 +66,4 @@
 - pkg:composer/tdoescher/cokiban-bundle@3.7.6
 - pkg:composer/tdoescher/cokiban-bundle@3.7.7
 - pkg:composer/tdoescher/cokiban-bundle@3.7.8
+- pkg:composer/tdoescher/cokiban-bundle@3.7.9
