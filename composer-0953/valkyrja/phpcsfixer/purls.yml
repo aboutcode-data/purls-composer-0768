@@ -22,6 +22,7 @@
 - pkg:composer/valkyrja/phpcsfixer@v26.4.0
 - pkg:composer/valkyrja/phpcsfixer@v26.4.1
 - pkg:composer/valkyrja/phpcsfixer@v26.4.10
+- pkg:composer/valkyrja/phpcsfixer@v26.4.100
 - pkg:composer/valkyrja/phpcsfixer@v26.4.11
 - pkg:composer/valkyrja/phpcsfixer@v26.4.12
 - pkg:composer/valkyrja/phpcsfixer@v26.4.13
@@ -116,3 +117,6 @@
 - pkg:composer/valkyrja/phpcsfixer@v26.4.94
 - pkg:composer/valkyrja/phpcsfixer@v26.4.95
 - pkg:composer/valkyrja/phpcsfixer@v26.4.96
+- pkg:composer/valkyrja/phpcsfixer@v26.4.97
+- pkg:composer/valkyrja/phpcsfixer@v26.4.98
+- pkg:composer/valkyrja/phpcsfixer@v26.4.99
