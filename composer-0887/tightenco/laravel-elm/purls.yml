@@ -11,3 +11,4 @@
 - pkg:composer/tightenco/laravel-elm@v5.0.2
 - pkg:composer/tightenco/laravel-elm@v6.0.0
 - pkg:composer/tightenco/laravel-elm@v6.1.0
+- pkg:composer/tightenco/laravel-elm@v7.0.0
