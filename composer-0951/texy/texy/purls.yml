@@ -34,3 +34,5 @@
 - pkg:composer/texy/texy@v3.2.6
 - pkg:composer/texy/texy@v3.2.7
 - pkg:composer/texy/texy@v3.2.8
+- pkg:composer/texy/texy@v4.0.0
+- pkg:composer/texy/texy@v4.0.1
