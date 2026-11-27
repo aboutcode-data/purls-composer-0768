@@ -24,3 +24,4 @@
 - pkg:composer/tobento/app-http@2.0.2
 - pkg:composer/tobento/app-http@2.0.3
 - pkg:composer/tobento/app-http@2.0.4
+- pkg:composer/tobento/app-http@2.0.5
