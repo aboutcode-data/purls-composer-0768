@@ -23,3 +23,5 @@
 - pkg:composer/thelia/custom-delivery-module@4.0.5
 - pkg:composer/thelia/custom-delivery-module@4.1.0
 - pkg:composer/thelia/custom-delivery-module@4.2.0
+- pkg:composer/thelia/custom-delivery-module@4.2.1
+- pkg:composer/thelia/custom-delivery-module@4.2.2
