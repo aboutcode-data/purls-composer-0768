@@ -22,3 +22,4 @@
 - pkg:composer/symfony/sevenio-notifier@v8.1.10
 - pkg:composer/symfony/sevenio-notifier@v8.1.5
 - pkg:composer/symfony/sevenio-notifier@v8.2.0-BETA1
+- pkg:composer/symfony/sevenio-notifier@v8.2.0-RC1

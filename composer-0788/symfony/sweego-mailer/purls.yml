@@ -25,3 +25,4 @@
 - pkg:composer/symfony/sweego-mailer@v8.1.9
 - pkg:composer/symfony/sweego-mailer@v8.2.0-BETA1
 - pkg:composer/symfony/sweego-mailer@v8.2.0-BETA2
+- pkg:composer/symfony/sweego-mailer@v8.2.0-RC1
