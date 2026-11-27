@@ -102,7 +102,11 @@
 - pkg:composer/voku/anti-xss@4.1.44
 - pkg:composer/voku/anti-xss@4.1.45
 - pkg:composer/voku/anti-xss@4.1.46
+- pkg:composer/voku/anti-xss@4.1.47
+- pkg:composer/voku/anti-xss@4.1.48
+- pkg:composer/voku/anti-xss@4.1.49
 - pkg:composer/voku/anti-xss@4.1.5
+- pkg:composer/voku/anti-xss@4.1.50
 - pkg:composer/voku/anti-xss@4.1.6
 - pkg:composer/voku/anti-xss@4.1.7
 - pkg:composer/voku/anti-xss@4.1.8
