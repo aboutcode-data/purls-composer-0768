@@ -34,3 +34,5 @@
 - pkg:composer/tiomarilde/micro-framework@v3.7.0
 - pkg:composer/tiomarilde/micro-framework@v3.8.0
 - pkg:composer/tiomarilde/micro-framework@v3.9.0
+- pkg:composer/tiomarilde/micro-framework@v4.0.0-rc.1
+- pkg:composer/tiomarilde/micro-framework@v4.0.0-rc.2
