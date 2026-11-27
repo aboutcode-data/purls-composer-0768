@@ -52,6 +52,10 @@
 - pkg:composer/typephp/typephp@v0.13.1
 - pkg:composer/typephp/typephp@v0.13.2
 - pkg:composer/typephp/typephp@v0.13.3
+- pkg:composer/typephp/typephp@v0.14.0
+- pkg:composer/typephp/typephp@v0.14.1
+- pkg:composer/typephp/typephp@v0.14.2
+- pkg:composer/typephp/typephp@v0.14.3
 - pkg:composer/typephp/typephp@v0.2.0
 - pkg:composer/typephp/typephp@v0.2.1
 - pkg:composer/typephp/typephp@v0.2.2
