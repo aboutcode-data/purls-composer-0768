@@ -91,3 +91,4 @@
 - pkg:composer/therealworld/scheduler-module@v2.4.0
 - pkg:composer/therealworld/scheduler-module@v2.5.0
 - pkg:composer/therealworld/scheduler-module@v2.6.0
+- pkg:composer/therealworld/scheduler-module@v2.6.1
