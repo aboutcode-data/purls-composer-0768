@@ -1,1 +1,6 @@
 - pkg:composer/tilttek/dice-bundle@0.1.0-alpha
+- pkg:composer/tilttek/dice-bundle@0.2.0-alpha
+- pkg:composer/tilttek/dice-bundle@0.2.1-alpha
+- pkg:composer/tilttek/dice-bundle@0.2.2-alpha
+- pkg:composer/tilttek/dice-bundle@0.2.3-alpha
+- pkg:composer/tilttek/dice-bundle@0.2.4-alpha
