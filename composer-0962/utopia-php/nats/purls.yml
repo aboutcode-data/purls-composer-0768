@@ -7,3 +7,4 @@
 - pkg:composer/utopia-php/nats@1.4.0
 - pkg:composer/utopia-php/nats@1.5.0
 - pkg:composer/utopia-php/nats@1.6.0
+- pkg:composer/utopia-php/nats@1.7.0
