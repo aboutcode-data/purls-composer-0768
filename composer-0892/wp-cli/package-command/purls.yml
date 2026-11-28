@@ -50,3 +50,4 @@
 - pkg:composer/wp-cli/package-command@v3.0.0
 - pkg:composer/wp-cli/package-command@v3.0.1
 - pkg:composer/wp-cli/package-command@v3.0.2
+- pkg:composer/wp-cli/package-command@v3.1.0
