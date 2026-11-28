@@ -14,7 +14,10 @@
 - pkg:composer/waynestate/booster@1.16.0
 - pkg:composer/waynestate/booster@1.17.0
 - pkg:composer/waynestate/booster@1.18.0
+- pkg:composer/waynestate/booster@1.19.0
 - pkg:composer/waynestate/booster@1.2.0
+- pkg:composer/waynestate/booster@1.21.0
+- pkg:composer/waynestate/booster@1.22.0
 - pkg:composer/waynestate/booster@1.3.0
 - pkg:composer/waynestate/booster@1.4.0
 - pkg:composer/waynestate/booster@1.5.0
@@ -25,3 +28,4 @@
 - pkg:composer/waynestate/booster@1.8.2
 - pkg:composer/waynestate/booster@1.8.3
 - pkg:composer/waynestate/booster@1.9.0
+- pkg:composer/waynestate/booster@v1.20.0
