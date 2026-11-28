@@ -14,4 +14,8 @@
 - pkg:composer/wmd/section-and-product-type@2.2.1
 - pkg:composer/wmd/section-and-product-type@2.2.2
 - pkg:composer/wmd/section-and-product-type@2.3.0
+- pkg:composer/wmd/section-and-product-type@2.3.1
 - pkg:composer/wmd/section-and-product-type@3.0.0-beta.1
+- pkg:composer/wmd/section-and-product-type@3.0.0-beta.2
+- pkg:composer/wmd/section-and-product-type@3.0.0-beta.3
+- pkg:composer/wmd/section-and-product-type@3.0.0-beta.4
