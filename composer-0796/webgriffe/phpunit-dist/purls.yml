@@ -1,6 +1,10 @@
 - pkg:composer/webgriffe/phpunit-dist@12.5.40
 - pkg:composer/webgriffe/phpunit-dist@12.5.42
 - pkg:composer/webgriffe/phpunit-dist@12.5.43
+- pkg:composer/webgriffe/phpunit-dist@12.5.44
+- pkg:composer/webgriffe/phpunit-dist@12.5.45
 - pkg:composer/webgriffe/phpunit-dist@13.4.3
 - pkg:composer/webgriffe/phpunit-dist@13.4.5
 - pkg:composer/webgriffe/phpunit-dist@13.4.6
+- pkg:composer/webgriffe/phpunit-dist@13.4.7
+- pkg:composer/webgriffe/phpunit-dist@13.4.8
