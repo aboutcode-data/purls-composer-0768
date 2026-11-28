@@ -18,3 +18,4 @@
 - pkg:composer/webman-tech/laravel-console@v12.0.7
 - pkg:composer/webman-tech/laravel-console@v12.0.8
 - pkg:composer/webman-tech/laravel-console@v12.0.9
+- pkg:composer/webman-tech/laravel-console@v13.0.0

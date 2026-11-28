@@ -13,3 +13,4 @@
 - pkg:composer/webman-tech/laravel-http@v12.0.7
 - pkg:composer/webman-tech/laravel-http@v12.0.8
 - pkg:composer/webman-tech/laravel-http@v12.0.9
+- pkg:composer/webman-tech/laravel-http@v13.0.0
