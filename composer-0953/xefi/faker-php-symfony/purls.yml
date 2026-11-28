@@ -1,1 +1,3 @@
 - pkg:composer/xefi/faker-php-symfony@1.0.0
+- pkg:composer/xefi/faker-php-symfony@v1.0.4
+- pkg:composer/xefi/faker-php-symfony@v1.0.5
