@@ -17,3 +17,4 @@
 - pkg:composer/wafto/laravel-sepomex@v3.0.0
 - pkg:composer/wafto/laravel-sepomex@v4.0.0
 - pkg:composer/wafto/laravel-sepomex@v4.1.0
+- pkg:composer/wafto/laravel-sepomex@v5.0.0
