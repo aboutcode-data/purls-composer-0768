@@ -109,3 +109,5 @@
 - pkg:composer/vinou/site-builder@4.5.0
 - pkg:composer/vinou/site-builder@4.6.0
 - pkg:composer/vinou/site-builder@4.6.1
+- pkg:composer/vinou/site-builder@4.7.0
+- pkg:composer/vinou/site-builder@4.7.1
