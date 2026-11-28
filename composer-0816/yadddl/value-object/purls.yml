@@ -1,3 +1,5 @@
+- pkg:composer/yadddl/value-object@2.2.0
+- pkg:composer/yadddl/value-object@2.2.1
 - pkg:composer/yadddl/value-object@v0.5.0
 - pkg:composer/yadddl/value-object@v0.5.1
 - pkg:composer/yadddl/value-object@v0.5.2
@@ -12,3 +14,4 @@
 - pkg:composer/yadddl/value-object@v1.1.2
 - pkg:composer/yadddl/value-object@v2.0.0
 - pkg:composer/yadddl/value-object@v2.0.1
+- pkg:composer/yadddl/value-object@v2.1.0
