@@ -14,3 +14,4 @@
 - pkg:composer/wrkflow/php-api-sdk-builder@v0.2.0-rc7
 - pkg:composer/wrkflow/php-api-sdk-builder@v0.2.0-rc8
 - pkg:composer/wrkflow/php-api-sdk-builder@v0.2.0-rc9
+- pkg:composer/wrkflow/php-api-sdk-builder@v0.2.1
