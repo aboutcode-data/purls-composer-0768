@@ -4,3 +4,4 @@
 - pkg:composer/yokai/dependency-injection@v1.3
 - pkg:composer/yokai/dependency-injection@v1.4
 - pkg:composer/yokai/dependency-injection@v1.5
+- pkg:composer/yokai/dependency-injection@v1.6

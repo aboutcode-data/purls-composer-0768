@@ -19,3 +19,6 @@
 - pkg:composer/yokai/security-token-bundle@v3.3.0
 - pkg:composer/yokai/security-token-bundle@v3.4.0
 - pkg:composer/yokai/security-token-bundle@v3.5.0
+- pkg:composer/yokai/security-token-bundle@v3.5.1
+- pkg:composer/yokai/security-token-bundle@v4.0.0
+- pkg:composer/yokai/security-token-bundle@v4.0.0-beta1
