@@ -12,3 +12,4 @@
 - pkg:composer/yiisoft/i18n-translator@3.1.0
 - pkg:composer/yiisoft/i18n-translator@3.2.0
 - pkg:composer/yiisoft/i18n-translator@3.2.1
+- pkg:composer/yiisoft/i18n-translator@3.2.2
