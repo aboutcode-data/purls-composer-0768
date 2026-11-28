@@ -6,3 +6,4 @@
 - pkg:composer/yiisoft/proxy@1.0.5
 - pkg:composer/yiisoft/proxy@1.1.0
 - pkg:composer/yiisoft/proxy@1.2.0
+- pkg:composer/yiisoft/proxy@1.2.1
