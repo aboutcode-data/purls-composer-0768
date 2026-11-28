@@ -67,3 +67,5 @@
 - pkg:composer/xoops/xmf@v1.3.4-Beta1
 - pkg:composer/xoops/xmf@v1.3.4-RC1
 - pkg:composer/xoops/xmf@v1.3.4-RC2
+- pkg:composer/xoops/xmf@v1.3.4-RC3
+- pkg:composer/xoops/xmf@v1.3.4-RC4
