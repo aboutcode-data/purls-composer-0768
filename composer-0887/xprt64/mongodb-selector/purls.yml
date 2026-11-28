@@ -34,3 +34,4 @@
 - pkg:composer/xprt64/mongodb-selector@2.1.0
 - pkg:composer/xprt64/mongodb-selector@2.1.1
 - pkg:composer/xprt64/mongodb-selector@2.1.2
+- pkg:composer/xprt64/mongodb-selector@2.1.3
