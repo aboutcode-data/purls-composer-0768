@@ -9,8 +9,14 @@
 - pkg:composer/wielorzeczownik/pepito-client@v3.2.1
 - pkg:composer/wielorzeczownik/pepito-client@v3.2.10
 - pkg:composer/wielorzeczownik/pepito-client@v3.2.11
+- pkg:composer/wielorzeczownik/pepito-client@v3.2.12
 - pkg:composer/wielorzeczownik/pepito-client@v3.2.12-rc.1
 - pkg:composer/wielorzeczownik/pepito-client@v3.2.12-rc.2
+- pkg:composer/wielorzeczownik/pepito-client@v3.2.13
+- pkg:composer/wielorzeczownik/pepito-client@v3.2.13-rc.1
+- pkg:composer/wielorzeczownik/pepito-client@v3.2.13-rc.2
+- pkg:composer/wielorzeczownik/pepito-client@v3.2.14
+- pkg:composer/wielorzeczownik/pepito-client@v3.2.14-rc.1
 - pkg:composer/wielorzeczownik/pepito-client@v3.2.2
 - pkg:composer/wielorzeczownik/pepito-client@v3.2.3
 - pkg:composer/wielorzeczownik/pepito-client@v3.2.4
