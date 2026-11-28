@@ -12,3 +12,7 @@
 - pkg:composer/wep/framework@1.0.7
 - pkg:composer/wep/framework@1.0.8
 - pkg:composer/wep/framework@1.0.9
+- pkg:composer/wep/framework@2.0.0
+- pkg:composer/wep/framework@2.0.1
+- pkg:composer/wep/framework@2.1.0
+- pkg:composer/wep/framework@2.1.1
