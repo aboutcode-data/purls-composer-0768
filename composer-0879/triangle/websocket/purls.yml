@@ -11,3 +11,4 @@
 - pkg:composer/triangle/websocket@v1.0.9
 - pkg:composer/triangle/websocket@v1.1.0
 - pkg:composer/triangle/websocket@v1.1.1
+- pkg:composer/triangle/websocket@v2.0.0
