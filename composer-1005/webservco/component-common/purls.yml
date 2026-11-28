@@ -9,3 +9,5 @@
 - pkg:composer/webservco/component-common@v1.0.0
 - pkg:composer/webservco/component-common@v2.0.1
 - pkg:composer/webservco/component-common@v2.3.0
+- pkg:composer/webservco/component-common@v2.4.0
+- pkg:composer/webservco/component-common@v2.5.0
